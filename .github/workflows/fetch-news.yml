@@ -1,0 +1,39 @@
+name: Fetch News and Update JSON
+
+on:
+  schedule:
+    - cron: '0 * * * *' # every hour at minute 0
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Run fetch script
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: |
+          node scripts/fetch-news.js
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/news.json || true
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update news.json (scheduled)" || true
+            git push
+          else
+            echo "No changes to commit"
+          fi
