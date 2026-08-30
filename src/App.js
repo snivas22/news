@@ -41,29 +41,53 @@ function App(){
   const articles = (news[key] && news[key].articles) || [];
 
   return (
-    <div className="App" style={{padding:20}}>
-      <h1>News App</h1>
-      <div style={{display:'flex',gap:12,alignItems:'center',marginBottom:12}}>
-        <label>
-          Category:&nbsp;
-          <select value={category} onChange={e=>setCategory(e.target.value)}>
-            {CATEGORIES.map(c=> <option key={c} value={c}>{c}</option>)}
-          </select>
-        </label>
+    <div className="App">
+      <div className="app-shell">
+        <header className="topbar">
+          <div>
+            <p className="eyebrow">Live desk</p>
+            <h1>Global Briefing</h1>
+          </div>
+          <button className="refresh-button" onClick={loadNews}>
+            {loading ? 'Refreshing...' : 'Refresh feed'}
+          </button>
+        </header>
 
-        <label>
-          Zone:&nbsp;
-          <select value={zone} onChange={e=>setZone(e.target.value)}>
-            {ZONES.map(z=> <option key={z.code} value={z.code}>{z.name}</option>)}
-          </select>
-        </label>
+        <div className="toolbar">
+          <label className="field">
+            <span>Category</span>
+            <select value={category} onChange={e=>setCategory(e.target.value)}>
+              {CATEGORIES.map(c=> <option key={c} value={c}>{c}</option>)}
+            </select>
+          </label>
 
-        <button onClick={loadNews}>Refresh</button>
+          <label className="field">
+            <span>Region</span>
+            <select value={zone} onChange={e=>setZone(e.target.value)}>
+              {ZONES.map(z=> <option key={z.code} value={z.code}>{z.name}</option>)}
+            </select>
+          </label>
+        </div>
+
+        <div className="stats-row">
+          <div className="stat-pill">
+            <span>Stories</span>
+            <strong>{articles.length}</strong>
+          </div>
+          <div className="stat-pill">
+            <span>Category</span>
+            <strong>{category}</strong>
+          </div>
+          <div className="stat-pill">
+            <span>Region</span>
+            <strong>{zone}</strong>
+          </div>
+        </div>
+
+        {loading ? <div className="loading-state">Loading latest updates…</div> : (
+          <NewsList articles={articles} category={category} zone={zone} />
+        )}
       </div>
-
-      {loading ? <div>Loading news…</div> : (
-        <NewsList articles={articles} category={category} zone={zone} />
-      )}
     </div>
   );
 }

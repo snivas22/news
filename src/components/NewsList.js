@@ -1,22 +1,53 @@
 import React from 'react';
 
+function formatDate(value) {
+  if (!value) return 'Just now';
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return 'Just now';
+  return date.toLocaleString([], { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' });
+}
+
 export default function NewsList({ articles, category, zone }){
-  if(!articles || articles.length === 0) return (
-    <div>No articles for {category} / {zone}.</div>
-  );
+  if (!articles || articles.length === 0) {
+    return (
+      <div className="empty-state-card">
+        <h2>No coverage for {category} in {zone}</h2>
+        <p>Try another region or refresh the live feed.</p>
+      </div>
+    );
+  }
 
   return (
-    <div>
-      <h2>{category} — {zone}</h2>
-      <ul style={{paddingLeft:0}}>
+    <section className="news-panel">
+      <div className="panel-header">
+        <div>
+          <p className="eyebrow">Updated feed</p>
+          <h2>{category} • {zone}</h2>
+        </div>
+        <span className="live-indicator">Live</span>
+      </div>
+
+      <div className="article-list">
         {articles.map((a, idx) => (
-          <li key={idx} style={{listStyle:'none',marginBottom:16,padding:12,border:'1px solid #ddd',borderRadius:6}}>
-            <a href={a.url} target="_blank" rel="noreferrer" style={{fontSize:16,fontWeight:600}}>{a.title}</a>
-            <div style={{fontSize:12,color:'#666'}}>{a.source && a.source.name} • {a.publishedAt && new Date(a.publishedAt).toLocaleString()}</div>
-            {a.description && <p style={{marginTop:8}}>{a.description}</p>}
-          </li>
+          <article key={`${a.url}-${idx}`} className="article-card">
+            <div className="article-topline">
+              <span className="source-badge">{a.source && a.source.name ? a.source.name : 'RSS'}</span>
+              <time>{formatDate(a.publishedAt)}</time>
+            </div>
+
+            <a href={a.url} target="_blank" rel="noreferrer" className="article-title">
+              {a.title}
+            </a>
+
+            {a.description && <p className="article-summary">{a.description}</p>}
+
+            <div className="article-footer">
+              <span>{category}</span>
+              <a href={a.url} target="_blank" rel="noreferrer">Read story →</a>
+            </div>
+          </article>
         ))}
-      </ul>
-    </div>
+      </div>
+    </section>
   );
 }
