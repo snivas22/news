@@ -20,7 +20,8 @@ function App(){
   async function loadNews(){
     setLoading(true);
     try{
-      const res = await fetch(`/news.json?ts=${Date.now()}`, { cache: 'no-store' });
+      const dataUrl = `${process.env.PUBLIC_URL || ''}/news.json?ts=${Date.now()}`;
+      const res = await fetch(dataUrl, { cache: 'no-store' });
       const json = await res.json();
       setNews(json || {});
     }catch(e){
@@ -33,7 +34,7 @@ function App(){
 
   useEffect(()=>{
     loadNews();
-    const id = setInterval(loadNews, 1000 * 60 * 60);
+    const id = setInterval(() => loadNews(), 1000 * 60 * 60);
     return ()=> clearInterval(id);
   },[]);
 

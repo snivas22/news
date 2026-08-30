@@ -1,15 +1,15 @@
-name: Fetch News and Update JSON
+name: Fetch News and Publish Pages
 
 on:
   schedule:
-    - cron: '0 * * * *' # every hour at minute 0
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  fetch:
+  fetch-and-publish:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -18,22 +18,21 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
+          cache: 'npm'
 
-      - name: Run fetch script
-        env:
-          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
-        run: |
-          node scripts/fetch-news.js
+      - name: Install dependencies
+        run: npm ci
 
-      - name: Commit changes if any
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/news.json || true
-          if ! git diff --staged --quiet; then
-            git commit -m "chore: update news.json (scheduled)" || true
-            git push
-          else
-            echo "No changes to commit"
-          fi
+      - name: Generate fresh news data
+        run: npm run fetch
+
+      - name: Build production app
+        run: npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
+          keep_files: true

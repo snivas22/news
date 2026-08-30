@@ -13,7 +13,7 @@
     "rss-parser": "^3.13.0",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://snivas22.github.io/news",
+  "homepage": "https://snivas22.github.io/mynewsapp/",
   "scripts": {
     "fetch": "node scripts/fetch-news.js",
     "start": "npm run fetch && react-scripts start",
