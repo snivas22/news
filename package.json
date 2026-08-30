@@ -10,12 +10,14 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-scripts": "5.0.1",
+    "rss-parser": "^3.13.0",
     "web-vitals": "^2.1.4"
   },
   "homepage": "https://snivas22.github.io/news",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "fetch": "node scripts/fetch-news.js",
+    "start": "npm run fetch && react-scripts start",
+    "build": "npm run fetch && react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",

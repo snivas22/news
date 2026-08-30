@@ -20,7 +20,7 @@ function App(){
   async function loadNews(){
     setLoading(true);
     try{
-      const res = await fetch('/news.json', {cache: 'no-store'});
+      const res = await fetch(`/news.json?ts=${Date.now()}`, { cache: 'no-store' });
       const json = await res.json();
       setNews(json || {});
     }catch(e){
@@ -33,7 +33,6 @@ function App(){
 
   useEffect(()=>{
     loadNews();
-    // refresh every hour
     const id = setInterval(loadNews, 1000 * 60 * 60);
     return ()=> clearInterval(id);
   },[]);
