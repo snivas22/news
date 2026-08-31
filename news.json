@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T22:28:34.623Z",
+  "generatedAt": "2026-08-31T01:09:15.073Z",
   "general_us": {
     "articles": [
       {
@@ -10,6 +10,17 @@
         },
         "description": "PM Andy Burnham on Sunday announced changes to the next early release scheme - scheduled to start in October - which mean PC Harper's killers will stay in jail.",
         "publishedAt": "2026-08-30T18:33:36.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Patel to be replaced by Tugendhat as shadow foreign secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team following high-profile departures.",
+        "publishedAt": "2026-08-31T00:26:50.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -31,18 +42,29 @@
           "name": "RSS Feed"
         },
         "description": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
-        "publishedAt": "2026-08-30T21:15:42.000Z",
+        "publishedAt": "2026-08-30T23:53:03.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Sons of officer who died in A66 crash lead out Man Utd as mascots",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
+        "title": "UK raises case of British activist detained by settlers in West Bank with Israel",
+        "url": "https://www.bbc.co.uk/news/articles/c3d7xgge7vgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich.",
-        "publishedAt": "2026-08-30T16:30:05.000Z",
+        "description": "Finn Joughin, a 22-year-old student activist, was arrested in the Palestinian village of Umm Al-Kheir.",
+        "publishedAt": "2026-08-30T23:02:43.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "The mystery of why so many black Britons still can't swim",
+        "url": "https://www.bbc.co.uk/news/articles/cx27vxkpdz1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "For decades, swimming ability has been lower in the black community. Our writer asks why.",
+        "publishedAt": "2026-08-31T00:31:22.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -58,35 +80,13 @@
         "zone": "us"
       },
       {
-        "title": "British woman killed in stabbing at German railway station",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+        "title": "Sons of officer who died in A66 crash lead out Man Utd as mascots",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
-        "publishedAt": "2026-08-30T16:11:46.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Church names pastor killed by falling sign at Christian festival",
-        "url": "https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Robert Guanco, 41, was a pastor at Jesus the Living Water Church in Eastbourne, East Sussex.",
-        "publishedAt": "2026-08-30T11:46:07.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Police release one of two men arrested over fatal house fire",
-        "url": "https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Police continue to question a 23-year-old man over the fire in which a girl, 7, and her aunt died.",
-        "publishedAt": "2026-08-30T14:34:20.000Z",
+        "description": "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich.",
+        "publishedAt": "2026-08-30T16:30:05.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -106,6 +106,17 @@
         "zone": "gb"
       },
       {
+        "title": "Patel to be replaced by Tugendhat as shadow foreign secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team following high-profile departures.",
+        "publishedAt": "2026-08-31T00:26:50.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
         "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -123,18 +134,29 @@
           "name": "RSS Feed"
         },
         "description": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
-        "publishedAt": "2026-08-30T21:15:42.000Z",
+        "publishedAt": "2026-08-30T23:53:03.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Sons of officer who died in A66 crash lead out Man Utd as mascots",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
+        "title": "UK raises case of British activist detained by settlers in West Bank with Israel",
+        "url": "https://www.bbc.co.uk/news/articles/c3d7xgge7vgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich.",
-        "publishedAt": "2026-08-30T16:30:05.000Z",
+        "description": "Finn Joughin, a 22-year-old student activist, was arrested in the Palestinian village of Umm Al-Kheir.",
+        "publishedAt": "2026-08-30T23:02:43.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "The mystery of why so many black Britons still can't swim",
+        "url": "https://www.bbc.co.uk/news/articles/cx27vxkpdz1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "For decades, swimming ability has been lower in the black community. Our writer asks why.",
+        "publishedAt": "2026-08-31T00:31:22.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -150,35 +172,13 @@
         "zone": "gb"
       },
       {
-        "title": "British woman killed in stabbing at German railway station",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+        "title": "Sons of officer who died in A66 crash lead out Man Utd as mascots",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
-        "publishedAt": "2026-08-30T16:11:46.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Church names pastor killed by falling sign at Christian festival",
-        "url": "https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Robert Guanco, 41, was a pastor at Jesus the Living Water Church in Eastbourne, East Sussex.",
-        "publishedAt": "2026-08-30T11:46:07.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Police release one of two men arrested over fatal house fire",
-        "url": "https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Police continue to question a 23-year-old man over the fire in which a girl, 7, and her aunt died.",
-        "publishedAt": "2026-08-30T14:34:20.000Z",
+        "description": "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich.",
+        "publishedAt": "2026-08-30T16:30:05.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -198,6 +198,17 @@
         "zone": "in"
       },
       {
+        "title": "Patel to be replaced by Tugendhat as shadow foreign secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team following high-profile departures.",
+        "publishedAt": "2026-08-31T00:26:50.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
         "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -215,18 +226,29 @@
           "name": "RSS Feed"
         },
         "description": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
-        "publishedAt": "2026-08-30T21:15:42.000Z",
+        "publishedAt": "2026-08-30T23:53:03.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Sons of officer who died in A66 crash lead out Man Utd as mascots",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
+        "title": "UK raises case of British activist detained by settlers in West Bank with Israel",
+        "url": "https://www.bbc.co.uk/news/articles/c3d7xgge7vgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich.",
-        "publishedAt": "2026-08-30T16:30:05.000Z",
+        "description": "Finn Joughin, a 22-year-old student activist, was arrested in the Palestinian village of Umm Al-Kheir.",
+        "publishedAt": "2026-08-30T23:02:43.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "The mystery of why so many black Britons still can't swim",
+        "url": "https://www.bbc.co.uk/news/articles/cx27vxkpdz1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "For decades, swimming ability has been lower in the black community. Our writer asks why.",
+        "publishedAt": "2026-08-31T00:31:22.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -242,35 +264,13 @@
         "zone": "in"
       },
       {
-        "title": "British woman killed in stabbing at German railway station",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+        "title": "Sons of officer who died in A66 crash lead out Man Utd as mascots",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
-        "publishedAt": "2026-08-30T16:11:46.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Church names pastor killed by falling sign at Christian festival",
-        "url": "https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Robert Guanco, 41, was a pastor at Jesus the Living Water Church in Eastbourne, East Sussex.",
-        "publishedAt": "2026-08-30T11:46:07.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Police release one of two men arrested over fatal house fire",
-        "url": "https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Police continue to question a 23-year-old man over the fire in which a girl, 7, and her aunt died.",
-        "publishedAt": "2026-08-30T14:34:20.000Z",
+        "description": "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich.",
+        "publishedAt": "2026-08-30T16:30:05.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -290,6 +290,17 @@
         "zone": "au"
       },
       {
+        "title": "Patel to be replaced by Tugendhat as shadow foreign secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team following high-profile departures.",
+        "publishedAt": "2026-08-31T00:26:50.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
         "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -307,18 +318,29 @@
           "name": "RSS Feed"
         },
         "description": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
-        "publishedAt": "2026-08-30T21:15:42.000Z",
+        "publishedAt": "2026-08-30T23:53:03.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Sons of officer who died in A66 crash lead out Man Utd as mascots",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
+        "title": "UK raises case of British activist detained by settlers in West Bank with Israel",
+        "url": "https://www.bbc.co.uk/news/articles/c3d7xgge7vgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich.",
-        "publishedAt": "2026-08-30T16:30:05.000Z",
+        "description": "Finn Joughin, a 22-year-old student activist, was arrested in the Palestinian village of Umm Al-Kheir.",
+        "publishedAt": "2026-08-30T23:02:43.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "The mystery of why so many black Britons still can't swim",
+        "url": "https://www.bbc.co.uk/news/articles/cx27vxkpdz1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "For decades, swimming ability has been lower in the black community. Our writer asks why.",
+        "publishedAt": "2026-08-31T00:31:22.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -334,35 +356,13 @@
         "zone": "au"
       },
       {
-        "title": "British woman killed in stabbing at German railway station",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+        "title": "Sons of officer who died in A66 crash lead out Man Utd as mascots",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
-        "publishedAt": "2026-08-30T16:11:46.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Church names pastor killed by falling sign at Christian festival",
-        "url": "https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Robert Guanco, 41, was a pastor at Jesus the Living Water Church in Eastbourne, East Sussex.",
-        "publishedAt": "2026-08-30T11:46:07.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Police release one of two men arrested over fatal house fire",
-        "url": "https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Police continue to question a 23-year-old man over the fire in which a girl, 7, and her aunt died.",
-        "publishedAt": "2026-08-30T14:34:20.000Z",
+        "description": "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich.",
+        "publishedAt": "2026-08-30T16:30:05.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -382,6 +382,17 @@
         "zone": "ca"
       },
       {
+        "title": "Patel to be replaced by Tugendhat as shadow foreign secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team following high-profile departures.",
+        "publishedAt": "2026-08-31T00:26:50.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
         "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -399,18 +410,29 @@
           "name": "RSS Feed"
         },
         "description": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
-        "publishedAt": "2026-08-30T21:15:42.000Z",
+        "publishedAt": "2026-08-30T23:53:03.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Sons of officer who died in A66 crash lead out Man Utd as mascots",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
+        "title": "UK raises case of British activist detained by settlers in West Bank with Israel",
+        "url": "https://www.bbc.co.uk/news/articles/c3d7xgge7vgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich.",
-        "publishedAt": "2026-08-30T16:30:05.000Z",
+        "description": "Finn Joughin, a 22-year-old student activist, was arrested in the Palestinian village of Umm Al-Kheir.",
+        "publishedAt": "2026-08-30T23:02:43.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "The mystery of why so many black Britons still can't swim",
+        "url": "https://www.bbc.co.uk/news/articles/cx27vxkpdz1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "For decades, swimming ability has been lower in the black community. Our writer asks why.",
+        "publishedAt": "2026-08-31T00:31:22.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -426,35 +448,13 @@
         "zone": "ca"
       },
       {
-        "title": "British woman killed in stabbing at German railway station",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+        "title": "Sons of officer who died in A66 crash lead out Man Utd as mascots",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
-        "publishedAt": "2026-08-30T16:11:46.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Church names pastor killed by falling sign at Christian festival",
-        "url": "https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Robert Guanco, 41, was a pastor at Jesus the Living Water Church in Eastbourne, East Sussex.",
-        "publishedAt": "2026-08-30T11:46:07.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Police release one of two men arrested over fatal house fire",
-        "url": "https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Police continue to question a 23-year-old man over the fire in which a girl, 7, and her aunt died.",
-        "publishedAt": "2026-08-30T14:34:20.000Z",
+        "description": "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich.",
+        "publishedAt": "2026-08-30T16:30:05.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -463,6 +463,28 @@
   "business_us": {
     "articles": [
       {
+        "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+        "url": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
+        "publishedAt": "2026-08-30T23:22:24.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "How the US-Canada trade war is being felt on both sides of the border",
+        "url": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US-Canada trade war is being felt on both sides of the border.",
+        "publishedAt": "2026-08-31T00:05:22.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
         "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -518,17 +540,6 @@
         "zone": "us"
       },
       {
-        "title": "Overcooked? Why robotic pizza makers are failing",
-        "url": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
-        "publishedAt": "2026-08-27T23:16:02.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
         "title": "Selena Gomez pushes back against 'frivolous' fraud claims",
         "url": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -536,17 +547,6 @@
         },
         "description": "Selena Gomez's lawyer says the fraud case is \"absurd\" - but it is far from unusual for celebrity family business relationships to go wrong.",
         "publishedAt": "2026-08-28T05:53:05.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Military veterans told they owe thousands of pounds over clerical error",
-        "url": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Hundreds of former UK service personnel have had their pensions cut after being overpaid.",
-        "publishedAt": "2026-08-27T23:06:22.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,6 +555,28 @@
   "business_gb": {
     "articles": [
       {
+        "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+        "url": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
+        "publishedAt": "2026-08-30T23:22:24.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "How the US-Canada trade war is being felt on both sides of the border",
+        "url": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US-Canada trade war is being felt on both sides of the border.",
+        "publishedAt": "2026-08-31T00:05:22.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
         "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -610,17 +632,6 @@
         "zone": "gb"
       },
       {
-        "title": "Overcooked? Why robotic pizza makers are failing",
-        "url": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
-        "publishedAt": "2026-08-27T23:16:02.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
         "title": "Selena Gomez pushes back against 'frivolous' fraud claims",
         "url": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -628,17 +639,6 @@
         },
         "description": "Selena Gomez's lawyer says the fraud case is \"absurd\" - but it is far from unusual for celebrity family business relationships to go wrong.",
         "publishedAt": "2026-08-28T05:53:05.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Military veterans told they owe thousands of pounds over clerical error",
-        "url": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Hundreds of former UK service personnel have had their pensions cut after being overpaid.",
-        "publishedAt": "2026-08-27T23:06:22.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,6 +647,28 @@
   "business_in": {
     "articles": [
       {
+        "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+        "url": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
+        "publishedAt": "2026-08-30T23:22:24.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "How the US-Canada trade war is being felt on both sides of the border",
+        "url": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US-Canada trade war is being felt on both sides of the border.",
+        "publishedAt": "2026-08-31T00:05:22.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
         "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -702,17 +724,6 @@
         "zone": "in"
       },
       {
-        "title": "Overcooked? Why robotic pizza makers are failing",
-        "url": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
-        "publishedAt": "2026-08-27T23:16:02.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
         "title": "Selena Gomez pushes back against 'frivolous' fraud claims",
         "url": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -720,17 +731,6 @@
         },
         "description": "Selena Gomez's lawyer says the fraud case is \"absurd\" - but it is far from unusual for celebrity family business relationships to go wrong.",
         "publishedAt": "2026-08-28T05:53:05.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Military veterans told they owe thousands of pounds over clerical error",
-        "url": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Hundreds of former UK service personnel have had their pensions cut after being overpaid.",
-        "publishedAt": "2026-08-27T23:06:22.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,6 +739,28 @@
   "business_au": {
     "articles": [
       {
+        "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+        "url": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
+        "publishedAt": "2026-08-30T23:22:24.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "How the US-Canada trade war is being felt on both sides of the border",
+        "url": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US-Canada trade war is being felt on both sides of the border.",
+        "publishedAt": "2026-08-31T00:05:22.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
         "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -794,17 +816,6 @@
         "zone": "au"
       },
       {
-        "title": "Overcooked? Why robotic pizza makers are failing",
-        "url": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
-        "publishedAt": "2026-08-27T23:16:02.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
         "title": "Selena Gomez pushes back against 'frivolous' fraud claims",
         "url": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -812,17 +823,6 @@
         },
         "description": "Selena Gomez's lawyer says the fraud case is \"absurd\" - but it is far from unusual for celebrity family business relationships to go wrong.",
         "publishedAt": "2026-08-28T05:53:05.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Military veterans told they owe thousands of pounds over clerical error",
-        "url": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Hundreds of former UK service personnel have had their pensions cut after being overpaid.",
-        "publishedAt": "2026-08-27T23:06:22.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,6 +831,28 @@
   "business_ca": {
     "articles": [
       {
+        "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+        "url": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
+        "publishedAt": "2026-08-30T23:22:24.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "How the US-Canada trade war is being felt on both sides of the border",
+        "url": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US-Canada trade war is being felt on both sides of the border.",
+        "publishedAt": "2026-08-31T00:05:22.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
         "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -886,17 +908,6 @@
         "zone": "ca"
       },
       {
-        "title": "Overcooked? Why robotic pizza makers are failing",
-        "url": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
-        "publishedAt": "2026-08-27T23:16:02.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
         "title": "Selena Gomez pushes back against 'frivolous' fraud claims",
         "url": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -904,17 +915,6 @@
         },
         "description": "Selena Gomez's lawyer says the fraud case is \"absurd\" - but it is far from unusual for celebrity family business relationships to go wrong.",
         "publishedAt": "2026-08-28T05:53:05.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Military veterans told they owe thousands of pounds over clerical error",
-        "url": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Hundreds of former UK service personnel have had their pensions cut after being overpaid.",
-        "publishedAt": "2026-08-27T23:06:22.000Z",
         "category": "business",
         "zone": "ca"
       }
@@ -2303,17 +2303,6 @@
   "sports_us": {
     "articles": [
       {
-        "title": "Watch: Match of the Day",
-        "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Highlights of four Premier League matches, including Manchester United v Ipswich.",
-        "publishedAt": "2026-08-30T22:40:29.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
         "title": "A new Man Utd era - but Fernandes still sets the standard",
         "url": "https://www.bbc.co.uk/sport/football/articles/cpwl248p5vgo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2332,6 +2321,17 @@
         },
         "description": "How Manchester United and Ipswich Town's players rated following their Premier League match.",
         "publishedAt": "2026-08-30T17:32:04.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "GB's Samuel earns first win at a Grand Slam - but 'nervous' Norrie beaten",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c8045eyd84mo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "British qualifier Toby Samuel breaks more new ground with a dominant victory over Tomas Machac on his US Open debut.",
+        "publishedAt": "2026-08-30T23:30:14.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2358,6 +2358,17 @@
         "zone": "us"
       },
       {
+        "title": "World number one Scheffler claims second Fedex Cup title",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cx2zj8xngvdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "At times it felt like there was a certain inevitability about Scottie Scheffler collecting his second Fedex Cup title on Sunday.",
+        "publishedAt": "2026-08-30T22:38:09.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Why Chelsea need more than a new goalkeeper to be title challengers",
         "url": "https://www.bbc.co.uk/sport/football/articles/cwyzpez3x3go?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2376,17 +2387,6 @@
         },
         "description": "Bruno Fernandes scores a hat-trick as Manchester United overcome an early scare to beat Ipswich Town 5-2 at Old Trafford.",
         "publishedAt": "2026-08-30T19:08:36.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Chelsea maintain perfect start in seven-goal Brighton thriller",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c7v4e23z7gvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chelsea maintained their perfect start to the season under Xabi Alonso, holding off a Brighton fightback to win a seven-goal encounter 4-3 at Stamford Bridge.",
-        "publishedAt": "2026-08-30T19:00:20.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,17 +2395,6 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "Watch: Match of the Day",
-        "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Highlights of four Premier League matches, including Manchester United v Ipswich.",
-        "publishedAt": "2026-08-30T22:40:29.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
         "title": "A new Man Utd era - but Fernandes still sets the standard",
         "url": "https://www.bbc.co.uk/sport/football/articles/cpwl248p5vgo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2424,6 +2413,17 @@
         },
         "description": "How Manchester United and Ipswich Town's players rated following their Premier League match.",
         "publishedAt": "2026-08-30T17:32:04.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "GB's Samuel earns first win at a Grand Slam - but 'nervous' Norrie beaten",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c8045eyd84mo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "British qualifier Toby Samuel breaks more new ground with a dominant victory over Tomas Machac on his US Open debut.",
+        "publishedAt": "2026-08-30T23:30:14.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2450,6 +2450,17 @@
         "zone": "gb"
       },
       {
+        "title": "World number one Scheffler claims second Fedex Cup title",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cx2zj8xngvdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "At times it felt like there was a certain inevitability about Scottie Scheffler collecting his second Fedex Cup title on Sunday.",
+        "publishedAt": "2026-08-30T22:38:09.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Why Chelsea need more than a new goalkeeper to be title challengers",
         "url": "https://www.bbc.co.uk/sport/football/articles/cwyzpez3x3go?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2468,17 +2479,6 @@
         },
         "description": "Bruno Fernandes scores a hat-trick as Manchester United overcome an early scare to beat Ipswich Town 5-2 at Old Trafford.",
         "publishedAt": "2026-08-30T19:08:36.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Chelsea maintain perfect start in seven-goal Brighton thriller",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c7v4e23z7gvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chelsea maintained their perfect start to the season under Xabi Alonso, holding off a Brighton fightback to win a seven-goal encounter 4-3 at Stamford Bridge.",
-        "publishedAt": "2026-08-30T19:00:20.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,17 +2487,6 @@
   "sports_in": {
     "articles": [
       {
-        "title": "Watch: Match of the Day",
-        "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Highlights of four Premier League matches, including Manchester United v Ipswich.",
-        "publishedAt": "2026-08-30T22:40:29.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
         "title": "A new Man Utd era - but Fernandes still sets the standard",
         "url": "https://www.bbc.co.uk/sport/football/articles/cpwl248p5vgo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2516,6 +2505,17 @@
         },
         "description": "How Manchester United and Ipswich Town's players rated following their Premier League match.",
         "publishedAt": "2026-08-30T17:32:04.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "GB's Samuel earns first win at a Grand Slam - but 'nervous' Norrie beaten",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c8045eyd84mo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "British qualifier Toby Samuel breaks more new ground with a dominant victory over Tomas Machac on his US Open debut.",
+        "publishedAt": "2026-08-30T23:30:14.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2542,6 +2542,17 @@
         "zone": "in"
       },
       {
+        "title": "World number one Scheffler claims second Fedex Cup title",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cx2zj8xngvdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "At times it felt like there was a certain inevitability about Scottie Scheffler collecting his second Fedex Cup title on Sunday.",
+        "publishedAt": "2026-08-30T22:38:09.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Why Chelsea need more than a new goalkeeper to be title challengers",
         "url": "https://www.bbc.co.uk/sport/football/articles/cwyzpez3x3go?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2560,17 +2571,6 @@
         },
         "description": "Bruno Fernandes scores a hat-trick as Manchester United overcome an early scare to beat Ipswich Town 5-2 at Old Trafford.",
         "publishedAt": "2026-08-30T19:08:36.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Chelsea maintain perfect start in seven-goal Brighton thriller",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c7v4e23z7gvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chelsea maintained their perfect start to the season under Xabi Alonso, holding off a Brighton fightback to win a seven-goal encounter 4-3 at Stamford Bridge.",
-        "publishedAt": "2026-08-30T19:00:20.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,17 +2579,6 @@
   "sports_au": {
     "articles": [
       {
-        "title": "Watch: Match of the Day",
-        "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Highlights of four Premier League matches, including Manchester United v Ipswich.",
-        "publishedAt": "2026-08-30T22:40:29.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
         "title": "A new Man Utd era - but Fernandes still sets the standard",
         "url": "https://www.bbc.co.uk/sport/football/articles/cpwl248p5vgo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2608,6 +2597,17 @@
         },
         "description": "How Manchester United and Ipswich Town's players rated following their Premier League match.",
         "publishedAt": "2026-08-30T17:32:04.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "GB's Samuel earns first win at a Grand Slam - but 'nervous' Norrie beaten",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c8045eyd84mo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "British qualifier Toby Samuel breaks more new ground with a dominant victory over Tomas Machac on his US Open debut.",
+        "publishedAt": "2026-08-30T23:30:14.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2634,6 +2634,17 @@
         "zone": "au"
       },
       {
+        "title": "World number one Scheffler claims second Fedex Cup title",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cx2zj8xngvdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "At times it felt like there was a certain inevitability about Scottie Scheffler collecting his second Fedex Cup title on Sunday.",
+        "publishedAt": "2026-08-30T22:38:09.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Why Chelsea need more than a new goalkeeper to be title challengers",
         "url": "https://www.bbc.co.uk/sport/football/articles/cwyzpez3x3go?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2652,17 +2663,6 @@
         },
         "description": "Bruno Fernandes scores a hat-trick as Manchester United overcome an early scare to beat Ipswich Town 5-2 at Old Trafford.",
         "publishedAt": "2026-08-30T19:08:36.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Chelsea maintain perfect start in seven-goal Brighton thriller",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c7v4e23z7gvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chelsea maintained their perfect start to the season under Xabi Alonso, holding off a Brighton fightback to win a seven-goal encounter 4-3 at Stamford Bridge.",
-        "publishedAt": "2026-08-30T19:00:20.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,17 +2671,6 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "Watch: Match of the Day",
-        "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Highlights of four Premier League matches, including Manchester United v Ipswich.",
-        "publishedAt": "2026-08-30T22:40:29.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
         "title": "A new Man Utd era - but Fernandes still sets the standard",
         "url": "https://www.bbc.co.uk/sport/football/articles/cpwl248p5vgo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2700,6 +2689,17 @@
         },
         "description": "How Manchester United and Ipswich Town's players rated following their Premier League match.",
         "publishedAt": "2026-08-30T17:32:04.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "GB's Samuel earns first win at a Grand Slam - but 'nervous' Norrie beaten",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c8045eyd84mo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "British qualifier Toby Samuel breaks more new ground with a dominant victory over Tomas Machac on his US Open debut.",
+        "publishedAt": "2026-08-30T23:30:14.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2726,6 +2726,17 @@
         "zone": "ca"
       },
       {
+        "title": "World number one Scheffler claims second Fedex Cup title",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cx2zj8xngvdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "At times it felt like there was a certain inevitability about Scottie Scheffler collecting his second Fedex Cup title on Sunday.",
+        "publishedAt": "2026-08-30T22:38:09.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Why Chelsea need more than a new goalkeeper to be title challengers",
         "url": "https://www.bbc.co.uk/sport/football/articles/cwyzpez3x3go?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2744,17 +2755,6 @@
         },
         "description": "Bruno Fernandes scores a hat-trick as Manchester United overcome an early scare to beat Ipswich Town 5-2 at Old Trafford.",
         "publishedAt": "2026-08-30T19:08:36.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Chelsea maintain perfect start in seven-goal Brighton thriller",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c7v4e23z7gvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chelsea maintained their perfect start to the season under Xabi Alonso, holding off a Brighton fightback to win a seven-goal encounter 4-3 at Stamford Bridge.",
-        "publishedAt": "2026-08-30T19:00:20.000Z",
         "category": "sports",
         "zone": "ca"
       }
