@@ -1,15 +1,37 @@
 {
-  "generatedAt": "2026-09-04T03:32:35.213Z",
+  "generatedAt": "2026-09-04T08:37:50.670Z",
   "general_us": {
     "articles": [
       {
-        "title": "Farage senior aide filmed suggesting way to avoid donations law",
-        "url": "https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss",
+        "title": "Two senior Reform UK officials step down after undercover report",
+        "url": "https://www.bbc.co.uk/news/articles/c86xj5z7x61o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A film broadcast by Channel 4 shows senior Reform UK figures discussing donations with an undercover reporter.",
-        "publishedAt": "2026-09-03T21:07:58.000Z",
+        "description": "Reform says Dan Jukes and James Orr have left their roles as it launches an investigation into the report.",
+        "publishedAt": "2026-09-04T07:36:47.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+        "url": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
+        "publishedAt": "2026-09-04T08:23:05.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
+        "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
+        "publishedAt": "2026-09-04T06:52:29.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -20,51 +42,18 @@
           "name": "RSS Feed"
         },
         "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
-        "publishedAt": "2026-09-03T23:00:15.000Z",
+        "publishedAt": "2026-09-04T05:59:10.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Transplanted pig kidney works in US man's body for record 271 days",
-        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
-        "publishedAt": "2026-09-03T22:31:23.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
+        "title": "Watch: Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
         "url": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The jury now faces a seventh day of deliberations in the triple-murder trial.",
         "publishedAt": "2026-09-04T00:55:45.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Argentine leader says oil firms working off Falklands face sanctions",
-        "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-        "publishedAt": "2026-09-04T02:53:07.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
-        "publishedAt": "2026-09-04T01:20:32.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -80,13 +69,24 @@
         "zone": "us"
       },
       {
-        "title": "'I lost my savings after a job interview scam'",
-        "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
+        "title": "British army told to stop non-essential training exercises to save money",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyqey6rlyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Job seekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
-        "publishedAt": "2026-09-03T23:41:49.000Z",
+        "description": "Units in the UK not preparing to be deployed have been told to cut back on training exercises due to cost pressures.",
+        "publishedAt": "2026-09-03T19:56:14.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Transplanted pig kidney works in US man's body for record 271 days",
+        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+        "publishedAt": "2026-09-03T22:31:23.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,13 +95,35 @@
   "general_gb": {
     "articles": [
       {
-        "title": "Farage senior aide filmed suggesting way to avoid donations law",
-        "url": "https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss",
+        "title": "Two senior Reform UK officials step down after undercover report",
+        "url": "https://www.bbc.co.uk/news/articles/c86xj5z7x61o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A film broadcast by Channel 4 shows senior Reform UK figures discussing donations with an undercover reporter.",
-        "publishedAt": "2026-09-03T21:07:58.000Z",
+        "description": "Reform says Dan Jukes and James Orr have left their roles as it launches an investigation into the report.",
+        "publishedAt": "2026-09-04T07:36:47.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+        "url": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
+        "publishedAt": "2026-09-04T08:23:05.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
+        "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
+        "publishedAt": "2026-09-04T06:52:29.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -112,51 +134,18 @@
           "name": "RSS Feed"
         },
         "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
-        "publishedAt": "2026-09-03T23:00:15.000Z",
+        "publishedAt": "2026-09-04T05:59:10.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Transplanted pig kidney works in US man's body for record 271 days",
-        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
-        "publishedAt": "2026-09-03T22:31:23.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
+        "title": "Watch: Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
         "url": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The jury now faces a seventh day of deliberations in the triple-murder trial.",
         "publishedAt": "2026-09-04T00:55:45.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Argentine leader says oil firms working off Falklands face sanctions",
-        "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-        "publishedAt": "2026-09-04T02:53:07.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
-        "publishedAt": "2026-09-04T01:20:32.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -172,13 +161,24 @@
         "zone": "gb"
       },
       {
-        "title": "'I lost my savings after a job interview scam'",
-        "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
+        "title": "British army told to stop non-essential training exercises to save money",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyqey6rlyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Job seekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
-        "publishedAt": "2026-09-03T23:41:49.000Z",
+        "description": "Units in the UK not preparing to be deployed have been told to cut back on training exercises due to cost pressures.",
+        "publishedAt": "2026-09-03T19:56:14.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Transplanted pig kidney works in US man's body for record 271 days",
+        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+        "publishedAt": "2026-09-03T22:31:23.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,13 +187,35 @@
   "general_in": {
     "articles": [
       {
-        "title": "Farage senior aide filmed suggesting way to avoid donations law",
-        "url": "https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss",
+        "title": "Two senior Reform UK officials step down after undercover report",
+        "url": "https://www.bbc.co.uk/news/articles/c86xj5z7x61o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A film broadcast by Channel 4 shows senior Reform UK figures discussing donations with an undercover reporter.",
-        "publishedAt": "2026-09-03T21:07:58.000Z",
+        "description": "Reform says Dan Jukes and James Orr have left their roles as it launches an investigation into the report.",
+        "publishedAt": "2026-09-04T07:36:47.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+        "url": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
+        "publishedAt": "2026-09-04T08:23:05.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
+        "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
+        "publishedAt": "2026-09-04T06:52:29.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -204,51 +226,18 @@
           "name": "RSS Feed"
         },
         "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
-        "publishedAt": "2026-09-03T23:00:15.000Z",
+        "publishedAt": "2026-09-04T05:59:10.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Transplanted pig kidney works in US man's body for record 271 days",
-        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
-        "publishedAt": "2026-09-03T22:31:23.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
+        "title": "Watch: Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
         "url": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The jury now faces a seventh day of deliberations in the triple-murder trial.",
         "publishedAt": "2026-09-04T00:55:45.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Argentine leader says oil firms working off Falklands face sanctions",
-        "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-        "publishedAt": "2026-09-04T02:53:07.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
-        "publishedAt": "2026-09-04T01:20:32.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -264,13 +253,24 @@
         "zone": "in"
       },
       {
-        "title": "'I lost my savings after a job interview scam'",
-        "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
+        "title": "British army told to stop non-essential training exercises to save money",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyqey6rlyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Job seekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
-        "publishedAt": "2026-09-03T23:41:49.000Z",
+        "description": "Units in the UK not preparing to be deployed have been told to cut back on training exercises due to cost pressures.",
+        "publishedAt": "2026-09-03T19:56:14.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Transplanted pig kidney works in US man's body for record 271 days",
+        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+        "publishedAt": "2026-09-03T22:31:23.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,13 +279,35 @@
   "general_au": {
     "articles": [
       {
-        "title": "Farage senior aide filmed suggesting way to avoid donations law",
-        "url": "https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss",
+        "title": "Two senior Reform UK officials step down after undercover report",
+        "url": "https://www.bbc.co.uk/news/articles/c86xj5z7x61o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A film broadcast by Channel 4 shows senior Reform UK figures discussing donations with an undercover reporter.",
-        "publishedAt": "2026-09-03T21:07:58.000Z",
+        "description": "Reform says Dan Jukes and James Orr have left their roles as it launches an investigation into the report.",
+        "publishedAt": "2026-09-04T07:36:47.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+        "url": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
+        "publishedAt": "2026-09-04T08:23:05.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
+        "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
+        "publishedAt": "2026-09-04T06:52:29.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -296,51 +318,18 @@
           "name": "RSS Feed"
         },
         "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
-        "publishedAt": "2026-09-03T23:00:15.000Z",
+        "publishedAt": "2026-09-04T05:59:10.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Transplanted pig kidney works in US man's body for record 271 days",
-        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
-        "publishedAt": "2026-09-03T22:31:23.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
+        "title": "Watch: Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
         "url": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The jury now faces a seventh day of deliberations in the triple-murder trial.",
         "publishedAt": "2026-09-04T00:55:45.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Argentine leader says oil firms working off Falklands face sanctions",
-        "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-        "publishedAt": "2026-09-04T02:53:07.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
-        "publishedAt": "2026-09-04T01:20:32.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -356,13 +345,24 @@
         "zone": "au"
       },
       {
-        "title": "'I lost my savings after a job interview scam'",
-        "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
+        "title": "British army told to stop non-essential training exercises to save money",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyqey6rlyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Job seekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
-        "publishedAt": "2026-09-03T23:41:49.000Z",
+        "description": "Units in the UK not preparing to be deployed have been told to cut back on training exercises due to cost pressures.",
+        "publishedAt": "2026-09-03T19:56:14.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Transplanted pig kidney works in US man's body for record 271 days",
+        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+        "publishedAt": "2026-09-03T22:31:23.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,13 +371,35 @@
   "general_ca": {
     "articles": [
       {
-        "title": "Farage senior aide filmed suggesting way to avoid donations law",
-        "url": "https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss",
+        "title": "Two senior Reform UK officials step down after undercover report",
+        "url": "https://www.bbc.co.uk/news/articles/c86xj5z7x61o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A film broadcast by Channel 4 shows senior Reform UK figures discussing donations with an undercover reporter.",
-        "publishedAt": "2026-09-03T21:07:58.000Z",
+        "description": "Reform says Dan Jukes and James Orr have left their roles as it launches an investigation into the report.",
+        "publishedAt": "2026-09-04T07:36:47.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+        "url": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
+        "publishedAt": "2026-09-04T08:23:05.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
+        "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
+        "publishedAt": "2026-09-04T06:52:29.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -388,51 +410,18 @@
           "name": "RSS Feed"
         },
         "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
-        "publishedAt": "2026-09-03T23:00:15.000Z",
+        "publishedAt": "2026-09-04T05:59:10.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Transplanted pig kidney works in US man's body for record 271 days",
-        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
-        "publishedAt": "2026-09-03T22:31:23.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
+        "title": "Watch: Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
         "url": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The jury now faces a seventh day of deliberations in the triple-murder trial.",
         "publishedAt": "2026-09-04T00:55:45.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Argentine leader says oil firms working off Falklands face sanctions",
-        "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-        "publishedAt": "2026-09-04T02:53:07.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
-        "publishedAt": "2026-09-04T01:20:32.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -448,13 +437,24 @@
         "zone": "ca"
       },
       {
-        "title": "'I lost my savings after a job interview scam'",
-        "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
+        "title": "British army told to stop non-essential training exercises to save money",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyqey6rlyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Job seekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
-        "publishedAt": "2026-09-03T23:41:49.000Z",
+        "description": "Units in the UK not preparing to be deployed have been told to cut back on training exercises due to cost pressures.",
+        "publishedAt": "2026-09-03T19:56:14.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Transplanted pig kidney works in US man's body for record 271 days",
+        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+        "publishedAt": "2026-09-03T22:31:23.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -469,7 +469,7 @@
           "name": "RSS Feed"
         },
         "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
-        "publishedAt": "2026-09-03T23:00:15.000Z",
+        "publishedAt": "2026-09-04T05:59:10.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -479,19 +479,19 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
-        "publishedAt": "2026-09-04T01:20:32.000Z",
+        "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.",
+        "publishedAt": "2026-09-04T07:00:10.000Z",
         "category": "business",
         "zone": "us"
       },
       {
-        "title": "Argentine leader says oil firms working off Falklands face sanctions",
+        "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
         "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-        "publishedAt": "2026-09-04T02:53:07.000Z",
+        "publishedAt": "2026-09-04T06:52:29.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -501,30 +501,30 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Job seekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
+        "description": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
         "publishedAt": "2026-09-03T23:41:49.000Z",
         "category": "business",
         "zone": "us"
       },
       {
-        "title": "From cake to pizza: How to get the best birthday freebies (and why there's a catch)",
+        "title": "Greggs, H&M and Space NK - how to get birthday freebies and why there's a catch",
         "url": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
-        "publishedAt": "2026-09-03T23:25:45.000Z",
+        "publishedAt": "2026-09-04T07:19:06.000Z",
         "category": "business",
         "zone": "us"
       },
       {
-        "title": "Why wait? Business grads buying firms to install themselves as CEO",
-        "url": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
+        "title": "From 'dog fruit' to darling: India's avocado boom",
+        "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Impatient to be the boss of an established company they are borrowing money to fund their purchases.",
-        "publishedAt": "2026-09-02T23:13:44.000Z",
+        "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
+        "publishedAt": "2026-09-04T05:09:02.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -561,7 +561,7 @@
           "name": "RSS Feed"
         },
         "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
-        "publishedAt": "2026-09-03T23:00:15.000Z",
+        "publishedAt": "2026-09-04T05:59:10.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -571,19 +571,19 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
-        "publishedAt": "2026-09-04T01:20:32.000Z",
+        "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.",
+        "publishedAt": "2026-09-04T07:00:10.000Z",
         "category": "business",
         "zone": "gb"
       },
       {
-        "title": "Argentine leader says oil firms working off Falklands face sanctions",
+        "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
         "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-        "publishedAt": "2026-09-04T02:53:07.000Z",
+        "publishedAt": "2026-09-04T06:52:29.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -593,30 +593,30 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Job seekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
+        "description": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
         "publishedAt": "2026-09-03T23:41:49.000Z",
         "category": "business",
         "zone": "gb"
       },
       {
-        "title": "From cake to pizza: How to get the best birthday freebies (and why there's a catch)",
+        "title": "Greggs, H&M and Space NK - how to get birthday freebies and why there's a catch",
         "url": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
-        "publishedAt": "2026-09-03T23:25:45.000Z",
+        "publishedAt": "2026-09-04T07:19:06.000Z",
         "category": "business",
         "zone": "gb"
       },
       {
-        "title": "Why wait? Business grads buying firms to install themselves as CEO",
-        "url": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
+        "title": "From 'dog fruit' to darling: India's avocado boom",
+        "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Impatient to be the boss of an established company they are borrowing money to fund their purchases.",
-        "publishedAt": "2026-09-02T23:13:44.000Z",
+        "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
+        "publishedAt": "2026-09-04T05:09:02.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -653,7 +653,7 @@
           "name": "RSS Feed"
         },
         "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
-        "publishedAt": "2026-09-03T23:00:15.000Z",
+        "publishedAt": "2026-09-04T05:59:10.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -663,19 +663,19 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
-        "publishedAt": "2026-09-04T01:20:32.000Z",
+        "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.",
+        "publishedAt": "2026-09-04T07:00:10.000Z",
         "category": "business",
         "zone": "in"
       },
       {
-        "title": "Argentine leader says oil firms working off Falklands face sanctions",
+        "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
         "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-        "publishedAt": "2026-09-04T02:53:07.000Z",
+        "publishedAt": "2026-09-04T06:52:29.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -685,30 +685,30 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Job seekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
+        "description": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
         "publishedAt": "2026-09-03T23:41:49.000Z",
         "category": "business",
         "zone": "in"
       },
       {
-        "title": "From cake to pizza: How to get the best birthday freebies (and why there's a catch)",
+        "title": "Greggs, H&M and Space NK - how to get birthday freebies and why there's a catch",
         "url": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
-        "publishedAt": "2026-09-03T23:25:45.000Z",
+        "publishedAt": "2026-09-04T07:19:06.000Z",
         "category": "business",
         "zone": "in"
       },
       {
-        "title": "Why wait? Business grads buying firms to install themselves as CEO",
-        "url": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
+        "title": "From 'dog fruit' to darling: India's avocado boom",
+        "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Impatient to be the boss of an established company they are borrowing money to fund their purchases.",
-        "publishedAt": "2026-09-02T23:13:44.000Z",
+        "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
+        "publishedAt": "2026-09-04T05:09:02.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -745,7 +745,7 @@
           "name": "RSS Feed"
         },
         "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
-        "publishedAt": "2026-09-03T23:00:15.000Z",
+        "publishedAt": "2026-09-04T05:59:10.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -755,19 +755,19 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
-        "publishedAt": "2026-09-04T01:20:32.000Z",
+        "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.",
+        "publishedAt": "2026-09-04T07:00:10.000Z",
         "category": "business",
         "zone": "au"
       },
       {
-        "title": "Argentine leader says oil firms working off Falklands face sanctions",
+        "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
         "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-        "publishedAt": "2026-09-04T02:53:07.000Z",
+        "publishedAt": "2026-09-04T06:52:29.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -777,30 +777,30 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Job seekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
+        "description": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
         "publishedAt": "2026-09-03T23:41:49.000Z",
         "category": "business",
         "zone": "au"
       },
       {
-        "title": "From cake to pizza: How to get the best birthday freebies (and why there's a catch)",
+        "title": "Greggs, H&M and Space NK - how to get birthday freebies and why there's a catch",
         "url": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
-        "publishedAt": "2026-09-03T23:25:45.000Z",
+        "publishedAt": "2026-09-04T07:19:06.000Z",
         "category": "business",
         "zone": "au"
       },
       {
-        "title": "Why wait? Business grads buying firms to install themselves as CEO",
-        "url": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
+        "title": "From 'dog fruit' to darling: India's avocado boom",
+        "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Impatient to be the boss of an established company they are borrowing money to fund their purchases.",
-        "publishedAt": "2026-09-02T23:13:44.000Z",
+        "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
+        "publishedAt": "2026-09-04T05:09:02.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -837,7 +837,7 @@
           "name": "RSS Feed"
         },
         "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
-        "publishedAt": "2026-09-03T23:00:15.000Z",
+        "publishedAt": "2026-09-04T05:59:10.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -847,19 +847,19 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
-        "publishedAt": "2026-09-04T01:20:32.000Z",
+        "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.",
+        "publishedAt": "2026-09-04T07:00:10.000Z",
         "category": "business",
         "zone": "ca"
       },
       {
-        "title": "Argentine leader says oil firms working off Falklands face sanctions",
+        "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
         "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-        "publishedAt": "2026-09-04T02:53:07.000Z",
+        "publishedAt": "2026-09-04T06:52:29.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -869,30 +869,30 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Job seekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
+        "description": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
         "publishedAt": "2026-09-03T23:41:49.000Z",
         "category": "business",
         "zone": "ca"
       },
       {
-        "title": "From cake to pizza: How to get the best birthday freebies (and why there's a catch)",
+        "title": "Greggs, H&M and Space NK - how to get birthday freebies and why there's a catch",
         "url": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
-        "publishedAt": "2026-09-03T23:25:45.000Z",
+        "publishedAt": "2026-09-04T07:19:06.000Z",
         "category": "business",
         "zone": "ca"
       },
       {
-        "title": "Why wait? Business grads buying firms to install themselves as CEO",
-        "url": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
+        "title": "From 'dog fruit' to darling: India's avocado boom",
+        "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Impatient to be the boss of an established company they are borrowing money to fund their purchases.",
-        "publishedAt": "2026-09-02T23:13:44.000Z",
+        "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
+        "publishedAt": "2026-09-04T05:09:02.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -934,13 +934,35 @@
         "zone": "us"
       },
       {
-        "title": "Amelia Dimoldenberg to close doors of Chicken Shop Date",
-        "url": "https://www.bbc.co.uk/news/articles/c5ylg86gp4eo?at_medium=RSS&at_campaign=rss",
+        "title": "'Gromit was nearly a cat!': Secrets from 50 years of Aardman",
+        "url": "https://www.bbc.co.uk/news/articles/cn8ell3dngno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Amelia Dimoldenberg announces she will end her popular YouTube series after more than a decade.",
-        "publishedAt": "2026-09-03T16:08:53.000Z",
+        "description": "Aardman turns 50 with stories of cat-like Gromit, silent Shaun and Chicken Run's Oscar legacy.",
+        "publishedAt": "2026-09-04T00:34:18.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Why Northern Ireland was the 'perfect place' for Robin Hood's death",
+        "url": "https://www.bbc.co.uk/news/articles/ce9eg0zz8k4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Death of Robin Hood, which stars Hugh Jackman and Jodie Comer, was filmed entirely in Northern Ireland.",
+        "publishedAt": "2026-09-03T23:00:34.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Freddie Mercury mural unveiled at Wembley Park",
+        "url": "https://www.bbc.co.uk/news/articles/cy4z8mzx7gwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The artwork is anamorphic, so the image only resolves when viewed from a single marked spot about 65ft away.",
+        "publishedAt": "2026-09-04T05:18:01.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -956,17 +978,6 @@
         "zone": "us"
       },
       {
-        "title": "Dolly Parton gets new star on Hollywood Walk of Fame after vandalism",
-        "url": "https://www.bbc.co.uk/news/articles/cvgypl1gyzro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Fans laid flowers on the singer's star after her death, but vandals scratched her name off.",
-        "publishedAt": "2026-09-03T11:47:51.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
         "title": "Jive Bunny And The Mastermixers creator dies at 84",
         "url": "https://www.bbc.co.uk/news/articles/cj9xe2rvpkvo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -978,35 +989,24 @@
         "zone": "us"
       },
       {
-        "title": "Kirstie Allsopp airlifted to hospital after fall during birthday celebrations",
-        "url": "https://www.bbc.co.uk/news/articles/c89jgw0x0zgo?at_medium=RSS&at_campaign=rss",
+        "title": "Prue Leith: 'You come into your own growing old'",
+        "url": "https://www.bbc.co.uk/news/articles/cy5zryk1lwyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The TV presenter slipped and injured her leg while walking home from a beach in Devon with her family.",
-        "publishedAt": "2026-09-03T09:11:42.000Z",
+        "description": "The former Great British Bake Off star says ageing is something to celebrate.",
+        "publishedAt": "2026-09-04T05:23:14.000Z",
         "category": "entertainment",
         "zone": "us"
       },
       {
-        "title": "Fans praise Catherine Zeta-Jones for using her Welsh accent in new series",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzn8r8w79o?at_medium=RSS&at_campaign=rss",
+        "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+        "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Hollywood actress is starring in a new thriller series using her natural Swansea accent.",
-        "publishedAt": "2026-09-03T17:03:12.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "They were raised on Drag Race UK - but can they snatch the crown?",
-        "url": "https://www.bbc.co.uk/news/articles/c0lr18ll1k3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A new wave of queens raised on the hit reality show are among the 12 contestants set to compete for the series eight crown.",
-        "publishedAt": "2026-09-03T14:23:50.000Z",
+        "description": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
+        "publishedAt": "2026-09-04T04:06:41.000Z",
         "category": "entertainment",
         "zone": "us"
       }
@@ -1026,13 +1026,35 @@
         "zone": "gb"
       },
       {
-        "title": "Amelia Dimoldenberg to close doors of Chicken Shop Date",
-        "url": "https://www.bbc.co.uk/news/articles/c5ylg86gp4eo?at_medium=RSS&at_campaign=rss",
+        "title": "'Gromit was nearly a cat!': Secrets from 50 years of Aardman",
+        "url": "https://www.bbc.co.uk/news/articles/cn8ell3dngno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Amelia Dimoldenberg announces she will end her popular YouTube series after more than a decade.",
-        "publishedAt": "2026-09-03T16:08:53.000Z",
+        "description": "Aardman turns 50 with stories of cat-like Gromit, silent Shaun and Chicken Run's Oscar legacy.",
+        "publishedAt": "2026-09-04T00:34:18.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Why Northern Ireland was the 'perfect place' for Robin Hood's death",
+        "url": "https://www.bbc.co.uk/news/articles/ce9eg0zz8k4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Death of Robin Hood, which stars Hugh Jackman and Jodie Comer, was filmed entirely in Northern Ireland.",
+        "publishedAt": "2026-09-03T23:00:34.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Freddie Mercury mural unveiled at Wembley Park",
+        "url": "https://www.bbc.co.uk/news/articles/cy4z8mzx7gwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The artwork is anamorphic, so the image only resolves when viewed from a single marked spot about 65ft away.",
+        "publishedAt": "2026-09-04T05:18:01.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1048,17 +1070,6 @@
         "zone": "gb"
       },
       {
-        "title": "Dolly Parton gets new star on Hollywood Walk of Fame after vandalism",
-        "url": "https://www.bbc.co.uk/news/articles/cvgypl1gyzro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Fans laid flowers on the singer's star after her death, but vandals scratched her name off.",
-        "publishedAt": "2026-09-03T11:47:51.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
         "title": "Jive Bunny And The Mastermixers creator dies at 84",
         "url": "https://www.bbc.co.uk/news/articles/cj9xe2rvpkvo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1070,35 +1081,24 @@
         "zone": "gb"
       },
       {
-        "title": "Kirstie Allsopp airlifted to hospital after fall during birthday celebrations",
-        "url": "https://www.bbc.co.uk/news/articles/c89jgw0x0zgo?at_medium=RSS&at_campaign=rss",
+        "title": "Prue Leith: 'You come into your own growing old'",
+        "url": "https://www.bbc.co.uk/news/articles/cy5zryk1lwyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The TV presenter slipped and injured her leg while walking home from a beach in Devon with her family.",
-        "publishedAt": "2026-09-03T09:11:42.000Z",
+        "description": "The former Great British Bake Off star says ageing is something to celebrate.",
+        "publishedAt": "2026-09-04T05:23:14.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
       {
-        "title": "Fans praise Catherine Zeta-Jones for using her Welsh accent in new series",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzn8r8w79o?at_medium=RSS&at_campaign=rss",
+        "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+        "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Hollywood actress is starring in a new thriller series using her natural Swansea accent.",
-        "publishedAt": "2026-09-03T17:03:12.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "They were raised on Drag Race UK - but can they snatch the crown?",
-        "url": "https://www.bbc.co.uk/news/articles/c0lr18ll1k3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A new wave of queens raised on the hit reality show are among the 12 contestants set to compete for the series eight crown.",
-        "publishedAt": "2026-09-03T14:23:50.000Z",
+        "description": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
+        "publishedAt": "2026-09-04T04:06:41.000Z",
         "category": "entertainment",
         "zone": "gb"
       }
@@ -1118,13 +1118,35 @@
         "zone": "in"
       },
       {
-        "title": "Amelia Dimoldenberg to close doors of Chicken Shop Date",
-        "url": "https://www.bbc.co.uk/news/articles/c5ylg86gp4eo?at_medium=RSS&at_campaign=rss",
+        "title": "'Gromit was nearly a cat!': Secrets from 50 years of Aardman",
+        "url": "https://www.bbc.co.uk/news/articles/cn8ell3dngno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Amelia Dimoldenberg announces she will end her popular YouTube series after more than a decade.",
-        "publishedAt": "2026-09-03T16:08:53.000Z",
+        "description": "Aardman turns 50 with stories of cat-like Gromit, silent Shaun and Chicken Run's Oscar legacy.",
+        "publishedAt": "2026-09-04T00:34:18.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Why Northern Ireland was the 'perfect place' for Robin Hood's death",
+        "url": "https://www.bbc.co.uk/news/articles/ce9eg0zz8k4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Death of Robin Hood, which stars Hugh Jackman and Jodie Comer, was filmed entirely in Northern Ireland.",
+        "publishedAt": "2026-09-03T23:00:34.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Freddie Mercury mural unveiled at Wembley Park",
+        "url": "https://www.bbc.co.uk/news/articles/cy4z8mzx7gwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The artwork is anamorphic, so the image only resolves when viewed from a single marked spot about 65ft away.",
+        "publishedAt": "2026-09-04T05:18:01.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1140,17 +1162,6 @@
         "zone": "in"
       },
       {
-        "title": "Dolly Parton gets new star on Hollywood Walk of Fame after vandalism",
-        "url": "https://www.bbc.co.uk/news/articles/cvgypl1gyzro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Fans laid flowers on the singer's star after her death, but vandals scratched her name off.",
-        "publishedAt": "2026-09-03T11:47:51.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
         "title": "Jive Bunny And The Mastermixers creator dies at 84",
         "url": "https://www.bbc.co.uk/news/articles/cj9xe2rvpkvo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1162,35 +1173,24 @@
         "zone": "in"
       },
       {
-        "title": "Kirstie Allsopp airlifted to hospital after fall during birthday celebrations",
-        "url": "https://www.bbc.co.uk/news/articles/c89jgw0x0zgo?at_medium=RSS&at_campaign=rss",
+        "title": "Prue Leith: 'You come into your own growing old'",
+        "url": "https://www.bbc.co.uk/news/articles/cy5zryk1lwyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The TV presenter slipped and injured her leg while walking home from a beach in Devon with her family.",
-        "publishedAt": "2026-09-03T09:11:42.000Z",
+        "description": "The former Great British Bake Off star says ageing is something to celebrate.",
+        "publishedAt": "2026-09-04T05:23:14.000Z",
         "category": "entertainment",
         "zone": "in"
       },
       {
-        "title": "Fans praise Catherine Zeta-Jones for using her Welsh accent in new series",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzn8r8w79o?at_medium=RSS&at_campaign=rss",
+        "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+        "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Hollywood actress is starring in a new thriller series using her natural Swansea accent.",
-        "publishedAt": "2026-09-03T17:03:12.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "They were raised on Drag Race UK - but can they snatch the crown?",
-        "url": "https://www.bbc.co.uk/news/articles/c0lr18ll1k3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A new wave of queens raised on the hit reality show are among the 12 contestants set to compete for the series eight crown.",
-        "publishedAt": "2026-09-03T14:23:50.000Z",
+        "description": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
+        "publishedAt": "2026-09-04T04:06:41.000Z",
         "category": "entertainment",
         "zone": "in"
       }
@@ -1210,13 +1210,35 @@
         "zone": "au"
       },
       {
-        "title": "Amelia Dimoldenberg to close doors of Chicken Shop Date",
-        "url": "https://www.bbc.co.uk/news/articles/c5ylg86gp4eo?at_medium=RSS&at_campaign=rss",
+        "title": "'Gromit was nearly a cat!': Secrets from 50 years of Aardman",
+        "url": "https://www.bbc.co.uk/news/articles/cn8ell3dngno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Amelia Dimoldenberg announces she will end her popular YouTube series after more than a decade.",
-        "publishedAt": "2026-09-03T16:08:53.000Z",
+        "description": "Aardman turns 50 with stories of cat-like Gromit, silent Shaun and Chicken Run's Oscar legacy.",
+        "publishedAt": "2026-09-04T00:34:18.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Why Northern Ireland was the 'perfect place' for Robin Hood's death",
+        "url": "https://www.bbc.co.uk/news/articles/ce9eg0zz8k4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Death of Robin Hood, which stars Hugh Jackman and Jodie Comer, was filmed entirely in Northern Ireland.",
+        "publishedAt": "2026-09-03T23:00:34.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Freddie Mercury mural unveiled at Wembley Park",
+        "url": "https://www.bbc.co.uk/news/articles/cy4z8mzx7gwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The artwork is anamorphic, so the image only resolves when viewed from a single marked spot about 65ft away.",
+        "publishedAt": "2026-09-04T05:18:01.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1232,17 +1254,6 @@
         "zone": "au"
       },
       {
-        "title": "Dolly Parton gets new star on Hollywood Walk of Fame after vandalism",
-        "url": "https://www.bbc.co.uk/news/articles/cvgypl1gyzro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Fans laid flowers on the singer's star after her death, but vandals scratched her name off.",
-        "publishedAt": "2026-09-03T11:47:51.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
         "title": "Jive Bunny And The Mastermixers creator dies at 84",
         "url": "https://www.bbc.co.uk/news/articles/cj9xe2rvpkvo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1254,35 +1265,24 @@
         "zone": "au"
       },
       {
-        "title": "Kirstie Allsopp airlifted to hospital after fall during birthday celebrations",
-        "url": "https://www.bbc.co.uk/news/articles/c89jgw0x0zgo?at_medium=RSS&at_campaign=rss",
+        "title": "Prue Leith: 'You come into your own growing old'",
+        "url": "https://www.bbc.co.uk/news/articles/cy5zryk1lwyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The TV presenter slipped and injured her leg while walking home from a beach in Devon with her family.",
-        "publishedAt": "2026-09-03T09:11:42.000Z",
+        "description": "The former Great British Bake Off star says ageing is something to celebrate.",
+        "publishedAt": "2026-09-04T05:23:14.000Z",
         "category": "entertainment",
         "zone": "au"
       },
       {
-        "title": "Fans praise Catherine Zeta-Jones for using her Welsh accent in new series",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzn8r8w79o?at_medium=RSS&at_campaign=rss",
+        "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+        "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Hollywood actress is starring in a new thriller series using her natural Swansea accent.",
-        "publishedAt": "2026-09-03T17:03:12.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "They were raised on Drag Race UK - but can they snatch the crown?",
-        "url": "https://www.bbc.co.uk/news/articles/c0lr18ll1k3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A new wave of queens raised on the hit reality show are among the 12 contestants set to compete for the series eight crown.",
-        "publishedAt": "2026-09-03T14:23:50.000Z",
+        "description": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
+        "publishedAt": "2026-09-04T04:06:41.000Z",
         "category": "entertainment",
         "zone": "au"
       }
@@ -1302,13 +1302,35 @@
         "zone": "ca"
       },
       {
-        "title": "Amelia Dimoldenberg to close doors of Chicken Shop Date",
-        "url": "https://www.bbc.co.uk/news/articles/c5ylg86gp4eo?at_medium=RSS&at_campaign=rss",
+        "title": "'Gromit was nearly a cat!': Secrets from 50 years of Aardman",
+        "url": "https://www.bbc.co.uk/news/articles/cn8ell3dngno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Amelia Dimoldenberg announces she will end her popular YouTube series after more than a decade.",
-        "publishedAt": "2026-09-03T16:08:53.000Z",
+        "description": "Aardman turns 50 with stories of cat-like Gromit, silent Shaun and Chicken Run's Oscar legacy.",
+        "publishedAt": "2026-09-04T00:34:18.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "Why Northern Ireland was the 'perfect place' for Robin Hood's death",
+        "url": "https://www.bbc.co.uk/news/articles/ce9eg0zz8k4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Death of Robin Hood, which stars Hugh Jackman and Jodie Comer, was filmed entirely in Northern Ireland.",
+        "publishedAt": "2026-09-03T23:00:34.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "Freddie Mercury mural unveiled at Wembley Park",
+        "url": "https://www.bbc.co.uk/news/articles/cy4z8mzx7gwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The artwork is anamorphic, so the image only resolves when viewed from a single marked spot about 65ft away.",
+        "publishedAt": "2026-09-04T05:18:01.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1324,17 +1346,6 @@
         "zone": "ca"
       },
       {
-        "title": "Dolly Parton gets new star on Hollywood Walk of Fame after vandalism",
-        "url": "https://www.bbc.co.uk/news/articles/cvgypl1gyzro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Fans laid flowers on the singer's star after her death, but vandals scratched her name off.",
-        "publishedAt": "2026-09-03T11:47:51.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
         "title": "Jive Bunny And The Mastermixers creator dies at 84",
         "url": "https://www.bbc.co.uk/news/articles/cj9xe2rvpkvo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1346,35 +1357,24 @@
         "zone": "ca"
       },
       {
-        "title": "Kirstie Allsopp airlifted to hospital after fall during birthday celebrations",
-        "url": "https://www.bbc.co.uk/news/articles/c89jgw0x0zgo?at_medium=RSS&at_campaign=rss",
+        "title": "Prue Leith: 'You come into your own growing old'",
+        "url": "https://www.bbc.co.uk/news/articles/cy5zryk1lwyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The TV presenter slipped and injured her leg while walking home from a beach in Devon with her family.",
-        "publishedAt": "2026-09-03T09:11:42.000Z",
+        "description": "The former Great British Bake Off star says ageing is something to celebrate.",
+        "publishedAt": "2026-09-04T05:23:14.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
       {
-        "title": "Fans praise Catherine Zeta-Jones for using her Welsh accent in new series",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzn8r8w79o?at_medium=RSS&at_campaign=rss",
+        "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+        "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Hollywood actress is starring in a new thriller series using her natural Swansea accent.",
-        "publishedAt": "2026-09-03T17:03:12.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "They were raised on Drag Race UK - but can they snatch the crown?",
-        "url": "https://www.bbc.co.uk/news/articles/c0lr18ll1k3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A new wave of queens raised on the hit reality show are among the 12 contestants set to compete for the series eight crown.",
-        "publishedAt": "2026-09-03T14:23:50.000Z",
+        "description": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
+        "publishedAt": "2026-09-04T04:06:41.000Z",
         "category": "entertainment",
         "zone": "ca"
       }
@@ -1920,13 +1920,13 @@
         "zone": "us"
       },
       {
-        "title": "Invasive tropical mosquito found breeding in east London",
-        "url": "https://www.theguardian.com/environment/2026/sep/03/invasive-tropical-mosquito-breeding-london",
+        "title": "New Zealand drugs regulator approves use of MDMA to treat severe PTSD",
+        "url": "https://www.theguardian.com/world/2026/sep/04/new-zealand-approves-mdma-to-treat-severe-ptsd",
         "source": {
-          "name": "Pippa Neill Environment reporter"
+          "name": "Agence France-Presse"
         },
-        "description": "Climate crisis could increase incursions of Aedes aegypti, which can transmit Zika virus and dengue, experts say An mosquito capable of transmitting tropical diseases has been found breeding in homes in east London, with experts warning that the rapidly warming climate will lead to greater “incursions of invasive mosquitoes”. This is the first time the species has been identified breeding in the UK and the fourth time it has been detected. Continue reading...",
-        "publishedAt": "2026-09-03T12:51:53.000Z",
+        "description": "New Zealand decision follows Australian approval in 2023 of psychedelics to treat PTSD and treatment-resistant depression Two psychiatrists in New Zealand won approval on Friday to prescribe pharmaceutical-grade MDMA to people with severe post-traumatic stress disorder (PTSD). The move by New Zealand’s pharmaceutical regulatory body Medsafe makes the country only the second worldwide to approve the party drug for use in treating PTSD, following Australia in 2023. Continue reading...",
+        "publishedAt": "2026-09-04T04:27:13.000Z",
         "category": "science",
         "zone": "us"
       }
@@ -2012,13 +2012,13 @@
         "zone": "gb"
       },
       {
-        "title": "Invasive tropical mosquito found breeding in east London",
-        "url": "https://www.theguardian.com/environment/2026/sep/03/invasive-tropical-mosquito-breeding-london",
+        "title": "New Zealand drugs regulator approves use of MDMA to treat severe PTSD",
+        "url": "https://www.theguardian.com/world/2026/sep/04/new-zealand-approves-mdma-to-treat-severe-ptsd",
         "source": {
-          "name": "Pippa Neill Environment reporter"
+          "name": "Agence France-Presse"
         },
-        "description": "Climate crisis could increase incursions of Aedes aegypti, which can transmit Zika virus and dengue, experts say An mosquito capable of transmitting tropical diseases has been found breeding in homes in east London, with experts warning that the rapidly warming climate will lead to greater “incursions of invasive mosquitoes”. This is the first time the species has been identified breeding in the UK and the fourth time it has been detected. Continue reading...",
-        "publishedAt": "2026-09-03T12:51:53.000Z",
+        "description": "New Zealand decision follows Australian approval in 2023 of psychedelics to treat PTSD and treatment-resistant depression Two psychiatrists in New Zealand won approval on Friday to prescribe pharmaceutical-grade MDMA to people with severe post-traumatic stress disorder (PTSD). The move by New Zealand’s pharmaceutical regulatory body Medsafe makes the country only the second worldwide to approve the party drug for use in treating PTSD, following Australia in 2023. Continue reading...",
+        "publishedAt": "2026-09-04T04:27:13.000Z",
         "category": "science",
         "zone": "gb"
       }
@@ -2104,13 +2104,13 @@
         "zone": "in"
       },
       {
-        "title": "Invasive tropical mosquito found breeding in east London",
-        "url": "https://www.theguardian.com/environment/2026/sep/03/invasive-tropical-mosquito-breeding-london",
+        "title": "New Zealand drugs regulator approves use of MDMA to treat severe PTSD",
+        "url": "https://www.theguardian.com/world/2026/sep/04/new-zealand-approves-mdma-to-treat-severe-ptsd",
         "source": {
-          "name": "Pippa Neill Environment reporter"
+          "name": "Agence France-Presse"
         },
-        "description": "Climate crisis could increase incursions of Aedes aegypti, which can transmit Zika virus and dengue, experts say An mosquito capable of transmitting tropical diseases has been found breeding in homes in east London, with experts warning that the rapidly warming climate will lead to greater “incursions of invasive mosquitoes”. This is the first time the species has been identified breeding in the UK and the fourth time it has been detected. Continue reading...",
-        "publishedAt": "2026-09-03T12:51:53.000Z",
+        "description": "New Zealand decision follows Australian approval in 2023 of psychedelics to treat PTSD and treatment-resistant depression Two psychiatrists in New Zealand won approval on Friday to prescribe pharmaceutical-grade MDMA to people with severe post-traumatic stress disorder (PTSD). The move by New Zealand’s pharmaceutical regulatory body Medsafe makes the country only the second worldwide to approve the party drug for use in treating PTSD, following Australia in 2023. Continue reading...",
+        "publishedAt": "2026-09-04T04:27:13.000Z",
         "category": "science",
         "zone": "in"
       }
@@ -2196,13 +2196,13 @@
         "zone": "au"
       },
       {
-        "title": "Invasive tropical mosquito found breeding in east London",
-        "url": "https://www.theguardian.com/environment/2026/sep/03/invasive-tropical-mosquito-breeding-london",
+        "title": "New Zealand drugs regulator approves use of MDMA to treat severe PTSD",
+        "url": "https://www.theguardian.com/world/2026/sep/04/new-zealand-approves-mdma-to-treat-severe-ptsd",
         "source": {
-          "name": "Pippa Neill Environment reporter"
+          "name": "Agence France-Presse"
         },
-        "description": "Climate crisis could increase incursions of Aedes aegypti, which can transmit Zika virus and dengue, experts say An mosquito capable of transmitting tropical diseases has been found breeding in homes in east London, with experts warning that the rapidly warming climate will lead to greater “incursions of invasive mosquitoes”. This is the first time the species has been identified breeding in the UK and the fourth time it has been detected. Continue reading...",
-        "publishedAt": "2026-09-03T12:51:53.000Z",
+        "description": "New Zealand decision follows Australian approval in 2023 of psychedelics to treat PTSD and treatment-resistant depression Two psychiatrists in New Zealand won approval on Friday to prescribe pharmaceutical-grade MDMA to people with severe post-traumatic stress disorder (PTSD). The move by New Zealand’s pharmaceutical regulatory body Medsafe makes the country only the second worldwide to approve the party drug for use in treating PTSD, following Australia in 2023. Continue reading...",
+        "publishedAt": "2026-09-04T04:27:13.000Z",
         "category": "science",
         "zone": "au"
       }
@@ -2288,13 +2288,13 @@
         "zone": "ca"
       },
       {
-        "title": "Invasive tropical mosquito found breeding in east London",
-        "url": "https://www.theguardian.com/environment/2026/sep/03/invasive-tropical-mosquito-breeding-london",
+        "title": "New Zealand drugs regulator approves use of MDMA to treat severe PTSD",
+        "url": "https://www.theguardian.com/world/2026/sep/04/new-zealand-approves-mdma-to-treat-severe-ptsd",
         "source": {
-          "name": "Pippa Neill Environment reporter"
+          "name": "Agence France-Presse"
         },
-        "description": "Climate crisis could increase incursions of Aedes aegypti, which can transmit Zika virus and dengue, experts say An mosquito capable of transmitting tropical diseases has been found breeding in homes in east London, with experts warning that the rapidly warming climate will lead to greater “incursions of invasive mosquitoes”. This is the first time the species has been identified breeding in the UK and the fourth time it has been detected. Continue reading...",
-        "publishedAt": "2026-09-03T12:51:53.000Z",
+        "description": "New Zealand decision follows Australian approval in 2023 of psychedelics to treat PTSD and treatment-resistant depression Two psychiatrists in New Zealand won approval on Friday to prescribe pharmaceutical-grade MDMA to people with severe post-traumatic stress disorder (PTSD). The move by New Zealand’s pharmaceutical regulatory body Medsafe makes the country only the second worldwide to approve the party drug for use in treating PTSD, following Australia in 2023. Continue reading...",
+        "publishedAt": "2026-09-04T04:27:13.000Z",
         "category": "science",
         "zone": "ca"
       }
@@ -2314,79 +2314,79 @@
         "zone": "us"
       },
       {
-        "title": "Fifa accuses Uefa of 'smear campaign' against Infantino",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss",
+        "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors.",
-        "publishedAt": "2026-09-03T19:01:43.000Z",
+        "description": "The behaviour of influencers and content creators has become a major talking point at this year's US Open amid incidents of matches being disrupted.",
+        "publishedAt": "2026-09-04T07:16:07.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Kyrgios given one-month ban for positive cocaine test",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c4gj0x5z10go?at_medium=RSS&at_campaign=rss",
+        "title": "Sutton's predictions v Kasabian frontman Serge Pizzorno",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c62j5lkjg74o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Nick Kyrgios is eligible to return to tennis after accepting a one-month ban for testing positive for cocaine.",
-        "publishedAt": "2026-09-03T23:23:20.000Z",
+        "description": "BBC Sport football expert Chris Sutton takes on Kasabian frontman Serge Pizzorno, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+        "publishedAt": "2026-09-03T19:58:10.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "'I was seeing spots' - third seed Auger-Aliassime stunned in New York",
+        "title": "Obano to put England career on hold with Pau move",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c8047p5em5lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Beno Obano will become the latest England player to put his Test career on ice after agreeing to join French side Pau at the end of the forthcoming season.",
+        "publishedAt": "2026-09-03T22:46:30.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Ukrainian quits college team over Russian signing",
+        "url": "https://www.bbc.co.uk/sport/basketball/articles/cgmr8ny1eeno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukrainian Kate Koval says she left Louisiana State University's basketball program because of the team's decision to sign a Russian player.",
+        "publishedAt": "2026-09-04T06:22:40.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "From playing with Rashford to non-league and new career",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cjdvkn8y5gvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ten years after lining up with Marcus Rashford for Manchester United, Joe Riley tells BBC Sport about his new career - and why he does not miss full-time football.",
+        "publishedAt": "2026-09-04T06:59:51.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Zverev battles through after enduring another 2am finish",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/cy0zxxk3y62o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Third seed Felix Auger-Aliassime says he was \"dizzy and seeing spots\" in a surprise second-round loss to Karen Khachanov at the US Open.",
-        "publishedAt": "2026-09-03T21:20:31.000Z",
+        "description": "Top seed Alexander Zverev endures another gruelling five-set US Open match as he overcomes Quentin Halys at 02:15 local time to reach the third round.",
+        "publishedAt": "2026-09-04T06:33:33.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Ashes tickets pricing people out of game - Vaughan",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/ce87v9ljl8no?at_medium=RSS&at_campaign=rss",
+        "title": "How 'unique' Bellingham is thriving in Mourinho's system",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c86xj375x2yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former England captain Michael Vaughan says ticket price rises for next year's men's Ashes are \"pricing a lot of people out of the game.\"",
-        "publishedAt": "2026-09-03T18:57:12.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "'Adonis' Gibbs-White's chance to shine - will Tuchel take notice?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c07lk45y3ego?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Morgan Gibbs-White was left out of England's World Cup squad - will his continued good form be impossible for Thomas Tuchel to ignore?",
-        "publishedAt": "2026-09-03T17:07:18.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "We want Fury v Joshua at Wembley - London mayor",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cz6zdd8yjzzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "London Mayor Sadiq Khan says he is \"really keen\" to host the proposed Tyson Fury-Anthony Joshua fight at Wembley Stadium and has urged promoters to get in touch.",
-        "publishedAt": "2026-09-03T20:17:28.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "No Britons left in US Open singles as Dart & Jones lose",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cwyznnqdd4yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Harriet Dart and Francesca Jones fall to seeded players as British interest in the US Open singles ends in the second round.",
-        "publishedAt": "2026-09-04T01:04:20.000Z",
+        "description": "Jude Bellingham looks fit and ready to build on his World Cup form as he aims to rediscover his best at Real Madrid under Jose Mourinho.",
+        "publishedAt": "2026-09-04T08:08:53.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2406,79 +2406,79 @@
         "zone": "gb"
       },
       {
-        "title": "Fifa accuses Uefa of 'smear campaign' against Infantino",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss",
+        "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors.",
-        "publishedAt": "2026-09-03T19:01:43.000Z",
+        "description": "The behaviour of influencers and content creators has become a major talking point at this year's US Open amid incidents of matches being disrupted.",
+        "publishedAt": "2026-09-04T07:16:07.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Kyrgios given one-month ban for positive cocaine test",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c4gj0x5z10go?at_medium=RSS&at_campaign=rss",
+        "title": "Sutton's predictions v Kasabian frontman Serge Pizzorno",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c62j5lkjg74o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Nick Kyrgios is eligible to return to tennis after accepting a one-month ban for testing positive for cocaine.",
-        "publishedAt": "2026-09-03T23:23:20.000Z",
+        "description": "BBC Sport football expert Chris Sutton takes on Kasabian frontman Serge Pizzorno, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+        "publishedAt": "2026-09-03T19:58:10.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "'I was seeing spots' - third seed Auger-Aliassime stunned in New York",
+        "title": "Obano to put England career on hold with Pau move",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c8047p5em5lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Beno Obano will become the latest England player to put his Test career on ice after agreeing to join French side Pau at the end of the forthcoming season.",
+        "publishedAt": "2026-09-03T22:46:30.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Ukrainian quits college team over Russian signing",
+        "url": "https://www.bbc.co.uk/sport/basketball/articles/cgmr8ny1eeno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukrainian Kate Koval says she left Louisiana State University's basketball program because of the team's decision to sign a Russian player.",
+        "publishedAt": "2026-09-04T06:22:40.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "From playing with Rashford to non-league and new career",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cjdvkn8y5gvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ten years after lining up with Marcus Rashford for Manchester United, Joe Riley tells BBC Sport about his new career - and why he does not miss full-time football.",
+        "publishedAt": "2026-09-04T06:59:51.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Zverev battles through after enduring another 2am finish",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/cy0zxxk3y62o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Third seed Felix Auger-Aliassime says he was \"dizzy and seeing spots\" in a surprise second-round loss to Karen Khachanov at the US Open.",
-        "publishedAt": "2026-09-03T21:20:31.000Z",
+        "description": "Top seed Alexander Zverev endures another gruelling five-set US Open match as he overcomes Quentin Halys at 02:15 local time to reach the third round.",
+        "publishedAt": "2026-09-04T06:33:33.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Ashes tickets pricing people out of game - Vaughan",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/ce87v9ljl8no?at_medium=RSS&at_campaign=rss",
+        "title": "How 'unique' Bellingham is thriving in Mourinho's system",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c86xj375x2yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former England captain Michael Vaughan says ticket price rises for next year's men's Ashes are \"pricing a lot of people out of the game.\"",
-        "publishedAt": "2026-09-03T18:57:12.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "'Adonis' Gibbs-White's chance to shine - will Tuchel take notice?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c07lk45y3ego?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Morgan Gibbs-White was left out of England's World Cup squad - will his continued good form be impossible for Thomas Tuchel to ignore?",
-        "publishedAt": "2026-09-03T17:07:18.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "We want Fury v Joshua at Wembley - London mayor",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cz6zdd8yjzzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "London Mayor Sadiq Khan says he is \"really keen\" to host the proposed Tyson Fury-Anthony Joshua fight at Wembley Stadium and has urged promoters to get in touch.",
-        "publishedAt": "2026-09-03T20:17:28.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "No Britons left in US Open singles as Dart & Jones lose",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cwyznnqdd4yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Harriet Dart and Francesca Jones fall to seeded players as British interest in the US Open singles ends in the second round.",
-        "publishedAt": "2026-09-04T01:04:20.000Z",
+        "description": "Jude Bellingham looks fit and ready to build on his World Cup form as he aims to rediscover his best at Real Madrid under Jose Mourinho.",
+        "publishedAt": "2026-09-04T08:08:53.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2498,79 +2498,79 @@
         "zone": "in"
       },
       {
-        "title": "Fifa accuses Uefa of 'smear campaign' against Infantino",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss",
+        "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors.",
-        "publishedAt": "2026-09-03T19:01:43.000Z",
+        "description": "The behaviour of influencers and content creators has become a major talking point at this year's US Open amid incidents of matches being disrupted.",
+        "publishedAt": "2026-09-04T07:16:07.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Kyrgios given one-month ban for positive cocaine test",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c4gj0x5z10go?at_medium=RSS&at_campaign=rss",
+        "title": "Sutton's predictions v Kasabian frontman Serge Pizzorno",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c62j5lkjg74o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Nick Kyrgios is eligible to return to tennis after accepting a one-month ban for testing positive for cocaine.",
-        "publishedAt": "2026-09-03T23:23:20.000Z",
+        "description": "BBC Sport football expert Chris Sutton takes on Kasabian frontman Serge Pizzorno, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+        "publishedAt": "2026-09-03T19:58:10.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "'I was seeing spots' - third seed Auger-Aliassime stunned in New York",
+        "title": "Obano to put England career on hold with Pau move",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c8047p5em5lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Beno Obano will become the latest England player to put his Test career on ice after agreeing to join French side Pau at the end of the forthcoming season.",
+        "publishedAt": "2026-09-03T22:46:30.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Ukrainian quits college team over Russian signing",
+        "url": "https://www.bbc.co.uk/sport/basketball/articles/cgmr8ny1eeno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukrainian Kate Koval says she left Louisiana State University's basketball program because of the team's decision to sign a Russian player.",
+        "publishedAt": "2026-09-04T06:22:40.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "From playing with Rashford to non-league and new career",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cjdvkn8y5gvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ten years after lining up with Marcus Rashford for Manchester United, Joe Riley tells BBC Sport about his new career - and why he does not miss full-time football.",
+        "publishedAt": "2026-09-04T06:59:51.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Zverev battles through after enduring another 2am finish",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/cy0zxxk3y62o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Third seed Felix Auger-Aliassime says he was \"dizzy and seeing spots\" in a surprise second-round loss to Karen Khachanov at the US Open.",
-        "publishedAt": "2026-09-03T21:20:31.000Z",
+        "description": "Top seed Alexander Zverev endures another gruelling five-set US Open match as he overcomes Quentin Halys at 02:15 local time to reach the third round.",
+        "publishedAt": "2026-09-04T06:33:33.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Ashes tickets pricing people out of game - Vaughan",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/ce87v9ljl8no?at_medium=RSS&at_campaign=rss",
+        "title": "How 'unique' Bellingham is thriving in Mourinho's system",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c86xj375x2yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former England captain Michael Vaughan says ticket price rises for next year's men's Ashes are \"pricing a lot of people out of the game.\"",
-        "publishedAt": "2026-09-03T18:57:12.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "'Adonis' Gibbs-White's chance to shine - will Tuchel take notice?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c07lk45y3ego?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Morgan Gibbs-White was left out of England's World Cup squad - will his continued good form be impossible for Thomas Tuchel to ignore?",
-        "publishedAt": "2026-09-03T17:07:18.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "We want Fury v Joshua at Wembley - London mayor",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cz6zdd8yjzzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "London Mayor Sadiq Khan says he is \"really keen\" to host the proposed Tyson Fury-Anthony Joshua fight at Wembley Stadium and has urged promoters to get in touch.",
-        "publishedAt": "2026-09-03T20:17:28.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "No Britons left in US Open singles as Dart & Jones lose",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cwyznnqdd4yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Harriet Dart and Francesca Jones fall to seeded players as British interest in the US Open singles ends in the second round.",
-        "publishedAt": "2026-09-04T01:04:20.000Z",
+        "description": "Jude Bellingham looks fit and ready to build on his World Cup form as he aims to rediscover his best at Real Madrid under Jose Mourinho.",
+        "publishedAt": "2026-09-04T08:08:53.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2590,79 +2590,79 @@
         "zone": "au"
       },
       {
-        "title": "Fifa accuses Uefa of 'smear campaign' against Infantino",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss",
+        "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors.",
-        "publishedAt": "2026-09-03T19:01:43.000Z",
+        "description": "The behaviour of influencers and content creators has become a major talking point at this year's US Open amid incidents of matches being disrupted.",
+        "publishedAt": "2026-09-04T07:16:07.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Kyrgios given one-month ban for positive cocaine test",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c4gj0x5z10go?at_medium=RSS&at_campaign=rss",
+        "title": "Sutton's predictions v Kasabian frontman Serge Pizzorno",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c62j5lkjg74o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Nick Kyrgios is eligible to return to tennis after accepting a one-month ban for testing positive for cocaine.",
-        "publishedAt": "2026-09-03T23:23:20.000Z",
+        "description": "BBC Sport football expert Chris Sutton takes on Kasabian frontman Serge Pizzorno, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+        "publishedAt": "2026-09-03T19:58:10.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "'I was seeing spots' - third seed Auger-Aliassime stunned in New York",
+        "title": "Obano to put England career on hold with Pau move",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c8047p5em5lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Beno Obano will become the latest England player to put his Test career on ice after agreeing to join French side Pau at the end of the forthcoming season.",
+        "publishedAt": "2026-09-03T22:46:30.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Ukrainian quits college team over Russian signing",
+        "url": "https://www.bbc.co.uk/sport/basketball/articles/cgmr8ny1eeno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukrainian Kate Koval says she left Louisiana State University's basketball program because of the team's decision to sign a Russian player.",
+        "publishedAt": "2026-09-04T06:22:40.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "From playing with Rashford to non-league and new career",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cjdvkn8y5gvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ten years after lining up with Marcus Rashford for Manchester United, Joe Riley tells BBC Sport about his new career - and why he does not miss full-time football.",
+        "publishedAt": "2026-09-04T06:59:51.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Zverev battles through after enduring another 2am finish",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/cy0zxxk3y62o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Third seed Felix Auger-Aliassime says he was \"dizzy and seeing spots\" in a surprise second-round loss to Karen Khachanov at the US Open.",
-        "publishedAt": "2026-09-03T21:20:31.000Z",
+        "description": "Top seed Alexander Zverev endures another gruelling five-set US Open match as he overcomes Quentin Halys at 02:15 local time to reach the third round.",
+        "publishedAt": "2026-09-04T06:33:33.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Ashes tickets pricing people out of game - Vaughan",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/ce87v9ljl8no?at_medium=RSS&at_campaign=rss",
+        "title": "How 'unique' Bellingham is thriving in Mourinho's system",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c86xj375x2yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former England captain Michael Vaughan says ticket price rises for next year's men's Ashes are \"pricing a lot of people out of the game.\"",
-        "publishedAt": "2026-09-03T18:57:12.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "'Adonis' Gibbs-White's chance to shine - will Tuchel take notice?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c07lk45y3ego?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Morgan Gibbs-White was left out of England's World Cup squad - will his continued good form be impossible for Thomas Tuchel to ignore?",
-        "publishedAt": "2026-09-03T17:07:18.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "We want Fury v Joshua at Wembley - London mayor",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cz6zdd8yjzzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "London Mayor Sadiq Khan says he is \"really keen\" to host the proposed Tyson Fury-Anthony Joshua fight at Wembley Stadium and has urged promoters to get in touch.",
-        "publishedAt": "2026-09-03T20:17:28.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "No Britons left in US Open singles as Dart & Jones lose",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cwyznnqdd4yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Harriet Dart and Francesca Jones fall to seeded players as British interest in the US Open singles ends in the second round.",
-        "publishedAt": "2026-09-04T01:04:20.000Z",
+        "description": "Jude Bellingham looks fit and ready to build on his World Cup form as he aims to rediscover his best at Real Madrid under Jose Mourinho.",
+        "publishedAt": "2026-09-04T08:08:53.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2682,79 +2682,79 @@
         "zone": "ca"
       },
       {
-        "title": "Fifa accuses Uefa of 'smear campaign' against Infantino",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss",
+        "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors.",
-        "publishedAt": "2026-09-03T19:01:43.000Z",
+        "description": "The behaviour of influencers and content creators has become a major talking point at this year's US Open amid incidents of matches being disrupted.",
+        "publishedAt": "2026-09-04T07:16:07.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Kyrgios given one-month ban for positive cocaine test",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c4gj0x5z10go?at_medium=RSS&at_campaign=rss",
+        "title": "Sutton's predictions v Kasabian frontman Serge Pizzorno",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c62j5lkjg74o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Nick Kyrgios is eligible to return to tennis after accepting a one-month ban for testing positive for cocaine.",
-        "publishedAt": "2026-09-03T23:23:20.000Z",
+        "description": "BBC Sport football expert Chris Sutton takes on Kasabian frontman Serge Pizzorno, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+        "publishedAt": "2026-09-03T19:58:10.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "'I was seeing spots' - third seed Auger-Aliassime stunned in New York",
+        "title": "Obano to put England career on hold with Pau move",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c8047p5em5lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Beno Obano will become the latest England player to put his Test career on ice after agreeing to join French side Pau at the end of the forthcoming season.",
+        "publishedAt": "2026-09-03T22:46:30.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Ukrainian quits college team over Russian signing",
+        "url": "https://www.bbc.co.uk/sport/basketball/articles/cgmr8ny1eeno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukrainian Kate Koval says she left Louisiana State University's basketball program because of the team's decision to sign a Russian player.",
+        "publishedAt": "2026-09-04T06:22:40.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "From playing with Rashford to non-league and new career",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cjdvkn8y5gvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ten years after lining up with Marcus Rashford for Manchester United, Joe Riley tells BBC Sport about his new career - and why he does not miss full-time football.",
+        "publishedAt": "2026-09-04T06:59:51.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Zverev battles through after enduring another 2am finish",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/cy0zxxk3y62o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Third seed Felix Auger-Aliassime says he was \"dizzy and seeing spots\" in a surprise second-round loss to Karen Khachanov at the US Open.",
-        "publishedAt": "2026-09-03T21:20:31.000Z",
+        "description": "Top seed Alexander Zverev endures another gruelling five-set US Open match as he overcomes Quentin Halys at 02:15 local time to reach the third round.",
+        "publishedAt": "2026-09-04T06:33:33.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Ashes tickets pricing people out of game - Vaughan",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/ce87v9ljl8no?at_medium=RSS&at_campaign=rss",
+        "title": "How 'unique' Bellingham is thriving in Mourinho's system",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c86xj375x2yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former England captain Michael Vaughan says ticket price rises for next year's men's Ashes are \"pricing a lot of people out of the game.\"",
-        "publishedAt": "2026-09-03T18:57:12.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "'Adonis' Gibbs-White's chance to shine - will Tuchel take notice?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c07lk45y3ego?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Morgan Gibbs-White was left out of England's World Cup squad - will his continued good form be impossible for Thomas Tuchel to ignore?",
-        "publishedAt": "2026-09-03T17:07:18.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "We want Fury v Joshua at Wembley - London mayor",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cz6zdd8yjzzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "London Mayor Sadiq Khan says he is \"really keen\" to host the proposed Tyson Fury-Anthony Joshua fight at Wembley Stadium and has urged promoters to get in touch.",
-        "publishedAt": "2026-09-03T20:17:28.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "No Britons left in US Open singles as Dart & Jones lose",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cwyznnqdd4yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Harriet Dart and Francesca Jones fall to seeded players as British interest in the US Open singles ends in the second round.",
-        "publishedAt": "2026-09-04T01:04:20.000Z",
+        "description": "Jude Bellingham looks fit and ready to build on his World Cup form as he aims to rediscover his best at Real Madrid under Jose Mourinho.",
+        "publishedAt": "2026-09-04T08:08:53.000Z",
         "category": "sports",
         "zone": "ca"
       }
@@ -2774,6 +2774,17 @@
         "zone": "us"
       },
       {
+        "title": "'I lost my savings after a job interview scam'",
+        "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
+        "publishedAt": "2026-09-03T23:41:49.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
         "title": "AI data centres are booming in Australia - but at what cost?",
         "url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2836,17 +2847,6 @@
         },
         "description": "Its backers say it would provide a \"vital safety net\" against runaway AI systems such as those from OpenAI and Anthropic.",
         "publishedAt": "2026-09-02T14:41:52.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "Criminals publish data of 8.7m people after airports hack",
-        "url": "https://www.bbc.co.uk/news/articles/c74k39g3ee5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The company, which owns Manchester, Stansted and East Midlands airports, was hacked last month.",
-        "publishedAt": "2026-09-02T11:00:59.000Z",
         "category": "technology",
         "zone": "us"
       }
@@ -2866,6 +2866,17 @@
         "zone": "gb"
       },
       {
+        "title": "'I lost my savings after a job interview scam'",
+        "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
+        "publishedAt": "2026-09-03T23:41:49.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
         "title": "AI data centres are booming in Australia - but at what cost?",
         "url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2928,17 +2939,6 @@
         },
         "description": "Its backers say it would provide a \"vital safety net\" against runaway AI systems such as those from OpenAI and Anthropic.",
         "publishedAt": "2026-09-02T14:41:52.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "Criminals publish data of 8.7m people after airports hack",
-        "url": "https://www.bbc.co.uk/news/articles/c74k39g3ee5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The company, which owns Manchester, Stansted and East Midlands airports, was hacked last month.",
-        "publishedAt": "2026-09-02T11:00:59.000Z",
         "category": "technology",
         "zone": "gb"
       }
@@ -2958,6 +2958,17 @@
         "zone": "in"
       },
       {
+        "title": "'I lost my savings after a job interview scam'",
+        "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
+        "publishedAt": "2026-09-03T23:41:49.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
         "title": "AI data centres are booming in Australia - but at what cost?",
         "url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3020,17 +3031,6 @@
         },
         "description": "Its backers say it would provide a \"vital safety net\" against runaway AI systems such as those from OpenAI and Anthropic.",
         "publishedAt": "2026-09-02T14:41:52.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "Criminals publish data of 8.7m people after airports hack",
-        "url": "https://www.bbc.co.uk/news/articles/c74k39g3ee5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The company, which owns Manchester, Stansted and East Midlands airports, was hacked last month.",
-        "publishedAt": "2026-09-02T11:00:59.000Z",
         "category": "technology",
         "zone": "in"
       }
@@ -3050,6 +3050,17 @@
         "zone": "au"
       },
       {
+        "title": "'I lost my savings after a job interview scam'",
+        "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
+        "publishedAt": "2026-09-03T23:41:49.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
         "title": "AI data centres are booming in Australia - but at what cost?",
         "url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3112,17 +3123,6 @@
         },
         "description": "Its backers say it would provide a \"vital safety net\" against runaway AI systems such as those from OpenAI and Anthropic.",
         "publishedAt": "2026-09-02T14:41:52.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "Criminals publish data of 8.7m people after airports hack",
-        "url": "https://www.bbc.co.uk/news/articles/c74k39g3ee5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The company, which owns Manchester, Stansted and East Midlands airports, was hacked last month.",
-        "publishedAt": "2026-09-02T11:00:59.000Z",
         "category": "technology",
         "zone": "au"
       }
@@ -3142,6 +3142,17 @@
         "zone": "ca"
       },
       {
+        "title": "'I lost my savings after a job interview scam'",
+        "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
+        "publishedAt": "2026-09-03T23:41:49.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
         "title": "AI data centres are booming in Australia - but at what cost?",
         "url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3204,17 +3215,6 @@
         },
         "description": "Its backers say it would provide a \"vital safety net\" against runaway AI systems such as those from OpenAI and Anthropic.",
         "publishedAt": "2026-09-02T14:41:52.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "Criminals publish data of 8.7m people after airports hack",
-        "url": "https://www.bbc.co.uk/news/articles/c74k39g3ee5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The company, which owns Manchester, Stansted and East Midlands airports, was hacked last month.",
-        "publishedAt": "2026-09-02T11:00:59.000Z",
         "category": "technology",
         "zone": "ca"
       }
