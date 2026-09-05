@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-09-05T18:50:39.821Z",
+  "generatedAt": "2026-09-05T20:58:38.864Z",
   "general_us": {
     "articles": [
+      {
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
+        "publishedAt": "2026-09-05T20:15:49.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
         "url": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
@@ -41,19 +52,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
-        "publishedAt": "2026-09-05T18:48:37.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "US envoys meet Putin in Moscow for Ukraine talks",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
-        "publishedAt": "2026-09-05T17:18:31.000Z",
+        "description": "Iran's state media reported that Tehran has launched retaliatory attacks against three US-affiliated vessels; the US is yet to comment.",
+        "publishedAt": "2026-09-05T20:41:59.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -69,13 +69,13 @@
         "zone": "us"
       },
       {
-        "title": "Trump's response is key as Argentina's Falklands demands get louder",
-        "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
+        "title": "Major disruption as grass fire halts all trains to Heathrow Airport",
+        "url": "https://www.bbc.co.uk/news/articles/cnvl1r1080go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
-        "publishedAt": "2026-09-05T06:20:04.000Z",
+        "description": "Severe delays and cancellations are set to continue, with no trains between central London and the airport.",
+        "publishedAt": "2026-09-05T20:02:12.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -95,6 +95,17 @@
   "general_gb": {
     "articles": [
       {
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
+        "publishedAt": "2026-09-05T20:15:49.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
         "url": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -133,19 +144,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
-        "publishedAt": "2026-09-05T18:48:37.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "US envoys meet Putin in Moscow for Ukraine talks",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
-        "publishedAt": "2026-09-05T17:18:31.000Z",
+        "description": "Iran's state media reported that Tehran has launched retaliatory attacks against three US-affiliated vessels; the US is yet to comment.",
+        "publishedAt": "2026-09-05T20:41:59.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -161,13 +161,13 @@
         "zone": "gb"
       },
       {
-        "title": "Trump's response is key as Argentina's Falklands demands get louder",
-        "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
+        "title": "Major disruption as grass fire halts all trains to Heathrow Airport",
+        "url": "https://www.bbc.co.uk/news/articles/cnvl1r1080go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
-        "publishedAt": "2026-09-05T06:20:04.000Z",
+        "description": "Severe delays and cancellations are set to continue, with no trains between central London and the airport.",
+        "publishedAt": "2026-09-05T20:02:12.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -187,6 +187,17 @@
   "general_in": {
     "articles": [
       {
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
+        "publishedAt": "2026-09-05T20:15:49.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
         "url": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -225,19 +236,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
-        "publishedAt": "2026-09-05T18:48:37.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "US envoys meet Putin in Moscow for Ukraine talks",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
-        "publishedAt": "2026-09-05T17:18:31.000Z",
+        "description": "Iran's state media reported that Tehran has launched retaliatory attacks against three US-affiliated vessels; the US is yet to comment.",
+        "publishedAt": "2026-09-05T20:41:59.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -253,13 +253,13 @@
         "zone": "in"
       },
       {
-        "title": "Trump's response is key as Argentina's Falklands demands get louder",
-        "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
+        "title": "Major disruption as grass fire halts all trains to Heathrow Airport",
+        "url": "https://www.bbc.co.uk/news/articles/cnvl1r1080go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
-        "publishedAt": "2026-09-05T06:20:04.000Z",
+        "description": "Severe delays and cancellations are set to continue, with no trains between central London and the airport.",
+        "publishedAt": "2026-09-05T20:02:12.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -279,6 +279,17 @@
   "general_au": {
     "articles": [
       {
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
+        "publishedAt": "2026-09-05T20:15:49.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
         "url": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -317,19 +328,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
-        "publishedAt": "2026-09-05T18:48:37.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "US envoys meet Putin in Moscow for Ukraine talks",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
-        "publishedAt": "2026-09-05T17:18:31.000Z",
+        "description": "Iran's state media reported that Tehran has launched retaliatory attacks against three US-affiliated vessels; the US is yet to comment.",
+        "publishedAt": "2026-09-05T20:41:59.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -345,13 +345,13 @@
         "zone": "au"
       },
       {
-        "title": "Trump's response is key as Argentina's Falklands demands get louder",
-        "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
+        "title": "Major disruption as grass fire halts all trains to Heathrow Airport",
+        "url": "https://www.bbc.co.uk/news/articles/cnvl1r1080go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
-        "publishedAt": "2026-09-05T06:20:04.000Z",
+        "description": "Severe delays and cancellations are set to continue, with no trains between central London and the airport.",
+        "publishedAt": "2026-09-05T20:02:12.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -371,6 +371,17 @@
   "general_ca": {
     "articles": [
       {
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
+        "publishedAt": "2026-09-05T20:15:49.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
         "url": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -409,19 +420,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
-        "publishedAt": "2026-09-05T18:48:37.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "US envoys meet Putin in Moscow for Ukraine talks",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
-        "publishedAt": "2026-09-05T17:18:31.000Z",
+        "description": "Iran's state media reported that Tehran has launched retaliatory attacks against three US-affiliated vessels; the US is yet to comment.",
+        "publishedAt": "2026-09-05T20:41:59.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -437,13 +437,13 @@
         "zone": "ca"
       },
       {
-        "title": "Trump's response is key as Argentina's Falklands demands get louder",
-        "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
+        "title": "Major disruption as grass fire halts all trains to Heathrow Airport",
+        "url": "https://www.bbc.co.uk/news/articles/cnvl1r1080go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
-        "publishedAt": "2026-09-05T06:20:04.000Z",
+        "description": "Severe delays and cancellations are set to continue, with no trains between central London and the airport.",
+        "publishedAt": "2026-09-05T20:02:12.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -2303,90 +2303,90 @@
   "sports_us": {
     "articles": [
       {
-        "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
+        "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
-        "publishedAt": "2026-09-05T18:04:38.000Z",
+        "description": "Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.",
+        "publishedAt": "2026-09-05T19:08:30.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Alpine's Gasly beats Russell to stunning Monza pole",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c8d31qrg2neo?at_medium=RSS&at_campaign=rss",
+        "title": "From chess to battle for pole, Gasly has Russell covered at Monza",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/c3wjdn80g2jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Alpine driver Pierre Gasly takes a stunning pole position at the Italian Grand Prix, ahead of Mercedes' George Russell.",
-        "publishedAt": "2026-09-05T16:46:01.000Z",
+        "description": "Pierre Gasly delivered the biggest surprise pole position in F1 for years in Italy as the leading contenders had scrappy qualifying sessions.",
+        "publishedAt": "2026-09-05T19:17:33.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
+        "title": "Haaland header maintains perfect winning start for Man City",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cx2zg0zl0nyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
-        "publishedAt": "2026-09-05T17:56:55.000Z",
+        "description": "Manchester City highlighted their early season credentials by maintaining their 100% winning record after three Premier League games, but had to cling on to leave newly promoted Coventry still searching for their first point of the campaign.",
+        "publishedAt": "2026-09-05T19:00:39.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "South Africa finish strongly to take 2-1 series lead against All Blacks",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c7830m55lklo?at_medium=RSS&at_campaign=rss",
+        "title": "Chilwell scores on Palace return in victory at Fulham",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cg59dgn7jm9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "South Africa eventually overpower a spirited New Zealand as the world champions came on strong in the final quarter in Soweto to take a 2-1 series lead.",
-        "publishedAt": "2026-09-05T17:21:39.000Z",
+        "description": "Ben Chilwell scored on his Crystal Palace return as the Eagles came from behind twice to earn a 3-2 win at Fulham.",
+        "publishedAt": "2026-09-05T19:22:17.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Fulham booed off after third defeat in a row",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zqp52pr2o?at_medium=RSS&at_campaign=rss",
+        "title": "Forest and Spurs remain winless after disallowed goal drama in draw",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c4g589gkdepo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fulham arebooed off by some supporters following the 3-2 Premier League defeat by Crystal Palace at Craven Cottage.",
-        "publishedAt": "2026-09-05T18:28:00.000Z",
+        "description": "Tottenham are still waiting for their first Premier League win of the season after a scrappy draw at Nottingham Forest.",
+        "publishedAt": "2026-09-05T19:00:36.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Pompey boss apologises as Cardiff's Bielik clashes with fan",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crm9kv844jvo?at_medium=RSS&at_campaign=rss",
+        "title": "Ramsey strikes late as Newcastle salvage Bournemouth draw",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cvgye9zy419o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Portsmouth head coach John Mousinho apologises to Cardiff City players after an incident involving home fans at Fratton Park during their Championship match.",
-        "publishedAt": "2026-09-05T17:33:25.000Z",
+        "description": "Newcastle fought back from 2-0 down to earn a hard-fought Premier League point at home to Bournemouth thanks to Jacob Ramsey's 88th minute equaliser.",
+        "publishedAt": "2026-09-05T19:00:52.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Glasner and Williams dispute VAR call over Forest handball",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3v4537e60yo?at_medium=RSS&at_campaign=rss",
+        "title": "Late Vuskovic header rescues point for Brighton against Leeds",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c9w4px54j7yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Nottingham Forest manager Oliver Glasner and Neco Williams believe VAR should not have ruled out defender's goal against Tottenham.",
-        "publishedAt": "2026-09-05T18:36:28.000Z",
+        "description": "Leeds were denied a first Premier League win at American Express Stadium as Brighton came from behind to earn a share of the spoils.",
+        "publishedAt": "2026-09-05T19:00:32.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "New season, same flaw - Chelsea title hopes already under scrutiny",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crr4704xvgpo?at_medium=RSS&at_campaign=rss",
+        "title": "Le Fee penalty saves point for Sunderland at Brentford",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c4g70vn2r9eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "With 11 minutes remaining, Chelsea appeared to be cruising to victory in their WSL opener against Aston Villa. So how did they throw it away?",
-        "publishedAt": "2026-09-05T15:27:55.000Z",
+        "description": "Enzo le Fee scored a late penalty to rescue a point for Sunderland in a hard-fought draw with Brentford.",
+        "publishedAt": "2026-09-05T19:31:31.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,90 +2395,90 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
+        "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
-        "publishedAt": "2026-09-05T18:04:38.000Z",
+        "description": "Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.",
+        "publishedAt": "2026-09-05T19:08:30.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Alpine's Gasly beats Russell to stunning Monza pole",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c8d31qrg2neo?at_medium=RSS&at_campaign=rss",
+        "title": "From chess to battle for pole, Gasly has Russell covered at Monza",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/c3wjdn80g2jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Alpine driver Pierre Gasly takes a stunning pole position at the Italian Grand Prix, ahead of Mercedes' George Russell.",
-        "publishedAt": "2026-09-05T16:46:01.000Z",
+        "description": "Pierre Gasly delivered the biggest surprise pole position in F1 for years in Italy as the leading contenders had scrappy qualifying sessions.",
+        "publishedAt": "2026-09-05T19:17:33.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
+        "title": "Haaland header maintains perfect winning start for Man City",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cx2zg0zl0nyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
-        "publishedAt": "2026-09-05T17:56:55.000Z",
+        "description": "Manchester City highlighted their early season credentials by maintaining their 100% winning record after three Premier League games, but had to cling on to leave newly promoted Coventry still searching for their first point of the campaign.",
+        "publishedAt": "2026-09-05T19:00:39.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "South Africa finish strongly to take 2-1 series lead against All Blacks",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c7830m55lklo?at_medium=RSS&at_campaign=rss",
+        "title": "Chilwell scores on Palace return in victory at Fulham",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cg59dgn7jm9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "South Africa eventually overpower a spirited New Zealand as the world champions came on strong in the final quarter in Soweto to take a 2-1 series lead.",
-        "publishedAt": "2026-09-05T17:21:39.000Z",
+        "description": "Ben Chilwell scored on his Crystal Palace return as the Eagles came from behind twice to earn a 3-2 win at Fulham.",
+        "publishedAt": "2026-09-05T19:22:17.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Fulham booed off after third defeat in a row",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zqp52pr2o?at_medium=RSS&at_campaign=rss",
+        "title": "Forest and Spurs remain winless after disallowed goal drama in draw",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c4g589gkdepo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fulham arebooed off by some supporters following the 3-2 Premier League defeat by Crystal Palace at Craven Cottage.",
-        "publishedAt": "2026-09-05T18:28:00.000Z",
+        "description": "Tottenham are still waiting for their first Premier League win of the season after a scrappy draw at Nottingham Forest.",
+        "publishedAt": "2026-09-05T19:00:36.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Pompey boss apologises as Cardiff's Bielik clashes with fan",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crm9kv844jvo?at_medium=RSS&at_campaign=rss",
+        "title": "Ramsey strikes late as Newcastle salvage Bournemouth draw",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cvgye9zy419o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Portsmouth head coach John Mousinho apologises to Cardiff City players after an incident involving home fans at Fratton Park during their Championship match.",
-        "publishedAt": "2026-09-05T17:33:25.000Z",
+        "description": "Newcastle fought back from 2-0 down to earn a hard-fought Premier League point at home to Bournemouth thanks to Jacob Ramsey's 88th minute equaliser.",
+        "publishedAt": "2026-09-05T19:00:52.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Glasner and Williams dispute VAR call over Forest handball",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3v4537e60yo?at_medium=RSS&at_campaign=rss",
+        "title": "Late Vuskovic header rescues point for Brighton against Leeds",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c9w4px54j7yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Nottingham Forest manager Oliver Glasner and Neco Williams believe VAR should not have ruled out defender's goal against Tottenham.",
-        "publishedAt": "2026-09-05T18:36:28.000Z",
+        "description": "Leeds were denied a first Premier League win at American Express Stadium as Brighton came from behind to earn a share of the spoils.",
+        "publishedAt": "2026-09-05T19:00:32.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "New season, same flaw - Chelsea title hopes already under scrutiny",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crr4704xvgpo?at_medium=RSS&at_campaign=rss",
+        "title": "Le Fee penalty saves point for Sunderland at Brentford",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c4g70vn2r9eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "With 11 minutes remaining, Chelsea appeared to be cruising to victory in their WSL opener against Aston Villa. So how did they throw it away?",
-        "publishedAt": "2026-09-05T15:27:55.000Z",
+        "description": "Enzo le Fee scored a late penalty to rescue a point for Sunderland in a hard-fought draw with Brentford.",
+        "publishedAt": "2026-09-05T19:31:31.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,90 +2487,90 @@
   "sports_in": {
     "articles": [
       {
-        "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
+        "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
-        "publishedAt": "2026-09-05T18:04:38.000Z",
+        "description": "Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.",
+        "publishedAt": "2026-09-05T19:08:30.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Alpine's Gasly beats Russell to stunning Monza pole",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c8d31qrg2neo?at_medium=RSS&at_campaign=rss",
+        "title": "From chess to battle for pole, Gasly has Russell covered at Monza",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/c3wjdn80g2jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Alpine driver Pierre Gasly takes a stunning pole position at the Italian Grand Prix, ahead of Mercedes' George Russell.",
-        "publishedAt": "2026-09-05T16:46:01.000Z",
+        "description": "Pierre Gasly delivered the biggest surprise pole position in F1 for years in Italy as the leading contenders had scrappy qualifying sessions.",
+        "publishedAt": "2026-09-05T19:17:33.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
+        "title": "Haaland header maintains perfect winning start for Man City",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cx2zg0zl0nyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
-        "publishedAt": "2026-09-05T17:56:55.000Z",
+        "description": "Manchester City highlighted their early season credentials by maintaining their 100% winning record after three Premier League games, but had to cling on to leave newly promoted Coventry still searching for their first point of the campaign.",
+        "publishedAt": "2026-09-05T19:00:39.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "South Africa finish strongly to take 2-1 series lead against All Blacks",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c7830m55lklo?at_medium=RSS&at_campaign=rss",
+        "title": "Chilwell scores on Palace return in victory at Fulham",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cg59dgn7jm9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "South Africa eventually overpower a spirited New Zealand as the world champions came on strong in the final quarter in Soweto to take a 2-1 series lead.",
-        "publishedAt": "2026-09-05T17:21:39.000Z",
+        "description": "Ben Chilwell scored on his Crystal Palace return as the Eagles came from behind twice to earn a 3-2 win at Fulham.",
+        "publishedAt": "2026-09-05T19:22:17.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Fulham booed off after third defeat in a row",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zqp52pr2o?at_medium=RSS&at_campaign=rss",
+        "title": "Forest and Spurs remain winless after disallowed goal drama in draw",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c4g589gkdepo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fulham arebooed off by some supporters following the 3-2 Premier League defeat by Crystal Palace at Craven Cottage.",
-        "publishedAt": "2026-09-05T18:28:00.000Z",
+        "description": "Tottenham are still waiting for their first Premier League win of the season after a scrappy draw at Nottingham Forest.",
+        "publishedAt": "2026-09-05T19:00:36.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Pompey boss apologises as Cardiff's Bielik clashes with fan",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crm9kv844jvo?at_medium=RSS&at_campaign=rss",
+        "title": "Ramsey strikes late as Newcastle salvage Bournemouth draw",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cvgye9zy419o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Portsmouth head coach John Mousinho apologises to Cardiff City players after an incident involving home fans at Fratton Park during their Championship match.",
-        "publishedAt": "2026-09-05T17:33:25.000Z",
+        "description": "Newcastle fought back from 2-0 down to earn a hard-fought Premier League point at home to Bournemouth thanks to Jacob Ramsey's 88th minute equaliser.",
+        "publishedAt": "2026-09-05T19:00:52.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Glasner and Williams dispute VAR call over Forest handball",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3v4537e60yo?at_medium=RSS&at_campaign=rss",
+        "title": "Late Vuskovic header rescues point for Brighton against Leeds",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c9w4px54j7yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Nottingham Forest manager Oliver Glasner and Neco Williams believe VAR should not have ruled out defender's goal against Tottenham.",
-        "publishedAt": "2026-09-05T18:36:28.000Z",
+        "description": "Leeds were denied a first Premier League win at American Express Stadium as Brighton came from behind to earn a share of the spoils.",
+        "publishedAt": "2026-09-05T19:00:32.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "New season, same flaw - Chelsea title hopes already under scrutiny",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crr4704xvgpo?at_medium=RSS&at_campaign=rss",
+        "title": "Le Fee penalty saves point for Sunderland at Brentford",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c4g70vn2r9eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "With 11 minutes remaining, Chelsea appeared to be cruising to victory in their WSL opener against Aston Villa. So how did they throw it away?",
-        "publishedAt": "2026-09-05T15:27:55.000Z",
+        "description": "Enzo le Fee scored a late penalty to rescue a point for Sunderland in a hard-fought draw with Brentford.",
+        "publishedAt": "2026-09-05T19:31:31.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,90 +2579,90 @@
   "sports_au": {
     "articles": [
       {
-        "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
+        "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
-        "publishedAt": "2026-09-05T18:04:38.000Z",
+        "description": "Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.",
+        "publishedAt": "2026-09-05T19:08:30.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Alpine's Gasly beats Russell to stunning Monza pole",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c8d31qrg2neo?at_medium=RSS&at_campaign=rss",
+        "title": "From chess to battle for pole, Gasly has Russell covered at Monza",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/c3wjdn80g2jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Alpine driver Pierre Gasly takes a stunning pole position at the Italian Grand Prix, ahead of Mercedes' George Russell.",
-        "publishedAt": "2026-09-05T16:46:01.000Z",
+        "description": "Pierre Gasly delivered the biggest surprise pole position in F1 for years in Italy as the leading contenders had scrappy qualifying sessions.",
+        "publishedAt": "2026-09-05T19:17:33.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
+        "title": "Haaland header maintains perfect winning start for Man City",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cx2zg0zl0nyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
-        "publishedAt": "2026-09-05T17:56:55.000Z",
+        "description": "Manchester City highlighted their early season credentials by maintaining their 100% winning record after three Premier League games, but had to cling on to leave newly promoted Coventry still searching for their first point of the campaign.",
+        "publishedAt": "2026-09-05T19:00:39.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "South Africa finish strongly to take 2-1 series lead against All Blacks",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c7830m55lklo?at_medium=RSS&at_campaign=rss",
+        "title": "Chilwell scores on Palace return in victory at Fulham",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cg59dgn7jm9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "South Africa eventually overpower a spirited New Zealand as the world champions came on strong in the final quarter in Soweto to take a 2-1 series lead.",
-        "publishedAt": "2026-09-05T17:21:39.000Z",
+        "description": "Ben Chilwell scored on his Crystal Palace return as the Eagles came from behind twice to earn a 3-2 win at Fulham.",
+        "publishedAt": "2026-09-05T19:22:17.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Fulham booed off after third defeat in a row",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zqp52pr2o?at_medium=RSS&at_campaign=rss",
+        "title": "Forest and Spurs remain winless after disallowed goal drama in draw",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c4g589gkdepo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fulham arebooed off by some supporters following the 3-2 Premier League defeat by Crystal Palace at Craven Cottage.",
-        "publishedAt": "2026-09-05T18:28:00.000Z",
+        "description": "Tottenham are still waiting for their first Premier League win of the season after a scrappy draw at Nottingham Forest.",
+        "publishedAt": "2026-09-05T19:00:36.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Pompey boss apologises as Cardiff's Bielik clashes with fan",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crm9kv844jvo?at_medium=RSS&at_campaign=rss",
+        "title": "Ramsey strikes late as Newcastle salvage Bournemouth draw",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cvgye9zy419o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Portsmouth head coach John Mousinho apologises to Cardiff City players after an incident involving home fans at Fratton Park during their Championship match.",
-        "publishedAt": "2026-09-05T17:33:25.000Z",
+        "description": "Newcastle fought back from 2-0 down to earn a hard-fought Premier League point at home to Bournemouth thanks to Jacob Ramsey's 88th minute equaliser.",
+        "publishedAt": "2026-09-05T19:00:52.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Glasner and Williams dispute VAR call over Forest handball",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3v4537e60yo?at_medium=RSS&at_campaign=rss",
+        "title": "Late Vuskovic header rescues point for Brighton against Leeds",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c9w4px54j7yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Nottingham Forest manager Oliver Glasner and Neco Williams believe VAR should not have ruled out defender's goal against Tottenham.",
-        "publishedAt": "2026-09-05T18:36:28.000Z",
+        "description": "Leeds were denied a first Premier League win at American Express Stadium as Brighton came from behind to earn a share of the spoils.",
+        "publishedAt": "2026-09-05T19:00:32.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "New season, same flaw - Chelsea title hopes already under scrutiny",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crr4704xvgpo?at_medium=RSS&at_campaign=rss",
+        "title": "Le Fee penalty saves point for Sunderland at Brentford",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c4g70vn2r9eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "With 11 minutes remaining, Chelsea appeared to be cruising to victory in their WSL opener against Aston Villa. So how did they throw it away?",
-        "publishedAt": "2026-09-05T15:27:55.000Z",
+        "description": "Enzo le Fee scored a late penalty to rescue a point for Sunderland in a hard-fought draw with Brentford.",
+        "publishedAt": "2026-09-05T19:31:31.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,90 +2671,90 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
+        "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
-        "publishedAt": "2026-09-05T18:04:38.000Z",
+        "description": "Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.",
+        "publishedAt": "2026-09-05T19:08:30.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Alpine's Gasly beats Russell to stunning Monza pole",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c8d31qrg2neo?at_medium=RSS&at_campaign=rss",
+        "title": "From chess to battle for pole, Gasly has Russell covered at Monza",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/c3wjdn80g2jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Alpine driver Pierre Gasly takes a stunning pole position at the Italian Grand Prix, ahead of Mercedes' George Russell.",
-        "publishedAt": "2026-09-05T16:46:01.000Z",
+        "description": "Pierre Gasly delivered the biggest surprise pole position in F1 for years in Italy as the leading contenders had scrappy qualifying sessions.",
+        "publishedAt": "2026-09-05T19:17:33.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
+        "title": "Haaland header maintains perfect winning start for Man City",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cx2zg0zl0nyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
-        "publishedAt": "2026-09-05T17:56:55.000Z",
+        "description": "Manchester City highlighted their early season credentials by maintaining their 100% winning record after three Premier League games, but had to cling on to leave newly promoted Coventry still searching for their first point of the campaign.",
+        "publishedAt": "2026-09-05T19:00:39.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "South Africa finish strongly to take 2-1 series lead against All Blacks",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c7830m55lklo?at_medium=RSS&at_campaign=rss",
+        "title": "Chilwell scores on Palace return in victory at Fulham",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cg59dgn7jm9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "South Africa eventually overpower a spirited New Zealand as the world champions came on strong in the final quarter in Soweto to take a 2-1 series lead.",
-        "publishedAt": "2026-09-05T17:21:39.000Z",
+        "description": "Ben Chilwell scored on his Crystal Palace return as the Eagles came from behind twice to earn a 3-2 win at Fulham.",
+        "publishedAt": "2026-09-05T19:22:17.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Fulham booed off after third defeat in a row",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zqp52pr2o?at_medium=RSS&at_campaign=rss",
+        "title": "Forest and Spurs remain winless after disallowed goal drama in draw",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c4g589gkdepo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fulham arebooed off by some supporters following the 3-2 Premier League defeat by Crystal Palace at Craven Cottage.",
-        "publishedAt": "2026-09-05T18:28:00.000Z",
+        "description": "Tottenham are still waiting for their first Premier League win of the season after a scrappy draw at Nottingham Forest.",
+        "publishedAt": "2026-09-05T19:00:36.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Pompey boss apologises as Cardiff's Bielik clashes with fan",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crm9kv844jvo?at_medium=RSS&at_campaign=rss",
+        "title": "Ramsey strikes late as Newcastle salvage Bournemouth draw",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cvgye9zy419o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Portsmouth head coach John Mousinho apologises to Cardiff City players after an incident involving home fans at Fratton Park during their Championship match.",
-        "publishedAt": "2026-09-05T17:33:25.000Z",
+        "description": "Newcastle fought back from 2-0 down to earn a hard-fought Premier League point at home to Bournemouth thanks to Jacob Ramsey's 88th minute equaliser.",
+        "publishedAt": "2026-09-05T19:00:52.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Glasner and Williams dispute VAR call over Forest handball",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3v4537e60yo?at_medium=RSS&at_campaign=rss",
+        "title": "Late Vuskovic header rescues point for Brighton against Leeds",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c9w4px54j7yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Nottingham Forest manager Oliver Glasner and Neco Williams believe VAR should not have ruled out defender's goal against Tottenham.",
-        "publishedAt": "2026-09-05T18:36:28.000Z",
+        "description": "Leeds were denied a first Premier League win at American Express Stadium as Brighton came from behind to earn a share of the spoils.",
+        "publishedAt": "2026-09-05T19:00:32.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "New season, same flaw - Chelsea title hopes already under scrutiny",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crr4704xvgpo?at_medium=RSS&at_campaign=rss",
+        "title": "Le Fee penalty saves point for Sunderland at Brentford",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c4g70vn2r9eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "With 11 minutes remaining, Chelsea appeared to be cruising to victory in their WSL opener against Aston Villa. So how did they throw it away?",
-        "publishedAt": "2026-09-05T15:27:55.000Z",
+        "description": "Enzo le Fee scored a late penalty to rescue a point for Sunderland in a hard-fought draw with Brentford.",
+        "publishedAt": "2026-09-05T19:31:31.000Z",
         "category": "sports",
         "zone": "ca"
       }
