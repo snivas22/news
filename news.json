@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T16:36:26.683Z",
+  "generatedAt": "2026-09-05T18:50:39.821Z",
   "general_us": {
     "articles": [
       {
@@ -41,8 +41,19 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The tit-for-tat strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
-        "publishedAt": "2026-09-05T16:13:01.000Z",
+        "description": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
+        "publishedAt": "2026-09-05T18:48:37.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
+        "publishedAt": "2026-09-05T17:18:31.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -65,17 +76,6 @@
         },
         "description": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
         "publishedAt": "2026-09-05T06:20:04.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "King and Queen join Highland games fans at Braemar Gathering",
-        "url": "https://www.bbc.co.uk/news/articles/c89jpyk8n80o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The King and Queen watched events including Highland dancing, caber tossing and pipe bands performing at the annual event in Royal Deeside.",
-        "publishedAt": "2026-09-05T16:06:00.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -133,8 +133,19 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The tit-for-tat strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
-        "publishedAt": "2026-09-05T16:13:01.000Z",
+        "description": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
+        "publishedAt": "2026-09-05T18:48:37.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
+        "publishedAt": "2026-09-05T17:18:31.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -157,17 +168,6 @@
         },
         "description": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
         "publishedAt": "2026-09-05T06:20:04.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "King and Queen join Highland games fans at Braemar Gathering",
-        "url": "https://www.bbc.co.uk/news/articles/c89jpyk8n80o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The King and Queen watched events including Highland dancing, caber tossing and pipe bands performing at the annual event in Royal Deeside.",
-        "publishedAt": "2026-09-05T16:06:00.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -225,8 +225,19 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The tit-for-tat strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
-        "publishedAt": "2026-09-05T16:13:01.000Z",
+        "description": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
+        "publishedAt": "2026-09-05T18:48:37.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
+        "publishedAt": "2026-09-05T17:18:31.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -249,17 +260,6 @@
         },
         "description": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
         "publishedAt": "2026-09-05T06:20:04.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "King and Queen join Highland games fans at Braemar Gathering",
-        "url": "https://www.bbc.co.uk/news/articles/c89jpyk8n80o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The King and Queen watched events including Highland dancing, caber tossing and pipe bands performing at the annual event in Royal Deeside.",
-        "publishedAt": "2026-09-05T16:06:00.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -317,8 +317,19 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The tit-for-tat strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
-        "publishedAt": "2026-09-05T16:13:01.000Z",
+        "description": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
+        "publishedAt": "2026-09-05T18:48:37.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
+        "publishedAt": "2026-09-05T17:18:31.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -341,17 +352,6 @@
         },
         "description": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
         "publishedAt": "2026-09-05T06:20:04.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "King and Queen join Highland games fans at Braemar Gathering",
-        "url": "https://www.bbc.co.uk/news/articles/c89jpyk8n80o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The King and Queen watched events including Highland dancing, caber tossing and pipe bands performing at the annual event in Royal Deeside.",
-        "publishedAt": "2026-09-05T16:06:00.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -409,8 +409,19 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The tit-for-tat strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
-        "publishedAt": "2026-09-05T16:13:01.000Z",
+        "description": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
+        "publishedAt": "2026-09-05T18:48:37.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
+        "publishedAt": "2026-09-05T17:18:31.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -433,17 +444,6 @@
         },
         "description": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
         "publishedAt": "2026-09-05T06:20:04.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "King and Queen join Highland games fans at Braemar Gathering",
-        "url": "https://www.bbc.co.uk/news/articles/c89jpyk8n80o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The King and Queen watched events including Highland dancing, caber tossing and pipe bands performing at the annual event in Royal Deeside.",
-        "publishedAt": "2026-09-05T16:06:00.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -2303,13 +2303,79 @@
   "sports_us": {
     "articles": [
       {
+        "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
+        "publishedAt": "2026-09-05T18:04:38.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Alpine's Gasly beats Russell to stunning Monza pole",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/c8d31qrg2neo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Alpine driver Pierre Gasly takes a stunning pole position at the Italian Grand Prix, ahead of Mercedes' George Russell.",
-        "publishedAt": "2026-09-05T16:28:00.000Z",
+        "publishedAt": "2026-09-05T16:46:01.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
+        "publishedAt": "2026-09-05T17:56:55.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "South Africa finish strongly to take 2-1 series lead against All Blacks",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c7830m55lklo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "South Africa eventually overpower a spirited New Zealand as the world champions came on strong in the final quarter in Soweto to take a 2-1 series lead.",
+        "publishedAt": "2026-09-05T17:21:39.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Fulham booed off after third defeat in a row",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zqp52pr2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fulham arebooed off by some supporters following the 3-2 Premier League defeat by Crystal Palace at Craven Cottage.",
+        "publishedAt": "2026-09-05T18:28:00.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Pompey boss apologises as Cardiff's Bielik clashes with fan",
+        "url": "https://www.bbc.co.uk/sport/football/articles/crm9kv844jvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Portsmouth head coach John Mousinho apologises to Cardiff City players after an incident involving home fans at Fratton Park during their Championship match.",
+        "publishedAt": "2026-09-05T17:33:25.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Glasner and Williams dispute VAR call over Forest handball",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3v4537e60yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Nottingham Forest manager Oliver Glasner and Neco Williams believe VAR should not have ruled out defender's goal against Tottenham.",
+        "publishedAt": "2026-09-05T18:36:28.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2321,72 +2387,6 @@
         },
         "description": "With 11 minutes remaining, Chelsea appeared to be cruising to victory in their WSL opener against Aston Villa. So how did they throw it away?",
         "publishedAt": "2026-09-05T15:27:55.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Scott shines, Dedic struggles - Newcastle v Bournemouth player ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr4vzr9n2nyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "How Newcastle United and Bournemouth's players rated in their Premier League match.",
-        "publishedAt": "2026-09-05T13:32:05.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Pogacar will miss rest of season after Vuelta crash",
-        "url": "https://www.bbc.co.uk/sport/cycling/articles/c1dle4xep96o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Five-time Tour de France champion Tadej Pogacar will not race again this season after suffering injuries including a fracture in his neck at the Vuelta a Espana.",
-        "publishedAt": "2026-09-05T12:11:51.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Jaissle fumes at 'slapstick' goals as Newcastle rescue Bournemouth draw",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cvgy1nvm5jko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Newcastle United manager Matthias Jaissle shares his \"mixed feelings\" on their late 2-2 draw against Bournemouth, describing the goals conceded by his side at St. James' Park as \"slapstick\".",
-        "publishedAt": "2026-09-05T15:13:39.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Chelsea drop points against Aston Villa for the first time in WSL",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm2r33yl57xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Aston Villa scored a late equaliser against the run of play to disrupt Chelsea's start to the Women's Super League campaign.",
-        "publishedAt": "2026-09-05T14:03:29.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Isak's early double gives Liverpool victory over Ipswich",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cgmr1z492k9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alexander Isak scores twice in the opening ten minutes as Liverpool pick up their first win of the season with a 2-0 victory at Ipswich.",
-        "publishedAt": "2026-09-04T21:31:56.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "'It's not Chelsea's standard' - McCabe on 'frustrating' draw against Aston Villa",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c62e99y152go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chelsea' Katie McCabe describes their result against Aston Villa as 'frustrating' but also that there's 'no need to panic' as its still early days for the 2026-27 WSL season.",
-        "publishedAt": "2026-09-05T15:12:58.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,13 +2395,79 @@
   "sports_gb": {
     "articles": [
       {
+        "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
+        "publishedAt": "2026-09-05T18:04:38.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Alpine's Gasly beats Russell to stunning Monza pole",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/c8d31qrg2neo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Alpine driver Pierre Gasly takes a stunning pole position at the Italian Grand Prix, ahead of Mercedes' George Russell.",
-        "publishedAt": "2026-09-05T16:28:00.000Z",
+        "publishedAt": "2026-09-05T16:46:01.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
+        "publishedAt": "2026-09-05T17:56:55.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "South Africa finish strongly to take 2-1 series lead against All Blacks",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c7830m55lklo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "South Africa eventually overpower a spirited New Zealand as the world champions came on strong in the final quarter in Soweto to take a 2-1 series lead.",
+        "publishedAt": "2026-09-05T17:21:39.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Fulham booed off after third defeat in a row",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zqp52pr2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fulham arebooed off by some supporters following the 3-2 Premier League defeat by Crystal Palace at Craven Cottage.",
+        "publishedAt": "2026-09-05T18:28:00.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Pompey boss apologises as Cardiff's Bielik clashes with fan",
+        "url": "https://www.bbc.co.uk/sport/football/articles/crm9kv844jvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Portsmouth head coach John Mousinho apologises to Cardiff City players after an incident involving home fans at Fratton Park during their Championship match.",
+        "publishedAt": "2026-09-05T17:33:25.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Glasner and Williams dispute VAR call over Forest handball",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3v4537e60yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Nottingham Forest manager Oliver Glasner and Neco Williams believe VAR should not have ruled out defender's goal against Tottenham.",
+        "publishedAt": "2026-09-05T18:36:28.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2413,72 +2479,6 @@
         },
         "description": "With 11 minutes remaining, Chelsea appeared to be cruising to victory in their WSL opener against Aston Villa. So how did they throw it away?",
         "publishedAt": "2026-09-05T15:27:55.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Scott shines, Dedic struggles - Newcastle v Bournemouth player ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr4vzr9n2nyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "How Newcastle United and Bournemouth's players rated in their Premier League match.",
-        "publishedAt": "2026-09-05T13:32:05.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Pogacar will miss rest of season after Vuelta crash",
-        "url": "https://www.bbc.co.uk/sport/cycling/articles/c1dle4xep96o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Five-time Tour de France champion Tadej Pogacar will not race again this season after suffering injuries including a fracture in his neck at the Vuelta a Espana.",
-        "publishedAt": "2026-09-05T12:11:51.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Jaissle fumes at 'slapstick' goals as Newcastle rescue Bournemouth draw",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cvgy1nvm5jko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Newcastle United manager Matthias Jaissle shares his \"mixed feelings\" on their late 2-2 draw against Bournemouth, describing the goals conceded by his side at St. James' Park as \"slapstick\".",
-        "publishedAt": "2026-09-05T15:13:39.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Chelsea drop points against Aston Villa for the first time in WSL",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm2r33yl57xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Aston Villa scored a late equaliser against the run of play to disrupt Chelsea's start to the Women's Super League campaign.",
-        "publishedAt": "2026-09-05T14:03:29.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Isak's early double gives Liverpool victory over Ipswich",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cgmr1z492k9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alexander Isak scores twice in the opening ten minutes as Liverpool pick up their first win of the season with a 2-0 victory at Ipswich.",
-        "publishedAt": "2026-09-04T21:31:56.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "'It's not Chelsea's standard' - McCabe on 'frustrating' draw against Aston Villa",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c62e99y152go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chelsea' Katie McCabe describes their result against Aston Villa as 'frustrating' but also that there's 'no need to panic' as its still early days for the 2026-27 WSL season.",
-        "publishedAt": "2026-09-05T15:12:58.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,13 +2487,79 @@
   "sports_in": {
     "articles": [
       {
+        "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
+        "publishedAt": "2026-09-05T18:04:38.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Alpine's Gasly beats Russell to stunning Monza pole",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/c8d31qrg2neo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Alpine driver Pierre Gasly takes a stunning pole position at the Italian Grand Prix, ahead of Mercedes' George Russell.",
-        "publishedAt": "2026-09-05T16:28:00.000Z",
+        "publishedAt": "2026-09-05T16:46:01.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
+        "publishedAt": "2026-09-05T17:56:55.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "South Africa finish strongly to take 2-1 series lead against All Blacks",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c7830m55lklo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "South Africa eventually overpower a spirited New Zealand as the world champions came on strong in the final quarter in Soweto to take a 2-1 series lead.",
+        "publishedAt": "2026-09-05T17:21:39.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Fulham booed off after third defeat in a row",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zqp52pr2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fulham arebooed off by some supporters following the 3-2 Premier League defeat by Crystal Palace at Craven Cottage.",
+        "publishedAt": "2026-09-05T18:28:00.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Pompey boss apologises as Cardiff's Bielik clashes with fan",
+        "url": "https://www.bbc.co.uk/sport/football/articles/crm9kv844jvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Portsmouth head coach John Mousinho apologises to Cardiff City players after an incident involving home fans at Fratton Park during their Championship match.",
+        "publishedAt": "2026-09-05T17:33:25.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Glasner and Williams dispute VAR call over Forest handball",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3v4537e60yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Nottingham Forest manager Oliver Glasner and Neco Williams believe VAR should not have ruled out defender's goal against Tottenham.",
+        "publishedAt": "2026-09-05T18:36:28.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2505,72 +2571,6 @@
         },
         "description": "With 11 minutes remaining, Chelsea appeared to be cruising to victory in their WSL opener against Aston Villa. So how did they throw it away?",
         "publishedAt": "2026-09-05T15:27:55.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Scott shines, Dedic struggles - Newcastle v Bournemouth player ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr4vzr9n2nyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "How Newcastle United and Bournemouth's players rated in their Premier League match.",
-        "publishedAt": "2026-09-05T13:32:05.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Pogacar will miss rest of season after Vuelta crash",
-        "url": "https://www.bbc.co.uk/sport/cycling/articles/c1dle4xep96o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Five-time Tour de France champion Tadej Pogacar will not race again this season after suffering injuries including a fracture in his neck at the Vuelta a Espana.",
-        "publishedAt": "2026-09-05T12:11:51.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Jaissle fumes at 'slapstick' goals as Newcastle rescue Bournemouth draw",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cvgy1nvm5jko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Newcastle United manager Matthias Jaissle shares his \"mixed feelings\" on their late 2-2 draw against Bournemouth, describing the goals conceded by his side at St. James' Park as \"slapstick\".",
-        "publishedAt": "2026-09-05T15:13:39.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Chelsea drop points against Aston Villa for the first time in WSL",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm2r33yl57xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Aston Villa scored a late equaliser against the run of play to disrupt Chelsea's start to the Women's Super League campaign.",
-        "publishedAt": "2026-09-05T14:03:29.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Isak's early double gives Liverpool victory over Ipswich",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cgmr1z492k9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alexander Isak scores twice in the opening ten minutes as Liverpool pick up their first win of the season with a 2-0 victory at Ipswich.",
-        "publishedAt": "2026-09-04T21:31:56.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "'It's not Chelsea's standard' - McCabe on 'frustrating' draw against Aston Villa",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c62e99y152go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chelsea' Katie McCabe describes their result against Aston Villa as 'frustrating' but also that there's 'no need to panic' as its still early days for the 2026-27 WSL season.",
-        "publishedAt": "2026-09-05T15:12:58.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,13 +2579,79 @@
   "sports_au": {
     "articles": [
       {
+        "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
+        "publishedAt": "2026-09-05T18:04:38.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Alpine's Gasly beats Russell to stunning Monza pole",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/c8d31qrg2neo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Alpine driver Pierre Gasly takes a stunning pole position at the Italian Grand Prix, ahead of Mercedes' George Russell.",
-        "publishedAt": "2026-09-05T16:28:00.000Z",
+        "publishedAt": "2026-09-05T16:46:01.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
+        "publishedAt": "2026-09-05T17:56:55.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "South Africa finish strongly to take 2-1 series lead against All Blacks",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c7830m55lklo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "South Africa eventually overpower a spirited New Zealand as the world champions came on strong in the final quarter in Soweto to take a 2-1 series lead.",
+        "publishedAt": "2026-09-05T17:21:39.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Fulham booed off after third defeat in a row",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zqp52pr2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fulham arebooed off by some supporters following the 3-2 Premier League defeat by Crystal Palace at Craven Cottage.",
+        "publishedAt": "2026-09-05T18:28:00.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Pompey boss apologises as Cardiff's Bielik clashes with fan",
+        "url": "https://www.bbc.co.uk/sport/football/articles/crm9kv844jvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Portsmouth head coach John Mousinho apologises to Cardiff City players after an incident involving home fans at Fratton Park during their Championship match.",
+        "publishedAt": "2026-09-05T17:33:25.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Glasner and Williams dispute VAR call over Forest handball",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3v4537e60yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Nottingham Forest manager Oliver Glasner and Neco Williams believe VAR should not have ruled out defender's goal against Tottenham.",
+        "publishedAt": "2026-09-05T18:36:28.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2597,72 +2663,6 @@
         },
         "description": "With 11 minutes remaining, Chelsea appeared to be cruising to victory in their WSL opener against Aston Villa. So how did they throw it away?",
         "publishedAt": "2026-09-05T15:27:55.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Scott shines, Dedic struggles - Newcastle v Bournemouth player ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr4vzr9n2nyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "How Newcastle United and Bournemouth's players rated in their Premier League match.",
-        "publishedAt": "2026-09-05T13:32:05.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Pogacar will miss rest of season after Vuelta crash",
-        "url": "https://www.bbc.co.uk/sport/cycling/articles/c1dle4xep96o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Five-time Tour de France champion Tadej Pogacar will not race again this season after suffering injuries including a fracture in his neck at the Vuelta a Espana.",
-        "publishedAt": "2026-09-05T12:11:51.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Jaissle fumes at 'slapstick' goals as Newcastle rescue Bournemouth draw",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cvgy1nvm5jko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Newcastle United manager Matthias Jaissle shares his \"mixed feelings\" on their late 2-2 draw against Bournemouth, describing the goals conceded by his side at St. James' Park as \"slapstick\".",
-        "publishedAt": "2026-09-05T15:13:39.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Chelsea drop points against Aston Villa for the first time in WSL",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm2r33yl57xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Aston Villa scored a late equaliser against the run of play to disrupt Chelsea's start to the Women's Super League campaign.",
-        "publishedAt": "2026-09-05T14:03:29.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Isak's early double gives Liverpool victory over Ipswich",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cgmr1z492k9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alexander Isak scores twice in the opening ten minutes as Liverpool pick up their first win of the season with a 2-0 victory at Ipswich.",
-        "publishedAt": "2026-09-04T21:31:56.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "'It's not Chelsea's standard' - McCabe on 'frustrating' draw against Aston Villa",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c62e99y152go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chelsea' Katie McCabe describes their result against Aston Villa as 'frustrating' but also that there's 'no need to panic' as its still early days for the 2026-27 WSL season.",
-        "publishedAt": "2026-09-05T15:12:58.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,13 +2671,79 @@
   "sports_ca": {
     "articles": [
       {
+        "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
+        "publishedAt": "2026-09-05T18:04:38.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Alpine's Gasly beats Russell to stunning Monza pole",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/c8d31qrg2neo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Alpine driver Pierre Gasly takes a stunning pole position at the Italian Grand Prix, ahead of Mercedes' George Russell.",
-        "publishedAt": "2026-09-05T16:28:00.000Z",
+        "publishedAt": "2026-09-05T16:46:01.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
+        "publishedAt": "2026-09-05T17:56:55.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "South Africa finish strongly to take 2-1 series lead against All Blacks",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c7830m55lklo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "South Africa eventually overpower a spirited New Zealand as the world champions came on strong in the final quarter in Soweto to take a 2-1 series lead.",
+        "publishedAt": "2026-09-05T17:21:39.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Fulham booed off after third defeat in a row",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zqp52pr2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fulham arebooed off by some supporters following the 3-2 Premier League defeat by Crystal Palace at Craven Cottage.",
+        "publishedAt": "2026-09-05T18:28:00.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Pompey boss apologises as Cardiff's Bielik clashes with fan",
+        "url": "https://www.bbc.co.uk/sport/football/articles/crm9kv844jvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Portsmouth head coach John Mousinho apologises to Cardiff City players after an incident involving home fans at Fratton Park during their Championship match.",
+        "publishedAt": "2026-09-05T17:33:25.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Glasner and Williams dispute VAR call over Forest handball",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3v4537e60yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Nottingham Forest manager Oliver Glasner and Neco Williams believe VAR should not have ruled out defender's goal against Tottenham.",
+        "publishedAt": "2026-09-05T18:36:28.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2689,72 +2755,6 @@
         },
         "description": "With 11 minutes remaining, Chelsea appeared to be cruising to victory in their WSL opener against Aston Villa. So how did they throw it away?",
         "publishedAt": "2026-09-05T15:27:55.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Scott shines, Dedic struggles - Newcastle v Bournemouth player ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr4vzr9n2nyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "How Newcastle United and Bournemouth's players rated in their Premier League match.",
-        "publishedAt": "2026-09-05T13:32:05.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Pogacar will miss rest of season after Vuelta crash",
-        "url": "https://www.bbc.co.uk/sport/cycling/articles/c1dle4xep96o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Five-time Tour de France champion Tadej Pogacar will not race again this season after suffering injuries including a fracture in his neck at the Vuelta a Espana.",
-        "publishedAt": "2026-09-05T12:11:51.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Jaissle fumes at 'slapstick' goals as Newcastle rescue Bournemouth draw",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cvgy1nvm5jko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Newcastle United manager Matthias Jaissle shares his \"mixed feelings\" on their late 2-2 draw against Bournemouth, describing the goals conceded by his side at St. James' Park as \"slapstick\".",
-        "publishedAt": "2026-09-05T15:13:39.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Chelsea drop points against Aston Villa for the first time in WSL",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm2r33yl57xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Aston Villa scored a late equaliser against the run of play to disrupt Chelsea's start to the Women's Super League campaign.",
-        "publishedAt": "2026-09-05T14:03:29.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Isak's early double gives Liverpool victory over Ipswich",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cgmr1z492k9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alexander Isak scores twice in the opening ten minutes as Liverpool pick up their first win of the season with a 2-0 victory at Ipswich.",
-        "publishedAt": "2026-09-04T21:31:56.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "'It's not Chelsea's standard' - McCabe on 'frustrating' draw against Aston Villa",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c62e99y152go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chelsea' Katie McCabe describes their result against Aston Villa as 'frustrating' but also that there's 'no need to panic' as its still early days for the 2026-27 WSL season.",
-        "publishedAt": "2026-09-05T15:12:58.000Z",
         "category": "sports",
         "zone": "ca"
       }
