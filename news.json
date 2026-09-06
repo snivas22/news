@@ -1,15 +1,37 @@
 {
-  "generatedAt": "2026-09-06T10:28:45.705Z",
+  "generatedAt": "2026-09-06T13:59:45.094Z",
   "general_us": {
     "articles": [
       {
-        "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+        "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
         "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
-        "publishedAt": "2026-09-06T02:24:16.000Z",
+        "description": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
+        "publishedAt": "2026-09-06T13:16:21.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Police slow to respond to Dover protest, says council boss",
+        "url": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The \"exceptionally well organised\" protest \"caught several agencies on the hoof\", the leader says.",
+        "publishedAt": "2026-09-06T10:59:35.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+        "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+        "publishedAt": "2026-09-06T10:29:03.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -21,39 +43,6 @@
         },
         "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
         "publishedAt": "2026-09-06T08:05:22.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Police slow to respond to Dover protest, says council boss",
-        "url": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The \"exceptionally well organised\" protest \"caught several agencies on the hoof\", the leader says.",
-        "publishedAt": "2026-09-06T09:53:57.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-        "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-        "publishedAt": "2026-09-05T23:20:00.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Temperatures could climb to 28C in late burst of warmth",
-        "url": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A summer-like day is in store for some on Sunday with above average temperatures, but the heat will be short-lived.",
-        "publishedAt": "2026-09-06T04:08:41.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -76,6 +65,17 @@
         },
         "description": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
         "publishedAt": "2026-09-06T09:56:39.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Temperatures could climb to 28C in late burst of warmth",
+        "url": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A summer-like day is in store for some on Sunday with above average temperatures, but the heat will be short-lived.",
+        "publishedAt": "2026-09-06T04:08:41.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -95,13 +95,35 @@
   "general_gb": {
     "articles": [
       {
-        "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+        "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
         "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
-        "publishedAt": "2026-09-06T02:24:16.000Z",
+        "description": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
+        "publishedAt": "2026-09-06T13:16:21.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Police slow to respond to Dover protest, says council boss",
+        "url": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The \"exceptionally well organised\" protest \"caught several agencies on the hoof\", the leader says.",
+        "publishedAt": "2026-09-06T10:59:35.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+        "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+        "publishedAt": "2026-09-06T10:29:03.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -113,39 +135,6 @@
         },
         "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
         "publishedAt": "2026-09-06T08:05:22.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Police slow to respond to Dover protest, says council boss",
-        "url": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The \"exceptionally well organised\" protest \"caught several agencies on the hoof\", the leader says.",
-        "publishedAt": "2026-09-06T09:53:57.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-        "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-        "publishedAt": "2026-09-05T23:20:00.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Temperatures could climb to 28C in late burst of warmth",
-        "url": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A summer-like day is in store for some on Sunday with above average temperatures, but the heat will be short-lived.",
-        "publishedAt": "2026-09-06T04:08:41.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -168,6 +157,17 @@
         },
         "description": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
         "publishedAt": "2026-09-06T09:56:39.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Temperatures could climb to 28C in late burst of warmth",
+        "url": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A summer-like day is in store for some on Sunday with above average temperatures, but the heat will be short-lived.",
+        "publishedAt": "2026-09-06T04:08:41.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -187,13 +187,35 @@
   "general_in": {
     "articles": [
       {
-        "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+        "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
         "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
-        "publishedAt": "2026-09-06T02:24:16.000Z",
+        "description": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
+        "publishedAt": "2026-09-06T13:16:21.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Police slow to respond to Dover protest, says council boss",
+        "url": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The \"exceptionally well organised\" protest \"caught several agencies on the hoof\", the leader says.",
+        "publishedAt": "2026-09-06T10:59:35.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+        "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+        "publishedAt": "2026-09-06T10:29:03.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -205,39 +227,6 @@
         },
         "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
         "publishedAt": "2026-09-06T08:05:22.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Police slow to respond to Dover protest, says council boss",
-        "url": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The \"exceptionally well organised\" protest \"caught several agencies on the hoof\", the leader says.",
-        "publishedAt": "2026-09-06T09:53:57.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-        "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-        "publishedAt": "2026-09-05T23:20:00.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Temperatures could climb to 28C in late burst of warmth",
-        "url": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A summer-like day is in store for some on Sunday with above average temperatures, but the heat will be short-lived.",
-        "publishedAt": "2026-09-06T04:08:41.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -260,6 +249,17 @@
         },
         "description": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
         "publishedAt": "2026-09-06T09:56:39.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Temperatures could climb to 28C in late burst of warmth",
+        "url": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A summer-like day is in store for some on Sunday with above average temperatures, but the heat will be short-lived.",
+        "publishedAt": "2026-09-06T04:08:41.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -279,13 +279,35 @@
   "general_au": {
     "articles": [
       {
-        "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+        "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
         "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
-        "publishedAt": "2026-09-06T02:24:16.000Z",
+        "description": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
+        "publishedAt": "2026-09-06T13:16:21.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Police slow to respond to Dover protest, says council boss",
+        "url": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The \"exceptionally well organised\" protest \"caught several agencies on the hoof\", the leader says.",
+        "publishedAt": "2026-09-06T10:59:35.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+        "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+        "publishedAt": "2026-09-06T10:29:03.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -297,39 +319,6 @@
         },
         "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
         "publishedAt": "2026-09-06T08:05:22.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Police slow to respond to Dover protest, says council boss",
-        "url": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The \"exceptionally well organised\" protest \"caught several agencies on the hoof\", the leader says.",
-        "publishedAt": "2026-09-06T09:53:57.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-        "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-        "publishedAt": "2026-09-05T23:20:00.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Temperatures could climb to 28C in late burst of warmth",
-        "url": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A summer-like day is in store for some on Sunday with above average temperatures, but the heat will be short-lived.",
-        "publishedAt": "2026-09-06T04:08:41.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -352,6 +341,17 @@
         },
         "description": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
         "publishedAt": "2026-09-06T09:56:39.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Temperatures could climb to 28C in late burst of warmth",
+        "url": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A summer-like day is in store for some on Sunday with above average temperatures, but the heat will be short-lived.",
+        "publishedAt": "2026-09-06T04:08:41.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -371,13 +371,35 @@
   "general_ca": {
     "articles": [
       {
-        "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+        "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
         "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
-        "publishedAt": "2026-09-06T02:24:16.000Z",
+        "description": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
+        "publishedAt": "2026-09-06T13:16:21.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Police slow to respond to Dover protest, says council boss",
+        "url": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The \"exceptionally well organised\" protest \"caught several agencies on the hoof\", the leader says.",
+        "publishedAt": "2026-09-06T10:59:35.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+        "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+        "publishedAt": "2026-09-06T10:29:03.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -389,39 +411,6 @@
         },
         "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
         "publishedAt": "2026-09-06T08:05:22.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Police slow to respond to Dover protest, says council boss",
-        "url": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The \"exceptionally well organised\" protest \"caught several agencies on the hoof\", the leader says.",
-        "publishedAt": "2026-09-06T09:53:57.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-        "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-        "publishedAt": "2026-09-05T23:20:00.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Temperatures could climb to 28C in late burst of warmth",
-        "url": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A summer-like day is in store for some on Sunday with above average temperatures, but the heat will be short-lived.",
-        "publishedAt": "2026-09-06T04:08:41.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -448,6 +437,17 @@
         "zone": "ca"
       },
       {
+        "title": "Temperatures could climb to 28C in late burst of warmth",
+        "url": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A summer-like day is in store for some on Sunday with above average temperatures, but the heat will be short-lived.",
+        "publishedAt": "2026-09-06T04:08:41.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Why more women carry the 'mental load' - and how couples can share it",
         "url": "https://www.bbc.co.uk/news/articles/c24j1r45r49o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -463,6 +463,17 @@
   "business_us": {
     "articles": [
       {
+        "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+        "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+        "publishedAt": "2026-09-06T10:29:03.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "Stock up on food to prepare for extreme weather, minister says",
         "url": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -470,17 +481,6 @@
         },
         "description": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
         "publishedAt": "2026-09-04T10:40:23.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Jaguar Land Rover confirms planned job cuts",
-        "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm says it needs to save about £1.7bn over the next two years.",
-        "publishedAt": "2026-09-05T13:22:17.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -529,17 +529,6 @@
         "zone": "us"
       },
       {
-        "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
-        "url": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
-        "publishedAt": "2026-09-04T07:19:06.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
         "title": "UK petrol prices hit highest level since Iran war began",
         "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -547,6 +536,17 @@
         },
         "description": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
         "publishedAt": "2026-09-04T13:05:52.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Jaguar Land Rover confirms planned job cuts",
+        "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The firm says it needs to save about £1.7bn over the next two years.",
+        "publishedAt": "2026-09-05T13:22:17.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,6 +555,17 @@
   "business_gb": {
     "articles": [
       {
+        "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+        "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+        "publishedAt": "2026-09-06T10:29:03.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "Stock up on food to prepare for extreme weather, minister says",
         "url": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -562,17 +573,6 @@
         },
         "description": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
         "publishedAt": "2026-09-04T10:40:23.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Jaguar Land Rover confirms planned job cuts",
-        "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm says it needs to save about £1.7bn over the next two years.",
-        "publishedAt": "2026-09-05T13:22:17.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -621,17 +621,6 @@
         "zone": "gb"
       },
       {
-        "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
-        "url": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
-        "publishedAt": "2026-09-04T07:19:06.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
         "title": "UK petrol prices hit highest level since Iran war began",
         "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -639,6 +628,17 @@
         },
         "description": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
         "publishedAt": "2026-09-04T13:05:52.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Jaguar Land Rover confirms planned job cuts",
+        "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The firm says it needs to save about £1.7bn over the next two years.",
+        "publishedAt": "2026-09-05T13:22:17.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,6 +647,17 @@
   "business_in": {
     "articles": [
       {
+        "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+        "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+        "publishedAt": "2026-09-06T10:29:03.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "Stock up on food to prepare for extreme weather, minister says",
         "url": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -654,17 +665,6 @@
         },
         "description": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
         "publishedAt": "2026-09-04T10:40:23.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Jaguar Land Rover confirms planned job cuts",
-        "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm says it needs to save about £1.7bn over the next two years.",
-        "publishedAt": "2026-09-05T13:22:17.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -713,17 +713,6 @@
         "zone": "in"
       },
       {
-        "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
-        "url": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
-        "publishedAt": "2026-09-04T07:19:06.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
         "title": "UK petrol prices hit highest level since Iran war began",
         "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -731,6 +720,17 @@
         },
         "description": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
         "publishedAt": "2026-09-04T13:05:52.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Jaguar Land Rover confirms planned job cuts",
+        "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The firm says it needs to save about £1.7bn over the next two years.",
+        "publishedAt": "2026-09-05T13:22:17.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,6 +739,17 @@
   "business_au": {
     "articles": [
       {
+        "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+        "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+        "publishedAt": "2026-09-06T10:29:03.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "Stock up on food to prepare for extreme weather, minister says",
         "url": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -746,17 +757,6 @@
         },
         "description": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
         "publishedAt": "2026-09-04T10:40:23.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Jaguar Land Rover confirms planned job cuts",
-        "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm says it needs to save about £1.7bn over the next two years.",
-        "publishedAt": "2026-09-05T13:22:17.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -805,17 +805,6 @@
         "zone": "au"
       },
       {
-        "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
-        "url": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
-        "publishedAt": "2026-09-04T07:19:06.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
         "title": "UK petrol prices hit highest level since Iran war began",
         "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -823,6 +812,17 @@
         },
         "description": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
         "publishedAt": "2026-09-04T13:05:52.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Jaguar Land Rover confirms planned job cuts",
+        "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The firm says it needs to save about £1.7bn over the next two years.",
+        "publishedAt": "2026-09-05T13:22:17.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,6 +831,17 @@
   "business_ca": {
     "articles": [
       {
+        "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+        "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+        "publishedAt": "2026-09-06T10:29:03.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "Stock up on food to prepare for extreme weather, minister says",
         "url": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -838,17 +849,6 @@
         },
         "description": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
         "publishedAt": "2026-09-04T10:40:23.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Jaguar Land Rover confirms planned job cuts",
-        "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm says it needs to save about £1.7bn over the next two years.",
-        "publishedAt": "2026-09-05T13:22:17.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -897,17 +897,6 @@
         "zone": "ca"
       },
       {
-        "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
-        "url": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
-        "publishedAt": "2026-09-04T07:19:06.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
         "title": "UK petrol prices hit highest level since Iran war began",
         "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -915,6 +904,17 @@
         },
         "description": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
         "publishedAt": "2026-09-04T13:05:52.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Jaguar Land Rover confirms planned job cuts",
+        "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The firm says it needs to save about £1.7bn over the next two years.",
+        "publishedAt": "2026-09-05T13:22:17.000Z",
         "category": "business",
         "zone": "ca"
       }
@@ -2303,6 +2303,28 @@
   "sports_us": {
     "articles": [
       {
+        "title": "Vardy joins Burnley on season-long contract",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cdx5v3405k3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Former Leicester City and England striker Jamie Vardy joins Burnley until the end of the season.",
+        "publishedAt": "2026-09-06T13:47:10.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Fifa president Infantino will stand for re-election",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
+        "publishedAt": "2026-09-06T13:01:17.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Taylor's place among greats set in stone after extraordinary swansong",
         "url": "https://www.bbc.co.uk/sport/boxing/articles/c5yjr8pp0jwo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2325,6 +2347,28 @@
         "zone": "us"
       },
       {
+        "title": "McColgan wins London Big Half after five months out",
+        "url": "https://www.bbc.co.uk/sport/athletics/articles/c1kxv18jxw4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Britain's Eilish McColgan returns to competitive action after five months out with a fractured foot to win the London Big Half for a fourth time.",
+        "publishedAt": "2026-09-06T10:00:10.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Police investigate Bielik fan clash at Portsmouth",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5ym8mx573yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Police are investigating an incident between Cardiff defender Krystian Bielik and a Portsmouth supporter during Pompey's 2-0 home win on Saturday.",
+        "publishedAt": "2026-09-06T12:22:31.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
         "url": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2343,50 +2387,6 @@
         },
         "description": "Zheng Qinwen fights back from 5-0 down in the deciding set and stares down match point to stun American 22nd seed Madison Keys.",
         "publishedAt": "2026-09-05T22:09:18.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
-        "publishedAt": "2026-09-05T17:56:55.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
-        "publishedAt": "2026-09-05T18:04:38.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "'One of the best' - boxing world reacts to Taylor's farewell win",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/czxzygrgd19o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Some of the biggest names in women's boxing pay tribute to Katie Taylor after the Irish great ended her career with victory over Flora Pili at Croke Park.",
-        "publishedAt": "2026-09-05T23:48:55.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "McColgan wins London Big Half after five months out",
-        "url": "https://www.bbc.co.uk/sport/athletics/articles/c1kxv18jxw4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Britain's Eilish McColgan returns to competitive action after five months out with a fractured foot to win the London Big Half for a fourth time.",
-        "publishedAt": "2026-09-06T10:00:10.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,6 +2395,28 @@
   "sports_gb": {
     "articles": [
       {
+        "title": "Vardy joins Burnley on season-long contract",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cdx5v3405k3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Former Leicester City and England striker Jamie Vardy joins Burnley until the end of the season.",
+        "publishedAt": "2026-09-06T13:47:10.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Fifa president Infantino will stand for re-election",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
+        "publishedAt": "2026-09-06T13:01:17.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Taylor's place among greats set in stone after extraordinary swansong",
         "url": "https://www.bbc.co.uk/sport/boxing/articles/c5yjr8pp0jwo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2417,6 +2439,28 @@
         "zone": "gb"
       },
       {
+        "title": "McColgan wins London Big Half after five months out",
+        "url": "https://www.bbc.co.uk/sport/athletics/articles/c1kxv18jxw4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Britain's Eilish McColgan returns to competitive action after five months out with a fractured foot to win the London Big Half for a fourth time.",
+        "publishedAt": "2026-09-06T10:00:10.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Police investigate Bielik fan clash at Portsmouth",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5ym8mx573yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Police are investigating an incident between Cardiff defender Krystian Bielik and a Portsmouth supporter during Pompey's 2-0 home win on Saturday.",
+        "publishedAt": "2026-09-06T12:22:31.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
         "url": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2435,50 +2479,6 @@
         },
         "description": "Zheng Qinwen fights back from 5-0 down in the deciding set and stares down match point to stun American 22nd seed Madison Keys.",
         "publishedAt": "2026-09-05T22:09:18.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
-        "publishedAt": "2026-09-05T17:56:55.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
-        "publishedAt": "2026-09-05T18:04:38.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "'One of the best' - boxing world reacts to Taylor's farewell win",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/czxzygrgd19o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Some of the biggest names in women's boxing pay tribute to Katie Taylor after the Irish great ended her career with victory over Flora Pili at Croke Park.",
-        "publishedAt": "2026-09-05T23:48:55.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "McColgan wins London Big Half after five months out",
-        "url": "https://www.bbc.co.uk/sport/athletics/articles/c1kxv18jxw4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Britain's Eilish McColgan returns to competitive action after five months out with a fractured foot to win the London Big Half for a fourth time.",
-        "publishedAt": "2026-09-06T10:00:10.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,6 +2487,28 @@
   "sports_in": {
     "articles": [
       {
+        "title": "Vardy joins Burnley on season-long contract",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cdx5v3405k3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Former Leicester City and England striker Jamie Vardy joins Burnley until the end of the season.",
+        "publishedAt": "2026-09-06T13:47:10.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Fifa president Infantino will stand for re-election",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
+        "publishedAt": "2026-09-06T13:01:17.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Taylor's place among greats set in stone after extraordinary swansong",
         "url": "https://www.bbc.co.uk/sport/boxing/articles/c5yjr8pp0jwo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2509,6 +2531,28 @@
         "zone": "in"
       },
       {
+        "title": "McColgan wins London Big Half after five months out",
+        "url": "https://www.bbc.co.uk/sport/athletics/articles/c1kxv18jxw4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Britain's Eilish McColgan returns to competitive action after five months out with a fractured foot to win the London Big Half for a fourth time.",
+        "publishedAt": "2026-09-06T10:00:10.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Police investigate Bielik fan clash at Portsmouth",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5ym8mx573yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Police are investigating an incident between Cardiff defender Krystian Bielik and a Portsmouth supporter during Pompey's 2-0 home win on Saturday.",
+        "publishedAt": "2026-09-06T12:22:31.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
         "url": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2527,50 +2571,6 @@
         },
         "description": "Zheng Qinwen fights back from 5-0 down in the deciding set and stares down match point to stun American 22nd seed Madison Keys.",
         "publishedAt": "2026-09-05T22:09:18.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
-        "publishedAt": "2026-09-05T17:56:55.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
-        "publishedAt": "2026-09-05T18:04:38.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "'One of the best' - boxing world reacts to Taylor's farewell win",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/czxzygrgd19o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Some of the biggest names in women's boxing pay tribute to Katie Taylor after the Irish great ended her career with victory over Flora Pili at Croke Park.",
-        "publishedAt": "2026-09-05T23:48:55.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "McColgan wins London Big Half after five months out",
-        "url": "https://www.bbc.co.uk/sport/athletics/articles/c1kxv18jxw4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Britain's Eilish McColgan returns to competitive action after five months out with a fractured foot to win the London Big Half for a fourth time.",
-        "publishedAt": "2026-09-06T10:00:10.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,6 +2579,28 @@
   "sports_au": {
     "articles": [
       {
+        "title": "Vardy joins Burnley on season-long contract",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cdx5v3405k3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Former Leicester City and England striker Jamie Vardy joins Burnley until the end of the season.",
+        "publishedAt": "2026-09-06T13:47:10.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Fifa president Infantino will stand for re-election",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
+        "publishedAt": "2026-09-06T13:01:17.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Taylor's place among greats set in stone after extraordinary swansong",
         "url": "https://www.bbc.co.uk/sport/boxing/articles/c5yjr8pp0jwo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2601,6 +2623,28 @@
         "zone": "au"
       },
       {
+        "title": "McColgan wins London Big Half after five months out",
+        "url": "https://www.bbc.co.uk/sport/athletics/articles/c1kxv18jxw4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Britain's Eilish McColgan returns to competitive action after five months out with a fractured foot to win the London Big Half for a fourth time.",
+        "publishedAt": "2026-09-06T10:00:10.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Police investigate Bielik fan clash at Portsmouth",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5ym8mx573yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Police are investigating an incident between Cardiff defender Krystian Bielik and a Portsmouth supporter during Pompey's 2-0 home win on Saturday.",
+        "publishedAt": "2026-09-06T12:22:31.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
         "url": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2619,50 +2663,6 @@
         },
         "description": "Zheng Qinwen fights back from 5-0 down in the deciding set and stares down match point to stun American 22nd seed Madison Keys.",
         "publishedAt": "2026-09-05T22:09:18.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
-        "publishedAt": "2026-09-05T17:56:55.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
-        "publishedAt": "2026-09-05T18:04:38.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "'One of the best' - boxing world reacts to Taylor's farewell win",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/czxzygrgd19o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Some of the biggest names in women's boxing pay tribute to Katie Taylor after the Irish great ended her career with victory over Flora Pili at Croke Park.",
-        "publishedAt": "2026-09-05T23:48:55.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "McColgan wins London Big Half after five months out",
-        "url": "https://www.bbc.co.uk/sport/athletics/articles/c1kxv18jxw4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Britain's Eilish McColgan returns to competitive action after five months out with a fractured foot to win the London Big Half for a fourth time.",
-        "publishedAt": "2026-09-06T10:00:10.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,6 +2671,28 @@
   "sports_ca": {
     "articles": [
       {
+        "title": "Vardy joins Burnley on season-long contract",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cdx5v3405k3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Former Leicester City and England striker Jamie Vardy joins Burnley until the end of the season.",
+        "publishedAt": "2026-09-06T13:47:10.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Fifa president Infantino will stand for re-election",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
+        "publishedAt": "2026-09-06T13:01:17.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Taylor's place among greats set in stone after extraordinary swansong",
         "url": "https://www.bbc.co.uk/sport/boxing/articles/c5yjr8pp0jwo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2693,6 +2715,28 @@
         "zone": "ca"
       },
       {
+        "title": "McColgan wins London Big Half after five months out",
+        "url": "https://www.bbc.co.uk/sport/athletics/articles/c1kxv18jxw4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Britain's Eilish McColgan returns to competitive action after five months out with a fractured foot to win the London Big Half for a fourth time.",
+        "publishedAt": "2026-09-06T10:00:10.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Police investigate Bielik fan clash at Portsmouth",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5ym8mx573yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Police are investigating an incident between Cardiff defender Krystian Bielik and a Portsmouth supporter during Pompey's 2-0 home win on Saturday.",
+        "publishedAt": "2026-09-06T12:22:31.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
         "url": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2711,50 +2755,6 @@
         },
         "description": "Zheng Qinwen fights back from 5-0 down in the deciding set and stares down match point to stun American 22nd seed Madison Keys.",
         "publishedAt": "2026-09-05T22:09:18.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
-        "publishedAt": "2026-09-05T17:56:55.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
-        "publishedAt": "2026-09-05T18:04:38.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "'One of the best' - boxing world reacts to Taylor's farewell win",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/czxzygrgd19o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Some of the biggest names in women's boxing pay tribute to Katie Taylor after the Irish great ended her career with victory over Flora Pili at Croke Park.",
-        "publishedAt": "2026-09-05T23:48:55.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "McColgan wins London Big Half after five months out",
-        "url": "https://www.bbc.co.uk/sport/athletics/articles/c1kxv18jxw4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Britain's Eilish McColgan returns to competitive action after five months out with a fractured foot to win the London Big Half for a fourth time.",
-        "publishedAt": "2026-09-06T10:00:10.000Z",
         "category": "sports",
         "zone": "ca"
       }
