@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-06T21:07:50.140Z",
+  "generatedAt": "2026-09-06T23:34:56.686Z",
   "general_us": {
     "articles": [
       {
-        "title": "German far-right set for big win in eastern state, projections show",
+        "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
         "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
-        "publishedAt": "2026-09-06T20:45:11.000Z",
+        "description": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
+        "publishedAt": "2026-09-06T23:02:45.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -36,6 +36,28 @@
         "zone": "us"
       },
       {
+        "title": "BBC News presenter Maryam Moshiri reveals she has blood cancer",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer.",
+        "publishedAt": "2026-09-06T22:00:36.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "140 migrants in single dinghy rescued in English Channel",
+        "url": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "They were transferred onto two lifeboats and taken to shore in the UK.",
+        "publishedAt": "2026-09-06T22:42:56.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
         "title": "Jamaica to bring slavery reparations petition to King Charles",
         "url": "https://www.bbc.co.uk/news/articles/clyqvkyekkeo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -43,17 +65,6 @@
         },
         "description": "The King will be asked to refer three questions to the Judicial Committee of the Privy Council.",
         "publishedAt": "2026-09-06T16:39:45.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-        "publishedAt": "2026-09-06T16:00:21.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -69,24 +80,13 @@
         "zone": "us"
       },
       {
-        "title": "140 migrants in single dinghy rescued in English Channel",
-        "url": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
+        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "They were transferred onto two lifeboats and taken to shore in the UK.",
-        "publishedAt": "2026-09-06T16:28:59.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-        "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-        "publishedAt": "2026-09-05T23:20:00.000Z",
+        "description": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+        "publishedAt": "2026-09-06T16:00:21.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,13 +95,13 @@
   "general_gb": {
     "articles": [
       {
-        "title": "German far-right set for big win in eastern state, projections show",
+        "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
         "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
-        "publishedAt": "2026-09-06T20:45:11.000Z",
+        "description": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
+        "publishedAt": "2026-09-06T23:02:45.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -128,6 +128,28 @@
         "zone": "gb"
       },
       {
+        "title": "BBC News presenter Maryam Moshiri reveals she has blood cancer",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer.",
+        "publishedAt": "2026-09-06T22:00:36.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "140 migrants in single dinghy rescued in English Channel",
+        "url": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "They were transferred onto two lifeboats and taken to shore in the UK.",
+        "publishedAt": "2026-09-06T22:42:56.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Jamaica to bring slavery reparations petition to King Charles",
         "url": "https://www.bbc.co.uk/news/articles/clyqvkyekkeo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -135,17 +157,6 @@
         },
         "description": "The King will be asked to refer three questions to the Judicial Committee of the Privy Council.",
         "publishedAt": "2026-09-06T16:39:45.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-        "publishedAt": "2026-09-06T16:00:21.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -161,24 +172,13 @@
         "zone": "gb"
       },
       {
-        "title": "140 migrants in single dinghy rescued in English Channel",
-        "url": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
+        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "They were transferred onto two lifeboats and taken to shore in the UK.",
-        "publishedAt": "2026-09-06T16:28:59.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-        "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-        "publishedAt": "2026-09-05T23:20:00.000Z",
+        "description": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+        "publishedAt": "2026-09-06T16:00:21.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,13 +187,13 @@
   "general_in": {
     "articles": [
       {
-        "title": "German far-right set for big win in eastern state, projections show",
+        "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
         "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
-        "publishedAt": "2026-09-06T20:45:11.000Z",
+        "description": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
+        "publishedAt": "2026-09-06T23:02:45.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -220,6 +220,28 @@
         "zone": "in"
       },
       {
+        "title": "BBC News presenter Maryam Moshiri reveals she has blood cancer",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer.",
+        "publishedAt": "2026-09-06T22:00:36.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "140 migrants in single dinghy rescued in English Channel",
+        "url": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "They were transferred onto two lifeboats and taken to shore in the UK.",
+        "publishedAt": "2026-09-06T22:42:56.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Jamaica to bring slavery reparations petition to King Charles",
         "url": "https://www.bbc.co.uk/news/articles/clyqvkyekkeo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -227,17 +249,6 @@
         },
         "description": "The King will be asked to refer three questions to the Judicial Committee of the Privy Council.",
         "publishedAt": "2026-09-06T16:39:45.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-        "publishedAt": "2026-09-06T16:00:21.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -253,24 +264,13 @@
         "zone": "in"
       },
       {
-        "title": "140 migrants in single dinghy rescued in English Channel",
-        "url": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
+        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "They were transferred onto two lifeboats and taken to shore in the UK.",
-        "publishedAt": "2026-09-06T16:28:59.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-        "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-        "publishedAt": "2026-09-05T23:20:00.000Z",
+        "description": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+        "publishedAt": "2026-09-06T16:00:21.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,13 +279,13 @@
   "general_au": {
     "articles": [
       {
-        "title": "German far-right set for big win in eastern state, projections show",
+        "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
         "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
-        "publishedAt": "2026-09-06T20:45:11.000Z",
+        "description": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
+        "publishedAt": "2026-09-06T23:02:45.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -312,6 +312,28 @@
         "zone": "au"
       },
       {
+        "title": "BBC News presenter Maryam Moshiri reveals she has blood cancer",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer.",
+        "publishedAt": "2026-09-06T22:00:36.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "140 migrants in single dinghy rescued in English Channel",
+        "url": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "They were transferred onto two lifeboats and taken to shore in the UK.",
+        "publishedAt": "2026-09-06T22:42:56.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Jamaica to bring slavery reparations petition to King Charles",
         "url": "https://www.bbc.co.uk/news/articles/clyqvkyekkeo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -319,17 +341,6 @@
         },
         "description": "The King will be asked to refer three questions to the Judicial Committee of the Privy Council.",
         "publishedAt": "2026-09-06T16:39:45.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-        "publishedAt": "2026-09-06T16:00:21.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -345,24 +356,13 @@
         "zone": "au"
       },
       {
-        "title": "140 migrants in single dinghy rescued in English Channel",
-        "url": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
+        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "They were transferred onto two lifeboats and taken to shore in the UK.",
-        "publishedAt": "2026-09-06T16:28:59.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-        "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-        "publishedAt": "2026-09-05T23:20:00.000Z",
+        "description": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+        "publishedAt": "2026-09-06T16:00:21.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,13 +371,13 @@
   "general_ca": {
     "articles": [
       {
-        "title": "German far-right set for big win in eastern state, projections show",
+        "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
         "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
-        "publishedAt": "2026-09-06T20:45:11.000Z",
+        "description": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
+        "publishedAt": "2026-09-06T23:02:45.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -404,6 +404,28 @@
         "zone": "ca"
       },
       {
+        "title": "BBC News presenter Maryam Moshiri reveals she has blood cancer",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer.",
+        "publishedAt": "2026-09-06T22:00:36.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "140 migrants in single dinghy rescued in English Channel",
+        "url": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "They were transferred onto two lifeboats and taken to shore in the UK.",
+        "publishedAt": "2026-09-06T22:42:56.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Jamaica to bring slavery reparations petition to King Charles",
         "url": "https://www.bbc.co.uk/news/articles/clyqvkyekkeo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -411,17 +433,6 @@
         },
         "description": "The King will be asked to refer three questions to the Judicial Committee of the Privy Council.",
         "publishedAt": "2026-09-06T16:39:45.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-        "publishedAt": "2026-09-06T16:00:21.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -437,24 +448,13 @@
         "zone": "ca"
       },
       {
-        "title": "140 migrants in single dinghy rescued in English Channel",
-        "url": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
+        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "They were transferred onto two lifeboats and taken to shore in the UK.",
-        "publishedAt": "2026-09-06T16:28:59.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-        "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-        "publishedAt": "2026-09-05T23:20:00.000Z",
+        "description": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+        "publishedAt": "2026-09-06T16:00:21.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -463,6 +463,17 @@
   "business_us": {
     "articles": [
       {
+        "title": "The £70 refund letter that isn't a scam",
+        "url": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
+        "publishedAt": "2026-09-06T23:16:05.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
         "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -507,17 +518,6 @@
         "zone": "us"
       },
       {
-        "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
-        "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
-        "publishedAt": "2026-09-04T05:59:10.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
         "title": "From 'dog fruit' to darling: India's avocado boom",
         "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -529,6 +529,17 @@
         "zone": "us"
       },
       {
+        "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+        "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+        "publishedAt": "2026-09-04T05:59:10.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "UK petrol prices hit highest level since Iran war began",
         "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -536,17 +547,6 @@
         },
         "description": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
         "publishedAt": "2026-09-04T13:05:52.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Jaguar Land Rover confirms planned job cuts",
-        "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm says it needs to save about £1.7bn over the next two years.",
-        "publishedAt": "2026-09-05T13:22:17.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,6 +555,17 @@
   "business_gb": {
     "articles": [
       {
+        "title": "The £70 refund letter that isn't a scam",
+        "url": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
+        "publishedAt": "2026-09-06T23:16:05.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
         "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -599,17 +610,6 @@
         "zone": "gb"
       },
       {
-        "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
-        "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
-        "publishedAt": "2026-09-04T05:59:10.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
         "title": "From 'dog fruit' to darling: India's avocado boom",
         "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -621,6 +621,17 @@
         "zone": "gb"
       },
       {
+        "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+        "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+        "publishedAt": "2026-09-04T05:59:10.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "UK petrol prices hit highest level since Iran war began",
         "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -628,17 +639,6 @@
         },
         "description": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
         "publishedAt": "2026-09-04T13:05:52.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Jaguar Land Rover confirms planned job cuts",
-        "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm says it needs to save about £1.7bn over the next two years.",
-        "publishedAt": "2026-09-05T13:22:17.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,6 +647,17 @@
   "business_in": {
     "articles": [
       {
+        "title": "The £70 refund letter that isn't a scam",
+        "url": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
+        "publishedAt": "2026-09-06T23:16:05.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
         "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -691,17 +702,6 @@
         "zone": "in"
       },
       {
-        "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
-        "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
-        "publishedAt": "2026-09-04T05:59:10.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
         "title": "From 'dog fruit' to darling: India's avocado boom",
         "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -713,6 +713,17 @@
         "zone": "in"
       },
       {
+        "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+        "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+        "publishedAt": "2026-09-04T05:59:10.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "UK petrol prices hit highest level since Iran war began",
         "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -720,17 +731,6 @@
         },
         "description": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
         "publishedAt": "2026-09-04T13:05:52.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Jaguar Land Rover confirms planned job cuts",
-        "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm says it needs to save about £1.7bn over the next two years.",
-        "publishedAt": "2026-09-05T13:22:17.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,6 +739,17 @@
   "business_au": {
     "articles": [
       {
+        "title": "The £70 refund letter that isn't a scam",
+        "url": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
+        "publishedAt": "2026-09-06T23:16:05.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
         "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -783,17 +794,6 @@
         "zone": "au"
       },
       {
-        "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
-        "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
-        "publishedAt": "2026-09-04T05:59:10.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
         "title": "From 'dog fruit' to darling: India's avocado boom",
         "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -805,6 +805,17 @@
         "zone": "au"
       },
       {
+        "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+        "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+        "publishedAt": "2026-09-04T05:59:10.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "UK petrol prices hit highest level since Iran war began",
         "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -812,17 +823,6 @@
         },
         "description": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
         "publishedAt": "2026-09-04T13:05:52.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Jaguar Land Rover confirms planned job cuts",
-        "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm says it needs to save about £1.7bn over the next two years.",
-        "publishedAt": "2026-09-05T13:22:17.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,6 +831,17 @@
   "business_ca": {
     "articles": [
       {
+        "title": "The £70 refund letter that isn't a scam",
+        "url": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
+        "publishedAt": "2026-09-06T23:16:05.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
         "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -875,17 +886,6 @@
         "zone": "ca"
       },
       {
-        "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
-        "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
-        "publishedAt": "2026-09-04T05:59:10.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
         "title": "From 'dog fruit' to darling: India's avocado boom",
         "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -897,6 +897,17 @@
         "zone": "ca"
       },
       {
+        "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+        "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+        "publishedAt": "2026-09-04T05:59:10.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "UK petrol prices hit highest level since Iran war began",
         "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -904,17 +915,6 @@
         },
         "description": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
         "publishedAt": "2026-09-04T13:05:52.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Jaguar Land Rover confirms planned job cuts",
-        "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm says it needs to save about £1.7bn over the next two years.",
-        "publishedAt": "2026-09-05T13:22:17.000Z",
         "category": "business",
         "zone": "ca"
       }
@@ -1383,6 +1383,17 @@
   "health_us": {
     "articles": [
       {
+        "title": "BBC News presenter reveals she has blood cancer",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer.",
+        "publishedAt": "2026-09-06T22:00:36.000Z",
+        "category": "health",
+        "zone": "us"
+      },
+      {
         "title": "How hunger for a new weight-loss drug is feeding an industry of fakes",
         "url": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1456,17 +1467,6 @@
         },
         "description": "Costs are spiralling out of control as unregulated private providers capitalise on demand, say managers.",
         "publishedAt": "2026-08-28T01:23:09.000Z",
-        "category": "health",
-        "zone": "us"
-      },
-      {
-        "title": "Hypermobility - the little-known 'bendy disease' that causes pain and fatigue",
-        "url": "https://www.bbc.co.uk/news/articles/clyx0gzynneo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The disorder may affect hundreds of thousands in the UK, but many face delays in getting a diagnosis.",
-        "publishedAt": "2026-08-27T23:13:52.000Z",
         "category": "health",
         "zone": "us"
       }
@@ -1475,6 +1475,17 @@
   "health_gb": {
     "articles": [
       {
+        "title": "BBC News presenter reveals she has blood cancer",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer.",
+        "publishedAt": "2026-09-06T22:00:36.000Z",
+        "category": "health",
+        "zone": "gb"
+      },
+      {
         "title": "How hunger for a new weight-loss drug is feeding an industry of fakes",
         "url": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1548,17 +1559,6 @@
         },
         "description": "Costs are spiralling out of control as unregulated private providers capitalise on demand, say managers.",
         "publishedAt": "2026-08-28T01:23:09.000Z",
-        "category": "health",
-        "zone": "gb"
-      },
-      {
-        "title": "Hypermobility - the little-known 'bendy disease' that causes pain and fatigue",
-        "url": "https://www.bbc.co.uk/news/articles/clyx0gzynneo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The disorder may affect hundreds of thousands in the UK, but many face delays in getting a diagnosis.",
-        "publishedAt": "2026-08-27T23:13:52.000Z",
         "category": "health",
         "zone": "gb"
       }
@@ -1567,6 +1567,17 @@
   "health_in": {
     "articles": [
       {
+        "title": "BBC News presenter reveals she has blood cancer",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer.",
+        "publishedAt": "2026-09-06T22:00:36.000Z",
+        "category": "health",
+        "zone": "in"
+      },
+      {
         "title": "How hunger for a new weight-loss drug is feeding an industry of fakes",
         "url": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1640,17 +1651,6 @@
         },
         "description": "Costs are spiralling out of control as unregulated private providers capitalise on demand, say managers.",
         "publishedAt": "2026-08-28T01:23:09.000Z",
-        "category": "health",
-        "zone": "in"
-      },
-      {
-        "title": "Hypermobility - the little-known 'bendy disease' that causes pain and fatigue",
-        "url": "https://www.bbc.co.uk/news/articles/clyx0gzynneo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The disorder may affect hundreds of thousands in the UK, but many face delays in getting a diagnosis.",
-        "publishedAt": "2026-08-27T23:13:52.000Z",
         "category": "health",
         "zone": "in"
       }
@@ -1659,6 +1659,17 @@
   "health_au": {
     "articles": [
       {
+        "title": "BBC News presenter reveals she has blood cancer",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer.",
+        "publishedAt": "2026-09-06T22:00:36.000Z",
+        "category": "health",
+        "zone": "au"
+      },
+      {
         "title": "How hunger for a new weight-loss drug is feeding an industry of fakes",
         "url": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1732,17 +1743,6 @@
         },
         "description": "Costs are spiralling out of control as unregulated private providers capitalise on demand, say managers.",
         "publishedAt": "2026-08-28T01:23:09.000Z",
-        "category": "health",
-        "zone": "au"
-      },
-      {
-        "title": "Hypermobility - the little-known 'bendy disease' that causes pain and fatigue",
-        "url": "https://www.bbc.co.uk/news/articles/clyx0gzynneo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The disorder may affect hundreds of thousands in the UK, but many face delays in getting a diagnosis.",
-        "publishedAt": "2026-08-27T23:13:52.000Z",
         "category": "health",
         "zone": "au"
       }
@@ -1751,6 +1751,17 @@
   "health_ca": {
     "articles": [
       {
+        "title": "BBC News presenter reveals she has blood cancer",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer.",
+        "publishedAt": "2026-09-06T22:00:36.000Z",
+        "category": "health",
+        "zone": "ca"
+      },
+      {
         "title": "How hunger for a new weight-loss drug is feeding an industry of fakes",
         "url": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1824,17 +1835,6 @@
         },
         "description": "Costs are spiralling out of control as unregulated private providers capitalise on demand, say managers.",
         "publishedAt": "2026-08-28T01:23:09.000Z",
-        "category": "health",
-        "zone": "ca"
-      },
-      {
-        "title": "Hypermobility - the little-known 'bendy disease' that causes pain and fatigue",
-        "url": "https://www.bbc.co.uk/news/articles/clyx0gzynneo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The disorder may affect hundreds of thousands in the UK, but many face delays in getting a diagnosis.",
-        "publishedAt": "2026-08-27T23:13:52.000Z",
         "category": "health",
         "zone": "ca"
       }
@@ -2347,17 +2347,6 @@
         "zone": "us"
       },
       {
-        "title": "Last-gasp Maitland-Niles stunner rescues point for Everton",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as a resilient Everton came from behind twice to draw with Manchester United in the Premier League.",
-        "publishedAt": "2026-09-06T18:58:33.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
         "title": "Dunkley century helps England sweep Ireland 3-0",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cqxve1xderro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2369,24 +2358,35 @@
         "zone": "us"
       },
       {
-        "title": "Man Utd cannot ignore more dropped points despite positives",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c17jr44d7kro?at_medium=RSS&at_campaign=rss",
+        "title": "Last-gasp Maitland-Niles stunner rescues point for Everton",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United boss Michael Carrick remains optimistic despite his side dropping another two points at Everton.",
-        "publishedAt": "2026-09-06T17:18:32.000Z",
+        "description": "Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as a resilient Everton came from behind twice to draw with Manchester United in the Premier League.",
+        "publishedAt": "2026-09-06T18:58:33.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "After transfer worries, Everton have an unlikely new hero",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cd79g72r7q7o?at_medium=RSS&at_campaign=rss",
+        "title": "Who has made Troy's Premier League team of the week?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Not even Ainsley Maitland-Niles could have imagined his Premier League return for Everton would have played out like it did.",
-        "publishedAt": "2026-09-06T19:09:59.000Z",
+        "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+        "publishedAt": "2026-09-06T22:06:40.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "When Man City call you don't say no - Ndiaye",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cdx5vxpl37zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "New £60m Manchester City signing Iliman Ndiaye says playing in the Champions League is where he belongs.",
+        "publishedAt": "2026-09-06T21:30:03.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2439,17 +2439,6 @@
         "zone": "gb"
       },
       {
-        "title": "Last-gasp Maitland-Niles stunner rescues point for Everton",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as a resilient Everton came from behind twice to draw with Manchester United in the Premier League.",
-        "publishedAt": "2026-09-06T18:58:33.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
         "title": "Dunkley century helps England sweep Ireland 3-0",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cqxve1xderro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2461,24 +2450,35 @@
         "zone": "gb"
       },
       {
-        "title": "Man Utd cannot ignore more dropped points despite positives",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c17jr44d7kro?at_medium=RSS&at_campaign=rss",
+        "title": "Last-gasp Maitland-Niles stunner rescues point for Everton",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United boss Michael Carrick remains optimistic despite his side dropping another two points at Everton.",
-        "publishedAt": "2026-09-06T17:18:32.000Z",
+        "description": "Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as a resilient Everton came from behind twice to draw with Manchester United in the Premier League.",
+        "publishedAt": "2026-09-06T18:58:33.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "After transfer worries, Everton have an unlikely new hero",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cd79g72r7q7o?at_medium=RSS&at_campaign=rss",
+        "title": "Who has made Troy's Premier League team of the week?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Not even Ainsley Maitland-Niles could have imagined his Premier League return for Everton would have played out like it did.",
-        "publishedAt": "2026-09-06T19:09:59.000Z",
+        "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+        "publishedAt": "2026-09-06T22:06:40.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "When Man City call you don't say no - Ndiaye",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cdx5vxpl37zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "New £60m Manchester City signing Iliman Ndiaye says playing in the Champions League is where he belongs.",
+        "publishedAt": "2026-09-06T21:30:03.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2531,17 +2531,6 @@
         "zone": "in"
       },
       {
-        "title": "Last-gasp Maitland-Niles stunner rescues point for Everton",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as a resilient Everton came from behind twice to draw with Manchester United in the Premier League.",
-        "publishedAt": "2026-09-06T18:58:33.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
         "title": "Dunkley century helps England sweep Ireland 3-0",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cqxve1xderro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2553,24 +2542,35 @@
         "zone": "in"
       },
       {
-        "title": "Man Utd cannot ignore more dropped points despite positives",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c17jr44d7kro?at_medium=RSS&at_campaign=rss",
+        "title": "Last-gasp Maitland-Niles stunner rescues point for Everton",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United boss Michael Carrick remains optimistic despite his side dropping another two points at Everton.",
-        "publishedAt": "2026-09-06T17:18:32.000Z",
+        "description": "Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as a resilient Everton came from behind twice to draw with Manchester United in the Premier League.",
+        "publishedAt": "2026-09-06T18:58:33.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "After transfer worries, Everton have an unlikely new hero",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cd79g72r7q7o?at_medium=RSS&at_campaign=rss",
+        "title": "Who has made Troy's Premier League team of the week?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Not even Ainsley Maitland-Niles could have imagined his Premier League return for Everton would have played out like it did.",
-        "publishedAt": "2026-09-06T19:09:59.000Z",
+        "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+        "publishedAt": "2026-09-06T22:06:40.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "When Man City call you don't say no - Ndiaye",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cdx5vxpl37zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "New £60m Manchester City signing Iliman Ndiaye says playing in the Champions League is where he belongs.",
+        "publishedAt": "2026-09-06T21:30:03.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2623,17 +2623,6 @@
         "zone": "au"
       },
       {
-        "title": "Last-gasp Maitland-Niles stunner rescues point for Everton",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as a resilient Everton came from behind twice to draw with Manchester United in the Premier League.",
-        "publishedAt": "2026-09-06T18:58:33.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
         "title": "Dunkley century helps England sweep Ireland 3-0",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cqxve1xderro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2645,24 +2634,35 @@
         "zone": "au"
       },
       {
-        "title": "Man Utd cannot ignore more dropped points despite positives",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c17jr44d7kro?at_medium=RSS&at_campaign=rss",
+        "title": "Last-gasp Maitland-Niles stunner rescues point for Everton",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United boss Michael Carrick remains optimistic despite his side dropping another two points at Everton.",
-        "publishedAt": "2026-09-06T17:18:32.000Z",
+        "description": "Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as a resilient Everton came from behind twice to draw with Manchester United in the Premier League.",
+        "publishedAt": "2026-09-06T18:58:33.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "After transfer worries, Everton have an unlikely new hero",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cd79g72r7q7o?at_medium=RSS&at_campaign=rss",
+        "title": "Who has made Troy's Premier League team of the week?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Not even Ainsley Maitland-Niles could have imagined his Premier League return for Everton would have played out like it did.",
-        "publishedAt": "2026-09-06T19:09:59.000Z",
+        "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+        "publishedAt": "2026-09-06T22:06:40.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "When Man City call you don't say no - Ndiaye",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cdx5vxpl37zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "New £60m Manchester City signing Iliman Ndiaye says playing in the Champions League is where he belongs.",
+        "publishedAt": "2026-09-06T21:30:03.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2715,17 +2715,6 @@
         "zone": "ca"
       },
       {
-        "title": "Last-gasp Maitland-Niles stunner rescues point for Everton",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as a resilient Everton came from behind twice to draw with Manchester United in the Premier League.",
-        "publishedAt": "2026-09-06T18:58:33.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
         "title": "Dunkley century helps England sweep Ireland 3-0",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cqxve1xderro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2737,24 +2726,35 @@
         "zone": "ca"
       },
       {
-        "title": "Man Utd cannot ignore more dropped points despite positives",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c17jr44d7kro?at_medium=RSS&at_campaign=rss",
+        "title": "Last-gasp Maitland-Niles stunner rescues point for Everton",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United boss Michael Carrick remains optimistic despite his side dropping another two points at Everton.",
-        "publishedAt": "2026-09-06T17:18:32.000Z",
+        "description": "Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as a resilient Everton came from behind twice to draw with Manchester United in the Premier League.",
+        "publishedAt": "2026-09-06T18:58:33.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "After transfer worries, Everton have an unlikely new hero",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cd79g72r7q7o?at_medium=RSS&at_campaign=rss",
+        "title": "Who has made Troy's Premier League team of the week?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Not even Ainsley Maitland-Niles could have imagined his Premier League return for Everton would have played out like it did.",
-        "publishedAt": "2026-09-06T19:09:59.000Z",
+        "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+        "publishedAt": "2026-09-06T22:06:40.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "When Man City call you don't say no - Ndiaye",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cdx5vxpl37zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "New £60m Manchester City signing Iliman Ndiaye says playing in the Champions League is where he belongs.",
+        "publishedAt": "2026-09-06T21:30:03.000Z",
         "category": "sports",
         "zone": "ca"
       }
