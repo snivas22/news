@@ -1,18 +1,7 @@
 {
-  "generatedAt": "2026-09-08T10:48:32.212Z",
+  "generatedAt": "2026-09-08T14:57:48.664Z",
   "general_us": {
     "articles": [
-      {
-        "title": "Watch: Pupils return to West Bank school behind barbed wire to protect against settlers",
-        "url": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-related violence.",
-        "publishedAt": "2026-09-08T06:58:02.000Z",
-        "category": "general",
-        "zone": "us"
-      },
       {
         "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
         "url": "https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss",
@@ -25,24 +14,68 @@
         "zone": "us"
       },
       {
-        "title": "Drought and hosepipe bans remain despite wettest week since early February",
-        "url": "https://www.bbc.co.uk/weather/articles/cgl7zn37jw8o?at_medium=RSS&at_campaign=rss",
+        "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
+        "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Parts of England and Wales have seen more rain than any other week since early February but are still in drought.",
-        "publishedAt": "2026-09-08T09:31:31.000Z",
+        "description": "Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.",
+        "publishedAt": "2026-09-08T14:53:47.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Attacks victim's death 'potentially preventable'",
+        "title": "Four Renoir paintings worth millions stolen in French museum heist",
+        "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
+        "publishedAt": "2026-09-08T13:35:28.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Nottingham attacks victim's death 'potentially preventable'",
         "url": "https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The Nottingham Inquiry hears there was a chance one of Valdo Calocane's victims may have survived.",
-        "publishedAt": "2026-09-08T10:41:42.000Z",
+        "publishedAt": "2026-09-08T14:38:33.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Monty Don to leave Gardeners' World after more than 20 years",
+        "url": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The presenter said it had been \"deeply rewarding\" but added that \"now is the right time for a change\".",
+        "publishedAt": "2026-09-08T11:43:32.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Prince George begins first day at a rainy Eton College",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The 13-year-old will follow in the footsteps of his father, the Prince of Wales, by attending the elite private school.",
+        "publishedAt": "2026-09-08T11:52:40.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Argentina to file criminal case against oil company operating in Falklands",
+        "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
+        "publishedAt": "2026-09-08T11:09:54.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -52,41 +85,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
-        "publishedAt": "2026-09-08T04:39:14.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Prince George begins first day at Eton College",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The 13-year-old will follow in the footsteps of his father, the Prince of Wales, by attending the elite private school.",
-        "publishedAt": "2026-09-08T08:57:31.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "A&E did not get the basics right - my son's life was ruined at 32",
-        "url": "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Oli's experience is one of a growing number of clinical negligence claims being made in England, BBC analysis shows.",
-        "publishedAt": "2026-09-08T03:49:39.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "UK's third-biggest taxpayer to leave for Greece",
-        "url": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
-        "publishedAt": "2026-09-08T09:33:35.000Z",
+        "description": "As high as 50%, Canada's levies will apply to nearly $20bn of US products, from steel to T-shirts.",
+        "publishedAt": "2026-09-08T14:46:16.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,17 +95,6 @@
   "general_gb": {
     "articles": [
       {
-        "title": "Watch: Pupils return to West Bank school behind barbed wire to protect against settlers",
-        "url": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-related violence.",
-        "publishedAt": "2026-09-08T06:58:02.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
         "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
         "url": "https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -117,24 +106,68 @@
         "zone": "gb"
       },
       {
-        "title": "Drought and hosepipe bans remain despite wettest week since early February",
-        "url": "https://www.bbc.co.uk/weather/articles/cgl7zn37jw8o?at_medium=RSS&at_campaign=rss",
+        "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
+        "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Parts of England and Wales have seen more rain than any other week since early February but are still in drought.",
-        "publishedAt": "2026-09-08T09:31:31.000Z",
+        "description": "Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.",
+        "publishedAt": "2026-09-08T14:53:47.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Attacks victim's death 'potentially preventable'",
+        "title": "Four Renoir paintings worth millions stolen in French museum heist",
+        "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
+        "publishedAt": "2026-09-08T13:35:28.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Nottingham attacks victim's death 'potentially preventable'",
         "url": "https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The Nottingham Inquiry hears there was a chance one of Valdo Calocane's victims may have survived.",
-        "publishedAt": "2026-09-08T10:41:42.000Z",
+        "publishedAt": "2026-09-08T14:38:33.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Monty Don to leave Gardeners' World after more than 20 years",
+        "url": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The presenter said it had been \"deeply rewarding\" but added that \"now is the right time for a change\".",
+        "publishedAt": "2026-09-08T11:43:32.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Prince George begins first day at a rainy Eton College",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The 13-year-old will follow in the footsteps of his father, the Prince of Wales, by attending the elite private school.",
+        "publishedAt": "2026-09-08T11:52:40.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Argentina to file criminal case against oil company operating in Falklands",
+        "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
+        "publishedAt": "2026-09-08T11:09:54.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -144,41 +177,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
-        "publishedAt": "2026-09-08T04:39:14.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Prince George begins first day at Eton College",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The 13-year-old will follow in the footsteps of his father, the Prince of Wales, by attending the elite private school.",
-        "publishedAt": "2026-09-08T08:57:31.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "A&E did not get the basics right - my son's life was ruined at 32",
-        "url": "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Oli's experience is one of a growing number of clinical negligence claims being made in England, BBC analysis shows.",
-        "publishedAt": "2026-09-08T03:49:39.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "UK's third-biggest taxpayer to leave for Greece",
-        "url": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
-        "publishedAt": "2026-09-08T09:33:35.000Z",
+        "description": "As high as 50%, Canada's levies will apply to nearly $20bn of US products, from steel to T-shirts.",
+        "publishedAt": "2026-09-08T14:46:16.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,17 +187,6 @@
   "general_in": {
     "articles": [
       {
-        "title": "Watch: Pupils return to West Bank school behind barbed wire to protect against settlers",
-        "url": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-related violence.",
-        "publishedAt": "2026-09-08T06:58:02.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
         "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
         "url": "https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -209,24 +198,68 @@
         "zone": "in"
       },
       {
-        "title": "Drought and hosepipe bans remain despite wettest week since early February",
-        "url": "https://www.bbc.co.uk/weather/articles/cgl7zn37jw8o?at_medium=RSS&at_campaign=rss",
+        "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
+        "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Parts of England and Wales have seen more rain than any other week since early February but are still in drought.",
-        "publishedAt": "2026-09-08T09:31:31.000Z",
+        "description": "Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.",
+        "publishedAt": "2026-09-08T14:53:47.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Attacks victim's death 'potentially preventable'",
+        "title": "Four Renoir paintings worth millions stolen in French museum heist",
+        "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
+        "publishedAt": "2026-09-08T13:35:28.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Nottingham attacks victim's death 'potentially preventable'",
         "url": "https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The Nottingham Inquiry hears there was a chance one of Valdo Calocane's victims may have survived.",
-        "publishedAt": "2026-09-08T10:41:42.000Z",
+        "publishedAt": "2026-09-08T14:38:33.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Monty Don to leave Gardeners' World after more than 20 years",
+        "url": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The presenter said it had been \"deeply rewarding\" but added that \"now is the right time for a change\".",
+        "publishedAt": "2026-09-08T11:43:32.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Prince George begins first day at a rainy Eton College",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The 13-year-old will follow in the footsteps of his father, the Prince of Wales, by attending the elite private school.",
+        "publishedAt": "2026-09-08T11:52:40.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Argentina to file criminal case against oil company operating in Falklands",
+        "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
+        "publishedAt": "2026-09-08T11:09:54.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -236,41 +269,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
-        "publishedAt": "2026-09-08T04:39:14.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Prince George begins first day at Eton College",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The 13-year-old will follow in the footsteps of his father, the Prince of Wales, by attending the elite private school.",
-        "publishedAt": "2026-09-08T08:57:31.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "A&E did not get the basics right - my son's life was ruined at 32",
-        "url": "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Oli's experience is one of a growing number of clinical negligence claims being made in England, BBC analysis shows.",
-        "publishedAt": "2026-09-08T03:49:39.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "UK's third-biggest taxpayer to leave for Greece",
-        "url": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
-        "publishedAt": "2026-09-08T09:33:35.000Z",
+        "description": "As high as 50%, Canada's levies will apply to nearly $20bn of US products, from steel to T-shirts.",
+        "publishedAt": "2026-09-08T14:46:16.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,17 +279,6 @@
   "general_au": {
     "articles": [
       {
-        "title": "Watch: Pupils return to West Bank school behind barbed wire to protect against settlers",
-        "url": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-related violence.",
-        "publishedAt": "2026-09-08T06:58:02.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
         "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
         "url": "https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -301,24 +290,68 @@
         "zone": "au"
       },
       {
-        "title": "Drought and hosepipe bans remain despite wettest week since early February",
-        "url": "https://www.bbc.co.uk/weather/articles/cgl7zn37jw8o?at_medium=RSS&at_campaign=rss",
+        "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
+        "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Parts of England and Wales have seen more rain than any other week since early February but are still in drought.",
-        "publishedAt": "2026-09-08T09:31:31.000Z",
+        "description": "Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.",
+        "publishedAt": "2026-09-08T14:53:47.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Attacks victim's death 'potentially preventable'",
+        "title": "Four Renoir paintings worth millions stolen in French museum heist",
+        "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
+        "publishedAt": "2026-09-08T13:35:28.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Nottingham attacks victim's death 'potentially preventable'",
         "url": "https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The Nottingham Inquiry hears there was a chance one of Valdo Calocane's victims may have survived.",
-        "publishedAt": "2026-09-08T10:41:42.000Z",
+        "publishedAt": "2026-09-08T14:38:33.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Monty Don to leave Gardeners' World after more than 20 years",
+        "url": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The presenter said it had been \"deeply rewarding\" but added that \"now is the right time for a change\".",
+        "publishedAt": "2026-09-08T11:43:32.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Prince George begins first day at a rainy Eton College",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The 13-year-old will follow in the footsteps of his father, the Prince of Wales, by attending the elite private school.",
+        "publishedAt": "2026-09-08T11:52:40.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Argentina to file criminal case against oil company operating in Falklands",
+        "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
+        "publishedAt": "2026-09-08T11:09:54.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -328,41 +361,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
-        "publishedAt": "2026-09-08T04:39:14.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Prince George begins first day at Eton College",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The 13-year-old will follow in the footsteps of his father, the Prince of Wales, by attending the elite private school.",
-        "publishedAt": "2026-09-08T08:57:31.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "A&E did not get the basics right - my son's life was ruined at 32",
-        "url": "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Oli's experience is one of a growing number of clinical negligence claims being made in England, BBC analysis shows.",
-        "publishedAt": "2026-09-08T03:49:39.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "UK's third-biggest taxpayer to leave for Greece",
-        "url": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
-        "publishedAt": "2026-09-08T09:33:35.000Z",
+        "description": "As high as 50%, Canada's levies will apply to nearly $20bn of US products, from steel to T-shirts.",
+        "publishedAt": "2026-09-08T14:46:16.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,17 +371,6 @@
   "general_ca": {
     "articles": [
       {
-        "title": "Watch: Pupils return to West Bank school behind barbed wire to protect against settlers",
-        "url": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-related violence.",
-        "publishedAt": "2026-09-08T06:58:02.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
         "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
         "url": "https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -393,24 +382,68 @@
         "zone": "ca"
       },
       {
-        "title": "Drought and hosepipe bans remain despite wettest week since early February",
-        "url": "https://www.bbc.co.uk/weather/articles/cgl7zn37jw8o?at_medium=RSS&at_campaign=rss",
+        "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
+        "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Parts of England and Wales have seen more rain than any other week since early February but are still in drought.",
-        "publishedAt": "2026-09-08T09:31:31.000Z",
+        "description": "Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.",
+        "publishedAt": "2026-09-08T14:53:47.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Attacks victim's death 'potentially preventable'",
+        "title": "Four Renoir paintings worth millions stolen in French museum heist",
+        "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
+        "publishedAt": "2026-09-08T13:35:28.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Nottingham attacks victim's death 'potentially preventable'",
         "url": "https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The Nottingham Inquiry hears there was a chance one of Valdo Calocane's victims may have survived.",
-        "publishedAt": "2026-09-08T10:41:42.000Z",
+        "publishedAt": "2026-09-08T14:38:33.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Monty Don to leave Gardeners' World after more than 20 years",
+        "url": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The presenter said it had been \"deeply rewarding\" but added that \"now is the right time for a change\".",
+        "publishedAt": "2026-09-08T11:43:32.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Prince George begins first day at a rainy Eton College",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The 13-year-old will follow in the footsteps of his father, the Prince of Wales, by attending the elite private school.",
+        "publishedAt": "2026-09-08T11:52:40.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Argentina to file criminal case against oil company operating in Falklands",
+        "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
+        "publishedAt": "2026-09-08T11:09:54.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -420,41 +453,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
-        "publishedAt": "2026-09-08T04:39:14.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Prince George begins first day at Eton College",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The 13-year-old will follow in the footsteps of his father, the Prince of Wales, by attending the elite private school.",
-        "publishedAt": "2026-09-08T08:57:31.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "A&E did not get the basics right - my son's life was ruined at 32",
-        "url": "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Oli's experience is one of a growing number of clinical negligence claims being made in England, BBC analysis shows.",
-        "publishedAt": "2026-09-08T03:49:39.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "UK's third-biggest taxpayer to leave for Greece",
-        "url": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
-        "publishedAt": "2026-09-08T09:33:35.000Z",
+        "description": "As high as 50%, Canada's levies will apply to nearly $20bn of US products, from steel to T-shirts.",
+        "publishedAt": "2026-09-08T14:46:16.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -463,6 +463,28 @@
   "business_us": {
     "articles": [
       {
+        "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
+        "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.",
+        "publishedAt": "2026-09-08T14:53:47.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
+        "url": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Major lenders have raised rates on new deals in recent days, leaving many borrowers needing to make a decision.",
+        "publishedAt": "2026-09-08T13:20:51.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
         "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -485,35 +507,13 @@
         "zone": "us"
       },
       {
-        "title": "The firms turning recruitment into X Factor-style competitions",
-        "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
+        "title": "Argentina to file criminal case against oil company operating in Falklands",
+        "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
-        "publishedAt": "2026-09-08T07:43:15.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
-        "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
-        "publishedAt": "2026-09-08T04:39:14.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
-        "url": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
-        "publishedAt": "2026-09-08T06:49:56.000Z",
+        "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
+        "publishedAt": "2026-09-08T11:09:54.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -529,24 +529,24 @@
         "zone": "us"
       },
       {
-        "title": "'JLR job cuts a cause for uncertainty and worry'",
-        "url": "https://www.bbc.co.uk/news/articles/cq5x30003zdo?at_medium=RSS&at_campaign=rss",
+        "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+        "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Experts say they worry it could limit the company's ability to innovate in the future.",
-        "publishedAt": "2026-09-08T04:57:54.000Z",
+        "description": "As high as 50%, Canada's levies will apply to nearly $20bn of US products, from steel to T-shirts.",
+        "publishedAt": "2026-09-08T14:46:16.000Z",
         "category": "business",
         "zone": "us"
       },
       {
-        "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-        "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+        "title": "The firms turning recruitment into X Factor-style competitions",
+        "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
-        "publishedAt": "2026-09-08T00:48:43.000Z",
+        "description": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
+        "publishedAt": "2026-09-08T07:43:15.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,6 +555,28 @@
   "business_gb": {
     "articles": [
       {
+        "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
+        "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.",
+        "publishedAt": "2026-09-08T14:53:47.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
+        "url": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Major lenders have raised rates on new deals in recent days, leaving many borrowers needing to make a decision.",
+        "publishedAt": "2026-09-08T13:20:51.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
         "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -577,35 +599,13 @@
         "zone": "gb"
       },
       {
-        "title": "The firms turning recruitment into X Factor-style competitions",
-        "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
+        "title": "Argentina to file criminal case against oil company operating in Falklands",
+        "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
-        "publishedAt": "2026-09-08T07:43:15.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
-        "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
-        "publishedAt": "2026-09-08T04:39:14.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
-        "url": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
-        "publishedAt": "2026-09-08T06:49:56.000Z",
+        "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
+        "publishedAt": "2026-09-08T11:09:54.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -621,24 +621,24 @@
         "zone": "gb"
       },
       {
-        "title": "'JLR job cuts a cause for uncertainty and worry'",
-        "url": "https://www.bbc.co.uk/news/articles/cq5x30003zdo?at_medium=RSS&at_campaign=rss",
+        "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+        "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Experts say they worry it could limit the company's ability to innovate in the future.",
-        "publishedAt": "2026-09-08T04:57:54.000Z",
+        "description": "As high as 50%, Canada's levies will apply to nearly $20bn of US products, from steel to T-shirts.",
+        "publishedAt": "2026-09-08T14:46:16.000Z",
         "category": "business",
         "zone": "gb"
       },
       {
-        "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-        "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+        "title": "The firms turning recruitment into X Factor-style competitions",
+        "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
-        "publishedAt": "2026-09-08T00:48:43.000Z",
+        "description": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
+        "publishedAt": "2026-09-08T07:43:15.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,6 +647,28 @@
   "business_in": {
     "articles": [
       {
+        "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
+        "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.",
+        "publishedAt": "2026-09-08T14:53:47.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
+        "url": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Major lenders have raised rates on new deals in recent days, leaving many borrowers needing to make a decision.",
+        "publishedAt": "2026-09-08T13:20:51.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
         "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -669,35 +691,13 @@
         "zone": "in"
       },
       {
-        "title": "The firms turning recruitment into X Factor-style competitions",
-        "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
+        "title": "Argentina to file criminal case against oil company operating in Falklands",
+        "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
-        "publishedAt": "2026-09-08T07:43:15.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
-        "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
-        "publishedAt": "2026-09-08T04:39:14.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
-        "url": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
-        "publishedAt": "2026-09-08T06:49:56.000Z",
+        "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
+        "publishedAt": "2026-09-08T11:09:54.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -713,24 +713,24 @@
         "zone": "in"
       },
       {
-        "title": "'JLR job cuts a cause for uncertainty and worry'",
-        "url": "https://www.bbc.co.uk/news/articles/cq5x30003zdo?at_medium=RSS&at_campaign=rss",
+        "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+        "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Experts say they worry it could limit the company's ability to innovate in the future.",
-        "publishedAt": "2026-09-08T04:57:54.000Z",
+        "description": "As high as 50%, Canada's levies will apply to nearly $20bn of US products, from steel to T-shirts.",
+        "publishedAt": "2026-09-08T14:46:16.000Z",
         "category": "business",
         "zone": "in"
       },
       {
-        "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-        "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+        "title": "The firms turning recruitment into X Factor-style competitions",
+        "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
-        "publishedAt": "2026-09-08T00:48:43.000Z",
+        "description": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
+        "publishedAt": "2026-09-08T07:43:15.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,6 +739,28 @@
   "business_au": {
     "articles": [
       {
+        "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
+        "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.",
+        "publishedAt": "2026-09-08T14:53:47.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
+        "url": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Major lenders have raised rates on new deals in recent days, leaving many borrowers needing to make a decision.",
+        "publishedAt": "2026-09-08T13:20:51.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
         "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -761,35 +783,13 @@
         "zone": "au"
       },
       {
-        "title": "The firms turning recruitment into X Factor-style competitions",
-        "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
+        "title": "Argentina to file criminal case against oil company operating in Falklands",
+        "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
-        "publishedAt": "2026-09-08T07:43:15.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
-        "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
-        "publishedAt": "2026-09-08T04:39:14.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
-        "url": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
-        "publishedAt": "2026-09-08T06:49:56.000Z",
+        "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
+        "publishedAt": "2026-09-08T11:09:54.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -805,24 +805,24 @@
         "zone": "au"
       },
       {
-        "title": "'JLR job cuts a cause for uncertainty and worry'",
-        "url": "https://www.bbc.co.uk/news/articles/cq5x30003zdo?at_medium=RSS&at_campaign=rss",
+        "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+        "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Experts say they worry it could limit the company's ability to innovate in the future.",
-        "publishedAt": "2026-09-08T04:57:54.000Z",
+        "description": "As high as 50%, Canada's levies will apply to nearly $20bn of US products, from steel to T-shirts.",
+        "publishedAt": "2026-09-08T14:46:16.000Z",
         "category": "business",
         "zone": "au"
       },
       {
-        "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-        "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+        "title": "The firms turning recruitment into X Factor-style competitions",
+        "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
-        "publishedAt": "2026-09-08T00:48:43.000Z",
+        "description": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
+        "publishedAt": "2026-09-08T07:43:15.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,6 +831,28 @@
   "business_ca": {
     "articles": [
       {
+        "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
+        "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.",
+        "publishedAt": "2026-09-08T14:53:47.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
+        "url": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Major lenders have raised rates on new deals in recent days, leaving many borrowers needing to make a decision.",
+        "publishedAt": "2026-09-08T13:20:51.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
         "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -853,35 +875,13 @@
         "zone": "ca"
       },
       {
-        "title": "The firms turning recruitment into X Factor-style competitions",
-        "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
+        "title": "Argentina to file criminal case against oil company operating in Falklands",
+        "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
-        "publishedAt": "2026-09-08T07:43:15.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
-        "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
-        "publishedAt": "2026-09-08T04:39:14.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
-        "url": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
-        "publishedAt": "2026-09-08T06:49:56.000Z",
+        "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
+        "publishedAt": "2026-09-08T11:09:54.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -897,24 +897,24 @@
         "zone": "ca"
       },
       {
-        "title": "'JLR job cuts a cause for uncertainty and worry'",
-        "url": "https://www.bbc.co.uk/news/articles/cq5x30003zdo?at_medium=RSS&at_campaign=rss",
+        "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+        "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Experts say they worry it could limit the company's ability to innovate in the future.",
-        "publishedAt": "2026-09-08T04:57:54.000Z",
+        "description": "As high as 50%, Canada's levies will apply to nearly $20bn of US products, from steel to T-shirts.",
+        "publishedAt": "2026-09-08T14:46:16.000Z",
         "category": "business",
         "zone": "ca"
       },
       {
-        "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-        "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+        "title": "The firms turning recruitment into X Factor-style competitions",
+        "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
-        "publishedAt": "2026-09-08T00:48:43.000Z",
+        "description": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
+        "publishedAt": "2026-09-08T07:43:15.000Z",
         "category": "business",
         "zone": "ca"
       }
@@ -923,6 +923,50 @@
   "entertainment_us": {
     "articles": [
       {
+        "title": "Nigella praised as new Bake Off judge as latest contestants announced",
+        "url": "https://www.bbc.co.uk/news/articles/c4gm8npmp4ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The TV chef is a new judge on series 17 and there's a new crop of contestants hoping to be star bakers.",
+        "publishedAt": "2026-09-08T11:51:28.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Monty Don to leave Gardeners' World after more than 20 years",
+        "url": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The presenter said it had been \"deeply rewarding\" but added that \"now is the right time for a change\".",
+        "publishedAt": "2026-09-08T11:43:32.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Macklemore says 'Free Palestine' call was not an attack on Jewish people",
+        "url": "https://www.bbc.co.uk/news/articles/cq5x3vjq06qo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Some ticket buyers called for the rapper to be removed from the tour after he made the comments.",
+        "publishedAt": "2026-09-08T12:19:24.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "'I didn't want to leave The Voice', says Sir Tom Jones",
+        "url": "https://www.bbc.co.uk/news/articles/c70dx3z9956o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Welsh singer has appeared as an on-off coach on the competition since it premiered in 2012.",
+        "publishedAt": "2026-09-08T14:21:55.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
         "title": "How colourful stripes (and rubber chickens) helped Paul Smith conquer the fashion world",
         "url": "https://www.bbc.co.uk/news/articles/cd08vvnp9geo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -945,28 +989,6 @@
         "zone": "us"
       },
       {
-        "title": "New Inbetweeners film confirmed by Netflix as lead stars return",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z0je34y1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Netflix has confirmed the original stars of the coming-of-age sitcom are set to reprise their roles for the film.",
-        "publishedAt": "2026-09-07T11:03:33.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
-        "url": "https://www.bbc.co.uk/news/articles/cddvzm9nyz7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The film captures the euphoria of Oasis' comeback, but fails to explore the story of their reunion.",
-        "publishedAt": "2026-09-07T15:43:11.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
         "title": "BBC News presenter reveals she has blood cancer",
         "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -978,35 +1000,13 @@
         "zone": "us"
       },
       {
-        "title": "Jorja Smith, Chase & Status and Sam Smith to head up Radio 1's Live Lounge month",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy63mdnr7o?at_medium=RSS&at_campaign=rss",
+        "title": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
+        "url": "https://www.bbc.co.uk/news/articles/cddvzm9nyz7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jorja Smith, Rachel Chinouriri and Blossoms also among artists set to take to the studio next month.",
-        "publishedAt": "2026-09-07T16:59:24.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Dizzee Rascal spotted at community folk festival",
-        "url": "https://www.bbc.co.uk/news/articles/c8xkv1q8yp0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Music lovers at the popular BunkFest weekend in Wallingford saw the chart-topping rapper in town.",
-        "publishedAt": "2026-09-08T05:04:49.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Andrew Scott feels the Pressure as 'unsung hero' in WW2 thriller",
-        "url": "https://www.bbc.co.uk/news/articles/cn0j4lz6pe9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The actor reveals how he approached playing James Stagg, the \"chilly\" meteorologist key to D-Day's success.",
-        "publishedAt": "2026-09-07T01:31:41.000Z",
+        "description": "The film captures the euphoria of Oasis' comeback, but fails to explore the story of their reunion.",
+        "publishedAt": "2026-09-07T15:43:11.000Z",
         "category": "entertainment",
         "zone": "us"
       }
@@ -1015,6 +1015,50 @@
   "entertainment_gb": {
     "articles": [
       {
+        "title": "Nigella praised as new Bake Off judge as latest contestants announced",
+        "url": "https://www.bbc.co.uk/news/articles/c4gm8npmp4ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The TV chef is a new judge on series 17 and there's a new crop of contestants hoping to be star bakers.",
+        "publishedAt": "2026-09-08T11:51:28.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Monty Don to leave Gardeners' World after more than 20 years",
+        "url": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The presenter said it had been \"deeply rewarding\" but added that \"now is the right time for a change\".",
+        "publishedAt": "2026-09-08T11:43:32.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Macklemore says 'Free Palestine' call was not an attack on Jewish people",
+        "url": "https://www.bbc.co.uk/news/articles/cq5x3vjq06qo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Some ticket buyers called for the rapper to be removed from the tour after he made the comments.",
+        "publishedAt": "2026-09-08T12:19:24.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "'I didn't want to leave The Voice', says Sir Tom Jones",
+        "url": "https://www.bbc.co.uk/news/articles/c70dx3z9956o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Welsh singer has appeared as an on-off coach on the competition since it premiered in 2012.",
+        "publishedAt": "2026-09-08T14:21:55.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
         "title": "How colourful stripes (and rubber chickens) helped Paul Smith conquer the fashion world",
         "url": "https://www.bbc.co.uk/news/articles/cd08vvnp9geo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1037,28 +1081,6 @@
         "zone": "gb"
       },
       {
-        "title": "New Inbetweeners film confirmed by Netflix as lead stars return",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z0je34y1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Netflix has confirmed the original stars of the coming-of-age sitcom are set to reprise their roles for the film.",
-        "publishedAt": "2026-09-07T11:03:33.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
-        "url": "https://www.bbc.co.uk/news/articles/cddvzm9nyz7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The film captures the euphoria of Oasis' comeback, but fails to explore the story of their reunion.",
-        "publishedAt": "2026-09-07T15:43:11.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
         "title": "BBC News presenter reveals she has blood cancer",
         "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1070,35 +1092,13 @@
         "zone": "gb"
       },
       {
-        "title": "Jorja Smith, Chase & Status and Sam Smith to head up Radio 1's Live Lounge month",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy63mdnr7o?at_medium=RSS&at_campaign=rss",
+        "title": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
+        "url": "https://www.bbc.co.uk/news/articles/cddvzm9nyz7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jorja Smith, Rachel Chinouriri and Blossoms also among artists set to take to the studio next month.",
-        "publishedAt": "2026-09-07T16:59:24.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Dizzee Rascal spotted at community folk festival",
-        "url": "https://www.bbc.co.uk/news/articles/c8xkv1q8yp0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Music lovers at the popular BunkFest weekend in Wallingford saw the chart-topping rapper in town.",
-        "publishedAt": "2026-09-08T05:04:49.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Andrew Scott feels the Pressure as 'unsung hero' in WW2 thriller",
-        "url": "https://www.bbc.co.uk/news/articles/cn0j4lz6pe9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The actor reveals how he approached playing James Stagg, the \"chilly\" meteorologist key to D-Day's success.",
-        "publishedAt": "2026-09-07T01:31:41.000Z",
+        "description": "The film captures the euphoria of Oasis' comeback, but fails to explore the story of their reunion.",
+        "publishedAt": "2026-09-07T15:43:11.000Z",
         "category": "entertainment",
         "zone": "gb"
       }
@@ -1107,6 +1107,50 @@
   "entertainment_in": {
     "articles": [
       {
+        "title": "Nigella praised as new Bake Off judge as latest contestants announced",
+        "url": "https://www.bbc.co.uk/news/articles/c4gm8npmp4ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The TV chef is a new judge on series 17 and there's a new crop of contestants hoping to be star bakers.",
+        "publishedAt": "2026-09-08T11:51:28.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Monty Don to leave Gardeners' World after more than 20 years",
+        "url": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The presenter said it had been \"deeply rewarding\" but added that \"now is the right time for a change\".",
+        "publishedAt": "2026-09-08T11:43:32.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Macklemore says 'Free Palestine' call was not an attack on Jewish people",
+        "url": "https://www.bbc.co.uk/news/articles/cq5x3vjq06qo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Some ticket buyers called for the rapper to be removed from the tour after he made the comments.",
+        "publishedAt": "2026-09-08T12:19:24.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "'I didn't want to leave The Voice', says Sir Tom Jones",
+        "url": "https://www.bbc.co.uk/news/articles/c70dx3z9956o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Welsh singer has appeared as an on-off coach on the competition since it premiered in 2012.",
+        "publishedAt": "2026-09-08T14:21:55.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
         "title": "How colourful stripes (and rubber chickens) helped Paul Smith conquer the fashion world",
         "url": "https://www.bbc.co.uk/news/articles/cd08vvnp9geo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1129,28 +1173,6 @@
         "zone": "in"
       },
       {
-        "title": "New Inbetweeners film confirmed by Netflix as lead stars return",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z0je34y1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Netflix has confirmed the original stars of the coming-of-age sitcom are set to reprise their roles for the film.",
-        "publishedAt": "2026-09-07T11:03:33.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
-        "url": "https://www.bbc.co.uk/news/articles/cddvzm9nyz7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The film captures the euphoria of Oasis' comeback, but fails to explore the story of their reunion.",
-        "publishedAt": "2026-09-07T15:43:11.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
         "title": "BBC News presenter reveals she has blood cancer",
         "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1162,35 +1184,13 @@
         "zone": "in"
       },
       {
-        "title": "Jorja Smith, Chase & Status and Sam Smith to head up Radio 1's Live Lounge month",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy63mdnr7o?at_medium=RSS&at_campaign=rss",
+        "title": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
+        "url": "https://www.bbc.co.uk/news/articles/cddvzm9nyz7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jorja Smith, Rachel Chinouriri and Blossoms also among artists set to take to the studio next month.",
-        "publishedAt": "2026-09-07T16:59:24.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Dizzee Rascal spotted at community folk festival",
-        "url": "https://www.bbc.co.uk/news/articles/c8xkv1q8yp0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Music lovers at the popular BunkFest weekend in Wallingford saw the chart-topping rapper in town.",
-        "publishedAt": "2026-09-08T05:04:49.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Andrew Scott feels the Pressure as 'unsung hero' in WW2 thriller",
-        "url": "https://www.bbc.co.uk/news/articles/cn0j4lz6pe9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The actor reveals how he approached playing James Stagg, the \"chilly\" meteorologist key to D-Day's success.",
-        "publishedAt": "2026-09-07T01:31:41.000Z",
+        "description": "The film captures the euphoria of Oasis' comeback, but fails to explore the story of their reunion.",
+        "publishedAt": "2026-09-07T15:43:11.000Z",
         "category": "entertainment",
         "zone": "in"
       }
@@ -1199,6 +1199,50 @@
   "entertainment_au": {
     "articles": [
       {
+        "title": "Nigella praised as new Bake Off judge as latest contestants announced",
+        "url": "https://www.bbc.co.uk/news/articles/c4gm8npmp4ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The TV chef is a new judge on series 17 and there's a new crop of contestants hoping to be star bakers.",
+        "publishedAt": "2026-09-08T11:51:28.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Monty Don to leave Gardeners' World after more than 20 years",
+        "url": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The presenter said it had been \"deeply rewarding\" but added that \"now is the right time for a change\".",
+        "publishedAt": "2026-09-08T11:43:32.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Macklemore says 'Free Palestine' call was not an attack on Jewish people",
+        "url": "https://www.bbc.co.uk/news/articles/cq5x3vjq06qo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Some ticket buyers called for the rapper to be removed from the tour after he made the comments.",
+        "publishedAt": "2026-09-08T12:19:24.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "'I didn't want to leave The Voice', says Sir Tom Jones",
+        "url": "https://www.bbc.co.uk/news/articles/c70dx3z9956o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Welsh singer has appeared as an on-off coach on the competition since it premiered in 2012.",
+        "publishedAt": "2026-09-08T14:21:55.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
         "title": "How colourful stripes (and rubber chickens) helped Paul Smith conquer the fashion world",
         "url": "https://www.bbc.co.uk/news/articles/cd08vvnp9geo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1221,28 +1265,6 @@
         "zone": "au"
       },
       {
-        "title": "New Inbetweeners film confirmed by Netflix as lead stars return",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z0je34y1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Netflix has confirmed the original stars of the coming-of-age sitcom are set to reprise their roles for the film.",
-        "publishedAt": "2026-09-07T11:03:33.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
-        "url": "https://www.bbc.co.uk/news/articles/cddvzm9nyz7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The film captures the euphoria of Oasis' comeback, but fails to explore the story of their reunion.",
-        "publishedAt": "2026-09-07T15:43:11.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
         "title": "BBC News presenter reveals she has blood cancer",
         "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1254,35 +1276,13 @@
         "zone": "au"
       },
       {
-        "title": "Jorja Smith, Chase & Status and Sam Smith to head up Radio 1's Live Lounge month",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy63mdnr7o?at_medium=RSS&at_campaign=rss",
+        "title": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
+        "url": "https://www.bbc.co.uk/news/articles/cddvzm9nyz7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jorja Smith, Rachel Chinouriri and Blossoms also among artists set to take to the studio next month.",
-        "publishedAt": "2026-09-07T16:59:24.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Dizzee Rascal spotted at community folk festival",
-        "url": "https://www.bbc.co.uk/news/articles/c8xkv1q8yp0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Music lovers at the popular BunkFest weekend in Wallingford saw the chart-topping rapper in town.",
-        "publishedAt": "2026-09-08T05:04:49.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Andrew Scott feels the Pressure as 'unsung hero' in WW2 thriller",
-        "url": "https://www.bbc.co.uk/news/articles/cn0j4lz6pe9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The actor reveals how he approached playing James Stagg, the \"chilly\" meteorologist key to D-Day's success.",
-        "publishedAt": "2026-09-07T01:31:41.000Z",
+        "description": "The film captures the euphoria of Oasis' comeback, but fails to explore the story of their reunion.",
+        "publishedAt": "2026-09-07T15:43:11.000Z",
         "category": "entertainment",
         "zone": "au"
       }
@@ -1291,6 +1291,50 @@
   "entertainment_ca": {
     "articles": [
       {
+        "title": "Nigella praised as new Bake Off judge as latest contestants announced",
+        "url": "https://www.bbc.co.uk/news/articles/c4gm8npmp4ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The TV chef is a new judge on series 17 and there's a new crop of contestants hoping to be star bakers.",
+        "publishedAt": "2026-09-08T11:51:28.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "Monty Don to leave Gardeners' World after more than 20 years",
+        "url": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The presenter said it had been \"deeply rewarding\" but added that \"now is the right time for a change\".",
+        "publishedAt": "2026-09-08T11:43:32.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "Macklemore says 'Free Palestine' call was not an attack on Jewish people",
+        "url": "https://www.bbc.co.uk/news/articles/cq5x3vjq06qo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Some ticket buyers called for the rapper to be removed from the tour after he made the comments.",
+        "publishedAt": "2026-09-08T12:19:24.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "'I didn't want to leave The Voice', says Sir Tom Jones",
+        "url": "https://www.bbc.co.uk/news/articles/c70dx3z9956o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Welsh singer has appeared as an on-off coach on the competition since it premiered in 2012.",
+        "publishedAt": "2026-09-08T14:21:55.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
         "title": "How colourful stripes (and rubber chickens) helped Paul Smith conquer the fashion world",
         "url": "https://www.bbc.co.uk/news/articles/cd08vvnp9geo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1313,28 +1357,6 @@
         "zone": "ca"
       },
       {
-        "title": "New Inbetweeners film confirmed by Netflix as lead stars return",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z0je34y1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Netflix has confirmed the original stars of the coming-of-age sitcom are set to reprise their roles for the film.",
-        "publishedAt": "2026-09-07T11:03:33.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
-        "url": "https://www.bbc.co.uk/news/articles/cddvzm9nyz7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The film captures the euphoria of Oasis' comeback, but fails to explore the story of their reunion.",
-        "publishedAt": "2026-09-07T15:43:11.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
         "title": "BBC News presenter reveals she has blood cancer",
         "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1346,35 +1368,13 @@
         "zone": "ca"
       },
       {
-        "title": "Jorja Smith, Chase & Status and Sam Smith to head up Radio 1's Live Lounge month",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy63mdnr7o?at_medium=RSS&at_campaign=rss",
+        "title": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
+        "url": "https://www.bbc.co.uk/news/articles/cddvzm9nyz7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jorja Smith, Rachel Chinouriri and Blossoms also among artists set to take to the studio next month.",
-        "publishedAt": "2026-09-07T16:59:24.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Dizzee Rascal spotted at community folk festival",
-        "url": "https://www.bbc.co.uk/news/articles/c8xkv1q8yp0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Music lovers at the popular BunkFest weekend in Wallingford saw the chart-topping rapper in town.",
-        "publishedAt": "2026-09-08T05:04:49.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Andrew Scott feels the Pressure as 'unsung hero' in WW2 thriller",
-        "url": "https://www.bbc.co.uk/news/articles/cn0j4lz6pe9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The actor reveals how he approached playing James Stagg, the \"chilly\" meteorologist key to D-Day's success.",
-        "publishedAt": "2026-09-07T01:31:41.000Z",
+        "description": "The film captures the euphoria of Oasis' comeback, but fails to explore the story of their reunion.",
+        "publishedAt": "2026-09-07T15:43:11.000Z",
         "category": "entertainment",
         "zone": "ca"
       }
@@ -1388,7 +1388,7 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Around 7% of those polled wanted disability benefit cuts, according to the latest British social attitudes survey.",
+        "description": "Around 7% of those polled wanted disability benefit cuts, according to the latest British Social Attitudes survey.",
         "publishedAt": "2026-09-08T09:37:44.000Z",
         "category": "health",
         "zone": "us"
@@ -1480,7 +1480,7 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Around 7% of those polled wanted disability benefit cuts, according to the latest British social attitudes survey.",
+        "description": "Around 7% of those polled wanted disability benefit cuts, according to the latest British Social Attitudes survey.",
         "publishedAt": "2026-09-08T09:37:44.000Z",
         "category": "health",
         "zone": "gb"
@@ -1572,7 +1572,7 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Around 7% of those polled wanted disability benefit cuts, according to the latest British social attitudes survey.",
+        "description": "Around 7% of those polled wanted disability benefit cuts, according to the latest British Social Attitudes survey.",
         "publishedAt": "2026-09-08T09:37:44.000Z",
         "category": "health",
         "zone": "in"
@@ -1664,7 +1664,7 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Around 7% of those polled wanted disability benefit cuts, according to the latest British social attitudes survey.",
+        "description": "Around 7% of those polled wanted disability benefit cuts, according to the latest British Social Attitudes survey.",
         "publishedAt": "2026-09-08T09:37:44.000Z",
         "category": "health",
         "zone": "au"
@@ -1756,7 +1756,7 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Around 7% of those polled wanted disability benefit cuts, according to the latest British social attitudes survey.",
+        "description": "Around 7% of those polled wanted disability benefit cuts, according to the latest British Social Attitudes survey.",
         "publishedAt": "2026-09-08T09:37:44.000Z",
         "category": "health",
         "zone": "ca"
@@ -1854,6 +1854,17 @@
         "zone": "us"
       },
       {
+        "title": "How meteorologists recreated weather that helped decide second world war",
+        "url": "https://www.theguardian.com/science/2026/sep/08/how-meteorologists-helped-recreate-one-of-historys-most-important-weather-forecasts",
+        "source": {
+          "name": "Nicola Davis Science correspondent"
+        },
+        "description": "Experts helped guide weather scenes in Pressure – a film depicting dramatic buildup to 1944’s D-day landings Dressed in a Royal Air Force uniform and sporting a trim moustache, Andrew Scott looks slightly queasy – as well he might. Behind him is a huge map of the Channel, and in front of him is Brendan Fraser, looming with a request: “I need a forecast,” he says. Starring in the film Pressure, based on a true story, Scott plays the meteorologist Gp Capt James Stagg – the man who must tell Gen Eisenhower – played by Fraser – whether conditions will be suitable for the D-day landings scheduled to take place on 5 June 1944. But a large storm is approaching the Normandy coast. Continue reading...",
+        "publishedAt": "2026-09-08T11:59:58.000Z",
+        "category": "science",
+        "zone": "us"
+      },
+      {
         "title": "Cravings ‘like heroin withdrawal’: what happens when weight-loss drugs don’t work?",
         "url": "https://www.theguardian.com/science/2026/sep/07/glp1s-weight-loss-drugs-cravings-non-responders",
         "source": {
@@ -1905,17 +1916,6 @@
         },
         "description": "A biography of the physicist recognises his achievements, but also reveals the selfish narcissist underneath When I wrote an unadoring review of Stephen Hawking’s final book, a collection of essays published posthumously in 2018, New Scientist suppressed some of my criticisms on the grounds that it was “too early” to voice anything other than praise for the physicist who died, aged 76, that March. It was apparently still too early in 2021, when no British publisher would touch Charles Seife’s exposé of Hawking’s bullying and self-aggrandising behaviour, Hawking Hawking. In this new biography, veteran science writer Graham Farmelo takes a different approach. It is a comprehensive and accessible portrait of a brilliant scientist and an extraordinarily determined man who also possessed deep personal flaws to which the scientific community and the public mostly turned a blind eye. The uncomfortable but unavoidable truth is that Hawking’s overweening ambition and self-promotion, his repeated failure to acknowledge the work of others, his sexism and controlling behaviour were largely ignored because of his disability. I think it is indeed going to take us years to process that. Continue reading...",
         "publishedAt": "2026-09-07T06:00:26.000Z",
-        "category": "science",
-        "zone": "us"
-      },
-      {
-        "title": "The great silence: why haven’t we found any aliens yet? – podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/sep/07/great-silence-why-havent-we-found-any-aliens-yet-podcast",
-        "source": {
-          "name": "Written by Adam Kirsch and read by James Sobol Kelly. Produced by Nicola Alexandrou. The executive producer was Ellie Bury"
-        },
-        "description": "Given the size and age of the universe, it should be full of species with technology far more advanced than our own. So where are they? By Adam Kirsch. Read by James Sobol Kelly Read the text version here Support the Guardian today: theguardian.com/longreadpod Adapted from We Want to Believe: How Aliens Went Mainstream and Why It Matters, published by Columbia Global Reports on 25 August. To support the Guardian, order your copy from guardianbookshop.com. P&P may apply Continue reading...",
-        "publishedAt": "2026-09-07T04:00:24.000Z",
         "category": "science",
         "zone": "us"
       },
@@ -1946,6 +1946,17 @@
         "zone": "gb"
       },
       {
+        "title": "How meteorologists recreated weather that helped decide second world war",
+        "url": "https://www.theguardian.com/science/2026/sep/08/how-meteorologists-helped-recreate-one-of-historys-most-important-weather-forecasts",
+        "source": {
+          "name": "Nicola Davis Science correspondent"
+        },
+        "description": "Experts helped guide weather scenes in Pressure – a film depicting dramatic buildup to 1944’s D-day landings Dressed in a Royal Air Force uniform and sporting a trim moustache, Andrew Scott looks slightly queasy – as well he might. Behind him is a huge map of the Channel, and in front of him is Brendan Fraser, looming with a request: “I need a forecast,” he says. Starring in the film Pressure, based on a true story, Scott plays the meteorologist Gp Capt James Stagg – the man who must tell Gen Eisenhower – played by Fraser – whether conditions will be suitable for the D-day landings scheduled to take place on 5 June 1944. But a large storm is approaching the Normandy coast. Continue reading...",
+        "publishedAt": "2026-09-08T11:59:58.000Z",
+        "category": "science",
+        "zone": "gb"
+      },
+      {
         "title": "Cravings ‘like heroin withdrawal’: what happens when weight-loss drugs don’t work?",
         "url": "https://www.theguardian.com/science/2026/sep/07/glp1s-weight-loss-drugs-cravings-non-responders",
         "source": {
@@ -1997,17 +2008,6 @@
         },
         "description": "A biography of the physicist recognises his achievements, but also reveals the selfish narcissist underneath When I wrote an unadoring review of Stephen Hawking’s final book, a collection of essays published posthumously in 2018, New Scientist suppressed some of my criticisms on the grounds that it was “too early” to voice anything other than praise for the physicist who died, aged 76, that March. It was apparently still too early in 2021, when no British publisher would touch Charles Seife’s exposé of Hawking’s bullying and self-aggrandising behaviour, Hawking Hawking. In this new biography, veteran science writer Graham Farmelo takes a different approach. It is a comprehensive and accessible portrait of a brilliant scientist and an extraordinarily determined man who also possessed deep personal flaws to which the scientific community and the public mostly turned a blind eye. The uncomfortable but unavoidable truth is that Hawking’s overweening ambition and self-promotion, his repeated failure to acknowledge the work of others, his sexism and controlling behaviour were largely ignored because of his disability. I think it is indeed going to take us years to process that. Continue reading...",
         "publishedAt": "2026-09-07T06:00:26.000Z",
-        "category": "science",
-        "zone": "gb"
-      },
-      {
-        "title": "The great silence: why haven’t we found any aliens yet? – podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/sep/07/great-silence-why-havent-we-found-any-aliens-yet-podcast",
-        "source": {
-          "name": "Written by Adam Kirsch and read by James Sobol Kelly. Produced by Nicola Alexandrou. The executive producer was Ellie Bury"
-        },
-        "description": "Given the size and age of the universe, it should be full of species with technology far more advanced than our own. So where are they? By Adam Kirsch. Read by James Sobol Kelly Read the text version here Support the Guardian today: theguardian.com/longreadpod Adapted from We Want to Believe: How Aliens Went Mainstream and Why It Matters, published by Columbia Global Reports on 25 August. To support the Guardian, order your copy from guardianbookshop.com. P&P may apply Continue reading...",
-        "publishedAt": "2026-09-07T04:00:24.000Z",
         "category": "science",
         "zone": "gb"
       },
@@ -2038,6 +2038,17 @@
         "zone": "in"
       },
       {
+        "title": "How meteorologists recreated weather that helped decide second world war",
+        "url": "https://www.theguardian.com/science/2026/sep/08/how-meteorologists-helped-recreate-one-of-historys-most-important-weather-forecasts",
+        "source": {
+          "name": "Nicola Davis Science correspondent"
+        },
+        "description": "Experts helped guide weather scenes in Pressure – a film depicting dramatic buildup to 1944’s D-day landings Dressed in a Royal Air Force uniform and sporting a trim moustache, Andrew Scott looks slightly queasy – as well he might. Behind him is a huge map of the Channel, and in front of him is Brendan Fraser, looming with a request: “I need a forecast,” he says. Starring in the film Pressure, based on a true story, Scott plays the meteorologist Gp Capt James Stagg – the man who must tell Gen Eisenhower – played by Fraser – whether conditions will be suitable for the D-day landings scheduled to take place on 5 June 1944. But a large storm is approaching the Normandy coast. Continue reading...",
+        "publishedAt": "2026-09-08T11:59:58.000Z",
+        "category": "science",
+        "zone": "in"
+      },
+      {
         "title": "Cravings ‘like heroin withdrawal’: what happens when weight-loss drugs don’t work?",
         "url": "https://www.theguardian.com/science/2026/sep/07/glp1s-weight-loss-drugs-cravings-non-responders",
         "source": {
@@ -2089,17 +2100,6 @@
         },
         "description": "A biography of the physicist recognises his achievements, but also reveals the selfish narcissist underneath When I wrote an unadoring review of Stephen Hawking’s final book, a collection of essays published posthumously in 2018, New Scientist suppressed some of my criticisms on the grounds that it was “too early” to voice anything other than praise for the physicist who died, aged 76, that March. It was apparently still too early in 2021, when no British publisher would touch Charles Seife’s exposé of Hawking’s bullying and self-aggrandising behaviour, Hawking Hawking. In this new biography, veteran science writer Graham Farmelo takes a different approach. It is a comprehensive and accessible portrait of a brilliant scientist and an extraordinarily determined man who also possessed deep personal flaws to which the scientific community and the public mostly turned a blind eye. The uncomfortable but unavoidable truth is that Hawking’s overweening ambition and self-promotion, his repeated failure to acknowledge the work of others, his sexism and controlling behaviour were largely ignored because of his disability. I think it is indeed going to take us years to process that. Continue reading...",
         "publishedAt": "2026-09-07T06:00:26.000Z",
-        "category": "science",
-        "zone": "in"
-      },
-      {
-        "title": "The great silence: why haven’t we found any aliens yet? – podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/sep/07/great-silence-why-havent-we-found-any-aliens-yet-podcast",
-        "source": {
-          "name": "Written by Adam Kirsch and read by James Sobol Kelly. Produced by Nicola Alexandrou. The executive producer was Ellie Bury"
-        },
-        "description": "Given the size and age of the universe, it should be full of species with technology far more advanced than our own. So where are they? By Adam Kirsch. Read by James Sobol Kelly Read the text version here Support the Guardian today: theguardian.com/longreadpod Adapted from We Want to Believe: How Aliens Went Mainstream and Why It Matters, published by Columbia Global Reports on 25 August. To support the Guardian, order your copy from guardianbookshop.com. P&P may apply Continue reading...",
-        "publishedAt": "2026-09-07T04:00:24.000Z",
         "category": "science",
         "zone": "in"
       },
@@ -2130,6 +2130,17 @@
         "zone": "au"
       },
       {
+        "title": "How meteorologists recreated weather that helped decide second world war",
+        "url": "https://www.theguardian.com/science/2026/sep/08/how-meteorologists-helped-recreate-one-of-historys-most-important-weather-forecasts",
+        "source": {
+          "name": "Nicola Davis Science correspondent"
+        },
+        "description": "Experts helped guide weather scenes in Pressure – a film depicting dramatic buildup to 1944’s D-day landings Dressed in a Royal Air Force uniform and sporting a trim moustache, Andrew Scott looks slightly queasy – as well he might. Behind him is a huge map of the Channel, and in front of him is Brendan Fraser, looming with a request: “I need a forecast,” he says. Starring in the film Pressure, based on a true story, Scott plays the meteorologist Gp Capt James Stagg – the man who must tell Gen Eisenhower – played by Fraser – whether conditions will be suitable for the D-day landings scheduled to take place on 5 June 1944. But a large storm is approaching the Normandy coast. Continue reading...",
+        "publishedAt": "2026-09-08T11:59:58.000Z",
+        "category": "science",
+        "zone": "au"
+      },
+      {
         "title": "Cravings ‘like heroin withdrawal’: what happens when weight-loss drugs don’t work?",
         "url": "https://www.theguardian.com/science/2026/sep/07/glp1s-weight-loss-drugs-cravings-non-responders",
         "source": {
@@ -2181,17 +2192,6 @@
         },
         "description": "A biography of the physicist recognises his achievements, but also reveals the selfish narcissist underneath When I wrote an unadoring review of Stephen Hawking’s final book, a collection of essays published posthumously in 2018, New Scientist suppressed some of my criticisms on the grounds that it was “too early” to voice anything other than praise for the physicist who died, aged 76, that March. It was apparently still too early in 2021, when no British publisher would touch Charles Seife’s exposé of Hawking’s bullying and self-aggrandising behaviour, Hawking Hawking. In this new biography, veteran science writer Graham Farmelo takes a different approach. It is a comprehensive and accessible portrait of a brilliant scientist and an extraordinarily determined man who also possessed deep personal flaws to which the scientific community and the public mostly turned a blind eye. The uncomfortable but unavoidable truth is that Hawking’s overweening ambition and self-promotion, his repeated failure to acknowledge the work of others, his sexism and controlling behaviour were largely ignored because of his disability. I think it is indeed going to take us years to process that. Continue reading...",
         "publishedAt": "2026-09-07T06:00:26.000Z",
-        "category": "science",
-        "zone": "au"
-      },
-      {
-        "title": "The great silence: why haven’t we found any aliens yet? – podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/sep/07/great-silence-why-havent-we-found-any-aliens-yet-podcast",
-        "source": {
-          "name": "Written by Adam Kirsch and read by James Sobol Kelly. Produced by Nicola Alexandrou. The executive producer was Ellie Bury"
-        },
-        "description": "Given the size and age of the universe, it should be full of species with technology far more advanced than our own. So where are they? By Adam Kirsch. Read by James Sobol Kelly Read the text version here Support the Guardian today: theguardian.com/longreadpod Adapted from We Want to Believe: How Aliens Went Mainstream and Why It Matters, published by Columbia Global Reports on 25 August. To support the Guardian, order your copy from guardianbookshop.com. P&P may apply Continue reading...",
-        "publishedAt": "2026-09-07T04:00:24.000Z",
         "category": "science",
         "zone": "au"
       },
@@ -2222,6 +2222,17 @@
         "zone": "ca"
       },
       {
+        "title": "How meteorologists recreated weather that helped decide second world war",
+        "url": "https://www.theguardian.com/science/2026/sep/08/how-meteorologists-helped-recreate-one-of-historys-most-important-weather-forecasts",
+        "source": {
+          "name": "Nicola Davis Science correspondent"
+        },
+        "description": "Experts helped guide weather scenes in Pressure – a film depicting dramatic buildup to 1944’s D-day landings Dressed in a Royal Air Force uniform and sporting a trim moustache, Andrew Scott looks slightly queasy – as well he might. Behind him is a huge map of the Channel, and in front of him is Brendan Fraser, looming with a request: “I need a forecast,” he says. Starring in the film Pressure, based on a true story, Scott plays the meteorologist Gp Capt James Stagg – the man who must tell Gen Eisenhower – played by Fraser – whether conditions will be suitable for the D-day landings scheduled to take place on 5 June 1944. But a large storm is approaching the Normandy coast. Continue reading...",
+        "publishedAt": "2026-09-08T11:59:58.000Z",
+        "category": "science",
+        "zone": "ca"
+      },
+      {
         "title": "Cravings ‘like heroin withdrawal’: what happens when weight-loss drugs don’t work?",
         "url": "https://www.theguardian.com/science/2026/sep/07/glp1s-weight-loss-drugs-cravings-non-responders",
         "source": {
@@ -2277,17 +2288,6 @@
         "zone": "ca"
       },
       {
-        "title": "The great silence: why haven’t we found any aliens yet? – podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/sep/07/great-silence-why-havent-we-found-any-aliens-yet-podcast",
-        "source": {
-          "name": "Written by Adam Kirsch and read by James Sobol Kelly. Produced by Nicola Alexandrou. The executive producer was Ellie Bury"
-        },
-        "description": "Given the size and age of the universe, it should be full of species with technology far more advanced than our own. So where are they? By Adam Kirsch. Read by James Sobol Kelly Read the text version here Support the Guardian today: theguardian.com/longreadpod Adapted from We Want to Believe: How Aliens Went Mainstream and Why It Matters, published by Columbia Global Reports on 25 August. To support the Guardian, order your copy from guardianbookshop.com. P&P may apply Continue reading...",
-        "publishedAt": "2026-09-07T04:00:24.000Z",
-        "category": "science",
-        "zone": "ca"
-      },
-      {
         "title": "Alcohol-related cancer deaths in US have more than doubled over three decades",
         "url": "https://www.theguardian.com/society/2026/sep/04/alcohol-related-cancer-deaths",
         "source": {
@@ -2303,7 +2303,51 @@
   "sports_us": {
     "articles": [
       {
-        "title": "How Alcaraz can single-handedly end American dreams",
+        "title": "Russo and Greenwood nominated for Ballon d'Or",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cpd01d9je5zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "England stars Alessia Russo and Alex Greenwood are among 30 players nominated for the women's Ballon d'Or.",
+        "publishedAt": "2026-09-08T14:40:01.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Mac Allister 'sad' at no Liverpool contract offer",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0542qjvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Liverpool midfielder Alexis Mac Allister says he is \"very sad\" not to have been offered a new deal by the club and had \"options\" to leave in the summer.",
+        "publishedAt": "2026-09-08T13:01:12.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "England different from when Pietersen left - Root",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cr4vex3rpz2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Joe Root says the England team is \"very different\" to the one Kevin Pietersen was sacked from in 2014, after the former batter joined the coaching staff of the white-ball side.",
+        "publishedAt": "2026-09-08T14:18:17.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "McTominay's heart procedure 'a complete success'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cd79y308yl9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Napoli say Scott McTominay's heart surgery \"was a complete success\" and expect the Scotland midfielder to resume training this month.",
+        "publishedAt": "2026-09-08T12:28:16.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Alcaraz can single-handedly end American dreams",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c86xgxenyz9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2325,39 +2369,6 @@
         "zone": "us"
       },
       {
-        "title": "Newcastle were 'preparing for months' for Howe departure",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cly4lngg6npo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Newcastle United sporting director Ross Wilson says the club were preparing for former head coach Eddie Howe's departure for up to nine months.",
-        "publishedAt": "2026-09-08T06:21:00.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Russell hindered or just Antonelli brilliance? - F1 Q&A",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c8r6e663g1lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Italian Grand Prix.",
-        "publishedAt": "2026-09-08T06:42:09.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Gauff's dominant win completes stacked US Open last eight",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/crk368k4e42o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Coco Gauff powers past teenage star Iva Jovic as the top six seeds reach the US Open women's quarter-finals for the first time in 28 years.",
-        "publishedAt": "2026-09-08T02:59:35.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
         "title": "Who will reach Super Bowl? - NFL predictions for 2026 season",
         "url": "https://www.bbc.co.uk/sport/american-football/articles/cz9zwl81g7go?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2369,24 +2380,13 @@
         "zone": "us"
       },
       {
-        "title": "'At Real Madrid you have to win' - can Mourinho deliver in Europe?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c4gqd5l72j8o?at_medium=RSS&at_campaign=rss",
+        "title": "Rangers lose Shankland for up to four months",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c74ew227rmpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jose Mourinho begins his second Real Madrid spell in the Champions League against former club Inter Milan, 16 years after winning the trophy with Inter at the Bernabeu. Will he finally deliver European glory in Madrid?",
-        "publishedAt": "2026-09-08T07:47:50.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "England should pick English-based players - Baxter",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c986wxkxe68o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Exeter director of rugby Rob Baxter says England's rules on selecting only home-based players are the right thing for the domestic game.",
-        "publishedAt": "2026-09-08T09:33:36.000Z",
+        "description": "Rangers captain Lawrence Shankland will be out for up to four months because of a hamstring tear and the Scotland forward may have surgery.",
+        "publishedAt": "2026-09-08T13:30:33.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,7 +2395,51 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "How Alcaraz can single-handedly end American dreams",
+        "title": "Russo and Greenwood nominated for Ballon d'Or",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cpd01d9je5zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "England stars Alessia Russo and Alex Greenwood are among 30 players nominated for the women's Ballon d'Or.",
+        "publishedAt": "2026-09-08T14:40:01.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Mac Allister 'sad' at no Liverpool contract offer",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0542qjvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Liverpool midfielder Alexis Mac Allister says he is \"very sad\" not to have been offered a new deal by the club and had \"options\" to leave in the summer.",
+        "publishedAt": "2026-09-08T13:01:12.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "England different from when Pietersen left - Root",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cr4vex3rpz2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Joe Root says the England team is \"very different\" to the one Kevin Pietersen was sacked from in 2014, after the former batter joined the coaching staff of the white-ball side.",
+        "publishedAt": "2026-09-08T14:18:17.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "McTominay's heart procedure 'a complete success'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cd79y308yl9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Napoli say Scott McTominay's heart surgery \"was a complete success\" and expect the Scotland midfielder to resume training this month.",
+        "publishedAt": "2026-09-08T12:28:16.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Alcaraz can single-handedly end American dreams",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c86xgxenyz9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2417,39 +2461,6 @@
         "zone": "gb"
       },
       {
-        "title": "Newcastle were 'preparing for months' for Howe departure",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cly4lngg6npo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Newcastle United sporting director Ross Wilson says the club were preparing for former head coach Eddie Howe's departure for up to nine months.",
-        "publishedAt": "2026-09-08T06:21:00.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Russell hindered or just Antonelli brilliance? - F1 Q&A",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c8r6e663g1lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Italian Grand Prix.",
-        "publishedAt": "2026-09-08T06:42:09.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Gauff's dominant win completes stacked US Open last eight",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/crk368k4e42o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Coco Gauff powers past teenage star Iva Jovic as the top six seeds reach the US Open women's quarter-finals for the first time in 28 years.",
-        "publishedAt": "2026-09-08T02:59:35.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
         "title": "Who will reach Super Bowl? - NFL predictions for 2026 season",
         "url": "https://www.bbc.co.uk/sport/american-football/articles/cz9zwl81g7go?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2461,24 +2472,13 @@
         "zone": "gb"
       },
       {
-        "title": "'At Real Madrid you have to win' - can Mourinho deliver in Europe?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c4gqd5l72j8o?at_medium=RSS&at_campaign=rss",
+        "title": "Rangers lose Shankland for up to four months",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c74ew227rmpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jose Mourinho begins his second Real Madrid spell in the Champions League against former club Inter Milan, 16 years after winning the trophy with Inter at the Bernabeu. Will he finally deliver European glory in Madrid?",
-        "publishedAt": "2026-09-08T07:47:50.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "England should pick English-based players - Baxter",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c986wxkxe68o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Exeter director of rugby Rob Baxter says England's rules on selecting only home-based players are the right thing for the domestic game.",
-        "publishedAt": "2026-09-08T09:33:36.000Z",
+        "description": "Rangers captain Lawrence Shankland will be out for up to four months because of a hamstring tear and the Scotland forward may have surgery.",
+        "publishedAt": "2026-09-08T13:30:33.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,7 +2487,51 @@
   "sports_in": {
     "articles": [
       {
-        "title": "How Alcaraz can single-handedly end American dreams",
+        "title": "Russo and Greenwood nominated for Ballon d'Or",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cpd01d9je5zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "England stars Alessia Russo and Alex Greenwood are among 30 players nominated for the women's Ballon d'Or.",
+        "publishedAt": "2026-09-08T14:40:01.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Mac Allister 'sad' at no Liverpool contract offer",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0542qjvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Liverpool midfielder Alexis Mac Allister says he is \"very sad\" not to have been offered a new deal by the club and had \"options\" to leave in the summer.",
+        "publishedAt": "2026-09-08T13:01:12.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "England different from when Pietersen left - Root",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cr4vex3rpz2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Joe Root says the England team is \"very different\" to the one Kevin Pietersen was sacked from in 2014, after the former batter joined the coaching staff of the white-ball side.",
+        "publishedAt": "2026-09-08T14:18:17.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "McTominay's heart procedure 'a complete success'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cd79y308yl9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Napoli say Scott McTominay's heart surgery \"was a complete success\" and expect the Scotland midfielder to resume training this month.",
+        "publishedAt": "2026-09-08T12:28:16.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Alcaraz can single-handedly end American dreams",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c86xgxenyz9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2509,39 +2553,6 @@
         "zone": "in"
       },
       {
-        "title": "Newcastle were 'preparing for months' for Howe departure",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cly4lngg6npo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Newcastle United sporting director Ross Wilson says the club were preparing for former head coach Eddie Howe's departure for up to nine months.",
-        "publishedAt": "2026-09-08T06:21:00.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Russell hindered or just Antonelli brilliance? - F1 Q&A",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c8r6e663g1lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Italian Grand Prix.",
-        "publishedAt": "2026-09-08T06:42:09.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Gauff's dominant win completes stacked US Open last eight",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/crk368k4e42o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Coco Gauff powers past teenage star Iva Jovic as the top six seeds reach the US Open women's quarter-finals for the first time in 28 years.",
-        "publishedAt": "2026-09-08T02:59:35.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
         "title": "Who will reach Super Bowl? - NFL predictions for 2026 season",
         "url": "https://www.bbc.co.uk/sport/american-football/articles/cz9zwl81g7go?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2553,24 +2564,13 @@
         "zone": "in"
       },
       {
-        "title": "'At Real Madrid you have to win' - can Mourinho deliver in Europe?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c4gqd5l72j8o?at_medium=RSS&at_campaign=rss",
+        "title": "Rangers lose Shankland for up to four months",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c74ew227rmpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jose Mourinho begins his second Real Madrid spell in the Champions League against former club Inter Milan, 16 years after winning the trophy with Inter at the Bernabeu. Will he finally deliver European glory in Madrid?",
-        "publishedAt": "2026-09-08T07:47:50.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "England should pick English-based players - Baxter",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c986wxkxe68o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Exeter director of rugby Rob Baxter says England's rules on selecting only home-based players are the right thing for the domestic game.",
-        "publishedAt": "2026-09-08T09:33:36.000Z",
+        "description": "Rangers captain Lawrence Shankland will be out for up to four months because of a hamstring tear and the Scotland forward may have surgery.",
+        "publishedAt": "2026-09-08T13:30:33.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,7 +2579,51 @@
   "sports_au": {
     "articles": [
       {
-        "title": "How Alcaraz can single-handedly end American dreams",
+        "title": "Russo and Greenwood nominated for Ballon d'Or",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cpd01d9je5zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "England stars Alessia Russo and Alex Greenwood are among 30 players nominated for the women's Ballon d'Or.",
+        "publishedAt": "2026-09-08T14:40:01.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Mac Allister 'sad' at no Liverpool contract offer",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0542qjvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Liverpool midfielder Alexis Mac Allister says he is \"very sad\" not to have been offered a new deal by the club and had \"options\" to leave in the summer.",
+        "publishedAt": "2026-09-08T13:01:12.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "England different from when Pietersen left - Root",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cr4vex3rpz2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Joe Root says the England team is \"very different\" to the one Kevin Pietersen was sacked from in 2014, after the former batter joined the coaching staff of the white-ball side.",
+        "publishedAt": "2026-09-08T14:18:17.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "McTominay's heart procedure 'a complete success'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cd79y308yl9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Napoli say Scott McTominay's heart surgery \"was a complete success\" and expect the Scotland midfielder to resume training this month.",
+        "publishedAt": "2026-09-08T12:28:16.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Alcaraz can single-handedly end American dreams",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c86xgxenyz9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2601,39 +2645,6 @@
         "zone": "au"
       },
       {
-        "title": "Newcastle were 'preparing for months' for Howe departure",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cly4lngg6npo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Newcastle United sporting director Ross Wilson says the club were preparing for former head coach Eddie Howe's departure for up to nine months.",
-        "publishedAt": "2026-09-08T06:21:00.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Russell hindered or just Antonelli brilliance? - F1 Q&A",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c8r6e663g1lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Italian Grand Prix.",
-        "publishedAt": "2026-09-08T06:42:09.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Gauff's dominant win completes stacked US Open last eight",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/crk368k4e42o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Coco Gauff powers past teenage star Iva Jovic as the top six seeds reach the US Open women's quarter-finals for the first time in 28 years.",
-        "publishedAt": "2026-09-08T02:59:35.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
         "title": "Who will reach Super Bowl? - NFL predictions for 2026 season",
         "url": "https://www.bbc.co.uk/sport/american-football/articles/cz9zwl81g7go?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2645,24 +2656,13 @@
         "zone": "au"
       },
       {
-        "title": "'At Real Madrid you have to win' - can Mourinho deliver in Europe?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c4gqd5l72j8o?at_medium=RSS&at_campaign=rss",
+        "title": "Rangers lose Shankland for up to four months",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c74ew227rmpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jose Mourinho begins his second Real Madrid spell in the Champions League against former club Inter Milan, 16 years after winning the trophy with Inter at the Bernabeu. Will he finally deliver European glory in Madrid?",
-        "publishedAt": "2026-09-08T07:47:50.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "England should pick English-based players - Baxter",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c986wxkxe68o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Exeter director of rugby Rob Baxter says England's rules on selecting only home-based players are the right thing for the domestic game.",
-        "publishedAt": "2026-09-08T09:33:36.000Z",
+        "description": "Rangers captain Lawrence Shankland will be out for up to four months because of a hamstring tear and the Scotland forward may have surgery.",
+        "publishedAt": "2026-09-08T13:30:33.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,7 +2671,51 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "How Alcaraz can single-handedly end American dreams",
+        "title": "Russo and Greenwood nominated for Ballon d'Or",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cpd01d9je5zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "England stars Alessia Russo and Alex Greenwood are among 30 players nominated for the women's Ballon d'Or.",
+        "publishedAt": "2026-09-08T14:40:01.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Mac Allister 'sad' at no Liverpool contract offer",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0542qjvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Liverpool midfielder Alexis Mac Allister says he is \"very sad\" not to have been offered a new deal by the club and had \"options\" to leave in the summer.",
+        "publishedAt": "2026-09-08T13:01:12.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "England different from when Pietersen left - Root",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cr4vex3rpz2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Joe Root says the England team is \"very different\" to the one Kevin Pietersen was sacked from in 2014, after the former batter joined the coaching staff of the white-ball side.",
+        "publishedAt": "2026-09-08T14:18:17.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "McTominay's heart procedure 'a complete success'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cd79y308yl9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Napoli say Scott McTominay's heart surgery \"was a complete success\" and expect the Scotland midfielder to resume training this month.",
+        "publishedAt": "2026-09-08T12:28:16.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Alcaraz can single-handedly end American dreams",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c86xgxenyz9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2693,39 +2737,6 @@
         "zone": "ca"
       },
       {
-        "title": "Newcastle were 'preparing for months' for Howe departure",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cly4lngg6npo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Newcastle United sporting director Ross Wilson says the club were preparing for former head coach Eddie Howe's departure for up to nine months.",
-        "publishedAt": "2026-09-08T06:21:00.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Russell hindered or just Antonelli brilliance? - F1 Q&A",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c8r6e663g1lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Italian Grand Prix.",
-        "publishedAt": "2026-09-08T06:42:09.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Gauff's dominant win completes stacked US Open last eight",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/crk368k4e42o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Coco Gauff powers past teenage star Iva Jovic as the top six seeds reach the US Open women's quarter-finals for the first time in 28 years.",
-        "publishedAt": "2026-09-08T02:59:35.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
         "title": "Who will reach Super Bowl? - NFL predictions for 2026 season",
         "url": "https://www.bbc.co.uk/sport/american-football/articles/cz9zwl81g7go?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2737,24 +2748,13 @@
         "zone": "ca"
       },
       {
-        "title": "'At Real Madrid you have to win' - can Mourinho deliver in Europe?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c4gqd5l72j8o?at_medium=RSS&at_campaign=rss",
+        "title": "Rangers lose Shankland for up to four months",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c74ew227rmpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jose Mourinho begins his second Real Madrid spell in the Champions League against former club Inter Milan, 16 years after winning the trophy with Inter at the Bernabeu. Will he finally deliver European glory in Madrid?",
-        "publishedAt": "2026-09-08T07:47:50.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "England should pick English-based players - Baxter",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c986wxkxe68o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Exeter director of rugby Rob Baxter says England's rules on selecting only home-based players are the right thing for the domestic game.",
-        "publishedAt": "2026-09-08T09:33:36.000Z",
+        "description": "Rangers captain Lawrence Shankland will be out for up to four months because of a hamstring tear and the Scotland forward may have surgery.",
+        "publishedAt": "2026-09-08T13:30:33.000Z",
         "category": "sports",
         "zone": "ca"
       }
