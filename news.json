@@ -1,7 +1,40 @@
 {
-  "generatedAt": "2026-09-09T13:31:26.545Z",
+  "generatedAt": "2026-09-09T17:39:15.854Z",
   "general_us": {
     "articles": [
+      {
+        "title": "Police launch criminal investigation into Reform UK donations",
+        "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.",
+        "publishedAt": "2026-09-09T17:21:14.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "National security can't come at expense of social security, Burnham says",
+        "url": "https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says he will fund defence and get the welfare bill down in \"the Labour way\".",
+        "publishedAt": "2026-09-09T14:53:26.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Watch: Europe's royalty pay last respects to King Harald V in Norway",
+        "url": "https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.",
+        "publishedAt": "2026-09-09T16:36:45.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
         "url": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
@@ -14,79 +47,46 @@
         "zone": "us"
       },
       {
-        "title": "Actor Noel Clarke charged with sexual offences",
-        "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
+        "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+        "url": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
-        "publishedAt": "2026-09-09T12:51:24.000Z",
+        "description": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
+        "publishedAt": "2026-09-09T15:01:58.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss",
+        "title": "'We were raped and exploited by a drug gang as teenagers', women tell BBC of their ordeal",
+        "url": "https://www.bbc.co.uk/news/videos/c05revv9nvro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Four victims describe being targeted by criminals and then not being taken seriously by the authorities.",
-        "publishedAt": "2026-09-09T04:59:08.000Z",
+        "description": "Four women have chosen to waive their anonymity and speak publicly to the BBC documentary, Britain's Forgotten Girls, about how they were targeted by criminals when they were children.",
+        "publishedAt": "2026-09-09T13:29:47.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Watch: Sinkhole at Nicolas Cage's Malibu house swallows driveway",
-        "url": "https://www.bbc.co.uk/news/videos/czezr8g1n3eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The driveway of the beach-front house collapsed on Tuesday morning, according to local authorities.",
-        "publishedAt": "2026-09-09T09:49:08.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-        "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
-        "publishedAt": "2026-09-09T13:29:33.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-        "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-        "publishedAt": "2026-09-09T12:36:59.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-        "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-        "publishedAt": "2026-09-09T09:47:39.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Hundreds line the streets for funeral of PC killed in wrong way crash on A66",
+        "title": "Hundreds mourn police officer killed in wrong-way A66 crash",
         "url": "https://www.bbc.co.uk/news/articles/cvgy3lyxd6zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Officers give PC Matthew Blades' coffin a guard of honour in Hartlepool.",
-        "publishedAt": "2026-09-09T12:00:37.000Z",
+        "description": "Officers give PC Matthew Blades a guard of honour as people line the streets for his funeral.",
+        "publishedAt": "2026-09-09T14:00:55.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
+        "url": "https://www.bbc.co.uk/news/articles/ckgwydke178o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Her demands for information about what happened to Tasia Fortune have been echoed by shocked locals.",
+        "publishedAt": "2026-09-09T16:33:49.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,6 +95,39 @@
   "general_gb": {
     "articles": [
       {
+        "title": "Police launch criminal investigation into Reform UK donations",
+        "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.",
+        "publishedAt": "2026-09-09T17:21:14.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "National security can't come at expense of social security, Burnham says",
+        "url": "https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says he will fund defence and get the welfare bill down in \"the Labour way\".",
+        "publishedAt": "2026-09-09T14:53:26.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Watch: Europe's royalty pay last respects to King Harald V in Norway",
+        "url": "https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.",
+        "publishedAt": "2026-09-09T16:36:45.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
         "url": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -106,79 +139,46 @@
         "zone": "gb"
       },
       {
-        "title": "Actor Noel Clarke charged with sexual offences",
-        "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
+        "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+        "url": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
-        "publishedAt": "2026-09-09T12:51:24.000Z",
+        "description": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
+        "publishedAt": "2026-09-09T15:01:58.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss",
+        "title": "'We were raped and exploited by a drug gang as teenagers', women tell BBC of their ordeal",
+        "url": "https://www.bbc.co.uk/news/videos/c05revv9nvro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Four victims describe being targeted by criminals and then not being taken seriously by the authorities.",
-        "publishedAt": "2026-09-09T04:59:08.000Z",
+        "description": "Four women have chosen to waive their anonymity and speak publicly to the BBC documentary, Britain's Forgotten Girls, about how they were targeted by criminals when they were children.",
+        "publishedAt": "2026-09-09T13:29:47.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Watch: Sinkhole at Nicolas Cage's Malibu house swallows driveway",
-        "url": "https://www.bbc.co.uk/news/videos/czezr8g1n3eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The driveway of the beach-front house collapsed on Tuesday morning, according to local authorities.",
-        "publishedAt": "2026-09-09T09:49:08.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-        "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
-        "publishedAt": "2026-09-09T13:29:33.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-        "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-        "publishedAt": "2026-09-09T12:36:59.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-        "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-        "publishedAt": "2026-09-09T09:47:39.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Hundreds line the streets for funeral of PC killed in wrong way crash on A66",
+        "title": "Hundreds mourn police officer killed in wrong-way A66 crash",
         "url": "https://www.bbc.co.uk/news/articles/cvgy3lyxd6zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Officers give PC Matthew Blades' coffin a guard of honour in Hartlepool.",
-        "publishedAt": "2026-09-09T12:00:37.000Z",
+        "description": "Officers give PC Matthew Blades a guard of honour as people line the streets for his funeral.",
+        "publishedAt": "2026-09-09T14:00:55.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
+        "url": "https://www.bbc.co.uk/news/articles/ckgwydke178o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Her demands for information about what happened to Tasia Fortune have been echoed by shocked locals.",
+        "publishedAt": "2026-09-09T16:33:49.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,6 +187,39 @@
   "general_in": {
     "articles": [
       {
+        "title": "Police launch criminal investigation into Reform UK donations",
+        "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.",
+        "publishedAt": "2026-09-09T17:21:14.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "National security can't come at expense of social security, Burnham says",
+        "url": "https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says he will fund defence and get the welfare bill down in \"the Labour way\".",
+        "publishedAt": "2026-09-09T14:53:26.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Watch: Europe's royalty pay last respects to King Harald V in Norway",
+        "url": "https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.",
+        "publishedAt": "2026-09-09T16:36:45.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
         "url": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -198,79 +231,46 @@
         "zone": "in"
       },
       {
-        "title": "Actor Noel Clarke charged with sexual offences",
-        "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
+        "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+        "url": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
-        "publishedAt": "2026-09-09T12:51:24.000Z",
+        "description": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
+        "publishedAt": "2026-09-09T15:01:58.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss",
+        "title": "'We were raped and exploited by a drug gang as teenagers', women tell BBC of their ordeal",
+        "url": "https://www.bbc.co.uk/news/videos/c05revv9nvro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Four victims describe being targeted by criminals and then not being taken seriously by the authorities.",
-        "publishedAt": "2026-09-09T04:59:08.000Z",
+        "description": "Four women have chosen to waive their anonymity and speak publicly to the BBC documentary, Britain's Forgotten Girls, about how they were targeted by criminals when they were children.",
+        "publishedAt": "2026-09-09T13:29:47.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Watch: Sinkhole at Nicolas Cage's Malibu house swallows driveway",
-        "url": "https://www.bbc.co.uk/news/videos/czezr8g1n3eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The driveway of the beach-front house collapsed on Tuesday morning, according to local authorities.",
-        "publishedAt": "2026-09-09T09:49:08.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-        "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
-        "publishedAt": "2026-09-09T13:29:33.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-        "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-        "publishedAt": "2026-09-09T12:36:59.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-        "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-        "publishedAt": "2026-09-09T09:47:39.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Hundreds line the streets for funeral of PC killed in wrong way crash on A66",
+        "title": "Hundreds mourn police officer killed in wrong-way A66 crash",
         "url": "https://www.bbc.co.uk/news/articles/cvgy3lyxd6zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Officers give PC Matthew Blades' coffin a guard of honour in Hartlepool.",
-        "publishedAt": "2026-09-09T12:00:37.000Z",
+        "description": "Officers give PC Matthew Blades a guard of honour as people line the streets for his funeral.",
+        "publishedAt": "2026-09-09T14:00:55.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
+        "url": "https://www.bbc.co.uk/news/articles/ckgwydke178o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Her demands for information about what happened to Tasia Fortune have been echoed by shocked locals.",
+        "publishedAt": "2026-09-09T16:33:49.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,6 +279,39 @@
   "general_au": {
     "articles": [
       {
+        "title": "Police launch criminal investigation into Reform UK donations",
+        "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.",
+        "publishedAt": "2026-09-09T17:21:14.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "National security can't come at expense of social security, Burnham says",
+        "url": "https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says he will fund defence and get the welfare bill down in \"the Labour way\".",
+        "publishedAt": "2026-09-09T14:53:26.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Watch: Europe's royalty pay last respects to King Harald V in Norway",
+        "url": "https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.",
+        "publishedAt": "2026-09-09T16:36:45.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
         "url": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -290,79 +323,46 @@
         "zone": "au"
       },
       {
-        "title": "Actor Noel Clarke charged with sexual offences",
-        "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
+        "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+        "url": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
-        "publishedAt": "2026-09-09T12:51:24.000Z",
+        "description": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
+        "publishedAt": "2026-09-09T15:01:58.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss",
+        "title": "'We were raped and exploited by a drug gang as teenagers', women tell BBC of their ordeal",
+        "url": "https://www.bbc.co.uk/news/videos/c05revv9nvro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Four victims describe being targeted by criminals and then not being taken seriously by the authorities.",
-        "publishedAt": "2026-09-09T04:59:08.000Z",
+        "description": "Four women have chosen to waive their anonymity and speak publicly to the BBC documentary, Britain's Forgotten Girls, about how they were targeted by criminals when they were children.",
+        "publishedAt": "2026-09-09T13:29:47.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Watch: Sinkhole at Nicolas Cage's Malibu house swallows driveway",
-        "url": "https://www.bbc.co.uk/news/videos/czezr8g1n3eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The driveway of the beach-front house collapsed on Tuesday morning, according to local authorities.",
-        "publishedAt": "2026-09-09T09:49:08.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-        "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
-        "publishedAt": "2026-09-09T13:29:33.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-        "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-        "publishedAt": "2026-09-09T12:36:59.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-        "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-        "publishedAt": "2026-09-09T09:47:39.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Hundreds line the streets for funeral of PC killed in wrong way crash on A66",
+        "title": "Hundreds mourn police officer killed in wrong-way A66 crash",
         "url": "https://www.bbc.co.uk/news/articles/cvgy3lyxd6zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Officers give PC Matthew Blades' coffin a guard of honour in Hartlepool.",
-        "publishedAt": "2026-09-09T12:00:37.000Z",
+        "description": "Officers give PC Matthew Blades a guard of honour as people line the streets for his funeral.",
+        "publishedAt": "2026-09-09T14:00:55.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
+        "url": "https://www.bbc.co.uk/news/articles/ckgwydke178o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Her demands for information about what happened to Tasia Fortune have been echoed by shocked locals.",
+        "publishedAt": "2026-09-09T16:33:49.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,6 +371,39 @@
   "general_ca": {
     "articles": [
       {
+        "title": "Police launch criminal investigation into Reform UK donations",
+        "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.",
+        "publishedAt": "2026-09-09T17:21:14.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "National security can't come at expense of social security, Burnham says",
+        "url": "https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says he will fund defence and get the welfare bill down in \"the Labour way\".",
+        "publishedAt": "2026-09-09T14:53:26.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Watch: Europe's royalty pay last respects to King Harald V in Norway",
+        "url": "https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.",
+        "publishedAt": "2026-09-09T16:36:45.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
         "url": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -382,79 +415,46 @@
         "zone": "ca"
       },
       {
-        "title": "Actor Noel Clarke charged with sexual offences",
-        "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
+        "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+        "url": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
-        "publishedAt": "2026-09-09T12:51:24.000Z",
+        "description": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
+        "publishedAt": "2026-09-09T15:01:58.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss",
+        "title": "'We were raped and exploited by a drug gang as teenagers', women tell BBC of their ordeal",
+        "url": "https://www.bbc.co.uk/news/videos/c05revv9nvro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Four victims describe being targeted by criminals and then not being taken seriously by the authorities.",
-        "publishedAt": "2026-09-09T04:59:08.000Z",
+        "description": "Four women have chosen to waive their anonymity and speak publicly to the BBC documentary, Britain's Forgotten Girls, about how they were targeted by criminals when they were children.",
+        "publishedAt": "2026-09-09T13:29:47.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Watch: Sinkhole at Nicolas Cage's Malibu house swallows driveway",
-        "url": "https://www.bbc.co.uk/news/videos/czezr8g1n3eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The driveway of the beach-front house collapsed on Tuesday morning, according to local authorities.",
-        "publishedAt": "2026-09-09T09:49:08.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-        "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
-        "publishedAt": "2026-09-09T13:29:33.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-        "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-        "publishedAt": "2026-09-09T12:36:59.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-        "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-        "publishedAt": "2026-09-09T09:47:39.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Hundreds line the streets for funeral of PC killed in wrong way crash on A66",
+        "title": "Hundreds mourn police officer killed in wrong-way A66 crash",
         "url": "https://www.bbc.co.uk/news/articles/cvgy3lyxd6zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Officers give PC Matthew Blades' coffin a guard of honour in Hartlepool.",
-        "publishedAt": "2026-09-09T12:00:37.000Z",
+        "description": "Officers give PC Matthew Blades a guard of honour as people line the streets for his funeral.",
+        "publishedAt": "2026-09-09T14:00:55.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
+        "url": "https://www.bbc.co.uk/news/articles/ckgwydke178o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Her demands for information about what happened to Tasia Fortune have been echoed by shocked locals.",
+        "publishedAt": "2026-09-09T16:33:49.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -463,6 +463,28 @@
   "business_us": {
     "articles": [
       {
+        "title": "Air traffic failure was avoidable, says Transport Secretary",
+        "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Heidi Alexander order an investigation into a glitch that has caused more than 2,000 flight cancellations.",
+        "publishedAt": "2026-09-09T16:13:40.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "What are my rights if my flight is cancelled or delayed?",
+        "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
+        "publishedAt": "2026-09-09T08:04:14.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "Learner drivers still forced to wait months to book tests",
         "url": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -485,24 +507,13 @@
         "zone": "us"
       },
       {
-        "title": "What are my rights if my flight is cancelled or delayed?",
-        "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
-        "publishedAt": "2026-09-09T08:04:14.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
         "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
         "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-        "publishedAt": "2026-09-09T12:36:59.000Z",
+        "publishedAt": "2026-09-09T15:34:09.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -536,17 +547,6 @@
         },
         "description": "Victims of cowboy builders describe how they were exploited with one couple left \"scarred for life\".",
         "publishedAt": "2026-09-09T05:00:30.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Singaporean man pleads guilty in US to massive crypto heist",
-        "url": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
-        "publishedAt": "2026-09-09T05:49:30.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,6 +555,28 @@
   "business_gb": {
     "articles": [
       {
+        "title": "Air traffic failure was avoidable, says Transport Secretary",
+        "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Heidi Alexander order an investigation into a glitch that has caused more than 2,000 flight cancellations.",
+        "publishedAt": "2026-09-09T16:13:40.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "What are my rights if my flight is cancelled or delayed?",
+        "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
+        "publishedAt": "2026-09-09T08:04:14.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "Learner drivers still forced to wait months to book tests",
         "url": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -577,24 +599,13 @@
         "zone": "gb"
       },
       {
-        "title": "What are my rights if my flight is cancelled or delayed?",
-        "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
-        "publishedAt": "2026-09-09T08:04:14.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
         "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
         "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-        "publishedAt": "2026-09-09T12:36:59.000Z",
+        "publishedAt": "2026-09-09T15:34:09.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -628,17 +639,6 @@
         },
         "description": "Victims of cowboy builders describe how they were exploited with one couple left \"scarred for life\".",
         "publishedAt": "2026-09-09T05:00:30.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Singaporean man pleads guilty in US to massive crypto heist",
-        "url": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
-        "publishedAt": "2026-09-09T05:49:30.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,6 +647,28 @@
   "business_in": {
     "articles": [
       {
+        "title": "Air traffic failure was avoidable, says Transport Secretary",
+        "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Heidi Alexander order an investigation into a glitch that has caused more than 2,000 flight cancellations.",
+        "publishedAt": "2026-09-09T16:13:40.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "What are my rights if my flight is cancelled or delayed?",
+        "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
+        "publishedAt": "2026-09-09T08:04:14.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "Learner drivers still forced to wait months to book tests",
         "url": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -669,24 +691,13 @@
         "zone": "in"
       },
       {
-        "title": "What are my rights if my flight is cancelled or delayed?",
-        "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
-        "publishedAt": "2026-09-09T08:04:14.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
         "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
         "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-        "publishedAt": "2026-09-09T12:36:59.000Z",
+        "publishedAt": "2026-09-09T15:34:09.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -720,17 +731,6 @@
         },
         "description": "Victims of cowboy builders describe how they were exploited with one couple left \"scarred for life\".",
         "publishedAt": "2026-09-09T05:00:30.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Singaporean man pleads guilty in US to massive crypto heist",
-        "url": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
-        "publishedAt": "2026-09-09T05:49:30.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,6 +739,28 @@
   "business_au": {
     "articles": [
       {
+        "title": "Air traffic failure was avoidable, says Transport Secretary",
+        "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Heidi Alexander order an investigation into a glitch that has caused more than 2,000 flight cancellations.",
+        "publishedAt": "2026-09-09T16:13:40.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "What are my rights if my flight is cancelled or delayed?",
+        "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
+        "publishedAt": "2026-09-09T08:04:14.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "Learner drivers still forced to wait months to book tests",
         "url": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -761,24 +783,13 @@
         "zone": "au"
       },
       {
-        "title": "What are my rights if my flight is cancelled or delayed?",
-        "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
-        "publishedAt": "2026-09-09T08:04:14.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
         "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
         "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-        "publishedAt": "2026-09-09T12:36:59.000Z",
+        "publishedAt": "2026-09-09T15:34:09.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -812,17 +823,6 @@
         },
         "description": "Victims of cowboy builders describe how they were exploited with one couple left \"scarred for life\".",
         "publishedAt": "2026-09-09T05:00:30.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Singaporean man pleads guilty in US to massive crypto heist",
-        "url": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
-        "publishedAt": "2026-09-09T05:49:30.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,6 +831,28 @@
   "business_ca": {
     "articles": [
       {
+        "title": "Air traffic failure was avoidable, says Transport Secretary",
+        "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Heidi Alexander order an investigation into a glitch that has caused more than 2,000 flight cancellations.",
+        "publishedAt": "2026-09-09T16:13:40.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "What are my rights if my flight is cancelled or delayed?",
+        "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
+        "publishedAt": "2026-09-09T08:04:14.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "Learner drivers still forced to wait months to book tests",
         "url": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -853,24 +875,13 @@
         "zone": "ca"
       },
       {
-        "title": "What are my rights if my flight is cancelled or delayed?",
-        "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
-        "publishedAt": "2026-09-09T08:04:14.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
         "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
         "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-        "publishedAt": "2026-09-09T12:36:59.000Z",
+        "publishedAt": "2026-09-09T15:34:09.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -906,33 +917,11 @@
         "publishedAt": "2026-09-09T05:00:30.000Z",
         "category": "business",
         "zone": "ca"
-      },
-      {
-        "title": "Singaporean man pleads guilty in US to massive crypto heist",
-        "url": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
-        "publishedAt": "2026-09-09T05:49:30.000Z",
-        "category": "business",
-        "zone": "ca"
       }
     ]
   },
   "entertainment_us": {
     "articles": [
-      {
-        "title": "Actor Noel Clarke charged with sexual offences",
-        "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
-        "publishedAt": "2026-09-09T12:51:24.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
       {
         "title": "Nicolas Cage's driveway collapses as sinkhole opens up at his Malibu home",
         "url": "https://www.bbc.co.uk/news/articles/c790l73ryp3o?at_medium=RSS&at_campaign=rss",
@@ -941,6 +930,17 @@
         },
         "description": "A 30ft crater opened up outside the actor's home in Malibu after heavy rain in Southern California.",
         "publishedAt": "2026-09-09T09:40:31.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Actor Noel Clarke charged with sexual offences",
+        "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
+        "publishedAt": "2026-09-09T12:51:24.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -1000,7 +1000,7 @@
         "zone": "us"
       },
       {
-        "title": "Dallas Cowboys Cheerleaders star overcomes stunt casting criticism",
+        "title": "Dallas Cowboys Cheerleaders star impresses on Broadway after celebrity casting row",
         "url": "https://www.bbc.co.uk/news/articles/c4gk62vlegvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -1015,17 +1015,6 @@
   "entertainment_gb": {
     "articles": [
       {
-        "title": "Actor Noel Clarke charged with sexual offences",
-        "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
-        "publishedAt": "2026-09-09T12:51:24.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
         "title": "Nicolas Cage's driveway collapses as sinkhole opens up at his Malibu home",
         "url": "https://www.bbc.co.uk/news/articles/c790l73ryp3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1033,6 +1022,17 @@
         },
         "description": "A 30ft crater opened up outside the actor's home in Malibu after heavy rain in Southern California.",
         "publishedAt": "2026-09-09T09:40:31.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Actor Noel Clarke charged with sexual offences",
+        "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
+        "publishedAt": "2026-09-09T12:51:24.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1092,7 +1092,7 @@
         "zone": "gb"
       },
       {
-        "title": "Dallas Cowboys Cheerleaders star overcomes stunt casting criticism",
+        "title": "Dallas Cowboys Cheerleaders star impresses on Broadway after celebrity casting row",
         "url": "https://www.bbc.co.uk/news/articles/c4gk62vlegvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -1107,17 +1107,6 @@
   "entertainment_in": {
     "articles": [
       {
-        "title": "Actor Noel Clarke charged with sexual offences",
-        "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
-        "publishedAt": "2026-09-09T12:51:24.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
         "title": "Nicolas Cage's driveway collapses as sinkhole opens up at his Malibu home",
         "url": "https://www.bbc.co.uk/news/articles/c790l73ryp3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1125,6 +1114,17 @@
         },
         "description": "A 30ft crater opened up outside the actor's home in Malibu after heavy rain in Southern California.",
         "publishedAt": "2026-09-09T09:40:31.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Actor Noel Clarke charged with sexual offences",
+        "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
+        "publishedAt": "2026-09-09T12:51:24.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1184,7 +1184,7 @@
         "zone": "in"
       },
       {
-        "title": "Dallas Cowboys Cheerleaders star overcomes stunt casting criticism",
+        "title": "Dallas Cowboys Cheerleaders star impresses on Broadway after celebrity casting row",
         "url": "https://www.bbc.co.uk/news/articles/c4gk62vlegvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -1199,17 +1199,6 @@
   "entertainment_au": {
     "articles": [
       {
-        "title": "Actor Noel Clarke charged with sexual offences",
-        "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
-        "publishedAt": "2026-09-09T12:51:24.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
         "title": "Nicolas Cage's driveway collapses as sinkhole opens up at his Malibu home",
         "url": "https://www.bbc.co.uk/news/articles/c790l73ryp3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1217,6 +1206,17 @@
         },
         "description": "A 30ft crater opened up outside the actor's home in Malibu after heavy rain in Southern California.",
         "publishedAt": "2026-09-09T09:40:31.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Actor Noel Clarke charged with sexual offences",
+        "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
+        "publishedAt": "2026-09-09T12:51:24.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1276,7 +1276,7 @@
         "zone": "au"
       },
       {
-        "title": "Dallas Cowboys Cheerleaders star overcomes stunt casting criticism",
+        "title": "Dallas Cowboys Cheerleaders star impresses on Broadway after celebrity casting row",
         "url": "https://www.bbc.co.uk/news/articles/c4gk62vlegvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -1291,17 +1291,6 @@
   "entertainment_ca": {
     "articles": [
       {
-        "title": "Actor Noel Clarke charged with sexual offences",
-        "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
-        "publishedAt": "2026-09-09T12:51:24.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
         "title": "Nicolas Cage's driveway collapses as sinkhole opens up at his Malibu home",
         "url": "https://www.bbc.co.uk/news/articles/c790l73ryp3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1309,6 +1298,17 @@
         },
         "description": "A 30ft crater opened up outside the actor's home in Malibu after heavy rain in Southern California.",
         "publishedAt": "2026-09-09T09:40:31.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "Actor Noel Clarke charged with sexual offences",
+        "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
+        "publishedAt": "2026-09-09T12:51:24.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1368,7 +1368,7 @@
         "zone": "ca"
       },
       {
-        "title": "Dallas Cowboys Cheerleaders star overcomes stunt casting criticism",
+        "title": "Dallas Cowboys Cheerleaders star impresses on Broadway after celebrity casting row",
         "url": "https://www.bbc.co.uk/news/articles/c4gk62vlegvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2303,6 +2303,28 @@
   "sports_us": {
     "articles": [
       {
+        "title": "What next for LIV Golf's star players, and its fight for survival?",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c0re742dpw1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Golf's main tours are expecting a lot of interest in rejoining from LIV golfers – but the path back might not be so easy.",
+        "publishedAt": "2026-09-09T14:26:19.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "'Embarrassing' Pakistan break record in innings to forget",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c62mn0zn657o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The only thing gloomier than the leaden skies at lunch on day of the third Test at Edgbaston will be the mood in the Pakistan dressing room as things went from bad to worse.",
+        "publishedAt": "2026-09-09T13:57:55.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Kimi Raikkonen's son Robin, 11, signs for Red Bull",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/c3v437155e3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2310,61 +2332,6 @@
         },
         "description": "Robin Raikkonen, the 11-year-old son of former Formula 1 world champion Kimi Raikkonen, signs for Red Bull's driver development programme.",
         "publishedAt": "2026-09-09T13:20:04.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Borthwick's holding pattern extended - with minimal confidence vote",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cy8z5gkenl2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England head coach Steve Borthwick's extra six months buys time but doesn't indicate reserves of confidence from his Rugby Football Union employers.",
-        "publishedAt": "2026-09-09T13:14:44.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "'Embarrassing' Pakistan break record in morning to forget",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c62mn0zn657o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The only thing gloomier than the leaden skies at lunch on day of the third Test at Edgbaston will be the mood in the Pakistan dressing room as things went from bad to worse.",
-        "publishedAt": "2026-09-09T13:00:28.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Shelton beats Alcaraz in latest-ever US Open finish to reach semis",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20v6pgz7nmo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Carlos Alcaraz's US Open title defence is over after a dramatic five-set quarter-final loss to Ben Shelton which ends at 03:34 local time.",
-        "publishedAt": "2026-09-09T09:03:44.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "LIV files for bankruptcy protection with over $45m owed to players",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave.",
-        "publishedAt": "2026-09-08T21:20:22.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Is 15-year-old Gabriel set to become Man Utd's youngest ever player?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c7706zz7mylo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Fifteen-year-old JJ Gabriel has scored two magnificent goals in two Premier League 2 appearances for Manchester United - is he ready to make his senior debut",
-        "publishedAt": "2026-09-09T10:58:38.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2380,13 +2347,46 @@
         "zone": "us"
       },
       {
-        "title": "Pakistan in 'disarray' as England take seven wickets in first session",
-        "url": "https://www.bbc.co.uk/sport/cricket/videos/cevw2n88r8wo?at_medium=RSS&at_campaign=rss",
+        "title": "Brennan sprints to historic fifth stage win at Vuelta",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/clyerpqv0zro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England make stunning start to their third and final Test against Pakistan by taking seven wickets in the opening session on the first day at Edgbaston, leaving the tourists 100-7 at lunch.",
-        "publishedAt": "2026-09-09T12:20:19.000Z",
+        "description": "Great Britain's Matthew Brennan continues his remarkable Grand Tour debut by sprinting to a fifth stage victory of this year's Vuelta a Espana in Seville.",
+        "publishedAt": "2026-09-09T17:25:20.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Borthwick's holding pattern extended - with minimal confidence vote",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cy8z5gkenl2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "England head coach Steve Borthwick's extra six months buys time but doesn't indicate reserves of confidence from his Rugby Football Union employers.",
+        "publishedAt": "2026-09-09T13:14:44.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "'I'm not a robot' - Kerr responds to criticism before Ingebrigtsen reunion",
+        "url": "https://www.bbc.co.uk/sport/athletics/articles/cnvl7qe15z5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Josh Kerr says he is \"very happy\" to see Jakob Ingebrigtsen back competing - but he is \"not going to lose\" when they resume their fierce rivalry this weekend.",
+        "publishedAt": "2026-09-09T15:00:03.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Gay shows his class to give England control against Pakistan",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/c05re8eq183o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Emilio Gay produces a gritty, determined innings to guide England out of early trouble as he hits 60 off 114 balls to help his side recover from 39-3 to 143-4 on day one of the third and final Test against Pakistan at Edgbaston.",
+        "publishedAt": "2026-09-09T17:22:13.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,6 +2395,28 @@
   "sports_gb": {
     "articles": [
       {
+        "title": "What next for LIV Golf's star players, and its fight for survival?",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c0re742dpw1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Golf's main tours are expecting a lot of interest in rejoining from LIV golfers – but the path back might not be so easy.",
+        "publishedAt": "2026-09-09T14:26:19.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "'Embarrassing' Pakistan break record in innings to forget",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c62mn0zn657o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The only thing gloomier than the leaden skies at lunch on day of the third Test at Edgbaston will be the mood in the Pakistan dressing room as things went from bad to worse.",
+        "publishedAt": "2026-09-09T13:57:55.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Kimi Raikkonen's son Robin, 11, signs for Red Bull",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/c3v437155e3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2402,61 +2424,6 @@
         },
         "description": "Robin Raikkonen, the 11-year-old son of former Formula 1 world champion Kimi Raikkonen, signs for Red Bull's driver development programme.",
         "publishedAt": "2026-09-09T13:20:04.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Borthwick's holding pattern extended - with minimal confidence vote",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cy8z5gkenl2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England head coach Steve Borthwick's extra six months buys time but doesn't indicate reserves of confidence from his Rugby Football Union employers.",
-        "publishedAt": "2026-09-09T13:14:44.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "'Embarrassing' Pakistan break record in morning to forget",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c62mn0zn657o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The only thing gloomier than the leaden skies at lunch on day of the third Test at Edgbaston will be the mood in the Pakistan dressing room as things went from bad to worse.",
-        "publishedAt": "2026-09-09T13:00:28.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Shelton beats Alcaraz in latest-ever US Open finish to reach semis",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20v6pgz7nmo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Carlos Alcaraz's US Open title defence is over after a dramatic five-set quarter-final loss to Ben Shelton which ends at 03:34 local time.",
-        "publishedAt": "2026-09-09T09:03:44.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "LIV files for bankruptcy protection with over $45m owed to players",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave.",
-        "publishedAt": "2026-09-08T21:20:22.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Is 15-year-old Gabriel set to become Man Utd's youngest ever player?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c7706zz7mylo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Fifteen-year-old JJ Gabriel has scored two magnificent goals in two Premier League 2 appearances for Manchester United - is he ready to make his senior debut",
-        "publishedAt": "2026-09-09T10:58:38.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2472,13 +2439,46 @@
         "zone": "gb"
       },
       {
-        "title": "Pakistan in 'disarray' as England take seven wickets in first session",
-        "url": "https://www.bbc.co.uk/sport/cricket/videos/cevw2n88r8wo?at_medium=RSS&at_campaign=rss",
+        "title": "Brennan sprints to historic fifth stage win at Vuelta",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/clyerpqv0zro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England make stunning start to their third and final Test against Pakistan by taking seven wickets in the opening session on the first day at Edgbaston, leaving the tourists 100-7 at lunch.",
-        "publishedAt": "2026-09-09T12:20:19.000Z",
+        "description": "Great Britain's Matthew Brennan continues his remarkable Grand Tour debut by sprinting to a fifth stage victory of this year's Vuelta a Espana in Seville.",
+        "publishedAt": "2026-09-09T17:25:20.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Borthwick's holding pattern extended - with minimal confidence vote",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cy8z5gkenl2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "England head coach Steve Borthwick's extra six months buys time but doesn't indicate reserves of confidence from his Rugby Football Union employers.",
+        "publishedAt": "2026-09-09T13:14:44.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "'I'm not a robot' - Kerr responds to criticism before Ingebrigtsen reunion",
+        "url": "https://www.bbc.co.uk/sport/athletics/articles/cnvl7qe15z5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Josh Kerr says he is \"very happy\" to see Jakob Ingebrigtsen back competing - but he is \"not going to lose\" when they resume their fierce rivalry this weekend.",
+        "publishedAt": "2026-09-09T15:00:03.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Gay shows his class to give England control against Pakistan",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/c05re8eq183o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Emilio Gay produces a gritty, determined innings to guide England out of early trouble as he hits 60 off 114 balls to help his side recover from 39-3 to 143-4 on day one of the third and final Test against Pakistan at Edgbaston.",
+        "publishedAt": "2026-09-09T17:22:13.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,6 +2487,28 @@
   "sports_in": {
     "articles": [
       {
+        "title": "What next for LIV Golf's star players, and its fight for survival?",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c0re742dpw1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Golf's main tours are expecting a lot of interest in rejoining from LIV golfers – but the path back might not be so easy.",
+        "publishedAt": "2026-09-09T14:26:19.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "'Embarrassing' Pakistan break record in innings to forget",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c62mn0zn657o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The only thing gloomier than the leaden skies at lunch on day of the third Test at Edgbaston will be the mood in the Pakistan dressing room as things went from bad to worse.",
+        "publishedAt": "2026-09-09T13:57:55.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Kimi Raikkonen's son Robin, 11, signs for Red Bull",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/c3v437155e3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2494,61 +2516,6 @@
         },
         "description": "Robin Raikkonen, the 11-year-old son of former Formula 1 world champion Kimi Raikkonen, signs for Red Bull's driver development programme.",
         "publishedAt": "2026-09-09T13:20:04.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Borthwick's holding pattern extended - with minimal confidence vote",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cy8z5gkenl2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England head coach Steve Borthwick's extra six months buys time but doesn't indicate reserves of confidence from his Rugby Football Union employers.",
-        "publishedAt": "2026-09-09T13:14:44.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "'Embarrassing' Pakistan break record in morning to forget",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c62mn0zn657o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The only thing gloomier than the leaden skies at lunch on day of the third Test at Edgbaston will be the mood in the Pakistan dressing room as things went from bad to worse.",
-        "publishedAt": "2026-09-09T13:00:28.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Shelton beats Alcaraz in latest-ever US Open finish to reach semis",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20v6pgz7nmo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Carlos Alcaraz's US Open title defence is over after a dramatic five-set quarter-final loss to Ben Shelton which ends at 03:34 local time.",
-        "publishedAt": "2026-09-09T09:03:44.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "LIV files for bankruptcy protection with over $45m owed to players",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave.",
-        "publishedAt": "2026-09-08T21:20:22.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Is 15-year-old Gabriel set to become Man Utd's youngest ever player?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c7706zz7mylo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Fifteen-year-old JJ Gabriel has scored two magnificent goals in two Premier League 2 appearances for Manchester United - is he ready to make his senior debut",
-        "publishedAt": "2026-09-09T10:58:38.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2564,13 +2531,46 @@
         "zone": "in"
       },
       {
-        "title": "Pakistan in 'disarray' as England take seven wickets in first session",
-        "url": "https://www.bbc.co.uk/sport/cricket/videos/cevw2n88r8wo?at_medium=RSS&at_campaign=rss",
+        "title": "Brennan sprints to historic fifth stage win at Vuelta",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/clyerpqv0zro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England make stunning start to their third and final Test against Pakistan by taking seven wickets in the opening session on the first day at Edgbaston, leaving the tourists 100-7 at lunch.",
-        "publishedAt": "2026-09-09T12:20:19.000Z",
+        "description": "Great Britain's Matthew Brennan continues his remarkable Grand Tour debut by sprinting to a fifth stage victory of this year's Vuelta a Espana in Seville.",
+        "publishedAt": "2026-09-09T17:25:20.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Borthwick's holding pattern extended - with minimal confidence vote",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cy8z5gkenl2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "England head coach Steve Borthwick's extra six months buys time but doesn't indicate reserves of confidence from his Rugby Football Union employers.",
+        "publishedAt": "2026-09-09T13:14:44.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "'I'm not a robot' - Kerr responds to criticism before Ingebrigtsen reunion",
+        "url": "https://www.bbc.co.uk/sport/athletics/articles/cnvl7qe15z5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Josh Kerr says he is \"very happy\" to see Jakob Ingebrigtsen back competing - but he is \"not going to lose\" when they resume their fierce rivalry this weekend.",
+        "publishedAt": "2026-09-09T15:00:03.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Gay shows his class to give England control against Pakistan",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/c05re8eq183o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Emilio Gay produces a gritty, determined innings to guide England out of early trouble as he hits 60 off 114 balls to help his side recover from 39-3 to 143-4 on day one of the third and final Test against Pakistan at Edgbaston.",
+        "publishedAt": "2026-09-09T17:22:13.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,6 +2579,28 @@
   "sports_au": {
     "articles": [
       {
+        "title": "What next for LIV Golf's star players, and its fight for survival?",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c0re742dpw1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Golf's main tours are expecting a lot of interest in rejoining from LIV golfers – but the path back might not be so easy.",
+        "publishedAt": "2026-09-09T14:26:19.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "'Embarrassing' Pakistan break record in innings to forget",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c62mn0zn657o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The only thing gloomier than the leaden skies at lunch on day of the third Test at Edgbaston will be the mood in the Pakistan dressing room as things went from bad to worse.",
+        "publishedAt": "2026-09-09T13:57:55.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Kimi Raikkonen's son Robin, 11, signs for Red Bull",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/c3v437155e3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2586,61 +2608,6 @@
         },
         "description": "Robin Raikkonen, the 11-year-old son of former Formula 1 world champion Kimi Raikkonen, signs for Red Bull's driver development programme.",
         "publishedAt": "2026-09-09T13:20:04.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Borthwick's holding pattern extended - with minimal confidence vote",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cy8z5gkenl2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England head coach Steve Borthwick's extra six months buys time but doesn't indicate reserves of confidence from his Rugby Football Union employers.",
-        "publishedAt": "2026-09-09T13:14:44.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "'Embarrassing' Pakistan break record in morning to forget",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c62mn0zn657o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The only thing gloomier than the leaden skies at lunch on day of the third Test at Edgbaston will be the mood in the Pakistan dressing room as things went from bad to worse.",
-        "publishedAt": "2026-09-09T13:00:28.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Shelton beats Alcaraz in latest-ever US Open finish to reach semis",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20v6pgz7nmo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Carlos Alcaraz's US Open title defence is over after a dramatic five-set quarter-final loss to Ben Shelton which ends at 03:34 local time.",
-        "publishedAt": "2026-09-09T09:03:44.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "LIV files for bankruptcy protection with over $45m owed to players",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave.",
-        "publishedAt": "2026-09-08T21:20:22.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Is 15-year-old Gabriel set to become Man Utd's youngest ever player?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c7706zz7mylo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Fifteen-year-old JJ Gabriel has scored two magnificent goals in two Premier League 2 appearances for Manchester United - is he ready to make his senior debut",
-        "publishedAt": "2026-09-09T10:58:38.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2656,13 +2623,46 @@
         "zone": "au"
       },
       {
-        "title": "Pakistan in 'disarray' as England take seven wickets in first session",
-        "url": "https://www.bbc.co.uk/sport/cricket/videos/cevw2n88r8wo?at_medium=RSS&at_campaign=rss",
+        "title": "Brennan sprints to historic fifth stage win at Vuelta",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/clyerpqv0zro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England make stunning start to their third and final Test against Pakistan by taking seven wickets in the opening session on the first day at Edgbaston, leaving the tourists 100-7 at lunch.",
-        "publishedAt": "2026-09-09T12:20:19.000Z",
+        "description": "Great Britain's Matthew Brennan continues his remarkable Grand Tour debut by sprinting to a fifth stage victory of this year's Vuelta a Espana in Seville.",
+        "publishedAt": "2026-09-09T17:25:20.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Borthwick's holding pattern extended - with minimal confidence vote",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cy8z5gkenl2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "England head coach Steve Borthwick's extra six months buys time but doesn't indicate reserves of confidence from his Rugby Football Union employers.",
+        "publishedAt": "2026-09-09T13:14:44.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "'I'm not a robot' - Kerr responds to criticism before Ingebrigtsen reunion",
+        "url": "https://www.bbc.co.uk/sport/athletics/articles/cnvl7qe15z5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Josh Kerr says he is \"very happy\" to see Jakob Ingebrigtsen back competing - but he is \"not going to lose\" when they resume their fierce rivalry this weekend.",
+        "publishedAt": "2026-09-09T15:00:03.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Gay shows his class to give England control against Pakistan",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/c05re8eq183o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Emilio Gay produces a gritty, determined innings to guide England out of early trouble as he hits 60 off 114 balls to help his side recover from 39-3 to 143-4 on day one of the third and final Test against Pakistan at Edgbaston.",
+        "publishedAt": "2026-09-09T17:22:13.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,6 +2671,28 @@
   "sports_ca": {
     "articles": [
       {
+        "title": "What next for LIV Golf's star players, and its fight for survival?",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c0re742dpw1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Golf's main tours are expecting a lot of interest in rejoining from LIV golfers – but the path back might not be so easy.",
+        "publishedAt": "2026-09-09T14:26:19.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "'Embarrassing' Pakistan break record in innings to forget",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c62mn0zn657o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The only thing gloomier than the leaden skies at lunch on day of the third Test at Edgbaston will be the mood in the Pakistan dressing room as things went from bad to worse.",
+        "publishedAt": "2026-09-09T13:57:55.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Kimi Raikkonen's son Robin, 11, signs for Red Bull",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/c3v437155e3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2678,61 +2700,6 @@
         },
         "description": "Robin Raikkonen, the 11-year-old son of former Formula 1 world champion Kimi Raikkonen, signs for Red Bull's driver development programme.",
         "publishedAt": "2026-09-09T13:20:04.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Borthwick's holding pattern extended - with minimal confidence vote",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cy8z5gkenl2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England head coach Steve Borthwick's extra six months buys time but doesn't indicate reserves of confidence from his Rugby Football Union employers.",
-        "publishedAt": "2026-09-09T13:14:44.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "'Embarrassing' Pakistan break record in morning to forget",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c62mn0zn657o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The only thing gloomier than the leaden skies at lunch on day of the third Test at Edgbaston will be the mood in the Pakistan dressing room as things went from bad to worse.",
-        "publishedAt": "2026-09-09T13:00:28.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Shelton beats Alcaraz in latest-ever US Open finish to reach semis",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20v6pgz7nmo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Carlos Alcaraz's US Open title defence is over after a dramatic five-set quarter-final loss to Ben Shelton which ends at 03:34 local time.",
-        "publishedAt": "2026-09-09T09:03:44.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "LIV files for bankruptcy protection with over $45m owed to players",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave.",
-        "publishedAt": "2026-09-08T21:20:22.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Is 15-year-old Gabriel set to become Man Utd's youngest ever player?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c7706zz7mylo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Fifteen-year-old JJ Gabriel has scored two magnificent goals in two Premier League 2 appearances for Manchester United - is he ready to make his senior debut",
-        "publishedAt": "2026-09-09T10:58:38.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2748,13 +2715,46 @@
         "zone": "ca"
       },
       {
-        "title": "Pakistan in 'disarray' as England take seven wickets in first session",
-        "url": "https://www.bbc.co.uk/sport/cricket/videos/cevw2n88r8wo?at_medium=RSS&at_campaign=rss",
+        "title": "Brennan sprints to historic fifth stage win at Vuelta",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/clyerpqv0zro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England make stunning start to their third and final Test against Pakistan by taking seven wickets in the opening session on the first day at Edgbaston, leaving the tourists 100-7 at lunch.",
-        "publishedAt": "2026-09-09T12:20:19.000Z",
+        "description": "Great Britain's Matthew Brennan continues his remarkable Grand Tour debut by sprinting to a fifth stage victory of this year's Vuelta a Espana in Seville.",
+        "publishedAt": "2026-09-09T17:25:20.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Borthwick's holding pattern extended - with minimal confidence vote",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cy8z5gkenl2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "England head coach Steve Borthwick's extra six months buys time but doesn't indicate reserves of confidence from his Rugby Football Union employers.",
+        "publishedAt": "2026-09-09T13:14:44.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "'I'm not a robot' - Kerr responds to criticism before Ingebrigtsen reunion",
+        "url": "https://www.bbc.co.uk/sport/athletics/articles/cnvl7qe15z5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Josh Kerr says he is \"very happy\" to see Jakob Ingebrigtsen back competing - but he is \"not going to lose\" when they resume their fierce rivalry this weekend.",
+        "publishedAt": "2026-09-09T15:00:03.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Gay shows his class to give England control against Pakistan",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/c05re8eq183o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Emilio Gay produces a gritty, determined innings to guide England out of early trouble as he hits 60 off 114 balls to help his side recover from 39-3 to 143-4 on day one of the third and final Test against Pakistan at Edgbaston.",
+        "publishedAt": "2026-09-09T17:22:13.000Z",
         "category": "sports",
         "zone": "ca"
       }
@@ -2763,13 +2763,24 @@
   "technology_us": {
     "articles": [
       {
+        "title": "Google picks Finland for its largest single investment in Europe",
+        "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+        "publishedAt": "2026-09-09T17:06:48.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
         "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
         "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-        "publishedAt": "2026-09-09T12:36:59.000Z",
+        "publishedAt": "2026-09-09T15:34:09.000Z",
         "category": "technology",
         "zone": "us"
       },
@@ -2836,17 +2847,6 @@
         },
         "description": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
         "publishedAt": "2026-09-08T06:49:56.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-        "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
-        "publishedAt": "2026-09-07T15:27:50.000Z",
         "category": "technology",
         "zone": "us"
       }
@@ -2855,13 +2855,24 @@
   "technology_gb": {
     "articles": [
       {
+        "title": "Google picks Finland for its largest single investment in Europe",
+        "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+        "publishedAt": "2026-09-09T17:06:48.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
         "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
         "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-        "publishedAt": "2026-09-09T12:36:59.000Z",
+        "publishedAt": "2026-09-09T15:34:09.000Z",
         "category": "technology",
         "zone": "gb"
       },
@@ -2928,17 +2939,6 @@
         },
         "description": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
         "publishedAt": "2026-09-08T06:49:56.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-        "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
-        "publishedAt": "2026-09-07T15:27:50.000Z",
         "category": "technology",
         "zone": "gb"
       }
@@ -2947,13 +2947,24 @@
   "technology_in": {
     "articles": [
       {
+        "title": "Google picks Finland for its largest single investment in Europe",
+        "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+        "publishedAt": "2026-09-09T17:06:48.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
         "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
         "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-        "publishedAt": "2026-09-09T12:36:59.000Z",
+        "publishedAt": "2026-09-09T15:34:09.000Z",
         "category": "technology",
         "zone": "in"
       },
@@ -3020,17 +3031,6 @@
         },
         "description": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
         "publishedAt": "2026-09-08T06:49:56.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-        "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
-        "publishedAt": "2026-09-07T15:27:50.000Z",
         "category": "technology",
         "zone": "in"
       }
@@ -3039,13 +3039,24 @@
   "technology_au": {
     "articles": [
       {
+        "title": "Google picks Finland for its largest single investment in Europe",
+        "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+        "publishedAt": "2026-09-09T17:06:48.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
         "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
         "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-        "publishedAt": "2026-09-09T12:36:59.000Z",
+        "publishedAt": "2026-09-09T15:34:09.000Z",
         "category": "technology",
         "zone": "au"
       },
@@ -3112,17 +3123,6 @@
         },
         "description": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
         "publishedAt": "2026-09-08T06:49:56.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-        "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
-        "publishedAt": "2026-09-07T15:27:50.000Z",
         "category": "technology",
         "zone": "au"
       }
@@ -3131,13 +3131,24 @@
   "technology_ca": {
     "articles": [
       {
+        "title": "Google picks Finland for its largest single investment in Europe",
+        "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+        "publishedAt": "2026-09-09T17:06:48.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
         "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
         "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-        "publishedAt": "2026-09-09T12:36:59.000Z",
+        "publishedAt": "2026-09-09T15:34:09.000Z",
         "category": "technology",
         "zone": "ca"
       },
@@ -3204,17 +3215,6 @@
         },
         "description": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
         "publishedAt": "2026-09-08T06:49:56.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-        "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
-        "publishedAt": "2026-09-07T15:27:50.000Z",
         "category": "technology",
         "zone": "ca"
       }
