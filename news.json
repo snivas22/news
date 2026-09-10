@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T17:31:17.706Z",
+  "generatedAt": "2026-09-10T20:32:07.274Z",
   "general_us": {
     "articles": [
       {
@@ -20,7 +20,7 @@
           "name": "RSS Feed"
         },
         "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-        "publishedAt": "2026-09-10T15:56:33.000Z",
+        "publishedAt": "2026-09-10T17:38:31.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -36,13 +36,24 @@
         "zone": "us"
       },
       {
-        "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
-        "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+        "title": "Can Trump pay $5,000 to every American adult if Republicans win midterm elections?",
+        "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-        "publishedAt": "2026-09-10T13:23:37.000Z",
+        "description": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+        "publishedAt": "2026-09-10T16:48:37.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
+        "url": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
+        "publishedAt": "2026-09-10T18:27:22.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -52,8 +63,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Seven people are arrested after a fight that an eyewitness says broke out in a KFC restaurant.",
-        "publishedAt": "2026-09-10T17:29:45.000Z",
+        "description": "Seven people are arrested after a fight that an eyewitness says broke out near a KFC restaurant.",
+        "publishedAt": "2026-09-10T18:46:05.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -69,24 +80,13 @@
         "zone": "us"
       },
       {
-        "title": "Esther Ranzen says she is too fragile to travel to Switzerland to end life",
+        "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
         "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
         "publishedAt": "2026-09-10T16:37:18.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Police and army attend funeral for officer killed in wrong-way A66 crash",
-        "url": "https://www.bbc.co.uk/news/articles/cnvl72e57yeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Former army colleagues attend PC Tom Clough's funeral alongside police and emergency workers.",
-        "publishedAt": "2026-09-10T15:02:18.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -112,7 +112,7 @@
           "name": "RSS Feed"
         },
         "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-        "publishedAt": "2026-09-10T15:56:33.000Z",
+        "publishedAt": "2026-09-10T17:38:31.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -128,13 +128,24 @@
         "zone": "gb"
       },
       {
-        "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
-        "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+        "title": "Can Trump pay $5,000 to every American adult if Republicans win midterm elections?",
+        "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-        "publishedAt": "2026-09-10T13:23:37.000Z",
+        "description": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+        "publishedAt": "2026-09-10T16:48:37.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
+        "url": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
+        "publishedAt": "2026-09-10T18:27:22.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -144,8 +155,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Seven people are arrested after a fight that an eyewitness says broke out in a KFC restaurant.",
-        "publishedAt": "2026-09-10T17:29:45.000Z",
+        "description": "Seven people are arrested after a fight that an eyewitness says broke out near a KFC restaurant.",
+        "publishedAt": "2026-09-10T18:46:05.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -161,24 +172,13 @@
         "zone": "gb"
       },
       {
-        "title": "Esther Ranzen says she is too fragile to travel to Switzerland to end life",
+        "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
         "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
         "publishedAt": "2026-09-10T16:37:18.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Police and army attend funeral for officer killed in wrong-way A66 crash",
-        "url": "https://www.bbc.co.uk/news/articles/cnvl72e57yeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Former army colleagues attend PC Tom Clough's funeral alongside police and emergency workers.",
-        "publishedAt": "2026-09-10T15:02:18.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -204,7 +204,7 @@
           "name": "RSS Feed"
         },
         "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-        "publishedAt": "2026-09-10T15:56:33.000Z",
+        "publishedAt": "2026-09-10T17:38:31.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -220,13 +220,24 @@
         "zone": "in"
       },
       {
-        "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
-        "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+        "title": "Can Trump pay $5,000 to every American adult if Republicans win midterm elections?",
+        "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-        "publishedAt": "2026-09-10T13:23:37.000Z",
+        "description": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+        "publishedAt": "2026-09-10T16:48:37.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
+        "url": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
+        "publishedAt": "2026-09-10T18:27:22.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -236,8 +247,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Seven people are arrested after a fight that an eyewitness says broke out in a KFC restaurant.",
-        "publishedAt": "2026-09-10T17:29:45.000Z",
+        "description": "Seven people are arrested after a fight that an eyewitness says broke out near a KFC restaurant.",
+        "publishedAt": "2026-09-10T18:46:05.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -253,24 +264,13 @@
         "zone": "in"
       },
       {
-        "title": "Esther Ranzen says she is too fragile to travel to Switzerland to end life",
+        "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
         "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
         "publishedAt": "2026-09-10T16:37:18.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Police and army attend funeral for officer killed in wrong-way A66 crash",
-        "url": "https://www.bbc.co.uk/news/articles/cnvl72e57yeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Former army colleagues attend PC Tom Clough's funeral alongside police and emergency workers.",
-        "publishedAt": "2026-09-10T15:02:18.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -296,7 +296,7 @@
           "name": "RSS Feed"
         },
         "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-        "publishedAt": "2026-09-10T15:56:33.000Z",
+        "publishedAt": "2026-09-10T17:38:31.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -312,13 +312,24 @@
         "zone": "au"
       },
       {
-        "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
-        "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+        "title": "Can Trump pay $5,000 to every American adult if Republicans win midterm elections?",
+        "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-        "publishedAt": "2026-09-10T13:23:37.000Z",
+        "description": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+        "publishedAt": "2026-09-10T16:48:37.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
+        "url": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
+        "publishedAt": "2026-09-10T18:27:22.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -328,8 +339,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Seven people are arrested after a fight that an eyewitness says broke out in a KFC restaurant.",
-        "publishedAt": "2026-09-10T17:29:45.000Z",
+        "description": "Seven people are arrested after a fight that an eyewitness says broke out near a KFC restaurant.",
+        "publishedAt": "2026-09-10T18:46:05.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -345,24 +356,13 @@
         "zone": "au"
       },
       {
-        "title": "Esther Ranzen says she is too fragile to travel to Switzerland to end life",
+        "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
         "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
         "publishedAt": "2026-09-10T16:37:18.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Police and army attend funeral for officer killed in wrong-way A66 crash",
-        "url": "https://www.bbc.co.uk/news/articles/cnvl72e57yeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Former army colleagues attend PC Tom Clough's funeral alongside police and emergency workers.",
-        "publishedAt": "2026-09-10T15:02:18.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -388,7 +388,7 @@
           "name": "RSS Feed"
         },
         "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-        "publishedAt": "2026-09-10T15:56:33.000Z",
+        "publishedAt": "2026-09-10T17:38:31.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -404,13 +404,24 @@
         "zone": "ca"
       },
       {
-        "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
-        "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+        "title": "Can Trump pay $5,000 to every American adult if Republicans win midterm elections?",
+        "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-        "publishedAt": "2026-09-10T13:23:37.000Z",
+        "description": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+        "publishedAt": "2026-09-10T16:48:37.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
+        "url": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
+        "publishedAt": "2026-09-10T18:27:22.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -420,8 +431,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Seven people are arrested after a fight that an eyewitness says broke out in a KFC restaurant.",
-        "publishedAt": "2026-09-10T17:29:45.000Z",
+        "description": "Seven people are arrested after a fight that an eyewitness says broke out near a KFC restaurant.",
+        "publishedAt": "2026-09-10T18:46:05.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -437,24 +448,13 @@
         "zone": "ca"
       },
       {
-        "title": "Esther Ranzen says she is too fragile to travel to Switzerland to end life",
+        "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
         "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
         "publishedAt": "2026-09-10T16:37:18.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Police and army attend funeral for officer killed in wrong-way A66 crash",
-        "url": "https://www.bbc.co.uk/news/articles/cnvl72e57yeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Former army colleagues attend PC Tom Clough's funeral alongside police and emergency workers.",
-        "publishedAt": "2026-09-10T15:02:18.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -469,7 +469,7 @@
           "name": "RSS Feed"
         },
         "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-        "publishedAt": "2026-09-10T15:56:33.000Z",
+        "publishedAt": "2026-09-10T17:38:31.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -561,7 +561,7 @@
           "name": "RSS Feed"
         },
         "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-        "publishedAt": "2026-09-10T15:56:33.000Z",
+        "publishedAt": "2026-09-10T17:38:31.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -653,7 +653,7 @@
           "name": "RSS Feed"
         },
         "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-        "publishedAt": "2026-09-10T15:56:33.000Z",
+        "publishedAt": "2026-09-10T17:38:31.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -745,7 +745,7 @@
           "name": "RSS Feed"
         },
         "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-        "publishedAt": "2026-09-10T15:56:33.000Z",
+        "publishedAt": "2026-09-10T17:38:31.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -837,7 +837,7 @@
           "name": "RSS Feed"
         },
         "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-        "publishedAt": "2026-09-10T15:56:33.000Z",
+        "publishedAt": "2026-09-10T17:38:31.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -923,7 +923,7 @@
   "entertainment_us": {
     "articles": [
       {
-        "title": "Esther Ranzen says she is too fragile to travel to Switzerland to end life",
+        "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
         "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -1015,7 +1015,7 @@
   "entertainment_gb": {
     "articles": [
       {
-        "title": "Esther Ranzen says she is too fragile to travel to Switzerland to end life",
+        "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
         "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -1107,7 +1107,7 @@
   "entertainment_in": {
     "articles": [
       {
-        "title": "Esther Ranzen says she is too fragile to travel to Switzerland to end life",
+        "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
         "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -1199,7 +1199,7 @@
   "entertainment_au": {
     "articles": [
       {
-        "title": "Esther Ranzen says she is too fragile to travel to Switzerland to end life",
+        "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
         "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -1291,7 +1291,7 @@
   "entertainment_ca": {
     "articles": [
       {
-        "title": "Esther Ranzen says she is too fragile to travel to Switzerland to end life",
+        "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
         "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -1920,13 +1920,13 @@
         "zone": "us"
       },
       {
-        "title": "Alcohol-related cancer deaths in US have more than doubled over three decades",
-        "url": "https://www.theguardian.com/society/2026/sep/04/alcohol-related-cancer-deaths",
+        "title": "Are rich people really worse behaved? Here’s the science – podcast",
+        "url": "https://www.theguardian.com/science/audio/2026/sep/08/ig-noble-prizes-rich-people-worse-behaved-science-podcast",
         "source": {
-          "name": "Marina Dunbar"
+          "name": "Presented and produced by Madeleine Finlay, with Ian Sample, sound design by Joel Cox, the executive producer was Ellie Bury"
         },
-        "description": "Study finds just one drink per day could raise risk of disease with impacts extending far beyond liver cancer Alcohol-related cancer deaths in the US have more than doubled over three decades, with new research showing that just one drink per day could raise cancer risk and that the impacts extend far beyond liver cancer. Researchers at Sylvester Comprehensive Cancer Center, part of the University of Miami Miller School of Medicine, analyzed more than three decades of Global Burden of Disease data. Their study, published in August in the Lancet Regional Health, found that annual cancer deaths attributed to alcohol climbed from 11,361 in 1990 to 23,126 in 2023. Continue reading...",
-        "publishedAt": "2026-09-04T17:03:59.000Z",
+        "description": "Who’s more likely to steal sweets from a child? According to science, it’s the rich. A study seemingly confirming our suspicions about the moral behaviour of the wealthy was one of the winners of the 2026 Ig Nobel prizes, which honour research that makes you laugh and then think. Science editor Ian Sample tells Madeleine Finlay what the researchers think could be behind the phenomenon, and they explore some of the other awards, including one for a surprising quality we look for in our friends and another for a biomechanical definition of kissing Rich people more likely to steal children’s sweets, finds Ig Nobel prize-winning study Support the Guardian: theguardian.com/sciencepod Continue reading...",
+        "publishedAt": "2026-09-08T04:00:28.000Z",
         "category": "science",
         "zone": "us"
       }
@@ -2012,13 +2012,13 @@
         "zone": "gb"
       },
       {
-        "title": "Alcohol-related cancer deaths in US have more than doubled over three decades",
-        "url": "https://www.theguardian.com/society/2026/sep/04/alcohol-related-cancer-deaths",
+        "title": "Are rich people really worse behaved? Here’s the science – podcast",
+        "url": "https://www.theguardian.com/science/audio/2026/sep/08/ig-noble-prizes-rich-people-worse-behaved-science-podcast",
         "source": {
-          "name": "Marina Dunbar"
+          "name": "Presented and produced by Madeleine Finlay, with Ian Sample, sound design by Joel Cox, the executive producer was Ellie Bury"
         },
-        "description": "Study finds just one drink per day could raise risk of disease with impacts extending far beyond liver cancer Alcohol-related cancer deaths in the US have more than doubled over three decades, with new research showing that just one drink per day could raise cancer risk and that the impacts extend far beyond liver cancer. Researchers at Sylvester Comprehensive Cancer Center, part of the University of Miami Miller School of Medicine, analyzed more than three decades of Global Burden of Disease data. Their study, published in August in the Lancet Regional Health, found that annual cancer deaths attributed to alcohol climbed from 11,361 in 1990 to 23,126 in 2023. Continue reading...",
-        "publishedAt": "2026-09-04T17:03:59.000Z",
+        "description": "Who’s more likely to steal sweets from a child? According to science, it’s the rich. A study seemingly confirming our suspicions about the moral behaviour of the wealthy was one of the winners of the 2026 Ig Nobel prizes, which honour research that makes you laugh and then think. Science editor Ian Sample tells Madeleine Finlay what the researchers think could be behind the phenomenon, and they explore some of the other awards, including one for a surprising quality we look for in our friends and another for a biomechanical definition of kissing Rich people more likely to steal children’s sweets, finds Ig Nobel prize-winning study Support the Guardian: theguardian.com/sciencepod Continue reading...",
+        "publishedAt": "2026-09-08T04:00:28.000Z",
         "category": "science",
         "zone": "gb"
       }
@@ -2104,13 +2104,13 @@
         "zone": "in"
       },
       {
-        "title": "Alcohol-related cancer deaths in US have more than doubled over three decades",
-        "url": "https://www.theguardian.com/society/2026/sep/04/alcohol-related-cancer-deaths",
+        "title": "Are rich people really worse behaved? Here’s the science – podcast",
+        "url": "https://www.theguardian.com/science/audio/2026/sep/08/ig-noble-prizes-rich-people-worse-behaved-science-podcast",
         "source": {
-          "name": "Marina Dunbar"
+          "name": "Presented and produced by Madeleine Finlay, with Ian Sample, sound design by Joel Cox, the executive producer was Ellie Bury"
         },
-        "description": "Study finds just one drink per day could raise risk of disease with impacts extending far beyond liver cancer Alcohol-related cancer deaths in the US have more than doubled over three decades, with new research showing that just one drink per day could raise cancer risk and that the impacts extend far beyond liver cancer. Researchers at Sylvester Comprehensive Cancer Center, part of the University of Miami Miller School of Medicine, analyzed more than three decades of Global Burden of Disease data. Their study, published in August in the Lancet Regional Health, found that annual cancer deaths attributed to alcohol climbed from 11,361 in 1990 to 23,126 in 2023. Continue reading...",
-        "publishedAt": "2026-09-04T17:03:59.000Z",
+        "description": "Who’s more likely to steal sweets from a child? According to science, it’s the rich. A study seemingly confirming our suspicions about the moral behaviour of the wealthy was one of the winners of the 2026 Ig Nobel prizes, which honour research that makes you laugh and then think. Science editor Ian Sample tells Madeleine Finlay what the researchers think could be behind the phenomenon, and they explore some of the other awards, including one for a surprising quality we look for in our friends and another for a biomechanical definition of kissing Rich people more likely to steal children’s sweets, finds Ig Nobel prize-winning study Support the Guardian: theguardian.com/sciencepod Continue reading...",
+        "publishedAt": "2026-09-08T04:00:28.000Z",
         "category": "science",
         "zone": "in"
       }
@@ -2196,13 +2196,13 @@
         "zone": "au"
       },
       {
-        "title": "Alcohol-related cancer deaths in US have more than doubled over three decades",
-        "url": "https://www.theguardian.com/society/2026/sep/04/alcohol-related-cancer-deaths",
+        "title": "Are rich people really worse behaved? Here’s the science – podcast",
+        "url": "https://www.theguardian.com/science/audio/2026/sep/08/ig-noble-prizes-rich-people-worse-behaved-science-podcast",
         "source": {
-          "name": "Marina Dunbar"
+          "name": "Presented and produced by Madeleine Finlay, with Ian Sample, sound design by Joel Cox, the executive producer was Ellie Bury"
         },
-        "description": "Study finds just one drink per day could raise risk of disease with impacts extending far beyond liver cancer Alcohol-related cancer deaths in the US have more than doubled over three decades, with new research showing that just one drink per day could raise cancer risk and that the impacts extend far beyond liver cancer. Researchers at Sylvester Comprehensive Cancer Center, part of the University of Miami Miller School of Medicine, analyzed more than three decades of Global Burden of Disease data. Their study, published in August in the Lancet Regional Health, found that annual cancer deaths attributed to alcohol climbed from 11,361 in 1990 to 23,126 in 2023. Continue reading...",
-        "publishedAt": "2026-09-04T17:03:59.000Z",
+        "description": "Who’s more likely to steal sweets from a child? According to science, it’s the rich. A study seemingly confirming our suspicions about the moral behaviour of the wealthy was one of the winners of the 2026 Ig Nobel prizes, which honour research that makes you laugh and then think. Science editor Ian Sample tells Madeleine Finlay what the researchers think could be behind the phenomenon, and they explore some of the other awards, including one for a surprising quality we look for in our friends and another for a biomechanical definition of kissing Rich people more likely to steal children’s sweets, finds Ig Nobel prize-winning study Support the Guardian: theguardian.com/sciencepod Continue reading...",
+        "publishedAt": "2026-09-08T04:00:28.000Z",
         "category": "science",
         "zone": "au"
       }
@@ -2288,13 +2288,13 @@
         "zone": "ca"
       },
       {
-        "title": "Alcohol-related cancer deaths in US have more than doubled over three decades",
-        "url": "https://www.theguardian.com/society/2026/sep/04/alcohol-related-cancer-deaths",
+        "title": "Are rich people really worse behaved? Here’s the science – podcast",
+        "url": "https://www.theguardian.com/science/audio/2026/sep/08/ig-noble-prizes-rich-people-worse-behaved-science-podcast",
         "source": {
-          "name": "Marina Dunbar"
+          "name": "Presented and produced by Madeleine Finlay, with Ian Sample, sound design by Joel Cox, the executive producer was Ellie Bury"
         },
-        "description": "Study finds just one drink per day could raise risk of disease with impacts extending far beyond liver cancer Alcohol-related cancer deaths in the US have more than doubled over three decades, with new research showing that just one drink per day could raise cancer risk and that the impacts extend far beyond liver cancer. Researchers at Sylvester Comprehensive Cancer Center, part of the University of Miami Miller School of Medicine, analyzed more than three decades of Global Burden of Disease data. Their study, published in August in the Lancet Regional Health, found that annual cancer deaths attributed to alcohol climbed from 11,361 in 1990 to 23,126 in 2023. Continue reading...",
-        "publishedAt": "2026-09-04T17:03:59.000Z",
+        "description": "Who’s more likely to steal sweets from a child? According to science, it’s the rich. A study seemingly confirming our suspicions about the moral behaviour of the wealthy was one of the winners of the 2026 Ig Nobel prizes, which honour research that makes you laugh and then think. Science editor Ian Sample tells Madeleine Finlay what the researchers think could be behind the phenomenon, and they explore some of the other awards, including one for a surprising quality we look for in our friends and another for a biomechanical definition of kissing Rich people more likely to steal children’s sweets, finds Ig Nobel prize-winning study Support the Guardian: theguardian.com/sciencepod Continue reading...",
+        "publishedAt": "2026-09-08T04:00:28.000Z",
         "category": "science",
         "zone": "ca"
       }
@@ -2303,17 +2303,6 @@
   "sports_us": {
     "articles": [
       {
-        "title": "Arsenal close to finalising new contract for Arteta",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
-        "publishedAt": "2026-09-10T14:16:06.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
         "title": "England's push for two-day win halted by weather",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/c980dgvp2qeo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2325,6 +2314,72 @@
         "zone": "us"
       },
       {
+        "title": "Spurs and Richarlison in dispute over contract",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c62mq8j4j5lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tottenham and their forward Richarlison are in dispute over the remaining nine months on his contract.",
+        "publishedAt": "2026-09-10T18:48:12.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Hamilton and Leclerc 'squash' Monza controversy",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg825g59l1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lewis Hamilton says he and Ferrari team-mate Charles Leclerc have \"squashed\" any controversy between them from the Italian Grand Prix.",
+        "publishedAt": "2026-09-10T17:27:04.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "England march to early win over Pakistan held up by rain",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/cz9zjypykqqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Harry Brook, Dan Lawrence, Jamie Smith and Ollie Robinson all post half-centuries on day two of the third Test for England, with rain the only respite for a Pakistan side trailing by 268.",
+        "publishedAt": "2026-09-10T17:05:35.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "2030 Winter Olympics boss departs amid turmoil",
+        "url": "https://www.bbc.co.uk/sport/articles/c980dgv6vyqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Edgar Grospiron leaves his position as president of the organising committee for the 2030 French Alps Winter Olympics just 18 months after his appointment.",
+        "publishedAt": "2026-09-10T18:50:11.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "GB return after pregnancy 'hard to put into words' - Kinsella",
+        "url": "https://www.bbc.co.uk/sport/gymnastics/articles/cly59z2yjpjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A year after giving birth, Alice Kinsella takes the latest step on her groundbreaking return to gymnastics at an international meeting for Great Britain.",
+        "publishedAt": "2026-09-10T14:33:10.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Weight-loss drugs avoid Wada banned list for 2027",
+        "url": "https://www.bbc.co.uk/sport/articles/cpwl1rlx17po?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Athletes will not be banned from using weight-loss drugs, but the substances will remain on a monitoring list.",
+        "publishedAt": "2026-09-10T18:29:34.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Hull & Woad to face Korda & Corpuz in Solheim opener",
         "url": "https://www.bbc.co.uk/sport/golf/articles/cx2zrp0ye5yo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2332,61 +2387,6 @@
         },
         "description": "Charley Hull and Lottie Woad will face the formidable pairing of Nelly Korda and Allisen Corpuz in Friday's opening match of the Solheim Cup in the Netherlands.",
         "publishedAt": "2026-09-10T15:41:14.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Can you make a case for Chelsea being stripped of 2016-17 title?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
-        "publishedAt": "2026-09-10T13:55:43.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Team GB return after pregnancy 'hard to put into words' - Kinsella",
-        "url": "https://www.bbc.co.uk/sport/gymnastics/articles/cly59z2yjpjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A year after giving birth, Alice Kinsella takes the latest step on her groundbreaking return to gymnastics at an international meeting for Team GB.",
-        "publishedAt": "2026-09-10T14:33:10.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "'Get a life' - non-league club condemn man impersonating manager",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0gevpnxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
-        "publishedAt": "2026-09-10T15:22:16.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Roglic closes gap on Mas in Vuelta time trial",
-        "url": "https://www.bbc.co.uk/sport/cycling/articles/cy5z0r9z4g9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Primoz Roglic moves into second in the general classification and closes the gap on leader Enric Mas with a fourth-place finish in the time trial on stage 18 at the Vuelta a Espana.",
-        "publishedAt": "2026-09-10T16:46:04.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Switch Six Nations fixture to USA to grow game – World Rugby",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5ymg0pm1yno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "World Rugby would help any nation which wants to switch a Six Nations match to the United States as it continues its drive to spread the game stateside.",
-        "publishedAt": "2026-09-10T14:58:33.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,17 +2395,6 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "Arsenal close to finalising new contract for Arteta",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
-        "publishedAt": "2026-09-10T14:16:06.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
         "title": "England's push for two-day win halted by weather",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/c980dgvp2qeo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2417,6 +2406,72 @@
         "zone": "gb"
       },
       {
+        "title": "Spurs and Richarlison in dispute over contract",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c62mq8j4j5lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tottenham and their forward Richarlison are in dispute over the remaining nine months on his contract.",
+        "publishedAt": "2026-09-10T18:48:12.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Hamilton and Leclerc 'squash' Monza controversy",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg825g59l1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lewis Hamilton says he and Ferrari team-mate Charles Leclerc have \"squashed\" any controversy between them from the Italian Grand Prix.",
+        "publishedAt": "2026-09-10T17:27:04.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "England march to early win over Pakistan held up by rain",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/cz9zjypykqqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Harry Brook, Dan Lawrence, Jamie Smith and Ollie Robinson all post half-centuries on day two of the third Test for England, with rain the only respite for a Pakistan side trailing by 268.",
+        "publishedAt": "2026-09-10T17:05:35.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "2030 Winter Olympics boss departs amid turmoil",
+        "url": "https://www.bbc.co.uk/sport/articles/c980dgv6vyqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Edgar Grospiron leaves his position as president of the organising committee for the 2030 French Alps Winter Olympics just 18 months after his appointment.",
+        "publishedAt": "2026-09-10T18:50:11.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "GB return after pregnancy 'hard to put into words' - Kinsella",
+        "url": "https://www.bbc.co.uk/sport/gymnastics/articles/cly59z2yjpjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A year after giving birth, Alice Kinsella takes the latest step on her groundbreaking return to gymnastics at an international meeting for Great Britain.",
+        "publishedAt": "2026-09-10T14:33:10.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Weight-loss drugs avoid Wada banned list for 2027",
+        "url": "https://www.bbc.co.uk/sport/articles/cpwl1rlx17po?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Athletes will not be banned from using weight-loss drugs, but the substances will remain on a monitoring list.",
+        "publishedAt": "2026-09-10T18:29:34.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Hull & Woad to face Korda & Corpuz in Solheim opener",
         "url": "https://www.bbc.co.uk/sport/golf/articles/cx2zrp0ye5yo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2424,61 +2479,6 @@
         },
         "description": "Charley Hull and Lottie Woad will face the formidable pairing of Nelly Korda and Allisen Corpuz in Friday's opening match of the Solheim Cup in the Netherlands.",
         "publishedAt": "2026-09-10T15:41:14.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Can you make a case for Chelsea being stripped of 2016-17 title?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
-        "publishedAt": "2026-09-10T13:55:43.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Team GB return after pregnancy 'hard to put into words' - Kinsella",
-        "url": "https://www.bbc.co.uk/sport/gymnastics/articles/cly59z2yjpjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A year after giving birth, Alice Kinsella takes the latest step on her groundbreaking return to gymnastics at an international meeting for Team GB.",
-        "publishedAt": "2026-09-10T14:33:10.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "'Get a life' - non-league club condemn man impersonating manager",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0gevpnxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
-        "publishedAt": "2026-09-10T15:22:16.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Roglic closes gap on Mas in Vuelta time trial",
-        "url": "https://www.bbc.co.uk/sport/cycling/articles/cy5z0r9z4g9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Primoz Roglic moves into second in the general classification and closes the gap on leader Enric Mas with a fourth-place finish in the time trial on stage 18 at the Vuelta a Espana.",
-        "publishedAt": "2026-09-10T16:46:04.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Switch Six Nations fixture to USA to grow game – World Rugby",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5ymg0pm1yno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "World Rugby would help any nation which wants to switch a Six Nations match to the United States as it continues its drive to spread the game stateside.",
-        "publishedAt": "2026-09-10T14:58:33.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,17 +2487,6 @@
   "sports_in": {
     "articles": [
       {
-        "title": "Arsenal close to finalising new contract for Arteta",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
-        "publishedAt": "2026-09-10T14:16:06.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
         "title": "England's push for two-day win halted by weather",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/c980dgvp2qeo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2509,6 +2498,72 @@
         "zone": "in"
       },
       {
+        "title": "Spurs and Richarlison in dispute over contract",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c62mq8j4j5lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tottenham and their forward Richarlison are in dispute over the remaining nine months on his contract.",
+        "publishedAt": "2026-09-10T18:48:12.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Hamilton and Leclerc 'squash' Monza controversy",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg825g59l1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lewis Hamilton says he and Ferrari team-mate Charles Leclerc have \"squashed\" any controversy between them from the Italian Grand Prix.",
+        "publishedAt": "2026-09-10T17:27:04.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "England march to early win over Pakistan held up by rain",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/cz9zjypykqqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Harry Brook, Dan Lawrence, Jamie Smith and Ollie Robinson all post half-centuries on day two of the third Test for England, with rain the only respite for a Pakistan side trailing by 268.",
+        "publishedAt": "2026-09-10T17:05:35.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "2030 Winter Olympics boss departs amid turmoil",
+        "url": "https://www.bbc.co.uk/sport/articles/c980dgv6vyqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Edgar Grospiron leaves his position as president of the organising committee for the 2030 French Alps Winter Olympics just 18 months after his appointment.",
+        "publishedAt": "2026-09-10T18:50:11.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "GB return after pregnancy 'hard to put into words' - Kinsella",
+        "url": "https://www.bbc.co.uk/sport/gymnastics/articles/cly59z2yjpjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A year after giving birth, Alice Kinsella takes the latest step on her groundbreaking return to gymnastics at an international meeting for Great Britain.",
+        "publishedAt": "2026-09-10T14:33:10.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Weight-loss drugs avoid Wada banned list for 2027",
+        "url": "https://www.bbc.co.uk/sport/articles/cpwl1rlx17po?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Athletes will not be banned from using weight-loss drugs, but the substances will remain on a monitoring list.",
+        "publishedAt": "2026-09-10T18:29:34.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Hull & Woad to face Korda & Corpuz in Solheim opener",
         "url": "https://www.bbc.co.uk/sport/golf/articles/cx2zrp0ye5yo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2516,61 +2571,6 @@
         },
         "description": "Charley Hull and Lottie Woad will face the formidable pairing of Nelly Korda and Allisen Corpuz in Friday's opening match of the Solheim Cup in the Netherlands.",
         "publishedAt": "2026-09-10T15:41:14.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Can you make a case for Chelsea being stripped of 2016-17 title?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
-        "publishedAt": "2026-09-10T13:55:43.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Team GB return after pregnancy 'hard to put into words' - Kinsella",
-        "url": "https://www.bbc.co.uk/sport/gymnastics/articles/cly59z2yjpjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A year after giving birth, Alice Kinsella takes the latest step on her groundbreaking return to gymnastics at an international meeting for Team GB.",
-        "publishedAt": "2026-09-10T14:33:10.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "'Get a life' - non-league club condemn man impersonating manager",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0gevpnxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
-        "publishedAt": "2026-09-10T15:22:16.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Roglic closes gap on Mas in Vuelta time trial",
-        "url": "https://www.bbc.co.uk/sport/cycling/articles/cy5z0r9z4g9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Primoz Roglic moves into second in the general classification and closes the gap on leader Enric Mas with a fourth-place finish in the time trial on stage 18 at the Vuelta a Espana.",
-        "publishedAt": "2026-09-10T16:46:04.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Switch Six Nations fixture to USA to grow game – World Rugby",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5ymg0pm1yno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "World Rugby would help any nation which wants to switch a Six Nations match to the United States as it continues its drive to spread the game stateside.",
-        "publishedAt": "2026-09-10T14:58:33.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,17 +2579,6 @@
   "sports_au": {
     "articles": [
       {
-        "title": "Arsenal close to finalising new contract for Arteta",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
-        "publishedAt": "2026-09-10T14:16:06.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
         "title": "England's push for two-day win halted by weather",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/c980dgvp2qeo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2601,6 +2590,72 @@
         "zone": "au"
       },
       {
+        "title": "Spurs and Richarlison in dispute over contract",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c62mq8j4j5lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tottenham and their forward Richarlison are in dispute over the remaining nine months on his contract.",
+        "publishedAt": "2026-09-10T18:48:12.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Hamilton and Leclerc 'squash' Monza controversy",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg825g59l1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lewis Hamilton says he and Ferrari team-mate Charles Leclerc have \"squashed\" any controversy between them from the Italian Grand Prix.",
+        "publishedAt": "2026-09-10T17:27:04.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "England march to early win over Pakistan held up by rain",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/cz9zjypykqqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Harry Brook, Dan Lawrence, Jamie Smith and Ollie Robinson all post half-centuries on day two of the third Test for England, with rain the only respite for a Pakistan side trailing by 268.",
+        "publishedAt": "2026-09-10T17:05:35.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "2030 Winter Olympics boss departs amid turmoil",
+        "url": "https://www.bbc.co.uk/sport/articles/c980dgv6vyqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Edgar Grospiron leaves his position as president of the organising committee for the 2030 French Alps Winter Olympics just 18 months after his appointment.",
+        "publishedAt": "2026-09-10T18:50:11.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "GB return after pregnancy 'hard to put into words' - Kinsella",
+        "url": "https://www.bbc.co.uk/sport/gymnastics/articles/cly59z2yjpjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A year after giving birth, Alice Kinsella takes the latest step on her groundbreaking return to gymnastics at an international meeting for Great Britain.",
+        "publishedAt": "2026-09-10T14:33:10.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Weight-loss drugs avoid Wada banned list for 2027",
+        "url": "https://www.bbc.co.uk/sport/articles/cpwl1rlx17po?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Athletes will not be banned from using weight-loss drugs, but the substances will remain on a monitoring list.",
+        "publishedAt": "2026-09-10T18:29:34.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Hull & Woad to face Korda & Corpuz in Solheim opener",
         "url": "https://www.bbc.co.uk/sport/golf/articles/cx2zrp0ye5yo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2608,61 +2663,6 @@
         },
         "description": "Charley Hull and Lottie Woad will face the formidable pairing of Nelly Korda and Allisen Corpuz in Friday's opening match of the Solheim Cup in the Netherlands.",
         "publishedAt": "2026-09-10T15:41:14.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Can you make a case for Chelsea being stripped of 2016-17 title?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
-        "publishedAt": "2026-09-10T13:55:43.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Team GB return after pregnancy 'hard to put into words' - Kinsella",
-        "url": "https://www.bbc.co.uk/sport/gymnastics/articles/cly59z2yjpjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A year after giving birth, Alice Kinsella takes the latest step on her groundbreaking return to gymnastics at an international meeting for Team GB.",
-        "publishedAt": "2026-09-10T14:33:10.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "'Get a life' - non-league club condemn man impersonating manager",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0gevpnxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
-        "publishedAt": "2026-09-10T15:22:16.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Roglic closes gap on Mas in Vuelta time trial",
-        "url": "https://www.bbc.co.uk/sport/cycling/articles/cy5z0r9z4g9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Primoz Roglic moves into second in the general classification and closes the gap on leader Enric Mas with a fourth-place finish in the time trial on stage 18 at the Vuelta a Espana.",
-        "publishedAt": "2026-09-10T16:46:04.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Switch Six Nations fixture to USA to grow game – World Rugby",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5ymg0pm1yno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "World Rugby would help any nation which wants to switch a Six Nations match to the United States as it continues its drive to spread the game stateside.",
-        "publishedAt": "2026-09-10T14:58:33.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,17 +2671,6 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "Arsenal close to finalising new contract for Arteta",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
-        "publishedAt": "2026-09-10T14:16:06.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
         "title": "England's push for two-day win halted by weather",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/c980dgvp2qeo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2693,6 +2682,72 @@
         "zone": "ca"
       },
       {
+        "title": "Spurs and Richarlison in dispute over contract",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c62mq8j4j5lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tottenham and their forward Richarlison are in dispute over the remaining nine months on his contract.",
+        "publishedAt": "2026-09-10T18:48:12.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Hamilton and Leclerc 'squash' Monza controversy",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg825g59l1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lewis Hamilton says he and Ferrari team-mate Charles Leclerc have \"squashed\" any controversy between them from the Italian Grand Prix.",
+        "publishedAt": "2026-09-10T17:27:04.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "England march to early win over Pakistan held up by rain",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/cz9zjypykqqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Harry Brook, Dan Lawrence, Jamie Smith and Ollie Robinson all post half-centuries on day two of the third Test for England, with rain the only respite for a Pakistan side trailing by 268.",
+        "publishedAt": "2026-09-10T17:05:35.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "2030 Winter Olympics boss departs amid turmoil",
+        "url": "https://www.bbc.co.uk/sport/articles/c980dgv6vyqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Edgar Grospiron leaves his position as president of the organising committee for the 2030 French Alps Winter Olympics just 18 months after his appointment.",
+        "publishedAt": "2026-09-10T18:50:11.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "GB return after pregnancy 'hard to put into words' - Kinsella",
+        "url": "https://www.bbc.co.uk/sport/gymnastics/articles/cly59z2yjpjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A year after giving birth, Alice Kinsella takes the latest step on her groundbreaking return to gymnastics at an international meeting for Great Britain.",
+        "publishedAt": "2026-09-10T14:33:10.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Weight-loss drugs avoid Wada banned list for 2027",
+        "url": "https://www.bbc.co.uk/sport/articles/cpwl1rlx17po?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Athletes will not be banned from using weight-loss drugs, but the substances will remain on a monitoring list.",
+        "publishedAt": "2026-09-10T18:29:34.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Hull & Woad to face Korda & Corpuz in Solheim opener",
         "url": "https://www.bbc.co.uk/sport/golf/articles/cx2zrp0ye5yo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2700,61 +2755,6 @@
         },
         "description": "Charley Hull and Lottie Woad will face the formidable pairing of Nelly Korda and Allisen Corpuz in Friday's opening match of the Solheim Cup in the Netherlands.",
         "publishedAt": "2026-09-10T15:41:14.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Can you make a case for Chelsea being stripped of 2016-17 title?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
-        "publishedAt": "2026-09-10T13:55:43.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Team GB return after pregnancy 'hard to put into words' - Kinsella",
-        "url": "https://www.bbc.co.uk/sport/gymnastics/articles/cly59z2yjpjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A year after giving birth, Alice Kinsella takes the latest step on her groundbreaking return to gymnastics at an international meeting for Team GB.",
-        "publishedAt": "2026-09-10T14:33:10.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "'Get a life' - non-league club condemn man impersonating manager",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0gevpnxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
-        "publishedAt": "2026-09-10T15:22:16.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Roglic closes gap on Mas in Vuelta time trial",
-        "url": "https://www.bbc.co.uk/sport/cycling/articles/cy5z0r9z4g9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Primoz Roglic moves into second in the general classification and closes the gap on leader Enric Mas with a fourth-place finish in the time trial on stage 18 at the Vuelta a Espana.",
-        "publishedAt": "2026-09-10T16:46:04.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Switch Six Nations fixture to USA to grow game – World Rugby",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5ymg0pm1yno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "World Rugby would help any nation which wants to switch a Six Nations match to the United States as it continues its drive to spread the game stateside.",
-        "publishedAt": "2026-09-10T14:58:33.000Z",
         "category": "sports",
         "zone": "ca"
       }
