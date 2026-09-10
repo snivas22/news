@@ -1,15 +1,37 @@
 {
-  "generatedAt": "2026-09-10T13:22:11.140Z",
+  "generatedAt": "2026-09-10T17:31:17.706Z",
   "general_us": {
     "articles": [
       {
-        "title": "England's mayors to get power to impose tourist tax",
+        "title": "Labour mayors in England vow to cap tourist tax at 5%",
         "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
-        "publishedAt": "2026-09-10T12:33:48.000Z",
+        "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
+        "publishedAt": "2026-09-10T16:59:38.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+        "publishedAt": "2026-09-10T15:56:33.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Use all powers necessary on anti-migrant protests, home secretary tells police",
+        "url": "https://www.bbc.co.uk/news/articles/cqjke44pr7zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Two anti-migrant protests took place in Dover and Portsmouth last weekend.",
+        "publishedAt": "2026-09-10T16:57:06.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -20,73 +42,51 @@
           "name": "RSS Feed"
         },
         "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-        "publishedAt": "2026-09-10T10:07:19.000Z",
+        "publishedAt": "2026-09-10T13:23:37.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Watch: Is Trump's $5,000 election pledge legal?",
-        "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+        "title": "Four hurt and seven arrested in London stabbing",
+        "url": "https://www.bbc.co.uk/news/articles/c39mrjvpx4yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
-        "publishedAt": "2026-09-10T07:12:32.000Z",
+        "description": "Seven people are arrested after a fight that an eyewitness says broke out in a KFC restaurant.",
+        "publishedAt": "2026-09-10T17:29:45.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Why some experts increasingly fear AI will take over",
-        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+        "title": "Drone display recreates the Twin Towers over New York City",
+        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
-        "publishedAt": "2026-09-09T23:17:33.000Z",
+        "description": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
+        "publishedAt": "2026-09-10T14:19:26.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Catherine joins William at suicide prevention campaign",
-        "url": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
+        "title": "Esther Ranzen says she is too fragile to travel to Switzerland to end life",
+        "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The prince's new project aims to use the reach of sport to raise awareness about suicide and to show people the help available in a crisis.",
-        "publishedAt": "2026-09-10T11:23:08.000Z",
+        "description": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
+        "publishedAt": "2026-09-10T16:37:18.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "RNLI reviews security after volunteers targeted online",
-        "url": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
+        "title": "Police and army attend funeral for officer killed in wrong-way A66 crash",
+        "url": "https://www.bbc.co.uk/news/articles/cnvl72e57yeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Volunteers were targeted online after it assisted in the rescue of people crossing the Channel on Sunday.",
-        "publishedAt": "2026-09-10T09:07:49.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Badenoch denies housing benefit cuts plan would make people homeless",
-        "url": "https://www.bbc.co.uk/news/articles/cj9xznl0yvzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Conservatives say £4bn could be cut from the housing benefit bill to help fund increased defence spending.",
-        "publishedAt": "2026-09-10T11:43:09.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "'My cancer spread while I waited months for surgery': The cost of England's cancer wait times",
-        "url": "https://www.bbc.co.uk/news/articles/c93vderdkyvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.",
-        "publishedAt": "2026-09-10T09:31:16.000Z",
+        "description": "Former army colleagues attend PC Tom Clough's funeral alongside police and emergency workers.",
+        "publishedAt": "2026-09-10T15:02:18.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,13 +95,35 @@
   "general_gb": {
     "articles": [
       {
-        "title": "England's mayors to get power to impose tourist tax",
+        "title": "Labour mayors in England vow to cap tourist tax at 5%",
         "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
-        "publishedAt": "2026-09-10T12:33:48.000Z",
+        "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
+        "publishedAt": "2026-09-10T16:59:38.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+        "publishedAt": "2026-09-10T15:56:33.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Use all powers necessary on anti-migrant protests, home secretary tells police",
+        "url": "https://www.bbc.co.uk/news/articles/cqjke44pr7zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Two anti-migrant protests took place in Dover and Portsmouth last weekend.",
+        "publishedAt": "2026-09-10T16:57:06.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -112,73 +134,51 @@
           "name": "RSS Feed"
         },
         "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-        "publishedAt": "2026-09-10T10:07:19.000Z",
+        "publishedAt": "2026-09-10T13:23:37.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Watch: Is Trump's $5,000 election pledge legal?",
-        "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+        "title": "Four hurt and seven arrested in London stabbing",
+        "url": "https://www.bbc.co.uk/news/articles/c39mrjvpx4yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
-        "publishedAt": "2026-09-10T07:12:32.000Z",
+        "description": "Seven people are arrested after a fight that an eyewitness says broke out in a KFC restaurant.",
+        "publishedAt": "2026-09-10T17:29:45.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Why some experts increasingly fear AI will take over",
-        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+        "title": "Drone display recreates the Twin Towers over New York City",
+        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
-        "publishedAt": "2026-09-09T23:17:33.000Z",
+        "description": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
+        "publishedAt": "2026-09-10T14:19:26.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Catherine joins William at suicide prevention campaign",
-        "url": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
+        "title": "Esther Ranzen says she is too fragile to travel to Switzerland to end life",
+        "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The prince's new project aims to use the reach of sport to raise awareness about suicide and to show people the help available in a crisis.",
-        "publishedAt": "2026-09-10T11:23:08.000Z",
+        "description": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
+        "publishedAt": "2026-09-10T16:37:18.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "RNLI reviews security after volunteers targeted online",
-        "url": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
+        "title": "Police and army attend funeral for officer killed in wrong-way A66 crash",
+        "url": "https://www.bbc.co.uk/news/articles/cnvl72e57yeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Volunteers were targeted online after it assisted in the rescue of people crossing the Channel on Sunday.",
-        "publishedAt": "2026-09-10T09:07:49.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Badenoch denies housing benefit cuts plan would make people homeless",
-        "url": "https://www.bbc.co.uk/news/articles/cj9xznl0yvzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Conservatives say £4bn could be cut from the housing benefit bill to help fund increased defence spending.",
-        "publishedAt": "2026-09-10T11:43:09.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "'My cancer spread while I waited months for surgery': The cost of England's cancer wait times",
-        "url": "https://www.bbc.co.uk/news/articles/c93vderdkyvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.",
-        "publishedAt": "2026-09-10T09:31:16.000Z",
+        "description": "Former army colleagues attend PC Tom Clough's funeral alongside police and emergency workers.",
+        "publishedAt": "2026-09-10T15:02:18.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,13 +187,35 @@
   "general_in": {
     "articles": [
       {
-        "title": "England's mayors to get power to impose tourist tax",
+        "title": "Labour mayors in England vow to cap tourist tax at 5%",
         "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
-        "publishedAt": "2026-09-10T12:33:48.000Z",
+        "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
+        "publishedAt": "2026-09-10T16:59:38.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+        "publishedAt": "2026-09-10T15:56:33.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Use all powers necessary on anti-migrant protests, home secretary tells police",
+        "url": "https://www.bbc.co.uk/news/articles/cqjke44pr7zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Two anti-migrant protests took place in Dover and Portsmouth last weekend.",
+        "publishedAt": "2026-09-10T16:57:06.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -204,73 +226,51 @@
           "name": "RSS Feed"
         },
         "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-        "publishedAt": "2026-09-10T10:07:19.000Z",
+        "publishedAt": "2026-09-10T13:23:37.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Watch: Is Trump's $5,000 election pledge legal?",
-        "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+        "title": "Four hurt and seven arrested in London stabbing",
+        "url": "https://www.bbc.co.uk/news/articles/c39mrjvpx4yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
-        "publishedAt": "2026-09-10T07:12:32.000Z",
+        "description": "Seven people are arrested after a fight that an eyewitness says broke out in a KFC restaurant.",
+        "publishedAt": "2026-09-10T17:29:45.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Why some experts increasingly fear AI will take over",
-        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+        "title": "Drone display recreates the Twin Towers over New York City",
+        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
-        "publishedAt": "2026-09-09T23:17:33.000Z",
+        "description": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
+        "publishedAt": "2026-09-10T14:19:26.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Catherine joins William at suicide prevention campaign",
-        "url": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
+        "title": "Esther Ranzen says she is too fragile to travel to Switzerland to end life",
+        "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The prince's new project aims to use the reach of sport to raise awareness about suicide and to show people the help available in a crisis.",
-        "publishedAt": "2026-09-10T11:23:08.000Z",
+        "description": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
+        "publishedAt": "2026-09-10T16:37:18.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "RNLI reviews security after volunteers targeted online",
-        "url": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
+        "title": "Police and army attend funeral for officer killed in wrong-way A66 crash",
+        "url": "https://www.bbc.co.uk/news/articles/cnvl72e57yeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Volunteers were targeted online after it assisted in the rescue of people crossing the Channel on Sunday.",
-        "publishedAt": "2026-09-10T09:07:49.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Badenoch denies housing benefit cuts plan would make people homeless",
-        "url": "https://www.bbc.co.uk/news/articles/cj9xznl0yvzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Conservatives say £4bn could be cut from the housing benefit bill to help fund increased defence spending.",
-        "publishedAt": "2026-09-10T11:43:09.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "'My cancer spread while I waited months for surgery': The cost of England's cancer wait times",
-        "url": "https://www.bbc.co.uk/news/articles/c93vderdkyvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.",
-        "publishedAt": "2026-09-10T09:31:16.000Z",
+        "description": "Former army colleagues attend PC Tom Clough's funeral alongside police and emergency workers.",
+        "publishedAt": "2026-09-10T15:02:18.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,13 +279,35 @@
   "general_au": {
     "articles": [
       {
-        "title": "England's mayors to get power to impose tourist tax",
+        "title": "Labour mayors in England vow to cap tourist tax at 5%",
         "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
-        "publishedAt": "2026-09-10T12:33:48.000Z",
+        "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
+        "publishedAt": "2026-09-10T16:59:38.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+        "publishedAt": "2026-09-10T15:56:33.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Use all powers necessary on anti-migrant protests, home secretary tells police",
+        "url": "https://www.bbc.co.uk/news/articles/cqjke44pr7zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Two anti-migrant protests took place in Dover and Portsmouth last weekend.",
+        "publishedAt": "2026-09-10T16:57:06.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -296,73 +318,51 @@
           "name": "RSS Feed"
         },
         "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-        "publishedAt": "2026-09-10T10:07:19.000Z",
+        "publishedAt": "2026-09-10T13:23:37.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Watch: Is Trump's $5,000 election pledge legal?",
-        "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+        "title": "Four hurt and seven arrested in London stabbing",
+        "url": "https://www.bbc.co.uk/news/articles/c39mrjvpx4yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
-        "publishedAt": "2026-09-10T07:12:32.000Z",
+        "description": "Seven people are arrested after a fight that an eyewitness says broke out in a KFC restaurant.",
+        "publishedAt": "2026-09-10T17:29:45.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Why some experts increasingly fear AI will take over",
-        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+        "title": "Drone display recreates the Twin Towers over New York City",
+        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
-        "publishedAt": "2026-09-09T23:17:33.000Z",
+        "description": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
+        "publishedAt": "2026-09-10T14:19:26.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Catherine joins William at suicide prevention campaign",
-        "url": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
+        "title": "Esther Ranzen says she is too fragile to travel to Switzerland to end life",
+        "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The prince's new project aims to use the reach of sport to raise awareness about suicide and to show people the help available in a crisis.",
-        "publishedAt": "2026-09-10T11:23:08.000Z",
+        "description": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
+        "publishedAt": "2026-09-10T16:37:18.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "RNLI reviews security after volunteers targeted online",
-        "url": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
+        "title": "Police and army attend funeral for officer killed in wrong-way A66 crash",
+        "url": "https://www.bbc.co.uk/news/articles/cnvl72e57yeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Volunteers were targeted online after it assisted in the rescue of people crossing the Channel on Sunday.",
-        "publishedAt": "2026-09-10T09:07:49.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Badenoch denies housing benefit cuts plan would make people homeless",
-        "url": "https://www.bbc.co.uk/news/articles/cj9xznl0yvzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Conservatives say £4bn could be cut from the housing benefit bill to help fund increased defence spending.",
-        "publishedAt": "2026-09-10T11:43:09.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "'My cancer spread while I waited months for surgery': The cost of England's cancer wait times",
-        "url": "https://www.bbc.co.uk/news/articles/c93vderdkyvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.",
-        "publishedAt": "2026-09-10T09:31:16.000Z",
+        "description": "Former army colleagues attend PC Tom Clough's funeral alongside police and emergency workers.",
+        "publishedAt": "2026-09-10T15:02:18.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,13 +371,35 @@
   "general_ca": {
     "articles": [
       {
-        "title": "England's mayors to get power to impose tourist tax",
+        "title": "Labour mayors in England vow to cap tourist tax at 5%",
         "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
-        "publishedAt": "2026-09-10T12:33:48.000Z",
+        "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
+        "publishedAt": "2026-09-10T16:59:38.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+        "publishedAt": "2026-09-10T15:56:33.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Use all powers necessary on anti-migrant protests, home secretary tells police",
+        "url": "https://www.bbc.co.uk/news/articles/cqjke44pr7zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Two anti-migrant protests took place in Dover and Portsmouth last weekend.",
+        "publishedAt": "2026-09-10T16:57:06.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -388,73 +410,51 @@
           "name": "RSS Feed"
         },
         "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-        "publishedAt": "2026-09-10T10:07:19.000Z",
+        "publishedAt": "2026-09-10T13:23:37.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Watch: Is Trump's $5,000 election pledge legal?",
-        "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+        "title": "Four hurt and seven arrested in London stabbing",
+        "url": "https://www.bbc.co.uk/news/articles/c39mrjvpx4yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
-        "publishedAt": "2026-09-10T07:12:32.000Z",
+        "description": "Seven people are arrested after a fight that an eyewitness says broke out in a KFC restaurant.",
+        "publishedAt": "2026-09-10T17:29:45.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Why some experts increasingly fear AI will take over",
-        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+        "title": "Drone display recreates the Twin Towers over New York City",
+        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
-        "publishedAt": "2026-09-09T23:17:33.000Z",
+        "description": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
+        "publishedAt": "2026-09-10T14:19:26.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Catherine joins William at suicide prevention campaign",
-        "url": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
+        "title": "Esther Ranzen says she is too fragile to travel to Switzerland to end life",
+        "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The prince's new project aims to use the reach of sport to raise awareness about suicide and to show people the help available in a crisis.",
-        "publishedAt": "2026-09-10T11:23:08.000Z",
+        "description": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
+        "publishedAt": "2026-09-10T16:37:18.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "RNLI reviews security after volunteers targeted online",
-        "url": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
+        "title": "Police and army attend funeral for officer killed in wrong-way A66 crash",
+        "url": "https://www.bbc.co.uk/news/articles/cnvl72e57yeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Volunteers were targeted online after it assisted in the rescue of people crossing the Channel on Sunday.",
-        "publishedAt": "2026-09-10T09:07:49.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Badenoch denies housing benefit cuts plan would make people homeless",
-        "url": "https://www.bbc.co.uk/news/articles/cj9xznl0yvzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Conservatives say £4bn could be cut from the housing benefit bill to help fund increased defence spending.",
-        "publishedAt": "2026-09-10T11:43:09.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "'My cancer spread while I waited months for surgery': The cost of England's cancer wait times",
-        "url": "https://www.bbc.co.uk/news/articles/c93vderdkyvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.",
-        "publishedAt": "2026-09-10T09:31:16.000Z",
+        "description": "Former army colleagues attend PC Tom Clough's funeral alongside police and emergency workers.",
+        "publishedAt": "2026-09-10T15:02:18.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -463,6 +463,28 @@
   "business_us": {
     "articles": [
       {
+        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+        "publishedAt": "2026-09-10T15:56:33.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
+        "url": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
+        "publishedAt": "2026-09-10T13:34:17.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "Primark finally set to launch home deliveries",
         "url": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -485,17 +507,6 @@
         "zone": "us"
       },
       {
-        "title": "Air traffic failure was avoidable, says transport secretary",
-        "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
-        "publishedAt": "2026-09-09T18:21:16.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
         "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
         "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -503,17 +514,6 @@
         },
         "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
         "publishedAt": "2026-09-10T09:32:34.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "England's mayors to get power to impose tourist tax",
-        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
-        "publishedAt": "2026-09-10T12:33:48.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -529,24 +529,24 @@
         "zone": "us"
       },
       {
-        "title": "Tax banks to cut energy bills, unions tell Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
+        "title": "Labour mayors in England vow to cap tourist tax at 5%",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
-        "publishedAt": "2026-09-10T00:06:33.000Z",
+        "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
+        "publishedAt": "2026-09-10T16:59:38.000Z",
         "category": "business",
         "zone": "us"
       },
       {
-        "title": "What are my rights if my flight is cancelled or delayed?",
-        "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+        "title": "Air traffic failure was avoidable, says transport secretary",
+        "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
-        "publishedAt": "2026-09-09T08:04:14.000Z",
+        "description": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
+        "publishedAt": "2026-09-09T18:21:16.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,6 +555,28 @@
   "business_gb": {
     "articles": [
       {
+        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+        "publishedAt": "2026-09-10T15:56:33.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
+        "url": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
+        "publishedAt": "2026-09-10T13:34:17.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "Primark finally set to launch home deliveries",
         "url": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -577,17 +599,6 @@
         "zone": "gb"
       },
       {
-        "title": "Air traffic failure was avoidable, says transport secretary",
-        "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
-        "publishedAt": "2026-09-09T18:21:16.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
         "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
         "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -595,17 +606,6 @@
         },
         "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
         "publishedAt": "2026-09-10T09:32:34.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "England's mayors to get power to impose tourist tax",
-        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
-        "publishedAt": "2026-09-10T12:33:48.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -621,24 +621,24 @@
         "zone": "gb"
       },
       {
-        "title": "Tax banks to cut energy bills, unions tell Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
+        "title": "Labour mayors in England vow to cap tourist tax at 5%",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
-        "publishedAt": "2026-09-10T00:06:33.000Z",
+        "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
+        "publishedAt": "2026-09-10T16:59:38.000Z",
         "category": "business",
         "zone": "gb"
       },
       {
-        "title": "What are my rights if my flight is cancelled or delayed?",
-        "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+        "title": "Air traffic failure was avoidable, says transport secretary",
+        "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
-        "publishedAt": "2026-09-09T08:04:14.000Z",
+        "description": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
+        "publishedAt": "2026-09-09T18:21:16.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,6 +647,28 @@
   "business_in": {
     "articles": [
       {
+        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+        "publishedAt": "2026-09-10T15:56:33.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
+        "url": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
+        "publishedAt": "2026-09-10T13:34:17.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "Primark finally set to launch home deliveries",
         "url": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -669,17 +691,6 @@
         "zone": "in"
       },
       {
-        "title": "Air traffic failure was avoidable, says transport secretary",
-        "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
-        "publishedAt": "2026-09-09T18:21:16.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
         "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
         "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -687,17 +698,6 @@
         },
         "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
         "publishedAt": "2026-09-10T09:32:34.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "England's mayors to get power to impose tourist tax",
-        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
-        "publishedAt": "2026-09-10T12:33:48.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -713,24 +713,24 @@
         "zone": "in"
       },
       {
-        "title": "Tax banks to cut energy bills, unions tell Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
+        "title": "Labour mayors in England vow to cap tourist tax at 5%",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
-        "publishedAt": "2026-09-10T00:06:33.000Z",
+        "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
+        "publishedAt": "2026-09-10T16:59:38.000Z",
         "category": "business",
         "zone": "in"
       },
       {
-        "title": "What are my rights if my flight is cancelled or delayed?",
-        "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+        "title": "Air traffic failure was avoidable, says transport secretary",
+        "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
-        "publishedAt": "2026-09-09T08:04:14.000Z",
+        "description": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
+        "publishedAt": "2026-09-09T18:21:16.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,6 +739,28 @@
   "business_au": {
     "articles": [
       {
+        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+        "publishedAt": "2026-09-10T15:56:33.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
+        "url": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
+        "publishedAt": "2026-09-10T13:34:17.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "Primark finally set to launch home deliveries",
         "url": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -761,17 +783,6 @@
         "zone": "au"
       },
       {
-        "title": "Air traffic failure was avoidable, says transport secretary",
-        "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
-        "publishedAt": "2026-09-09T18:21:16.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
         "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
         "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -779,17 +790,6 @@
         },
         "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
         "publishedAt": "2026-09-10T09:32:34.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "England's mayors to get power to impose tourist tax",
-        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
-        "publishedAt": "2026-09-10T12:33:48.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -805,24 +805,24 @@
         "zone": "au"
       },
       {
-        "title": "Tax banks to cut energy bills, unions tell Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
+        "title": "Labour mayors in England vow to cap tourist tax at 5%",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
-        "publishedAt": "2026-09-10T00:06:33.000Z",
+        "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
+        "publishedAt": "2026-09-10T16:59:38.000Z",
         "category": "business",
         "zone": "au"
       },
       {
-        "title": "What are my rights if my flight is cancelled or delayed?",
-        "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+        "title": "Air traffic failure was avoidable, says transport secretary",
+        "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
-        "publishedAt": "2026-09-09T08:04:14.000Z",
+        "description": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
+        "publishedAt": "2026-09-09T18:21:16.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,6 +831,28 @@
   "business_ca": {
     "articles": [
       {
+        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+        "publishedAt": "2026-09-10T15:56:33.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
+        "url": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
+        "publishedAt": "2026-09-10T13:34:17.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "Primark finally set to launch home deliveries",
         "url": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -853,17 +875,6 @@
         "zone": "ca"
       },
       {
-        "title": "Air traffic failure was avoidable, says transport secretary",
-        "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
-        "publishedAt": "2026-09-09T18:21:16.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
         "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
         "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -871,17 +882,6 @@
         },
         "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
         "publishedAt": "2026-09-10T09:32:34.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "England's mayors to get power to impose tourist tax",
-        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
-        "publishedAt": "2026-09-10T12:33:48.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -897,24 +897,24 @@
         "zone": "ca"
       },
       {
-        "title": "Tax banks to cut energy bills, unions tell Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
+        "title": "Labour mayors in England vow to cap tourist tax at 5%",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
-        "publishedAt": "2026-09-10T00:06:33.000Z",
+        "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
+        "publishedAt": "2026-09-10T16:59:38.000Z",
         "category": "business",
         "zone": "ca"
       },
       {
-        "title": "What are my rights if my flight is cancelled or delayed?",
-        "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+        "title": "Air traffic failure was avoidable, says transport secretary",
+        "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
-        "publishedAt": "2026-09-09T08:04:14.000Z",
+        "description": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
+        "publishedAt": "2026-09-09T18:21:16.000Z",
         "category": "business",
         "zone": "ca"
       }
@@ -923,6 +923,28 @@
   "entertainment_us": {
     "articles": [
       {
+        "title": "Esther Ranzen says she is too fragile to travel to Switzerland to end life",
+        "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
+        "publishedAt": "2026-09-10T16:37:18.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "New Strictly hosts explain their roles as they reject 'roving presenter' reports",
+        "url": "https://www.bbc.co.uk/news/articles/cdx0qn97g9jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Johannes Radebe, Josh Widdicombe and Emma Willis say their roles are not \"fixed\" or defined.",
+        "publishedAt": "2026-09-10T14:41:49.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
         "title": "BBC drops Drag Race UK after eight series",
         "url": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -985,28 +1007,6 @@
         },
         "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
         "publishedAt": "2026-09-09T05:39:16.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Shane Richie pleads not guilty to drink-driving",
-        "url": "https://www.bbc.co.uk/news/articles/c89j012xkvpo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The 62-year-old actor was arrested by police at a petrol station forecourt in July 2026",
-        "publishedAt": "2026-09-09T09:40:38.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Family of killed teen call for death penalty in D4vd trial",
-        "url": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty.",
-        "publishedAt": "2026-09-09T09:58:48.000Z",
         "category": "entertainment",
         "zone": "us"
       }
@@ -1015,6 +1015,28 @@
   "entertainment_gb": {
     "articles": [
       {
+        "title": "Esther Ranzen says she is too fragile to travel to Switzerland to end life",
+        "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
+        "publishedAt": "2026-09-10T16:37:18.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "New Strictly hosts explain their roles as they reject 'roving presenter' reports",
+        "url": "https://www.bbc.co.uk/news/articles/cdx0qn97g9jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Johannes Radebe, Josh Widdicombe and Emma Willis say their roles are not \"fixed\" or defined.",
+        "publishedAt": "2026-09-10T14:41:49.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
         "title": "BBC drops Drag Race UK after eight series",
         "url": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1077,28 +1099,6 @@
         },
         "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
         "publishedAt": "2026-09-09T05:39:16.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Shane Richie pleads not guilty to drink-driving",
-        "url": "https://www.bbc.co.uk/news/articles/c89j012xkvpo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The 62-year-old actor was arrested by police at a petrol station forecourt in July 2026",
-        "publishedAt": "2026-09-09T09:40:38.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Family of killed teen call for death penalty in D4vd trial",
-        "url": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty.",
-        "publishedAt": "2026-09-09T09:58:48.000Z",
         "category": "entertainment",
         "zone": "gb"
       }
@@ -1107,6 +1107,28 @@
   "entertainment_in": {
     "articles": [
       {
+        "title": "Esther Ranzen says she is too fragile to travel to Switzerland to end life",
+        "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
+        "publishedAt": "2026-09-10T16:37:18.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "New Strictly hosts explain their roles as they reject 'roving presenter' reports",
+        "url": "https://www.bbc.co.uk/news/articles/cdx0qn97g9jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Johannes Radebe, Josh Widdicombe and Emma Willis say their roles are not \"fixed\" or defined.",
+        "publishedAt": "2026-09-10T14:41:49.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
         "title": "BBC drops Drag Race UK after eight series",
         "url": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1169,28 +1191,6 @@
         },
         "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
         "publishedAt": "2026-09-09T05:39:16.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Shane Richie pleads not guilty to drink-driving",
-        "url": "https://www.bbc.co.uk/news/articles/c89j012xkvpo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The 62-year-old actor was arrested by police at a petrol station forecourt in July 2026",
-        "publishedAt": "2026-09-09T09:40:38.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Family of killed teen call for death penalty in D4vd trial",
-        "url": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty.",
-        "publishedAt": "2026-09-09T09:58:48.000Z",
         "category": "entertainment",
         "zone": "in"
       }
@@ -1199,6 +1199,28 @@
   "entertainment_au": {
     "articles": [
       {
+        "title": "Esther Ranzen says she is too fragile to travel to Switzerland to end life",
+        "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
+        "publishedAt": "2026-09-10T16:37:18.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "New Strictly hosts explain their roles as they reject 'roving presenter' reports",
+        "url": "https://www.bbc.co.uk/news/articles/cdx0qn97g9jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Johannes Radebe, Josh Widdicombe and Emma Willis say their roles are not \"fixed\" or defined.",
+        "publishedAt": "2026-09-10T14:41:49.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
         "title": "BBC drops Drag Race UK after eight series",
         "url": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1261,28 +1283,6 @@
         },
         "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
         "publishedAt": "2026-09-09T05:39:16.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Shane Richie pleads not guilty to drink-driving",
-        "url": "https://www.bbc.co.uk/news/articles/c89j012xkvpo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The 62-year-old actor was arrested by police at a petrol station forecourt in July 2026",
-        "publishedAt": "2026-09-09T09:40:38.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Family of killed teen call for death penalty in D4vd trial",
-        "url": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty.",
-        "publishedAt": "2026-09-09T09:58:48.000Z",
         "category": "entertainment",
         "zone": "au"
       }
@@ -1291,6 +1291,28 @@
   "entertainment_ca": {
     "articles": [
       {
+        "title": "Esther Ranzen says she is too fragile to travel to Switzerland to end life",
+        "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
+        "publishedAt": "2026-09-10T16:37:18.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "New Strictly hosts explain their roles as they reject 'roving presenter' reports",
+        "url": "https://www.bbc.co.uk/news/articles/cdx0qn97g9jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Johannes Radebe, Josh Widdicombe and Emma Willis say their roles are not \"fixed\" or defined.",
+        "publishedAt": "2026-09-10T14:41:49.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
         "title": "BBC drops Drag Race UK after eight series",
         "url": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1353,28 +1375,6 @@
         },
         "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
         "publishedAt": "2026-09-09T05:39:16.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Shane Richie pleads not guilty to drink-driving",
-        "url": "https://www.bbc.co.uk/news/articles/c89j012xkvpo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The 62-year-old actor was arrested by police at a petrol station forecourt in July 2026",
-        "publishedAt": "2026-09-09T09:40:38.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Family of killed teen call for death penalty in D4vd trial",
-        "url": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty.",
-        "publishedAt": "2026-09-09T09:58:48.000Z",
         "category": "entertainment",
         "zone": "ca"
       }
@@ -1859,7 +1859,7 @@
         "source": {
           "name": "Presented by Madeleine Finlay, with Ian Sample, produced by Joshan Chana, sound design by Joel Cox, the executive producer was Ellie Bury"
         },
-        "description": "For decades physicists have been puzzling over the enigma of dark matter. We think it makes up 85% of the matter in the universe, but the mysterious substance cannot be seen or detected, and we know about it mainly through observations of the gravitational effects it has on other things. But now scientists believe they may be a step closer to detecting it. Science editor Ian Sample explains to Madeleine Finlay why, if confirmed, the finding could completely transform our understanding of the universe. And Dr Samuel Erikson, senior research associate at the University of Bristol, and first author of the research paper, explains how the finding has been received in the physics community Support the Guardian: theguardian.com/sciencepod Continue reading...",
+        "description": "For decades physicists have been puzzling over the enigma of dark matter. We think it makes up 85% of the matter in the universe, but the mysterious substance cannot be seen or detected, and we know about it mainly through observations of the gravitational effects it has on other things. But now scientists believe they may be a step closer to detecting it. Science editor Ian Sample explains to Madeleine Finlay why, if confirmed, the finding could completely transform our understanding of the universe. And Dr Samuel Eriksen, senior research associate at the University of Bristol, and first author of the research paper, explains how the finding has been received in the physics community Support the Guardian: theguardian.com/sciencepod Continue reading...",
         "publishedAt": "2026-09-10T04:00:16.000Z",
         "category": "science",
         "zone": "us"
@@ -1951,7 +1951,7 @@
         "source": {
           "name": "Presented by Madeleine Finlay, with Ian Sample, produced by Joshan Chana, sound design by Joel Cox, the executive producer was Ellie Bury"
         },
-        "description": "For decades physicists have been puzzling over the enigma of dark matter. We think it makes up 85% of the matter in the universe, but the mysterious substance cannot be seen or detected, and we know about it mainly through observations of the gravitational effects it has on other things. But now scientists believe they may be a step closer to detecting it. Science editor Ian Sample explains to Madeleine Finlay why, if confirmed, the finding could completely transform our understanding of the universe. And Dr Samuel Erikson, senior research associate at the University of Bristol, and first author of the research paper, explains how the finding has been received in the physics community Support the Guardian: theguardian.com/sciencepod Continue reading...",
+        "description": "For decades physicists have been puzzling over the enigma of dark matter. We think it makes up 85% of the matter in the universe, but the mysterious substance cannot be seen or detected, and we know about it mainly through observations of the gravitational effects it has on other things. But now scientists believe they may be a step closer to detecting it. Science editor Ian Sample explains to Madeleine Finlay why, if confirmed, the finding could completely transform our understanding of the universe. And Dr Samuel Eriksen, senior research associate at the University of Bristol, and first author of the research paper, explains how the finding has been received in the physics community Support the Guardian: theguardian.com/sciencepod Continue reading...",
         "publishedAt": "2026-09-10T04:00:16.000Z",
         "category": "science",
         "zone": "gb"
@@ -2043,7 +2043,7 @@
         "source": {
           "name": "Presented by Madeleine Finlay, with Ian Sample, produced by Joshan Chana, sound design by Joel Cox, the executive producer was Ellie Bury"
         },
-        "description": "For decades physicists have been puzzling over the enigma of dark matter. We think it makes up 85% of the matter in the universe, but the mysterious substance cannot be seen or detected, and we know about it mainly through observations of the gravitational effects it has on other things. But now scientists believe they may be a step closer to detecting it. Science editor Ian Sample explains to Madeleine Finlay why, if confirmed, the finding could completely transform our understanding of the universe. And Dr Samuel Erikson, senior research associate at the University of Bristol, and first author of the research paper, explains how the finding has been received in the physics community Support the Guardian: theguardian.com/sciencepod Continue reading...",
+        "description": "For decades physicists have been puzzling over the enigma of dark matter. We think it makes up 85% of the matter in the universe, but the mysterious substance cannot be seen or detected, and we know about it mainly through observations of the gravitational effects it has on other things. But now scientists believe they may be a step closer to detecting it. Science editor Ian Sample explains to Madeleine Finlay why, if confirmed, the finding could completely transform our understanding of the universe. And Dr Samuel Eriksen, senior research associate at the University of Bristol, and first author of the research paper, explains how the finding has been received in the physics community Support the Guardian: theguardian.com/sciencepod Continue reading...",
         "publishedAt": "2026-09-10T04:00:16.000Z",
         "category": "science",
         "zone": "in"
@@ -2135,7 +2135,7 @@
         "source": {
           "name": "Presented by Madeleine Finlay, with Ian Sample, produced by Joshan Chana, sound design by Joel Cox, the executive producer was Ellie Bury"
         },
-        "description": "For decades physicists have been puzzling over the enigma of dark matter. We think it makes up 85% of the matter in the universe, but the mysterious substance cannot be seen or detected, and we know about it mainly through observations of the gravitational effects it has on other things. But now scientists believe they may be a step closer to detecting it. Science editor Ian Sample explains to Madeleine Finlay why, if confirmed, the finding could completely transform our understanding of the universe. And Dr Samuel Erikson, senior research associate at the University of Bristol, and first author of the research paper, explains how the finding has been received in the physics community Support the Guardian: theguardian.com/sciencepod Continue reading...",
+        "description": "For decades physicists have been puzzling over the enigma of dark matter. We think it makes up 85% of the matter in the universe, but the mysterious substance cannot be seen or detected, and we know about it mainly through observations of the gravitational effects it has on other things. But now scientists believe they may be a step closer to detecting it. Science editor Ian Sample explains to Madeleine Finlay why, if confirmed, the finding could completely transform our understanding of the universe. And Dr Samuel Eriksen, senior research associate at the University of Bristol, and first author of the research paper, explains how the finding has been received in the physics community Support the Guardian: theguardian.com/sciencepod Continue reading...",
         "publishedAt": "2026-09-10T04:00:16.000Z",
         "category": "science",
         "zone": "au"
@@ -2227,7 +2227,7 @@
         "source": {
           "name": "Presented by Madeleine Finlay, with Ian Sample, produced by Joshan Chana, sound design by Joel Cox, the executive producer was Ellie Bury"
         },
-        "description": "For decades physicists have been puzzling over the enigma of dark matter. We think it makes up 85% of the matter in the universe, but the mysterious substance cannot be seen or detected, and we know about it mainly through observations of the gravitational effects it has on other things. But now scientists believe they may be a step closer to detecting it. Science editor Ian Sample explains to Madeleine Finlay why, if confirmed, the finding could completely transform our understanding of the universe. And Dr Samuel Erikson, senior research associate at the University of Bristol, and first author of the research paper, explains how the finding has been received in the physics community Support the Guardian: theguardian.com/sciencepod Continue reading...",
+        "description": "For decades physicists have been puzzling over the enigma of dark matter. We think it makes up 85% of the matter in the universe, but the mysterious substance cannot be seen or detected, and we know about it mainly through observations of the gravitational effects it has on other things. But now scientists believe they may be a step closer to detecting it. Science editor Ian Sample explains to Madeleine Finlay why, if confirmed, the finding could completely transform our understanding of the universe. And Dr Samuel Eriksen, senior research associate at the University of Bristol, and first author of the research paper, explains how the finding has been received in the physics community Support the Guardian: theguardian.com/sciencepod Continue reading...",
         "publishedAt": "2026-09-10T04:00:16.000Z",
         "category": "science",
         "zone": "ca"
@@ -2303,24 +2303,57 @@
   "sports_us": {
     "articles": [
       {
-        "title": "Spurs should be awarded 2016-17 title - Pochettino",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c783ndd7ge2o?at_medium=RSS&at_campaign=rss",
+        "title": "Arsenal close to finalising new contract for Arteta",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mauricio Pochettino believes Chelsea should be stripped of the Premier League title for 2016-17, when his Tottenham team finished runners-up.",
-        "publishedAt": "2026-09-10T08:08:21.000Z",
+        "description": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
+        "publishedAt": "2026-09-10T14:16:06.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Top four seeds in historic semi-final line-up",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cx2z3zl90eno?at_medium=RSS&at_campaign=rss",
+        "title": "England's push for two-day win halted by weather",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c980dgvp2qeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "For the first time since 1975, the top four seeds in the women's US Open singles draw have reached the semi-finals.",
-        "publishedAt": "2026-09-10T10:54:23.000Z",
+        "description": "England's charge towards a two-day victory in the final Test against Pakistan is only halted by rain at Edgbaston.",
+        "publishedAt": "2026-09-10T16:44:58.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Hull & Woad to face Korda & Corpuz in Solheim opener",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cx2zrp0ye5yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Charley Hull and Lottie Woad will face the formidable pairing of Nelly Korda and Allisen Corpuz in Friday's opening match of the Solheim Cup in the Netherlands.",
+        "publishedAt": "2026-09-10T15:41:14.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Can you make a case for Chelsea being stripped of 2016-17 title?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
+        "publishedAt": "2026-09-10T13:55:43.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Team GB return after pregnancy 'hard to put into words' - Kinsella",
+        "url": "https://www.bbc.co.uk/sport/gymnastics/articles/cly59z2yjpjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A year after giving birth, Alice Kinsella takes the latest step on her groundbreaking return to gymnastics at an international meeting for Team GB.",
+        "publishedAt": "2026-09-10T14:33:10.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2331,62 +2364,29 @@
           "name": "RSS Feed"
         },
         "description": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
-        "publishedAt": "2026-09-10T11:06:31.000Z",
+        "publishedAt": "2026-09-10T15:22:16.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "France wants to transform Fifa after withdrawing Infantino support",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
+        "title": "Roglic closes gap on Mas in Vuelta time trial",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/cy5z0r9z4g9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "French football leaders have proposed to seek ways to transform how Fifa is run after the country's football body became the latest to withdraw support for Gianni Infantino's presidency.",
-        "publishedAt": "2026-09-10T13:04:31.000Z",
+        "description": "Primoz Roglic moves into second in the general classification and closes the gap on leader Enric Mas with a fourth-place finish in the time trial on stage 18 at the Vuelta a Espana.",
+        "publishedAt": "2026-09-10T16:46:04.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "How history points to another Solheim Cup thriller",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/c87vy0qlw09o?at_medium=RSS&at_campaign=rss",
+        "title": "Switch Six Nations fixture to USA to grow game – World Rugby",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5ymg0pm1yno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "With no more than one point separating the teams at the past three Solheim Cups played in Europe there is every reason to expect that this week's contest will be just as exciting, writes Iain Carter.",
-        "publishedAt": "2026-09-10T08:42:49.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Smith racks up England's fourth half-century of the innings",
-        "url": "https://www.bbc.co.uk/sport/cricket/videos/c1e5dzw8ljjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day two of the third Test at Edgbaston.",
-        "publishedAt": "2026-09-10T13:08:45.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Aitchison to steer England in WXV opener",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c33kr4z8rkeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Holly Aitchison will win her 50th England cap when she starts at fly-half in the Red Roses WXV opener against Australia on Saturday in Manchester.",
-        "publishedAt": "2026-09-10T12:30:08.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Benn does not deserve world title shot - Garcia",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cevwzgj9vkyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Ryan Garcia says Conor Benn is nothing more than an \"average fighter\" and does not deserve a shot at his WBC welterweight title.",
-        "publishedAt": "2026-09-10T09:56:33.000Z",
+        "description": "World Rugby would help any nation which wants to switch a Six Nations match to the United States as it continues its drive to spread the game stateside.",
+        "publishedAt": "2026-09-10T14:58:33.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,24 +2395,57 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "Spurs should be awarded 2016-17 title - Pochettino",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c783ndd7ge2o?at_medium=RSS&at_campaign=rss",
+        "title": "Arsenal close to finalising new contract for Arteta",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mauricio Pochettino believes Chelsea should be stripped of the Premier League title for 2016-17, when his Tottenham team finished runners-up.",
-        "publishedAt": "2026-09-10T08:08:21.000Z",
+        "description": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
+        "publishedAt": "2026-09-10T14:16:06.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Top four seeds in historic semi-final line-up",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cx2z3zl90eno?at_medium=RSS&at_campaign=rss",
+        "title": "England's push for two-day win halted by weather",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c980dgvp2qeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "For the first time since 1975, the top four seeds in the women's US Open singles draw have reached the semi-finals.",
-        "publishedAt": "2026-09-10T10:54:23.000Z",
+        "description": "England's charge towards a two-day victory in the final Test against Pakistan is only halted by rain at Edgbaston.",
+        "publishedAt": "2026-09-10T16:44:58.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Hull & Woad to face Korda & Corpuz in Solheim opener",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cx2zrp0ye5yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Charley Hull and Lottie Woad will face the formidable pairing of Nelly Korda and Allisen Corpuz in Friday's opening match of the Solheim Cup in the Netherlands.",
+        "publishedAt": "2026-09-10T15:41:14.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Can you make a case for Chelsea being stripped of 2016-17 title?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
+        "publishedAt": "2026-09-10T13:55:43.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Team GB return after pregnancy 'hard to put into words' - Kinsella",
+        "url": "https://www.bbc.co.uk/sport/gymnastics/articles/cly59z2yjpjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A year after giving birth, Alice Kinsella takes the latest step on her groundbreaking return to gymnastics at an international meeting for Team GB.",
+        "publishedAt": "2026-09-10T14:33:10.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2423,62 +2456,29 @@
           "name": "RSS Feed"
         },
         "description": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
-        "publishedAt": "2026-09-10T11:06:31.000Z",
+        "publishedAt": "2026-09-10T15:22:16.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "France wants to transform Fifa after withdrawing Infantino support",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
+        "title": "Roglic closes gap on Mas in Vuelta time trial",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/cy5z0r9z4g9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "French football leaders have proposed to seek ways to transform how Fifa is run after the country's football body became the latest to withdraw support for Gianni Infantino's presidency.",
-        "publishedAt": "2026-09-10T13:04:31.000Z",
+        "description": "Primoz Roglic moves into second in the general classification and closes the gap on leader Enric Mas with a fourth-place finish in the time trial on stage 18 at the Vuelta a Espana.",
+        "publishedAt": "2026-09-10T16:46:04.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "How history points to another Solheim Cup thriller",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/c87vy0qlw09o?at_medium=RSS&at_campaign=rss",
+        "title": "Switch Six Nations fixture to USA to grow game – World Rugby",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5ymg0pm1yno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "With no more than one point separating the teams at the past three Solheim Cups played in Europe there is every reason to expect that this week's contest will be just as exciting, writes Iain Carter.",
-        "publishedAt": "2026-09-10T08:42:49.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Smith racks up England's fourth half-century of the innings",
-        "url": "https://www.bbc.co.uk/sport/cricket/videos/c1e5dzw8ljjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day two of the third Test at Edgbaston.",
-        "publishedAt": "2026-09-10T13:08:45.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Aitchison to steer England in WXV opener",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c33kr4z8rkeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Holly Aitchison will win her 50th England cap when she starts at fly-half in the Red Roses WXV opener against Australia on Saturday in Manchester.",
-        "publishedAt": "2026-09-10T12:30:08.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Benn does not deserve world title shot - Garcia",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cevwzgj9vkyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Ryan Garcia says Conor Benn is nothing more than an \"average fighter\" and does not deserve a shot at his WBC welterweight title.",
-        "publishedAt": "2026-09-10T09:56:33.000Z",
+        "description": "World Rugby would help any nation which wants to switch a Six Nations match to the United States as it continues its drive to spread the game stateside.",
+        "publishedAt": "2026-09-10T14:58:33.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,24 +2487,57 @@
   "sports_in": {
     "articles": [
       {
-        "title": "Spurs should be awarded 2016-17 title - Pochettino",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c783ndd7ge2o?at_medium=RSS&at_campaign=rss",
+        "title": "Arsenal close to finalising new contract for Arteta",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mauricio Pochettino believes Chelsea should be stripped of the Premier League title for 2016-17, when his Tottenham team finished runners-up.",
-        "publishedAt": "2026-09-10T08:08:21.000Z",
+        "description": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
+        "publishedAt": "2026-09-10T14:16:06.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Top four seeds in historic semi-final line-up",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cx2z3zl90eno?at_medium=RSS&at_campaign=rss",
+        "title": "England's push for two-day win halted by weather",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c980dgvp2qeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "For the first time since 1975, the top four seeds in the women's US Open singles draw have reached the semi-finals.",
-        "publishedAt": "2026-09-10T10:54:23.000Z",
+        "description": "England's charge towards a two-day victory in the final Test against Pakistan is only halted by rain at Edgbaston.",
+        "publishedAt": "2026-09-10T16:44:58.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Hull & Woad to face Korda & Corpuz in Solheim opener",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cx2zrp0ye5yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Charley Hull and Lottie Woad will face the formidable pairing of Nelly Korda and Allisen Corpuz in Friday's opening match of the Solheim Cup in the Netherlands.",
+        "publishedAt": "2026-09-10T15:41:14.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Can you make a case for Chelsea being stripped of 2016-17 title?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
+        "publishedAt": "2026-09-10T13:55:43.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Team GB return after pregnancy 'hard to put into words' - Kinsella",
+        "url": "https://www.bbc.co.uk/sport/gymnastics/articles/cly59z2yjpjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A year after giving birth, Alice Kinsella takes the latest step on her groundbreaking return to gymnastics at an international meeting for Team GB.",
+        "publishedAt": "2026-09-10T14:33:10.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2515,62 +2548,29 @@
           "name": "RSS Feed"
         },
         "description": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
-        "publishedAt": "2026-09-10T11:06:31.000Z",
+        "publishedAt": "2026-09-10T15:22:16.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "France wants to transform Fifa after withdrawing Infantino support",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
+        "title": "Roglic closes gap on Mas in Vuelta time trial",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/cy5z0r9z4g9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "French football leaders have proposed to seek ways to transform how Fifa is run after the country's football body became the latest to withdraw support for Gianni Infantino's presidency.",
-        "publishedAt": "2026-09-10T13:04:31.000Z",
+        "description": "Primoz Roglic moves into second in the general classification and closes the gap on leader Enric Mas with a fourth-place finish in the time trial on stage 18 at the Vuelta a Espana.",
+        "publishedAt": "2026-09-10T16:46:04.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "How history points to another Solheim Cup thriller",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/c87vy0qlw09o?at_medium=RSS&at_campaign=rss",
+        "title": "Switch Six Nations fixture to USA to grow game – World Rugby",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5ymg0pm1yno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "With no more than one point separating the teams at the past three Solheim Cups played in Europe there is every reason to expect that this week's contest will be just as exciting, writes Iain Carter.",
-        "publishedAt": "2026-09-10T08:42:49.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Smith racks up England's fourth half-century of the innings",
-        "url": "https://www.bbc.co.uk/sport/cricket/videos/c1e5dzw8ljjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day two of the third Test at Edgbaston.",
-        "publishedAt": "2026-09-10T13:08:45.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Aitchison to steer England in WXV opener",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c33kr4z8rkeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Holly Aitchison will win her 50th England cap when she starts at fly-half in the Red Roses WXV opener against Australia on Saturday in Manchester.",
-        "publishedAt": "2026-09-10T12:30:08.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Benn does not deserve world title shot - Garcia",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cevwzgj9vkyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Ryan Garcia says Conor Benn is nothing more than an \"average fighter\" and does not deserve a shot at his WBC welterweight title.",
-        "publishedAt": "2026-09-10T09:56:33.000Z",
+        "description": "World Rugby would help any nation which wants to switch a Six Nations match to the United States as it continues its drive to spread the game stateside.",
+        "publishedAt": "2026-09-10T14:58:33.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,24 +2579,57 @@
   "sports_au": {
     "articles": [
       {
-        "title": "Spurs should be awarded 2016-17 title - Pochettino",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c783ndd7ge2o?at_medium=RSS&at_campaign=rss",
+        "title": "Arsenal close to finalising new contract for Arteta",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mauricio Pochettino believes Chelsea should be stripped of the Premier League title for 2016-17, when his Tottenham team finished runners-up.",
-        "publishedAt": "2026-09-10T08:08:21.000Z",
+        "description": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
+        "publishedAt": "2026-09-10T14:16:06.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Top four seeds in historic semi-final line-up",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cx2z3zl90eno?at_medium=RSS&at_campaign=rss",
+        "title": "England's push for two-day win halted by weather",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c980dgvp2qeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "For the first time since 1975, the top four seeds in the women's US Open singles draw have reached the semi-finals.",
-        "publishedAt": "2026-09-10T10:54:23.000Z",
+        "description": "England's charge towards a two-day victory in the final Test against Pakistan is only halted by rain at Edgbaston.",
+        "publishedAt": "2026-09-10T16:44:58.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Hull & Woad to face Korda & Corpuz in Solheim opener",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cx2zrp0ye5yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Charley Hull and Lottie Woad will face the formidable pairing of Nelly Korda and Allisen Corpuz in Friday's opening match of the Solheim Cup in the Netherlands.",
+        "publishedAt": "2026-09-10T15:41:14.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Can you make a case for Chelsea being stripped of 2016-17 title?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
+        "publishedAt": "2026-09-10T13:55:43.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Team GB return after pregnancy 'hard to put into words' - Kinsella",
+        "url": "https://www.bbc.co.uk/sport/gymnastics/articles/cly59z2yjpjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A year after giving birth, Alice Kinsella takes the latest step on her groundbreaking return to gymnastics at an international meeting for Team GB.",
+        "publishedAt": "2026-09-10T14:33:10.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2607,62 +2640,29 @@
           "name": "RSS Feed"
         },
         "description": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
-        "publishedAt": "2026-09-10T11:06:31.000Z",
+        "publishedAt": "2026-09-10T15:22:16.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "France wants to transform Fifa after withdrawing Infantino support",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
+        "title": "Roglic closes gap on Mas in Vuelta time trial",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/cy5z0r9z4g9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "French football leaders have proposed to seek ways to transform how Fifa is run after the country's football body became the latest to withdraw support for Gianni Infantino's presidency.",
-        "publishedAt": "2026-09-10T13:04:31.000Z",
+        "description": "Primoz Roglic moves into second in the general classification and closes the gap on leader Enric Mas with a fourth-place finish in the time trial on stage 18 at the Vuelta a Espana.",
+        "publishedAt": "2026-09-10T16:46:04.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "How history points to another Solheim Cup thriller",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/c87vy0qlw09o?at_medium=RSS&at_campaign=rss",
+        "title": "Switch Six Nations fixture to USA to grow game – World Rugby",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5ymg0pm1yno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "With no more than one point separating the teams at the past three Solheim Cups played in Europe there is every reason to expect that this week's contest will be just as exciting, writes Iain Carter.",
-        "publishedAt": "2026-09-10T08:42:49.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Smith racks up England's fourth half-century of the innings",
-        "url": "https://www.bbc.co.uk/sport/cricket/videos/c1e5dzw8ljjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day two of the third Test at Edgbaston.",
-        "publishedAt": "2026-09-10T13:08:45.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Aitchison to steer England in WXV opener",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c33kr4z8rkeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Holly Aitchison will win her 50th England cap when she starts at fly-half in the Red Roses WXV opener against Australia on Saturday in Manchester.",
-        "publishedAt": "2026-09-10T12:30:08.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Benn does not deserve world title shot - Garcia",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cevwzgj9vkyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Ryan Garcia says Conor Benn is nothing more than an \"average fighter\" and does not deserve a shot at his WBC welterweight title.",
-        "publishedAt": "2026-09-10T09:56:33.000Z",
+        "description": "World Rugby would help any nation which wants to switch a Six Nations match to the United States as it continues its drive to spread the game stateside.",
+        "publishedAt": "2026-09-10T14:58:33.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,24 +2671,57 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "Spurs should be awarded 2016-17 title - Pochettino",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c783ndd7ge2o?at_medium=RSS&at_campaign=rss",
+        "title": "Arsenal close to finalising new contract for Arteta",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mauricio Pochettino believes Chelsea should be stripped of the Premier League title for 2016-17, when his Tottenham team finished runners-up.",
-        "publishedAt": "2026-09-10T08:08:21.000Z",
+        "description": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
+        "publishedAt": "2026-09-10T14:16:06.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Top four seeds in historic semi-final line-up",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cx2z3zl90eno?at_medium=RSS&at_campaign=rss",
+        "title": "England's push for two-day win halted by weather",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c980dgvp2qeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "For the first time since 1975, the top four seeds in the women's US Open singles draw have reached the semi-finals.",
-        "publishedAt": "2026-09-10T10:54:23.000Z",
+        "description": "England's charge towards a two-day victory in the final Test against Pakistan is only halted by rain at Edgbaston.",
+        "publishedAt": "2026-09-10T16:44:58.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Hull & Woad to face Korda & Corpuz in Solheim opener",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cx2zrp0ye5yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Charley Hull and Lottie Woad will face the formidable pairing of Nelly Korda and Allisen Corpuz in Friday's opening match of the Solheim Cup in the Netherlands.",
+        "publishedAt": "2026-09-10T15:41:14.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Can you make a case for Chelsea being stripped of 2016-17 title?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
+        "publishedAt": "2026-09-10T13:55:43.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Team GB return after pregnancy 'hard to put into words' - Kinsella",
+        "url": "https://www.bbc.co.uk/sport/gymnastics/articles/cly59z2yjpjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A year after giving birth, Alice Kinsella takes the latest step on her groundbreaking return to gymnastics at an international meeting for Team GB.",
+        "publishedAt": "2026-09-10T14:33:10.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2699,62 +2732,29 @@
           "name": "RSS Feed"
         },
         "description": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
-        "publishedAt": "2026-09-10T11:06:31.000Z",
+        "publishedAt": "2026-09-10T15:22:16.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "France wants to transform Fifa after withdrawing Infantino support",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
+        "title": "Roglic closes gap on Mas in Vuelta time trial",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/cy5z0r9z4g9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "French football leaders have proposed to seek ways to transform how Fifa is run after the country's football body became the latest to withdraw support for Gianni Infantino's presidency.",
-        "publishedAt": "2026-09-10T13:04:31.000Z",
+        "description": "Primoz Roglic moves into second in the general classification and closes the gap on leader Enric Mas with a fourth-place finish in the time trial on stage 18 at the Vuelta a Espana.",
+        "publishedAt": "2026-09-10T16:46:04.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "How history points to another Solheim Cup thriller",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/c87vy0qlw09o?at_medium=RSS&at_campaign=rss",
+        "title": "Switch Six Nations fixture to USA to grow game – World Rugby",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5ymg0pm1yno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "With no more than one point separating the teams at the past three Solheim Cups played in Europe there is every reason to expect that this week's contest will be just as exciting, writes Iain Carter.",
-        "publishedAt": "2026-09-10T08:42:49.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Smith racks up England's fourth half-century of the innings",
-        "url": "https://www.bbc.co.uk/sport/cricket/videos/c1e5dzw8ljjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day two of the third Test at Edgbaston.",
-        "publishedAt": "2026-09-10T13:08:45.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Aitchison to steer England in WXV opener",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c33kr4z8rkeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Holly Aitchison will win her 50th England cap when she starts at fly-half in the Red Roses WXV opener against Australia on Saturday in Manchester.",
-        "publishedAt": "2026-09-10T12:30:08.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Benn does not deserve world title shot - Garcia",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cevwzgj9vkyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Ryan Garcia says Conor Benn is nothing more than an \"average fighter\" and does not deserve a shot at his WBC welterweight title.",
-        "publishedAt": "2026-09-10T09:56:33.000Z",
+        "description": "World Rugby would help any nation which wants to switch a Six Nations match to the United States as it continues its drive to spread the game stateside.",
+        "publishedAt": "2026-09-10T14:58:33.000Z",
         "category": "sports",
         "zone": "ca"
       }
