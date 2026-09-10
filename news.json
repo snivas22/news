@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-09-10T08:43:52.766Z",
+  "generatedAt": "2026-09-10T13:22:11.140Z",
   "general_us": {
     "articles": [
+      {
+        "title": "England's mayors to get power to impose tourist tax",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
+        "publishedAt": "2026-09-10T12:33:48.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
         "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
@@ -9,7 +20,7 @@
           "name": "RSS Feed"
         },
         "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-        "publishedAt": "2026-09-10T06:56:38.000Z",
+        "publishedAt": "2026-09-10T10:07:19.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -25,29 +36,7 @@
         "zone": "us"
       },
       {
-        "title": "England's mayors to be given power to introduce tourist tax",
-        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The government is expected to detail how local leaders will be able to impose levies on overnight stays.",
-        "publishedAt": "2026-09-10T07:17:03.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "RNLI reviews security after volunteers targeted online",
-        "url": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Volunteers were targeted online after it assisted in the rescue of people crossing the Channel on Sunday.",
-        "publishedAt": "2026-09-10T08:08:56.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Can humans stay in control of AI?",
+        "title": "Why some experts increasingly fear AI will take over",
         "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -58,35 +47,46 @@
         "zone": "us"
       },
       {
+        "title": "Catherine joins William at suicide prevention campaign",
+        "url": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prince's new project aims to use the reach of sport to raise awareness about suicide and to show people the help available in a crisis.",
+        "publishedAt": "2026-09-10T11:23:08.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "RNLI reviews security after volunteers targeted online",
+        "url": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Volunteers were targeted online after it assisted in the rescue of people crossing the Channel on Sunday.",
+        "publishedAt": "2026-09-10T09:07:49.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Badenoch denies housing benefit cuts plan would make people homeless",
+        "url": "https://www.bbc.co.uk/news/articles/cj9xznl0yvzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Conservatives say £4bn could be cut from the housing benefit bill to help fund increased defence spending.",
+        "publishedAt": "2026-09-10T11:43:09.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
         "title": "'My cancer spread while I waited months for surgery': The cost of England's cancer wait times",
         "url": "https://www.bbc.co.uk/news/articles/c93vderdkyvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.",
-        "publishedAt": "2026-09-10T04:52:21.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
-        "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
-        "publishedAt": "2026-09-09T22:17:22.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Apple's new boss starts with big gamble on $2,000 first folding iPhone",
-        "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-        "publishedAt": "2026-09-09T20:00:33.000Z",
+        "publishedAt": "2026-09-10T09:31:16.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,13 +95,24 @@
   "general_gb": {
     "articles": [
       {
+        "title": "England's mayors to get power to impose tourist tax",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
+        "publishedAt": "2026-09-10T12:33:48.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
         "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-        "publishedAt": "2026-09-10T06:56:38.000Z",
+        "publishedAt": "2026-09-10T10:07:19.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -117,29 +128,7 @@
         "zone": "gb"
       },
       {
-        "title": "England's mayors to be given power to introduce tourist tax",
-        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The government is expected to detail how local leaders will be able to impose levies on overnight stays.",
-        "publishedAt": "2026-09-10T07:17:03.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "RNLI reviews security after volunteers targeted online",
-        "url": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Volunteers were targeted online after it assisted in the rescue of people crossing the Channel on Sunday.",
-        "publishedAt": "2026-09-10T08:08:56.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Can humans stay in control of AI?",
+        "title": "Why some experts increasingly fear AI will take over",
         "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -150,35 +139,46 @@
         "zone": "gb"
       },
       {
+        "title": "Catherine joins William at suicide prevention campaign",
+        "url": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prince's new project aims to use the reach of sport to raise awareness about suicide and to show people the help available in a crisis.",
+        "publishedAt": "2026-09-10T11:23:08.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "RNLI reviews security after volunteers targeted online",
+        "url": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Volunteers were targeted online after it assisted in the rescue of people crossing the Channel on Sunday.",
+        "publishedAt": "2026-09-10T09:07:49.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Badenoch denies housing benefit cuts plan would make people homeless",
+        "url": "https://www.bbc.co.uk/news/articles/cj9xznl0yvzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Conservatives say £4bn could be cut from the housing benefit bill to help fund increased defence spending.",
+        "publishedAt": "2026-09-10T11:43:09.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "'My cancer spread while I waited months for surgery': The cost of England's cancer wait times",
         "url": "https://www.bbc.co.uk/news/articles/c93vderdkyvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.",
-        "publishedAt": "2026-09-10T04:52:21.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
-        "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
-        "publishedAt": "2026-09-09T22:17:22.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Apple's new boss starts with big gamble on $2,000 first folding iPhone",
-        "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-        "publishedAt": "2026-09-09T20:00:33.000Z",
+        "publishedAt": "2026-09-10T09:31:16.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,13 +187,24 @@
   "general_in": {
     "articles": [
       {
+        "title": "England's mayors to get power to impose tourist tax",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
+        "publishedAt": "2026-09-10T12:33:48.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
         "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-        "publishedAt": "2026-09-10T06:56:38.000Z",
+        "publishedAt": "2026-09-10T10:07:19.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -209,29 +220,7 @@
         "zone": "in"
       },
       {
-        "title": "England's mayors to be given power to introduce tourist tax",
-        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The government is expected to detail how local leaders will be able to impose levies on overnight stays.",
-        "publishedAt": "2026-09-10T07:17:03.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "RNLI reviews security after volunteers targeted online",
-        "url": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Volunteers were targeted online after it assisted in the rescue of people crossing the Channel on Sunday.",
-        "publishedAt": "2026-09-10T08:08:56.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Can humans stay in control of AI?",
+        "title": "Why some experts increasingly fear AI will take over",
         "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -242,35 +231,46 @@
         "zone": "in"
       },
       {
+        "title": "Catherine joins William at suicide prevention campaign",
+        "url": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prince's new project aims to use the reach of sport to raise awareness about suicide and to show people the help available in a crisis.",
+        "publishedAt": "2026-09-10T11:23:08.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "RNLI reviews security after volunteers targeted online",
+        "url": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Volunteers were targeted online after it assisted in the rescue of people crossing the Channel on Sunday.",
+        "publishedAt": "2026-09-10T09:07:49.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Badenoch denies housing benefit cuts plan would make people homeless",
+        "url": "https://www.bbc.co.uk/news/articles/cj9xznl0yvzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Conservatives say £4bn could be cut from the housing benefit bill to help fund increased defence spending.",
+        "publishedAt": "2026-09-10T11:43:09.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "'My cancer spread while I waited months for surgery': The cost of England's cancer wait times",
         "url": "https://www.bbc.co.uk/news/articles/c93vderdkyvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.",
-        "publishedAt": "2026-09-10T04:52:21.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
-        "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
-        "publishedAt": "2026-09-09T22:17:22.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Apple's new boss starts with big gamble on $2,000 first folding iPhone",
-        "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-        "publishedAt": "2026-09-09T20:00:33.000Z",
+        "publishedAt": "2026-09-10T09:31:16.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,13 +279,24 @@
   "general_au": {
     "articles": [
       {
+        "title": "England's mayors to get power to impose tourist tax",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
+        "publishedAt": "2026-09-10T12:33:48.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
         "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-        "publishedAt": "2026-09-10T06:56:38.000Z",
+        "publishedAt": "2026-09-10T10:07:19.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -301,29 +312,7 @@
         "zone": "au"
       },
       {
-        "title": "England's mayors to be given power to introduce tourist tax",
-        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The government is expected to detail how local leaders will be able to impose levies on overnight stays.",
-        "publishedAt": "2026-09-10T07:17:03.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "RNLI reviews security after volunteers targeted online",
-        "url": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Volunteers were targeted online after it assisted in the rescue of people crossing the Channel on Sunday.",
-        "publishedAt": "2026-09-10T08:08:56.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Can humans stay in control of AI?",
+        "title": "Why some experts increasingly fear AI will take over",
         "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -334,35 +323,46 @@
         "zone": "au"
       },
       {
+        "title": "Catherine joins William at suicide prevention campaign",
+        "url": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prince's new project aims to use the reach of sport to raise awareness about suicide and to show people the help available in a crisis.",
+        "publishedAt": "2026-09-10T11:23:08.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "RNLI reviews security after volunteers targeted online",
+        "url": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Volunteers were targeted online after it assisted in the rescue of people crossing the Channel on Sunday.",
+        "publishedAt": "2026-09-10T09:07:49.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Badenoch denies housing benefit cuts plan would make people homeless",
+        "url": "https://www.bbc.co.uk/news/articles/cj9xznl0yvzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Conservatives say £4bn could be cut from the housing benefit bill to help fund increased defence spending.",
+        "publishedAt": "2026-09-10T11:43:09.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "'My cancer spread while I waited months for surgery': The cost of England's cancer wait times",
         "url": "https://www.bbc.co.uk/news/articles/c93vderdkyvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.",
-        "publishedAt": "2026-09-10T04:52:21.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
-        "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
-        "publishedAt": "2026-09-09T22:17:22.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Apple's new boss starts with big gamble on $2,000 first folding iPhone",
-        "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-        "publishedAt": "2026-09-09T20:00:33.000Z",
+        "publishedAt": "2026-09-10T09:31:16.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,13 +371,24 @@
   "general_ca": {
     "articles": [
       {
+        "title": "England's mayors to get power to impose tourist tax",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
+        "publishedAt": "2026-09-10T12:33:48.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
         "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-        "publishedAt": "2026-09-10T06:56:38.000Z",
+        "publishedAt": "2026-09-10T10:07:19.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -393,29 +404,7 @@
         "zone": "ca"
       },
       {
-        "title": "England's mayors to be given power to introduce tourist tax",
-        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The government is expected to detail how local leaders will be able to impose levies on overnight stays.",
-        "publishedAt": "2026-09-10T07:17:03.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "RNLI reviews security after volunteers targeted online",
-        "url": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Volunteers were targeted online after it assisted in the rescue of people crossing the Channel on Sunday.",
-        "publishedAt": "2026-09-10T08:08:56.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Can humans stay in control of AI?",
+        "title": "Why some experts increasingly fear AI will take over",
         "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -426,35 +415,46 @@
         "zone": "ca"
       },
       {
+        "title": "Catherine joins William at suicide prevention campaign",
+        "url": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prince's new project aims to use the reach of sport to raise awareness about suicide and to show people the help available in a crisis.",
+        "publishedAt": "2026-09-10T11:23:08.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "RNLI reviews security after volunteers targeted online",
+        "url": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Volunteers were targeted online after it assisted in the rescue of people crossing the Channel on Sunday.",
+        "publishedAt": "2026-09-10T09:07:49.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Badenoch denies housing benefit cuts plan would make people homeless",
+        "url": "https://www.bbc.co.uk/news/articles/cj9xznl0yvzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Conservatives say £4bn could be cut from the housing benefit bill to help fund increased defence spending.",
+        "publishedAt": "2026-09-10T11:43:09.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "'My cancer spread while I waited months for surgery': The cost of England's cancer wait times",
         "url": "https://www.bbc.co.uk/news/articles/c93vderdkyvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.",
-        "publishedAt": "2026-09-10T04:52:21.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
-        "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
-        "publishedAt": "2026-09-09T22:17:22.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Apple's new boss starts with big gamble on $2,000 first folding iPhone",
-        "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-        "publishedAt": "2026-09-09T20:00:33.000Z",
+        "publishedAt": "2026-09-10T09:31:16.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -469,7 +469,7 @@
           "name": "RSS Feed"
         },
         "description": "The retailer launches the service four years after making its first foray into internet shopping.",
-        "publishedAt": "2026-09-10T08:37:59.000Z",
+        "publishedAt": "2026-09-10T10:02:26.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -496,29 +496,29 @@
         "zone": "us"
       },
       {
-        "title": "Apple's new boss starts with big gamble on $2,000 first folding iPhone",
+        "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
         "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-        "publishedAt": "2026-09-09T20:00:33.000Z",
+        "publishedAt": "2026-09-10T09:32:34.000Z",
         "category": "business",
         "zone": "us"
       },
       {
-        "title": "England's mayors to be given power to introduce tourist tax",
+        "title": "England's mayors to get power to impose tourist tax",
         "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The government is expected to detail how local leaders will be able to impose levies on overnight stays.",
-        "publishedAt": "2026-09-10T07:17:03.000Z",
+        "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
+        "publishedAt": "2026-09-10T12:33:48.000Z",
         "category": "business",
         "zone": "us"
       },
       {
-        "title": "Can humans stay in control of AI?",
+        "title": "Why some experts increasingly fear AI will take over",
         "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -529,7 +529,7 @@
         "zone": "us"
       },
       {
-        "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+        "title": "Tax banks to cut energy bills, unions tell Burnham",
         "url": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -561,7 +561,7 @@
           "name": "RSS Feed"
         },
         "description": "The retailer launches the service four years after making its first foray into internet shopping.",
-        "publishedAt": "2026-09-10T08:37:59.000Z",
+        "publishedAt": "2026-09-10T10:02:26.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -588,29 +588,29 @@
         "zone": "gb"
       },
       {
-        "title": "Apple's new boss starts with big gamble on $2,000 first folding iPhone",
+        "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
         "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-        "publishedAt": "2026-09-09T20:00:33.000Z",
+        "publishedAt": "2026-09-10T09:32:34.000Z",
         "category": "business",
         "zone": "gb"
       },
       {
-        "title": "England's mayors to be given power to introduce tourist tax",
+        "title": "England's mayors to get power to impose tourist tax",
         "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The government is expected to detail how local leaders will be able to impose levies on overnight stays.",
-        "publishedAt": "2026-09-10T07:17:03.000Z",
+        "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
+        "publishedAt": "2026-09-10T12:33:48.000Z",
         "category": "business",
         "zone": "gb"
       },
       {
-        "title": "Can humans stay in control of AI?",
+        "title": "Why some experts increasingly fear AI will take over",
         "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -621,7 +621,7 @@
         "zone": "gb"
       },
       {
-        "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+        "title": "Tax banks to cut energy bills, unions tell Burnham",
         "url": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -653,7 +653,7 @@
           "name": "RSS Feed"
         },
         "description": "The retailer launches the service four years after making its first foray into internet shopping.",
-        "publishedAt": "2026-09-10T08:37:59.000Z",
+        "publishedAt": "2026-09-10T10:02:26.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -680,29 +680,29 @@
         "zone": "in"
       },
       {
-        "title": "Apple's new boss starts with big gamble on $2,000 first folding iPhone",
+        "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
         "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-        "publishedAt": "2026-09-09T20:00:33.000Z",
+        "publishedAt": "2026-09-10T09:32:34.000Z",
         "category": "business",
         "zone": "in"
       },
       {
-        "title": "England's mayors to be given power to introduce tourist tax",
+        "title": "England's mayors to get power to impose tourist tax",
         "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The government is expected to detail how local leaders will be able to impose levies on overnight stays.",
-        "publishedAt": "2026-09-10T07:17:03.000Z",
+        "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
+        "publishedAt": "2026-09-10T12:33:48.000Z",
         "category": "business",
         "zone": "in"
       },
       {
-        "title": "Can humans stay in control of AI?",
+        "title": "Why some experts increasingly fear AI will take over",
         "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -713,7 +713,7 @@
         "zone": "in"
       },
       {
-        "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+        "title": "Tax banks to cut energy bills, unions tell Burnham",
         "url": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -745,7 +745,7 @@
           "name": "RSS Feed"
         },
         "description": "The retailer launches the service four years after making its first foray into internet shopping.",
-        "publishedAt": "2026-09-10T08:37:59.000Z",
+        "publishedAt": "2026-09-10T10:02:26.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -772,29 +772,29 @@
         "zone": "au"
       },
       {
-        "title": "Apple's new boss starts with big gamble on $2,000 first folding iPhone",
+        "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
         "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-        "publishedAt": "2026-09-09T20:00:33.000Z",
+        "publishedAt": "2026-09-10T09:32:34.000Z",
         "category": "business",
         "zone": "au"
       },
       {
-        "title": "England's mayors to be given power to introduce tourist tax",
+        "title": "England's mayors to get power to impose tourist tax",
         "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The government is expected to detail how local leaders will be able to impose levies on overnight stays.",
-        "publishedAt": "2026-09-10T07:17:03.000Z",
+        "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
+        "publishedAt": "2026-09-10T12:33:48.000Z",
         "category": "business",
         "zone": "au"
       },
       {
-        "title": "Can humans stay in control of AI?",
+        "title": "Why some experts increasingly fear AI will take over",
         "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -805,7 +805,7 @@
         "zone": "au"
       },
       {
-        "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+        "title": "Tax banks to cut energy bills, unions tell Burnham",
         "url": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -837,7 +837,7 @@
           "name": "RSS Feed"
         },
         "description": "The retailer launches the service four years after making its first foray into internet shopping.",
-        "publishedAt": "2026-09-10T08:37:59.000Z",
+        "publishedAt": "2026-09-10T10:02:26.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -864,29 +864,29 @@
         "zone": "ca"
       },
       {
-        "title": "Apple's new boss starts with big gamble on $2,000 first folding iPhone",
+        "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
         "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-        "publishedAt": "2026-09-09T20:00:33.000Z",
+        "publishedAt": "2026-09-10T09:32:34.000Z",
         "category": "business",
         "zone": "ca"
       },
       {
-        "title": "England's mayors to be given power to introduce tourist tax",
+        "title": "England's mayors to get power to impose tourist tax",
         "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The government is expected to detail how local leaders will be able to impose levies on overnight stays.",
-        "publishedAt": "2026-09-10T07:17:03.000Z",
+        "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
+        "publishedAt": "2026-09-10T12:33:48.000Z",
         "category": "business",
         "zone": "ca"
       },
       {
-        "title": "Can humans stay in control of AI?",
+        "title": "Why some experts increasingly fear AI will take over",
         "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -897,7 +897,7 @@
         "zone": "ca"
       },
       {
-        "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+        "title": "Tax banks to cut energy bills, unions tell Burnham",
         "url": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -930,6 +930,17 @@
         },
         "description": "Future series will no longer be broadcast on BBC Three as the show moves to a streaming platform owned by its production company.",
         "publishedAt": "2026-09-10T07:49:57.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Harry Styles extends tour, with Kylie as a support act",
+        "url": "https://www.bbc.co.uk/news/articles/ckgwenl0g0wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The pop star will play 25 more dates on his Together, Together tour, including three in the London.",
+        "publishedAt": "2026-09-10T13:19:28.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -974,17 +985,6 @@
         },
         "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
         "publishedAt": "2026-09-09T05:39:16.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Alan Carr holds back tears on special night at National Television Awards",
-        "url": "https://www.bbc.co.uk/news/articles/clyl6866j1jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The comedian and Celebrity Traitors win big - see a full list of winners and nominees from the 26th edition of the awards.",
-        "publishedAt": "2026-09-09T01:28:19.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -1026,6 +1026,17 @@
         "zone": "gb"
       },
       {
+        "title": "Harry Styles extends tour, with Kylie as a support act",
+        "url": "https://www.bbc.co.uk/news/articles/ckgwenl0g0wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The pop star will play 25 more dates on his Together, Together tour, including three in the London.",
+        "publishedAt": "2026-09-10T13:19:28.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
         "title": "Nicolas Cage's driveway collapses as sinkhole opens up at his Malibu home",
         "url": "https://www.bbc.co.uk/news/articles/c790l73ryp3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1066,17 +1077,6 @@
         },
         "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
         "publishedAt": "2026-09-09T05:39:16.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Alan Carr holds back tears on special night at National Television Awards",
-        "url": "https://www.bbc.co.uk/news/articles/clyl6866j1jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The comedian and Celebrity Traitors win big - see a full list of winners and nominees from the 26th edition of the awards.",
-        "publishedAt": "2026-09-09T01:28:19.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1118,6 +1118,17 @@
         "zone": "in"
       },
       {
+        "title": "Harry Styles extends tour, with Kylie as a support act",
+        "url": "https://www.bbc.co.uk/news/articles/ckgwenl0g0wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The pop star will play 25 more dates on his Together, Together tour, including three in the London.",
+        "publishedAt": "2026-09-10T13:19:28.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
         "title": "Nicolas Cage's driveway collapses as sinkhole opens up at his Malibu home",
         "url": "https://www.bbc.co.uk/news/articles/c790l73ryp3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1158,17 +1169,6 @@
         },
         "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
         "publishedAt": "2026-09-09T05:39:16.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Alan Carr holds back tears on special night at National Television Awards",
-        "url": "https://www.bbc.co.uk/news/articles/clyl6866j1jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The comedian and Celebrity Traitors win big - see a full list of winners and nominees from the 26th edition of the awards.",
-        "publishedAt": "2026-09-09T01:28:19.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1210,6 +1210,17 @@
         "zone": "au"
       },
       {
+        "title": "Harry Styles extends tour, with Kylie as a support act",
+        "url": "https://www.bbc.co.uk/news/articles/ckgwenl0g0wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The pop star will play 25 more dates on his Together, Together tour, including three in the London.",
+        "publishedAt": "2026-09-10T13:19:28.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
         "title": "Nicolas Cage's driveway collapses as sinkhole opens up at his Malibu home",
         "url": "https://www.bbc.co.uk/news/articles/c790l73ryp3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1250,17 +1261,6 @@
         },
         "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
         "publishedAt": "2026-09-09T05:39:16.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Alan Carr holds back tears on special night at National Television Awards",
-        "url": "https://www.bbc.co.uk/news/articles/clyl6866j1jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The comedian and Celebrity Traitors win big - see a full list of winners and nominees from the 26th edition of the awards.",
-        "publishedAt": "2026-09-09T01:28:19.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1302,6 +1302,17 @@
         "zone": "ca"
       },
       {
+        "title": "Harry Styles extends tour, with Kylie as a support act",
+        "url": "https://www.bbc.co.uk/news/articles/ckgwenl0g0wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The pop star will play 25 more dates on his Together, Together tour, including three in the London.",
+        "publishedAt": "2026-09-10T13:19:28.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
         "title": "Nicolas Cage's driveway collapses as sinkhole opens up at his Malibu home",
         "url": "https://www.bbc.co.uk/news/articles/c790l73ryp3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1346,17 +1357,6 @@
         "zone": "ca"
       },
       {
-        "title": "Alan Carr holds back tears on special night at National Television Awards",
-        "url": "https://www.bbc.co.uk/news/articles/clyl6866j1jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The comedian and Celebrity Traitors win big - see a full list of winners and nominees from the 26th edition of the awards.",
-        "publishedAt": "2026-09-09T01:28:19.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
         "title": "Shane Richie pleads not guilty to drink-driving",
         "url": "https://www.bbc.co.uk/news/articles/c89j012xkvpo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1389,7 +1389,7 @@
           "name": "RSS Feed"
         },
         "description": "Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.",
-        "publishedAt": "2026-09-10T04:52:21.000Z",
+        "publishedAt": "2026-09-10T09:31:16.000Z",
         "category": "health",
         "zone": "us"
       },
@@ -1481,7 +1481,7 @@
           "name": "RSS Feed"
         },
         "description": "Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.",
-        "publishedAt": "2026-09-10T04:52:21.000Z",
+        "publishedAt": "2026-09-10T09:31:16.000Z",
         "category": "health",
         "zone": "gb"
       },
@@ -1573,7 +1573,7 @@
           "name": "RSS Feed"
         },
         "description": "Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.",
-        "publishedAt": "2026-09-10T04:52:21.000Z",
+        "publishedAt": "2026-09-10T09:31:16.000Z",
         "category": "health",
         "zone": "in"
       },
@@ -1665,7 +1665,7 @@
           "name": "RSS Feed"
         },
         "description": "Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.",
-        "publishedAt": "2026-09-10T04:52:21.000Z",
+        "publishedAt": "2026-09-10T09:31:16.000Z",
         "category": "health",
         "zone": "au"
       },
@@ -1757,7 +1757,7 @@
           "name": "RSS Feed"
         },
         "description": "Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.",
-        "publishedAt": "2026-09-10T04:52:21.000Z",
+        "publishedAt": "2026-09-10T09:31:16.000Z",
         "category": "health",
         "zone": "ca"
       },
@@ -2314,79 +2314,79 @@
         "zone": "us"
       },
       {
-        "title": "Arsenal are passing every test - and Odegaard is in form of his life",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss",
+        "title": "Top four seeds in historic semi-final line-up",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cx2z3zl90eno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
-        "publishedAt": "2026-09-09T22:35:51.000Z",
+        "description": "For the first time since 1975, the top four seeds in the women's US Open singles draw have reached the semi-finals.",
+        "publishedAt": "2026-09-10T10:54:23.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "'It started as a joke, a fantasy' - F1 heads to football-obsessed Madrid",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cjw5n195nx8o?at_medium=RSS&at_campaign=rss",
+        "title": "'Get a life' - non-league club condemn man impersonating manager",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0gevpnxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "After F1’s explosion in popularity away from its European heartland the sport is coming home. Why Madrid? Because it is beautiful… and has a very big expo centre on the outskirts.",
-        "publishedAt": "2026-09-10T05:21:13.000Z",
+        "description": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
+        "publishedAt": "2026-09-10T11:06:31.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Liverpool will reward Mac Allister if he lets his football do talking",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crl6zyr1gw5o?at_medium=RSS&at_campaign=rss",
+        "title": "France wants to transform Fifa after withdrawing Infantino support",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "After saying he was \"very sad\" at the lack of a contract offer from Liverpool, Alexis Mac Allister proved his worth against Atletico Madrid.",
-        "publishedAt": "2026-09-09T23:12:27.000Z",
+        "description": "French football leaders have proposed to seek ways to transform how Fifa is run after the country's football body became the latest to withdraw support for Gianni Infantino's presidency.",
+        "publishedAt": "2026-09-10T13:04:31.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Liverpool come from behind to beat Atletico Madrid",
-        "url": "https://www.bbc.co.uk/sport/football/videos/ce874m9ld2mo?at_medium=RSS&at_campaign=rss",
+        "title": "How history points to another Solheim Cup thriller",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c87vy0qlw09o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Alexis Mac Allister scores an emphatic winner as Liverpool began their Champions League campaign with a win over Atletico Madrid at Anfield.",
-        "publishedAt": "2026-09-09T21:07:13.000Z",
+        "description": "With no more than one point separating the teams at the past three Solheim Cups played in Europe there is every reason to expect that this week's contest will be just as exciting, writes Iain Carter.",
+        "publishedAt": "2026-09-10T08:42:49.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Champions Seahawks beat Patriots in season opener",
-        "url": "https://www.bbc.co.uk/sport/american-football/articles/ceq82n0j4jzo?at_medium=RSS&at_campaign=rss",
+        "title": "Smith racks up England's fourth half-century of the innings",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/c1e5dzw8ljjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Defending champions the Seattle Seahawks come from behind to beat the New England Patriots 13-10 in the opening game of the NFL season.",
-        "publishedAt": "2026-09-10T08:22:31.000Z",
+        "description": "Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day two of the third Test at Edgbaston.",
+        "publishedAt": "2026-09-10T13:08:45.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Gauff saves match points to set up Rybakina semi-final",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c98670d418yo?at_medium=RSS&at_campaign=rss",
+        "title": "Aitchison to steer England in WXV opener",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c33kr4z8rkeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Coco Gauff saves two match points to beat Mirra Andreeva and set up a US Open semi-final against incoming world number one Elena Rybakina.",
-        "publishedAt": "2026-09-09T23:11:46.000Z",
+        "description": "Holly Aitchison will win her 50th England cap when she starts at fly-half in the Red Roses WXV opener against Australia on Saturday in Manchester.",
+        "publishedAt": "2026-09-10T12:30:08.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Why is there an NFL game in Australia?",
-        "url": "https://www.bbc.co.uk/sport/american-football/articles/cz64qdn4z6qo?at_medium=RSS&at_campaign=rss",
+        "title": "Benn does not deserve world title shot - Garcia",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cevwzgj9vkyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The NFL has so far played regular-season games in seven international countries but this week's trip to Australia represents a new frontier for the USA's biggest sports league.",
-        "publishedAt": "2026-09-10T06:36:59.000Z",
+        "description": "Ryan Garcia says Conor Benn is nothing more than an \"average fighter\" and does not deserve a shot at his WBC welterweight title.",
+        "publishedAt": "2026-09-10T09:56:33.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2406,79 +2406,79 @@
         "zone": "gb"
       },
       {
-        "title": "Arsenal are passing every test - and Odegaard is in form of his life",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss",
+        "title": "Top four seeds in historic semi-final line-up",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cx2z3zl90eno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
-        "publishedAt": "2026-09-09T22:35:51.000Z",
+        "description": "For the first time since 1975, the top four seeds in the women's US Open singles draw have reached the semi-finals.",
+        "publishedAt": "2026-09-10T10:54:23.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "'It started as a joke, a fantasy' - F1 heads to football-obsessed Madrid",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cjw5n195nx8o?at_medium=RSS&at_campaign=rss",
+        "title": "'Get a life' - non-league club condemn man impersonating manager",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0gevpnxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "After F1’s explosion in popularity away from its European heartland the sport is coming home. Why Madrid? Because it is beautiful… and has a very big expo centre on the outskirts.",
-        "publishedAt": "2026-09-10T05:21:13.000Z",
+        "description": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
+        "publishedAt": "2026-09-10T11:06:31.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Liverpool will reward Mac Allister if he lets his football do talking",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crl6zyr1gw5o?at_medium=RSS&at_campaign=rss",
+        "title": "France wants to transform Fifa after withdrawing Infantino support",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "After saying he was \"very sad\" at the lack of a contract offer from Liverpool, Alexis Mac Allister proved his worth against Atletico Madrid.",
-        "publishedAt": "2026-09-09T23:12:27.000Z",
+        "description": "French football leaders have proposed to seek ways to transform how Fifa is run after the country's football body became the latest to withdraw support for Gianni Infantino's presidency.",
+        "publishedAt": "2026-09-10T13:04:31.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Liverpool come from behind to beat Atletico Madrid",
-        "url": "https://www.bbc.co.uk/sport/football/videos/ce874m9ld2mo?at_medium=RSS&at_campaign=rss",
+        "title": "How history points to another Solheim Cup thriller",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c87vy0qlw09o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Alexis Mac Allister scores an emphatic winner as Liverpool began their Champions League campaign with a win over Atletico Madrid at Anfield.",
-        "publishedAt": "2026-09-09T21:07:13.000Z",
+        "description": "With no more than one point separating the teams at the past three Solheim Cups played in Europe there is every reason to expect that this week's contest will be just as exciting, writes Iain Carter.",
+        "publishedAt": "2026-09-10T08:42:49.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Champions Seahawks beat Patriots in season opener",
-        "url": "https://www.bbc.co.uk/sport/american-football/articles/ceq82n0j4jzo?at_medium=RSS&at_campaign=rss",
+        "title": "Smith racks up England's fourth half-century of the innings",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/c1e5dzw8ljjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Defending champions the Seattle Seahawks come from behind to beat the New England Patriots 13-10 in the opening game of the NFL season.",
-        "publishedAt": "2026-09-10T08:22:31.000Z",
+        "description": "Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day two of the third Test at Edgbaston.",
+        "publishedAt": "2026-09-10T13:08:45.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Gauff saves match points to set up Rybakina semi-final",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c98670d418yo?at_medium=RSS&at_campaign=rss",
+        "title": "Aitchison to steer England in WXV opener",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c33kr4z8rkeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Coco Gauff saves two match points to beat Mirra Andreeva and set up a US Open semi-final against incoming world number one Elena Rybakina.",
-        "publishedAt": "2026-09-09T23:11:46.000Z",
+        "description": "Holly Aitchison will win her 50th England cap when she starts at fly-half in the Red Roses WXV opener against Australia on Saturday in Manchester.",
+        "publishedAt": "2026-09-10T12:30:08.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Why is there an NFL game in Australia?",
-        "url": "https://www.bbc.co.uk/sport/american-football/articles/cz64qdn4z6qo?at_medium=RSS&at_campaign=rss",
+        "title": "Benn does not deserve world title shot - Garcia",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cevwzgj9vkyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The NFL has so far played regular-season games in seven international countries but this week's trip to Australia represents a new frontier for the USA's biggest sports league.",
-        "publishedAt": "2026-09-10T06:36:59.000Z",
+        "description": "Ryan Garcia says Conor Benn is nothing more than an \"average fighter\" and does not deserve a shot at his WBC welterweight title.",
+        "publishedAt": "2026-09-10T09:56:33.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2498,79 +2498,79 @@
         "zone": "in"
       },
       {
-        "title": "Arsenal are passing every test - and Odegaard is in form of his life",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss",
+        "title": "Top four seeds in historic semi-final line-up",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cx2z3zl90eno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
-        "publishedAt": "2026-09-09T22:35:51.000Z",
+        "description": "For the first time since 1975, the top four seeds in the women's US Open singles draw have reached the semi-finals.",
+        "publishedAt": "2026-09-10T10:54:23.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "'It started as a joke, a fantasy' - F1 heads to football-obsessed Madrid",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cjw5n195nx8o?at_medium=RSS&at_campaign=rss",
+        "title": "'Get a life' - non-league club condemn man impersonating manager",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0gevpnxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "After F1’s explosion in popularity away from its European heartland the sport is coming home. Why Madrid? Because it is beautiful… and has a very big expo centre on the outskirts.",
-        "publishedAt": "2026-09-10T05:21:13.000Z",
+        "description": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
+        "publishedAt": "2026-09-10T11:06:31.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Liverpool will reward Mac Allister if he lets his football do talking",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crl6zyr1gw5o?at_medium=RSS&at_campaign=rss",
+        "title": "France wants to transform Fifa after withdrawing Infantino support",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "After saying he was \"very sad\" at the lack of a contract offer from Liverpool, Alexis Mac Allister proved his worth against Atletico Madrid.",
-        "publishedAt": "2026-09-09T23:12:27.000Z",
+        "description": "French football leaders have proposed to seek ways to transform how Fifa is run after the country's football body became the latest to withdraw support for Gianni Infantino's presidency.",
+        "publishedAt": "2026-09-10T13:04:31.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Liverpool come from behind to beat Atletico Madrid",
-        "url": "https://www.bbc.co.uk/sport/football/videos/ce874m9ld2mo?at_medium=RSS&at_campaign=rss",
+        "title": "How history points to another Solheim Cup thriller",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c87vy0qlw09o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Alexis Mac Allister scores an emphatic winner as Liverpool began their Champions League campaign with a win over Atletico Madrid at Anfield.",
-        "publishedAt": "2026-09-09T21:07:13.000Z",
+        "description": "With no more than one point separating the teams at the past three Solheim Cups played in Europe there is every reason to expect that this week's contest will be just as exciting, writes Iain Carter.",
+        "publishedAt": "2026-09-10T08:42:49.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Champions Seahawks beat Patriots in season opener",
-        "url": "https://www.bbc.co.uk/sport/american-football/articles/ceq82n0j4jzo?at_medium=RSS&at_campaign=rss",
+        "title": "Smith racks up England's fourth half-century of the innings",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/c1e5dzw8ljjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Defending champions the Seattle Seahawks come from behind to beat the New England Patriots 13-10 in the opening game of the NFL season.",
-        "publishedAt": "2026-09-10T08:22:31.000Z",
+        "description": "Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day two of the third Test at Edgbaston.",
+        "publishedAt": "2026-09-10T13:08:45.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Gauff saves match points to set up Rybakina semi-final",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c98670d418yo?at_medium=RSS&at_campaign=rss",
+        "title": "Aitchison to steer England in WXV opener",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c33kr4z8rkeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Coco Gauff saves two match points to beat Mirra Andreeva and set up a US Open semi-final against incoming world number one Elena Rybakina.",
-        "publishedAt": "2026-09-09T23:11:46.000Z",
+        "description": "Holly Aitchison will win her 50th England cap when she starts at fly-half in the Red Roses WXV opener against Australia on Saturday in Manchester.",
+        "publishedAt": "2026-09-10T12:30:08.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Why is there an NFL game in Australia?",
-        "url": "https://www.bbc.co.uk/sport/american-football/articles/cz64qdn4z6qo?at_medium=RSS&at_campaign=rss",
+        "title": "Benn does not deserve world title shot - Garcia",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cevwzgj9vkyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The NFL has so far played regular-season games in seven international countries but this week's trip to Australia represents a new frontier for the USA's biggest sports league.",
-        "publishedAt": "2026-09-10T06:36:59.000Z",
+        "description": "Ryan Garcia says Conor Benn is nothing more than an \"average fighter\" and does not deserve a shot at his WBC welterweight title.",
+        "publishedAt": "2026-09-10T09:56:33.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2590,79 +2590,79 @@
         "zone": "au"
       },
       {
-        "title": "Arsenal are passing every test - and Odegaard is in form of his life",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss",
+        "title": "Top four seeds in historic semi-final line-up",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cx2z3zl90eno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
-        "publishedAt": "2026-09-09T22:35:51.000Z",
+        "description": "For the first time since 1975, the top four seeds in the women's US Open singles draw have reached the semi-finals.",
+        "publishedAt": "2026-09-10T10:54:23.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "'It started as a joke, a fantasy' - F1 heads to football-obsessed Madrid",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cjw5n195nx8o?at_medium=RSS&at_campaign=rss",
+        "title": "'Get a life' - non-league club condemn man impersonating manager",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0gevpnxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "After F1’s explosion in popularity away from its European heartland the sport is coming home. Why Madrid? Because it is beautiful… and has a very big expo centre on the outskirts.",
-        "publishedAt": "2026-09-10T05:21:13.000Z",
+        "description": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
+        "publishedAt": "2026-09-10T11:06:31.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Liverpool will reward Mac Allister if he lets his football do talking",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crl6zyr1gw5o?at_medium=RSS&at_campaign=rss",
+        "title": "France wants to transform Fifa after withdrawing Infantino support",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "After saying he was \"very sad\" at the lack of a contract offer from Liverpool, Alexis Mac Allister proved his worth against Atletico Madrid.",
-        "publishedAt": "2026-09-09T23:12:27.000Z",
+        "description": "French football leaders have proposed to seek ways to transform how Fifa is run after the country's football body became the latest to withdraw support for Gianni Infantino's presidency.",
+        "publishedAt": "2026-09-10T13:04:31.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Liverpool come from behind to beat Atletico Madrid",
-        "url": "https://www.bbc.co.uk/sport/football/videos/ce874m9ld2mo?at_medium=RSS&at_campaign=rss",
+        "title": "How history points to another Solheim Cup thriller",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c87vy0qlw09o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Alexis Mac Allister scores an emphatic winner as Liverpool began their Champions League campaign with a win over Atletico Madrid at Anfield.",
-        "publishedAt": "2026-09-09T21:07:13.000Z",
+        "description": "With no more than one point separating the teams at the past three Solheim Cups played in Europe there is every reason to expect that this week's contest will be just as exciting, writes Iain Carter.",
+        "publishedAt": "2026-09-10T08:42:49.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Champions Seahawks beat Patriots in season opener",
-        "url": "https://www.bbc.co.uk/sport/american-football/articles/ceq82n0j4jzo?at_medium=RSS&at_campaign=rss",
+        "title": "Smith racks up England's fourth half-century of the innings",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/c1e5dzw8ljjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Defending champions the Seattle Seahawks come from behind to beat the New England Patriots 13-10 in the opening game of the NFL season.",
-        "publishedAt": "2026-09-10T08:22:31.000Z",
+        "description": "Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day two of the third Test at Edgbaston.",
+        "publishedAt": "2026-09-10T13:08:45.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Gauff saves match points to set up Rybakina semi-final",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c98670d418yo?at_medium=RSS&at_campaign=rss",
+        "title": "Aitchison to steer England in WXV opener",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c33kr4z8rkeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Coco Gauff saves two match points to beat Mirra Andreeva and set up a US Open semi-final against incoming world number one Elena Rybakina.",
-        "publishedAt": "2026-09-09T23:11:46.000Z",
+        "description": "Holly Aitchison will win her 50th England cap when she starts at fly-half in the Red Roses WXV opener against Australia on Saturday in Manchester.",
+        "publishedAt": "2026-09-10T12:30:08.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Why is there an NFL game in Australia?",
-        "url": "https://www.bbc.co.uk/sport/american-football/articles/cz64qdn4z6qo?at_medium=RSS&at_campaign=rss",
+        "title": "Benn does not deserve world title shot - Garcia",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cevwzgj9vkyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The NFL has so far played regular-season games in seven international countries but this week's trip to Australia represents a new frontier for the USA's biggest sports league.",
-        "publishedAt": "2026-09-10T06:36:59.000Z",
+        "description": "Ryan Garcia says Conor Benn is nothing more than an \"average fighter\" and does not deserve a shot at his WBC welterweight title.",
+        "publishedAt": "2026-09-10T09:56:33.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2682,79 +2682,79 @@
         "zone": "ca"
       },
       {
-        "title": "Arsenal are passing every test - and Odegaard is in form of his life",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss",
+        "title": "Top four seeds in historic semi-final line-up",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cx2z3zl90eno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
-        "publishedAt": "2026-09-09T22:35:51.000Z",
+        "description": "For the first time since 1975, the top four seeds in the women's US Open singles draw have reached the semi-finals.",
+        "publishedAt": "2026-09-10T10:54:23.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "'It started as a joke, a fantasy' - F1 heads to football-obsessed Madrid",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cjw5n195nx8o?at_medium=RSS&at_campaign=rss",
+        "title": "'Get a life' - non-league club condemn man impersonating manager",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0gevpnxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "After F1’s explosion in popularity away from its European heartland the sport is coming home. Why Madrid? Because it is beautiful… and has a very big expo centre on the outskirts.",
-        "publishedAt": "2026-09-10T05:21:13.000Z",
+        "description": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
+        "publishedAt": "2026-09-10T11:06:31.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Liverpool will reward Mac Allister if he lets his football do talking",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crl6zyr1gw5o?at_medium=RSS&at_campaign=rss",
+        "title": "France wants to transform Fifa after withdrawing Infantino support",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "After saying he was \"very sad\" at the lack of a contract offer from Liverpool, Alexis Mac Allister proved his worth against Atletico Madrid.",
-        "publishedAt": "2026-09-09T23:12:27.000Z",
+        "description": "French football leaders have proposed to seek ways to transform how Fifa is run after the country's football body became the latest to withdraw support for Gianni Infantino's presidency.",
+        "publishedAt": "2026-09-10T13:04:31.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Liverpool come from behind to beat Atletico Madrid",
-        "url": "https://www.bbc.co.uk/sport/football/videos/ce874m9ld2mo?at_medium=RSS&at_campaign=rss",
+        "title": "How history points to another Solheim Cup thriller",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c87vy0qlw09o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Alexis Mac Allister scores an emphatic winner as Liverpool began their Champions League campaign with a win over Atletico Madrid at Anfield.",
-        "publishedAt": "2026-09-09T21:07:13.000Z",
+        "description": "With no more than one point separating the teams at the past three Solheim Cups played in Europe there is every reason to expect that this week's contest will be just as exciting, writes Iain Carter.",
+        "publishedAt": "2026-09-10T08:42:49.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Champions Seahawks beat Patriots in season opener",
-        "url": "https://www.bbc.co.uk/sport/american-football/articles/ceq82n0j4jzo?at_medium=RSS&at_campaign=rss",
+        "title": "Smith racks up England's fourth half-century of the innings",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/c1e5dzw8ljjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Defending champions the Seattle Seahawks come from behind to beat the New England Patriots 13-10 in the opening game of the NFL season.",
-        "publishedAt": "2026-09-10T08:22:31.000Z",
+        "description": "Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day two of the third Test at Edgbaston.",
+        "publishedAt": "2026-09-10T13:08:45.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Gauff saves match points to set up Rybakina semi-final",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c98670d418yo?at_medium=RSS&at_campaign=rss",
+        "title": "Aitchison to steer England in WXV opener",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c33kr4z8rkeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Coco Gauff saves two match points to beat Mirra Andreeva and set up a US Open semi-final against incoming world number one Elena Rybakina.",
-        "publishedAt": "2026-09-09T23:11:46.000Z",
+        "description": "Holly Aitchison will win her 50th England cap when she starts at fly-half in the Red Roses WXV opener against Australia on Saturday in Manchester.",
+        "publishedAt": "2026-09-10T12:30:08.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Why is there an NFL game in Australia?",
-        "url": "https://www.bbc.co.uk/sport/american-football/articles/cz64qdn4z6qo?at_medium=RSS&at_campaign=rss",
+        "title": "Benn does not deserve world title shot - Garcia",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cevwzgj9vkyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The NFL has so far played regular-season games in seven international countries but this week's trip to Australia represents a new frontier for the USA's biggest sports league.",
-        "publishedAt": "2026-09-10T06:36:59.000Z",
+        "description": "Ryan Garcia says Conor Benn is nothing more than an \"average fighter\" and does not deserve a shot at his WBC welterweight title.",
+        "publishedAt": "2026-09-10T09:56:33.000Z",
         "category": "sports",
         "zone": "ca"
       }
