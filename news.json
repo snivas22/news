@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-09-09T23:00:46.221Z",
+  "generatedAt": "2026-09-10T03:35:33.119Z",
   "general_us": {
     "articles": [
+      {
+        "title": "England's mayors to be given power to introduce tourist tax",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The government is expected to outline how local leaders will be able to impose levies on overnight stays.",
+        "publishedAt": "2026-09-10T02:48:38.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Iran war will not end until after November US elections, says Trump",
+        "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The president also tells reporters he does not think oil prices will come down until after the crucial November vote.",
+        "publishedAt": "2026-09-09T23:46:06.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "Police launch criminal investigation into Reform UK donations",
         "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
@@ -25,68 +47,46 @@
         "zone": "us"
       },
       {
-        "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-        "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+        "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+        "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
-        "publishedAt": "2026-09-09T21:23:45.000Z",
+        "description": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
+        "publishedAt": "2026-09-09T22:17:22.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
-        "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
+        "title": "AI is becoming harder to control – can humans stay in charge?",
+        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
-        "publishedAt": "2026-09-09T21:21:13.000Z",
+        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+        "publishedAt": "2026-09-09T23:17:33.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "RNLI volunteer targeted online and branded 'traitor' after Portsmouth protests",
-        "url": "https://www.bbc.co.uk/news/articles/cly47p5vk63o?at_medium=RSS&at_campaign=rss",
+        "title": "Prince William, Kane and Shearer in campaign to use sport to prevent suicide",
+        "url": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Lifeboat crew member wrongly identified as having helped small boat migrants speaks to BBC Verify.",
-        "publishedAt": "2026-09-09T17:33:27.000Z",
+        "description": "The prince's new project aims to use the reach of sport to raise awareness about suicide and to show people the help available in a crisis.",
+        "publishedAt": "2026-09-09T23:00:23.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "BBC drops Drag Race UK after eight series",
-        "url": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&at_campaign=rss",
+        "title": "August was joint hottest month on record, says European climate agency",
+        "url": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Future series will no longer be broadcast on BBC Three as the show moves to a streaming platform owned by its production company.",
-        "publishedAt": "2026-09-09T20:16:38.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
-        "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-        "publishedAt": "2026-09-09T20:00:33.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
-        "url": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The foreign secretary disagrees that sanctions on Israeli settlements could put British Jews at greater risk.",
-        "publishedAt": "2026-09-09T20:59:24.000Z",
+        "description": "Climate change and the rising influence of El Niño saw August reach the record for warmest month.",
+        "publishedAt": "2026-09-10T02:05:47.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,6 +95,28 @@
   "general_gb": {
     "articles": [
       {
+        "title": "England's mayors to be given power to introduce tourist tax",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The government is expected to outline how local leaders will be able to impose levies on overnight stays.",
+        "publishedAt": "2026-09-10T02:48:38.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Iran war will not end until after November US elections, says Trump",
+        "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The president also tells reporters he does not think oil prices will come down until after the crucial November vote.",
+        "publishedAt": "2026-09-09T23:46:06.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Police launch criminal investigation into Reform UK donations",
         "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -117,68 +139,46 @@
         "zone": "gb"
       },
       {
-        "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-        "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+        "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+        "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
-        "publishedAt": "2026-09-09T21:23:45.000Z",
+        "description": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
+        "publishedAt": "2026-09-09T22:17:22.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
-        "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
+        "title": "AI is becoming harder to control – can humans stay in charge?",
+        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
-        "publishedAt": "2026-09-09T21:21:13.000Z",
+        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+        "publishedAt": "2026-09-09T23:17:33.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "RNLI volunteer targeted online and branded 'traitor' after Portsmouth protests",
-        "url": "https://www.bbc.co.uk/news/articles/cly47p5vk63o?at_medium=RSS&at_campaign=rss",
+        "title": "Prince William, Kane and Shearer in campaign to use sport to prevent suicide",
+        "url": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Lifeboat crew member wrongly identified as having helped small boat migrants speaks to BBC Verify.",
-        "publishedAt": "2026-09-09T17:33:27.000Z",
+        "description": "The prince's new project aims to use the reach of sport to raise awareness about suicide and to show people the help available in a crisis.",
+        "publishedAt": "2026-09-09T23:00:23.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "BBC drops Drag Race UK after eight series",
-        "url": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&at_campaign=rss",
+        "title": "August was joint hottest month on record, says European climate agency",
+        "url": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Future series will no longer be broadcast on BBC Three as the show moves to a streaming platform owned by its production company.",
-        "publishedAt": "2026-09-09T20:16:38.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
-        "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-        "publishedAt": "2026-09-09T20:00:33.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
-        "url": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The foreign secretary disagrees that sanctions on Israeli settlements could put British Jews at greater risk.",
-        "publishedAt": "2026-09-09T20:59:24.000Z",
+        "description": "Climate change and the rising influence of El Niño saw August reach the record for warmest month.",
+        "publishedAt": "2026-09-10T02:05:47.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,6 +187,28 @@
   "general_in": {
     "articles": [
       {
+        "title": "England's mayors to be given power to introduce tourist tax",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The government is expected to outline how local leaders will be able to impose levies on overnight stays.",
+        "publishedAt": "2026-09-10T02:48:38.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Iran war will not end until after November US elections, says Trump",
+        "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The president also tells reporters he does not think oil prices will come down until after the crucial November vote.",
+        "publishedAt": "2026-09-09T23:46:06.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Police launch criminal investigation into Reform UK donations",
         "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -209,68 +231,46 @@
         "zone": "in"
       },
       {
-        "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-        "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+        "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+        "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
-        "publishedAt": "2026-09-09T21:23:45.000Z",
+        "description": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
+        "publishedAt": "2026-09-09T22:17:22.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
-        "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
+        "title": "AI is becoming harder to control – can humans stay in charge?",
+        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
-        "publishedAt": "2026-09-09T21:21:13.000Z",
+        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+        "publishedAt": "2026-09-09T23:17:33.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "RNLI volunteer targeted online and branded 'traitor' after Portsmouth protests",
-        "url": "https://www.bbc.co.uk/news/articles/cly47p5vk63o?at_medium=RSS&at_campaign=rss",
+        "title": "Prince William, Kane and Shearer in campaign to use sport to prevent suicide",
+        "url": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Lifeboat crew member wrongly identified as having helped small boat migrants speaks to BBC Verify.",
-        "publishedAt": "2026-09-09T17:33:27.000Z",
+        "description": "The prince's new project aims to use the reach of sport to raise awareness about suicide and to show people the help available in a crisis.",
+        "publishedAt": "2026-09-09T23:00:23.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "BBC drops Drag Race UK after eight series",
-        "url": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&at_campaign=rss",
+        "title": "August was joint hottest month on record, says European climate agency",
+        "url": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Future series will no longer be broadcast on BBC Three as the show moves to a streaming platform owned by its production company.",
-        "publishedAt": "2026-09-09T20:16:38.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
-        "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-        "publishedAt": "2026-09-09T20:00:33.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
-        "url": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The foreign secretary disagrees that sanctions on Israeli settlements could put British Jews at greater risk.",
-        "publishedAt": "2026-09-09T20:59:24.000Z",
+        "description": "Climate change and the rising influence of El Niño saw August reach the record for warmest month.",
+        "publishedAt": "2026-09-10T02:05:47.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,6 +279,28 @@
   "general_au": {
     "articles": [
       {
+        "title": "England's mayors to be given power to introduce tourist tax",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The government is expected to outline how local leaders will be able to impose levies on overnight stays.",
+        "publishedAt": "2026-09-10T02:48:38.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Iran war will not end until after November US elections, says Trump",
+        "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The president also tells reporters he does not think oil prices will come down until after the crucial November vote.",
+        "publishedAt": "2026-09-09T23:46:06.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Police launch criminal investigation into Reform UK donations",
         "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -301,68 +323,46 @@
         "zone": "au"
       },
       {
-        "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-        "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+        "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+        "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
-        "publishedAt": "2026-09-09T21:23:45.000Z",
+        "description": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
+        "publishedAt": "2026-09-09T22:17:22.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
-        "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
+        "title": "AI is becoming harder to control – can humans stay in charge?",
+        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
-        "publishedAt": "2026-09-09T21:21:13.000Z",
+        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+        "publishedAt": "2026-09-09T23:17:33.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "RNLI volunteer targeted online and branded 'traitor' after Portsmouth protests",
-        "url": "https://www.bbc.co.uk/news/articles/cly47p5vk63o?at_medium=RSS&at_campaign=rss",
+        "title": "Prince William, Kane and Shearer in campaign to use sport to prevent suicide",
+        "url": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Lifeboat crew member wrongly identified as having helped small boat migrants speaks to BBC Verify.",
-        "publishedAt": "2026-09-09T17:33:27.000Z",
+        "description": "The prince's new project aims to use the reach of sport to raise awareness about suicide and to show people the help available in a crisis.",
+        "publishedAt": "2026-09-09T23:00:23.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "BBC drops Drag Race UK after eight series",
-        "url": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&at_campaign=rss",
+        "title": "August was joint hottest month on record, says European climate agency",
+        "url": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Future series will no longer be broadcast on BBC Three as the show moves to a streaming platform owned by its production company.",
-        "publishedAt": "2026-09-09T20:16:38.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
-        "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-        "publishedAt": "2026-09-09T20:00:33.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
-        "url": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The foreign secretary disagrees that sanctions on Israeli settlements could put British Jews at greater risk.",
-        "publishedAt": "2026-09-09T20:59:24.000Z",
+        "description": "Climate change and the rising influence of El Niño saw August reach the record for warmest month.",
+        "publishedAt": "2026-09-10T02:05:47.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,6 +371,28 @@
   "general_ca": {
     "articles": [
       {
+        "title": "England's mayors to be given power to introduce tourist tax",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The government is expected to outline how local leaders will be able to impose levies on overnight stays.",
+        "publishedAt": "2026-09-10T02:48:38.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Iran war will not end until after November US elections, says Trump",
+        "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The president also tells reporters he does not think oil prices will come down until after the crucial November vote.",
+        "publishedAt": "2026-09-09T23:46:06.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Police launch criminal investigation into Reform UK donations",
         "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -393,68 +415,46 @@
         "zone": "ca"
       },
       {
-        "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-        "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+        "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+        "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
-        "publishedAt": "2026-09-09T21:23:45.000Z",
+        "description": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
+        "publishedAt": "2026-09-09T22:17:22.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
-        "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
+        "title": "AI is becoming harder to control – can humans stay in charge?",
+        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
-        "publishedAt": "2026-09-09T21:21:13.000Z",
+        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+        "publishedAt": "2026-09-09T23:17:33.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "RNLI volunteer targeted online and branded 'traitor' after Portsmouth protests",
-        "url": "https://www.bbc.co.uk/news/articles/cly47p5vk63o?at_medium=RSS&at_campaign=rss",
+        "title": "Prince William, Kane and Shearer in campaign to use sport to prevent suicide",
+        "url": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Lifeboat crew member wrongly identified as having helped small boat migrants speaks to BBC Verify.",
-        "publishedAt": "2026-09-09T17:33:27.000Z",
+        "description": "The prince's new project aims to use the reach of sport to raise awareness about suicide and to show people the help available in a crisis.",
+        "publishedAt": "2026-09-09T23:00:23.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "BBC drops Drag Race UK after eight series",
-        "url": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&at_campaign=rss",
+        "title": "August was joint hottest month on record, says European climate agency",
+        "url": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Future series will no longer be broadcast on BBC Three as the show moves to a streaming platform owned by its production company.",
-        "publishedAt": "2026-09-09T20:16:38.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
-        "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-        "publishedAt": "2026-09-09T20:00:33.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
-        "url": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The foreign secretary disagrees that sanctions on Israeli settlements could put British Jews at greater risk.",
-        "publishedAt": "2026-09-09T20:59:24.000Z",
+        "description": "Climate change and the rising influence of El Niño saw August reach the record for warmest month.",
+        "publishedAt": "2026-09-10T02:05:47.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -463,6 +463,17 @@
   "business_us": {
     "articles": [
       {
+        "title": "The one thing you need to do to succeed - according to top bosses",
+        "url": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
+        "publishedAt": "2026-09-09T23:02:20.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "Air traffic failure was avoidable, says transport secretary",
         "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -485,6 +496,17 @@
         "zone": "us"
       },
       {
+        "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
+        "publishedAt": "2026-09-10T00:06:33.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "What are my rights if my flight is cancelled or delayed?",
         "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -492,6 +514,17 @@
         },
         "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
         "publishedAt": "2026-09-09T08:04:14.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "AI is becoming harder to control – can humans stay in charge?",
+        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+        "publishedAt": "2026-09-09T23:17:33.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -514,39 +547,6 @@
         },
         "description": "A litre of unleaded now costs 167.17p which is the biggest weekly increase since April, data shows.",
         "publishedAt": "2026-09-09T12:20:40.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Should promotion depend on how workers use AI?",
-        "url": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "More companies are tying career progression to AI use: is that fair?",
-        "publishedAt": "2026-09-08T23:05:23.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-        "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-        "publishedAt": "2026-09-09T15:34:09.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "I'm 27 and I've already written my will - here's why",
-        "url": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
-        "publishedAt": "2026-09-08T23:04:17.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,6 +555,17 @@
   "business_gb": {
     "articles": [
       {
+        "title": "The one thing you need to do to succeed - according to top bosses",
+        "url": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
+        "publishedAt": "2026-09-09T23:02:20.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "Air traffic failure was avoidable, says transport secretary",
         "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -577,6 +588,17 @@
         "zone": "gb"
       },
       {
+        "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
+        "publishedAt": "2026-09-10T00:06:33.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "What are my rights if my flight is cancelled or delayed?",
         "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -584,6 +606,17 @@
         },
         "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
         "publishedAt": "2026-09-09T08:04:14.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "AI is becoming harder to control – can humans stay in charge?",
+        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+        "publishedAt": "2026-09-09T23:17:33.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -606,39 +639,6 @@
         },
         "description": "A litre of unleaded now costs 167.17p which is the biggest weekly increase since April, data shows.",
         "publishedAt": "2026-09-09T12:20:40.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Should promotion depend on how workers use AI?",
-        "url": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "More companies are tying career progression to AI use: is that fair?",
-        "publishedAt": "2026-09-08T23:05:23.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-        "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-        "publishedAt": "2026-09-09T15:34:09.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "I'm 27 and I've already written my will - here's why",
-        "url": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
-        "publishedAt": "2026-09-08T23:04:17.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,6 +647,17 @@
   "business_in": {
     "articles": [
       {
+        "title": "The one thing you need to do to succeed - according to top bosses",
+        "url": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
+        "publishedAt": "2026-09-09T23:02:20.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "Air traffic failure was avoidable, says transport secretary",
         "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -669,6 +680,17 @@
         "zone": "in"
       },
       {
+        "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
+        "publishedAt": "2026-09-10T00:06:33.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "What are my rights if my flight is cancelled or delayed?",
         "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -676,6 +698,17 @@
         },
         "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
         "publishedAt": "2026-09-09T08:04:14.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "AI is becoming harder to control – can humans stay in charge?",
+        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+        "publishedAt": "2026-09-09T23:17:33.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -698,39 +731,6 @@
         },
         "description": "A litre of unleaded now costs 167.17p which is the biggest weekly increase since April, data shows.",
         "publishedAt": "2026-09-09T12:20:40.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Should promotion depend on how workers use AI?",
-        "url": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "More companies are tying career progression to AI use: is that fair?",
-        "publishedAt": "2026-09-08T23:05:23.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-        "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-        "publishedAt": "2026-09-09T15:34:09.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "I'm 27 and I've already written my will - here's why",
-        "url": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
-        "publishedAt": "2026-09-08T23:04:17.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,6 +739,17 @@
   "business_au": {
     "articles": [
       {
+        "title": "The one thing you need to do to succeed - according to top bosses",
+        "url": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
+        "publishedAt": "2026-09-09T23:02:20.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "Air traffic failure was avoidable, says transport secretary",
         "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -761,6 +772,17 @@
         "zone": "au"
       },
       {
+        "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
+        "publishedAt": "2026-09-10T00:06:33.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "What are my rights if my flight is cancelled or delayed?",
         "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -768,6 +790,17 @@
         },
         "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
         "publishedAt": "2026-09-09T08:04:14.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "AI is becoming harder to control – can humans stay in charge?",
+        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+        "publishedAt": "2026-09-09T23:17:33.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -790,39 +823,6 @@
         },
         "description": "A litre of unleaded now costs 167.17p which is the biggest weekly increase since April, data shows.",
         "publishedAt": "2026-09-09T12:20:40.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Should promotion depend on how workers use AI?",
-        "url": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "More companies are tying career progression to AI use: is that fair?",
-        "publishedAt": "2026-09-08T23:05:23.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-        "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-        "publishedAt": "2026-09-09T15:34:09.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "I'm 27 and I've already written my will - here's why",
-        "url": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
-        "publishedAt": "2026-09-08T23:04:17.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,6 +831,17 @@
   "business_ca": {
     "articles": [
       {
+        "title": "The one thing you need to do to succeed - according to top bosses",
+        "url": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
+        "publishedAt": "2026-09-09T23:02:20.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "Air traffic failure was avoidable, says transport secretary",
         "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -853,6 +864,17 @@
         "zone": "ca"
       },
       {
+        "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
+        "publishedAt": "2026-09-10T00:06:33.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "What are my rights if my flight is cancelled or delayed?",
         "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -860,6 +882,17 @@
         },
         "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
         "publishedAt": "2026-09-09T08:04:14.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "AI is becoming harder to control – can humans stay in charge?",
+        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+        "publishedAt": "2026-09-09T23:17:33.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -882,39 +915,6 @@
         },
         "description": "A litre of unleaded now costs 167.17p which is the biggest weekly increase since April, data shows.",
         "publishedAt": "2026-09-09T12:20:40.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Should promotion depend on how workers use AI?",
-        "url": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "More companies are tying career progression to AI use: is that fair?",
-        "publishedAt": "2026-09-08T23:05:23.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-        "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-        "publishedAt": "2026-09-09T15:34:09.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "I'm 27 and I've already written my will - here's why",
-        "url": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
-        "publishedAt": "2026-09-08T23:04:17.000Z",
         "category": "business",
         "zone": "ca"
       }
@@ -1383,6 +1383,28 @@
   "health_us": {
     "articles": [
       {
+        "title": "UK needs new laws for AI in healthcare, says watchdog",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
+        "publishedAt": "2026-09-10T00:48:35.000Z",
+        "category": "health",
+        "zone": "us"
+      },
+      {
+        "title": "Migraines and acne among five more conditions pharmacists can treat",
+        "url": "https://www.bbc.co.uk/news/articles/ce8e7431nmno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Pharmacies in England will soon offer treatments for a total of 12 common conditions which save people going to their GP first.",
+        "publishedAt": "2026-09-10T00:01:35.000Z",
+        "category": "health",
+        "zone": "us"
+      },
+      {
         "title": "Very hot drinks may damage the food pipe and increase cancer risk",
         "url": "https://www.bbc.co.uk/news/articles/ce3r77d9n90o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1445,28 +1467,6 @@
         },
         "description": "Dupes of retatrutide are flooding the black market, but the drug is yet to be approved by regulators.",
         "publishedAt": "2026-09-04T23:47:40.000Z",
-        "category": "health",
-        "zone": "us"
-      },
-      {
-        "title": "Transplanted pig kidney works in US man's body for record 271 days",
-        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
-        "publishedAt": "2026-09-03T22:31:23.000Z",
-        "category": "health",
-        "zone": "us"
-      },
-      {
-        "title": "Children as young as six going to A&E in mental health crisis",
-        "url": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "NHS emergency departments are seeing more cases of self-harm, eating disorders and emotional distress in young people.",
-        "publishedAt": "2026-09-02T12:21:27.000Z",
         "category": "health",
         "zone": "us"
       }
@@ -1475,6 +1475,28 @@
   "health_gb": {
     "articles": [
       {
+        "title": "UK needs new laws for AI in healthcare, says watchdog",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
+        "publishedAt": "2026-09-10T00:48:35.000Z",
+        "category": "health",
+        "zone": "gb"
+      },
+      {
+        "title": "Migraines and acne among five more conditions pharmacists can treat",
+        "url": "https://www.bbc.co.uk/news/articles/ce8e7431nmno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Pharmacies in England will soon offer treatments for a total of 12 common conditions which save people going to their GP first.",
+        "publishedAt": "2026-09-10T00:01:35.000Z",
+        "category": "health",
+        "zone": "gb"
+      },
+      {
         "title": "Very hot drinks may damage the food pipe and increase cancer risk",
         "url": "https://www.bbc.co.uk/news/articles/ce3r77d9n90o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1537,28 +1559,6 @@
         },
         "description": "Dupes of retatrutide are flooding the black market, but the drug is yet to be approved by regulators.",
         "publishedAt": "2026-09-04T23:47:40.000Z",
-        "category": "health",
-        "zone": "gb"
-      },
-      {
-        "title": "Transplanted pig kidney works in US man's body for record 271 days",
-        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
-        "publishedAt": "2026-09-03T22:31:23.000Z",
-        "category": "health",
-        "zone": "gb"
-      },
-      {
-        "title": "Children as young as six going to A&E in mental health crisis",
-        "url": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "NHS emergency departments are seeing more cases of self-harm, eating disorders and emotional distress in young people.",
-        "publishedAt": "2026-09-02T12:21:27.000Z",
         "category": "health",
         "zone": "gb"
       }
@@ -1567,6 +1567,28 @@
   "health_in": {
     "articles": [
       {
+        "title": "UK needs new laws for AI in healthcare, says watchdog",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
+        "publishedAt": "2026-09-10T00:48:35.000Z",
+        "category": "health",
+        "zone": "in"
+      },
+      {
+        "title": "Migraines and acne among five more conditions pharmacists can treat",
+        "url": "https://www.bbc.co.uk/news/articles/ce8e7431nmno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Pharmacies in England will soon offer treatments for a total of 12 common conditions which save people going to their GP first.",
+        "publishedAt": "2026-09-10T00:01:35.000Z",
+        "category": "health",
+        "zone": "in"
+      },
+      {
         "title": "Very hot drinks may damage the food pipe and increase cancer risk",
         "url": "https://www.bbc.co.uk/news/articles/ce3r77d9n90o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1629,28 +1651,6 @@
         },
         "description": "Dupes of retatrutide are flooding the black market, but the drug is yet to be approved by regulators.",
         "publishedAt": "2026-09-04T23:47:40.000Z",
-        "category": "health",
-        "zone": "in"
-      },
-      {
-        "title": "Transplanted pig kidney works in US man's body for record 271 days",
-        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
-        "publishedAt": "2026-09-03T22:31:23.000Z",
-        "category": "health",
-        "zone": "in"
-      },
-      {
-        "title": "Children as young as six going to A&E in mental health crisis",
-        "url": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "NHS emergency departments are seeing more cases of self-harm, eating disorders and emotional distress in young people.",
-        "publishedAt": "2026-09-02T12:21:27.000Z",
         "category": "health",
         "zone": "in"
       }
@@ -1659,6 +1659,28 @@
   "health_au": {
     "articles": [
       {
+        "title": "UK needs new laws for AI in healthcare, says watchdog",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
+        "publishedAt": "2026-09-10T00:48:35.000Z",
+        "category": "health",
+        "zone": "au"
+      },
+      {
+        "title": "Migraines and acne among five more conditions pharmacists can treat",
+        "url": "https://www.bbc.co.uk/news/articles/ce8e7431nmno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Pharmacies in England will soon offer treatments for a total of 12 common conditions which save people going to their GP first.",
+        "publishedAt": "2026-09-10T00:01:35.000Z",
+        "category": "health",
+        "zone": "au"
+      },
+      {
         "title": "Very hot drinks may damage the food pipe and increase cancer risk",
         "url": "https://www.bbc.co.uk/news/articles/ce3r77d9n90o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1721,28 +1743,6 @@
         },
         "description": "Dupes of retatrutide are flooding the black market, but the drug is yet to be approved by regulators.",
         "publishedAt": "2026-09-04T23:47:40.000Z",
-        "category": "health",
-        "zone": "au"
-      },
-      {
-        "title": "Transplanted pig kidney works in US man's body for record 271 days",
-        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
-        "publishedAt": "2026-09-03T22:31:23.000Z",
-        "category": "health",
-        "zone": "au"
-      },
-      {
-        "title": "Children as young as six going to A&E in mental health crisis",
-        "url": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "NHS emergency departments are seeing more cases of self-harm, eating disorders and emotional distress in young people.",
-        "publishedAt": "2026-09-02T12:21:27.000Z",
         "category": "health",
         "zone": "au"
       }
@@ -1751,6 +1751,28 @@
   "health_ca": {
     "articles": [
       {
+        "title": "UK needs new laws for AI in healthcare, says watchdog",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
+        "publishedAt": "2026-09-10T00:48:35.000Z",
+        "category": "health",
+        "zone": "ca"
+      },
+      {
+        "title": "Migraines and acne among five more conditions pharmacists can treat",
+        "url": "https://www.bbc.co.uk/news/articles/ce8e7431nmno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Pharmacies in England will soon offer treatments for a total of 12 common conditions which save people going to their GP first.",
+        "publishedAt": "2026-09-10T00:01:35.000Z",
+        "category": "health",
+        "zone": "ca"
+      },
+      {
         "title": "Very hot drinks may damage the food pipe and increase cancer risk",
         "url": "https://www.bbc.co.uk/news/articles/ce3r77d9n90o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1813,28 +1835,6 @@
         },
         "description": "Dupes of retatrutide are flooding the black market, but the drug is yet to be approved by regulators.",
         "publishedAt": "2026-09-04T23:47:40.000Z",
-        "category": "health",
-        "zone": "ca"
-      },
-      {
-        "title": "Transplanted pig kidney works in US man's body for record 271 days",
-        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
-        "publishedAt": "2026-09-03T22:31:23.000Z",
-        "category": "health",
-        "zone": "ca"
-      },
-      {
-        "title": "Children as young as six going to A&E in mental health crisis",
-        "url": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "NHS emergency departments are seeing more cases of self-harm, eating disorders and emotional distress in young people.",
-        "publishedAt": "2026-09-02T12:21:27.000Z",
         "category": "health",
         "zone": "ca"
       }
@@ -2314,13 +2314,35 @@
         "zone": "us"
       },
       {
+        "title": "Liverpool will reward Mac Allister if he lets his football do talking",
+        "url": "https://www.bbc.co.uk/sport/football/articles/crl6zyr1gw5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "After saying he was \"very sad\" at the lack of a contract offer from Liverpool, Alexis Mac Allister proved his worth against Atletico Madrid.",
+        "publishedAt": "2026-09-09T23:12:27.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Gauff saves match points to set up Rybakina semi-final",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c98670d418yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Coco Gauff saves two match points to beat Mirra Andreeva and set up a US Open semi-final against incoming world number one Elena Rybakina.",
-        "publishedAt": "2026-09-09T21:35:50.000Z",
+        "publishedAt": "2026-09-09T23:11:46.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Star subs rescue Chelsea as Alonso 'takes blame'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zx9n29glo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
+        "publishedAt": "2026-09-09T23:25:38.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2365,28 +2387,6 @@
         },
         "description": "Martin Odegaard's excellent start to the season continues as the Arsenal captain scores the only goal of the match against Napoli in Naples.",
         "publishedAt": "2026-09-09T21:34:51.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "'Just a number' - Rybakina's rise to world number one",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c70l7qgw87do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Elena Rybakina becomes the new women's world number one after reaching the US Open semi-finals, ending Aryna Sabalenka's 99-week reign at the top of the rankings.",
-        "publishedAt": "2026-09-09T19:00:02.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Gay should open for England in South Africa - Cook",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cj4jwpn94k2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England batter Emilio Gay has done enough to lock in an opener's spot for their winter tour of South Africa, according to Sir Alastair Cook.",
-        "publishedAt": "2026-09-09T19:22:25.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2406,13 +2406,35 @@
         "zone": "gb"
       },
       {
+        "title": "Liverpool will reward Mac Allister if he lets his football do talking",
+        "url": "https://www.bbc.co.uk/sport/football/articles/crl6zyr1gw5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "After saying he was \"very sad\" at the lack of a contract offer from Liverpool, Alexis Mac Allister proved his worth against Atletico Madrid.",
+        "publishedAt": "2026-09-09T23:12:27.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Gauff saves match points to set up Rybakina semi-final",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c98670d418yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Coco Gauff saves two match points to beat Mirra Andreeva and set up a US Open semi-final against incoming world number one Elena Rybakina.",
-        "publishedAt": "2026-09-09T21:35:50.000Z",
+        "publishedAt": "2026-09-09T23:11:46.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Star subs rescue Chelsea as Alonso 'takes blame'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zx9n29glo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
+        "publishedAt": "2026-09-09T23:25:38.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2457,28 +2479,6 @@
         },
         "description": "Martin Odegaard's excellent start to the season continues as the Arsenal captain scores the only goal of the match against Napoli in Naples.",
         "publishedAt": "2026-09-09T21:34:51.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "'Just a number' - Rybakina's rise to world number one",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c70l7qgw87do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Elena Rybakina becomes the new women's world number one after reaching the US Open semi-finals, ending Aryna Sabalenka's 99-week reign at the top of the rankings.",
-        "publishedAt": "2026-09-09T19:00:02.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Gay should open for England in South Africa - Cook",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cj4jwpn94k2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England batter Emilio Gay has done enough to lock in an opener's spot for their winter tour of South Africa, according to Sir Alastair Cook.",
-        "publishedAt": "2026-09-09T19:22:25.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2498,13 +2498,35 @@
         "zone": "in"
       },
       {
+        "title": "Liverpool will reward Mac Allister if he lets his football do talking",
+        "url": "https://www.bbc.co.uk/sport/football/articles/crl6zyr1gw5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "After saying he was \"very sad\" at the lack of a contract offer from Liverpool, Alexis Mac Allister proved his worth against Atletico Madrid.",
+        "publishedAt": "2026-09-09T23:12:27.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Gauff saves match points to set up Rybakina semi-final",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c98670d418yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Coco Gauff saves two match points to beat Mirra Andreeva and set up a US Open semi-final against incoming world number one Elena Rybakina.",
-        "publishedAt": "2026-09-09T21:35:50.000Z",
+        "publishedAt": "2026-09-09T23:11:46.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Star subs rescue Chelsea as Alonso 'takes blame'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zx9n29glo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
+        "publishedAt": "2026-09-09T23:25:38.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2549,28 +2571,6 @@
         },
         "description": "Martin Odegaard's excellent start to the season continues as the Arsenal captain scores the only goal of the match against Napoli in Naples.",
         "publishedAt": "2026-09-09T21:34:51.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "'Just a number' - Rybakina's rise to world number one",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c70l7qgw87do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Elena Rybakina becomes the new women's world number one after reaching the US Open semi-finals, ending Aryna Sabalenka's 99-week reign at the top of the rankings.",
-        "publishedAt": "2026-09-09T19:00:02.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Gay should open for England in South Africa - Cook",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cj4jwpn94k2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England batter Emilio Gay has done enough to lock in an opener's spot for their winter tour of South Africa, according to Sir Alastair Cook.",
-        "publishedAt": "2026-09-09T19:22:25.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2590,13 +2590,35 @@
         "zone": "au"
       },
       {
+        "title": "Liverpool will reward Mac Allister if he lets his football do talking",
+        "url": "https://www.bbc.co.uk/sport/football/articles/crl6zyr1gw5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "After saying he was \"very sad\" at the lack of a contract offer from Liverpool, Alexis Mac Allister proved his worth against Atletico Madrid.",
+        "publishedAt": "2026-09-09T23:12:27.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Gauff saves match points to set up Rybakina semi-final",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c98670d418yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Coco Gauff saves two match points to beat Mirra Andreeva and set up a US Open semi-final against incoming world number one Elena Rybakina.",
-        "publishedAt": "2026-09-09T21:35:50.000Z",
+        "publishedAt": "2026-09-09T23:11:46.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Star subs rescue Chelsea as Alonso 'takes blame'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zx9n29glo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
+        "publishedAt": "2026-09-09T23:25:38.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2641,28 +2663,6 @@
         },
         "description": "Martin Odegaard's excellent start to the season continues as the Arsenal captain scores the only goal of the match against Napoli in Naples.",
         "publishedAt": "2026-09-09T21:34:51.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "'Just a number' - Rybakina's rise to world number one",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c70l7qgw87do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Elena Rybakina becomes the new women's world number one after reaching the US Open semi-finals, ending Aryna Sabalenka's 99-week reign at the top of the rankings.",
-        "publishedAt": "2026-09-09T19:00:02.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Gay should open for England in South Africa - Cook",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cj4jwpn94k2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England batter Emilio Gay has done enough to lock in an opener's spot for their winter tour of South Africa, according to Sir Alastair Cook.",
-        "publishedAt": "2026-09-09T19:22:25.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2682,13 +2682,35 @@
         "zone": "ca"
       },
       {
+        "title": "Liverpool will reward Mac Allister if he lets his football do talking",
+        "url": "https://www.bbc.co.uk/sport/football/articles/crl6zyr1gw5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "After saying he was \"very sad\" at the lack of a contract offer from Liverpool, Alexis Mac Allister proved his worth against Atletico Madrid.",
+        "publishedAt": "2026-09-09T23:12:27.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Gauff saves match points to set up Rybakina semi-final",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c98670d418yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Coco Gauff saves two match points to beat Mirra Andreeva and set up a US Open semi-final against incoming world number one Elena Rybakina.",
-        "publishedAt": "2026-09-09T21:35:50.000Z",
+        "publishedAt": "2026-09-09T23:11:46.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Star subs rescue Chelsea as Alonso 'takes blame'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zx9n29glo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
+        "publishedAt": "2026-09-09T23:25:38.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2735,33 +2757,22 @@
         "publishedAt": "2026-09-09T21:34:51.000Z",
         "category": "sports",
         "zone": "ca"
-      },
-      {
-        "title": "'Just a number' - Rybakina's rise to world number one",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c70l7qgw87do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Elena Rybakina becomes the new women's world number one after reaching the US Open semi-finals, ending Aryna Sabalenka's 99-week reign at the top of the rankings.",
-        "publishedAt": "2026-09-09T19:00:02.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Gay should open for England in South Africa - Cook",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cj4jwpn94k2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England batter Emilio Gay has done enough to lock in an opener's spot for their winter tour of South Africa, according to Sir Alastair Cook.",
-        "publishedAt": "2026-09-09T19:22:25.000Z",
-        "category": "sports",
-        "zone": "ca"
       }
     ]
   },
   "technology_us": {
     "articles": [
+      {
+        "title": "UK needs new laws for AI in healthcare, says watchdog",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
+        "publishedAt": "2026-09-10T00:48:35.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
       {
         "title": "Google picks Finland for its largest single investment in Europe",
         "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
@@ -2836,17 +2847,6 @@
         },
         "description": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
         "publishedAt": "2026-09-08T16:48:29.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
-        "url": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
-        "publishedAt": "2026-09-08T06:49:56.000Z",
         "category": "technology",
         "zone": "us"
       }
@@ -2855,6 +2855,17 @@
   "technology_gb": {
     "articles": [
       {
+        "title": "UK needs new laws for AI in healthcare, says watchdog",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
+        "publishedAt": "2026-09-10T00:48:35.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
         "title": "Google picks Finland for its largest single investment in Europe",
         "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2928,17 +2939,6 @@
         },
         "description": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
         "publishedAt": "2026-09-08T16:48:29.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
-        "url": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
-        "publishedAt": "2026-09-08T06:49:56.000Z",
         "category": "technology",
         "zone": "gb"
       }
@@ -2947,6 +2947,17 @@
   "technology_in": {
     "articles": [
       {
+        "title": "UK needs new laws for AI in healthcare, says watchdog",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
+        "publishedAt": "2026-09-10T00:48:35.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
         "title": "Google picks Finland for its largest single investment in Europe",
         "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3020,17 +3031,6 @@
         },
         "description": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
         "publishedAt": "2026-09-08T16:48:29.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
-        "url": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
-        "publishedAt": "2026-09-08T06:49:56.000Z",
         "category": "technology",
         "zone": "in"
       }
@@ -3039,6 +3039,17 @@
   "technology_au": {
     "articles": [
       {
+        "title": "UK needs new laws for AI in healthcare, says watchdog",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
+        "publishedAt": "2026-09-10T00:48:35.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
         "title": "Google picks Finland for its largest single investment in Europe",
         "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3112,17 +3123,6 @@
         },
         "description": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
         "publishedAt": "2026-09-08T16:48:29.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
-        "url": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
-        "publishedAt": "2026-09-08T06:49:56.000Z",
         "category": "technology",
         "zone": "au"
       }
@@ -3131,6 +3131,17 @@
   "technology_ca": {
     "articles": [
       {
+        "title": "UK needs new laws for AI in healthcare, says watchdog",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
+        "publishedAt": "2026-09-10T00:48:35.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
         "title": "Google picks Finland for its largest single investment in Europe",
         "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3204,17 +3215,6 @@
         },
         "description": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
         "publishedAt": "2026-09-08T16:48:29.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
-        "url": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
-        "publishedAt": "2026-09-08T06:49:56.000Z",
         "category": "technology",
         "zone": "ca"
       }
