@@ -1,18 +1,7 @@
 {
-  "generatedAt": "2026-09-11T05:41:45.791Z",
+  "generatedAt": "2026-09-11T10:47:33.443Z",
   "general_us": {
     "articles": [
-      {
-        "title": "MPs to vote on legalising assisted dying in England and Wales",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The proposal was backed by a majority of MPs earlier this year but did not become law after its progress was stalled by peers.",
-        "publishedAt": "2026-09-11T02:05:23.000Z",
-        "category": "general",
-        "zone": "us"
-      },
       {
         "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
         "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
@@ -20,51 +9,29 @@
           "name": "RSS Feed"
         },
         "description": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
-        "publishedAt": "2026-09-10T23:21:00.000Z",
+        "publishedAt": "2026-09-11T05:53:06.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
+        "title": "AI boom helps drive surprise UK growth in July",
+        "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+        "publishedAt": "2026-09-11T10:17:28.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
         "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
-        "publishedAt": "2026-09-11T02:46:30.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
-        "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
-        "publishedAt": "2026-09-10T23:22:11.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Is Trump's $5,000 pledge a sign of panic?",
-        "url": "https://www.bbc.co.uk/news/articles/cdj4z2x3zyko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Even by Trump's own unconventional standards, his promise to voters was bizarre, writes North America editor Sarah Smith.",
-        "publishedAt": "2026-09-11T01:38:51.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
-        "url": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
-        "publishedAt": "2026-09-10T18:27:22.000Z",
+        "publishedAt": "2026-09-11T08:15:25.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -75,18 +42,51 @@
           "name": "RSS Feed"
         },
         "description": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
-        "publishedAt": "2026-09-11T03:15:46.000Z",
+        "publishedAt": "2026-09-11T06:54:46.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+        "title": "New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet",
+        "url": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-        "publishedAt": "2026-09-10T17:38:31.000Z",
+        "description": "The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year.",
+        "publishedAt": "2026-09-10T23:22:33.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "As Trump dominates convention, some Republicans quietly ask who comes next",
+        "url": "https://www.bbc.co.uk/news/articles/c2l8xvvw95no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The convention offered a stark reminder that the Trump era is heading toward its final chapter, the BBC's Washington correspondent Daniel Bush writes.",
+        "publishedAt": "2026-09-11T06:10:59.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
+        "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+        "publishedAt": "2026-09-10T23:22:11.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
+        "publishedAt": "2026-09-11T08:54:20.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,68 +95,35 @@
   "general_gb": {
     "articles": [
       {
-        "title": "MPs to vote on legalising assisted dying in England and Wales",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The proposal was backed by a majority of MPs earlier this year but did not become law after its progress was stalled by peers.",
-        "publishedAt": "2026-09-11T02:05:23.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
         "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
         "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
-        "publishedAt": "2026-09-10T23:21:00.000Z",
+        "publishedAt": "2026-09-11T05:53:06.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
+        "title": "AI boom helps drive surprise UK growth in July",
+        "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+        "publishedAt": "2026-09-11T10:17:28.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
         "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
-        "publishedAt": "2026-09-11T02:46:30.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
-        "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
-        "publishedAt": "2026-09-10T23:22:11.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Is Trump's $5,000 pledge a sign of panic?",
-        "url": "https://www.bbc.co.uk/news/articles/cdj4z2x3zyko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Even by Trump's own unconventional standards, his promise to voters was bizarre, writes North America editor Sarah Smith.",
-        "publishedAt": "2026-09-11T01:38:51.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
-        "url": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
-        "publishedAt": "2026-09-10T18:27:22.000Z",
+        "publishedAt": "2026-09-11T08:15:25.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -167,18 +134,51 @@
           "name": "RSS Feed"
         },
         "description": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
-        "publishedAt": "2026-09-11T03:15:46.000Z",
+        "publishedAt": "2026-09-11T06:54:46.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+        "title": "New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet",
+        "url": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-        "publishedAt": "2026-09-10T17:38:31.000Z",
+        "description": "The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year.",
+        "publishedAt": "2026-09-10T23:22:33.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "As Trump dominates convention, some Republicans quietly ask who comes next",
+        "url": "https://www.bbc.co.uk/news/articles/c2l8xvvw95no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The convention offered a stark reminder that the Trump era is heading toward its final chapter, the BBC's Washington correspondent Daniel Bush writes.",
+        "publishedAt": "2026-09-11T06:10:59.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
+        "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+        "publishedAt": "2026-09-10T23:22:11.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
+        "publishedAt": "2026-09-11T08:54:20.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,68 +187,35 @@
   "general_in": {
     "articles": [
       {
-        "title": "MPs to vote on legalising assisted dying in England and Wales",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The proposal was backed by a majority of MPs earlier this year but did not become law after its progress was stalled by peers.",
-        "publishedAt": "2026-09-11T02:05:23.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
         "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
         "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
-        "publishedAt": "2026-09-10T23:21:00.000Z",
+        "publishedAt": "2026-09-11T05:53:06.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
+        "title": "AI boom helps drive surprise UK growth in July",
+        "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+        "publishedAt": "2026-09-11T10:17:28.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
         "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
-        "publishedAt": "2026-09-11T02:46:30.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
-        "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
-        "publishedAt": "2026-09-10T23:22:11.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Is Trump's $5,000 pledge a sign of panic?",
-        "url": "https://www.bbc.co.uk/news/articles/cdj4z2x3zyko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Even by Trump's own unconventional standards, his promise to voters was bizarre, writes North America editor Sarah Smith.",
-        "publishedAt": "2026-09-11T01:38:51.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
-        "url": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
-        "publishedAt": "2026-09-10T18:27:22.000Z",
+        "publishedAt": "2026-09-11T08:15:25.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -259,18 +226,51 @@
           "name": "RSS Feed"
         },
         "description": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
-        "publishedAt": "2026-09-11T03:15:46.000Z",
+        "publishedAt": "2026-09-11T06:54:46.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+        "title": "New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet",
+        "url": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-        "publishedAt": "2026-09-10T17:38:31.000Z",
+        "description": "The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year.",
+        "publishedAt": "2026-09-10T23:22:33.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "As Trump dominates convention, some Republicans quietly ask who comes next",
+        "url": "https://www.bbc.co.uk/news/articles/c2l8xvvw95no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The convention offered a stark reminder that the Trump era is heading toward its final chapter, the BBC's Washington correspondent Daniel Bush writes.",
+        "publishedAt": "2026-09-11T06:10:59.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
+        "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+        "publishedAt": "2026-09-10T23:22:11.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
+        "publishedAt": "2026-09-11T08:54:20.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,68 +279,35 @@
   "general_au": {
     "articles": [
       {
-        "title": "MPs to vote on legalising assisted dying in England and Wales",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The proposal was backed by a majority of MPs earlier this year but did not become law after its progress was stalled by peers.",
-        "publishedAt": "2026-09-11T02:05:23.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
         "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
         "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
-        "publishedAt": "2026-09-10T23:21:00.000Z",
+        "publishedAt": "2026-09-11T05:53:06.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
+        "title": "AI boom helps drive surprise UK growth in July",
+        "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+        "publishedAt": "2026-09-11T10:17:28.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
         "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
-        "publishedAt": "2026-09-11T02:46:30.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
-        "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
-        "publishedAt": "2026-09-10T23:22:11.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Is Trump's $5,000 pledge a sign of panic?",
-        "url": "https://www.bbc.co.uk/news/articles/cdj4z2x3zyko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Even by Trump's own unconventional standards, his promise to voters was bizarre, writes North America editor Sarah Smith.",
-        "publishedAt": "2026-09-11T01:38:51.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
-        "url": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
-        "publishedAt": "2026-09-10T18:27:22.000Z",
+        "publishedAt": "2026-09-11T08:15:25.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -351,18 +318,51 @@
           "name": "RSS Feed"
         },
         "description": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
-        "publishedAt": "2026-09-11T03:15:46.000Z",
+        "publishedAt": "2026-09-11T06:54:46.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+        "title": "New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet",
+        "url": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-        "publishedAt": "2026-09-10T17:38:31.000Z",
+        "description": "The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year.",
+        "publishedAt": "2026-09-10T23:22:33.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "As Trump dominates convention, some Republicans quietly ask who comes next",
+        "url": "https://www.bbc.co.uk/news/articles/c2l8xvvw95no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The convention offered a stark reminder that the Trump era is heading toward its final chapter, the BBC's Washington correspondent Daniel Bush writes.",
+        "publishedAt": "2026-09-11T06:10:59.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
+        "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+        "publishedAt": "2026-09-10T23:22:11.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
+        "publishedAt": "2026-09-11T08:54:20.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,68 +371,35 @@
   "general_ca": {
     "articles": [
       {
-        "title": "MPs to vote on legalising assisted dying in England and Wales",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The proposal was backed by a majority of MPs earlier this year but did not become law after its progress was stalled by peers.",
-        "publishedAt": "2026-09-11T02:05:23.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
         "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
         "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
-        "publishedAt": "2026-09-10T23:21:00.000Z",
+        "publishedAt": "2026-09-11T05:53:06.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
+        "title": "AI boom helps drive surprise UK growth in July",
+        "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+        "publishedAt": "2026-09-11T10:17:28.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
         "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
-        "publishedAt": "2026-09-11T02:46:30.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
-        "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
-        "publishedAt": "2026-09-10T23:22:11.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Is Trump's $5,000 pledge a sign of panic?",
-        "url": "https://www.bbc.co.uk/news/articles/cdj4z2x3zyko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Even by Trump's own unconventional standards, his promise to voters was bizarre, writes North America editor Sarah Smith.",
-        "publishedAt": "2026-09-11T01:38:51.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
-        "url": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
-        "publishedAt": "2026-09-10T18:27:22.000Z",
+        "publishedAt": "2026-09-11T08:15:25.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -443,18 +410,51 @@
           "name": "RSS Feed"
         },
         "description": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
-        "publishedAt": "2026-09-11T03:15:46.000Z",
+        "publishedAt": "2026-09-11T06:54:46.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+        "title": "New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet",
+        "url": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-        "publishedAt": "2026-09-10T17:38:31.000Z",
+        "description": "The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year.",
+        "publishedAt": "2026-09-10T23:22:33.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "As Trump dominates convention, some Republicans quietly ask who comes next",
+        "url": "https://www.bbc.co.uk/news/articles/c2l8xvvw95no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The convention offered a stark reminder that the Trump era is heading toward its final chapter, the BBC's Washington correspondent Daniel Bush writes.",
+        "publishedAt": "2026-09-11T06:10:59.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
+        "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+        "publishedAt": "2026-09-10T23:22:11.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
+        "publishedAt": "2026-09-11T08:54:20.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -462,6 +462,17 @@
   },
   "business_us": {
     "articles": [
+      {
+        "title": "AI boom helps drive surprise UK growth in July",
+        "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+        "publishedAt": "2026-09-11T10:17:28.000Z",
+        "category": "business",
+        "zone": "us"
+      },
       {
         "title": "I asked my husband to pay into my pension when we had a child - here's why",
         "url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
@@ -474,24 +485,13 @@
         "zone": "us"
       },
       {
-        "title": "Are interest rates on the way up again?",
+        "title": "Interest rates could rise again across the world – here's why",
         "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
-        "publishedAt": "2026-09-10T23:03:09.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-        "publishedAt": "2026-09-10T17:38:31.000Z",
+        "publishedAt": "2026-09-11T08:28:47.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -502,18 +502,7 @@
           "name": "RSS Feed"
         },
         "description": "The government says the work will support thousands of jobs across the UK.",
-        "publishedAt": "2026-09-10T21:00:33.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
-        "url": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
-        "publishedAt": "2026-09-10T13:34:17.000Z",
+        "publishedAt": "2026-09-11T09:17:00.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -525,6 +514,17 @@
         },
         "description": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
         "publishedAt": "2026-09-10T23:05:47.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
+        "url": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
+        "publishedAt": "2026-09-10T13:34:17.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -555,6 +555,17 @@
   "business_gb": {
     "articles": [
       {
+        "title": "AI boom helps drive surprise UK growth in July",
+        "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+        "publishedAt": "2026-09-11T10:17:28.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "I asked my husband to pay into my pension when we had a child - here's why",
         "url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -566,24 +577,13 @@
         "zone": "gb"
       },
       {
-        "title": "Are interest rates on the way up again?",
+        "title": "Interest rates could rise again across the world – here's why",
         "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
-        "publishedAt": "2026-09-10T23:03:09.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-        "publishedAt": "2026-09-10T17:38:31.000Z",
+        "publishedAt": "2026-09-11T08:28:47.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -594,18 +594,7 @@
           "name": "RSS Feed"
         },
         "description": "The government says the work will support thousands of jobs across the UK.",
-        "publishedAt": "2026-09-10T21:00:33.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
-        "url": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
-        "publishedAt": "2026-09-10T13:34:17.000Z",
+        "publishedAt": "2026-09-11T09:17:00.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -617,6 +606,17 @@
         },
         "description": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
         "publishedAt": "2026-09-10T23:05:47.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
+        "url": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
+        "publishedAt": "2026-09-10T13:34:17.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -647,6 +647,17 @@
   "business_in": {
     "articles": [
       {
+        "title": "AI boom helps drive surprise UK growth in July",
+        "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+        "publishedAt": "2026-09-11T10:17:28.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "I asked my husband to pay into my pension when we had a child - here's why",
         "url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -658,24 +669,13 @@
         "zone": "in"
       },
       {
-        "title": "Are interest rates on the way up again?",
+        "title": "Interest rates could rise again across the world – here's why",
         "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
-        "publishedAt": "2026-09-10T23:03:09.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-        "publishedAt": "2026-09-10T17:38:31.000Z",
+        "publishedAt": "2026-09-11T08:28:47.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -686,18 +686,7 @@
           "name": "RSS Feed"
         },
         "description": "The government says the work will support thousands of jobs across the UK.",
-        "publishedAt": "2026-09-10T21:00:33.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
-        "url": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
-        "publishedAt": "2026-09-10T13:34:17.000Z",
+        "publishedAt": "2026-09-11T09:17:00.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -709,6 +698,17 @@
         },
         "description": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
         "publishedAt": "2026-09-10T23:05:47.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
+        "url": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
+        "publishedAt": "2026-09-10T13:34:17.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -739,6 +739,17 @@
   "business_au": {
     "articles": [
       {
+        "title": "AI boom helps drive surprise UK growth in July",
+        "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+        "publishedAt": "2026-09-11T10:17:28.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "I asked my husband to pay into my pension when we had a child - here's why",
         "url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -750,24 +761,13 @@
         "zone": "au"
       },
       {
-        "title": "Are interest rates on the way up again?",
+        "title": "Interest rates could rise again across the world – here's why",
         "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
-        "publishedAt": "2026-09-10T23:03:09.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-        "publishedAt": "2026-09-10T17:38:31.000Z",
+        "publishedAt": "2026-09-11T08:28:47.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -778,18 +778,7 @@
           "name": "RSS Feed"
         },
         "description": "The government says the work will support thousands of jobs across the UK.",
-        "publishedAt": "2026-09-10T21:00:33.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
-        "url": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
-        "publishedAt": "2026-09-10T13:34:17.000Z",
+        "publishedAt": "2026-09-11T09:17:00.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -801,6 +790,17 @@
         },
         "description": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
         "publishedAt": "2026-09-10T23:05:47.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
+        "url": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
+        "publishedAt": "2026-09-10T13:34:17.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -831,6 +831,17 @@
   "business_ca": {
     "articles": [
       {
+        "title": "AI boom helps drive surprise UK growth in July",
+        "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+        "publishedAt": "2026-09-11T10:17:28.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "I asked my husband to pay into my pension when we had a child - here's why",
         "url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -842,24 +853,13 @@
         "zone": "ca"
       },
       {
-        "title": "Are interest rates on the way up again?",
+        "title": "Interest rates could rise again across the world – here's why",
         "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
-        "publishedAt": "2026-09-10T23:03:09.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-        "publishedAt": "2026-09-10T17:38:31.000Z",
+        "publishedAt": "2026-09-11T08:28:47.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -870,18 +870,7 @@
           "name": "RSS Feed"
         },
         "description": "The government says the work will support thousands of jobs across the UK.",
-        "publishedAt": "2026-09-10T21:00:33.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
-        "url": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
-        "publishedAt": "2026-09-10T13:34:17.000Z",
+        "publishedAt": "2026-09-11T09:17:00.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -893,6 +882,17 @@
         },
         "description": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
         "publishedAt": "2026-09-10T23:05:47.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
+        "url": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
+        "publishedAt": "2026-09-10T13:34:17.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -934,6 +934,61 @@
         "zone": "us"
       },
       {
+        "title": "People long for simpler times, say Practical Magic reboot stars",
+        "url": "https://www.bbc.co.uk/news/articles/cpq0n1q0eego?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Actresses Maisie Williams and Joey King feature in the upcoming sequel of the 1998 fantasy romcom.",
+        "publishedAt": "2026-09-11T00:51:17.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
+        "url": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
+        "publishedAt": "2026-09-10T18:27:22.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Oasis tease tour announcement with drone display",
+        "url": "https://www.bbc.co.uk/news/articles/cwyz8k6d600o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The band illuminated the sky over the Etihad's Joie Stadium, home to Manchester City Woman.",
+        "publishedAt": "2026-09-11T07:31:32.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Bayeux Tapestry unveiled to UK public for first time at British Museum",
+        "url": "https://www.bbc.co.uk/news/articles/c158k4p22xwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Visitors tell the BBC it was a \"real privilege\" to be among the first to see the tapestry in England.",
+        "publishedAt": "2026-09-10T17:29:35.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Female DJs call out 'blatant misogyny' and harassment in nightlife scene",
+        "url": "https://www.bbc.co.uk/news/articles/crr4j00q44zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Female DJs describe their experiences of safety and the wider issue of sexism in the nightlife scene.",
+        "publishedAt": "2026-09-10T23:02:28.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
         "title": "New Strictly hosts explain their roles as they reject 'roving presenter' reports",
         "url": "https://www.bbc.co.uk/news/articles/cdx0qn97g9jo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -945,17 +1000,6 @@
         "zone": "us"
       },
       {
-        "title": "BBC drops Drag Race UK after eight series",
-        "url": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Future series will no longer be broadcast on BBC Three as the show moves to a streaming platform owned by its production company.",
-        "publishedAt": "2026-09-10T07:49:57.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
         "title": "Harry Styles extends tour, with Kylie as a support act",
         "url": "https://www.bbc.co.uk/news/articles/ckgwenl0g0wo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -963,50 +1007,6 @@
         },
         "description": "The pop star will play 25 more dates on his Together, Together tour, including three in the London.",
         "publishedAt": "2026-09-10T13:19:28.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Nicolas Cage's driveway collapses as sinkhole opens up at his Malibu home",
-        "url": "https://www.bbc.co.uk/news/articles/c790l73ryp3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A 30ft crater opened up outside the actor's home in Malibu after heavy rain in Southern California.",
-        "publishedAt": "2026-09-09T09:40:31.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Actor Noel Clarke charged with sexual offences",
-        "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
-        "publishedAt": "2026-09-09T12:51:24.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Channel 4 to cut 340 jobs by the end of the year in major shake-up",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzprn3gkgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It comes after the network conducted a review amid a \"rapidly changing media landscape\".",
-        "publishedAt": "2026-09-09T12:09:50.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "South Park creators rename show 'South America' in apparent dig at Trump",
-        "url": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
-        "publishedAt": "2026-09-09T05:39:16.000Z",
         "category": "entertainment",
         "zone": "us"
       }
@@ -1026,6 +1026,61 @@
         "zone": "gb"
       },
       {
+        "title": "People long for simpler times, say Practical Magic reboot stars",
+        "url": "https://www.bbc.co.uk/news/articles/cpq0n1q0eego?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Actresses Maisie Williams and Joey King feature in the upcoming sequel of the 1998 fantasy romcom.",
+        "publishedAt": "2026-09-11T00:51:17.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
+        "url": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
+        "publishedAt": "2026-09-10T18:27:22.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Oasis tease tour announcement with drone display",
+        "url": "https://www.bbc.co.uk/news/articles/cwyz8k6d600o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The band illuminated the sky over the Etihad's Joie Stadium, home to Manchester City Woman.",
+        "publishedAt": "2026-09-11T07:31:32.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Bayeux Tapestry unveiled to UK public for first time at British Museum",
+        "url": "https://www.bbc.co.uk/news/articles/c158k4p22xwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Visitors tell the BBC it was a \"real privilege\" to be among the first to see the tapestry in England.",
+        "publishedAt": "2026-09-10T17:29:35.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Female DJs call out 'blatant misogyny' and harassment in nightlife scene",
+        "url": "https://www.bbc.co.uk/news/articles/crr4j00q44zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Female DJs describe their experiences of safety and the wider issue of sexism in the nightlife scene.",
+        "publishedAt": "2026-09-10T23:02:28.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
         "title": "New Strictly hosts explain their roles as they reject 'roving presenter' reports",
         "url": "https://www.bbc.co.uk/news/articles/cdx0qn97g9jo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1037,17 +1092,6 @@
         "zone": "gb"
       },
       {
-        "title": "BBC drops Drag Race UK after eight series",
-        "url": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Future series will no longer be broadcast on BBC Three as the show moves to a streaming platform owned by its production company.",
-        "publishedAt": "2026-09-10T07:49:57.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
         "title": "Harry Styles extends tour, with Kylie as a support act",
         "url": "https://www.bbc.co.uk/news/articles/ckgwenl0g0wo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1055,50 +1099,6 @@
         },
         "description": "The pop star will play 25 more dates on his Together, Together tour, including three in the London.",
         "publishedAt": "2026-09-10T13:19:28.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Nicolas Cage's driveway collapses as sinkhole opens up at his Malibu home",
-        "url": "https://www.bbc.co.uk/news/articles/c790l73ryp3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A 30ft crater opened up outside the actor's home in Malibu after heavy rain in Southern California.",
-        "publishedAt": "2026-09-09T09:40:31.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Actor Noel Clarke charged with sexual offences",
-        "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
-        "publishedAt": "2026-09-09T12:51:24.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Channel 4 to cut 340 jobs by the end of the year in major shake-up",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzprn3gkgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It comes after the network conducted a review amid a \"rapidly changing media landscape\".",
-        "publishedAt": "2026-09-09T12:09:50.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "South Park creators rename show 'South America' in apparent dig at Trump",
-        "url": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
-        "publishedAt": "2026-09-09T05:39:16.000Z",
         "category": "entertainment",
         "zone": "gb"
       }
@@ -1118,6 +1118,61 @@
         "zone": "in"
       },
       {
+        "title": "People long for simpler times, say Practical Magic reboot stars",
+        "url": "https://www.bbc.co.uk/news/articles/cpq0n1q0eego?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Actresses Maisie Williams and Joey King feature in the upcoming sequel of the 1998 fantasy romcom.",
+        "publishedAt": "2026-09-11T00:51:17.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
+        "url": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
+        "publishedAt": "2026-09-10T18:27:22.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Oasis tease tour announcement with drone display",
+        "url": "https://www.bbc.co.uk/news/articles/cwyz8k6d600o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The band illuminated the sky over the Etihad's Joie Stadium, home to Manchester City Woman.",
+        "publishedAt": "2026-09-11T07:31:32.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Bayeux Tapestry unveiled to UK public for first time at British Museum",
+        "url": "https://www.bbc.co.uk/news/articles/c158k4p22xwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Visitors tell the BBC it was a \"real privilege\" to be among the first to see the tapestry in England.",
+        "publishedAt": "2026-09-10T17:29:35.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Female DJs call out 'blatant misogyny' and harassment in nightlife scene",
+        "url": "https://www.bbc.co.uk/news/articles/crr4j00q44zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Female DJs describe their experiences of safety and the wider issue of sexism in the nightlife scene.",
+        "publishedAt": "2026-09-10T23:02:28.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
         "title": "New Strictly hosts explain their roles as they reject 'roving presenter' reports",
         "url": "https://www.bbc.co.uk/news/articles/cdx0qn97g9jo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1129,17 +1184,6 @@
         "zone": "in"
       },
       {
-        "title": "BBC drops Drag Race UK after eight series",
-        "url": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Future series will no longer be broadcast on BBC Three as the show moves to a streaming platform owned by its production company.",
-        "publishedAt": "2026-09-10T07:49:57.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
         "title": "Harry Styles extends tour, with Kylie as a support act",
         "url": "https://www.bbc.co.uk/news/articles/ckgwenl0g0wo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1147,50 +1191,6 @@
         },
         "description": "The pop star will play 25 more dates on his Together, Together tour, including three in the London.",
         "publishedAt": "2026-09-10T13:19:28.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Nicolas Cage's driveway collapses as sinkhole opens up at his Malibu home",
-        "url": "https://www.bbc.co.uk/news/articles/c790l73ryp3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A 30ft crater opened up outside the actor's home in Malibu after heavy rain in Southern California.",
-        "publishedAt": "2026-09-09T09:40:31.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Actor Noel Clarke charged with sexual offences",
-        "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
-        "publishedAt": "2026-09-09T12:51:24.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Channel 4 to cut 340 jobs by the end of the year in major shake-up",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzprn3gkgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It comes after the network conducted a review amid a \"rapidly changing media landscape\".",
-        "publishedAt": "2026-09-09T12:09:50.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "South Park creators rename show 'South America' in apparent dig at Trump",
-        "url": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
-        "publishedAt": "2026-09-09T05:39:16.000Z",
         "category": "entertainment",
         "zone": "in"
       }
@@ -1210,6 +1210,61 @@
         "zone": "au"
       },
       {
+        "title": "People long for simpler times, say Practical Magic reboot stars",
+        "url": "https://www.bbc.co.uk/news/articles/cpq0n1q0eego?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Actresses Maisie Williams and Joey King feature in the upcoming sequel of the 1998 fantasy romcom.",
+        "publishedAt": "2026-09-11T00:51:17.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
+        "url": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
+        "publishedAt": "2026-09-10T18:27:22.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Oasis tease tour announcement with drone display",
+        "url": "https://www.bbc.co.uk/news/articles/cwyz8k6d600o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The band illuminated the sky over the Etihad's Joie Stadium, home to Manchester City Woman.",
+        "publishedAt": "2026-09-11T07:31:32.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Bayeux Tapestry unveiled to UK public for first time at British Museum",
+        "url": "https://www.bbc.co.uk/news/articles/c158k4p22xwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Visitors tell the BBC it was a \"real privilege\" to be among the first to see the tapestry in England.",
+        "publishedAt": "2026-09-10T17:29:35.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Female DJs call out 'blatant misogyny' and harassment in nightlife scene",
+        "url": "https://www.bbc.co.uk/news/articles/crr4j00q44zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Female DJs describe their experiences of safety and the wider issue of sexism in the nightlife scene.",
+        "publishedAt": "2026-09-10T23:02:28.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
         "title": "New Strictly hosts explain their roles as they reject 'roving presenter' reports",
         "url": "https://www.bbc.co.uk/news/articles/cdx0qn97g9jo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1221,17 +1276,6 @@
         "zone": "au"
       },
       {
-        "title": "BBC drops Drag Race UK after eight series",
-        "url": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Future series will no longer be broadcast on BBC Three as the show moves to a streaming platform owned by its production company.",
-        "publishedAt": "2026-09-10T07:49:57.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
         "title": "Harry Styles extends tour, with Kylie as a support act",
         "url": "https://www.bbc.co.uk/news/articles/ckgwenl0g0wo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1239,50 +1283,6 @@
         },
         "description": "The pop star will play 25 more dates on his Together, Together tour, including three in the London.",
         "publishedAt": "2026-09-10T13:19:28.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Nicolas Cage's driveway collapses as sinkhole opens up at his Malibu home",
-        "url": "https://www.bbc.co.uk/news/articles/c790l73ryp3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A 30ft crater opened up outside the actor's home in Malibu after heavy rain in Southern California.",
-        "publishedAt": "2026-09-09T09:40:31.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Actor Noel Clarke charged with sexual offences",
-        "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
-        "publishedAt": "2026-09-09T12:51:24.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Channel 4 to cut 340 jobs by the end of the year in major shake-up",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzprn3gkgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It comes after the network conducted a review amid a \"rapidly changing media landscape\".",
-        "publishedAt": "2026-09-09T12:09:50.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "South Park creators rename show 'South America' in apparent dig at Trump",
-        "url": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
-        "publishedAt": "2026-09-09T05:39:16.000Z",
         "category": "entertainment",
         "zone": "au"
       }
@@ -1302,6 +1302,61 @@
         "zone": "ca"
       },
       {
+        "title": "People long for simpler times, say Practical Magic reboot stars",
+        "url": "https://www.bbc.co.uk/news/articles/cpq0n1q0eego?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Actresses Maisie Williams and Joey King feature in the upcoming sequel of the 1998 fantasy romcom.",
+        "publishedAt": "2026-09-11T00:51:17.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
+        "url": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
+        "publishedAt": "2026-09-10T18:27:22.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "Oasis tease tour announcement with drone display",
+        "url": "https://www.bbc.co.uk/news/articles/cwyz8k6d600o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The band illuminated the sky over the Etihad's Joie Stadium, home to Manchester City Woman.",
+        "publishedAt": "2026-09-11T07:31:32.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "Bayeux Tapestry unveiled to UK public for first time at British Museum",
+        "url": "https://www.bbc.co.uk/news/articles/c158k4p22xwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Visitors tell the BBC it was a \"real privilege\" to be among the first to see the tapestry in England.",
+        "publishedAt": "2026-09-10T17:29:35.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "Female DJs call out 'blatant misogyny' and harassment in nightlife scene",
+        "url": "https://www.bbc.co.uk/news/articles/crr4j00q44zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Female DJs describe their experiences of safety and the wider issue of sexism in the nightlife scene.",
+        "publishedAt": "2026-09-10T23:02:28.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
         "title": "New Strictly hosts explain their roles as they reject 'roving presenter' reports",
         "url": "https://www.bbc.co.uk/news/articles/cdx0qn97g9jo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1313,17 +1368,6 @@
         "zone": "ca"
       },
       {
-        "title": "BBC drops Drag Race UK after eight series",
-        "url": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Future series will no longer be broadcast on BBC Three as the show moves to a streaming platform owned by its production company.",
-        "publishedAt": "2026-09-10T07:49:57.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
         "title": "Harry Styles extends tour, with Kylie as a support act",
         "url": "https://www.bbc.co.uk/news/articles/ckgwenl0g0wo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1331,50 +1375,6 @@
         },
         "description": "The pop star will play 25 more dates on his Together, Together tour, including three in the London.",
         "publishedAt": "2026-09-10T13:19:28.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Nicolas Cage's driveway collapses as sinkhole opens up at his Malibu home",
-        "url": "https://www.bbc.co.uk/news/articles/c790l73ryp3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A 30ft crater opened up outside the actor's home in Malibu after heavy rain in Southern California.",
-        "publishedAt": "2026-09-09T09:40:31.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Actor Noel Clarke charged with sexual offences",
-        "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
-        "publishedAt": "2026-09-09T12:51:24.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Channel 4 to cut 340 jobs by the end of the year in major shake-up",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzprn3gkgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It comes after the network conducted a review amid a \"rapidly changing media landscape\".",
-        "publishedAt": "2026-09-09T12:09:50.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "South Park creators rename show 'South America' in apparent dig at Trump",
-        "url": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
-        "publishedAt": "2026-09-09T05:39:16.000Z",
         "category": "entertainment",
         "zone": "ca"
       }
@@ -2303,35 +2303,57 @@
   "sports_us": {
     "articles": [
       {
-        "title": "Rybakina sets up blockbuster Sabalenka final at US Open",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cy9znnpnx5ro?at_medium=RSS&at_campaign=rss",
+        "title": "Hall signs new contract with Newcastle until 2031",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Soon-to-be world number one Elena Rybakina will face Aryna Sabalenka in a blockbuster US Open final between the tournament's top two seeds.",
-        "publishedAt": "2026-09-11T04:41:31.000Z",
+        "description": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031.",
+        "publishedAt": "2026-09-11T08:00:07.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Two goals in two games - Sesko gives Man Utd a different threat",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c770d63d850o?at_medium=RSS&at_campaign=rss",
+        "title": "$10m on line at inaugural Ultimate Championship",
+        "url": "https://www.bbc.co.uk/sport/athletics/articles/c8enzz036leo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Benjamin Sesko's return to Manchester United's starting line-up is well timed ahead of Sunday's Premier League encounter with Manchester City",
-        "publishedAt": "2026-09-10T22:41:17.000Z",
+        "description": "The inaugural World Athletics Ultimate Championship begins on Friday. From the global stars competing to how it all works - here is everything you need to know.",
+        "publishedAt": "2026-09-11T06:45:18.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Man Utd put four past Sabah on Champions League return",
-        "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
+        "title": "Bed at 6:45am - US Open semi-finalists fight effects of late-night finishes",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/crk3jjp2l35o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
-        "publishedAt": "2026-09-10T21:01:24.000Z",
+        "description": "New York is known as the city that never sleeps. But that comes at a price for US Open stars - including men's semi-finalists Ben Shelton and Alexander Zverev.",
+        "publishedAt": "2026-09-11T09:09:59.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Hull's Thomas unhurt after car crash",
+        "url": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Premier League winger Sorba Thomas's Land Rover overturns on Millhouse Woods Lane in Cottingham.",
+        "publishedAt": "2026-09-11T10:32:45.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "More than 100,000 watch 49ers shock Rams in Melbourne",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/cvgyq36rvxvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "San Francisco 49ers record dominant 27-7 victory over Super Bowl favourites Los Angeles Rams in front of a crowd of more than 100,000 at Melbourne Cricket Ground.",
+        "publishedAt": "2026-09-11T06:24:40.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2347,46 +2369,24 @@
         "zone": "us"
       },
       {
-        "title": "Eggs, insults & a champion with a fake beard - Garcia and Benn face off",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cy5z0qgrlx7o?at_medium=RSS&at_campaign=rss",
+        "title": "Why Nigel Benn can't walk away from Conor",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/ced7vw99lweo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A performative Ryan Garcia shouted, repeatedly swore and taunted a composed Conor Benn with a boiled egg before Saturday's WBC welterweight title fight.",
-        "publishedAt": "2026-09-11T05:22:20.000Z",
+        "description": "Nigel Benn vowed to leave son Conor to plough his own path after he beat Chris Eubank Jr, but the retired world champion is back by his side this week as he prepares to face WBC welterweight champion Ryan Garcia.",
+        "publishedAt": "2026-09-11T07:08:57.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Saint-Maximin on speaking out after his children were racially abused",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ce8xzg9e81ro?at_medium=RSS&at_campaign=rss",
+        "title": "Man Utd put four past Sabah on Champions League return",
+        "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Newcastle winger Allan Saint-Maximin says he felt it was important to speak out after his children were racially abused earlier this year in Mexico.",
-        "publishedAt": "2026-09-11T05:23:22.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "England's push for two-day win halted by weather",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c980dgvp2qeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England's charge towards a two-day victory in the final Test against Pakistan is only halted by rain at Edgbaston.",
-        "publishedAt": "2026-09-10T16:44:58.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "England march to early win over Pakistan held up by rain",
-        "url": "https://www.bbc.co.uk/sport/cricket/videos/cz9zjypykqqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Harry Brook, Dan Lawrence, Jamie Smith and Ollie Robinson all post half-centuries on day two of the third Test for England, with rain the only respite for a Pakistan side trailing by 268.",
-        "publishedAt": "2026-09-10T17:05:35.000Z",
+        "description": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
+        "publishedAt": "2026-09-10T21:01:24.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,35 +2395,57 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "Rybakina sets up blockbuster Sabalenka final at US Open",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cy9znnpnx5ro?at_medium=RSS&at_campaign=rss",
+        "title": "Hall signs new contract with Newcastle until 2031",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Soon-to-be world number one Elena Rybakina will face Aryna Sabalenka in a blockbuster US Open final between the tournament's top two seeds.",
-        "publishedAt": "2026-09-11T04:41:31.000Z",
+        "description": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031.",
+        "publishedAt": "2026-09-11T08:00:07.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Two goals in two games - Sesko gives Man Utd a different threat",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c770d63d850o?at_medium=RSS&at_campaign=rss",
+        "title": "$10m on line at inaugural Ultimate Championship",
+        "url": "https://www.bbc.co.uk/sport/athletics/articles/c8enzz036leo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Benjamin Sesko's return to Manchester United's starting line-up is well timed ahead of Sunday's Premier League encounter with Manchester City",
-        "publishedAt": "2026-09-10T22:41:17.000Z",
+        "description": "The inaugural World Athletics Ultimate Championship begins on Friday. From the global stars competing to how it all works - here is everything you need to know.",
+        "publishedAt": "2026-09-11T06:45:18.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Man Utd put four past Sabah on Champions League return",
-        "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
+        "title": "Bed at 6:45am - US Open semi-finalists fight effects of late-night finishes",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/crk3jjp2l35o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
-        "publishedAt": "2026-09-10T21:01:24.000Z",
+        "description": "New York is known as the city that never sleeps. But that comes at a price for US Open stars - including men's semi-finalists Ben Shelton and Alexander Zverev.",
+        "publishedAt": "2026-09-11T09:09:59.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Hull's Thomas unhurt after car crash",
+        "url": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Premier League winger Sorba Thomas's Land Rover overturns on Millhouse Woods Lane in Cottingham.",
+        "publishedAt": "2026-09-11T10:32:45.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "More than 100,000 watch 49ers shock Rams in Melbourne",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/cvgyq36rvxvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "San Francisco 49ers record dominant 27-7 victory over Super Bowl favourites Los Angeles Rams in front of a crowd of more than 100,000 at Melbourne Cricket Ground.",
+        "publishedAt": "2026-09-11T06:24:40.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2439,46 +2461,24 @@
         "zone": "gb"
       },
       {
-        "title": "Eggs, insults & a champion with a fake beard - Garcia and Benn face off",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cy5z0qgrlx7o?at_medium=RSS&at_campaign=rss",
+        "title": "Why Nigel Benn can't walk away from Conor",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/ced7vw99lweo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A performative Ryan Garcia shouted, repeatedly swore and taunted a composed Conor Benn with a boiled egg before Saturday's WBC welterweight title fight.",
-        "publishedAt": "2026-09-11T05:22:20.000Z",
+        "description": "Nigel Benn vowed to leave son Conor to plough his own path after he beat Chris Eubank Jr, but the retired world champion is back by his side this week as he prepares to face WBC welterweight champion Ryan Garcia.",
+        "publishedAt": "2026-09-11T07:08:57.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Saint-Maximin on speaking out after his children were racially abused",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ce8xzg9e81ro?at_medium=RSS&at_campaign=rss",
+        "title": "Man Utd put four past Sabah on Champions League return",
+        "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Newcastle winger Allan Saint-Maximin says he felt it was important to speak out after his children were racially abused earlier this year in Mexico.",
-        "publishedAt": "2026-09-11T05:23:22.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "England's push for two-day win halted by weather",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c980dgvp2qeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England's charge towards a two-day victory in the final Test against Pakistan is only halted by rain at Edgbaston.",
-        "publishedAt": "2026-09-10T16:44:58.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "England march to early win over Pakistan held up by rain",
-        "url": "https://www.bbc.co.uk/sport/cricket/videos/cz9zjypykqqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Harry Brook, Dan Lawrence, Jamie Smith and Ollie Robinson all post half-centuries on day two of the third Test for England, with rain the only respite for a Pakistan side trailing by 268.",
-        "publishedAt": "2026-09-10T17:05:35.000Z",
+        "description": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
+        "publishedAt": "2026-09-10T21:01:24.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,35 +2487,57 @@
   "sports_in": {
     "articles": [
       {
-        "title": "Rybakina sets up blockbuster Sabalenka final at US Open",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cy9znnpnx5ro?at_medium=RSS&at_campaign=rss",
+        "title": "Hall signs new contract with Newcastle until 2031",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Soon-to-be world number one Elena Rybakina will face Aryna Sabalenka in a blockbuster US Open final between the tournament's top two seeds.",
-        "publishedAt": "2026-09-11T04:41:31.000Z",
+        "description": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031.",
+        "publishedAt": "2026-09-11T08:00:07.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Two goals in two games - Sesko gives Man Utd a different threat",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c770d63d850o?at_medium=RSS&at_campaign=rss",
+        "title": "$10m on line at inaugural Ultimate Championship",
+        "url": "https://www.bbc.co.uk/sport/athletics/articles/c8enzz036leo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Benjamin Sesko's return to Manchester United's starting line-up is well timed ahead of Sunday's Premier League encounter with Manchester City",
-        "publishedAt": "2026-09-10T22:41:17.000Z",
+        "description": "The inaugural World Athletics Ultimate Championship begins on Friday. From the global stars competing to how it all works - here is everything you need to know.",
+        "publishedAt": "2026-09-11T06:45:18.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Man Utd put four past Sabah on Champions League return",
-        "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
+        "title": "Bed at 6:45am - US Open semi-finalists fight effects of late-night finishes",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/crk3jjp2l35o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
-        "publishedAt": "2026-09-10T21:01:24.000Z",
+        "description": "New York is known as the city that never sleeps. But that comes at a price for US Open stars - including men's semi-finalists Ben Shelton and Alexander Zverev.",
+        "publishedAt": "2026-09-11T09:09:59.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Hull's Thomas unhurt after car crash",
+        "url": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Premier League winger Sorba Thomas's Land Rover overturns on Millhouse Woods Lane in Cottingham.",
+        "publishedAt": "2026-09-11T10:32:45.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "More than 100,000 watch 49ers shock Rams in Melbourne",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/cvgyq36rvxvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "San Francisco 49ers record dominant 27-7 victory over Super Bowl favourites Los Angeles Rams in front of a crowd of more than 100,000 at Melbourne Cricket Ground.",
+        "publishedAt": "2026-09-11T06:24:40.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2531,46 +2553,24 @@
         "zone": "in"
       },
       {
-        "title": "Eggs, insults & a champion with a fake beard - Garcia and Benn face off",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cy5z0qgrlx7o?at_medium=RSS&at_campaign=rss",
+        "title": "Why Nigel Benn can't walk away from Conor",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/ced7vw99lweo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A performative Ryan Garcia shouted, repeatedly swore and taunted a composed Conor Benn with a boiled egg before Saturday's WBC welterweight title fight.",
-        "publishedAt": "2026-09-11T05:22:20.000Z",
+        "description": "Nigel Benn vowed to leave son Conor to plough his own path after he beat Chris Eubank Jr, but the retired world champion is back by his side this week as he prepares to face WBC welterweight champion Ryan Garcia.",
+        "publishedAt": "2026-09-11T07:08:57.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Saint-Maximin on speaking out after his children were racially abused",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ce8xzg9e81ro?at_medium=RSS&at_campaign=rss",
+        "title": "Man Utd put four past Sabah on Champions League return",
+        "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Newcastle winger Allan Saint-Maximin says he felt it was important to speak out after his children were racially abused earlier this year in Mexico.",
-        "publishedAt": "2026-09-11T05:23:22.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "England's push for two-day win halted by weather",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c980dgvp2qeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England's charge towards a two-day victory in the final Test against Pakistan is only halted by rain at Edgbaston.",
-        "publishedAt": "2026-09-10T16:44:58.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "England march to early win over Pakistan held up by rain",
-        "url": "https://www.bbc.co.uk/sport/cricket/videos/cz9zjypykqqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Harry Brook, Dan Lawrence, Jamie Smith and Ollie Robinson all post half-centuries on day two of the third Test for England, with rain the only respite for a Pakistan side trailing by 268.",
-        "publishedAt": "2026-09-10T17:05:35.000Z",
+        "description": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
+        "publishedAt": "2026-09-10T21:01:24.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,35 +2579,57 @@
   "sports_au": {
     "articles": [
       {
-        "title": "Rybakina sets up blockbuster Sabalenka final at US Open",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cy9znnpnx5ro?at_medium=RSS&at_campaign=rss",
+        "title": "Hall signs new contract with Newcastle until 2031",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Soon-to-be world number one Elena Rybakina will face Aryna Sabalenka in a blockbuster US Open final between the tournament's top two seeds.",
-        "publishedAt": "2026-09-11T04:41:31.000Z",
+        "description": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031.",
+        "publishedAt": "2026-09-11T08:00:07.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Two goals in two games - Sesko gives Man Utd a different threat",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c770d63d850o?at_medium=RSS&at_campaign=rss",
+        "title": "$10m on line at inaugural Ultimate Championship",
+        "url": "https://www.bbc.co.uk/sport/athletics/articles/c8enzz036leo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Benjamin Sesko's return to Manchester United's starting line-up is well timed ahead of Sunday's Premier League encounter with Manchester City",
-        "publishedAt": "2026-09-10T22:41:17.000Z",
+        "description": "The inaugural World Athletics Ultimate Championship begins on Friday. From the global stars competing to how it all works - here is everything you need to know.",
+        "publishedAt": "2026-09-11T06:45:18.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Man Utd put four past Sabah on Champions League return",
-        "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
+        "title": "Bed at 6:45am - US Open semi-finalists fight effects of late-night finishes",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/crk3jjp2l35o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
-        "publishedAt": "2026-09-10T21:01:24.000Z",
+        "description": "New York is known as the city that never sleeps. But that comes at a price for US Open stars - including men's semi-finalists Ben Shelton and Alexander Zverev.",
+        "publishedAt": "2026-09-11T09:09:59.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Hull's Thomas unhurt after car crash",
+        "url": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Premier League winger Sorba Thomas's Land Rover overturns on Millhouse Woods Lane in Cottingham.",
+        "publishedAt": "2026-09-11T10:32:45.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "More than 100,000 watch 49ers shock Rams in Melbourne",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/cvgyq36rvxvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "San Francisco 49ers record dominant 27-7 victory over Super Bowl favourites Los Angeles Rams in front of a crowd of more than 100,000 at Melbourne Cricket Ground.",
+        "publishedAt": "2026-09-11T06:24:40.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2623,46 +2645,24 @@
         "zone": "au"
       },
       {
-        "title": "Eggs, insults & a champion with a fake beard - Garcia and Benn face off",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cy5z0qgrlx7o?at_medium=RSS&at_campaign=rss",
+        "title": "Why Nigel Benn can't walk away from Conor",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/ced7vw99lweo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A performative Ryan Garcia shouted, repeatedly swore and taunted a composed Conor Benn with a boiled egg before Saturday's WBC welterweight title fight.",
-        "publishedAt": "2026-09-11T05:22:20.000Z",
+        "description": "Nigel Benn vowed to leave son Conor to plough his own path after he beat Chris Eubank Jr, but the retired world champion is back by his side this week as he prepares to face WBC welterweight champion Ryan Garcia.",
+        "publishedAt": "2026-09-11T07:08:57.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Saint-Maximin on speaking out after his children were racially abused",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ce8xzg9e81ro?at_medium=RSS&at_campaign=rss",
+        "title": "Man Utd put four past Sabah on Champions League return",
+        "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Newcastle winger Allan Saint-Maximin says he felt it was important to speak out after his children were racially abused earlier this year in Mexico.",
-        "publishedAt": "2026-09-11T05:23:22.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "England's push for two-day win halted by weather",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c980dgvp2qeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England's charge towards a two-day victory in the final Test against Pakistan is only halted by rain at Edgbaston.",
-        "publishedAt": "2026-09-10T16:44:58.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "England march to early win over Pakistan held up by rain",
-        "url": "https://www.bbc.co.uk/sport/cricket/videos/cz9zjypykqqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Harry Brook, Dan Lawrence, Jamie Smith and Ollie Robinson all post half-centuries on day two of the third Test for England, with rain the only respite for a Pakistan side trailing by 268.",
-        "publishedAt": "2026-09-10T17:05:35.000Z",
+        "description": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
+        "publishedAt": "2026-09-10T21:01:24.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,35 +2671,57 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "Rybakina sets up blockbuster Sabalenka final at US Open",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cy9znnpnx5ro?at_medium=RSS&at_campaign=rss",
+        "title": "Hall signs new contract with Newcastle until 2031",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Soon-to-be world number one Elena Rybakina will face Aryna Sabalenka in a blockbuster US Open final between the tournament's top two seeds.",
-        "publishedAt": "2026-09-11T04:41:31.000Z",
+        "description": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031.",
+        "publishedAt": "2026-09-11T08:00:07.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Two goals in two games - Sesko gives Man Utd a different threat",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c770d63d850o?at_medium=RSS&at_campaign=rss",
+        "title": "$10m on line at inaugural Ultimate Championship",
+        "url": "https://www.bbc.co.uk/sport/athletics/articles/c8enzz036leo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Benjamin Sesko's return to Manchester United's starting line-up is well timed ahead of Sunday's Premier League encounter with Manchester City",
-        "publishedAt": "2026-09-10T22:41:17.000Z",
+        "description": "The inaugural World Athletics Ultimate Championship begins on Friday. From the global stars competing to how it all works - here is everything you need to know.",
+        "publishedAt": "2026-09-11T06:45:18.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Man Utd put four past Sabah on Champions League return",
-        "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
+        "title": "Bed at 6:45am - US Open semi-finalists fight effects of late-night finishes",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/crk3jjp2l35o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
-        "publishedAt": "2026-09-10T21:01:24.000Z",
+        "description": "New York is known as the city that never sleeps. But that comes at a price for US Open stars - including men's semi-finalists Ben Shelton and Alexander Zverev.",
+        "publishedAt": "2026-09-11T09:09:59.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Hull's Thomas unhurt after car crash",
+        "url": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Premier League winger Sorba Thomas's Land Rover overturns on Millhouse Woods Lane in Cottingham.",
+        "publishedAt": "2026-09-11T10:32:45.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "More than 100,000 watch 49ers shock Rams in Melbourne",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/cvgyq36rvxvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "San Francisco 49ers record dominant 27-7 victory over Super Bowl favourites Los Angeles Rams in front of a crowd of more than 100,000 at Melbourne Cricket Ground.",
+        "publishedAt": "2026-09-11T06:24:40.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2715,46 +2737,24 @@
         "zone": "ca"
       },
       {
-        "title": "Eggs, insults & a champion with a fake beard - Garcia and Benn face off",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cy5z0qgrlx7o?at_medium=RSS&at_campaign=rss",
+        "title": "Why Nigel Benn can't walk away from Conor",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/ced7vw99lweo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A performative Ryan Garcia shouted, repeatedly swore and taunted a composed Conor Benn with a boiled egg before Saturday's WBC welterweight title fight.",
-        "publishedAt": "2026-09-11T05:22:20.000Z",
+        "description": "Nigel Benn vowed to leave son Conor to plough his own path after he beat Chris Eubank Jr, but the retired world champion is back by his side this week as he prepares to face WBC welterweight champion Ryan Garcia.",
+        "publishedAt": "2026-09-11T07:08:57.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Saint-Maximin on speaking out after his children were racially abused",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ce8xzg9e81ro?at_medium=RSS&at_campaign=rss",
+        "title": "Man Utd put four past Sabah on Champions League return",
+        "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Newcastle winger Allan Saint-Maximin says he felt it was important to speak out after his children were racially abused earlier this year in Mexico.",
-        "publishedAt": "2026-09-11T05:23:22.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "England's push for two-day win halted by weather",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c980dgvp2qeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England's charge towards a two-day victory in the final Test against Pakistan is only halted by rain at Edgbaston.",
-        "publishedAt": "2026-09-10T16:44:58.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "England march to early win over Pakistan held up by rain",
-        "url": "https://www.bbc.co.uk/sport/cricket/videos/cz9zjypykqqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Harry Brook, Dan Lawrence, Jamie Smith and Ollie Robinson all post half-centuries on day two of the third Test for England, with rain the only respite for a Pakistan side trailing by 268.",
-        "publishedAt": "2026-09-10T17:05:35.000Z",
+        "description": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
+        "publishedAt": "2026-09-10T21:01:24.000Z",
         "category": "sports",
         "zone": "ca"
       }
@@ -2763,6 +2763,17 @@
   "technology_us": {
     "articles": [
       {
+        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+        "publishedAt": "2026-09-11T08:15:25.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
         "title": "Can Europe recharge its battery industry?",
         "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2836,17 +2847,6 @@
         },
         "description": "More companies are tying career progression to AI use: is that fair?",
         "publishedAt": "2026-09-08T23:05:23.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-        "url": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
-        "publishedAt": "2026-09-08T20:57:09.000Z",
         "category": "technology",
         "zone": "us"
       }
@@ -2855,6 +2855,17 @@
   "technology_gb": {
     "articles": [
       {
+        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+        "publishedAt": "2026-09-11T08:15:25.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
         "title": "Can Europe recharge its battery industry?",
         "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2928,17 +2939,6 @@
         },
         "description": "More companies are tying career progression to AI use: is that fair?",
         "publishedAt": "2026-09-08T23:05:23.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-        "url": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
-        "publishedAt": "2026-09-08T20:57:09.000Z",
         "category": "technology",
         "zone": "gb"
       }
@@ -2947,6 +2947,17 @@
   "technology_in": {
     "articles": [
       {
+        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+        "publishedAt": "2026-09-11T08:15:25.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
         "title": "Can Europe recharge its battery industry?",
         "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3020,17 +3031,6 @@
         },
         "description": "More companies are tying career progression to AI use: is that fair?",
         "publishedAt": "2026-09-08T23:05:23.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-        "url": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
-        "publishedAt": "2026-09-08T20:57:09.000Z",
         "category": "technology",
         "zone": "in"
       }
@@ -3039,6 +3039,17 @@
   "technology_au": {
     "articles": [
       {
+        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+        "publishedAt": "2026-09-11T08:15:25.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
         "title": "Can Europe recharge its battery industry?",
         "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3112,17 +3123,6 @@
         },
         "description": "More companies are tying career progression to AI use: is that fair?",
         "publishedAt": "2026-09-08T23:05:23.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-        "url": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
-        "publishedAt": "2026-09-08T20:57:09.000Z",
         "category": "technology",
         "zone": "au"
       }
@@ -3131,6 +3131,17 @@
   "technology_ca": {
     "articles": [
       {
+        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+        "publishedAt": "2026-09-11T08:15:25.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
         "title": "Can Europe recharge its battery industry?",
         "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3204,17 +3215,6 @@
         },
         "description": "More companies are tying career progression to AI use: is that fair?",
         "publishedAt": "2026-09-08T23:05:23.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-        "url": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
-        "publishedAt": "2026-09-08T20:57:09.000Z",
         "category": "technology",
         "zone": "ca"
       }
