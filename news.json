@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T22:57:56.027Z",
+  "generatedAt": "2026-09-11T00:55:56.552Z",
   "general_us": {
     "articles": [
       {
@@ -10,6 +10,17 @@
         },
         "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
         "publishedAt": "2026-09-10T21:22:06.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+        "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
+        "publishedAt": "2026-09-10T23:21:00.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -36,6 +47,17 @@
         "zone": "us"
       },
       {
+        "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
+        "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+        "publishedAt": "2026-09-10T23:22:11.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
         "title": "Can Trump pay $5,000 to every American adult if Republicans win midterm elections?",
         "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -54,28 +76,6 @@
         },
         "description": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
         "publishedAt": "2026-09-10T18:27:22.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Four hurt and seven arrested in London stabbing",
-        "url": "https://www.bbc.co.uk/news/articles/c39mrjvpx4yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Seven people are arrested after a fight that an eyewitness says broke out near a KFC restaurant.",
-        "publishedAt": "2026-09-10T18:46:05.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Drone display recreates the Twin Towers over New York City",
-        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
-        "publishedAt": "2026-09-10T14:19:26.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -106,6 +106,17 @@
         "zone": "gb"
       },
       {
+        "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+        "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
+        "publishedAt": "2026-09-10T23:21:00.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
         "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -128,6 +139,17 @@
         "zone": "gb"
       },
       {
+        "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
+        "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+        "publishedAt": "2026-09-10T23:22:11.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Can Trump pay $5,000 to every American adult if Republicans win midterm elections?",
         "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -146,28 +168,6 @@
         },
         "description": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
         "publishedAt": "2026-09-10T18:27:22.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Four hurt and seven arrested in London stabbing",
-        "url": "https://www.bbc.co.uk/news/articles/c39mrjvpx4yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Seven people are arrested after a fight that an eyewitness says broke out near a KFC restaurant.",
-        "publishedAt": "2026-09-10T18:46:05.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Drone display recreates the Twin Towers over New York City",
-        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
-        "publishedAt": "2026-09-10T14:19:26.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -198,6 +198,17 @@
         "zone": "in"
       },
       {
+        "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+        "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
+        "publishedAt": "2026-09-10T23:21:00.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
         "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -220,6 +231,17 @@
         "zone": "in"
       },
       {
+        "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
+        "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+        "publishedAt": "2026-09-10T23:22:11.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Can Trump pay $5,000 to every American adult if Republicans win midterm elections?",
         "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -238,28 +260,6 @@
         },
         "description": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
         "publishedAt": "2026-09-10T18:27:22.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Four hurt and seven arrested in London stabbing",
-        "url": "https://www.bbc.co.uk/news/articles/c39mrjvpx4yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Seven people are arrested after a fight that an eyewitness says broke out near a KFC restaurant.",
-        "publishedAt": "2026-09-10T18:46:05.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Drone display recreates the Twin Towers over New York City",
-        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
-        "publishedAt": "2026-09-10T14:19:26.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -290,6 +290,17 @@
         "zone": "au"
       },
       {
+        "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+        "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
+        "publishedAt": "2026-09-10T23:21:00.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
         "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -312,6 +323,17 @@
         "zone": "au"
       },
       {
+        "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
+        "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+        "publishedAt": "2026-09-10T23:22:11.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Can Trump pay $5,000 to every American adult if Republicans win midterm elections?",
         "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -330,28 +352,6 @@
         },
         "description": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
         "publishedAt": "2026-09-10T18:27:22.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Four hurt and seven arrested in London stabbing",
-        "url": "https://www.bbc.co.uk/news/articles/c39mrjvpx4yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Seven people are arrested after a fight that an eyewitness says broke out near a KFC restaurant.",
-        "publishedAt": "2026-09-10T18:46:05.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Drone display recreates the Twin Towers over New York City",
-        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
-        "publishedAt": "2026-09-10T14:19:26.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -382,6 +382,17 @@
         "zone": "ca"
       },
       {
+        "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+        "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
+        "publishedAt": "2026-09-10T23:21:00.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
         "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -400,6 +411,17 @@
         },
         "description": "Two anti-migrant protests took place in Dover and Portsmouth last weekend.",
         "publishedAt": "2026-09-10T16:57:06.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
+        "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+        "publishedAt": "2026-09-10T23:22:11.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -426,28 +448,6 @@
         "zone": "ca"
       },
       {
-        "title": "Four hurt and seven arrested in London stabbing",
-        "url": "https://www.bbc.co.uk/news/articles/c39mrjvpx4yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Seven people are arrested after a fight that an eyewitness says broke out near a KFC restaurant.",
-        "publishedAt": "2026-09-10T18:46:05.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Drone display recreates the Twin Towers over New York City",
-        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
-        "publishedAt": "2026-09-10T14:19:26.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
         "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
         "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -463,6 +463,28 @@
   "business_us": {
     "articles": [
       {
+        "title": "I asked my husband to pay into my pension when we had a child - here's why",
+        "url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
+        "publishedAt": "2026-09-10T23:04:30.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Are interest rates on the way up again?",
+        "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
+        "publishedAt": "2026-09-10T23:03:09.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
         "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -496,6 +518,17 @@
         "zone": "us"
       },
       {
+        "title": "Can Europe recharge its battery industry?",
+        "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+        "publishedAt": "2026-09-10T23:05:47.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "Primark finally set to launch home deliveries",
         "url": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -514,39 +547,6 @@
         },
         "description": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
         "publishedAt": "2026-09-09T23:02:20.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Why some experts increasingly fear AI will take over",
-        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
-        "publishedAt": "2026-09-09T23:17:33.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-        "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-        "publishedAt": "2026-09-10T09:32:34.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Labour mayors in England vow to cap tourist tax at 5%",
-        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
-        "publishedAt": "2026-09-10T21:22:06.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,6 +555,28 @@
   "business_gb": {
     "articles": [
       {
+        "title": "I asked my husband to pay into my pension when we had a child - here's why",
+        "url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
+        "publishedAt": "2026-09-10T23:04:30.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Are interest rates on the way up again?",
+        "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
+        "publishedAt": "2026-09-10T23:03:09.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
         "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -588,6 +610,17 @@
         "zone": "gb"
       },
       {
+        "title": "Can Europe recharge its battery industry?",
+        "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+        "publishedAt": "2026-09-10T23:05:47.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "Primark finally set to launch home deliveries",
         "url": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -606,39 +639,6 @@
         },
         "description": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
         "publishedAt": "2026-09-09T23:02:20.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Why some experts increasingly fear AI will take over",
-        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
-        "publishedAt": "2026-09-09T23:17:33.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-        "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-        "publishedAt": "2026-09-10T09:32:34.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Labour mayors in England vow to cap tourist tax at 5%",
-        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
-        "publishedAt": "2026-09-10T21:22:06.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,6 +647,28 @@
   "business_in": {
     "articles": [
       {
+        "title": "I asked my husband to pay into my pension when we had a child - here's why",
+        "url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
+        "publishedAt": "2026-09-10T23:04:30.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Are interest rates on the way up again?",
+        "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
+        "publishedAt": "2026-09-10T23:03:09.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
         "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -680,6 +702,17 @@
         "zone": "in"
       },
       {
+        "title": "Can Europe recharge its battery industry?",
+        "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+        "publishedAt": "2026-09-10T23:05:47.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "Primark finally set to launch home deliveries",
         "url": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -698,39 +731,6 @@
         },
         "description": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
         "publishedAt": "2026-09-09T23:02:20.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Why some experts increasingly fear AI will take over",
-        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
-        "publishedAt": "2026-09-09T23:17:33.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-        "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-        "publishedAt": "2026-09-10T09:32:34.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Labour mayors in England vow to cap tourist tax at 5%",
-        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
-        "publishedAt": "2026-09-10T21:22:06.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,6 +739,28 @@
   "business_au": {
     "articles": [
       {
+        "title": "I asked my husband to pay into my pension when we had a child - here's why",
+        "url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
+        "publishedAt": "2026-09-10T23:04:30.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Are interest rates on the way up again?",
+        "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
+        "publishedAt": "2026-09-10T23:03:09.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
         "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -772,6 +794,17 @@
         "zone": "au"
       },
       {
+        "title": "Can Europe recharge its battery industry?",
+        "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+        "publishedAt": "2026-09-10T23:05:47.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "Primark finally set to launch home deliveries",
         "url": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -790,39 +823,6 @@
         },
         "description": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
         "publishedAt": "2026-09-09T23:02:20.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Why some experts increasingly fear AI will take over",
-        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
-        "publishedAt": "2026-09-09T23:17:33.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-        "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-        "publishedAt": "2026-09-10T09:32:34.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Labour mayors in England vow to cap tourist tax at 5%",
-        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
-        "publishedAt": "2026-09-10T21:22:06.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,6 +831,28 @@
   "business_ca": {
     "articles": [
       {
+        "title": "I asked my husband to pay into my pension when we had a child - here's why",
+        "url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
+        "publishedAt": "2026-09-10T23:04:30.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Are interest rates on the way up again?",
+        "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
+        "publishedAt": "2026-09-10T23:03:09.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
         "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -864,6 +886,17 @@
         "zone": "ca"
       },
       {
+        "title": "Can Europe recharge its battery industry?",
+        "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+        "publishedAt": "2026-09-10T23:05:47.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "Primark finally set to launch home deliveries",
         "url": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -882,39 +915,6 @@
         },
         "description": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
         "publishedAt": "2026-09-09T23:02:20.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Why some experts increasingly fear AI will take over",
-        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
-        "publishedAt": "2026-09-09T23:17:33.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-        "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-        "publishedAt": "2026-09-10T09:32:34.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Labour mayors in England vow to cap tourist tax at 5%",
-        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
-        "publishedAt": "2026-09-10T21:22:06.000Z",
         "category": "business",
         "zone": "ca"
       }
@@ -2325,7 +2325,7 @@
         "zone": "us"
       },
       {
-        "title": "Man United put four past Sabah on Champions League return",
+        "title": "Man Utd put four past Sabah on Champions League return",
         "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2417,7 +2417,7 @@
         "zone": "gb"
       },
       {
-        "title": "Man United put four past Sabah on Champions League return",
+        "title": "Man Utd put four past Sabah on Champions League return",
         "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2509,7 +2509,7 @@
         "zone": "in"
       },
       {
-        "title": "Man United put four past Sabah on Champions League return",
+        "title": "Man Utd put four past Sabah on Champions League return",
         "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2601,7 +2601,7 @@
         "zone": "au"
       },
       {
-        "title": "Man United put four past Sabah on Champions League return",
+        "title": "Man Utd put four past Sabah on Champions League return",
         "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2693,7 +2693,7 @@
         "zone": "ca"
       },
       {
-        "title": "Man United put four past Sabah on Champions League return",
+        "title": "Man Utd put four past Sabah on Champions League return",
         "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2763,6 +2763,17 @@
   "technology_us": {
     "articles": [
       {
+        "title": "Can Europe recharge its battery industry?",
+        "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+        "publishedAt": "2026-09-10T23:05:47.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
         "title": "UK needs new laws for AI in healthcare, says watchdog",
         "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2836,17 +2847,6 @@
         },
         "description": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
         "publishedAt": "2026-09-08T20:57:09.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "New law to force tech firms to stop children taking or sharing nude images",
-        "url": "https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
-        "publishedAt": "2026-09-08T16:48:29.000Z",
         "category": "technology",
         "zone": "us"
       }
@@ -2855,6 +2855,17 @@
   "technology_gb": {
     "articles": [
       {
+        "title": "Can Europe recharge its battery industry?",
+        "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+        "publishedAt": "2026-09-10T23:05:47.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
         "title": "UK needs new laws for AI in healthcare, says watchdog",
         "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2928,17 +2939,6 @@
         },
         "description": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
         "publishedAt": "2026-09-08T20:57:09.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "New law to force tech firms to stop children taking or sharing nude images",
-        "url": "https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
-        "publishedAt": "2026-09-08T16:48:29.000Z",
         "category": "technology",
         "zone": "gb"
       }
@@ -2947,6 +2947,17 @@
   "technology_in": {
     "articles": [
       {
+        "title": "Can Europe recharge its battery industry?",
+        "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+        "publishedAt": "2026-09-10T23:05:47.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
         "title": "UK needs new laws for AI in healthcare, says watchdog",
         "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3020,17 +3031,6 @@
         },
         "description": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
         "publishedAt": "2026-09-08T20:57:09.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "New law to force tech firms to stop children taking or sharing nude images",
-        "url": "https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
-        "publishedAt": "2026-09-08T16:48:29.000Z",
         "category": "technology",
         "zone": "in"
       }
@@ -3039,6 +3039,17 @@
   "technology_au": {
     "articles": [
       {
+        "title": "Can Europe recharge its battery industry?",
+        "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+        "publishedAt": "2026-09-10T23:05:47.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
         "title": "UK needs new laws for AI in healthcare, says watchdog",
         "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3112,17 +3123,6 @@
         },
         "description": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
         "publishedAt": "2026-09-08T20:57:09.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "New law to force tech firms to stop children taking or sharing nude images",
-        "url": "https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
-        "publishedAt": "2026-09-08T16:48:29.000Z",
         "category": "technology",
         "zone": "au"
       }
@@ -3131,6 +3131,17 @@
   "technology_ca": {
     "articles": [
       {
+        "title": "Can Europe recharge its battery industry?",
+        "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+        "publishedAt": "2026-09-10T23:05:47.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
         "title": "UK needs new laws for AI in healthcare, says watchdog",
         "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3204,17 +3215,6 @@
         },
         "description": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
         "publishedAt": "2026-09-08T20:57:09.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "New law to force tech firms to stop children taking or sharing nude images",
-        "url": "https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
-        "publishedAt": "2026-09-08T16:48:29.000Z",
         "category": "technology",
         "zone": "ca"
       }
