@@ -1,15 +1,26 @@
 {
-  "generatedAt": "2026-09-12T08:27:42.713Z",
+  "generatedAt": "2026-09-12T12:42:02.287Z",
   "general_us": {
     "articles": [
       {
-        "title": "Reform receives record £36m donation from crypto billionaire",
-        "url": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
+        "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+        "url": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
-        "publishedAt": "2026-09-12T06:19:50.000Z",
+        "description": "Cryptocurrency investor Christopher Harborne says he has equalled a donation from Ben Delo announced late on Friday.",
+        "publishedAt": "2026-09-12T12:21:01.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donation",
+        "url": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg",
+        "publishedAt": "2026-09-12T10:07:00.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -20,7 +31,7 @@
           "name": "RSS Feed"
         },
         "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
-        "publishedAt": "2026-09-12T04:43:10.000Z",
+        "publishedAt": "2026-09-12T12:15:50.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -36,6 +47,17 @@
         "zone": "us"
       },
       {
+        "title": "We've followed their lives for six decades - now the stars of 7 Up are bowing out",
+        "url": "https://www.bbc.co.uk/news/articles/crm932el3yjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "70 Up is the final instalment in a series which began in 1964 and has followed the lives of 14 people.",
+        "publishedAt": "2026-09-12T00:16:16.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
         "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
         "url": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -47,46 +69,24 @@
         "zone": "us"
       },
       {
-        "title": "Is a September heatwave forecast for the UK?",
-        "url": "https://www.bbc.co.uk/weather/articles/c70l8vgk4vzo?at_medium=RSS&at_campaign=rss",
+        "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+        "url": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Temperatures will return to summerlike levels over the weekend, despite some heavy rain.",
-        "publishedAt": "2026-09-11T23:41:50.000Z",
+        "description": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
+        "publishedAt": "2026-09-12T00:35:50.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-        "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
-        "publishedAt": "2026-09-12T02:29:49.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
+        "title": "'Every museum in the world is stressing': Did the Louvre heist embolden thieves?",
         "url": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Art detectives and security experts say the number of museum thefts across Europe is increasing.",
+        "description": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
         "publishedAt": "2026-09-12T00:24:08.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "We've followed their lives for six decades - now the stars of 7 Up are bowing out",
-        "url": "https://www.bbc.co.uk/news/articles/crm932el3yjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "70 Up is the final instalment in a series which began in 1964 and has followed the lives of 14 people.",
-        "publishedAt": "2026-09-12T00:16:16.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,13 +95,24 @@
   "general_gb": {
     "articles": [
       {
-        "title": "Reform receives record £36m donation from crypto billionaire",
-        "url": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
+        "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+        "url": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
-        "publishedAt": "2026-09-12T06:19:50.000Z",
+        "description": "Cryptocurrency investor Christopher Harborne says he has equalled a donation from Ben Delo announced late on Friday.",
+        "publishedAt": "2026-09-12T12:21:01.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donation",
+        "url": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg",
+        "publishedAt": "2026-09-12T10:07:00.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -112,7 +123,7 @@
           "name": "RSS Feed"
         },
         "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
-        "publishedAt": "2026-09-12T04:43:10.000Z",
+        "publishedAt": "2026-09-12T12:15:50.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -128,6 +139,17 @@
         "zone": "gb"
       },
       {
+        "title": "We've followed their lives for six decades - now the stars of 7 Up are bowing out",
+        "url": "https://www.bbc.co.uk/news/articles/crm932el3yjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "70 Up is the final instalment in a series which began in 1964 and has followed the lives of 14 people.",
+        "publishedAt": "2026-09-12T00:16:16.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
         "url": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -139,46 +161,24 @@
         "zone": "gb"
       },
       {
-        "title": "Is a September heatwave forecast for the UK?",
-        "url": "https://www.bbc.co.uk/weather/articles/c70l8vgk4vzo?at_medium=RSS&at_campaign=rss",
+        "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+        "url": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Temperatures will return to summerlike levels over the weekend, despite some heavy rain.",
-        "publishedAt": "2026-09-11T23:41:50.000Z",
+        "description": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
+        "publishedAt": "2026-09-12T00:35:50.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-        "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
-        "publishedAt": "2026-09-12T02:29:49.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
+        "title": "'Every museum in the world is stressing': Did the Louvre heist embolden thieves?",
         "url": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Art detectives and security experts say the number of museum thefts across Europe is increasing.",
+        "description": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
         "publishedAt": "2026-09-12T00:24:08.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "We've followed their lives for six decades - now the stars of 7 Up are bowing out",
-        "url": "https://www.bbc.co.uk/news/articles/crm932el3yjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "70 Up is the final instalment in a series which began in 1964 and has followed the lives of 14 people.",
-        "publishedAt": "2026-09-12T00:16:16.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,13 +187,24 @@
   "general_in": {
     "articles": [
       {
-        "title": "Reform receives record £36m donation from crypto billionaire",
-        "url": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
+        "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+        "url": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
-        "publishedAt": "2026-09-12T06:19:50.000Z",
+        "description": "Cryptocurrency investor Christopher Harborne says he has equalled a donation from Ben Delo announced late on Friday.",
+        "publishedAt": "2026-09-12T12:21:01.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donation",
+        "url": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg",
+        "publishedAt": "2026-09-12T10:07:00.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -204,7 +215,7 @@
           "name": "RSS Feed"
         },
         "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
-        "publishedAt": "2026-09-12T04:43:10.000Z",
+        "publishedAt": "2026-09-12T12:15:50.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -220,6 +231,17 @@
         "zone": "in"
       },
       {
+        "title": "We've followed their lives for six decades - now the stars of 7 Up are bowing out",
+        "url": "https://www.bbc.co.uk/news/articles/crm932el3yjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "70 Up is the final instalment in a series which began in 1964 and has followed the lives of 14 people.",
+        "publishedAt": "2026-09-12T00:16:16.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
         "url": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -231,46 +253,24 @@
         "zone": "in"
       },
       {
-        "title": "Is a September heatwave forecast for the UK?",
-        "url": "https://www.bbc.co.uk/weather/articles/c70l8vgk4vzo?at_medium=RSS&at_campaign=rss",
+        "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+        "url": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Temperatures will return to summerlike levels over the weekend, despite some heavy rain.",
-        "publishedAt": "2026-09-11T23:41:50.000Z",
+        "description": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
+        "publishedAt": "2026-09-12T00:35:50.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-        "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
-        "publishedAt": "2026-09-12T02:29:49.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
+        "title": "'Every museum in the world is stressing': Did the Louvre heist embolden thieves?",
         "url": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Art detectives and security experts say the number of museum thefts across Europe is increasing.",
+        "description": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
         "publishedAt": "2026-09-12T00:24:08.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "We've followed their lives for six decades - now the stars of 7 Up are bowing out",
-        "url": "https://www.bbc.co.uk/news/articles/crm932el3yjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "70 Up is the final instalment in a series which began in 1964 and has followed the lives of 14 people.",
-        "publishedAt": "2026-09-12T00:16:16.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,13 +279,24 @@
   "general_au": {
     "articles": [
       {
-        "title": "Reform receives record £36m donation from crypto billionaire",
-        "url": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
+        "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+        "url": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
-        "publishedAt": "2026-09-12T06:19:50.000Z",
+        "description": "Cryptocurrency investor Christopher Harborne says he has equalled a donation from Ben Delo announced late on Friday.",
+        "publishedAt": "2026-09-12T12:21:01.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donation",
+        "url": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg",
+        "publishedAt": "2026-09-12T10:07:00.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -296,7 +307,7 @@
           "name": "RSS Feed"
         },
         "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
-        "publishedAt": "2026-09-12T04:43:10.000Z",
+        "publishedAt": "2026-09-12T12:15:50.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -312,6 +323,17 @@
         "zone": "au"
       },
       {
+        "title": "We've followed their lives for six decades - now the stars of 7 Up are bowing out",
+        "url": "https://www.bbc.co.uk/news/articles/crm932el3yjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "70 Up is the final instalment in a series which began in 1964 and has followed the lives of 14 people.",
+        "publishedAt": "2026-09-12T00:16:16.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
         "url": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -323,46 +345,24 @@
         "zone": "au"
       },
       {
-        "title": "Is a September heatwave forecast for the UK?",
-        "url": "https://www.bbc.co.uk/weather/articles/c70l8vgk4vzo?at_medium=RSS&at_campaign=rss",
+        "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+        "url": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Temperatures will return to summerlike levels over the weekend, despite some heavy rain.",
-        "publishedAt": "2026-09-11T23:41:50.000Z",
+        "description": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
+        "publishedAt": "2026-09-12T00:35:50.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-        "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
-        "publishedAt": "2026-09-12T02:29:49.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
+        "title": "'Every museum in the world is stressing': Did the Louvre heist embolden thieves?",
         "url": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Art detectives and security experts say the number of museum thefts across Europe is increasing.",
+        "description": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
         "publishedAt": "2026-09-12T00:24:08.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "We've followed their lives for six decades - now the stars of 7 Up are bowing out",
-        "url": "https://www.bbc.co.uk/news/articles/crm932el3yjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "70 Up is the final instalment in a series which began in 1964 and has followed the lives of 14 people.",
-        "publishedAt": "2026-09-12T00:16:16.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,13 +371,24 @@
   "general_ca": {
     "articles": [
       {
-        "title": "Reform receives record £36m donation from crypto billionaire",
-        "url": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
+        "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+        "url": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
-        "publishedAt": "2026-09-12T06:19:50.000Z",
+        "description": "Cryptocurrency investor Christopher Harborne says he has equalled a donation from Ben Delo announced late on Friday.",
+        "publishedAt": "2026-09-12T12:21:01.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donation",
+        "url": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg",
+        "publishedAt": "2026-09-12T10:07:00.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -388,7 +399,7 @@
           "name": "RSS Feed"
         },
         "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
-        "publishedAt": "2026-09-12T04:43:10.000Z",
+        "publishedAt": "2026-09-12T12:15:50.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -404,6 +415,17 @@
         "zone": "ca"
       },
       {
+        "title": "We've followed their lives for six decades - now the stars of 7 Up are bowing out",
+        "url": "https://www.bbc.co.uk/news/articles/crm932el3yjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "70 Up is the final instalment in a series which began in 1964 and has followed the lives of 14 people.",
+        "publishedAt": "2026-09-12T00:16:16.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
         "url": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -415,46 +437,24 @@
         "zone": "ca"
       },
       {
-        "title": "Is a September heatwave forecast for the UK?",
-        "url": "https://www.bbc.co.uk/weather/articles/c70l8vgk4vzo?at_medium=RSS&at_campaign=rss",
+        "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+        "url": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Temperatures will return to summerlike levels over the weekend, despite some heavy rain.",
-        "publishedAt": "2026-09-11T23:41:50.000Z",
+        "description": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
+        "publishedAt": "2026-09-12T00:35:50.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-        "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
-        "publishedAt": "2026-09-12T02:29:49.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
+        "title": "'Every museum in the world is stressing': Did the Louvre heist embolden thieves?",
         "url": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Art detectives and security experts say the number of museum thefts across Europe is increasing.",
+        "description": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
         "publishedAt": "2026-09-12T00:24:08.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "We've followed their lives for six decades - now the stars of 7 Up are bowing out",
-        "url": "https://www.bbc.co.uk/news/articles/crm932el3yjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "70 Up is the final instalment in a series which began in 1964 and has followed the lives of 14 people.",
-        "publishedAt": "2026-09-12T00:16:16.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -928,7 +928,7 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Art detectives and security experts say the number of museum thefts across Europe is increasing.",
+        "description": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
         "publishedAt": "2026-09-12T00:24:08.000Z",
         "category": "entertainment",
         "zone": "us"
@@ -945,13 +945,24 @@
         "zone": "us"
       },
       {
-        "title": "Stacey Solomon and Alesha Dixon to host The Voice UK in ITV revamp",
-        "url": "https://www.bbc.co.uk/news/articles/cq8je91vvzjo?at_medium=RSS&at_campaign=rss",
+        "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+        "url": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The pair replace Emma Willis, who has hosted the show since 2014 but is leaving to front Strictly.",
-        "publishedAt": "2026-09-11T15:32:44.000Z",
+        "description": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
+        "publishedAt": "2026-09-12T08:04:16.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "The Prodigy to headline Creamfields 2027",
+        "url": "https://www.bbc.co.uk/news/articles/cgmrzm17dgjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The dance music festival Creamfields has announced The Prodigy as its first headline act.",
+        "publishedAt": "2026-09-12T06:37:04.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -967,13 +978,13 @@
         "zone": "us"
       },
       {
-        "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
-        "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
+        "title": "Stacey Solomon and Alesha Dixon to host The Voice UK in ITV revamp",
+        "url": "https://www.bbc.co.uk/news/articles/cq8je91vvzjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
-        "publishedAt": "2026-09-10T16:37:18.000Z",
+        "description": "The pair replace Emma Willis, who has hosted the show since 2014 but is leaving to front Strictly.",
+        "publishedAt": "2026-09-11T15:32:44.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -985,17 +996,6 @@
         },
         "description": "Oxford's Pitt Rivers Museum will return more than three dozen sets of human remains to the Naga people.",
         "publishedAt": "2026-09-11T14:06:47.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "People long for simpler times, say Practical Magic reboot stars",
-        "url": "https://www.bbc.co.uk/news/articles/cpq0n1q0eego?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Actresses Maisie Williams and Joey King feature in the upcoming sequel of the 1998 fantasy romcom.",
-        "publishedAt": "2026-09-11T00:51:17.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -1020,7 +1020,7 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Art detectives and security experts say the number of museum thefts across Europe is increasing.",
+        "description": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
         "publishedAt": "2026-09-12T00:24:08.000Z",
         "category": "entertainment",
         "zone": "gb"
@@ -1037,13 +1037,24 @@
         "zone": "gb"
       },
       {
-        "title": "Stacey Solomon and Alesha Dixon to host The Voice UK in ITV revamp",
-        "url": "https://www.bbc.co.uk/news/articles/cq8je91vvzjo?at_medium=RSS&at_campaign=rss",
+        "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+        "url": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The pair replace Emma Willis, who has hosted the show since 2014 but is leaving to front Strictly.",
-        "publishedAt": "2026-09-11T15:32:44.000Z",
+        "description": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
+        "publishedAt": "2026-09-12T08:04:16.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "The Prodigy to headline Creamfields 2027",
+        "url": "https://www.bbc.co.uk/news/articles/cgmrzm17dgjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The dance music festival Creamfields has announced The Prodigy as its first headline act.",
+        "publishedAt": "2026-09-12T06:37:04.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1059,13 +1070,13 @@
         "zone": "gb"
       },
       {
-        "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
-        "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
+        "title": "Stacey Solomon and Alesha Dixon to host The Voice UK in ITV revamp",
+        "url": "https://www.bbc.co.uk/news/articles/cq8je91vvzjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
-        "publishedAt": "2026-09-10T16:37:18.000Z",
+        "description": "The pair replace Emma Willis, who has hosted the show since 2014 but is leaving to front Strictly.",
+        "publishedAt": "2026-09-11T15:32:44.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1077,17 +1088,6 @@
         },
         "description": "Oxford's Pitt Rivers Museum will return more than three dozen sets of human remains to the Naga people.",
         "publishedAt": "2026-09-11T14:06:47.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "People long for simpler times, say Practical Magic reboot stars",
-        "url": "https://www.bbc.co.uk/news/articles/cpq0n1q0eego?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Actresses Maisie Williams and Joey King feature in the upcoming sequel of the 1998 fantasy romcom.",
-        "publishedAt": "2026-09-11T00:51:17.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1112,7 +1112,7 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Art detectives and security experts say the number of museum thefts across Europe is increasing.",
+        "description": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
         "publishedAt": "2026-09-12T00:24:08.000Z",
         "category": "entertainment",
         "zone": "in"
@@ -1129,13 +1129,24 @@
         "zone": "in"
       },
       {
-        "title": "Stacey Solomon and Alesha Dixon to host The Voice UK in ITV revamp",
-        "url": "https://www.bbc.co.uk/news/articles/cq8je91vvzjo?at_medium=RSS&at_campaign=rss",
+        "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+        "url": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The pair replace Emma Willis, who has hosted the show since 2014 but is leaving to front Strictly.",
-        "publishedAt": "2026-09-11T15:32:44.000Z",
+        "description": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
+        "publishedAt": "2026-09-12T08:04:16.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "The Prodigy to headline Creamfields 2027",
+        "url": "https://www.bbc.co.uk/news/articles/cgmrzm17dgjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The dance music festival Creamfields has announced The Prodigy as its first headline act.",
+        "publishedAt": "2026-09-12T06:37:04.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1151,13 +1162,13 @@
         "zone": "in"
       },
       {
-        "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
-        "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
+        "title": "Stacey Solomon and Alesha Dixon to host The Voice UK in ITV revamp",
+        "url": "https://www.bbc.co.uk/news/articles/cq8je91vvzjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
-        "publishedAt": "2026-09-10T16:37:18.000Z",
+        "description": "The pair replace Emma Willis, who has hosted the show since 2014 but is leaving to front Strictly.",
+        "publishedAt": "2026-09-11T15:32:44.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1169,17 +1180,6 @@
         },
         "description": "Oxford's Pitt Rivers Museum will return more than three dozen sets of human remains to the Naga people.",
         "publishedAt": "2026-09-11T14:06:47.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "People long for simpler times, say Practical Magic reboot stars",
-        "url": "https://www.bbc.co.uk/news/articles/cpq0n1q0eego?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Actresses Maisie Williams and Joey King feature in the upcoming sequel of the 1998 fantasy romcom.",
-        "publishedAt": "2026-09-11T00:51:17.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1204,7 +1204,7 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Art detectives and security experts say the number of museum thefts across Europe is increasing.",
+        "description": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
         "publishedAt": "2026-09-12T00:24:08.000Z",
         "category": "entertainment",
         "zone": "au"
@@ -1221,13 +1221,24 @@
         "zone": "au"
       },
       {
-        "title": "Stacey Solomon and Alesha Dixon to host The Voice UK in ITV revamp",
-        "url": "https://www.bbc.co.uk/news/articles/cq8je91vvzjo?at_medium=RSS&at_campaign=rss",
+        "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+        "url": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The pair replace Emma Willis, who has hosted the show since 2014 but is leaving to front Strictly.",
-        "publishedAt": "2026-09-11T15:32:44.000Z",
+        "description": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
+        "publishedAt": "2026-09-12T08:04:16.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "The Prodigy to headline Creamfields 2027",
+        "url": "https://www.bbc.co.uk/news/articles/cgmrzm17dgjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The dance music festival Creamfields has announced The Prodigy as its first headline act.",
+        "publishedAt": "2026-09-12T06:37:04.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1243,13 +1254,13 @@
         "zone": "au"
       },
       {
-        "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
-        "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
+        "title": "Stacey Solomon and Alesha Dixon to host The Voice UK in ITV revamp",
+        "url": "https://www.bbc.co.uk/news/articles/cq8je91vvzjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
-        "publishedAt": "2026-09-10T16:37:18.000Z",
+        "description": "The pair replace Emma Willis, who has hosted the show since 2014 but is leaving to front Strictly.",
+        "publishedAt": "2026-09-11T15:32:44.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1261,17 +1272,6 @@
         },
         "description": "Oxford's Pitt Rivers Museum will return more than three dozen sets of human remains to the Naga people.",
         "publishedAt": "2026-09-11T14:06:47.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "People long for simpler times, say Practical Magic reboot stars",
-        "url": "https://www.bbc.co.uk/news/articles/cpq0n1q0eego?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Actresses Maisie Williams and Joey King feature in the upcoming sequel of the 1998 fantasy romcom.",
-        "publishedAt": "2026-09-11T00:51:17.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1296,7 +1296,7 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Art detectives and security experts say the number of museum thefts across Europe is increasing.",
+        "description": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
         "publishedAt": "2026-09-12T00:24:08.000Z",
         "category": "entertainment",
         "zone": "ca"
@@ -1313,13 +1313,24 @@
         "zone": "ca"
       },
       {
-        "title": "Stacey Solomon and Alesha Dixon to host The Voice UK in ITV revamp",
-        "url": "https://www.bbc.co.uk/news/articles/cq8je91vvzjo?at_medium=RSS&at_campaign=rss",
+        "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+        "url": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The pair replace Emma Willis, who has hosted the show since 2014 but is leaving to front Strictly.",
-        "publishedAt": "2026-09-11T15:32:44.000Z",
+        "description": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
+        "publishedAt": "2026-09-12T08:04:16.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "The Prodigy to headline Creamfields 2027",
+        "url": "https://www.bbc.co.uk/news/articles/cgmrzm17dgjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The dance music festival Creamfields has announced The Prodigy as its first headline act.",
+        "publishedAt": "2026-09-12T06:37:04.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1335,13 +1346,13 @@
         "zone": "ca"
       },
       {
-        "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
-        "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
+        "title": "Stacey Solomon and Alesha Dixon to host The Voice UK in ITV revamp",
+        "url": "https://www.bbc.co.uk/news/articles/cq8je91vvzjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
-        "publishedAt": "2026-09-10T16:37:18.000Z",
+        "description": "The pair replace Emma Willis, who has hosted the show since 2014 but is leaving to front Strictly.",
+        "publishedAt": "2026-09-11T15:32:44.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1353,17 +1364,6 @@
         },
         "description": "Oxford's Pitt Rivers Museum will return more than three dozen sets of human remains to the Naga people.",
         "publishedAt": "2026-09-11T14:06:47.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "People long for simpler times, say Practical Magic reboot stars",
-        "url": "https://www.bbc.co.uk/news/articles/cpq0n1q0eego?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Actresses Maisie Williams and Joey King feature in the upcoming sequel of the 1998 fantasy romcom.",
-        "publishedAt": "2026-09-11T00:51:17.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -2303,6 +2303,17 @@
   "sports_us": {
     "articles": [
       {
+        "title": "England survive scare to sweep Pakistan series",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c770z1j5l0ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "England survive an almighty scare to eventually win the third Test against Pakistan by eight wickets and complete a 3-0 clean sweep.",
+        "publishedAt": "2026-09-12T12:20:38.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Signed instead of Rashford, Gordon is proving worth at Barca",
         "url": "https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2314,79 +2325,68 @@
         "zone": "us"
       },
       {
-        "title": "American Shelton to face Zverev in US Open final",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/clykzn81n4go?at_medium=RSS&at_campaign=rss",
+        "title": "Who has given selectors food for thought? England-Pakistan player ratings",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cvgy4xy8gl9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Ben Shelton powers past Frances Tiafoe in an all-American US Open semi-final to earn a spot in Sunday's final against number one seed Alexander Zverev.",
-        "publishedAt": "2026-09-12T06:05:34.000Z",
+        "description": "Which batter played his most mature innings of the year? Who has given the selectors food for thought? Player ratings from England's win over Pakistan at Edgbaston.",
+        "publishedAt": "2026-09-12T12:24:31.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "'Out of control' - Cook questions England tactics",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c1kxw9dn29ko?at_medium=RSS&at_campaign=rss",
+        "title": "'Celebrations cut short!' - no-ball saves Root after being bowled",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/c14dpkykxv6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England had “no plan” and were “out of control” in the face of Razaullah’s stunning hitting on the third day of the final Test against Pakistan, according to former captain Alastair Cook.",
-        "publishedAt": "2026-09-11T19:48:43.000Z",
+        "description": "England captain Joe Root gets a huge let-off after being bowled for 23 by Mohammed Ali, but the dismissal is overturned after the delivery was a no-ball, with England 35-2, chasing 130 to win the third and final Test at Edgbaston.",
+        "publishedAt": "2026-09-12T11:24:16.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Benn makes weight - then puts on 32lbs in 12 hours",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/c4gqj1g5d27o?at_medium=RSS&at_campaign=rss",
+        "title": "'Red rag to a bull' - Sabalenka's extra motivation to win US Open",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cly59yjl5d5o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Conor Benn and Ryan Garcia both comfortably make the welterweight limit for their WBC title fight despite concerns at how they would fare on the scales.",
-        "publishedAt": "2026-09-12T06:46:27.000Z",
+        "description": "Aryna Sabalenka has lost the world number one ranking to Elena Rybakina - but has the chance to take revenge in the US Open final.",
+        "publishedAt": "2026-09-12T09:04:13.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "'A legacy' at 26 - how Hemp has grown at Man City",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cj4je2eveewo?at_medium=RSS&at_campaign=rss",
+        "title": "Garcia v Benn - welterweight world title fight predictions",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cje8y84wd1no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City forward Lauren Hemp has already achieved more than most footballers at the age of 26.",
-        "publishedAt": "2026-09-12T07:39:53.000Z",
+        "description": "Figures from the boxing world give their predictions for Saturday's WBC welterweight world title fight between Ryan Garcia and Briton Conor Benn.",
+        "publishedAt": "2026-09-12T06:55:38.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "New Man City signings desperate to win - Dias",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cy5zp9llp3ro?at_medium=RSS&at_campaign=rss",
+        "title": "'What a start!' - England lose Duckett and Gay in first over",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/c0m3xrr2744o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City have brought in summer signings who are \"desperate to win\" and the whole squad is \"buying into the idea\" of new manager Enzo Maresca, says new captain Ruben Dias.",
-        "publishedAt": "2026-09-12T05:24:51.000Z",
+        "description": "England get off to a dreadful start on day four of the final Test as Muhammad Abbas removes Ben Duckett and Emilio Gay in the first over, to leave the home side 2-2, chasing 130 to win at Edgbaston.",
+        "publishedAt": "2026-09-12T10:34:29.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Glitzy innovations but Duplantis still wins - new Ultimate Championship begins",
-        "url": "https://www.bbc.co.uk/sport/athletics/articles/c05r94l4j9go?at_medium=RSS&at_campaign=rss",
+        "title": "Maresca is 'perfect person' for Man City job - Dias",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm2rd3m01x0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Ultimate Championship is posed as something different in athletics, but some things stay the same - pole vault star Armand Duplantis taking centre stage.",
-        "publishedAt": "2026-09-11T22:24:31.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "West Ham rout among 'lowest points' for Wrexham boss",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwyzkxqqnp5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Manager Phil Parkinson is downbeat after Wrexham suffer their heaviest league defeat for more than 22 years at London Stadium.",
-        "publishedAt": "2026-09-11T22:40:40.000Z",
+        "description": "Manchester City defender Ruben Dias speaks to BBC Sport's Kelly Somers about the changes at the club following Pep Guardiola's departure.",
+        "publishedAt": "2026-09-12T05:19:02.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,6 +2395,17 @@
   "sports_gb": {
     "articles": [
       {
+        "title": "England survive scare to sweep Pakistan series",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c770z1j5l0ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "England survive an almighty scare to eventually win the third Test against Pakistan by eight wickets and complete a 3-0 clean sweep.",
+        "publishedAt": "2026-09-12T12:20:38.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Signed instead of Rashford, Gordon is proving worth at Barca",
         "url": "https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2406,79 +2417,68 @@
         "zone": "gb"
       },
       {
-        "title": "American Shelton to face Zverev in US Open final",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/clykzn81n4go?at_medium=RSS&at_campaign=rss",
+        "title": "Who has given selectors food for thought? England-Pakistan player ratings",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cvgy4xy8gl9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Ben Shelton powers past Frances Tiafoe in an all-American US Open semi-final to earn a spot in Sunday's final against number one seed Alexander Zverev.",
-        "publishedAt": "2026-09-12T06:05:34.000Z",
+        "description": "Which batter played his most mature innings of the year? Who has given the selectors food for thought? Player ratings from England's win over Pakistan at Edgbaston.",
+        "publishedAt": "2026-09-12T12:24:31.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "'Out of control' - Cook questions England tactics",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c1kxw9dn29ko?at_medium=RSS&at_campaign=rss",
+        "title": "'Celebrations cut short!' - no-ball saves Root after being bowled",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/c14dpkykxv6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England had “no plan” and were “out of control” in the face of Razaullah’s stunning hitting on the third day of the final Test against Pakistan, according to former captain Alastair Cook.",
-        "publishedAt": "2026-09-11T19:48:43.000Z",
+        "description": "England captain Joe Root gets a huge let-off after being bowled for 23 by Mohammed Ali, but the dismissal is overturned after the delivery was a no-ball, with England 35-2, chasing 130 to win the third and final Test at Edgbaston.",
+        "publishedAt": "2026-09-12T11:24:16.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Benn makes weight - then puts on 32lbs in 12 hours",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/c4gqj1g5d27o?at_medium=RSS&at_campaign=rss",
+        "title": "'Red rag to a bull' - Sabalenka's extra motivation to win US Open",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cly59yjl5d5o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Conor Benn and Ryan Garcia both comfortably make the welterweight limit for their WBC title fight despite concerns at how they would fare on the scales.",
-        "publishedAt": "2026-09-12T06:46:27.000Z",
+        "description": "Aryna Sabalenka has lost the world number one ranking to Elena Rybakina - but has the chance to take revenge in the US Open final.",
+        "publishedAt": "2026-09-12T09:04:13.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "'A legacy' at 26 - how Hemp has grown at Man City",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cj4je2eveewo?at_medium=RSS&at_campaign=rss",
+        "title": "Garcia v Benn - welterweight world title fight predictions",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cje8y84wd1no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City forward Lauren Hemp has already achieved more than most footballers at the age of 26.",
-        "publishedAt": "2026-09-12T07:39:53.000Z",
+        "description": "Figures from the boxing world give their predictions for Saturday's WBC welterweight world title fight between Ryan Garcia and Briton Conor Benn.",
+        "publishedAt": "2026-09-12T06:55:38.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "New Man City signings desperate to win - Dias",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cy5zp9llp3ro?at_medium=RSS&at_campaign=rss",
+        "title": "'What a start!' - England lose Duckett and Gay in first over",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/c0m3xrr2744o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City have brought in summer signings who are \"desperate to win\" and the whole squad is \"buying into the idea\" of new manager Enzo Maresca, says new captain Ruben Dias.",
-        "publishedAt": "2026-09-12T05:24:51.000Z",
+        "description": "England get off to a dreadful start on day four of the final Test as Muhammad Abbas removes Ben Duckett and Emilio Gay in the first over, to leave the home side 2-2, chasing 130 to win at Edgbaston.",
+        "publishedAt": "2026-09-12T10:34:29.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Glitzy innovations but Duplantis still wins - new Ultimate Championship begins",
-        "url": "https://www.bbc.co.uk/sport/athletics/articles/c05r94l4j9go?at_medium=RSS&at_campaign=rss",
+        "title": "Maresca is 'perfect person' for Man City job - Dias",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm2rd3m01x0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Ultimate Championship is posed as something different in athletics, but some things stay the same - pole vault star Armand Duplantis taking centre stage.",
-        "publishedAt": "2026-09-11T22:24:31.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "West Ham rout among 'lowest points' for Wrexham boss",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwyzkxqqnp5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Manager Phil Parkinson is downbeat after Wrexham suffer their heaviest league defeat for more than 22 years at London Stadium.",
-        "publishedAt": "2026-09-11T22:40:40.000Z",
+        "description": "Manchester City defender Ruben Dias speaks to BBC Sport's Kelly Somers about the changes at the club following Pep Guardiola's departure.",
+        "publishedAt": "2026-09-12T05:19:02.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,6 +2487,17 @@
   "sports_in": {
     "articles": [
       {
+        "title": "England survive scare to sweep Pakistan series",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c770z1j5l0ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "England survive an almighty scare to eventually win the third Test against Pakistan by eight wickets and complete a 3-0 clean sweep.",
+        "publishedAt": "2026-09-12T12:20:38.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Signed instead of Rashford, Gordon is proving worth at Barca",
         "url": "https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2498,79 +2509,68 @@
         "zone": "in"
       },
       {
-        "title": "American Shelton to face Zverev in US Open final",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/clykzn81n4go?at_medium=RSS&at_campaign=rss",
+        "title": "Who has given selectors food for thought? England-Pakistan player ratings",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cvgy4xy8gl9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Ben Shelton powers past Frances Tiafoe in an all-American US Open semi-final to earn a spot in Sunday's final against number one seed Alexander Zverev.",
-        "publishedAt": "2026-09-12T06:05:34.000Z",
+        "description": "Which batter played his most mature innings of the year? Who has given the selectors food for thought? Player ratings from England's win over Pakistan at Edgbaston.",
+        "publishedAt": "2026-09-12T12:24:31.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "'Out of control' - Cook questions England tactics",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c1kxw9dn29ko?at_medium=RSS&at_campaign=rss",
+        "title": "'Celebrations cut short!' - no-ball saves Root after being bowled",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/c14dpkykxv6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England had “no plan” and were “out of control” in the face of Razaullah’s stunning hitting on the third day of the final Test against Pakistan, according to former captain Alastair Cook.",
-        "publishedAt": "2026-09-11T19:48:43.000Z",
+        "description": "England captain Joe Root gets a huge let-off after being bowled for 23 by Mohammed Ali, but the dismissal is overturned after the delivery was a no-ball, with England 35-2, chasing 130 to win the third and final Test at Edgbaston.",
+        "publishedAt": "2026-09-12T11:24:16.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Benn makes weight - then puts on 32lbs in 12 hours",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/c4gqj1g5d27o?at_medium=RSS&at_campaign=rss",
+        "title": "'Red rag to a bull' - Sabalenka's extra motivation to win US Open",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cly59yjl5d5o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Conor Benn and Ryan Garcia both comfortably make the welterweight limit for their WBC title fight despite concerns at how they would fare on the scales.",
-        "publishedAt": "2026-09-12T06:46:27.000Z",
+        "description": "Aryna Sabalenka has lost the world number one ranking to Elena Rybakina - but has the chance to take revenge in the US Open final.",
+        "publishedAt": "2026-09-12T09:04:13.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "'A legacy' at 26 - how Hemp has grown at Man City",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cj4je2eveewo?at_medium=RSS&at_campaign=rss",
+        "title": "Garcia v Benn - welterweight world title fight predictions",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cje8y84wd1no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City forward Lauren Hemp has already achieved more than most footballers at the age of 26.",
-        "publishedAt": "2026-09-12T07:39:53.000Z",
+        "description": "Figures from the boxing world give their predictions for Saturday's WBC welterweight world title fight between Ryan Garcia and Briton Conor Benn.",
+        "publishedAt": "2026-09-12T06:55:38.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "New Man City signings desperate to win - Dias",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cy5zp9llp3ro?at_medium=RSS&at_campaign=rss",
+        "title": "'What a start!' - England lose Duckett and Gay in first over",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/c0m3xrr2744o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City have brought in summer signings who are \"desperate to win\" and the whole squad is \"buying into the idea\" of new manager Enzo Maresca, says new captain Ruben Dias.",
-        "publishedAt": "2026-09-12T05:24:51.000Z",
+        "description": "England get off to a dreadful start on day four of the final Test as Muhammad Abbas removes Ben Duckett and Emilio Gay in the first over, to leave the home side 2-2, chasing 130 to win at Edgbaston.",
+        "publishedAt": "2026-09-12T10:34:29.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Glitzy innovations but Duplantis still wins - new Ultimate Championship begins",
-        "url": "https://www.bbc.co.uk/sport/athletics/articles/c05r94l4j9go?at_medium=RSS&at_campaign=rss",
+        "title": "Maresca is 'perfect person' for Man City job - Dias",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm2rd3m01x0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Ultimate Championship is posed as something different in athletics, but some things stay the same - pole vault star Armand Duplantis taking centre stage.",
-        "publishedAt": "2026-09-11T22:24:31.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "West Ham rout among 'lowest points' for Wrexham boss",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwyzkxqqnp5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Manager Phil Parkinson is downbeat after Wrexham suffer their heaviest league defeat for more than 22 years at London Stadium.",
-        "publishedAt": "2026-09-11T22:40:40.000Z",
+        "description": "Manchester City defender Ruben Dias speaks to BBC Sport's Kelly Somers about the changes at the club following Pep Guardiola's departure.",
+        "publishedAt": "2026-09-12T05:19:02.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,6 +2579,17 @@
   "sports_au": {
     "articles": [
       {
+        "title": "England survive scare to sweep Pakistan series",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c770z1j5l0ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "England survive an almighty scare to eventually win the third Test against Pakistan by eight wickets and complete a 3-0 clean sweep.",
+        "publishedAt": "2026-09-12T12:20:38.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Signed instead of Rashford, Gordon is proving worth at Barca",
         "url": "https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2590,79 +2601,68 @@
         "zone": "au"
       },
       {
-        "title": "American Shelton to face Zverev in US Open final",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/clykzn81n4go?at_medium=RSS&at_campaign=rss",
+        "title": "Who has given selectors food for thought? England-Pakistan player ratings",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cvgy4xy8gl9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Ben Shelton powers past Frances Tiafoe in an all-American US Open semi-final to earn a spot in Sunday's final against number one seed Alexander Zverev.",
-        "publishedAt": "2026-09-12T06:05:34.000Z",
+        "description": "Which batter played his most mature innings of the year? Who has given the selectors food for thought? Player ratings from England's win over Pakistan at Edgbaston.",
+        "publishedAt": "2026-09-12T12:24:31.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "'Out of control' - Cook questions England tactics",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c1kxw9dn29ko?at_medium=RSS&at_campaign=rss",
+        "title": "'Celebrations cut short!' - no-ball saves Root after being bowled",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/c14dpkykxv6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England had “no plan” and were “out of control” in the face of Razaullah’s stunning hitting on the third day of the final Test against Pakistan, according to former captain Alastair Cook.",
-        "publishedAt": "2026-09-11T19:48:43.000Z",
+        "description": "England captain Joe Root gets a huge let-off after being bowled for 23 by Mohammed Ali, but the dismissal is overturned after the delivery was a no-ball, with England 35-2, chasing 130 to win the third and final Test at Edgbaston.",
+        "publishedAt": "2026-09-12T11:24:16.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Benn makes weight - then puts on 32lbs in 12 hours",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/c4gqj1g5d27o?at_medium=RSS&at_campaign=rss",
+        "title": "'Red rag to a bull' - Sabalenka's extra motivation to win US Open",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cly59yjl5d5o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Conor Benn and Ryan Garcia both comfortably make the welterweight limit for their WBC title fight despite concerns at how they would fare on the scales.",
-        "publishedAt": "2026-09-12T06:46:27.000Z",
+        "description": "Aryna Sabalenka has lost the world number one ranking to Elena Rybakina - but has the chance to take revenge in the US Open final.",
+        "publishedAt": "2026-09-12T09:04:13.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "'A legacy' at 26 - how Hemp has grown at Man City",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cj4je2eveewo?at_medium=RSS&at_campaign=rss",
+        "title": "Garcia v Benn - welterweight world title fight predictions",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cje8y84wd1no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City forward Lauren Hemp has already achieved more than most footballers at the age of 26.",
-        "publishedAt": "2026-09-12T07:39:53.000Z",
+        "description": "Figures from the boxing world give their predictions for Saturday's WBC welterweight world title fight between Ryan Garcia and Briton Conor Benn.",
+        "publishedAt": "2026-09-12T06:55:38.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "New Man City signings desperate to win - Dias",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cy5zp9llp3ro?at_medium=RSS&at_campaign=rss",
+        "title": "'What a start!' - England lose Duckett and Gay in first over",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/c0m3xrr2744o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City have brought in summer signings who are \"desperate to win\" and the whole squad is \"buying into the idea\" of new manager Enzo Maresca, says new captain Ruben Dias.",
-        "publishedAt": "2026-09-12T05:24:51.000Z",
+        "description": "England get off to a dreadful start on day four of the final Test as Muhammad Abbas removes Ben Duckett and Emilio Gay in the first over, to leave the home side 2-2, chasing 130 to win at Edgbaston.",
+        "publishedAt": "2026-09-12T10:34:29.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Glitzy innovations but Duplantis still wins - new Ultimate Championship begins",
-        "url": "https://www.bbc.co.uk/sport/athletics/articles/c05r94l4j9go?at_medium=RSS&at_campaign=rss",
+        "title": "Maresca is 'perfect person' for Man City job - Dias",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm2rd3m01x0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Ultimate Championship is posed as something different in athletics, but some things stay the same - pole vault star Armand Duplantis taking centre stage.",
-        "publishedAt": "2026-09-11T22:24:31.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "West Ham rout among 'lowest points' for Wrexham boss",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwyzkxqqnp5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Manager Phil Parkinson is downbeat after Wrexham suffer their heaviest league defeat for more than 22 years at London Stadium.",
-        "publishedAt": "2026-09-11T22:40:40.000Z",
+        "description": "Manchester City defender Ruben Dias speaks to BBC Sport's Kelly Somers about the changes at the club following Pep Guardiola's departure.",
+        "publishedAt": "2026-09-12T05:19:02.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,6 +2671,17 @@
   "sports_ca": {
     "articles": [
       {
+        "title": "England survive scare to sweep Pakistan series",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c770z1j5l0ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "England survive an almighty scare to eventually win the third Test against Pakistan by eight wickets and complete a 3-0 clean sweep.",
+        "publishedAt": "2026-09-12T12:20:38.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Signed instead of Rashford, Gordon is proving worth at Barca",
         "url": "https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2682,79 +2693,68 @@
         "zone": "ca"
       },
       {
-        "title": "American Shelton to face Zverev in US Open final",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/clykzn81n4go?at_medium=RSS&at_campaign=rss",
+        "title": "Who has given selectors food for thought? England-Pakistan player ratings",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cvgy4xy8gl9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Ben Shelton powers past Frances Tiafoe in an all-American US Open semi-final to earn a spot in Sunday's final against number one seed Alexander Zverev.",
-        "publishedAt": "2026-09-12T06:05:34.000Z",
+        "description": "Which batter played his most mature innings of the year? Who has given the selectors food for thought? Player ratings from England's win over Pakistan at Edgbaston.",
+        "publishedAt": "2026-09-12T12:24:31.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "'Out of control' - Cook questions England tactics",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c1kxw9dn29ko?at_medium=RSS&at_campaign=rss",
+        "title": "'Celebrations cut short!' - no-ball saves Root after being bowled",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/c14dpkykxv6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England had “no plan” and were “out of control” in the face of Razaullah’s stunning hitting on the third day of the final Test against Pakistan, according to former captain Alastair Cook.",
-        "publishedAt": "2026-09-11T19:48:43.000Z",
+        "description": "England captain Joe Root gets a huge let-off after being bowled for 23 by Mohammed Ali, but the dismissal is overturned after the delivery was a no-ball, with England 35-2, chasing 130 to win the third and final Test at Edgbaston.",
+        "publishedAt": "2026-09-12T11:24:16.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Benn makes weight - then puts on 32lbs in 12 hours",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/c4gqj1g5d27o?at_medium=RSS&at_campaign=rss",
+        "title": "'Red rag to a bull' - Sabalenka's extra motivation to win US Open",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cly59yjl5d5o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Conor Benn and Ryan Garcia both comfortably make the welterweight limit for their WBC title fight despite concerns at how they would fare on the scales.",
-        "publishedAt": "2026-09-12T06:46:27.000Z",
+        "description": "Aryna Sabalenka has lost the world number one ranking to Elena Rybakina - but has the chance to take revenge in the US Open final.",
+        "publishedAt": "2026-09-12T09:04:13.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "'A legacy' at 26 - how Hemp has grown at Man City",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cj4je2eveewo?at_medium=RSS&at_campaign=rss",
+        "title": "Garcia v Benn - welterweight world title fight predictions",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cje8y84wd1no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City forward Lauren Hemp has already achieved more than most footballers at the age of 26.",
-        "publishedAt": "2026-09-12T07:39:53.000Z",
+        "description": "Figures from the boxing world give their predictions for Saturday's WBC welterweight world title fight between Ryan Garcia and Briton Conor Benn.",
+        "publishedAt": "2026-09-12T06:55:38.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "New Man City signings desperate to win - Dias",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cy5zp9llp3ro?at_medium=RSS&at_campaign=rss",
+        "title": "'What a start!' - England lose Duckett and Gay in first over",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/c0m3xrr2744o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City have brought in summer signings who are \"desperate to win\" and the whole squad is \"buying into the idea\" of new manager Enzo Maresca, says new captain Ruben Dias.",
-        "publishedAt": "2026-09-12T05:24:51.000Z",
+        "description": "England get off to a dreadful start on day four of the final Test as Muhammad Abbas removes Ben Duckett and Emilio Gay in the first over, to leave the home side 2-2, chasing 130 to win at Edgbaston.",
+        "publishedAt": "2026-09-12T10:34:29.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Glitzy innovations but Duplantis still wins - new Ultimate Championship begins",
-        "url": "https://www.bbc.co.uk/sport/athletics/articles/c05r94l4j9go?at_medium=RSS&at_campaign=rss",
+        "title": "Maresca is 'perfect person' for Man City job - Dias",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm2rd3m01x0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Ultimate Championship is posed as something different in athletics, but some things stay the same - pole vault star Armand Duplantis taking centre stage.",
-        "publishedAt": "2026-09-11T22:24:31.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "West Ham rout among 'lowest points' for Wrexham boss",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwyzkxqqnp5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Manager Phil Parkinson is downbeat after Wrexham suffer their heaviest league defeat for more than 22 years at London Stadium.",
-        "publishedAt": "2026-09-11T22:40:40.000Z",
+        "description": "Manchester City defender Ruben Dias speaks to BBC Sport's Kelly Somers about the changes at the club following Pep Guardiola's departure.",
+        "publishedAt": "2026-09-12T05:19:02.000Z",
         "category": "sports",
         "zone": "ca"
       }
