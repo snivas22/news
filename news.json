@@ -1,59 +1,26 @@
 {
-  "generatedAt": "2026-09-14T00:54:56.930Z",
+  "generatedAt": "2026-09-14T05:54:14.410Z",
   "general_us": {
     "articles": [
+      {
+        "title": "MPs and Lords call for new law to address AI threat to human rights",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.",
+        "publishedAt": "2026-09-14T05:49:32.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
         "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-        "publishedAt": "2026-09-13T19:14:21.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "'Culture shift' needed in how UK does business, PM urges",
-        "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
-        "publishedAt": "2026-09-13T21:30:21.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
-        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-        "publishedAt": "2026-09-13T18:49:37.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Zverev caps transformational year with US Open triumph",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's hopes of becoming a rare home US Open men's champion.",
-        "publishedAt": "2026-09-13T22:55:31.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Will record donations to Reform go down as a moment of political change?",
-        "url": "https://www.bbc.co.uk/news/articles/cr7dl593k8yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andy Burnham is likely to face fresh pressure to further change the rules on party donations, writes Jack Fenwick.",
-        "publishedAt": "2026-09-13T17:51:19.000Z",
+        "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+        "publishedAt": "2026-09-14T03:38:13.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -69,13 +36,46 @@
         "zone": "us"
       },
       {
-        "title": "Refereeing body admits judgement error over Haaland derby winner",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
+        "title": "I had 11 years of chemotherapy for a cancer I didn't have",
+        "url": "https://www.bbc.co.uk/news/articles/c74e0zwkk18o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Premier League refereeing body Pro Ref admits an error of judgement in awarding Erling Haaland's winner in the Manchester derby.",
-        "publishedAt": "2026-09-13T20:29:58.000Z",
+        "description": "Becky Jones is among more than 40 people taking legal action against a hospital trust.",
+        "publishedAt": "2026-09-13T23:11:37.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Why a fresh wave of North Korean soldiers may fight in Russia's war in Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/cgl7zrnxxy6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "North Korea will continue to send its soldiers to fight in Russia's war, but only for as long as it is profitable to do so, writes the BBC's Quentin Sommerville.",
+        "publishedAt": "2026-09-13T23:16:33.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "'Culture shift' needed in how UK does business, PM urges",
+        "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+        "publishedAt": "2026-09-13T21:30:21.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Buckingham Palace works uncover trove of everyday items dating back to 1800s",
+        "url": "https://www.bbc.co.uk/news/articles/c2095wyqvx2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A collection of historic, forgotten items have been found during the restoration of the London royal residence.",
+        "publishedAt": "2026-09-13T23:20:03.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -95,57 +95,24 @@
   "general_gb": {
     "articles": [
       {
+        "title": "MPs and Lords call for new law to address AI threat to human rights",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.",
+        "publishedAt": "2026-09-14T05:49:32.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
         "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-        "publishedAt": "2026-09-13T19:14:21.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "'Culture shift' needed in how UK does business, PM urges",
-        "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
-        "publishedAt": "2026-09-13T21:30:21.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
-        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-        "publishedAt": "2026-09-13T18:49:37.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Zverev caps transformational year with US Open triumph",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's hopes of becoming a rare home US Open men's champion.",
-        "publishedAt": "2026-09-13T22:55:31.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Will record donations to Reform go down as a moment of political change?",
-        "url": "https://www.bbc.co.uk/news/articles/cr7dl593k8yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andy Burnham is likely to face fresh pressure to further change the rules on party donations, writes Jack Fenwick.",
-        "publishedAt": "2026-09-13T17:51:19.000Z",
+        "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+        "publishedAt": "2026-09-14T03:38:13.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -161,13 +128,46 @@
         "zone": "gb"
       },
       {
-        "title": "Refereeing body admits judgement error over Haaland derby winner",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
+        "title": "I had 11 years of chemotherapy for a cancer I didn't have",
+        "url": "https://www.bbc.co.uk/news/articles/c74e0zwkk18o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Premier League refereeing body Pro Ref admits an error of judgement in awarding Erling Haaland's winner in the Manchester derby.",
-        "publishedAt": "2026-09-13T20:29:58.000Z",
+        "description": "Becky Jones is among more than 40 people taking legal action against a hospital trust.",
+        "publishedAt": "2026-09-13T23:11:37.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Why a fresh wave of North Korean soldiers may fight in Russia's war in Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/cgl7zrnxxy6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "North Korea will continue to send its soldiers to fight in Russia's war, but only for as long as it is profitable to do so, writes the BBC's Quentin Sommerville.",
+        "publishedAt": "2026-09-13T23:16:33.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "'Culture shift' needed in how UK does business, PM urges",
+        "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+        "publishedAt": "2026-09-13T21:30:21.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Buckingham Palace works uncover trove of everyday items dating back to 1800s",
+        "url": "https://www.bbc.co.uk/news/articles/c2095wyqvx2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A collection of historic, forgotten items have been found during the restoration of the London royal residence.",
+        "publishedAt": "2026-09-13T23:20:03.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -187,57 +187,24 @@
   "general_in": {
     "articles": [
       {
+        "title": "MPs and Lords call for new law to address AI threat to human rights",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.",
+        "publishedAt": "2026-09-14T05:49:32.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
         "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-        "publishedAt": "2026-09-13T19:14:21.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "'Culture shift' needed in how UK does business, PM urges",
-        "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
-        "publishedAt": "2026-09-13T21:30:21.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
-        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-        "publishedAt": "2026-09-13T18:49:37.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Zverev caps transformational year with US Open triumph",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's hopes of becoming a rare home US Open men's champion.",
-        "publishedAt": "2026-09-13T22:55:31.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Will record donations to Reform go down as a moment of political change?",
-        "url": "https://www.bbc.co.uk/news/articles/cr7dl593k8yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andy Burnham is likely to face fresh pressure to further change the rules on party donations, writes Jack Fenwick.",
-        "publishedAt": "2026-09-13T17:51:19.000Z",
+        "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+        "publishedAt": "2026-09-14T03:38:13.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -253,13 +220,46 @@
         "zone": "in"
       },
       {
-        "title": "Refereeing body admits judgement error over Haaland derby winner",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
+        "title": "I had 11 years of chemotherapy for a cancer I didn't have",
+        "url": "https://www.bbc.co.uk/news/articles/c74e0zwkk18o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Premier League refereeing body Pro Ref admits an error of judgement in awarding Erling Haaland's winner in the Manchester derby.",
-        "publishedAt": "2026-09-13T20:29:58.000Z",
+        "description": "Becky Jones is among more than 40 people taking legal action against a hospital trust.",
+        "publishedAt": "2026-09-13T23:11:37.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Why a fresh wave of North Korean soldiers may fight in Russia's war in Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/cgl7zrnxxy6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "North Korea will continue to send its soldiers to fight in Russia's war, but only for as long as it is profitable to do so, writes the BBC's Quentin Sommerville.",
+        "publishedAt": "2026-09-13T23:16:33.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "'Culture shift' needed in how UK does business, PM urges",
+        "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+        "publishedAt": "2026-09-13T21:30:21.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Buckingham Palace works uncover trove of everyday items dating back to 1800s",
+        "url": "https://www.bbc.co.uk/news/articles/c2095wyqvx2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A collection of historic, forgotten items have been found during the restoration of the London royal residence.",
+        "publishedAt": "2026-09-13T23:20:03.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -279,57 +279,24 @@
   "general_au": {
     "articles": [
       {
+        "title": "MPs and Lords call for new law to address AI threat to human rights",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.",
+        "publishedAt": "2026-09-14T05:49:32.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
         "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-        "publishedAt": "2026-09-13T19:14:21.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "'Culture shift' needed in how UK does business, PM urges",
-        "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
-        "publishedAt": "2026-09-13T21:30:21.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
-        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-        "publishedAt": "2026-09-13T18:49:37.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Zverev caps transformational year with US Open triumph",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's hopes of becoming a rare home US Open men's champion.",
-        "publishedAt": "2026-09-13T22:55:31.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Will record donations to Reform go down as a moment of political change?",
-        "url": "https://www.bbc.co.uk/news/articles/cr7dl593k8yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andy Burnham is likely to face fresh pressure to further change the rules on party donations, writes Jack Fenwick.",
-        "publishedAt": "2026-09-13T17:51:19.000Z",
+        "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+        "publishedAt": "2026-09-14T03:38:13.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -345,13 +312,46 @@
         "zone": "au"
       },
       {
-        "title": "Refereeing body admits judgement error over Haaland derby winner",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
+        "title": "I had 11 years of chemotherapy for a cancer I didn't have",
+        "url": "https://www.bbc.co.uk/news/articles/c74e0zwkk18o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Premier League refereeing body Pro Ref admits an error of judgement in awarding Erling Haaland's winner in the Manchester derby.",
-        "publishedAt": "2026-09-13T20:29:58.000Z",
+        "description": "Becky Jones is among more than 40 people taking legal action against a hospital trust.",
+        "publishedAt": "2026-09-13T23:11:37.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Why a fresh wave of North Korean soldiers may fight in Russia's war in Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/cgl7zrnxxy6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "North Korea will continue to send its soldiers to fight in Russia's war, but only for as long as it is profitable to do so, writes the BBC's Quentin Sommerville.",
+        "publishedAt": "2026-09-13T23:16:33.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "'Culture shift' needed in how UK does business, PM urges",
+        "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+        "publishedAt": "2026-09-13T21:30:21.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Buckingham Palace works uncover trove of everyday items dating back to 1800s",
+        "url": "https://www.bbc.co.uk/news/articles/c2095wyqvx2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A collection of historic, forgotten items have been found during the restoration of the London royal residence.",
+        "publishedAt": "2026-09-13T23:20:03.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -371,57 +371,24 @@
   "general_ca": {
     "articles": [
       {
+        "title": "MPs and Lords call for new law to address AI threat to human rights",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.",
+        "publishedAt": "2026-09-14T05:49:32.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
         "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-        "publishedAt": "2026-09-13T19:14:21.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "'Culture shift' needed in how UK does business, PM urges",
-        "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
-        "publishedAt": "2026-09-13T21:30:21.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
-        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-        "publishedAt": "2026-09-13T18:49:37.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Zverev caps transformational year with US Open triumph",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's hopes of becoming a rare home US Open men's champion.",
-        "publishedAt": "2026-09-13T22:55:31.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Will record donations to Reform go down as a moment of political change?",
-        "url": "https://www.bbc.co.uk/news/articles/cr7dl593k8yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andy Burnham is likely to face fresh pressure to further change the rules on party donations, writes Jack Fenwick.",
-        "publishedAt": "2026-09-13T17:51:19.000Z",
+        "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+        "publishedAt": "2026-09-14T03:38:13.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -437,13 +404,46 @@
         "zone": "ca"
       },
       {
-        "title": "Refereeing body admits judgement error over Haaland derby winner",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
+        "title": "I had 11 years of chemotherapy for a cancer I didn't have",
+        "url": "https://www.bbc.co.uk/news/articles/c74e0zwkk18o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Premier League refereeing body Pro Ref admits an error of judgement in awarding Erling Haaland's winner in the Manchester derby.",
-        "publishedAt": "2026-09-13T20:29:58.000Z",
+        "description": "Becky Jones is among more than 40 people taking legal action against a hospital trust.",
+        "publishedAt": "2026-09-13T23:11:37.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Why a fresh wave of North Korean soldiers may fight in Russia's war in Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/cgl7zrnxxy6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "North Korea will continue to send its soldiers to fight in Russia's war, but only for as long as it is profitable to do so, writes the BBC's Quentin Sommerville.",
+        "publishedAt": "2026-09-13T23:16:33.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "'Culture shift' needed in how UK does business, PM urges",
+        "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+        "publishedAt": "2026-09-13T21:30:21.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Buckingham Palace works uncover trove of everyday items dating back to 1800s",
+        "url": "https://www.bbc.co.uk/news/articles/c2095wyqvx2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A collection of historic, forgotten items have been found during the restoration of the London royal residence.",
+        "publishedAt": "2026-09-13T23:20:03.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -496,6 +496,28 @@
         "zone": "us"
       },
       {
+        "title": "MPs and Lords call for new law to address AI threat to human rights",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.",
+        "publishedAt": "2026-09-14T05:49:32.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Amazon pauses work with cargo firm after fatal crash",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The 21 Air-operated jet overshot a runway at Miami International Airport and hit several vehicles.",
+        "publishedAt": "2026-09-14T02:40:06.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "Trump downplays warnings of AI risks, citing rivalry with China",
         "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -525,28 +547,6 @@
         },
         "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
         "publishedAt": "2026-09-13T09:05:10.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-        "publishedAt": "2026-09-13T19:34:36.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-        "publishedAt": "2026-09-12T21:16:47.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -588,6 +588,28 @@
         "zone": "gb"
       },
       {
+        "title": "MPs and Lords call for new law to address AI threat to human rights",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.",
+        "publishedAt": "2026-09-14T05:49:32.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Amazon pauses work with cargo firm after fatal crash",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The 21 Air-operated jet overshot a runway at Miami International Airport and hit several vehicles.",
+        "publishedAt": "2026-09-14T02:40:06.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "Trump downplays warnings of AI risks, citing rivalry with China",
         "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -617,28 +639,6 @@
         },
         "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
         "publishedAt": "2026-09-13T09:05:10.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-        "publishedAt": "2026-09-13T19:34:36.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-        "publishedAt": "2026-09-12T21:16:47.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -680,6 +680,28 @@
         "zone": "in"
       },
       {
+        "title": "MPs and Lords call for new law to address AI threat to human rights",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.",
+        "publishedAt": "2026-09-14T05:49:32.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Amazon pauses work with cargo firm after fatal crash",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The 21 Air-operated jet overshot a runway at Miami International Airport and hit several vehicles.",
+        "publishedAt": "2026-09-14T02:40:06.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "Trump downplays warnings of AI risks, citing rivalry with China",
         "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -709,28 +731,6 @@
         },
         "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
         "publishedAt": "2026-09-13T09:05:10.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-        "publishedAt": "2026-09-13T19:34:36.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-        "publishedAt": "2026-09-12T21:16:47.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -772,6 +772,28 @@
         "zone": "au"
       },
       {
+        "title": "MPs and Lords call for new law to address AI threat to human rights",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.",
+        "publishedAt": "2026-09-14T05:49:32.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Amazon pauses work with cargo firm after fatal crash",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The 21 Air-operated jet overshot a runway at Miami International Airport and hit several vehicles.",
+        "publishedAt": "2026-09-14T02:40:06.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "Trump downplays warnings of AI risks, citing rivalry with China",
         "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -801,28 +823,6 @@
         },
         "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
         "publishedAt": "2026-09-13T09:05:10.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-        "publishedAt": "2026-09-13T19:34:36.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-        "publishedAt": "2026-09-12T21:16:47.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -864,6 +864,28 @@
         "zone": "ca"
       },
       {
+        "title": "MPs and Lords call for new law to address AI threat to human rights",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.",
+        "publishedAt": "2026-09-14T05:49:32.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Amazon pauses work with cargo firm after fatal crash",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The 21 Air-operated jet overshot a runway at Miami International Airport and hit several vehicles.",
+        "publishedAt": "2026-09-14T02:40:06.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "Trump downplays warnings of AI risks, citing rivalry with China",
         "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -895,33 +917,22 @@
         "publishedAt": "2026-09-13T09:05:10.000Z",
         "category": "business",
         "zone": "ca"
-      },
-      {
-        "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-        "publishedAt": "2026-09-13T19:34:36.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-        "publishedAt": "2026-09-12T21:16:47.000Z",
-        "category": "business",
-        "zone": "ca"
       }
     ]
   },
   "entertainment_us": {
     "articles": [
+      {
+        "title": "Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing",
+        "url": "https://www.bbc.co.uk/news/articles/c80n3xl378ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Beef stars Oscar Isaac and Carey Mulligan are among the nominees at the ceremony in Los Angeles.",
+        "publishedAt": "2026-09-13T23:21:00.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
       {
         "title": "Diljit Dosanjh makes history under the famous Wembley arch",
         "url": "https://www.bbc.co.uk/news/articles/c780zvq7xlvo?at_medium=RSS&at_campaign=rss",
@@ -996,17 +1007,6 @@
         },
         "description": "The Chicago star's children Dylan and Carys have both gone into showbiz, following in her footsteps.",
         "publishedAt": "2026-09-13T15:40:51.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Oscar-winning film producer Jeremy Thomas dies aged 77",
-        "url": "https://www.bbc.co.uk/news/articles/c3v4nzrk4rlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Best known for The Last Emperor and Sexy Beast, the British film-maker was celebrated for working with international directors throughout his decades-long career.",
-        "publishedAt": "2026-09-12T16:32:27.000Z",
         "category": "entertainment",
         "zone": "us"
       }
@@ -1015,6 +1015,17 @@
   "entertainment_gb": {
     "articles": [
       {
+        "title": "Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing",
+        "url": "https://www.bbc.co.uk/news/articles/c80n3xl378ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Beef stars Oscar Isaac and Carey Mulligan are among the nominees at the ceremony in Los Angeles.",
+        "publishedAt": "2026-09-13T23:21:00.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
         "title": "Diljit Dosanjh makes history under the famous Wembley arch",
         "url": "https://www.bbc.co.uk/news/articles/c780zvq7xlvo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1088,17 +1099,6 @@
         },
         "description": "The Chicago star's children Dylan and Carys have both gone into showbiz, following in her footsteps.",
         "publishedAt": "2026-09-13T15:40:51.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Oscar-winning film producer Jeremy Thomas dies aged 77",
-        "url": "https://www.bbc.co.uk/news/articles/c3v4nzrk4rlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Best known for The Last Emperor and Sexy Beast, the British film-maker was celebrated for working with international directors throughout his decades-long career.",
-        "publishedAt": "2026-09-12T16:32:27.000Z",
         "category": "entertainment",
         "zone": "gb"
       }
@@ -1107,6 +1107,17 @@
   "entertainment_in": {
     "articles": [
       {
+        "title": "Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing",
+        "url": "https://www.bbc.co.uk/news/articles/c80n3xl378ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Beef stars Oscar Isaac and Carey Mulligan are among the nominees at the ceremony in Los Angeles.",
+        "publishedAt": "2026-09-13T23:21:00.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
         "title": "Diljit Dosanjh makes history under the famous Wembley arch",
         "url": "https://www.bbc.co.uk/news/articles/c780zvq7xlvo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1180,17 +1191,6 @@
         },
         "description": "The Chicago star's children Dylan and Carys have both gone into showbiz, following in her footsteps.",
         "publishedAt": "2026-09-13T15:40:51.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Oscar-winning film producer Jeremy Thomas dies aged 77",
-        "url": "https://www.bbc.co.uk/news/articles/c3v4nzrk4rlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Best known for The Last Emperor and Sexy Beast, the British film-maker was celebrated for working with international directors throughout his decades-long career.",
-        "publishedAt": "2026-09-12T16:32:27.000Z",
         "category": "entertainment",
         "zone": "in"
       }
@@ -1199,6 +1199,17 @@
   "entertainment_au": {
     "articles": [
       {
+        "title": "Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing",
+        "url": "https://www.bbc.co.uk/news/articles/c80n3xl378ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Beef stars Oscar Isaac and Carey Mulligan are among the nominees at the ceremony in Los Angeles.",
+        "publishedAt": "2026-09-13T23:21:00.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
         "title": "Diljit Dosanjh makes history under the famous Wembley arch",
         "url": "https://www.bbc.co.uk/news/articles/c780zvq7xlvo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1272,17 +1283,6 @@
         },
         "description": "The Chicago star's children Dylan and Carys have both gone into showbiz, following in her footsteps.",
         "publishedAt": "2026-09-13T15:40:51.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Oscar-winning film producer Jeremy Thomas dies aged 77",
-        "url": "https://www.bbc.co.uk/news/articles/c3v4nzrk4rlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Best known for The Last Emperor and Sexy Beast, the British film-maker was celebrated for working with international directors throughout his decades-long career.",
-        "publishedAt": "2026-09-12T16:32:27.000Z",
         "category": "entertainment",
         "zone": "au"
       }
@@ -1291,6 +1291,17 @@
   "entertainment_ca": {
     "articles": [
       {
+        "title": "Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing",
+        "url": "https://www.bbc.co.uk/news/articles/c80n3xl378ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Beef stars Oscar Isaac and Carey Mulligan are among the nominees at the ceremony in Los Angeles.",
+        "publishedAt": "2026-09-13T23:21:00.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
         "title": "Diljit Dosanjh makes history under the famous Wembley arch",
         "url": "https://www.bbc.co.uk/news/articles/c780zvq7xlvo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1364,17 +1375,6 @@
         },
         "description": "The Chicago star's children Dylan and Carys have both gone into showbiz, following in her footsteps.",
         "publishedAt": "2026-09-13T15:40:51.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Oscar-winning film producer Jeremy Thomas dies aged 77",
-        "url": "https://www.bbc.co.uk/news/articles/c3v4nzrk4rlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Best known for The Last Emperor and Sexy Beast, the British film-maker was celebrated for working with international directors throughout his decades-long career.",
-        "publishedAt": "2026-09-12T16:32:27.000Z",
         "category": "entertainment",
         "zone": "ca"
       }
@@ -2314,6 +2314,17 @@
         "zone": "us"
       },
       {
+        "title": "Zverev turns US Open tears into triumph",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/clyrkeyn5pgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "How a more composed Alexander Zverev stayed 'zen-like' to beat Ben Shelton and win the US Open, six years after a heart-breaking defeat in the final.",
+        "publishedAt": "2026-09-14T01:28:19.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Intelligence & resilience key in statement win for Maresca's Man City - Murphy",
         "url": "https://www.bbc.co.uk/sport/football/articles/cq6384g0pqyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2325,17 +2336,6 @@
         "zone": "us"
       },
       {
-        "title": "Zverev caps transformational year with US Open triumph",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's hopes of becoming a rare home US Open men's champion.",
-        "publishedAt": "2026-09-13T22:55:31.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
         "title": "How virtual safety car cost Norris win - and should F1 change rules?",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/cvgyjwxv7y3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2343,6 +2343,17 @@
         },
         "description": "Lando Norris says he was \"insanely unlucky\" to lose what seemed like a certain win in the Spanish Grand Prix because of the timing of a virtual safety car.",
         "publishedAt": "2026-09-13T19:30:14.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Bears, Bills and Ravens win on record-breaking Sunday",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/c86x5pq12e6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "After kicking off the NFL season with a Super Bowl rematch and a trip to Australia, week one continued with a record-breaking Sunday.",
+        "publishedAt": "2026-09-14T05:36:07.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2369,18 +2380,7 @@
         "zone": "us"
       },
       {
-        "title": "McInnes delivers togetherness & intensity in Old Firm gobsmacker",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cj06e0mg40qo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Scotland's chief sportswriter Tom English analyses Rangers' convincing Old Firm victory over Celtic at Ibrox.",
-        "publishedAt": "2026-09-13T16:08:09.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Dominant Kerr wins $150K with GB's first Ultimate title",
+        "title": "Dominant Kerr wins $150k with GB's first Ultimate title",
         "url": "https://www.bbc.co.uk/sport/athletics/articles/czjz0yn1rn2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2406,6 +2406,17 @@
         "zone": "gb"
       },
       {
+        "title": "Zverev turns US Open tears into triumph",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/clyrkeyn5pgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "How a more composed Alexander Zverev stayed 'zen-like' to beat Ben Shelton and win the US Open, six years after a heart-breaking defeat in the final.",
+        "publishedAt": "2026-09-14T01:28:19.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Intelligence & resilience key in statement win for Maresca's Man City - Murphy",
         "url": "https://www.bbc.co.uk/sport/football/articles/cq6384g0pqyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2417,17 +2428,6 @@
         "zone": "gb"
       },
       {
-        "title": "Zverev caps transformational year with US Open triumph",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's hopes of becoming a rare home US Open men's champion.",
-        "publishedAt": "2026-09-13T22:55:31.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
         "title": "How virtual safety car cost Norris win - and should F1 change rules?",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/cvgyjwxv7y3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2435,6 +2435,17 @@
         },
         "description": "Lando Norris says he was \"insanely unlucky\" to lose what seemed like a certain win in the Spanish Grand Prix because of the timing of a virtual safety car.",
         "publishedAt": "2026-09-13T19:30:14.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Bears, Bills and Ravens win on record-breaking Sunday",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/c86x5pq12e6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "After kicking off the NFL season with a Super Bowl rematch and a trip to Australia, week one continued with a record-breaking Sunday.",
+        "publishedAt": "2026-09-14T05:36:07.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2461,18 +2472,7 @@
         "zone": "gb"
       },
       {
-        "title": "McInnes delivers togetherness & intensity in Old Firm gobsmacker",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cj06e0mg40qo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Scotland's chief sportswriter Tom English analyses Rangers' convincing Old Firm victory over Celtic at Ibrox.",
-        "publishedAt": "2026-09-13T16:08:09.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Dominant Kerr wins $150K with GB's first Ultimate title",
+        "title": "Dominant Kerr wins $150k with GB's first Ultimate title",
         "url": "https://www.bbc.co.uk/sport/athletics/articles/czjz0yn1rn2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2498,6 +2498,17 @@
         "zone": "in"
       },
       {
+        "title": "Zverev turns US Open tears into triumph",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/clyrkeyn5pgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "How a more composed Alexander Zverev stayed 'zen-like' to beat Ben Shelton and win the US Open, six years after a heart-breaking defeat in the final.",
+        "publishedAt": "2026-09-14T01:28:19.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Intelligence & resilience key in statement win for Maresca's Man City - Murphy",
         "url": "https://www.bbc.co.uk/sport/football/articles/cq6384g0pqyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2509,17 +2520,6 @@
         "zone": "in"
       },
       {
-        "title": "Zverev caps transformational year with US Open triumph",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's hopes of becoming a rare home US Open men's champion.",
-        "publishedAt": "2026-09-13T22:55:31.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
         "title": "How virtual safety car cost Norris win - and should F1 change rules?",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/cvgyjwxv7y3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2527,6 +2527,17 @@
         },
         "description": "Lando Norris says he was \"insanely unlucky\" to lose what seemed like a certain win in the Spanish Grand Prix because of the timing of a virtual safety car.",
         "publishedAt": "2026-09-13T19:30:14.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Bears, Bills and Ravens win on record-breaking Sunday",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/c86x5pq12e6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "After kicking off the NFL season with a Super Bowl rematch and a trip to Australia, week one continued with a record-breaking Sunday.",
+        "publishedAt": "2026-09-14T05:36:07.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2553,18 +2564,7 @@
         "zone": "in"
       },
       {
-        "title": "McInnes delivers togetherness & intensity in Old Firm gobsmacker",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cj06e0mg40qo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Scotland's chief sportswriter Tom English analyses Rangers' convincing Old Firm victory over Celtic at Ibrox.",
-        "publishedAt": "2026-09-13T16:08:09.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Dominant Kerr wins $150K with GB's first Ultimate title",
+        "title": "Dominant Kerr wins $150k with GB's first Ultimate title",
         "url": "https://www.bbc.co.uk/sport/athletics/articles/czjz0yn1rn2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2590,6 +2590,17 @@
         "zone": "au"
       },
       {
+        "title": "Zverev turns US Open tears into triumph",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/clyrkeyn5pgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "How a more composed Alexander Zverev stayed 'zen-like' to beat Ben Shelton and win the US Open, six years after a heart-breaking defeat in the final.",
+        "publishedAt": "2026-09-14T01:28:19.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Intelligence & resilience key in statement win for Maresca's Man City - Murphy",
         "url": "https://www.bbc.co.uk/sport/football/articles/cq6384g0pqyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2601,17 +2612,6 @@
         "zone": "au"
       },
       {
-        "title": "Zverev caps transformational year with US Open triumph",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's hopes of becoming a rare home US Open men's champion.",
-        "publishedAt": "2026-09-13T22:55:31.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
         "title": "How virtual safety car cost Norris win - and should F1 change rules?",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/cvgyjwxv7y3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2619,6 +2619,17 @@
         },
         "description": "Lando Norris says he was \"insanely unlucky\" to lose what seemed like a certain win in the Spanish Grand Prix because of the timing of a virtual safety car.",
         "publishedAt": "2026-09-13T19:30:14.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Bears, Bills and Ravens win on record-breaking Sunday",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/c86x5pq12e6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "After kicking off the NFL season with a Super Bowl rematch and a trip to Australia, week one continued with a record-breaking Sunday.",
+        "publishedAt": "2026-09-14T05:36:07.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2645,18 +2656,7 @@
         "zone": "au"
       },
       {
-        "title": "McInnes delivers togetherness & intensity in Old Firm gobsmacker",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cj06e0mg40qo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Scotland's chief sportswriter Tom English analyses Rangers' convincing Old Firm victory over Celtic at Ibrox.",
-        "publishedAt": "2026-09-13T16:08:09.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Dominant Kerr wins $150K with GB's first Ultimate title",
+        "title": "Dominant Kerr wins $150k with GB's first Ultimate title",
         "url": "https://www.bbc.co.uk/sport/athletics/articles/czjz0yn1rn2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2682,6 +2682,17 @@
         "zone": "ca"
       },
       {
+        "title": "Zverev turns US Open tears into triumph",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/clyrkeyn5pgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "How a more composed Alexander Zverev stayed 'zen-like' to beat Ben Shelton and win the US Open, six years after a heart-breaking defeat in the final.",
+        "publishedAt": "2026-09-14T01:28:19.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Intelligence & resilience key in statement win for Maresca's Man City - Murphy",
         "url": "https://www.bbc.co.uk/sport/football/articles/cq6384g0pqyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2693,17 +2704,6 @@
         "zone": "ca"
       },
       {
-        "title": "Zverev caps transformational year with US Open triumph",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's hopes of becoming a rare home US Open men's champion.",
-        "publishedAt": "2026-09-13T22:55:31.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
         "title": "How virtual safety car cost Norris win - and should F1 change rules?",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/cvgyjwxv7y3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2711,6 +2711,17 @@
         },
         "description": "Lando Norris says he was \"insanely unlucky\" to lose what seemed like a certain win in the Spanish Grand Prix because of the timing of a virtual safety car.",
         "publishedAt": "2026-09-13T19:30:14.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Bears, Bills and Ravens win on record-breaking Sunday",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/c86x5pq12e6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "After kicking off the NFL season with a Super Bowl rematch and a trip to Australia, week one continued with a record-breaking Sunday.",
+        "publishedAt": "2026-09-14T05:36:07.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2737,18 +2748,7 @@
         "zone": "ca"
       },
       {
-        "title": "McInnes delivers togetherness & intensity in Old Firm gobsmacker",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cj06e0mg40qo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Scotland's chief sportswriter Tom English analyses Rangers' convincing Old Firm victory over Celtic at Ibrox.",
-        "publishedAt": "2026-09-13T16:08:09.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Dominant Kerr wins $150K with GB's first Ultimate title",
+        "title": "Dominant Kerr wins $150k with GB's first Ultimate title",
         "url": "https://www.bbc.co.uk/sport/athletics/articles/czjz0yn1rn2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
