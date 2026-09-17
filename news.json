@@ -1,15 +1,26 @@
 {
-  "generatedAt": "2026-09-17T13:07:44.642Z",
+  "generatedAt": "2026-09-17T17:58:47.955Z",
   "general_us": {
     "articles": [
       {
-        "title": "Palace in war of words with Earl Spencer over claims in Diana book",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss",
+        "title": "Remains found after wildfire identified as mother-of-three missing since 2019",
+        "url": "https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-        "publishedAt": "2026-09-17T12:31:07.000Z",
+        "description": "A 56-year-old man is arrested after the remains of Joanne Sheen were found in London almost seven years after she went missing.",
+        "publishedAt": "2026-09-17T15:08:05.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Interest rates held but Bank signals rise if energy prices stay high",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
+        "publishedAt": "2026-09-17T14:05:38.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -19,8 +30,52 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" for community support.",
-        "publishedAt": "2026-09-17T12:52:56.000Z",
+        "description": "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" to local people.",
+        "publishedAt": "2026-09-17T14:54:53.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+        "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The comments were made at a summit in Scotland with participants from AI giants such as Nvidia, OpenAI and Anthropic.",
+        "publishedAt": "2026-09-17T14:33:12.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Watch: Is Canada about to join the EU?",
+        "url": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue.",
+        "publishedAt": "2026-09-17T16:18:35.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+        "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+        "publishedAt": "2026-09-17T15:07:47.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
+        "url": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Verify tracks down the location of a Houthi video showing the wreckage of an F-15 they claim to have shot down.",
+        "publishedAt": "2026-09-17T13:47:36.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -31,62 +86,7 @@
           "name": "RSS Feed"
         },
         "description": "The family of Nicholas Brandram said there was no forensic evidence linking him to the incident.",
-        "publishedAt": "2026-09-17T13:03:45.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, Microsoft boss tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-        "publishedAt": "2026-09-17T08:22:12.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "'I can get more time': Breast cancer patient finds out she can get life extending drug",
-        "url": "https://www.bbc.co.uk/news/videos/c6wyz8qg0g58o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Patients in England with an incurable breast cancer can now access a life-extending drug on the NHS.",
-        "publishedAt": "2026-09-17T12:13:26.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Assad regime planned US journalist Austin Tice's kidnap for weeks, BBC finds",
-        "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
-        "publishedAt": "2026-09-17T05:00:18.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Ed Sheeran asked me to donate $2m in aid, Robert Kraft says after Macklemore backlash",
-        "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
-        "publishedAt": "2026-09-17T10:19:04.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
-        "url": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
-        "publishedAt": "2026-09-17T11:05:29.000Z",
+        "publishedAt": "2026-09-17T16:51:55.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,13 +95,24 @@
   "general_gb": {
     "articles": [
       {
-        "title": "Palace in war of words with Earl Spencer over claims in Diana book",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss",
+        "title": "Remains found after wildfire identified as mother-of-three missing since 2019",
+        "url": "https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-        "publishedAt": "2026-09-17T12:31:07.000Z",
+        "description": "A 56-year-old man is arrested after the remains of Joanne Sheen were found in London almost seven years after she went missing.",
+        "publishedAt": "2026-09-17T15:08:05.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Interest rates held but Bank signals rise if energy prices stay high",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
+        "publishedAt": "2026-09-17T14:05:38.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -111,8 +122,52 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" for community support.",
-        "publishedAt": "2026-09-17T12:52:56.000Z",
+        "description": "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" to local people.",
+        "publishedAt": "2026-09-17T14:54:53.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+        "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The comments were made at a summit in Scotland with participants from AI giants such as Nvidia, OpenAI and Anthropic.",
+        "publishedAt": "2026-09-17T14:33:12.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Watch: Is Canada about to join the EU?",
+        "url": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue.",
+        "publishedAt": "2026-09-17T16:18:35.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+        "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+        "publishedAt": "2026-09-17T15:07:47.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
+        "url": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Verify tracks down the location of a Houthi video showing the wreckage of an F-15 they claim to have shot down.",
+        "publishedAt": "2026-09-17T13:47:36.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -123,62 +178,7 @@
           "name": "RSS Feed"
         },
         "description": "The family of Nicholas Brandram said there was no forensic evidence linking him to the incident.",
-        "publishedAt": "2026-09-17T13:03:45.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, Microsoft boss tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-        "publishedAt": "2026-09-17T08:22:12.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "'I can get more time': Breast cancer patient finds out she can get life extending drug",
-        "url": "https://www.bbc.co.uk/news/videos/c6wyz8qg0g58o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Patients in England with an incurable breast cancer can now access a life-extending drug on the NHS.",
-        "publishedAt": "2026-09-17T12:13:26.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Assad regime planned US journalist Austin Tice's kidnap for weeks, BBC finds",
-        "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
-        "publishedAt": "2026-09-17T05:00:18.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Ed Sheeran asked me to donate $2m in aid, Robert Kraft says after Macklemore backlash",
-        "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
-        "publishedAt": "2026-09-17T10:19:04.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
-        "url": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
-        "publishedAt": "2026-09-17T11:05:29.000Z",
+        "publishedAt": "2026-09-17T16:51:55.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,13 +187,24 @@
   "general_in": {
     "articles": [
       {
-        "title": "Palace in war of words with Earl Spencer over claims in Diana book",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss",
+        "title": "Remains found after wildfire identified as mother-of-three missing since 2019",
+        "url": "https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-        "publishedAt": "2026-09-17T12:31:07.000Z",
+        "description": "A 56-year-old man is arrested after the remains of Joanne Sheen were found in London almost seven years after she went missing.",
+        "publishedAt": "2026-09-17T15:08:05.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Interest rates held but Bank signals rise if energy prices stay high",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
+        "publishedAt": "2026-09-17T14:05:38.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -203,8 +214,52 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" for community support.",
-        "publishedAt": "2026-09-17T12:52:56.000Z",
+        "description": "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" to local people.",
+        "publishedAt": "2026-09-17T14:54:53.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+        "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The comments were made at a summit in Scotland with participants from AI giants such as Nvidia, OpenAI and Anthropic.",
+        "publishedAt": "2026-09-17T14:33:12.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Watch: Is Canada about to join the EU?",
+        "url": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue.",
+        "publishedAt": "2026-09-17T16:18:35.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+        "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+        "publishedAt": "2026-09-17T15:07:47.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
+        "url": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Verify tracks down the location of a Houthi video showing the wreckage of an F-15 they claim to have shot down.",
+        "publishedAt": "2026-09-17T13:47:36.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -215,62 +270,7 @@
           "name": "RSS Feed"
         },
         "description": "The family of Nicholas Brandram said there was no forensic evidence linking him to the incident.",
-        "publishedAt": "2026-09-17T13:03:45.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, Microsoft boss tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-        "publishedAt": "2026-09-17T08:22:12.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "'I can get more time': Breast cancer patient finds out she can get life extending drug",
-        "url": "https://www.bbc.co.uk/news/videos/c6wyz8qg0g58o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Patients in England with an incurable breast cancer can now access a life-extending drug on the NHS.",
-        "publishedAt": "2026-09-17T12:13:26.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Assad regime planned US journalist Austin Tice's kidnap for weeks, BBC finds",
-        "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
-        "publishedAt": "2026-09-17T05:00:18.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Ed Sheeran asked me to donate $2m in aid, Robert Kraft says after Macklemore backlash",
-        "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
-        "publishedAt": "2026-09-17T10:19:04.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
-        "url": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
-        "publishedAt": "2026-09-17T11:05:29.000Z",
+        "publishedAt": "2026-09-17T16:51:55.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,13 +279,24 @@
   "general_au": {
     "articles": [
       {
-        "title": "Palace in war of words with Earl Spencer over claims in Diana book",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss",
+        "title": "Remains found after wildfire identified as mother-of-three missing since 2019",
+        "url": "https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-        "publishedAt": "2026-09-17T12:31:07.000Z",
+        "description": "A 56-year-old man is arrested after the remains of Joanne Sheen were found in London almost seven years after she went missing.",
+        "publishedAt": "2026-09-17T15:08:05.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Interest rates held but Bank signals rise if energy prices stay high",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
+        "publishedAt": "2026-09-17T14:05:38.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -295,8 +306,52 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" for community support.",
-        "publishedAt": "2026-09-17T12:52:56.000Z",
+        "description": "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" to local people.",
+        "publishedAt": "2026-09-17T14:54:53.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+        "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The comments were made at a summit in Scotland with participants from AI giants such as Nvidia, OpenAI and Anthropic.",
+        "publishedAt": "2026-09-17T14:33:12.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Watch: Is Canada about to join the EU?",
+        "url": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue.",
+        "publishedAt": "2026-09-17T16:18:35.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+        "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+        "publishedAt": "2026-09-17T15:07:47.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
+        "url": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Verify tracks down the location of a Houthi video showing the wreckage of an F-15 they claim to have shot down.",
+        "publishedAt": "2026-09-17T13:47:36.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -307,62 +362,7 @@
           "name": "RSS Feed"
         },
         "description": "The family of Nicholas Brandram said there was no forensic evidence linking him to the incident.",
-        "publishedAt": "2026-09-17T13:03:45.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, Microsoft boss tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-        "publishedAt": "2026-09-17T08:22:12.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "'I can get more time': Breast cancer patient finds out she can get life extending drug",
-        "url": "https://www.bbc.co.uk/news/videos/c6wyz8qg0g58o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Patients in England with an incurable breast cancer can now access a life-extending drug on the NHS.",
-        "publishedAt": "2026-09-17T12:13:26.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Assad regime planned US journalist Austin Tice's kidnap for weeks, BBC finds",
-        "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
-        "publishedAt": "2026-09-17T05:00:18.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Ed Sheeran asked me to donate $2m in aid, Robert Kraft says after Macklemore backlash",
-        "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
-        "publishedAt": "2026-09-17T10:19:04.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
-        "url": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
-        "publishedAt": "2026-09-17T11:05:29.000Z",
+        "publishedAt": "2026-09-17T16:51:55.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,13 +371,24 @@
   "general_ca": {
     "articles": [
       {
-        "title": "Palace in war of words with Earl Spencer over claims in Diana book",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss",
+        "title": "Remains found after wildfire identified as mother-of-three missing since 2019",
+        "url": "https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-        "publishedAt": "2026-09-17T12:31:07.000Z",
+        "description": "A 56-year-old man is arrested after the remains of Joanne Sheen were found in London almost seven years after she went missing.",
+        "publishedAt": "2026-09-17T15:08:05.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Interest rates held but Bank signals rise if energy prices stay high",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
+        "publishedAt": "2026-09-17T14:05:38.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -387,8 +398,52 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" for community support.",
-        "publishedAt": "2026-09-17T12:52:56.000Z",
+        "description": "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" to local people.",
+        "publishedAt": "2026-09-17T14:54:53.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+        "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The comments were made at a summit in Scotland with participants from AI giants such as Nvidia, OpenAI and Anthropic.",
+        "publishedAt": "2026-09-17T14:33:12.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Watch: Is Canada about to join the EU?",
+        "url": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue.",
+        "publishedAt": "2026-09-17T16:18:35.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+        "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+        "publishedAt": "2026-09-17T15:07:47.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
+        "url": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Verify tracks down the location of a Houthi video showing the wreckage of an F-15 they claim to have shot down.",
+        "publishedAt": "2026-09-17T13:47:36.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -399,62 +454,7 @@
           "name": "RSS Feed"
         },
         "description": "The family of Nicholas Brandram said there was no forensic evidence linking him to the incident.",
-        "publishedAt": "2026-09-17T13:03:45.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, Microsoft boss tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-        "publishedAt": "2026-09-17T08:22:12.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "'I can get more time': Breast cancer patient finds out she can get life extending drug",
-        "url": "https://www.bbc.co.uk/news/videos/c6wyz8qg0g58o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Patients in England with an incurable breast cancer can now access a life-extending drug on the NHS.",
-        "publishedAt": "2026-09-17T12:13:26.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Assad regime planned US journalist Austin Tice's kidnap for weeks, BBC finds",
-        "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
-        "publishedAt": "2026-09-17T05:00:18.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Ed Sheeran asked me to donate $2m in aid, Robert Kraft says after Macklemore backlash",
-        "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
-        "publishedAt": "2026-09-17T10:19:04.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
-        "url": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
-        "publishedAt": "2026-09-17T11:05:29.000Z",
+        "publishedAt": "2026-09-17T16:51:55.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -468,19 +468,19 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Rates are held for the sixth time in a row but the Bank says they are likely to rise if high energy prices continue.",
-        "publishedAt": "2026-09-17T12:39:08.000Z",
+        "description": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
+        "publishedAt": "2026-09-17T14:05:38.000Z",
         "category": "business",
         "zone": "us"
       },
       {
-        "title": "Barclays staff push back at plans to reduce work-from-home days",
+        "title": "Barclays workers ask for more money to return to the office",
         "url": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
-        "publishedAt": "2026-09-17T12:17:48.000Z",
+        "publishedAt": "2026-09-17T14:20:27.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -496,17 +496,6 @@
         "zone": "us"
       },
       {
-        "title": "Would you buy branded clothing from your favourite tech firm?",
-        "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
-        "publishedAt": "2026-09-16T23:18:47.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
         "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
         "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -514,6 +503,17 @@
         },
         "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
         "publishedAt": "2026-09-17T08:22:12.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Would you buy branded clothing from your favourite tech firm?",
+        "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
+        "publishedAt": "2026-09-16T23:18:47.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -560,19 +560,19 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Rates are held for the sixth time in a row but the Bank says they are likely to rise if high energy prices continue.",
-        "publishedAt": "2026-09-17T12:39:08.000Z",
+        "description": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
+        "publishedAt": "2026-09-17T14:05:38.000Z",
         "category": "business",
         "zone": "gb"
       },
       {
-        "title": "Barclays staff push back at plans to reduce work-from-home days",
+        "title": "Barclays workers ask for more money to return to the office",
         "url": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
-        "publishedAt": "2026-09-17T12:17:48.000Z",
+        "publishedAt": "2026-09-17T14:20:27.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -588,17 +588,6 @@
         "zone": "gb"
       },
       {
-        "title": "Would you buy branded clothing from your favourite tech firm?",
-        "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
-        "publishedAt": "2026-09-16T23:18:47.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
         "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
         "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -606,6 +595,17 @@
         },
         "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
         "publishedAt": "2026-09-17T08:22:12.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Would you buy branded clothing from your favourite tech firm?",
+        "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
+        "publishedAt": "2026-09-16T23:18:47.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -652,19 +652,19 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Rates are held for the sixth time in a row but the Bank says they are likely to rise if high energy prices continue.",
-        "publishedAt": "2026-09-17T12:39:08.000Z",
+        "description": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
+        "publishedAt": "2026-09-17T14:05:38.000Z",
         "category": "business",
         "zone": "in"
       },
       {
-        "title": "Barclays staff push back at plans to reduce work-from-home days",
+        "title": "Barclays workers ask for more money to return to the office",
         "url": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
-        "publishedAt": "2026-09-17T12:17:48.000Z",
+        "publishedAt": "2026-09-17T14:20:27.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -680,17 +680,6 @@
         "zone": "in"
       },
       {
-        "title": "Would you buy branded clothing from your favourite tech firm?",
-        "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
-        "publishedAt": "2026-09-16T23:18:47.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
         "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
         "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -698,6 +687,17 @@
         },
         "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
         "publishedAt": "2026-09-17T08:22:12.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Would you buy branded clothing from your favourite tech firm?",
+        "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
+        "publishedAt": "2026-09-16T23:18:47.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -744,19 +744,19 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Rates are held for the sixth time in a row but the Bank says they are likely to rise if high energy prices continue.",
-        "publishedAt": "2026-09-17T12:39:08.000Z",
+        "description": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
+        "publishedAt": "2026-09-17T14:05:38.000Z",
         "category": "business",
         "zone": "au"
       },
       {
-        "title": "Barclays staff push back at plans to reduce work-from-home days",
+        "title": "Barclays workers ask for more money to return to the office",
         "url": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
-        "publishedAt": "2026-09-17T12:17:48.000Z",
+        "publishedAt": "2026-09-17T14:20:27.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -772,17 +772,6 @@
         "zone": "au"
       },
       {
-        "title": "Would you buy branded clothing from your favourite tech firm?",
-        "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
-        "publishedAt": "2026-09-16T23:18:47.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
         "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
         "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -790,6 +779,17 @@
         },
         "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
         "publishedAt": "2026-09-17T08:22:12.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Would you buy branded clothing from your favourite tech firm?",
+        "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
+        "publishedAt": "2026-09-16T23:18:47.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -836,19 +836,19 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Rates are held for the sixth time in a row but the Bank says they are likely to rise if high energy prices continue.",
-        "publishedAt": "2026-09-17T12:39:08.000Z",
+        "description": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
+        "publishedAt": "2026-09-17T14:05:38.000Z",
         "category": "business",
         "zone": "ca"
       },
       {
-        "title": "Barclays staff push back at plans to reduce work-from-home days",
+        "title": "Barclays workers ask for more money to return to the office",
         "url": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
-        "publishedAt": "2026-09-17T12:17:48.000Z",
+        "publishedAt": "2026-09-17T14:20:27.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -864,17 +864,6 @@
         "zone": "ca"
       },
       {
-        "title": "Would you buy branded clothing from your favourite tech firm?",
-        "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
-        "publishedAt": "2026-09-16T23:18:47.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
         "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
         "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -882,6 +871,17 @@
         },
         "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
         "publishedAt": "2026-09-17T08:22:12.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Would you buy branded clothing from your favourite tech firm?",
+        "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
+        "publishedAt": "2026-09-16T23:18:47.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -940,7 +940,7 @@
           "name": "RSS Feed"
         },
         "description": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-        "publishedAt": "2026-09-17T12:31:07.000Z",
+        "publishedAt": "2026-09-17T14:27:09.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -952,6 +952,17 @@
         },
         "description": "In a statement, RTÉ said it feels Ireland's participation \"cannot be justified given the appalling and ongoing loss of lives in Gaza\".",
         "publishedAt": "2026-09-17T11:56:21.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "GTA 6 soundtrack reveal revives digital release debate",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wjlxjnwg3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fred Again, PinkPantheress and Travis Scott provide new music for the blockbuster - but not all fans are happy.",
+        "publishedAt": "2026-09-17T14:29:50.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -996,17 +1007,6 @@
         },
         "description": "Her husband says the playwright and cultural and political commentator died after a brief illness.",
         "publishedAt": "2026-09-16T12:41:03.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Ex-BBC presenter questions role of Royal Family in new documentary",
-        "url": "https://www.bbc.co.uk/news/articles/cj207ddzy6ewo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "John Humphrys, who presented Today and the Nine O'Clock News, heads a new Channel 4 documentary on the topic.",
-        "publishedAt": "2026-09-16T17:57:15.000Z",
         "category": "entertainment",
         "zone": "us"
       }
@@ -1032,7 +1032,7 @@
           "name": "RSS Feed"
         },
         "description": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-        "publishedAt": "2026-09-17T12:31:07.000Z",
+        "publishedAt": "2026-09-17T14:27:09.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1044,6 +1044,17 @@
         },
         "description": "In a statement, RTÉ said it feels Ireland's participation \"cannot be justified given the appalling and ongoing loss of lives in Gaza\".",
         "publishedAt": "2026-09-17T11:56:21.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "GTA 6 soundtrack reveal revives digital release debate",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wjlxjnwg3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fred Again, PinkPantheress and Travis Scott provide new music for the blockbuster - but not all fans are happy.",
+        "publishedAt": "2026-09-17T14:29:50.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1088,17 +1099,6 @@
         },
         "description": "Her husband says the playwright and cultural and political commentator died after a brief illness.",
         "publishedAt": "2026-09-16T12:41:03.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Ex-BBC presenter questions role of Royal Family in new documentary",
-        "url": "https://www.bbc.co.uk/news/articles/cj207ddzy6ewo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "John Humphrys, who presented Today and the Nine O'Clock News, heads a new Channel 4 documentary on the topic.",
-        "publishedAt": "2026-09-16T17:57:15.000Z",
         "category": "entertainment",
         "zone": "gb"
       }
@@ -1124,7 +1124,7 @@
           "name": "RSS Feed"
         },
         "description": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-        "publishedAt": "2026-09-17T12:31:07.000Z",
+        "publishedAt": "2026-09-17T14:27:09.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1136,6 +1136,17 @@
         },
         "description": "In a statement, RTÉ said it feels Ireland's participation \"cannot be justified given the appalling and ongoing loss of lives in Gaza\".",
         "publishedAt": "2026-09-17T11:56:21.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "GTA 6 soundtrack reveal revives digital release debate",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wjlxjnwg3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fred Again, PinkPantheress and Travis Scott provide new music for the blockbuster - but not all fans are happy.",
+        "publishedAt": "2026-09-17T14:29:50.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1180,17 +1191,6 @@
         },
         "description": "Her husband says the playwright and cultural and political commentator died after a brief illness.",
         "publishedAt": "2026-09-16T12:41:03.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Ex-BBC presenter questions role of Royal Family in new documentary",
-        "url": "https://www.bbc.co.uk/news/articles/cj207ddzy6ewo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "John Humphrys, who presented Today and the Nine O'Clock News, heads a new Channel 4 documentary on the topic.",
-        "publishedAt": "2026-09-16T17:57:15.000Z",
         "category": "entertainment",
         "zone": "in"
       }
@@ -1216,7 +1216,7 @@
           "name": "RSS Feed"
         },
         "description": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-        "publishedAt": "2026-09-17T12:31:07.000Z",
+        "publishedAt": "2026-09-17T14:27:09.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1228,6 +1228,17 @@
         },
         "description": "In a statement, RTÉ said it feels Ireland's participation \"cannot be justified given the appalling and ongoing loss of lives in Gaza\".",
         "publishedAt": "2026-09-17T11:56:21.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "GTA 6 soundtrack reveal revives digital release debate",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wjlxjnwg3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fred Again, PinkPantheress and Travis Scott provide new music for the blockbuster - but not all fans are happy.",
+        "publishedAt": "2026-09-17T14:29:50.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1272,17 +1283,6 @@
         },
         "description": "Her husband says the playwright and cultural and political commentator died after a brief illness.",
         "publishedAt": "2026-09-16T12:41:03.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Ex-BBC presenter questions role of Royal Family in new documentary",
-        "url": "https://www.bbc.co.uk/news/articles/cj207ddzy6ewo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "John Humphrys, who presented Today and the Nine O'Clock News, heads a new Channel 4 documentary on the topic.",
-        "publishedAt": "2026-09-16T17:57:15.000Z",
         "category": "entertainment",
         "zone": "au"
       }
@@ -1308,7 +1308,7 @@
           "name": "RSS Feed"
         },
         "description": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-        "publishedAt": "2026-09-17T12:31:07.000Z",
+        "publishedAt": "2026-09-17T14:27:09.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1320,6 +1320,17 @@
         },
         "description": "In a statement, RTÉ said it feels Ireland's participation \"cannot be justified given the appalling and ongoing loss of lives in Gaza\".",
         "publishedAt": "2026-09-17T11:56:21.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "GTA 6 soundtrack reveal revives digital release debate",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wjlxjnwg3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fred Again, PinkPantheress and Travis Scott provide new music for the blockbuster - but not all fans are happy.",
+        "publishedAt": "2026-09-17T14:29:50.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1366,17 +1377,6 @@
         "publishedAt": "2026-09-16T12:41:03.000Z",
         "category": "entertainment",
         "zone": "ca"
-      },
-      {
-        "title": "Ex-BBC presenter questions role of Royal Family in new documentary",
-        "url": "https://www.bbc.co.uk/news/articles/cj207ddzy6ewo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "John Humphrys, who presented Today and the Nine O'Clock News, heads a new Channel 4 documentary on the topic.",
-        "publishedAt": "2026-09-16T17:57:15.000Z",
-        "category": "entertainment",
-        "zone": "ca"
       }
     ]
   },
@@ -1389,7 +1389,7 @@
           "name": "RSS Feed"
         },
         "description": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
-        "publishedAt": "2026-09-16T23:50:56.000Z",
+        "publishedAt": "2026-09-17T13:32:00.000Z",
         "category": "health",
         "zone": "us"
       },
@@ -1481,7 +1481,7 @@
           "name": "RSS Feed"
         },
         "description": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
-        "publishedAt": "2026-09-16T23:50:56.000Z",
+        "publishedAt": "2026-09-17T13:32:00.000Z",
         "category": "health",
         "zone": "gb"
       },
@@ -1573,7 +1573,7 @@
           "name": "RSS Feed"
         },
         "description": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
-        "publishedAt": "2026-09-16T23:50:56.000Z",
+        "publishedAt": "2026-09-17T13:32:00.000Z",
         "category": "health",
         "zone": "in"
       },
@@ -1665,7 +1665,7 @@
           "name": "RSS Feed"
         },
         "description": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
-        "publishedAt": "2026-09-16T23:50:56.000Z",
+        "publishedAt": "2026-09-17T13:32:00.000Z",
         "category": "health",
         "zone": "au"
       },
@@ -1757,7 +1757,7 @@
           "name": "RSS Feed"
         },
         "description": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
-        "publishedAt": "2026-09-16T23:50:56.000Z",
+        "publishedAt": "2026-09-17T13:32:00.000Z",
         "category": "health",
         "zone": "ca"
       },
@@ -1881,7 +1881,7 @@
         "source": {
           "name": "Associated Press"
         },
-        "description": "Gen Dan Caine comments at Washington summit come after US revealed it has deployed weapons in space American troops need to prepare for combat not only in Earth’s orbit but around the moon, Donald Trump’s top military adviser said on Wednesday, looking ahead to a new frontier in warfare after the US revealed for the first time that it has deployed weapons in space. Gen Dan Caine, chairman of the joint chiefs of staff, told service members and industry figures at the Air, Space and Cyber Conference outside Washington that the US military should adapt now so it “is prepared to fight, endure and win ... from the seabed to cislunar space”. Continue reading...",
+        "description": "Gen Dan Caine’s comments at Washington summit come after US revealed it has deployed weapons in space US troops need to prepare for combat not only in Earth’s orbit but around the moon, Donald Trump’s top military adviser said on Wednesday, looking ahead to a new frontier in warfare after the US revealed for the first time that it has deployed weapons in space. Gen Dan Caine, chairman of the joint chiefs of staff, told service members and industry figures at the Air, Space and Cyber Conference outside Washington that the US military should adapt now so it “is prepared to fight, endure and win … from the seabed to cislunar space”. Continue reading...",
         "publishedAt": "2026-09-16T21:19:04.000Z",
         "category": "science",
         "zone": "us"
@@ -1973,7 +1973,7 @@
         "source": {
           "name": "Associated Press"
         },
-        "description": "Gen Dan Caine comments at Washington summit come after US revealed it has deployed weapons in space American troops need to prepare for combat not only in Earth’s orbit but around the moon, Donald Trump’s top military adviser said on Wednesday, looking ahead to a new frontier in warfare after the US revealed for the first time that it has deployed weapons in space. Gen Dan Caine, chairman of the joint chiefs of staff, told service members and industry figures at the Air, Space and Cyber Conference outside Washington that the US military should adapt now so it “is prepared to fight, endure and win ... from the seabed to cislunar space”. Continue reading...",
+        "description": "Gen Dan Caine’s comments at Washington summit come after US revealed it has deployed weapons in space US troops need to prepare for combat not only in Earth’s orbit but around the moon, Donald Trump’s top military adviser said on Wednesday, looking ahead to a new frontier in warfare after the US revealed for the first time that it has deployed weapons in space. Gen Dan Caine, chairman of the joint chiefs of staff, told service members and industry figures at the Air, Space and Cyber Conference outside Washington that the US military should adapt now so it “is prepared to fight, endure and win … from the seabed to cislunar space”. Continue reading...",
         "publishedAt": "2026-09-16T21:19:04.000Z",
         "category": "science",
         "zone": "gb"
@@ -2065,7 +2065,7 @@
         "source": {
           "name": "Associated Press"
         },
-        "description": "Gen Dan Caine comments at Washington summit come after US revealed it has deployed weapons in space American troops need to prepare for combat not only in Earth’s orbit but around the moon, Donald Trump’s top military adviser said on Wednesday, looking ahead to a new frontier in warfare after the US revealed for the first time that it has deployed weapons in space. Gen Dan Caine, chairman of the joint chiefs of staff, told service members and industry figures at the Air, Space and Cyber Conference outside Washington that the US military should adapt now so it “is prepared to fight, endure and win ... from the seabed to cislunar space”. Continue reading...",
+        "description": "Gen Dan Caine’s comments at Washington summit come after US revealed it has deployed weapons in space US troops need to prepare for combat not only in Earth’s orbit but around the moon, Donald Trump’s top military adviser said on Wednesday, looking ahead to a new frontier in warfare after the US revealed for the first time that it has deployed weapons in space. Gen Dan Caine, chairman of the joint chiefs of staff, told service members and industry figures at the Air, Space and Cyber Conference outside Washington that the US military should adapt now so it “is prepared to fight, endure and win … from the seabed to cislunar space”. Continue reading...",
         "publishedAt": "2026-09-16T21:19:04.000Z",
         "category": "science",
         "zone": "in"
@@ -2157,7 +2157,7 @@
         "source": {
           "name": "Associated Press"
         },
-        "description": "Gen Dan Caine comments at Washington summit come after US revealed it has deployed weapons in space American troops need to prepare for combat not only in Earth’s orbit but around the moon, Donald Trump’s top military adviser said on Wednesday, looking ahead to a new frontier in warfare after the US revealed for the first time that it has deployed weapons in space. Gen Dan Caine, chairman of the joint chiefs of staff, told service members and industry figures at the Air, Space and Cyber Conference outside Washington that the US military should adapt now so it “is prepared to fight, endure and win ... from the seabed to cislunar space”. Continue reading...",
+        "description": "Gen Dan Caine’s comments at Washington summit come after US revealed it has deployed weapons in space US troops need to prepare for combat not only in Earth’s orbit but around the moon, Donald Trump’s top military adviser said on Wednesday, looking ahead to a new frontier in warfare after the US revealed for the first time that it has deployed weapons in space. Gen Dan Caine, chairman of the joint chiefs of staff, told service members and industry figures at the Air, Space and Cyber Conference outside Washington that the US military should adapt now so it “is prepared to fight, endure and win … from the seabed to cislunar space”. Continue reading...",
         "publishedAt": "2026-09-16T21:19:04.000Z",
         "category": "science",
         "zone": "au"
@@ -2249,7 +2249,7 @@
         "source": {
           "name": "Associated Press"
         },
-        "description": "Gen Dan Caine comments at Washington summit come after US revealed it has deployed weapons in space American troops need to prepare for combat not only in Earth’s orbit but around the moon, Donald Trump’s top military adviser said on Wednesday, looking ahead to a new frontier in warfare after the US revealed for the first time that it has deployed weapons in space. Gen Dan Caine, chairman of the joint chiefs of staff, told service members and industry figures at the Air, Space and Cyber Conference outside Washington that the US military should adapt now so it “is prepared to fight, endure and win ... from the seabed to cislunar space”. Continue reading...",
+        "description": "Gen Dan Caine’s comments at Washington summit come after US revealed it has deployed weapons in space US troops need to prepare for combat not only in Earth’s orbit but around the moon, Donald Trump’s top military adviser said on Wednesday, looking ahead to a new frontier in warfare after the US revealed for the first time that it has deployed weapons in space. Gen Dan Caine, chairman of the joint chiefs of staff, told service members and industry figures at the Air, Space and Cyber Conference outside Washington that the US military should adapt now so it “is prepared to fight, endure and win … from the seabed to cislunar space”. Continue reading...",
         "publishedAt": "2026-09-16T21:19:04.000Z",
         "category": "science",
         "zone": "ca"
@@ -2303,35 +2303,13 @@
   "sports_us": {
     "articles": [
       {
-        "title": "How an Aston Villa fringe player became Europe's most prolific scorer",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvj64wg0lgeyo?at_medium=RSS&at_campaign=rss",
+        "title": "The big questions for Tuchel's first England squad since World Cup",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "No player in Europe's top five leagues has scored more goals than Donyell Malen since his Roma debut in January - BBC Sport examines his transformation.",
-        "publishedAt": "2026-09-17T08:30:23.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Real Madrid keen on Man Utd forward Gabriel, 15",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
-        "publishedAt": "2026-09-17T07:52:32.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "A team that offered hope... then, four months later, Hamas attacked Israel",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cp3rl709p7xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Can the potential of a golden generation of Israel's footballers, in sport and society, be realised?",
-        "publishedAt": "2026-09-17T05:23:59.000Z",
+        "description": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.",
+        "publishedAt": "2026-09-17T16:47:18.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2347,13 +2325,35 @@
         "zone": "us"
       },
       {
-        "title": "Six-time Grand Slam champion Salisbury retires",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c617j8qdk2v8o?at_medium=RSS&at_campaign=rss",
+        "title": "FA chair demands Infantino release World Cup sell-off documents",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury retires from professional tennis.",
-        "publishedAt": "2026-09-17T10:29:52.000Z",
+        "description": "Fifa president Gianni Infantino has been told to release all documents relating to his controversial plan to sell off a stake in the World Cup.",
+        "publishedAt": "2026-09-17T14:26:53.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Real Madrid keen on Man Utd forward Gabriel, 15",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
+        "publishedAt": "2026-09-17T07:52:32.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Hyrox athlete apologises for continuing race after soiling herself",
+        "url": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
+        "publishedAt": "2026-09-17T15:05:13.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2369,24 +2369,24 @@
         "zone": "us"
       },
       {
-        "title": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
+        "title": "Klopp wants to 'reclaim' flag amid German elections",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
-        "publishedAt": "2026-09-16T23:31:38.000Z",
+        "description": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
+        "publishedAt": "2026-09-17T13:02:40.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Why dealing with defeat is key for Lampard at Coventry",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3eqpz5zlzzo?at_medium=RSS&at_campaign=rss",
+        "title": "Newcastle players see Jaissle's angry side - can they respond?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck980pprp5n1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Sport columnist Tony Pulis explains why Coventry boss Frank Lampard needs to manage himself as well as his players after their poor start to the season.",
-        "publishedAt": "2026-09-17T06:40:18.000Z",
+        "description": "Newcastle United head coach Matthias Jaissle was forthright in the away dressing room at Elland Road on Monday night following a chastening 4-1 defeat against Leeds United.",
+        "publishedAt": "2026-09-17T15:58:24.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,35 +2395,13 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "How an Aston Villa fringe player became Europe's most prolific scorer",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvj64wg0lgeyo?at_medium=RSS&at_campaign=rss",
+        "title": "The big questions for Tuchel's first England squad since World Cup",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "No player in Europe's top five leagues has scored more goals than Donyell Malen since his Roma debut in January - BBC Sport examines his transformation.",
-        "publishedAt": "2026-09-17T08:30:23.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Real Madrid keen on Man Utd forward Gabriel, 15",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
-        "publishedAt": "2026-09-17T07:52:32.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "A team that offered hope... then, four months later, Hamas attacked Israel",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cp3rl709p7xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Can the potential of a golden generation of Israel's footballers, in sport and society, be realised?",
-        "publishedAt": "2026-09-17T05:23:59.000Z",
+        "description": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.",
+        "publishedAt": "2026-09-17T16:47:18.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2439,13 +2417,35 @@
         "zone": "gb"
       },
       {
-        "title": "Six-time Grand Slam champion Salisbury retires",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c617j8qdk2v8o?at_medium=RSS&at_campaign=rss",
+        "title": "FA chair demands Infantino release World Cup sell-off documents",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury retires from professional tennis.",
-        "publishedAt": "2026-09-17T10:29:52.000Z",
+        "description": "Fifa president Gianni Infantino has been told to release all documents relating to his controversial plan to sell off a stake in the World Cup.",
+        "publishedAt": "2026-09-17T14:26:53.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Real Madrid keen on Man Utd forward Gabriel, 15",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
+        "publishedAt": "2026-09-17T07:52:32.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Hyrox athlete apologises for continuing race after soiling herself",
+        "url": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
+        "publishedAt": "2026-09-17T15:05:13.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2461,24 +2461,24 @@
         "zone": "gb"
       },
       {
-        "title": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
+        "title": "Klopp wants to 'reclaim' flag amid German elections",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
-        "publishedAt": "2026-09-16T23:31:38.000Z",
+        "description": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
+        "publishedAt": "2026-09-17T13:02:40.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Why dealing with defeat is key for Lampard at Coventry",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3eqpz5zlzzo?at_medium=RSS&at_campaign=rss",
+        "title": "Newcastle players see Jaissle's angry side - can they respond?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck980pprp5n1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Sport columnist Tony Pulis explains why Coventry boss Frank Lampard needs to manage himself as well as his players after their poor start to the season.",
-        "publishedAt": "2026-09-17T06:40:18.000Z",
+        "description": "Newcastle United head coach Matthias Jaissle was forthright in the away dressing room at Elland Road on Monday night following a chastening 4-1 defeat against Leeds United.",
+        "publishedAt": "2026-09-17T15:58:24.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,35 +2487,13 @@
   "sports_in": {
     "articles": [
       {
-        "title": "How an Aston Villa fringe player became Europe's most prolific scorer",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvj64wg0lgeyo?at_medium=RSS&at_campaign=rss",
+        "title": "The big questions for Tuchel's first England squad since World Cup",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "No player in Europe's top five leagues has scored more goals than Donyell Malen since his Roma debut in January - BBC Sport examines his transformation.",
-        "publishedAt": "2026-09-17T08:30:23.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Real Madrid keen on Man Utd forward Gabriel, 15",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
-        "publishedAt": "2026-09-17T07:52:32.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "A team that offered hope... then, four months later, Hamas attacked Israel",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cp3rl709p7xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Can the potential of a golden generation of Israel's footballers, in sport and society, be realised?",
-        "publishedAt": "2026-09-17T05:23:59.000Z",
+        "description": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.",
+        "publishedAt": "2026-09-17T16:47:18.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2531,13 +2509,35 @@
         "zone": "in"
       },
       {
-        "title": "Six-time Grand Slam champion Salisbury retires",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c617j8qdk2v8o?at_medium=RSS&at_campaign=rss",
+        "title": "FA chair demands Infantino release World Cup sell-off documents",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury retires from professional tennis.",
-        "publishedAt": "2026-09-17T10:29:52.000Z",
+        "description": "Fifa president Gianni Infantino has been told to release all documents relating to his controversial plan to sell off a stake in the World Cup.",
+        "publishedAt": "2026-09-17T14:26:53.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Real Madrid keen on Man Utd forward Gabriel, 15",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
+        "publishedAt": "2026-09-17T07:52:32.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Hyrox athlete apologises for continuing race after soiling herself",
+        "url": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
+        "publishedAt": "2026-09-17T15:05:13.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2553,24 +2553,24 @@
         "zone": "in"
       },
       {
-        "title": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
+        "title": "Klopp wants to 'reclaim' flag amid German elections",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
-        "publishedAt": "2026-09-16T23:31:38.000Z",
+        "description": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
+        "publishedAt": "2026-09-17T13:02:40.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Why dealing with defeat is key for Lampard at Coventry",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3eqpz5zlzzo?at_medium=RSS&at_campaign=rss",
+        "title": "Newcastle players see Jaissle's angry side - can they respond?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck980pprp5n1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Sport columnist Tony Pulis explains why Coventry boss Frank Lampard needs to manage himself as well as his players after their poor start to the season.",
-        "publishedAt": "2026-09-17T06:40:18.000Z",
+        "description": "Newcastle United head coach Matthias Jaissle was forthright in the away dressing room at Elland Road on Monday night following a chastening 4-1 defeat against Leeds United.",
+        "publishedAt": "2026-09-17T15:58:24.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,35 +2579,13 @@
   "sports_au": {
     "articles": [
       {
-        "title": "How an Aston Villa fringe player became Europe's most prolific scorer",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvj64wg0lgeyo?at_medium=RSS&at_campaign=rss",
+        "title": "The big questions for Tuchel's first England squad since World Cup",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "No player in Europe's top five leagues has scored more goals than Donyell Malen since his Roma debut in January - BBC Sport examines his transformation.",
-        "publishedAt": "2026-09-17T08:30:23.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Real Madrid keen on Man Utd forward Gabriel, 15",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
-        "publishedAt": "2026-09-17T07:52:32.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "A team that offered hope... then, four months later, Hamas attacked Israel",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cp3rl709p7xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Can the potential of a golden generation of Israel's footballers, in sport and society, be realised?",
-        "publishedAt": "2026-09-17T05:23:59.000Z",
+        "description": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.",
+        "publishedAt": "2026-09-17T16:47:18.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2623,13 +2601,35 @@
         "zone": "au"
       },
       {
-        "title": "Six-time Grand Slam champion Salisbury retires",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c617j8qdk2v8o?at_medium=RSS&at_campaign=rss",
+        "title": "FA chair demands Infantino release World Cup sell-off documents",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury retires from professional tennis.",
-        "publishedAt": "2026-09-17T10:29:52.000Z",
+        "description": "Fifa president Gianni Infantino has been told to release all documents relating to his controversial plan to sell off a stake in the World Cup.",
+        "publishedAt": "2026-09-17T14:26:53.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Real Madrid keen on Man Utd forward Gabriel, 15",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
+        "publishedAt": "2026-09-17T07:52:32.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Hyrox athlete apologises for continuing race after soiling herself",
+        "url": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
+        "publishedAt": "2026-09-17T15:05:13.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2645,24 +2645,24 @@
         "zone": "au"
       },
       {
-        "title": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
+        "title": "Klopp wants to 'reclaim' flag amid German elections",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
-        "publishedAt": "2026-09-16T23:31:38.000Z",
+        "description": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
+        "publishedAt": "2026-09-17T13:02:40.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Why dealing with defeat is key for Lampard at Coventry",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3eqpz5zlzzo?at_medium=RSS&at_campaign=rss",
+        "title": "Newcastle players see Jaissle's angry side - can they respond?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck980pprp5n1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Sport columnist Tony Pulis explains why Coventry boss Frank Lampard needs to manage himself as well as his players after their poor start to the season.",
-        "publishedAt": "2026-09-17T06:40:18.000Z",
+        "description": "Newcastle United head coach Matthias Jaissle was forthright in the away dressing room at Elland Road on Monday night following a chastening 4-1 defeat against Leeds United.",
+        "publishedAt": "2026-09-17T15:58:24.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,35 +2671,13 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "How an Aston Villa fringe player became Europe's most prolific scorer",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvj64wg0lgeyo?at_medium=RSS&at_campaign=rss",
+        "title": "The big questions for Tuchel's first England squad since World Cup",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "No player in Europe's top five leagues has scored more goals than Donyell Malen since his Roma debut in January - BBC Sport examines his transformation.",
-        "publishedAt": "2026-09-17T08:30:23.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Real Madrid keen on Man Utd forward Gabriel, 15",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
-        "publishedAt": "2026-09-17T07:52:32.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "A team that offered hope... then, four months later, Hamas attacked Israel",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cp3rl709p7xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Can the potential of a golden generation of Israel's footballers, in sport and society, be realised?",
-        "publishedAt": "2026-09-17T05:23:59.000Z",
+        "description": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.",
+        "publishedAt": "2026-09-17T16:47:18.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2715,13 +2693,35 @@
         "zone": "ca"
       },
       {
-        "title": "Six-time Grand Slam champion Salisbury retires",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c617j8qdk2v8o?at_medium=RSS&at_campaign=rss",
+        "title": "FA chair demands Infantino release World Cup sell-off documents",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury retires from professional tennis.",
-        "publishedAt": "2026-09-17T10:29:52.000Z",
+        "description": "Fifa president Gianni Infantino has been told to release all documents relating to his controversial plan to sell off a stake in the World Cup.",
+        "publishedAt": "2026-09-17T14:26:53.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Real Madrid keen on Man Utd forward Gabriel, 15",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
+        "publishedAt": "2026-09-17T07:52:32.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Hyrox athlete apologises for continuing race after soiling herself",
+        "url": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
+        "publishedAt": "2026-09-17T15:05:13.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2737,24 +2737,24 @@
         "zone": "ca"
       },
       {
-        "title": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
+        "title": "Klopp wants to 'reclaim' flag amid German elections",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
-        "publishedAt": "2026-09-16T23:31:38.000Z",
+        "description": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
+        "publishedAt": "2026-09-17T13:02:40.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Why dealing with defeat is key for Lampard at Coventry",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3eqpz5zlzzo?at_medium=RSS&at_campaign=rss",
+        "title": "Newcastle players see Jaissle's angry side - can they respond?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck980pprp5n1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Sport columnist Tony Pulis explains why Coventry boss Frank Lampard needs to manage himself as well as his players after their poor start to the season.",
-        "publishedAt": "2026-09-17T06:40:18.000Z",
+        "description": "Newcastle United head coach Matthias Jaissle was forthright in the away dressing room at Elland Road on Monday night following a chastening 4-1 defeat against Leeds United.",
+        "publishedAt": "2026-09-17T15:58:24.000Z",
         "category": "sports",
         "zone": "ca"
       }
@@ -2768,8 +2768,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Representatives from tech firms such as Nvidia and OpenAI were also part of the summit.",
-        "publishedAt": "2026-09-17T12:58:18.000Z",
+        "description": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.",
+        "publishedAt": "2026-09-17T14:33:12.000Z",
         "category": "technology",
         "zone": "us"
       },
@@ -2860,8 +2860,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Representatives from tech firms such as Nvidia and OpenAI were also part of the summit.",
-        "publishedAt": "2026-09-17T12:58:18.000Z",
+        "description": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.",
+        "publishedAt": "2026-09-17T14:33:12.000Z",
         "category": "technology",
         "zone": "gb"
       },
@@ -2952,8 +2952,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Representatives from tech firms such as Nvidia and OpenAI were also part of the summit.",
-        "publishedAt": "2026-09-17T12:58:18.000Z",
+        "description": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.",
+        "publishedAt": "2026-09-17T14:33:12.000Z",
         "category": "technology",
         "zone": "in"
       },
@@ -3044,8 +3044,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Representatives from tech firms such as Nvidia and OpenAI were also part of the summit.",
-        "publishedAt": "2026-09-17T12:58:18.000Z",
+        "description": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.",
+        "publishedAt": "2026-09-17T14:33:12.000Z",
         "category": "technology",
         "zone": "au"
       },
@@ -3136,8 +3136,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Representatives from tech firms such as Nvidia and OpenAI were also part of the summit.",
-        "publishedAt": "2026-09-17T12:58:18.000Z",
+        "description": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.",
+        "publishedAt": "2026-09-17T14:33:12.000Z",
         "category": "technology",
         "zone": "ca"
       },
