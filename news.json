@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T07:18:02.545Z",
+  "generatedAt": "2026-09-17T13:07:44.642Z",
   "general_us": {
     "articles": [
       {
@@ -9,29 +9,51 @@
           "name": "RSS Feed"
         },
         "description": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-        "publishedAt": "2026-09-17T06:15:35.000Z",
+        "publishedAt": "2026-09-17T12:31:07.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC",
+        "title": "Father's tribute to 'sweetest little boy' Noah Woods",
+        "url": "https://www.bbc.co.uk/news/articles/cmkg71ygwny7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" for community support.",
+        "publishedAt": "2026-09-17T12:52:56.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Family of 'Putney pusher' suspect say he was innocent and blame police for his death",
+        "url": "https://www.bbc.co.uk/news/articles/ckg59nq6y990o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The family of Nicholas Brandram said there was no forensic evidence linking him to the incident.",
+        "publishedAt": "2026-09-17T13:03:45.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, Microsoft boss tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-        "publishedAt": "2026-09-17T06:38:43.000Z",
+        "publishedAt": "2026-09-17T08:22:12.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
-        "url": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
+        "title": "'I can get more time': Breast cancer patient finds out she can get life extending drug",
+        "url": "https://www.bbc.co.uk/news/videos/c6wyz8qg0g58o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
-        "publishedAt": "2026-09-16T23:50:56.000Z",
+        "description": "Patients in England with an incurable breast cancer can now access a life-extending drug on the NHS.",
+        "publishedAt": "2026-09-17T12:13:26.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -47,46 +69,24 @@
         "zone": "us"
       },
       {
-        "title": "Bank of England expected to hold interest rates as it faces tough choices",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
-        "publishedAt": "2026-09-17T06:06:49.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Lena Dunham announces birth of first baby via surrogacy",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2zlxxzpg4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The writer and actress announced the birth of her daughter in an op-ed published by Vogue on Wednesday.",
-        "publishedAt": "2026-09-17T00:55:10.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
         "title": "Ed Sheeran asked me to donate $2m in aid, Robert Kraft says after Macklemore backlash",
         "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
-        "publishedAt": "2026-09-17T07:06:49.000Z",
+        "publishedAt": "2026-09-17T10:19:04.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "At least seven months of relentless rain needed to end drought, research shows",
-        "url": "https://www.bbc.co.uk/weather/articles/cqvgy1lejp7ro?at_medium=RSS&at_campaign=rss",
+        "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
+        "url": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Almost 75% of England remains in drought following an exceptionally dry spring and summer.",
-        "publishedAt": "2026-09-17T00:01:29.000Z",
+        "description": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
+        "publishedAt": "2026-09-17T11:05:29.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -101,29 +101,51 @@
           "name": "RSS Feed"
         },
         "description": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-        "publishedAt": "2026-09-17T06:15:35.000Z",
+        "publishedAt": "2026-09-17T12:31:07.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC",
+        "title": "Father's tribute to 'sweetest little boy' Noah Woods",
+        "url": "https://www.bbc.co.uk/news/articles/cmkg71ygwny7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" for community support.",
+        "publishedAt": "2026-09-17T12:52:56.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Family of 'Putney pusher' suspect say he was innocent and blame police for his death",
+        "url": "https://www.bbc.co.uk/news/articles/ckg59nq6y990o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The family of Nicholas Brandram said there was no forensic evidence linking him to the incident.",
+        "publishedAt": "2026-09-17T13:03:45.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, Microsoft boss tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-        "publishedAt": "2026-09-17T06:38:43.000Z",
+        "publishedAt": "2026-09-17T08:22:12.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
-        "url": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
+        "title": "'I can get more time': Breast cancer patient finds out she can get life extending drug",
+        "url": "https://www.bbc.co.uk/news/videos/c6wyz8qg0g58o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
-        "publishedAt": "2026-09-16T23:50:56.000Z",
+        "description": "Patients in England with an incurable breast cancer can now access a life-extending drug on the NHS.",
+        "publishedAt": "2026-09-17T12:13:26.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -139,46 +161,24 @@
         "zone": "gb"
       },
       {
-        "title": "Bank of England expected to hold interest rates as it faces tough choices",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
-        "publishedAt": "2026-09-17T06:06:49.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Lena Dunham announces birth of first baby via surrogacy",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2zlxxzpg4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The writer and actress announced the birth of her daughter in an op-ed published by Vogue on Wednesday.",
-        "publishedAt": "2026-09-17T00:55:10.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
         "title": "Ed Sheeran asked me to donate $2m in aid, Robert Kraft says after Macklemore backlash",
         "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
-        "publishedAt": "2026-09-17T07:06:49.000Z",
+        "publishedAt": "2026-09-17T10:19:04.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "At least seven months of relentless rain needed to end drought, research shows",
-        "url": "https://www.bbc.co.uk/weather/articles/cqvgy1lejp7ro?at_medium=RSS&at_campaign=rss",
+        "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
+        "url": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Almost 75% of England remains in drought following an exceptionally dry spring and summer.",
-        "publishedAt": "2026-09-17T00:01:29.000Z",
+        "description": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
+        "publishedAt": "2026-09-17T11:05:29.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -193,29 +193,51 @@
           "name": "RSS Feed"
         },
         "description": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-        "publishedAt": "2026-09-17T06:15:35.000Z",
+        "publishedAt": "2026-09-17T12:31:07.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC",
+        "title": "Father's tribute to 'sweetest little boy' Noah Woods",
+        "url": "https://www.bbc.co.uk/news/articles/cmkg71ygwny7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" for community support.",
+        "publishedAt": "2026-09-17T12:52:56.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Family of 'Putney pusher' suspect say he was innocent and blame police for his death",
+        "url": "https://www.bbc.co.uk/news/articles/ckg59nq6y990o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The family of Nicholas Brandram said there was no forensic evidence linking him to the incident.",
+        "publishedAt": "2026-09-17T13:03:45.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, Microsoft boss tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-        "publishedAt": "2026-09-17T06:38:43.000Z",
+        "publishedAt": "2026-09-17T08:22:12.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
-        "url": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
+        "title": "'I can get more time': Breast cancer patient finds out she can get life extending drug",
+        "url": "https://www.bbc.co.uk/news/videos/c6wyz8qg0g58o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
-        "publishedAt": "2026-09-16T23:50:56.000Z",
+        "description": "Patients in England with an incurable breast cancer can now access a life-extending drug on the NHS.",
+        "publishedAt": "2026-09-17T12:13:26.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -231,46 +253,24 @@
         "zone": "in"
       },
       {
-        "title": "Bank of England expected to hold interest rates as it faces tough choices",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
-        "publishedAt": "2026-09-17T06:06:49.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Lena Dunham announces birth of first baby via surrogacy",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2zlxxzpg4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The writer and actress announced the birth of her daughter in an op-ed published by Vogue on Wednesday.",
-        "publishedAt": "2026-09-17T00:55:10.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
         "title": "Ed Sheeran asked me to donate $2m in aid, Robert Kraft says after Macklemore backlash",
         "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
-        "publishedAt": "2026-09-17T07:06:49.000Z",
+        "publishedAt": "2026-09-17T10:19:04.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "At least seven months of relentless rain needed to end drought, research shows",
-        "url": "https://www.bbc.co.uk/weather/articles/cqvgy1lejp7ro?at_medium=RSS&at_campaign=rss",
+        "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
+        "url": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Almost 75% of England remains in drought following an exceptionally dry spring and summer.",
-        "publishedAt": "2026-09-17T00:01:29.000Z",
+        "description": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
+        "publishedAt": "2026-09-17T11:05:29.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -285,29 +285,51 @@
           "name": "RSS Feed"
         },
         "description": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-        "publishedAt": "2026-09-17T06:15:35.000Z",
+        "publishedAt": "2026-09-17T12:31:07.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC",
+        "title": "Father's tribute to 'sweetest little boy' Noah Woods",
+        "url": "https://www.bbc.co.uk/news/articles/cmkg71ygwny7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" for community support.",
+        "publishedAt": "2026-09-17T12:52:56.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Family of 'Putney pusher' suspect say he was innocent and blame police for his death",
+        "url": "https://www.bbc.co.uk/news/articles/ckg59nq6y990o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The family of Nicholas Brandram said there was no forensic evidence linking him to the incident.",
+        "publishedAt": "2026-09-17T13:03:45.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, Microsoft boss tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-        "publishedAt": "2026-09-17T06:38:43.000Z",
+        "publishedAt": "2026-09-17T08:22:12.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
-        "url": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
+        "title": "'I can get more time': Breast cancer patient finds out she can get life extending drug",
+        "url": "https://www.bbc.co.uk/news/videos/c6wyz8qg0g58o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
-        "publishedAt": "2026-09-16T23:50:56.000Z",
+        "description": "Patients in England with an incurable breast cancer can now access a life-extending drug on the NHS.",
+        "publishedAt": "2026-09-17T12:13:26.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -323,46 +345,24 @@
         "zone": "au"
       },
       {
-        "title": "Bank of England expected to hold interest rates as it faces tough choices",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
-        "publishedAt": "2026-09-17T06:06:49.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Lena Dunham announces birth of first baby via surrogacy",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2zlxxzpg4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The writer and actress announced the birth of her daughter in an op-ed published by Vogue on Wednesday.",
-        "publishedAt": "2026-09-17T00:55:10.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
         "title": "Ed Sheeran asked me to donate $2m in aid, Robert Kraft says after Macklemore backlash",
         "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
-        "publishedAt": "2026-09-17T07:06:49.000Z",
+        "publishedAt": "2026-09-17T10:19:04.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "At least seven months of relentless rain needed to end drought, research shows",
-        "url": "https://www.bbc.co.uk/weather/articles/cqvgy1lejp7ro?at_medium=RSS&at_campaign=rss",
+        "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
+        "url": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Almost 75% of England remains in drought following an exceptionally dry spring and summer.",
-        "publishedAt": "2026-09-17T00:01:29.000Z",
+        "description": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
+        "publishedAt": "2026-09-17T11:05:29.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -377,29 +377,51 @@
           "name": "RSS Feed"
         },
         "description": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-        "publishedAt": "2026-09-17T06:15:35.000Z",
+        "publishedAt": "2026-09-17T12:31:07.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC",
+        "title": "Father's tribute to 'sweetest little boy' Noah Woods",
+        "url": "https://www.bbc.co.uk/news/articles/cmkg71ygwny7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" for community support.",
+        "publishedAt": "2026-09-17T12:52:56.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Family of 'Putney pusher' suspect say he was innocent and blame police for his death",
+        "url": "https://www.bbc.co.uk/news/articles/ckg59nq6y990o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The family of Nicholas Brandram said there was no forensic evidence linking him to the incident.",
+        "publishedAt": "2026-09-17T13:03:45.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, Microsoft boss tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-        "publishedAt": "2026-09-17T06:38:43.000Z",
+        "publishedAt": "2026-09-17T08:22:12.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
-        "url": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
+        "title": "'I can get more time': Breast cancer patient finds out she can get life extending drug",
+        "url": "https://www.bbc.co.uk/news/videos/c6wyz8qg0g58o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
-        "publishedAt": "2026-09-16T23:50:56.000Z",
+        "description": "Patients in England with an incurable breast cancer can now access a life-extending drug on the NHS.",
+        "publishedAt": "2026-09-17T12:13:26.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -415,46 +437,24 @@
         "zone": "ca"
       },
       {
-        "title": "Bank of England expected to hold interest rates as it faces tough choices",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
-        "publishedAt": "2026-09-17T06:06:49.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Lena Dunham announces birth of first baby via surrogacy",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2zlxxzpg4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The writer and actress announced the birth of her daughter in an op-ed published by Vogue on Wednesday.",
-        "publishedAt": "2026-09-17T00:55:10.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
         "title": "Ed Sheeran asked me to donate $2m in aid, Robert Kraft says after Macklemore backlash",
         "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
-        "publishedAt": "2026-09-17T07:06:49.000Z",
+        "publishedAt": "2026-09-17T10:19:04.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "At least seven months of relentless rain needed to end drought, research shows",
-        "url": "https://www.bbc.co.uk/weather/articles/cqvgy1lejp7ro?at_medium=RSS&at_campaign=rss",
+        "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
+        "url": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Almost 75% of England remains in drought following an exceptionally dry spring and summer.",
-        "publishedAt": "2026-09-17T00:01:29.000Z",
+        "description": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
+        "publishedAt": "2026-09-17T11:05:29.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -463,57 +463,35 @@
   "business_us": {
     "articles": [
       {
-        "title": "Interest rates hold expected but Bank of England facing tough choices",
+        "title": "Interest rates held but Bank signals rise if energy prices stay high",
         "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
-        "publishedAt": "2026-09-17T06:06:49.000Z",
+        "description": "Rates are held for the sixth time in a row but the Bank says they are likely to rise if high energy prices continue.",
+        "publishedAt": "2026-09-17T12:39:08.000Z",
         "category": "business",
         "zone": "us"
       },
       {
-        "title": "Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+        "title": "Barclays staff push back at plans to reduce work-from-home days",
+        "url": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-        "publishedAt": "2026-09-17T06:38:43.000Z",
+        "description": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
+        "publishedAt": "2026-09-17T12:17:48.000Z",
         "category": "business",
         "zone": "us"
       },
       {
-        "title": "US interest rates raised for first time in three years",
-        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-        "publishedAt": "2026-09-17T00:40:17.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-        "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
-        "publishedAt": "2026-09-17T03:09:21.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "I sent 200 DMs to companies - it was awkward but I got a job",
+        "title": "I sent 200 LinkedIn messages and got a job: How to nail networking",
         "url": "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "From coffee chats to LinkedIn messages, here's how to network your way to your next job.",
-        "publishedAt": "2026-09-16T23:15:53.000Z",
+        "publishedAt": "2026-09-17T10:37:43.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -529,13 +507,35 @@
         "zone": "us"
       },
       {
-        "title": "EU chief backs plan for Canada to become 'associate member'",
-        "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+        "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
-        "publishedAt": "2026-09-17T00:32:05.000Z",
+        "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+        "publishedAt": "2026-09-17T08:22:12.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
+        "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
+        "publishedAt": "2026-09-17T03:09:21.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "US interest rates raised for first time in three years",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+        "publishedAt": "2026-09-17T00:40:17.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -555,57 +555,35 @@
   "business_gb": {
     "articles": [
       {
-        "title": "Interest rates hold expected but Bank of England facing tough choices",
+        "title": "Interest rates held but Bank signals rise if energy prices stay high",
         "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
-        "publishedAt": "2026-09-17T06:06:49.000Z",
+        "description": "Rates are held for the sixth time in a row but the Bank says they are likely to rise if high energy prices continue.",
+        "publishedAt": "2026-09-17T12:39:08.000Z",
         "category": "business",
         "zone": "gb"
       },
       {
-        "title": "Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+        "title": "Barclays staff push back at plans to reduce work-from-home days",
+        "url": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-        "publishedAt": "2026-09-17T06:38:43.000Z",
+        "description": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
+        "publishedAt": "2026-09-17T12:17:48.000Z",
         "category": "business",
         "zone": "gb"
       },
       {
-        "title": "US interest rates raised for first time in three years",
-        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-        "publishedAt": "2026-09-17T00:40:17.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-        "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
-        "publishedAt": "2026-09-17T03:09:21.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "I sent 200 DMs to companies - it was awkward but I got a job",
+        "title": "I sent 200 LinkedIn messages and got a job: How to nail networking",
         "url": "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "From coffee chats to LinkedIn messages, here's how to network your way to your next job.",
-        "publishedAt": "2026-09-16T23:15:53.000Z",
+        "publishedAt": "2026-09-17T10:37:43.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -621,13 +599,35 @@
         "zone": "gb"
       },
       {
-        "title": "EU chief backs plan for Canada to become 'associate member'",
-        "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+        "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
-        "publishedAt": "2026-09-17T00:32:05.000Z",
+        "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+        "publishedAt": "2026-09-17T08:22:12.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
+        "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
+        "publishedAt": "2026-09-17T03:09:21.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "US interest rates raised for first time in three years",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+        "publishedAt": "2026-09-17T00:40:17.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -647,57 +647,35 @@
   "business_in": {
     "articles": [
       {
-        "title": "Interest rates hold expected but Bank of England facing tough choices",
+        "title": "Interest rates held but Bank signals rise if energy prices stay high",
         "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
-        "publishedAt": "2026-09-17T06:06:49.000Z",
+        "description": "Rates are held for the sixth time in a row but the Bank says they are likely to rise if high energy prices continue.",
+        "publishedAt": "2026-09-17T12:39:08.000Z",
         "category": "business",
         "zone": "in"
       },
       {
-        "title": "Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+        "title": "Barclays staff push back at plans to reduce work-from-home days",
+        "url": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-        "publishedAt": "2026-09-17T06:38:43.000Z",
+        "description": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
+        "publishedAt": "2026-09-17T12:17:48.000Z",
         "category": "business",
         "zone": "in"
       },
       {
-        "title": "US interest rates raised for first time in three years",
-        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-        "publishedAt": "2026-09-17T00:40:17.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-        "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
-        "publishedAt": "2026-09-17T03:09:21.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "I sent 200 DMs to companies - it was awkward but I got a job",
+        "title": "I sent 200 LinkedIn messages and got a job: How to nail networking",
         "url": "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "From coffee chats to LinkedIn messages, here's how to network your way to your next job.",
-        "publishedAt": "2026-09-16T23:15:53.000Z",
+        "publishedAt": "2026-09-17T10:37:43.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -713,13 +691,35 @@
         "zone": "in"
       },
       {
-        "title": "EU chief backs plan for Canada to become 'associate member'",
-        "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+        "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
-        "publishedAt": "2026-09-17T00:32:05.000Z",
+        "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+        "publishedAt": "2026-09-17T08:22:12.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
+        "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
+        "publishedAt": "2026-09-17T03:09:21.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "US interest rates raised for first time in three years",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+        "publishedAt": "2026-09-17T00:40:17.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -739,57 +739,35 @@
   "business_au": {
     "articles": [
       {
-        "title": "Interest rates hold expected but Bank of England facing tough choices",
+        "title": "Interest rates held but Bank signals rise if energy prices stay high",
         "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
-        "publishedAt": "2026-09-17T06:06:49.000Z",
+        "description": "Rates are held for the sixth time in a row but the Bank says they are likely to rise if high energy prices continue.",
+        "publishedAt": "2026-09-17T12:39:08.000Z",
         "category": "business",
         "zone": "au"
       },
       {
-        "title": "Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+        "title": "Barclays staff push back at plans to reduce work-from-home days",
+        "url": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-        "publishedAt": "2026-09-17T06:38:43.000Z",
+        "description": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
+        "publishedAt": "2026-09-17T12:17:48.000Z",
         "category": "business",
         "zone": "au"
       },
       {
-        "title": "US interest rates raised for first time in three years",
-        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-        "publishedAt": "2026-09-17T00:40:17.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-        "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
-        "publishedAt": "2026-09-17T03:09:21.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "I sent 200 DMs to companies - it was awkward but I got a job",
+        "title": "I sent 200 LinkedIn messages and got a job: How to nail networking",
         "url": "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "From coffee chats to LinkedIn messages, here's how to network your way to your next job.",
-        "publishedAt": "2026-09-16T23:15:53.000Z",
+        "publishedAt": "2026-09-17T10:37:43.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -805,13 +783,35 @@
         "zone": "au"
       },
       {
-        "title": "EU chief backs plan for Canada to become 'associate member'",
-        "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+        "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
-        "publishedAt": "2026-09-17T00:32:05.000Z",
+        "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+        "publishedAt": "2026-09-17T08:22:12.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
+        "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
+        "publishedAt": "2026-09-17T03:09:21.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "US interest rates raised for first time in three years",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+        "publishedAt": "2026-09-17T00:40:17.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -831,57 +831,35 @@
   "business_ca": {
     "articles": [
       {
-        "title": "Interest rates hold expected but Bank of England facing tough choices",
+        "title": "Interest rates held but Bank signals rise if energy prices stay high",
         "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
-        "publishedAt": "2026-09-17T06:06:49.000Z",
+        "description": "Rates are held for the sixth time in a row but the Bank says they are likely to rise if high energy prices continue.",
+        "publishedAt": "2026-09-17T12:39:08.000Z",
         "category": "business",
         "zone": "ca"
       },
       {
-        "title": "Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+        "title": "Barclays staff push back at plans to reduce work-from-home days",
+        "url": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-        "publishedAt": "2026-09-17T06:38:43.000Z",
+        "description": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
+        "publishedAt": "2026-09-17T12:17:48.000Z",
         "category": "business",
         "zone": "ca"
       },
       {
-        "title": "US interest rates raised for first time in three years",
-        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-        "publishedAt": "2026-09-17T00:40:17.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-        "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
-        "publishedAt": "2026-09-17T03:09:21.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "I sent 200 DMs to companies - it was awkward but I got a job",
+        "title": "I sent 200 LinkedIn messages and got a job: How to nail networking",
         "url": "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "From coffee chats to LinkedIn messages, here's how to network your way to your next job.",
-        "publishedAt": "2026-09-16T23:15:53.000Z",
+        "publishedAt": "2026-09-17T10:37:43.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -897,13 +875,35 @@
         "zone": "ca"
       },
       {
-        "title": "EU chief backs plan for Canada to become 'associate member'",
-        "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+        "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
-        "publishedAt": "2026-09-17T00:32:05.000Z",
+        "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+        "publishedAt": "2026-09-17T08:22:12.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
+        "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
+        "publishedAt": "2026-09-17T03:09:21.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "US interest rates raised for first time in three years",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+        "publishedAt": "2026-09-17T00:40:17.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -923,13 +923,13 @@
   "entertainment_us": {
     "articles": [
       {
-        "title": "Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
+        "title": "Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
         "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
-        "publishedAt": "2026-09-17T07:06:49.000Z",
+        "publishedAt": "2026-09-17T10:19:04.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -940,7 +940,18 @@
           "name": "RSS Feed"
         },
         "description": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-        "publishedAt": "2026-09-17T06:15:35.000Z",
+        "publishedAt": "2026-09-17T12:31:07.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "RTÉ to boycott Eurovision for second year in a row",
+        "url": "https://www.bbc.co.uk/news/articles/cqde04len22wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In a statement, RTÉ said it feels Ireland's participation \"cannot be justified given the appalling and ongoing loss of lives in Gaza\".",
+        "publishedAt": "2026-09-17T11:56:21.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -996,17 +1007,6 @@
         },
         "description": "John Humphrys, who presented Today and the Nine O'Clock News, heads a new Channel 4 documentary on the topic.",
         "publishedAt": "2026-09-16T17:57:15.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "'Luck and timing': Matthew Rhys on his historic Emmy Awards double win",
-        "url": "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Speaking to the BBC, the Welsh actor described the \"surreal\" experience of becoming the first person to win two lead acting prizes in one night.",
-        "publishedAt": "2026-09-15T22:04:38.000Z",
         "category": "entertainment",
         "zone": "us"
       }
@@ -1015,13 +1015,13 @@
   "entertainment_gb": {
     "articles": [
       {
-        "title": "Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
+        "title": "Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
         "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
-        "publishedAt": "2026-09-17T07:06:49.000Z",
+        "publishedAt": "2026-09-17T10:19:04.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1032,7 +1032,18 @@
           "name": "RSS Feed"
         },
         "description": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-        "publishedAt": "2026-09-17T06:15:35.000Z",
+        "publishedAt": "2026-09-17T12:31:07.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "RTÉ to boycott Eurovision for second year in a row",
+        "url": "https://www.bbc.co.uk/news/articles/cqde04len22wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In a statement, RTÉ said it feels Ireland's participation \"cannot be justified given the appalling and ongoing loss of lives in Gaza\".",
+        "publishedAt": "2026-09-17T11:56:21.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1088,17 +1099,6 @@
         },
         "description": "John Humphrys, who presented Today and the Nine O'Clock News, heads a new Channel 4 documentary on the topic.",
         "publishedAt": "2026-09-16T17:57:15.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "'Luck and timing': Matthew Rhys on his historic Emmy Awards double win",
-        "url": "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Speaking to the BBC, the Welsh actor described the \"surreal\" experience of becoming the first person to win two lead acting prizes in one night.",
-        "publishedAt": "2026-09-15T22:04:38.000Z",
         "category": "entertainment",
         "zone": "gb"
       }
@@ -1107,13 +1107,13 @@
   "entertainment_in": {
     "articles": [
       {
-        "title": "Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
+        "title": "Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
         "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
-        "publishedAt": "2026-09-17T07:06:49.000Z",
+        "publishedAt": "2026-09-17T10:19:04.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1124,7 +1124,18 @@
           "name": "RSS Feed"
         },
         "description": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-        "publishedAt": "2026-09-17T06:15:35.000Z",
+        "publishedAt": "2026-09-17T12:31:07.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "RTÉ to boycott Eurovision for second year in a row",
+        "url": "https://www.bbc.co.uk/news/articles/cqde04len22wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In a statement, RTÉ said it feels Ireland's participation \"cannot be justified given the appalling and ongoing loss of lives in Gaza\".",
+        "publishedAt": "2026-09-17T11:56:21.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1180,17 +1191,6 @@
         },
         "description": "John Humphrys, who presented Today and the Nine O'Clock News, heads a new Channel 4 documentary on the topic.",
         "publishedAt": "2026-09-16T17:57:15.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "'Luck and timing': Matthew Rhys on his historic Emmy Awards double win",
-        "url": "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Speaking to the BBC, the Welsh actor described the \"surreal\" experience of becoming the first person to win two lead acting prizes in one night.",
-        "publishedAt": "2026-09-15T22:04:38.000Z",
         "category": "entertainment",
         "zone": "in"
       }
@@ -1199,13 +1199,13 @@
   "entertainment_au": {
     "articles": [
       {
-        "title": "Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
+        "title": "Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
         "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
-        "publishedAt": "2026-09-17T07:06:49.000Z",
+        "publishedAt": "2026-09-17T10:19:04.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1216,7 +1216,18 @@
           "name": "RSS Feed"
         },
         "description": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-        "publishedAt": "2026-09-17T06:15:35.000Z",
+        "publishedAt": "2026-09-17T12:31:07.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "RTÉ to boycott Eurovision for second year in a row",
+        "url": "https://www.bbc.co.uk/news/articles/cqde04len22wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In a statement, RTÉ said it feels Ireland's participation \"cannot be justified given the appalling and ongoing loss of lives in Gaza\".",
+        "publishedAt": "2026-09-17T11:56:21.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1272,17 +1283,6 @@
         },
         "description": "John Humphrys, who presented Today and the Nine O'Clock News, heads a new Channel 4 documentary on the topic.",
         "publishedAt": "2026-09-16T17:57:15.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "'Luck and timing': Matthew Rhys on his historic Emmy Awards double win",
-        "url": "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Speaking to the BBC, the Welsh actor described the \"surreal\" experience of becoming the first person to win two lead acting prizes in one night.",
-        "publishedAt": "2026-09-15T22:04:38.000Z",
         "category": "entertainment",
         "zone": "au"
       }
@@ -1291,13 +1291,13 @@
   "entertainment_ca": {
     "articles": [
       {
-        "title": "Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
+        "title": "Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
         "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
-        "publishedAt": "2026-09-17T07:06:49.000Z",
+        "publishedAt": "2026-09-17T10:19:04.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1308,7 +1308,18 @@
           "name": "RSS Feed"
         },
         "description": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-        "publishedAt": "2026-09-17T06:15:35.000Z",
+        "publishedAt": "2026-09-17T12:31:07.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "RTÉ to boycott Eurovision for second year in a row",
+        "url": "https://www.bbc.co.uk/news/articles/cqde04len22wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In a statement, RTÉ said it feels Ireland's participation \"cannot be justified given the appalling and ongoing loss of lives in Gaza\".",
+        "publishedAt": "2026-09-17T11:56:21.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1364,17 +1375,6 @@
         },
         "description": "John Humphrys, who presented Today and the Nine O'Clock News, heads a new Channel 4 documentary on the topic.",
         "publishedAt": "2026-09-16T17:57:15.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "'Luck and timing': Matthew Rhys on his historic Emmy Awards double win",
-        "url": "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Speaking to the BBC, the Welsh actor described the \"surreal\" experience of becoming the first person to win two lead acting prizes in one night.",
-        "publishedAt": "2026-09-15T22:04:38.000Z",
         "category": "entertainment",
         "zone": "ca"
       }
@@ -1843,13 +1843,57 @@
   "science_us": {
     "articles": [
       {
-        "title": "UK mathematician debunks myth around Parthenon’s optical illusions",
-        "url": "https://www.theguardian.com/science/2026/sep/16/uk-mathematician-debunks-myth-parthenon-optical-illusions",
+        "title": "‘Very messy eaters’: scientists solve the mystery of when black holes ‘burp’",
+        "url": "https://www.theguardian.com/science/2026/sep/17/black-hole-burps-scientists-solve-mystery-astronomy",
         "source": {
-          "name": "Ian Sample Science editor"
+          "name": "Donna Lu"
         },
-        "description": "Study challenges belief that temple’s curves were designed to correct optical illusions that would have ruined its clean lines A mathematician has uncovered what may be one of the longest-running myths in history after studying optical illusions and the Parthenon, the famed Greek temple that overlooks Athens. Scholars have marvelled at the building on the Acropolis hill for more than 2,000 years and heaped praise on its architects for their clever use of geometry. Its subtle curves are said to correct optical illusions that would have otherwise ruined the Parthenon’s clean lines. Continue reading...",
-        "publishedAt": "2026-09-16T04:01:09.000Z",
+        "description": "The astronomical bodies fire off powerful jets in two distinct phases in their feeding cycle, researchers discover Scientists have solved the mystery of when black holes “burp” – when the astronomical bodies launch jets after feeding on stars, blasting material enormous distances in space. Black holes are objects so densely compact that beyond a certain point their gravity is too strong for light and matter to escape. This boundary of no return is known as the event horizon – the point at which escaping would require something to travel faster than the speed of light. Continue reading...",
+        "publishedAt": "2026-09-17T09:00:44.000Z",
+        "category": "science",
+        "zone": "us"
+      },
+      {
+        "title": "Climate crisis probably weakened glacier that caused devastating Nepal-Tibet floods, first study finds",
+        "url": "https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods",
+        "source": {
+          "name": "Damien Gayle"
+        },
+        "description": "Scientists say global heating was a destabilising factor in collapse of 200,000 sq metre glacier in August Climate breakdown probably weakened the glacier that collapsed causing catastrophic floods and killing over a thousand people in Nepal and Tibet last month, the first scientific study of the disaster has found. Researchers identified unusually warm conditions before the glacier’s collapse, which sent an avalanche of 110m cubic metres (3.885bn cu ft) of snow and ice into the valley below. This triggered flash floods on an almost unprecedented scale, hitting communities downstream without warning. Continue reading...",
+        "publishedAt": "2026-09-16T23:01:32.000Z",
+        "category": "science",
+        "zone": "us"
+      },
+      {
+        "title": "The week that changed maths for ever – podcast",
+        "url": "https://www.theguardian.com/science/audio/2026/sep/17/the-week-that-changed-maths-for-ever-podcast",
+        "source": {
+          "name": "Presented by Ian Sample; produced by Ellie Sans; sound design by Joel Cox; executive producer Ellie Bury"
+        },
+        "description": "In early September, OpenAI announced it had solved a major mathematics problem that has stumped humans for nearly a century. The news left mathematicians reeling, and many expressed concern over what will be left for humans as AI becomes ever more adept at unravelling complex problems. Now 25 recipients of the Fields medal – often called the Nobel prize for maths – have signed an open letter expressing their fears of a ‘severe misalignment’ between AI companies and their field. To find out how AI is likely to upend maths – and how mathematicians might respond – Ian Sample speaks to Colva Roney-Dougal, professor of pure mathematics at the University of St Andrews ‘Immature playground boasting’: mathematicians uneasy at OpenAI’s latest scalp Support the Guardian: theguardian.com/sciencepod Continue reading...",
+        "publishedAt": "2026-09-17T04:00:40.000Z",
+        "category": "science",
+        "zone": "us"
+      },
+      {
+        "title": "Top Trump military adviser says US must prepare to fight around moon",
+        "url": "https://www.theguardian.com/science/2026/sep/16/us-space-moon-military-combagt",
+        "source": {
+          "name": "Associated Press"
+        },
+        "description": "Gen Dan Caine comments at Washington summit come after US revealed it has deployed weapons in space American troops need to prepare for combat not only in Earth’s orbit but around the moon, Donald Trump’s top military adviser said on Wednesday, looking ahead to a new frontier in warfare after the US revealed for the first time that it has deployed weapons in space. Gen Dan Caine, chairman of the joint chiefs of staff, told service members and industry figures at the Air, Space and Cyber Conference outside Washington that the US military should adapt now so it “is prepared to fight, endure and win ... from the seabed to cislunar space”. Continue reading...",
+        "publishedAt": "2026-09-16T21:19:04.000Z",
+        "category": "science",
+        "zone": "us"
+      },
+      {
+        "title": "Women with same health conditions as men ‘less likely to be offered active treatment’",
+        "url": "https://www.theguardian.com/science/2026/sep/16/women-with-same-health-conditions-as-men-less-likely-to-be-offered-active-treatment",
+        "source": {
+          "name": "Anna Bawden Health and social affairs correspondent"
+        },
+        "description": "Men with heart, kidney or liver conditions more likely to be offered intervention compared with women, global analysis finds Women with the same medical condition as men are less likely to be offered treatment such as surgery, a stent or a strong painkiller, research has found. A review of global research found that for several health problems, including cardiovascular conditions, kidney disease and Parkinson’s, women were less likely to receive the same treatment as men, revealing the extent to which women have significantly unequal care. Continue reading...",
+        "publishedAt": "2026-09-16T18:06:29.000Z",
         "category": "science",
         "zone": "us"
       },
@@ -1865,68 +1909,24 @@
         "zone": "us"
       },
       {
-        "title": "Plantwatch: The insect-eating alpine plant that proves Darwin was right",
-        "url": "https://www.theguardian.com/science/2026/sep/16/plantwatch-the-insect-eating-alpine-plant-that-proves-darwin-was-right",
+        "title": "UK mathematician debunks myth around Parthenon’s optical illusions",
+        "url": "https://www.theguardian.com/science/2026/sep/16/uk-mathematician-debunks-myth-parthenon-optical-illusions",
         "source": {
-          "name": "Paul Simons"
+          "name": "Ian Sample Science editor"
         },
-        "description": "Study shows Saxifraga candelabrum traps and digests midges – just as the evolutionary biologist predicted back in 1875 In 1875, Charles Darwin predicted that Saxifraga candelabrum, a small alpine plant, could eat insects. Its leaves, petals and stems are smothered in tiny, sticky hairs and – just as the evolutionary biologist suspected – the sweet glue on the hairs can lure and trap midges before digesting them with an enzyme. Continue reading...",
-        "publishedAt": "2026-09-16T05:00:10.000Z",
+        "description": "Study challenges belief that temple’s curves were designed to correct optical illusions that would have ruined its clean lines A mathematician has uncovered what may be one of the longest-running myths in history after studying optical illusions and the Parthenon, the famed Greek temple that overlooks Athens. Scholars have marvelled at the building on the Acropolis hill for more than 2,000 years and heaped praise on its architects for their clever use of geometry. Its subtle curves are said to correct optical illusions that would have otherwise ruined the Parthenon’s clean lines. Continue reading...",
+        "publishedAt": "2026-09-16T04:01:09.000Z",
         "category": "science",
         "zone": "us"
       },
       {
-        "title": "US confirms for first time it has deployed weapons in space",
-        "url": "https://www.theguardian.com/science/2026/sep/15/us-confirms-first-time-it-has-deployed-weapons-space",
+        "title": "Microplastics in soil pose global threat by acting like ‘Trojan horse’ to deliver toxins",
+        "url": "https://www.theguardian.com/environment/2026/sep/16/soil-microplastics-trojan-horse-toxins",
         "source": {
-          "name": "Oliver Holmes"
+          "name": "Pippa Neill Environment reporter"
         },
-        "description": "Analysts warn of an acceleration in high-risk arms race with Russia and China in Earth’s orbit The US has deployed weapons in space, the US military has confirmed, in an extraordinary public announcement that analysts warn will accelerate a high-risk arms race with Russia and China in Earth’s orbit. The US secretary of the air force, Troy Meink, said Washington had active “on-orbit” weapons, meaning they had been deployed and were circling the globe. Continue reading...",
-        "publishedAt": "2026-09-15T12:55:31.000Z",
-        "category": "science",
-        "zone": "us"
-      },
-      {
-        "title": "No, collagen won’t make your wrinkles disappear - video",
-        "url": "https://www.theguardian.com/science/video/2026/sep/15/is-collagen-a-lie-video",
-        "source": {
-          "name": "Presented by Madeleine Finlay , produced by Madeleine Finlay, Ellie Sans and Jacob Liebenberg , the executive producer was Ellie Bury"
-        },
-        "description": "Collagen powders, gummies and pills have boomed in popularity in recent years boosted by claims that they smooth wrinkles, promote glossy hair and help with joint pain. Amid the noise it can be hard to figure out whether there’s any actual science behind the promise of looking younger for longer. Luckily Dr Xand van Tulleken has spent the past three years writing Make me well: a quest to understand the confusing world of wellness, and his chapter on collagen dives deep into the evidence. He tells Madeleine Finlay what collagen does in the body, how we can get it without splashing out on expensive supplements, and why getting to the truth behind wellness claims can be so hard Continue reading...",
-        "publishedAt": "2026-09-15T11:32:49.000Z",
-        "category": "science",
-        "zone": "us"
-      },
-      {
-        "title": "They’re the sopranos of the forest, so what’s silencing the gibbons’ morning chorus?",
-        "url": "https://www.theguardian.com/environment/2026/sep/15/singing-gibbons-forest-sopranos-malaysia-aoe",
-        "source": {
-          "name": "Rebecca Ratcliffe"
-        },
-        "description": "As human development and roads increasingly fragment their habitats, a study suggests traffic noise could be altering the animals’ wake-up call Dawn has broken, and the air is cool and still. It’s at about this time that gibbons usually erupt into song, wa-oo-ing and wa-ing from the highest branches and filling the tree tops with rich melodies. But in this corner of Malaysian forest, bordered by housing and roads, the resident white-handed gibbons are quiet. All that can be heard is the hum of traffic from a nearby highway. This isn’t a rare occurrence for this group of gibbons, according to research, which found these particular gibbons, named Mambang and Walinong, appeared to be producing far fewer morning songs than others that are not exposed to the same level of traffic noise. Continue reading...",
-        "publishedAt": "2026-09-15T05:00:26.000Z",
-        "category": "science",
-        "zone": "us"
-      },
-      {
-        "title": "Scientists find nine new sponge species in glimpse of Alaska’s deep-sea diversity",
-        "url": "https://www.theguardian.com/us-news/2026/sep/14/deep-sea-sponges-discovery-mining-fishing",
-        "source": {
-          "name": "Maya Yang"
-        },
-        "description": "But their habitat is threatened by bottom trawling in the region and Trump’s plan to expand seafloor mining Scientists have discovered nine new deep-sea sponge species off Alaska, offering new insights into the region’s largely unexplored marine biodiversity. The National Oceanic and Atmospheric Administration (Noaa) announced the discovery on Thursday, saying the species were found in the Gulf of Alaska and the Aleutian Islands. The findings bring the total number of known sponge species in Alaska to 232. Continue reading...",
-        "publishedAt": "2026-09-14T11:30:56.000Z",
-        "category": "science",
-        "zone": "us"
-      },
-      {
-        "title": "Top Trump military adviser says US must prepare to fight around moon",
-        "url": "https://www.theguardian.com/science/2026/sep/16/us-space-moon-military-combagt",
-        "source": {
-          "name": "Associated Press"
-        },
-        "description": "Gen Dan Caine comments at Washington summit come after US revealed it has deployed weapons in space American troops need to prepare for combat not only in Earth’s orbit but around the moon, Donald Trump’s top military adviser said on Wednesday, looking ahead to a new frontier in warfare after the US revealed for the first time that it has deployed weapons in space. Gen Dan Caine, chairman of the joint chiefs of staff, told service members and industry figures at the Air, Space and Cyber Conference outside Washington that the US military should adapt now so it “is prepared to fight, endure and win ... from the seabed to cislunar space”. Continue reading...",
-        "publishedAt": "2026-09-16T21:19:04.000Z",
+        "description": "Exclusive: Plastic surfaces form hotspots with an increase of antibiotic-resistant genes, study finds Microplastics act like a “Trojan horse” delivering pollutants, pesticides and bacteria through the soil, a five-year multinational research project has found. The EU-funded project, which has so far resulted in 22 peer-reviewed studies, found microplastics in the soil of all 227 agricultural fields it tested across 11 European countries. The researchers said this poses a global threat, with healthy soils essential for life on Earth. Continue reading...",
+        "publishedAt": "2026-09-16T12:00:19.000Z",
         "category": "science",
         "zone": "us"
       }
@@ -1935,13 +1935,57 @@
   "science_gb": {
     "articles": [
       {
-        "title": "UK mathematician debunks myth around Parthenon’s optical illusions",
-        "url": "https://www.theguardian.com/science/2026/sep/16/uk-mathematician-debunks-myth-parthenon-optical-illusions",
+        "title": "‘Very messy eaters’: scientists solve the mystery of when black holes ‘burp’",
+        "url": "https://www.theguardian.com/science/2026/sep/17/black-hole-burps-scientists-solve-mystery-astronomy",
         "source": {
-          "name": "Ian Sample Science editor"
+          "name": "Donna Lu"
         },
-        "description": "Study challenges belief that temple’s curves were designed to correct optical illusions that would have ruined its clean lines A mathematician has uncovered what may be one of the longest-running myths in history after studying optical illusions and the Parthenon, the famed Greek temple that overlooks Athens. Scholars have marvelled at the building on the Acropolis hill for more than 2,000 years and heaped praise on its architects for their clever use of geometry. Its subtle curves are said to correct optical illusions that would have otherwise ruined the Parthenon’s clean lines. Continue reading...",
-        "publishedAt": "2026-09-16T04:01:09.000Z",
+        "description": "The astronomical bodies fire off powerful jets in two distinct phases in their feeding cycle, researchers discover Scientists have solved the mystery of when black holes “burp” – when the astronomical bodies launch jets after feeding on stars, blasting material enormous distances in space. Black holes are objects so densely compact that beyond a certain point their gravity is too strong for light and matter to escape. This boundary of no return is known as the event horizon – the point at which escaping would require something to travel faster than the speed of light. Continue reading...",
+        "publishedAt": "2026-09-17T09:00:44.000Z",
+        "category": "science",
+        "zone": "gb"
+      },
+      {
+        "title": "Climate crisis probably weakened glacier that caused devastating Nepal-Tibet floods, first study finds",
+        "url": "https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods",
+        "source": {
+          "name": "Damien Gayle"
+        },
+        "description": "Scientists say global heating was a destabilising factor in collapse of 200,000 sq metre glacier in August Climate breakdown probably weakened the glacier that collapsed causing catastrophic floods and killing over a thousand people in Nepal and Tibet last month, the first scientific study of the disaster has found. Researchers identified unusually warm conditions before the glacier’s collapse, which sent an avalanche of 110m cubic metres (3.885bn cu ft) of snow and ice into the valley below. This triggered flash floods on an almost unprecedented scale, hitting communities downstream without warning. Continue reading...",
+        "publishedAt": "2026-09-16T23:01:32.000Z",
+        "category": "science",
+        "zone": "gb"
+      },
+      {
+        "title": "The week that changed maths for ever – podcast",
+        "url": "https://www.theguardian.com/science/audio/2026/sep/17/the-week-that-changed-maths-for-ever-podcast",
+        "source": {
+          "name": "Presented by Ian Sample; produced by Ellie Sans; sound design by Joel Cox; executive producer Ellie Bury"
+        },
+        "description": "In early September, OpenAI announced it had solved a major mathematics problem that has stumped humans for nearly a century. The news left mathematicians reeling, and many expressed concern over what will be left for humans as AI becomes ever more adept at unravelling complex problems. Now 25 recipients of the Fields medal – often called the Nobel prize for maths – have signed an open letter expressing their fears of a ‘severe misalignment’ between AI companies and their field. To find out how AI is likely to upend maths – and how mathematicians might respond – Ian Sample speaks to Colva Roney-Dougal, professor of pure mathematics at the University of St Andrews ‘Immature playground boasting’: mathematicians uneasy at OpenAI’s latest scalp Support the Guardian: theguardian.com/sciencepod Continue reading...",
+        "publishedAt": "2026-09-17T04:00:40.000Z",
+        "category": "science",
+        "zone": "gb"
+      },
+      {
+        "title": "Top Trump military adviser says US must prepare to fight around moon",
+        "url": "https://www.theguardian.com/science/2026/sep/16/us-space-moon-military-combagt",
+        "source": {
+          "name": "Associated Press"
+        },
+        "description": "Gen Dan Caine comments at Washington summit come after US revealed it has deployed weapons in space American troops need to prepare for combat not only in Earth’s orbit but around the moon, Donald Trump’s top military adviser said on Wednesday, looking ahead to a new frontier in warfare after the US revealed for the first time that it has deployed weapons in space. Gen Dan Caine, chairman of the joint chiefs of staff, told service members and industry figures at the Air, Space and Cyber Conference outside Washington that the US military should adapt now so it “is prepared to fight, endure and win ... from the seabed to cislunar space”. Continue reading...",
+        "publishedAt": "2026-09-16T21:19:04.000Z",
+        "category": "science",
+        "zone": "gb"
+      },
+      {
+        "title": "Women with same health conditions as men ‘less likely to be offered active treatment’",
+        "url": "https://www.theguardian.com/science/2026/sep/16/women-with-same-health-conditions-as-men-less-likely-to-be-offered-active-treatment",
+        "source": {
+          "name": "Anna Bawden Health and social affairs correspondent"
+        },
+        "description": "Men with heart, kidney or liver conditions more likely to be offered intervention compared with women, global analysis finds Women with the same medical condition as men are less likely to be offered treatment such as surgery, a stent or a strong painkiller, research has found. A review of global research found that for several health problems, including cardiovascular conditions, kidney disease and Parkinson’s, women were less likely to receive the same treatment as men, revealing the extent to which women have significantly unequal care. Continue reading...",
+        "publishedAt": "2026-09-16T18:06:29.000Z",
         "category": "science",
         "zone": "gb"
       },
@@ -1957,68 +2001,24 @@
         "zone": "gb"
       },
       {
-        "title": "Plantwatch: The insect-eating alpine plant that proves Darwin was right",
-        "url": "https://www.theguardian.com/science/2026/sep/16/plantwatch-the-insect-eating-alpine-plant-that-proves-darwin-was-right",
+        "title": "UK mathematician debunks myth around Parthenon’s optical illusions",
+        "url": "https://www.theguardian.com/science/2026/sep/16/uk-mathematician-debunks-myth-parthenon-optical-illusions",
         "source": {
-          "name": "Paul Simons"
+          "name": "Ian Sample Science editor"
         },
-        "description": "Study shows Saxifraga candelabrum traps and digests midges – just as the evolutionary biologist predicted back in 1875 In 1875, Charles Darwin predicted that Saxifraga candelabrum, a small alpine plant, could eat insects. Its leaves, petals and stems are smothered in tiny, sticky hairs and – just as the evolutionary biologist suspected – the sweet glue on the hairs can lure and trap midges before digesting them with an enzyme. Continue reading...",
-        "publishedAt": "2026-09-16T05:00:10.000Z",
+        "description": "Study challenges belief that temple’s curves were designed to correct optical illusions that would have ruined its clean lines A mathematician has uncovered what may be one of the longest-running myths in history after studying optical illusions and the Parthenon, the famed Greek temple that overlooks Athens. Scholars have marvelled at the building on the Acropolis hill for more than 2,000 years and heaped praise on its architects for their clever use of geometry. Its subtle curves are said to correct optical illusions that would have otherwise ruined the Parthenon’s clean lines. Continue reading...",
+        "publishedAt": "2026-09-16T04:01:09.000Z",
         "category": "science",
         "zone": "gb"
       },
       {
-        "title": "US confirms for first time it has deployed weapons in space",
-        "url": "https://www.theguardian.com/science/2026/sep/15/us-confirms-first-time-it-has-deployed-weapons-space",
+        "title": "Microplastics in soil pose global threat by acting like ‘Trojan horse’ to deliver toxins",
+        "url": "https://www.theguardian.com/environment/2026/sep/16/soil-microplastics-trojan-horse-toxins",
         "source": {
-          "name": "Oliver Holmes"
+          "name": "Pippa Neill Environment reporter"
         },
-        "description": "Analysts warn of an acceleration in high-risk arms race with Russia and China in Earth’s orbit The US has deployed weapons in space, the US military has confirmed, in an extraordinary public announcement that analysts warn will accelerate a high-risk arms race with Russia and China in Earth’s orbit. The US secretary of the air force, Troy Meink, said Washington had active “on-orbit” weapons, meaning they had been deployed and were circling the globe. Continue reading...",
-        "publishedAt": "2026-09-15T12:55:31.000Z",
-        "category": "science",
-        "zone": "gb"
-      },
-      {
-        "title": "No, collagen won’t make your wrinkles disappear - video",
-        "url": "https://www.theguardian.com/science/video/2026/sep/15/is-collagen-a-lie-video",
-        "source": {
-          "name": "Presented by Madeleine Finlay , produced by Madeleine Finlay, Ellie Sans and Jacob Liebenberg , the executive producer was Ellie Bury"
-        },
-        "description": "Collagen powders, gummies and pills have boomed in popularity in recent years boosted by claims that they smooth wrinkles, promote glossy hair and help with joint pain. Amid the noise it can be hard to figure out whether there’s any actual science behind the promise of looking younger for longer. Luckily Dr Xand van Tulleken has spent the past three years writing Make me well: a quest to understand the confusing world of wellness, and his chapter on collagen dives deep into the evidence. He tells Madeleine Finlay what collagen does in the body, how we can get it without splashing out on expensive supplements, and why getting to the truth behind wellness claims can be so hard Continue reading...",
-        "publishedAt": "2026-09-15T11:32:49.000Z",
-        "category": "science",
-        "zone": "gb"
-      },
-      {
-        "title": "They’re the sopranos of the forest, so what’s silencing the gibbons’ morning chorus?",
-        "url": "https://www.theguardian.com/environment/2026/sep/15/singing-gibbons-forest-sopranos-malaysia-aoe",
-        "source": {
-          "name": "Rebecca Ratcliffe"
-        },
-        "description": "As human development and roads increasingly fragment their habitats, a study suggests traffic noise could be altering the animals’ wake-up call Dawn has broken, and the air is cool and still. It’s at about this time that gibbons usually erupt into song, wa-oo-ing and wa-ing from the highest branches and filling the tree tops with rich melodies. But in this corner of Malaysian forest, bordered by housing and roads, the resident white-handed gibbons are quiet. All that can be heard is the hum of traffic from a nearby highway. This isn’t a rare occurrence for this group of gibbons, according to research, which found these particular gibbons, named Mambang and Walinong, appeared to be producing far fewer morning songs than others that are not exposed to the same level of traffic noise. Continue reading...",
-        "publishedAt": "2026-09-15T05:00:26.000Z",
-        "category": "science",
-        "zone": "gb"
-      },
-      {
-        "title": "Scientists find nine new sponge species in glimpse of Alaska’s deep-sea diversity",
-        "url": "https://www.theguardian.com/us-news/2026/sep/14/deep-sea-sponges-discovery-mining-fishing",
-        "source": {
-          "name": "Maya Yang"
-        },
-        "description": "But their habitat is threatened by bottom trawling in the region and Trump’s plan to expand seafloor mining Scientists have discovered nine new deep-sea sponge species off Alaska, offering new insights into the region’s largely unexplored marine biodiversity. The National Oceanic and Atmospheric Administration (Noaa) announced the discovery on Thursday, saying the species were found in the Gulf of Alaska and the Aleutian Islands. The findings bring the total number of known sponge species in Alaska to 232. Continue reading...",
-        "publishedAt": "2026-09-14T11:30:56.000Z",
-        "category": "science",
-        "zone": "gb"
-      },
-      {
-        "title": "Top Trump military adviser says US must prepare to fight around moon",
-        "url": "https://www.theguardian.com/science/2026/sep/16/us-space-moon-military-combagt",
-        "source": {
-          "name": "Associated Press"
-        },
-        "description": "Gen Dan Caine comments at Washington summit come after US revealed it has deployed weapons in space American troops need to prepare for combat not only in Earth’s orbit but around the moon, Donald Trump’s top military adviser said on Wednesday, looking ahead to a new frontier in warfare after the US revealed for the first time that it has deployed weapons in space. Gen Dan Caine, chairman of the joint chiefs of staff, told service members and industry figures at the Air, Space and Cyber Conference outside Washington that the US military should adapt now so it “is prepared to fight, endure and win ... from the seabed to cislunar space”. Continue reading...",
-        "publishedAt": "2026-09-16T21:19:04.000Z",
+        "description": "Exclusive: Plastic surfaces form hotspots with an increase of antibiotic-resistant genes, study finds Microplastics act like a “Trojan horse” delivering pollutants, pesticides and bacteria through the soil, a five-year multinational research project has found. The EU-funded project, which has so far resulted in 22 peer-reviewed studies, found microplastics in the soil of all 227 agricultural fields it tested across 11 European countries. The researchers said this poses a global threat, with healthy soils essential for life on Earth. Continue reading...",
+        "publishedAt": "2026-09-16T12:00:19.000Z",
         "category": "science",
         "zone": "gb"
       }
@@ -2027,13 +2027,57 @@
   "science_in": {
     "articles": [
       {
-        "title": "UK mathematician debunks myth around Parthenon’s optical illusions",
-        "url": "https://www.theguardian.com/science/2026/sep/16/uk-mathematician-debunks-myth-parthenon-optical-illusions",
+        "title": "‘Very messy eaters’: scientists solve the mystery of when black holes ‘burp’",
+        "url": "https://www.theguardian.com/science/2026/sep/17/black-hole-burps-scientists-solve-mystery-astronomy",
         "source": {
-          "name": "Ian Sample Science editor"
+          "name": "Donna Lu"
         },
-        "description": "Study challenges belief that temple’s curves were designed to correct optical illusions that would have ruined its clean lines A mathematician has uncovered what may be one of the longest-running myths in history after studying optical illusions and the Parthenon, the famed Greek temple that overlooks Athens. Scholars have marvelled at the building on the Acropolis hill for more than 2,000 years and heaped praise on its architects for their clever use of geometry. Its subtle curves are said to correct optical illusions that would have otherwise ruined the Parthenon’s clean lines. Continue reading...",
-        "publishedAt": "2026-09-16T04:01:09.000Z",
+        "description": "The astronomical bodies fire off powerful jets in two distinct phases in their feeding cycle, researchers discover Scientists have solved the mystery of when black holes “burp” – when the astronomical bodies launch jets after feeding on stars, blasting material enormous distances in space. Black holes are objects so densely compact that beyond a certain point their gravity is too strong for light and matter to escape. This boundary of no return is known as the event horizon – the point at which escaping would require something to travel faster than the speed of light. Continue reading...",
+        "publishedAt": "2026-09-17T09:00:44.000Z",
+        "category": "science",
+        "zone": "in"
+      },
+      {
+        "title": "Climate crisis probably weakened glacier that caused devastating Nepal-Tibet floods, first study finds",
+        "url": "https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods",
+        "source": {
+          "name": "Damien Gayle"
+        },
+        "description": "Scientists say global heating was a destabilising factor in collapse of 200,000 sq metre glacier in August Climate breakdown probably weakened the glacier that collapsed causing catastrophic floods and killing over a thousand people in Nepal and Tibet last month, the first scientific study of the disaster has found. Researchers identified unusually warm conditions before the glacier’s collapse, which sent an avalanche of 110m cubic metres (3.885bn cu ft) of snow and ice into the valley below. This triggered flash floods on an almost unprecedented scale, hitting communities downstream without warning. Continue reading...",
+        "publishedAt": "2026-09-16T23:01:32.000Z",
+        "category": "science",
+        "zone": "in"
+      },
+      {
+        "title": "The week that changed maths for ever – podcast",
+        "url": "https://www.theguardian.com/science/audio/2026/sep/17/the-week-that-changed-maths-for-ever-podcast",
+        "source": {
+          "name": "Presented by Ian Sample; produced by Ellie Sans; sound design by Joel Cox; executive producer Ellie Bury"
+        },
+        "description": "In early September, OpenAI announced it had solved a major mathematics problem that has stumped humans for nearly a century. The news left mathematicians reeling, and many expressed concern over what will be left for humans as AI becomes ever more adept at unravelling complex problems. Now 25 recipients of the Fields medal – often called the Nobel prize for maths – have signed an open letter expressing their fears of a ‘severe misalignment’ between AI companies and their field. To find out how AI is likely to upend maths – and how mathematicians might respond – Ian Sample speaks to Colva Roney-Dougal, professor of pure mathematics at the University of St Andrews ‘Immature playground boasting’: mathematicians uneasy at OpenAI’s latest scalp Support the Guardian: theguardian.com/sciencepod Continue reading...",
+        "publishedAt": "2026-09-17T04:00:40.000Z",
+        "category": "science",
+        "zone": "in"
+      },
+      {
+        "title": "Top Trump military adviser says US must prepare to fight around moon",
+        "url": "https://www.theguardian.com/science/2026/sep/16/us-space-moon-military-combagt",
+        "source": {
+          "name": "Associated Press"
+        },
+        "description": "Gen Dan Caine comments at Washington summit come after US revealed it has deployed weapons in space American troops need to prepare for combat not only in Earth’s orbit but around the moon, Donald Trump’s top military adviser said on Wednesday, looking ahead to a new frontier in warfare after the US revealed for the first time that it has deployed weapons in space. Gen Dan Caine, chairman of the joint chiefs of staff, told service members and industry figures at the Air, Space and Cyber Conference outside Washington that the US military should adapt now so it “is prepared to fight, endure and win ... from the seabed to cislunar space”. Continue reading...",
+        "publishedAt": "2026-09-16T21:19:04.000Z",
+        "category": "science",
+        "zone": "in"
+      },
+      {
+        "title": "Women with same health conditions as men ‘less likely to be offered active treatment’",
+        "url": "https://www.theguardian.com/science/2026/sep/16/women-with-same-health-conditions-as-men-less-likely-to-be-offered-active-treatment",
+        "source": {
+          "name": "Anna Bawden Health and social affairs correspondent"
+        },
+        "description": "Men with heart, kidney or liver conditions more likely to be offered intervention compared with women, global analysis finds Women with the same medical condition as men are less likely to be offered treatment such as surgery, a stent or a strong painkiller, research has found. A review of global research found that for several health problems, including cardiovascular conditions, kidney disease and Parkinson’s, women were less likely to receive the same treatment as men, revealing the extent to which women have significantly unequal care. Continue reading...",
+        "publishedAt": "2026-09-16T18:06:29.000Z",
         "category": "science",
         "zone": "in"
       },
@@ -2049,68 +2093,24 @@
         "zone": "in"
       },
       {
-        "title": "Plantwatch: The insect-eating alpine plant that proves Darwin was right",
-        "url": "https://www.theguardian.com/science/2026/sep/16/plantwatch-the-insect-eating-alpine-plant-that-proves-darwin-was-right",
+        "title": "UK mathematician debunks myth around Parthenon’s optical illusions",
+        "url": "https://www.theguardian.com/science/2026/sep/16/uk-mathematician-debunks-myth-parthenon-optical-illusions",
         "source": {
-          "name": "Paul Simons"
+          "name": "Ian Sample Science editor"
         },
-        "description": "Study shows Saxifraga candelabrum traps and digests midges – just as the evolutionary biologist predicted back in 1875 In 1875, Charles Darwin predicted that Saxifraga candelabrum, a small alpine plant, could eat insects. Its leaves, petals and stems are smothered in tiny, sticky hairs and – just as the evolutionary biologist suspected – the sweet glue on the hairs can lure and trap midges before digesting them with an enzyme. Continue reading...",
-        "publishedAt": "2026-09-16T05:00:10.000Z",
+        "description": "Study challenges belief that temple’s curves were designed to correct optical illusions that would have ruined its clean lines A mathematician has uncovered what may be one of the longest-running myths in history after studying optical illusions and the Parthenon, the famed Greek temple that overlooks Athens. Scholars have marvelled at the building on the Acropolis hill for more than 2,000 years and heaped praise on its architects for their clever use of geometry. Its subtle curves are said to correct optical illusions that would have otherwise ruined the Parthenon’s clean lines. Continue reading...",
+        "publishedAt": "2026-09-16T04:01:09.000Z",
         "category": "science",
         "zone": "in"
       },
       {
-        "title": "US confirms for first time it has deployed weapons in space",
-        "url": "https://www.theguardian.com/science/2026/sep/15/us-confirms-first-time-it-has-deployed-weapons-space",
+        "title": "Microplastics in soil pose global threat by acting like ‘Trojan horse’ to deliver toxins",
+        "url": "https://www.theguardian.com/environment/2026/sep/16/soil-microplastics-trojan-horse-toxins",
         "source": {
-          "name": "Oliver Holmes"
+          "name": "Pippa Neill Environment reporter"
         },
-        "description": "Analysts warn of an acceleration in high-risk arms race with Russia and China in Earth’s orbit The US has deployed weapons in space, the US military has confirmed, in an extraordinary public announcement that analysts warn will accelerate a high-risk arms race with Russia and China in Earth’s orbit. The US secretary of the air force, Troy Meink, said Washington had active “on-orbit” weapons, meaning they had been deployed and were circling the globe. Continue reading...",
-        "publishedAt": "2026-09-15T12:55:31.000Z",
-        "category": "science",
-        "zone": "in"
-      },
-      {
-        "title": "No, collagen won’t make your wrinkles disappear - video",
-        "url": "https://www.theguardian.com/science/video/2026/sep/15/is-collagen-a-lie-video",
-        "source": {
-          "name": "Presented by Madeleine Finlay , produced by Madeleine Finlay, Ellie Sans and Jacob Liebenberg , the executive producer was Ellie Bury"
-        },
-        "description": "Collagen powders, gummies and pills have boomed in popularity in recent years boosted by claims that they smooth wrinkles, promote glossy hair and help with joint pain. Amid the noise it can be hard to figure out whether there’s any actual science behind the promise of looking younger for longer. Luckily Dr Xand van Tulleken has spent the past three years writing Make me well: a quest to understand the confusing world of wellness, and his chapter on collagen dives deep into the evidence. He tells Madeleine Finlay what collagen does in the body, how we can get it without splashing out on expensive supplements, and why getting to the truth behind wellness claims can be so hard Continue reading...",
-        "publishedAt": "2026-09-15T11:32:49.000Z",
-        "category": "science",
-        "zone": "in"
-      },
-      {
-        "title": "They’re the sopranos of the forest, so what’s silencing the gibbons’ morning chorus?",
-        "url": "https://www.theguardian.com/environment/2026/sep/15/singing-gibbons-forest-sopranos-malaysia-aoe",
-        "source": {
-          "name": "Rebecca Ratcliffe"
-        },
-        "description": "As human development and roads increasingly fragment their habitats, a study suggests traffic noise could be altering the animals’ wake-up call Dawn has broken, and the air is cool and still. It’s at about this time that gibbons usually erupt into song, wa-oo-ing and wa-ing from the highest branches and filling the tree tops with rich melodies. But in this corner of Malaysian forest, bordered by housing and roads, the resident white-handed gibbons are quiet. All that can be heard is the hum of traffic from a nearby highway. This isn’t a rare occurrence for this group of gibbons, according to research, which found these particular gibbons, named Mambang and Walinong, appeared to be producing far fewer morning songs than others that are not exposed to the same level of traffic noise. Continue reading...",
-        "publishedAt": "2026-09-15T05:00:26.000Z",
-        "category": "science",
-        "zone": "in"
-      },
-      {
-        "title": "Scientists find nine new sponge species in glimpse of Alaska’s deep-sea diversity",
-        "url": "https://www.theguardian.com/us-news/2026/sep/14/deep-sea-sponges-discovery-mining-fishing",
-        "source": {
-          "name": "Maya Yang"
-        },
-        "description": "But their habitat is threatened by bottom trawling in the region and Trump’s plan to expand seafloor mining Scientists have discovered nine new deep-sea sponge species off Alaska, offering new insights into the region’s largely unexplored marine biodiversity. The National Oceanic and Atmospheric Administration (Noaa) announced the discovery on Thursday, saying the species were found in the Gulf of Alaska and the Aleutian Islands. The findings bring the total number of known sponge species in Alaska to 232. Continue reading...",
-        "publishedAt": "2026-09-14T11:30:56.000Z",
-        "category": "science",
-        "zone": "in"
-      },
-      {
-        "title": "Top Trump military adviser says US must prepare to fight around moon",
-        "url": "https://www.theguardian.com/science/2026/sep/16/us-space-moon-military-combagt",
-        "source": {
-          "name": "Associated Press"
-        },
-        "description": "Gen Dan Caine comments at Washington summit come after US revealed it has deployed weapons in space American troops need to prepare for combat not only in Earth’s orbit but around the moon, Donald Trump’s top military adviser said on Wednesday, looking ahead to a new frontier in warfare after the US revealed for the first time that it has deployed weapons in space. Gen Dan Caine, chairman of the joint chiefs of staff, told service members and industry figures at the Air, Space and Cyber Conference outside Washington that the US military should adapt now so it “is prepared to fight, endure and win ... from the seabed to cislunar space”. Continue reading...",
-        "publishedAt": "2026-09-16T21:19:04.000Z",
+        "description": "Exclusive: Plastic surfaces form hotspots with an increase of antibiotic-resistant genes, study finds Microplastics act like a “Trojan horse” delivering pollutants, pesticides and bacteria through the soil, a five-year multinational research project has found. The EU-funded project, which has so far resulted in 22 peer-reviewed studies, found microplastics in the soil of all 227 agricultural fields it tested across 11 European countries. The researchers said this poses a global threat, with healthy soils essential for life on Earth. Continue reading...",
+        "publishedAt": "2026-09-16T12:00:19.000Z",
         "category": "science",
         "zone": "in"
       }
@@ -2119,13 +2119,57 @@
   "science_au": {
     "articles": [
       {
-        "title": "UK mathematician debunks myth around Parthenon’s optical illusions",
-        "url": "https://www.theguardian.com/science/2026/sep/16/uk-mathematician-debunks-myth-parthenon-optical-illusions",
+        "title": "‘Very messy eaters’: scientists solve the mystery of when black holes ‘burp’",
+        "url": "https://www.theguardian.com/science/2026/sep/17/black-hole-burps-scientists-solve-mystery-astronomy",
         "source": {
-          "name": "Ian Sample Science editor"
+          "name": "Donna Lu"
         },
-        "description": "Study challenges belief that temple’s curves were designed to correct optical illusions that would have ruined its clean lines A mathematician has uncovered what may be one of the longest-running myths in history after studying optical illusions and the Parthenon, the famed Greek temple that overlooks Athens. Scholars have marvelled at the building on the Acropolis hill for more than 2,000 years and heaped praise on its architects for their clever use of geometry. Its subtle curves are said to correct optical illusions that would have otherwise ruined the Parthenon’s clean lines. Continue reading...",
-        "publishedAt": "2026-09-16T04:01:09.000Z",
+        "description": "The astronomical bodies fire off powerful jets in two distinct phases in their feeding cycle, researchers discover Scientists have solved the mystery of when black holes “burp” – when the astronomical bodies launch jets after feeding on stars, blasting material enormous distances in space. Black holes are objects so densely compact that beyond a certain point their gravity is too strong for light and matter to escape. This boundary of no return is known as the event horizon – the point at which escaping would require something to travel faster than the speed of light. Continue reading...",
+        "publishedAt": "2026-09-17T09:00:44.000Z",
+        "category": "science",
+        "zone": "au"
+      },
+      {
+        "title": "Climate crisis probably weakened glacier that caused devastating Nepal-Tibet floods, first study finds",
+        "url": "https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods",
+        "source": {
+          "name": "Damien Gayle"
+        },
+        "description": "Scientists say global heating was a destabilising factor in collapse of 200,000 sq metre glacier in August Climate breakdown probably weakened the glacier that collapsed causing catastrophic floods and killing over a thousand people in Nepal and Tibet last month, the first scientific study of the disaster has found. Researchers identified unusually warm conditions before the glacier’s collapse, which sent an avalanche of 110m cubic metres (3.885bn cu ft) of snow and ice into the valley below. This triggered flash floods on an almost unprecedented scale, hitting communities downstream without warning. Continue reading...",
+        "publishedAt": "2026-09-16T23:01:32.000Z",
+        "category": "science",
+        "zone": "au"
+      },
+      {
+        "title": "The week that changed maths for ever – podcast",
+        "url": "https://www.theguardian.com/science/audio/2026/sep/17/the-week-that-changed-maths-for-ever-podcast",
+        "source": {
+          "name": "Presented by Ian Sample; produced by Ellie Sans; sound design by Joel Cox; executive producer Ellie Bury"
+        },
+        "description": "In early September, OpenAI announced it had solved a major mathematics problem that has stumped humans for nearly a century. The news left mathematicians reeling, and many expressed concern over what will be left for humans as AI becomes ever more adept at unravelling complex problems. Now 25 recipients of the Fields medal – often called the Nobel prize for maths – have signed an open letter expressing their fears of a ‘severe misalignment’ between AI companies and their field. To find out how AI is likely to upend maths – and how mathematicians might respond – Ian Sample speaks to Colva Roney-Dougal, professor of pure mathematics at the University of St Andrews ‘Immature playground boasting’: mathematicians uneasy at OpenAI’s latest scalp Support the Guardian: theguardian.com/sciencepod Continue reading...",
+        "publishedAt": "2026-09-17T04:00:40.000Z",
+        "category": "science",
+        "zone": "au"
+      },
+      {
+        "title": "Top Trump military adviser says US must prepare to fight around moon",
+        "url": "https://www.theguardian.com/science/2026/sep/16/us-space-moon-military-combagt",
+        "source": {
+          "name": "Associated Press"
+        },
+        "description": "Gen Dan Caine comments at Washington summit come after US revealed it has deployed weapons in space American troops need to prepare for combat not only in Earth’s orbit but around the moon, Donald Trump’s top military adviser said on Wednesday, looking ahead to a new frontier in warfare after the US revealed for the first time that it has deployed weapons in space. Gen Dan Caine, chairman of the joint chiefs of staff, told service members and industry figures at the Air, Space and Cyber Conference outside Washington that the US military should adapt now so it “is prepared to fight, endure and win ... from the seabed to cislunar space”. Continue reading...",
+        "publishedAt": "2026-09-16T21:19:04.000Z",
+        "category": "science",
+        "zone": "au"
+      },
+      {
+        "title": "Women with same health conditions as men ‘less likely to be offered active treatment’",
+        "url": "https://www.theguardian.com/science/2026/sep/16/women-with-same-health-conditions-as-men-less-likely-to-be-offered-active-treatment",
+        "source": {
+          "name": "Anna Bawden Health and social affairs correspondent"
+        },
+        "description": "Men with heart, kidney or liver conditions more likely to be offered intervention compared with women, global analysis finds Women with the same medical condition as men are less likely to be offered treatment such as surgery, a stent or a strong painkiller, research has found. A review of global research found that for several health problems, including cardiovascular conditions, kidney disease and Parkinson’s, women were less likely to receive the same treatment as men, revealing the extent to which women have significantly unequal care. Continue reading...",
+        "publishedAt": "2026-09-16T18:06:29.000Z",
         "category": "science",
         "zone": "au"
       },
@@ -2141,68 +2185,24 @@
         "zone": "au"
       },
       {
-        "title": "Plantwatch: The insect-eating alpine plant that proves Darwin was right",
-        "url": "https://www.theguardian.com/science/2026/sep/16/plantwatch-the-insect-eating-alpine-plant-that-proves-darwin-was-right",
+        "title": "UK mathematician debunks myth around Parthenon’s optical illusions",
+        "url": "https://www.theguardian.com/science/2026/sep/16/uk-mathematician-debunks-myth-parthenon-optical-illusions",
         "source": {
-          "name": "Paul Simons"
+          "name": "Ian Sample Science editor"
         },
-        "description": "Study shows Saxifraga candelabrum traps and digests midges – just as the evolutionary biologist predicted back in 1875 In 1875, Charles Darwin predicted that Saxifraga candelabrum, a small alpine plant, could eat insects. Its leaves, petals and stems are smothered in tiny, sticky hairs and – just as the evolutionary biologist suspected – the sweet glue on the hairs can lure and trap midges before digesting them with an enzyme. Continue reading...",
-        "publishedAt": "2026-09-16T05:00:10.000Z",
+        "description": "Study challenges belief that temple’s curves were designed to correct optical illusions that would have ruined its clean lines A mathematician has uncovered what may be one of the longest-running myths in history after studying optical illusions and the Parthenon, the famed Greek temple that overlooks Athens. Scholars have marvelled at the building on the Acropolis hill for more than 2,000 years and heaped praise on its architects for their clever use of geometry. Its subtle curves are said to correct optical illusions that would have otherwise ruined the Parthenon’s clean lines. Continue reading...",
+        "publishedAt": "2026-09-16T04:01:09.000Z",
         "category": "science",
         "zone": "au"
       },
       {
-        "title": "US confirms for first time it has deployed weapons in space",
-        "url": "https://www.theguardian.com/science/2026/sep/15/us-confirms-first-time-it-has-deployed-weapons-space",
+        "title": "Microplastics in soil pose global threat by acting like ‘Trojan horse’ to deliver toxins",
+        "url": "https://www.theguardian.com/environment/2026/sep/16/soil-microplastics-trojan-horse-toxins",
         "source": {
-          "name": "Oliver Holmes"
+          "name": "Pippa Neill Environment reporter"
         },
-        "description": "Analysts warn of an acceleration in high-risk arms race with Russia and China in Earth’s orbit The US has deployed weapons in space, the US military has confirmed, in an extraordinary public announcement that analysts warn will accelerate a high-risk arms race with Russia and China in Earth’s orbit. The US secretary of the air force, Troy Meink, said Washington had active “on-orbit” weapons, meaning they had been deployed and were circling the globe. Continue reading...",
-        "publishedAt": "2026-09-15T12:55:31.000Z",
-        "category": "science",
-        "zone": "au"
-      },
-      {
-        "title": "No, collagen won’t make your wrinkles disappear - video",
-        "url": "https://www.theguardian.com/science/video/2026/sep/15/is-collagen-a-lie-video",
-        "source": {
-          "name": "Presented by Madeleine Finlay , produced by Madeleine Finlay, Ellie Sans and Jacob Liebenberg , the executive producer was Ellie Bury"
-        },
-        "description": "Collagen powders, gummies and pills have boomed in popularity in recent years boosted by claims that they smooth wrinkles, promote glossy hair and help with joint pain. Amid the noise it can be hard to figure out whether there’s any actual science behind the promise of looking younger for longer. Luckily Dr Xand van Tulleken has spent the past three years writing Make me well: a quest to understand the confusing world of wellness, and his chapter on collagen dives deep into the evidence. He tells Madeleine Finlay what collagen does in the body, how we can get it without splashing out on expensive supplements, and why getting to the truth behind wellness claims can be so hard Continue reading...",
-        "publishedAt": "2026-09-15T11:32:49.000Z",
-        "category": "science",
-        "zone": "au"
-      },
-      {
-        "title": "They’re the sopranos of the forest, so what’s silencing the gibbons’ morning chorus?",
-        "url": "https://www.theguardian.com/environment/2026/sep/15/singing-gibbons-forest-sopranos-malaysia-aoe",
-        "source": {
-          "name": "Rebecca Ratcliffe"
-        },
-        "description": "As human development and roads increasingly fragment their habitats, a study suggests traffic noise could be altering the animals’ wake-up call Dawn has broken, and the air is cool and still. It’s at about this time that gibbons usually erupt into song, wa-oo-ing and wa-ing from the highest branches and filling the tree tops with rich melodies. But in this corner of Malaysian forest, bordered by housing and roads, the resident white-handed gibbons are quiet. All that can be heard is the hum of traffic from a nearby highway. This isn’t a rare occurrence for this group of gibbons, according to research, which found these particular gibbons, named Mambang and Walinong, appeared to be producing far fewer morning songs than others that are not exposed to the same level of traffic noise. Continue reading...",
-        "publishedAt": "2026-09-15T05:00:26.000Z",
-        "category": "science",
-        "zone": "au"
-      },
-      {
-        "title": "Scientists find nine new sponge species in glimpse of Alaska’s deep-sea diversity",
-        "url": "https://www.theguardian.com/us-news/2026/sep/14/deep-sea-sponges-discovery-mining-fishing",
-        "source": {
-          "name": "Maya Yang"
-        },
-        "description": "But their habitat is threatened by bottom trawling in the region and Trump’s plan to expand seafloor mining Scientists have discovered nine new deep-sea sponge species off Alaska, offering new insights into the region’s largely unexplored marine biodiversity. The National Oceanic and Atmospheric Administration (Noaa) announced the discovery on Thursday, saying the species were found in the Gulf of Alaska and the Aleutian Islands. The findings bring the total number of known sponge species in Alaska to 232. Continue reading...",
-        "publishedAt": "2026-09-14T11:30:56.000Z",
-        "category": "science",
-        "zone": "au"
-      },
-      {
-        "title": "Top Trump military adviser says US must prepare to fight around moon",
-        "url": "https://www.theguardian.com/science/2026/sep/16/us-space-moon-military-combagt",
-        "source": {
-          "name": "Associated Press"
-        },
-        "description": "Gen Dan Caine comments at Washington summit come after US revealed it has deployed weapons in space American troops need to prepare for combat not only in Earth’s orbit but around the moon, Donald Trump’s top military adviser said on Wednesday, looking ahead to a new frontier in warfare after the US revealed for the first time that it has deployed weapons in space. Gen Dan Caine, chairman of the joint chiefs of staff, told service members and industry figures at the Air, Space and Cyber Conference outside Washington that the US military should adapt now so it “is prepared to fight, endure and win ... from the seabed to cislunar space”. Continue reading...",
-        "publishedAt": "2026-09-16T21:19:04.000Z",
+        "description": "Exclusive: Plastic surfaces form hotspots with an increase of antibiotic-resistant genes, study finds Microplastics act like a “Trojan horse” delivering pollutants, pesticides and bacteria through the soil, a five-year multinational research project has found. The EU-funded project, which has so far resulted in 22 peer-reviewed studies, found microplastics in the soil of all 227 agricultural fields it tested across 11 European countries. The researchers said this poses a global threat, with healthy soils essential for life on Earth. Continue reading...",
+        "publishedAt": "2026-09-16T12:00:19.000Z",
         "category": "science",
         "zone": "au"
       }
@@ -2211,13 +2211,57 @@
   "science_ca": {
     "articles": [
       {
-        "title": "UK mathematician debunks myth around Parthenon’s optical illusions",
-        "url": "https://www.theguardian.com/science/2026/sep/16/uk-mathematician-debunks-myth-parthenon-optical-illusions",
+        "title": "‘Very messy eaters’: scientists solve the mystery of when black holes ‘burp’",
+        "url": "https://www.theguardian.com/science/2026/sep/17/black-hole-burps-scientists-solve-mystery-astronomy",
         "source": {
-          "name": "Ian Sample Science editor"
+          "name": "Donna Lu"
         },
-        "description": "Study challenges belief that temple’s curves were designed to correct optical illusions that would have ruined its clean lines A mathematician has uncovered what may be one of the longest-running myths in history after studying optical illusions and the Parthenon, the famed Greek temple that overlooks Athens. Scholars have marvelled at the building on the Acropolis hill for more than 2,000 years and heaped praise on its architects for their clever use of geometry. Its subtle curves are said to correct optical illusions that would have otherwise ruined the Parthenon’s clean lines. Continue reading...",
-        "publishedAt": "2026-09-16T04:01:09.000Z",
+        "description": "The astronomical bodies fire off powerful jets in two distinct phases in their feeding cycle, researchers discover Scientists have solved the mystery of when black holes “burp” – when the astronomical bodies launch jets after feeding on stars, blasting material enormous distances in space. Black holes are objects so densely compact that beyond a certain point their gravity is too strong for light and matter to escape. This boundary of no return is known as the event horizon – the point at which escaping would require something to travel faster than the speed of light. Continue reading...",
+        "publishedAt": "2026-09-17T09:00:44.000Z",
+        "category": "science",
+        "zone": "ca"
+      },
+      {
+        "title": "Climate crisis probably weakened glacier that caused devastating Nepal-Tibet floods, first study finds",
+        "url": "https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods",
+        "source": {
+          "name": "Damien Gayle"
+        },
+        "description": "Scientists say global heating was a destabilising factor in collapse of 200,000 sq metre glacier in August Climate breakdown probably weakened the glacier that collapsed causing catastrophic floods and killing over a thousand people in Nepal and Tibet last month, the first scientific study of the disaster has found. Researchers identified unusually warm conditions before the glacier’s collapse, which sent an avalanche of 110m cubic metres (3.885bn cu ft) of snow and ice into the valley below. This triggered flash floods on an almost unprecedented scale, hitting communities downstream without warning. Continue reading...",
+        "publishedAt": "2026-09-16T23:01:32.000Z",
+        "category": "science",
+        "zone": "ca"
+      },
+      {
+        "title": "The week that changed maths for ever – podcast",
+        "url": "https://www.theguardian.com/science/audio/2026/sep/17/the-week-that-changed-maths-for-ever-podcast",
+        "source": {
+          "name": "Presented by Ian Sample; produced by Ellie Sans; sound design by Joel Cox; executive producer Ellie Bury"
+        },
+        "description": "In early September, OpenAI announced it had solved a major mathematics problem that has stumped humans for nearly a century. The news left mathematicians reeling, and many expressed concern over what will be left for humans as AI becomes ever more adept at unravelling complex problems. Now 25 recipients of the Fields medal – often called the Nobel prize for maths – have signed an open letter expressing their fears of a ‘severe misalignment’ between AI companies and their field. To find out how AI is likely to upend maths – and how mathematicians might respond – Ian Sample speaks to Colva Roney-Dougal, professor of pure mathematics at the University of St Andrews ‘Immature playground boasting’: mathematicians uneasy at OpenAI’s latest scalp Support the Guardian: theguardian.com/sciencepod Continue reading...",
+        "publishedAt": "2026-09-17T04:00:40.000Z",
+        "category": "science",
+        "zone": "ca"
+      },
+      {
+        "title": "Top Trump military adviser says US must prepare to fight around moon",
+        "url": "https://www.theguardian.com/science/2026/sep/16/us-space-moon-military-combagt",
+        "source": {
+          "name": "Associated Press"
+        },
+        "description": "Gen Dan Caine comments at Washington summit come after US revealed it has deployed weapons in space American troops need to prepare for combat not only in Earth’s orbit but around the moon, Donald Trump’s top military adviser said on Wednesday, looking ahead to a new frontier in warfare after the US revealed for the first time that it has deployed weapons in space. Gen Dan Caine, chairman of the joint chiefs of staff, told service members and industry figures at the Air, Space and Cyber Conference outside Washington that the US military should adapt now so it “is prepared to fight, endure and win ... from the seabed to cislunar space”. Continue reading...",
+        "publishedAt": "2026-09-16T21:19:04.000Z",
+        "category": "science",
+        "zone": "ca"
+      },
+      {
+        "title": "Women with same health conditions as men ‘less likely to be offered active treatment’",
+        "url": "https://www.theguardian.com/science/2026/sep/16/women-with-same-health-conditions-as-men-less-likely-to-be-offered-active-treatment",
+        "source": {
+          "name": "Anna Bawden Health and social affairs correspondent"
+        },
+        "description": "Men with heart, kidney or liver conditions more likely to be offered intervention compared with women, global analysis finds Women with the same medical condition as men are less likely to be offered treatment such as surgery, a stent or a strong painkiller, research has found. A review of global research found that for several health problems, including cardiovascular conditions, kidney disease and Parkinson’s, women were less likely to receive the same treatment as men, revealing the extent to which women have significantly unequal care. Continue reading...",
+        "publishedAt": "2026-09-16T18:06:29.000Z",
         "category": "science",
         "zone": "ca"
       },
@@ -2233,68 +2277,24 @@
         "zone": "ca"
       },
       {
-        "title": "Plantwatch: The insect-eating alpine plant that proves Darwin was right",
-        "url": "https://www.theguardian.com/science/2026/sep/16/plantwatch-the-insect-eating-alpine-plant-that-proves-darwin-was-right",
+        "title": "UK mathematician debunks myth around Parthenon’s optical illusions",
+        "url": "https://www.theguardian.com/science/2026/sep/16/uk-mathematician-debunks-myth-parthenon-optical-illusions",
         "source": {
-          "name": "Paul Simons"
+          "name": "Ian Sample Science editor"
         },
-        "description": "Study shows Saxifraga candelabrum traps and digests midges – just as the evolutionary biologist predicted back in 1875 In 1875, Charles Darwin predicted that Saxifraga candelabrum, a small alpine plant, could eat insects. Its leaves, petals and stems are smothered in tiny, sticky hairs and – just as the evolutionary biologist suspected – the sweet glue on the hairs can lure and trap midges before digesting them with an enzyme. Continue reading...",
-        "publishedAt": "2026-09-16T05:00:10.000Z",
+        "description": "Study challenges belief that temple’s curves were designed to correct optical illusions that would have ruined its clean lines A mathematician has uncovered what may be one of the longest-running myths in history after studying optical illusions and the Parthenon, the famed Greek temple that overlooks Athens. Scholars have marvelled at the building on the Acropolis hill for more than 2,000 years and heaped praise on its architects for their clever use of geometry. Its subtle curves are said to correct optical illusions that would have otherwise ruined the Parthenon’s clean lines. Continue reading...",
+        "publishedAt": "2026-09-16T04:01:09.000Z",
         "category": "science",
         "zone": "ca"
       },
       {
-        "title": "US confirms for first time it has deployed weapons in space",
-        "url": "https://www.theguardian.com/science/2026/sep/15/us-confirms-first-time-it-has-deployed-weapons-space",
+        "title": "Microplastics in soil pose global threat by acting like ‘Trojan horse’ to deliver toxins",
+        "url": "https://www.theguardian.com/environment/2026/sep/16/soil-microplastics-trojan-horse-toxins",
         "source": {
-          "name": "Oliver Holmes"
+          "name": "Pippa Neill Environment reporter"
         },
-        "description": "Analysts warn of an acceleration in high-risk arms race with Russia and China in Earth’s orbit The US has deployed weapons in space, the US military has confirmed, in an extraordinary public announcement that analysts warn will accelerate a high-risk arms race with Russia and China in Earth’s orbit. The US secretary of the air force, Troy Meink, said Washington had active “on-orbit” weapons, meaning they had been deployed and were circling the globe. Continue reading...",
-        "publishedAt": "2026-09-15T12:55:31.000Z",
-        "category": "science",
-        "zone": "ca"
-      },
-      {
-        "title": "No, collagen won’t make your wrinkles disappear - video",
-        "url": "https://www.theguardian.com/science/video/2026/sep/15/is-collagen-a-lie-video",
-        "source": {
-          "name": "Presented by Madeleine Finlay , produced by Madeleine Finlay, Ellie Sans and Jacob Liebenberg , the executive producer was Ellie Bury"
-        },
-        "description": "Collagen powders, gummies and pills have boomed in popularity in recent years boosted by claims that they smooth wrinkles, promote glossy hair and help with joint pain. Amid the noise it can be hard to figure out whether there’s any actual science behind the promise of looking younger for longer. Luckily Dr Xand van Tulleken has spent the past three years writing Make me well: a quest to understand the confusing world of wellness, and his chapter on collagen dives deep into the evidence. He tells Madeleine Finlay what collagen does in the body, how we can get it without splashing out on expensive supplements, and why getting to the truth behind wellness claims can be so hard Continue reading...",
-        "publishedAt": "2026-09-15T11:32:49.000Z",
-        "category": "science",
-        "zone": "ca"
-      },
-      {
-        "title": "They’re the sopranos of the forest, so what’s silencing the gibbons’ morning chorus?",
-        "url": "https://www.theguardian.com/environment/2026/sep/15/singing-gibbons-forest-sopranos-malaysia-aoe",
-        "source": {
-          "name": "Rebecca Ratcliffe"
-        },
-        "description": "As human development and roads increasingly fragment their habitats, a study suggests traffic noise could be altering the animals’ wake-up call Dawn has broken, and the air is cool and still. It’s at about this time that gibbons usually erupt into song, wa-oo-ing and wa-ing from the highest branches and filling the tree tops with rich melodies. But in this corner of Malaysian forest, bordered by housing and roads, the resident white-handed gibbons are quiet. All that can be heard is the hum of traffic from a nearby highway. This isn’t a rare occurrence for this group of gibbons, according to research, which found these particular gibbons, named Mambang and Walinong, appeared to be producing far fewer morning songs than others that are not exposed to the same level of traffic noise. Continue reading...",
-        "publishedAt": "2026-09-15T05:00:26.000Z",
-        "category": "science",
-        "zone": "ca"
-      },
-      {
-        "title": "Scientists find nine new sponge species in glimpse of Alaska’s deep-sea diversity",
-        "url": "https://www.theguardian.com/us-news/2026/sep/14/deep-sea-sponges-discovery-mining-fishing",
-        "source": {
-          "name": "Maya Yang"
-        },
-        "description": "But their habitat is threatened by bottom trawling in the region and Trump’s plan to expand seafloor mining Scientists have discovered nine new deep-sea sponge species off Alaska, offering new insights into the region’s largely unexplored marine biodiversity. The National Oceanic and Atmospheric Administration (Noaa) announced the discovery on Thursday, saying the species were found in the Gulf of Alaska and the Aleutian Islands. The findings bring the total number of known sponge species in Alaska to 232. Continue reading...",
-        "publishedAt": "2026-09-14T11:30:56.000Z",
-        "category": "science",
-        "zone": "ca"
-      },
-      {
-        "title": "Top Trump military adviser says US must prepare to fight around moon",
-        "url": "https://www.theguardian.com/science/2026/sep/16/us-space-moon-military-combagt",
-        "source": {
-          "name": "Associated Press"
-        },
-        "description": "Gen Dan Caine comments at Washington summit come after US revealed it has deployed weapons in space American troops need to prepare for combat not only in Earth’s orbit but around the moon, Donald Trump’s top military adviser said on Wednesday, looking ahead to a new frontier in warfare after the US revealed for the first time that it has deployed weapons in space. Gen Dan Caine, chairman of the joint chiefs of staff, told service members and industry figures at the Air, Space and Cyber Conference outside Washington that the US military should adapt now so it “is prepared to fight, endure and win ... from the seabed to cislunar space”. Continue reading...",
-        "publishedAt": "2026-09-16T21:19:04.000Z",
+        "description": "Exclusive: Plastic surfaces form hotspots with an increase of antibiotic-resistant genes, study finds Microplastics act like a “Trojan horse” delivering pollutants, pesticides and bacteria through the soil, a five-year multinational research project has found. The EU-funded project, which has so far resulted in 22 peer-reviewed studies, found microplastics in the soil of all 227 agricultural fields it tested across 11 European countries. The researchers said this poses a global threat, with healthy soils essential for life on Earth. Continue reading...",
+        "publishedAt": "2026-09-16T12:00:19.000Z",
         "category": "science",
         "zone": "ca"
       }
@@ -2303,24 +2303,24 @@
   "sports_us": {
     "articles": [
       {
-        "title": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
+        "title": "How an Aston Villa fringe player became Europe's most prolific scorer",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvj64wg0lgeyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
-        "publishedAt": "2026-09-16T23:31:38.000Z",
+        "description": "No player in Europe's top five leagues has scored more goals than Donyell Malen since his Roma debut in January - BBC Sport examines his transformation.",
+        "publishedAt": "2026-09-17T08:30:23.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Boehly and Walter sell Chelsea stakes to Clearlake",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvrl6egl1254o?at_medium=RSS&at_campaign=rss",
+        "title": "Real Madrid keen on Man Utd forward Gabriel, 15",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Clearlake Capital acquires full control of Chelsea as chairman Todd Boehly, director Mark Walter and Hansjorg Wyss sell their stakes in the club.",
-        "publishedAt": "2026-09-16T23:29:10.000Z",
+        "description": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
+        "publishedAt": "2026-09-17T07:52:32.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2336,6 +2336,50 @@
         "zone": "us"
       },
       {
+        "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
+        "url": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
+        "publishedAt": "2026-09-17T11:05:29.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Six-time Grand Slam champion Salisbury retires",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c617j8qdk2v8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury retires from professional tennis.",
+        "publishedAt": "2026-09-17T10:29:52.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Traumatised Smith says he was 'thrown to wolves' over 'sandpapergate'",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c6e9e4nzd597o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Australia batter Steve Smith says he is still traumatised by the aftermath of the ball-tampering scandal in 2018 and still gets flashbacks.",
+        "publishedAt": "2026-09-17T09:31:54.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
+        "publishedAt": "2026-09-16T23:31:38.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Why dealing with defeat is key for Lampard at Coventry",
         "url": "https://www.bbc.co.uk/sport/football/articles/c3eqpz5zlzzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2343,50 +2387,6 @@
         },
         "description": "BBC Sport columnist Tony Pulis explains why Coventry boss Frank Lampard needs to manage himself as well as his players after their poor start to the season.",
         "publishedAt": "2026-09-17T06:40:18.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "USA midfielder sues doctors after on-pitch heart attack",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6j4jlqgeejvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "United States women's national team player Savannah DeMelo is suing a hospital and two doctors after she suffered a heart attack on the pitch last year.",
-        "publishedAt": "2026-09-17T06:15:00.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Four-time F1 world champion Max Verstappen passes 100 amateur drivers in just 14 laps in an exhibition go-kart race at Silverstone.",
-        "publishedAt": "2026-09-17T06:12:30.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "League Two Fleetwood host Arsenal in EFL Cup - full fourth-round draw",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqd08y9dd5dko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "League Two side Fleetwood Town will host Premier League champions Arsenal in the fourth round of the EFL Cup.",
-        "publishedAt": "2026-09-16T21:57:04.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Flex your football brain with our daily quizzes",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ck5yl2jgz23jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-        "publishedAt": "2026-09-17T06:22:20.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,24 +2395,24 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
+        "title": "How an Aston Villa fringe player became Europe's most prolific scorer",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvj64wg0lgeyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
-        "publishedAt": "2026-09-16T23:31:38.000Z",
+        "description": "No player in Europe's top five leagues has scored more goals than Donyell Malen since his Roma debut in January - BBC Sport examines his transformation.",
+        "publishedAt": "2026-09-17T08:30:23.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Boehly and Walter sell Chelsea stakes to Clearlake",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvrl6egl1254o?at_medium=RSS&at_campaign=rss",
+        "title": "Real Madrid keen on Man Utd forward Gabriel, 15",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Clearlake Capital acquires full control of Chelsea as chairman Todd Boehly, director Mark Walter and Hansjorg Wyss sell their stakes in the club.",
-        "publishedAt": "2026-09-16T23:29:10.000Z",
+        "description": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
+        "publishedAt": "2026-09-17T07:52:32.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2428,6 +2428,50 @@
         "zone": "gb"
       },
       {
+        "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
+        "url": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
+        "publishedAt": "2026-09-17T11:05:29.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Six-time Grand Slam champion Salisbury retires",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c617j8qdk2v8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury retires from professional tennis.",
+        "publishedAt": "2026-09-17T10:29:52.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Traumatised Smith says he was 'thrown to wolves' over 'sandpapergate'",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c6e9e4nzd597o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Australia batter Steve Smith says he is still traumatised by the aftermath of the ball-tampering scandal in 2018 and still gets flashbacks.",
+        "publishedAt": "2026-09-17T09:31:54.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
+        "publishedAt": "2026-09-16T23:31:38.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Why dealing with defeat is key for Lampard at Coventry",
         "url": "https://www.bbc.co.uk/sport/football/articles/c3eqpz5zlzzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2435,50 +2479,6 @@
         },
         "description": "BBC Sport columnist Tony Pulis explains why Coventry boss Frank Lampard needs to manage himself as well as his players after their poor start to the season.",
         "publishedAt": "2026-09-17T06:40:18.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "USA midfielder sues doctors after on-pitch heart attack",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6j4jlqgeejvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "United States women's national team player Savannah DeMelo is suing a hospital and two doctors after she suffered a heart attack on the pitch last year.",
-        "publishedAt": "2026-09-17T06:15:00.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Four-time F1 world champion Max Verstappen passes 100 amateur drivers in just 14 laps in an exhibition go-kart race at Silverstone.",
-        "publishedAt": "2026-09-17T06:12:30.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "League Two Fleetwood host Arsenal in EFL Cup - full fourth-round draw",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqd08y9dd5dko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "League Two side Fleetwood Town will host Premier League champions Arsenal in the fourth round of the EFL Cup.",
-        "publishedAt": "2026-09-16T21:57:04.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Flex your football brain with our daily quizzes",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ck5yl2jgz23jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-        "publishedAt": "2026-09-17T06:22:20.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,24 +2487,24 @@
   "sports_in": {
     "articles": [
       {
-        "title": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
+        "title": "How an Aston Villa fringe player became Europe's most prolific scorer",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvj64wg0lgeyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
-        "publishedAt": "2026-09-16T23:31:38.000Z",
+        "description": "No player in Europe's top five leagues has scored more goals than Donyell Malen since his Roma debut in January - BBC Sport examines his transformation.",
+        "publishedAt": "2026-09-17T08:30:23.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Boehly and Walter sell Chelsea stakes to Clearlake",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvrl6egl1254o?at_medium=RSS&at_campaign=rss",
+        "title": "Real Madrid keen on Man Utd forward Gabriel, 15",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Clearlake Capital acquires full control of Chelsea as chairman Todd Boehly, director Mark Walter and Hansjorg Wyss sell their stakes in the club.",
-        "publishedAt": "2026-09-16T23:29:10.000Z",
+        "description": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
+        "publishedAt": "2026-09-17T07:52:32.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2520,6 +2520,50 @@
         "zone": "in"
       },
       {
+        "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
+        "url": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
+        "publishedAt": "2026-09-17T11:05:29.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Six-time Grand Slam champion Salisbury retires",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c617j8qdk2v8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury retires from professional tennis.",
+        "publishedAt": "2026-09-17T10:29:52.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Traumatised Smith says he was 'thrown to wolves' over 'sandpapergate'",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c6e9e4nzd597o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Australia batter Steve Smith says he is still traumatised by the aftermath of the ball-tampering scandal in 2018 and still gets flashbacks.",
+        "publishedAt": "2026-09-17T09:31:54.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
+        "publishedAt": "2026-09-16T23:31:38.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Why dealing with defeat is key for Lampard at Coventry",
         "url": "https://www.bbc.co.uk/sport/football/articles/c3eqpz5zlzzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2527,50 +2571,6 @@
         },
         "description": "BBC Sport columnist Tony Pulis explains why Coventry boss Frank Lampard needs to manage himself as well as his players after their poor start to the season.",
         "publishedAt": "2026-09-17T06:40:18.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "USA midfielder sues doctors after on-pitch heart attack",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6j4jlqgeejvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "United States women's national team player Savannah DeMelo is suing a hospital and two doctors after she suffered a heart attack on the pitch last year.",
-        "publishedAt": "2026-09-17T06:15:00.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Four-time F1 world champion Max Verstappen passes 100 amateur drivers in just 14 laps in an exhibition go-kart race at Silverstone.",
-        "publishedAt": "2026-09-17T06:12:30.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "League Two Fleetwood host Arsenal in EFL Cup - full fourth-round draw",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqd08y9dd5dko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "League Two side Fleetwood Town will host Premier League champions Arsenal in the fourth round of the EFL Cup.",
-        "publishedAt": "2026-09-16T21:57:04.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Flex your football brain with our daily quizzes",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ck5yl2jgz23jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-        "publishedAt": "2026-09-17T06:22:20.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,24 +2579,24 @@
   "sports_au": {
     "articles": [
       {
-        "title": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
+        "title": "How an Aston Villa fringe player became Europe's most prolific scorer",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvj64wg0lgeyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
-        "publishedAt": "2026-09-16T23:31:38.000Z",
+        "description": "No player in Europe's top five leagues has scored more goals than Donyell Malen since his Roma debut in January - BBC Sport examines his transformation.",
+        "publishedAt": "2026-09-17T08:30:23.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Boehly and Walter sell Chelsea stakes to Clearlake",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvrl6egl1254o?at_medium=RSS&at_campaign=rss",
+        "title": "Real Madrid keen on Man Utd forward Gabriel, 15",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Clearlake Capital acquires full control of Chelsea as chairman Todd Boehly, director Mark Walter and Hansjorg Wyss sell their stakes in the club.",
-        "publishedAt": "2026-09-16T23:29:10.000Z",
+        "description": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
+        "publishedAt": "2026-09-17T07:52:32.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2612,6 +2612,50 @@
         "zone": "au"
       },
       {
+        "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
+        "url": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
+        "publishedAt": "2026-09-17T11:05:29.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Six-time Grand Slam champion Salisbury retires",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c617j8qdk2v8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury retires from professional tennis.",
+        "publishedAt": "2026-09-17T10:29:52.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Traumatised Smith says he was 'thrown to wolves' over 'sandpapergate'",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c6e9e4nzd597o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Australia batter Steve Smith says he is still traumatised by the aftermath of the ball-tampering scandal in 2018 and still gets flashbacks.",
+        "publishedAt": "2026-09-17T09:31:54.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
+        "publishedAt": "2026-09-16T23:31:38.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Why dealing with defeat is key for Lampard at Coventry",
         "url": "https://www.bbc.co.uk/sport/football/articles/c3eqpz5zlzzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2619,50 +2663,6 @@
         },
         "description": "BBC Sport columnist Tony Pulis explains why Coventry boss Frank Lampard needs to manage himself as well as his players after their poor start to the season.",
         "publishedAt": "2026-09-17T06:40:18.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "USA midfielder sues doctors after on-pitch heart attack",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6j4jlqgeejvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "United States women's national team player Savannah DeMelo is suing a hospital and two doctors after she suffered a heart attack on the pitch last year.",
-        "publishedAt": "2026-09-17T06:15:00.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Four-time F1 world champion Max Verstappen passes 100 amateur drivers in just 14 laps in an exhibition go-kart race at Silverstone.",
-        "publishedAt": "2026-09-17T06:12:30.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "League Two Fleetwood host Arsenal in EFL Cup - full fourth-round draw",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqd08y9dd5dko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "League Two side Fleetwood Town will host Premier League champions Arsenal in the fourth round of the EFL Cup.",
-        "publishedAt": "2026-09-16T21:57:04.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Flex your football brain with our daily quizzes",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ck5yl2jgz23jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-        "publishedAt": "2026-09-17T06:22:20.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,24 +2671,24 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
+        "title": "How an Aston Villa fringe player became Europe's most prolific scorer",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvj64wg0lgeyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
-        "publishedAt": "2026-09-16T23:31:38.000Z",
+        "description": "No player in Europe's top five leagues has scored more goals than Donyell Malen since his Roma debut in January - BBC Sport examines his transformation.",
+        "publishedAt": "2026-09-17T08:30:23.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Boehly and Walter sell Chelsea stakes to Clearlake",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvrl6egl1254o?at_medium=RSS&at_campaign=rss",
+        "title": "Real Madrid keen on Man Utd forward Gabriel, 15",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Clearlake Capital acquires full control of Chelsea as chairman Todd Boehly, director Mark Walter and Hansjorg Wyss sell their stakes in the club.",
-        "publishedAt": "2026-09-16T23:29:10.000Z",
+        "description": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
+        "publishedAt": "2026-09-17T07:52:32.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2704,6 +2704,50 @@
         "zone": "ca"
       },
       {
+        "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
+        "url": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
+        "publishedAt": "2026-09-17T11:05:29.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Six-time Grand Slam champion Salisbury retires",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c617j8qdk2v8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury retires from professional tennis.",
+        "publishedAt": "2026-09-17T10:29:52.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Traumatised Smith says he was 'thrown to wolves' over 'sandpapergate'",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c6e9e4nzd597o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Australia batter Steve Smith says he is still traumatised by the aftermath of the ball-tampering scandal in 2018 and still gets flashbacks.",
+        "publishedAt": "2026-09-17T09:31:54.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
+        "publishedAt": "2026-09-16T23:31:38.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Why dealing with defeat is key for Lampard at Coventry",
         "url": "https://www.bbc.co.uk/sport/football/articles/c3eqpz5zlzzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2713,74 +2757,41 @@
         "publishedAt": "2026-09-17T06:40:18.000Z",
         "category": "sports",
         "zone": "ca"
-      },
-      {
-        "title": "USA midfielder sues doctors after on-pitch heart attack",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6j4jlqgeejvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "United States women's national team player Savannah DeMelo is suing a hospital and two doctors after she suffered a heart attack on the pitch last year.",
-        "publishedAt": "2026-09-17T06:15:00.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Four-time F1 world champion Max Verstappen passes 100 amateur drivers in just 14 laps in an exhibition go-kart race at Silverstone.",
-        "publishedAt": "2026-09-17T06:12:30.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "League Two Fleetwood host Arsenal in EFL Cup - full fourth-round draw",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqd08y9dd5dko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "League Two side Fleetwood Town will host Premier League champions Arsenal in the fourth round of the EFL Cup.",
-        "publishedAt": "2026-09-16T21:57:04.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Flex your football brain with our daily quizzes",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ck5yl2jgz23jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-        "publishedAt": "2026-09-17T06:22:20.000Z",
-        "category": "sports",
-        "zone": "ca"
       }
     ]
   },
   "technology_us": {
     "articles": [
       {
-        "title": "Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC",
+        "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+        "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Representatives from tech firms such as Nvidia and OpenAI were also part of the summit.",
+        "publishedAt": "2026-09-17T12:58:18.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
+        "title": "Why are there concerns AI could threaten humanity, and how real are they?",
+        "url": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Existential fears about AI have once again reared their head - here's what you need to know.",
+        "publishedAt": "2026-09-17T09:18:57.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
+        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
         "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-        "publishedAt": "2026-09-17T06:38:43.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-        "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
-        "publishedAt": "2026-09-17T03:09:21.000Z",
+        "publishedAt": "2026-09-17T08:22:12.000Z",
         "category": "technology",
         "zone": "us"
       },
@@ -2836,17 +2847,6 @@
         },
         "description": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
         "publishedAt": "2026-09-14T23:07:56.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?",
-        "url": "https://www.bbc.co.uk/news/articles/cn8m1113ym1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC's Tom Gerken is hands-on with the latest virtual reality headset.",
-        "publishedAt": "2026-09-14T17:05:31.000Z",
         "category": "technology",
         "zone": "us"
       }
@@ -2855,24 +2855,35 @@
   "technology_gb": {
     "articles": [
       {
-        "title": "Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC",
+        "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+        "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Representatives from tech firms such as Nvidia and OpenAI were also part of the summit.",
+        "publishedAt": "2026-09-17T12:58:18.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
+        "title": "Why are there concerns AI could threaten humanity, and how real are they?",
+        "url": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Existential fears about AI have once again reared their head - here's what you need to know.",
+        "publishedAt": "2026-09-17T09:18:57.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
+        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
         "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-        "publishedAt": "2026-09-17T06:38:43.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-        "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
-        "publishedAt": "2026-09-17T03:09:21.000Z",
+        "publishedAt": "2026-09-17T08:22:12.000Z",
         "category": "technology",
         "zone": "gb"
       },
@@ -2928,17 +2939,6 @@
         },
         "description": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
         "publishedAt": "2026-09-14T23:07:56.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?",
-        "url": "https://www.bbc.co.uk/news/articles/cn8m1113ym1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC's Tom Gerken is hands-on with the latest virtual reality headset.",
-        "publishedAt": "2026-09-14T17:05:31.000Z",
         "category": "technology",
         "zone": "gb"
       }
@@ -2947,24 +2947,35 @@
   "technology_in": {
     "articles": [
       {
-        "title": "Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC",
+        "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+        "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Representatives from tech firms such as Nvidia and OpenAI were also part of the summit.",
+        "publishedAt": "2026-09-17T12:58:18.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
+        "title": "Why are there concerns AI could threaten humanity, and how real are they?",
+        "url": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Existential fears about AI have once again reared their head - here's what you need to know.",
+        "publishedAt": "2026-09-17T09:18:57.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
+        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
         "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-        "publishedAt": "2026-09-17T06:38:43.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-        "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
-        "publishedAt": "2026-09-17T03:09:21.000Z",
+        "publishedAt": "2026-09-17T08:22:12.000Z",
         "category": "technology",
         "zone": "in"
       },
@@ -3020,17 +3031,6 @@
         },
         "description": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
         "publishedAt": "2026-09-14T23:07:56.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?",
-        "url": "https://www.bbc.co.uk/news/articles/cn8m1113ym1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC's Tom Gerken is hands-on with the latest virtual reality headset.",
-        "publishedAt": "2026-09-14T17:05:31.000Z",
         "category": "technology",
         "zone": "in"
       }
@@ -3039,24 +3039,35 @@
   "technology_au": {
     "articles": [
       {
-        "title": "Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC",
+        "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+        "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Representatives from tech firms such as Nvidia and OpenAI were also part of the summit.",
+        "publishedAt": "2026-09-17T12:58:18.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
+        "title": "Why are there concerns AI could threaten humanity, and how real are they?",
+        "url": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Existential fears about AI have once again reared their head - here's what you need to know.",
+        "publishedAt": "2026-09-17T09:18:57.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
+        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
         "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-        "publishedAt": "2026-09-17T06:38:43.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-        "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
-        "publishedAt": "2026-09-17T03:09:21.000Z",
+        "publishedAt": "2026-09-17T08:22:12.000Z",
         "category": "technology",
         "zone": "au"
       },
@@ -3112,17 +3123,6 @@
         },
         "description": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
         "publishedAt": "2026-09-14T23:07:56.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?",
-        "url": "https://www.bbc.co.uk/news/articles/cn8m1113ym1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC's Tom Gerken is hands-on with the latest virtual reality headset.",
-        "publishedAt": "2026-09-14T17:05:31.000Z",
         "category": "technology",
         "zone": "au"
       }
@@ -3131,24 +3131,35 @@
   "technology_ca": {
     "articles": [
       {
-        "title": "Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC",
+        "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+        "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Representatives from tech firms such as Nvidia and OpenAI were also part of the summit.",
+        "publishedAt": "2026-09-17T12:58:18.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
+        "title": "Why are there concerns AI could threaten humanity, and how real are they?",
+        "url": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Existential fears about AI have once again reared their head - here's what you need to know.",
+        "publishedAt": "2026-09-17T09:18:57.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
+        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
         "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-        "publishedAt": "2026-09-17T06:38:43.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-        "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
-        "publishedAt": "2026-09-17T03:09:21.000Z",
+        "publishedAt": "2026-09-17T08:22:12.000Z",
         "category": "technology",
         "zone": "ca"
       },
@@ -3204,17 +3215,6 @@
         },
         "description": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
         "publishedAt": "2026-09-14T23:07:56.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?",
-        "url": "https://www.bbc.co.uk/news/articles/cn8m1113ym1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC's Tom Gerken is hands-on with the latest virtual reality headset.",
-        "publishedAt": "2026-09-14T17:05:31.000Z",
         "category": "technology",
         "zone": "ca"
       }
