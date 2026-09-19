@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-09-19T19:13:43.749Z",
+  "generatedAt": "2026-09-19T22:12:30.173Z",
   "general_us": {
     "articles": [
+      {
+        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+        "publishedAt": "2026-09-19T20:16:07.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
+        "publishedAt": "2026-09-19T20:11:35.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
         "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
@@ -14,28 +36,6 @@
         "zone": "us"
       },
       {
-        "title": "Major seaside hotel fire treated as suspicious",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
-        "publishedAt": "2026-09-19T16:43:21.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
-        "publishedAt": "2026-09-19T19:09:49.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
         "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
         "url": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -43,6 +43,17 @@
         },
         "description": "Lib Dem leader Ed Davey claimed the party was aiming to beat its 2024 record of 72 MPs in any snap election.",
         "publishedAt": "2026-09-19T18:03:30.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
+        "url": "https://www.bbc.co.uk/news/articles/c6m2rkx2evxmo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Emma Willis, Josh Widdicombe and Johannes Radebe take over from long-running presenting duo Tess Daly and Claudia Winkleman.",
+        "publishedAt": "2026-09-19T21:27:06.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -76,17 +87,6 @@
         },
         "description": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe.",
         "publishedAt": "2026-09-18T22:03:40.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Analysis: Trump escalates media fight after week of setbacks",
-        "url": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher.",
-        "publishedAt": "2026-09-19T17:23:37.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,6 +95,28 @@
   "general_gb": {
     "articles": [
       {
+        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+        "publishedAt": "2026-09-19T20:16:07.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
+        "publishedAt": "2026-09-19T20:11:35.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
         "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -106,28 +128,6 @@
         "zone": "gb"
       },
       {
-        "title": "Major seaside hotel fire treated as suspicious",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
-        "publishedAt": "2026-09-19T16:43:21.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
-        "publishedAt": "2026-09-19T19:09:49.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
         "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
         "url": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -135,6 +135,17 @@
         },
         "description": "Lib Dem leader Ed Davey claimed the party was aiming to beat its 2024 record of 72 MPs in any snap election.",
         "publishedAt": "2026-09-19T18:03:30.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
+        "url": "https://www.bbc.co.uk/news/articles/c6m2rkx2evxmo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Emma Willis, Josh Widdicombe and Johannes Radebe take over from long-running presenting duo Tess Daly and Claudia Winkleman.",
+        "publishedAt": "2026-09-19T21:27:06.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -168,17 +179,6 @@
         },
         "description": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe.",
         "publishedAt": "2026-09-18T22:03:40.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Analysis: Trump escalates media fight after week of setbacks",
-        "url": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher.",
-        "publishedAt": "2026-09-19T17:23:37.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,6 +187,28 @@
   "general_in": {
     "articles": [
       {
+        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+        "publishedAt": "2026-09-19T20:16:07.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
+        "publishedAt": "2026-09-19T20:11:35.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
         "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -198,28 +220,6 @@
         "zone": "in"
       },
       {
-        "title": "Major seaside hotel fire treated as suspicious",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
-        "publishedAt": "2026-09-19T16:43:21.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
-        "publishedAt": "2026-09-19T19:09:49.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
         "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
         "url": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -227,6 +227,17 @@
         },
         "description": "Lib Dem leader Ed Davey claimed the party was aiming to beat its 2024 record of 72 MPs in any snap election.",
         "publishedAt": "2026-09-19T18:03:30.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
+        "url": "https://www.bbc.co.uk/news/articles/c6m2rkx2evxmo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Emma Willis, Josh Widdicombe and Johannes Radebe take over from long-running presenting duo Tess Daly and Claudia Winkleman.",
+        "publishedAt": "2026-09-19T21:27:06.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -260,17 +271,6 @@
         },
         "description": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe.",
         "publishedAt": "2026-09-18T22:03:40.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Analysis: Trump escalates media fight after week of setbacks",
-        "url": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher.",
-        "publishedAt": "2026-09-19T17:23:37.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,6 +279,28 @@
   "general_au": {
     "articles": [
       {
+        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+        "publishedAt": "2026-09-19T20:16:07.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
+        "publishedAt": "2026-09-19T20:11:35.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
         "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -290,28 +312,6 @@
         "zone": "au"
       },
       {
-        "title": "Major seaside hotel fire treated as suspicious",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
-        "publishedAt": "2026-09-19T16:43:21.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
-        "publishedAt": "2026-09-19T19:09:49.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
         "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
         "url": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -319,6 +319,17 @@
         },
         "description": "Lib Dem leader Ed Davey claimed the party was aiming to beat its 2024 record of 72 MPs in any snap election.",
         "publishedAt": "2026-09-19T18:03:30.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
+        "url": "https://www.bbc.co.uk/news/articles/c6m2rkx2evxmo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Emma Willis, Josh Widdicombe and Johannes Radebe take over from long-running presenting duo Tess Daly and Claudia Winkleman.",
+        "publishedAt": "2026-09-19T21:27:06.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -352,17 +363,6 @@
         },
         "description": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe.",
         "publishedAt": "2026-09-18T22:03:40.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Analysis: Trump escalates media fight after week of setbacks",
-        "url": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher.",
-        "publishedAt": "2026-09-19T17:23:37.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,6 +371,28 @@
   "general_ca": {
     "articles": [
       {
+        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+        "publishedAt": "2026-09-19T20:16:07.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
+        "publishedAt": "2026-09-19T20:11:35.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
         "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -382,28 +404,6 @@
         "zone": "ca"
       },
       {
-        "title": "Major seaside hotel fire treated as suspicious",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
-        "publishedAt": "2026-09-19T16:43:21.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
-        "publishedAt": "2026-09-19T19:09:49.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
         "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
         "url": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -411,6 +411,17 @@
         },
         "description": "Lib Dem leader Ed Davey claimed the party was aiming to beat its 2024 record of 72 MPs in any snap election.",
         "publishedAt": "2026-09-19T18:03:30.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
+        "url": "https://www.bbc.co.uk/news/articles/c6m2rkx2evxmo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Emma Willis, Josh Widdicombe and Johannes Radebe take over from long-running presenting duo Tess Daly and Claudia Winkleman.",
+        "publishedAt": "2026-09-19T21:27:06.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -444,17 +455,6 @@
         },
         "description": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe.",
         "publishedAt": "2026-09-18T22:03:40.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Analysis: Trump escalates media fight after week of setbacks",
-        "url": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher.",
-        "publishedAt": "2026-09-19T17:23:37.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -2303,23 +2303,34 @@
   "sports_us": {
     "articles": [
       {
-        "title": "Brighton cruise past Arsenal to end the champion's perfect start",
+        "title": "Brighton cruise past Arsenal to end champions' perfect start",
         "url": "https://www.bbc.co.uk/sport/football/videos/cvde048j71rdo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Brighton secure a 3-0 victory over Premier League champions Arsenal to inflict the Gunners first defeat of the season, as the hosts celebrate their 125th anniversary.",
+        "description": "Brighton secure a 3-0 victory over Premier League champions Arsenal to inflict the Gunners' first defeat of the season.",
         "publishedAt": "2026-09-19T19:00:09.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Newcastle hold off Hull to seal win at St. James' Park",
+        "title": "Coventry earn first points of season in dramatic win over Forest",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmly4g0rqzwwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Jay Dasilva's strike proves the difference as Coventry earn their first Premier League win since returning to the top flight.",
+        "publishedAt": "2026-09-19T19:14:53.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Newcastle hold off Hull at St James' Park",
         "url": "https://www.bbc.co.uk/sport/football/videos/ckrer0yl0qjjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Newcastle United hold off a late Hull City fightback to seal a narrow 2-1 win, putting an end to the Tigers unbeaten start to the Premier League season.",
+        "description": "Newcastle United hold off a late Hull City fightback to seal a narrow 2-1 win.",
         "publishedAt": "2026-09-19T19:00:14.000Z",
         "category": "sports",
         "zone": "us"
@@ -2347,46 +2358,35 @@
         "zone": "us"
       },
       {
-        "title": "Brentford stay unbeaten as they put three past Chelsea",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
+        "title": "Brighton humbling 'a big lesson' for Arsenal - Arteta",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmqlw745q30vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.",
-        "publishedAt": "2026-09-18T22:00:19.000Z",
+        "description": "An uncharacteristic performance from Arsenal saw the Gunners ship three goals in the defeat to Brighton - but could the loss be the \"big lesson\" they needed?",
+        "publishedAt": "2026-09-19T19:05:18.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Frenetic draw with Canada ends England's 39-game winning run",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6eq8v70lpn9o?at_medium=RSS&at_campaign=rss",
+        "title": "From near oblivion to Europe - Brighton celebrate 125th anniversary in style",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm3wjl29qp4go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England's remarkable winning run comes to an end as they are held to a nail-biting 26-26 draw by Canada at Sandy Park.",
-        "publishedAt": "2026-09-19T17:32:21.000Z",
+        "description": "From obscurity and near oblivion to Premier League and Europe - Brighton celebrate their 125th anniversary.",
+        "publishedAt": "2026-09-19T16:41:34.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Ratcliffe 'must go' says Man Utd Muslim fan group",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw4663j9zo?at_medium=RSS&at_campaign=rss",
+        "title": "Hear'Say, 'Snake' & Tony Blair: A Coventry win 25 years in the making",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm209djp8d2xo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Manchester United Muslim Supporters Club says United co-owner Sir Jim Ratcliffe \"must go\" after he spoke out against immigration and said the country was \"on the slide\".",
-        "publishedAt": "2026-09-19T14:52:38.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "England crush Sri Lanka to top T20 world rankings",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England steamroller Sri Lanka in the third T20 to complete a 3-0 series clean sweep and return to number one in the world rankings.",
-        "publishedAt": "2026-09-19T16:28:22.000Z",
+        "description": "Coventry City's win over Nottingham Forest - thanks to Jay Dasilva's goal - was a victory which was over 25 years in the making following some dark days for the Sky Blues.",
+        "publishedAt": "2026-09-19T20:28:19.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,23 +2395,34 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "Brighton cruise past Arsenal to end the champion's perfect start",
+        "title": "Brighton cruise past Arsenal to end champions' perfect start",
         "url": "https://www.bbc.co.uk/sport/football/videos/cvde048j71rdo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Brighton secure a 3-0 victory over Premier League champions Arsenal to inflict the Gunners first defeat of the season, as the hosts celebrate their 125th anniversary.",
+        "description": "Brighton secure a 3-0 victory over Premier League champions Arsenal to inflict the Gunners' first defeat of the season.",
         "publishedAt": "2026-09-19T19:00:09.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Newcastle hold off Hull to seal win at St. James' Park",
+        "title": "Coventry earn first points of season in dramatic win over Forest",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmly4g0rqzwwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Jay Dasilva's strike proves the difference as Coventry earn their first Premier League win since returning to the top flight.",
+        "publishedAt": "2026-09-19T19:14:53.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Newcastle hold off Hull at St James' Park",
         "url": "https://www.bbc.co.uk/sport/football/videos/ckrer0yl0qjjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Newcastle United hold off a late Hull City fightback to seal a narrow 2-1 win, putting an end to the Tigers unbeaten start to the Premier League season.",
+        "description": "Newcastle United hold off a late Hull City fightback to seal a narrow 2-1 win.",
         "publishedAt": "2026-09-19T19:00:14.000Z",
         "category": "sports",
         "zone": "gb"
@@ -2439,46 +2450,35 @@
         "zone": "gb"
       },
       {
-        "title": "Brentford stay unbeaten as they put three past Chelsea",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
+        "title": "Brighton humbling 'a big lesson' for Arsenal - Arteta",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmqlw745q30vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.",
-        "publishedAt": "2026-09-18T22:00:19.000Z",
+        "description": "An uncharacteristic performance from Arsenal saw the Gunners ship three goals in the defeat to Brighton - but could the loss be the \"big lesson\" they needed?",
+        "publishedAt": "2026-09-19T19:05:18.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Frenetic draw with Canada ends England's 39-game winning run",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6eq8v70lpn9o?at_medium=RSS&at_campaign=rss",
+        "title": "From near oblivion to Europe - Brighton celebrate 125th anniversary in style",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm3wjl29qp4go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England's remarkable winning run comes to an end as they are held to a nail-biting 26-26 draw by Canada at Sandy Park.",
-        "publishedAt": "2026-09-19T17:32:21.000Z",
+        "description": "From obscurity and near oblivion to Premier League and Europe - Brighton celebrate their 125th anniversary.",
+        "publishedAt": "2026-09-19T16:41:34.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Ratcliffe 'must go' says Man Utd Muslim fan group",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw4663j9zo?at_medium=RSS&at_campaign=rss",
+        "title": "Hear'Say, 'Snake' & Tony Blair: A Coventry win 25 years in the making",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm209djp8d2xo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Manchester United Muslim Supporters Club says United co-owner Sir Jim Ratcliffe \"must go\" after he spoke out against immigration and said the country was \"on the slide\".",
-        "publishedAt": "2026-09-19T14:52:38.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "England crush Sri Lanka to top T20 world rankings",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England steamroller Sri Lanka in the third T20 to complete a 3-0 series clean sweep and return to number one in the world rankings.",
-        "publishedAt": "2026-09-19T16:28:22.000Z",
+        "description": "Coventry City's win over Nottingham Forest - thanks to Jay Dasilva's goal - was a victory which was over 25 years in the making following some dark days for the Sky Blues.",
+        "publishedAt": "2026-09-19T20:28:19.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,23 +2487,34 @@
   "sports_in": {
     "articles": [
       {
-        "title": "Brighton cruise past Arsenal to end the champion's perfect start",
+        "title": "Brighton cruise past Arsenal to end champions' perfect start",
         "url": "https://www.bbc.co.uk/sport/football/videos/cvde048j71rdo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Brighton secure a 3-0 victory over Premier League champions Arsenal to inflict the Gunners first defeat of the season, as the hosts celebrate their 125th anniversary.",
+        "description": "Brighton secure a 3-0 victory over Premier League champions Arsenal to inflict the Gunners' first defeat of the season.",
         "publishedAt": "2026-09-19T19:00:09.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Newcastle hold off Hull to seal win at St. James' Park",
+        "title": "Coventry earn first points of season in dramatic win over Forest",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmly4g0rqzwwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Jay Dasilva's strike proves the difference as Coventry earn their first Premier League win since returning to the top flight.",
+        "publishedAt": "2026-09-19T19:14:53.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Newcastle hold off Hull at St James' Park",
         "url": "https://www.bbc.co.uk/sport/football/videos/ckrer0yl0qjjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Newcastle United hold off a late Hull City fightback to seal a narrow 2-1 win, putting an end to the Tigers unbeaten start to the Premier League season.",
+        "description": "Newcastle United hold off a late Hull City fightback to seal a narrow 2-1 win.",
         "publishedAt": "2026-09-19T19:00:14.000Z",
         "category": "sports",
         "zone": "in"
@@ -2531,46 +2542,35 @@
         "zone": "in"
       },
       {
-        "title": "Brentford stay unbeaten as they put three past Chelsea",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
+        "title": "Brighton humbling 'a big lesson' for Arsenal - Arteta",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmqlw745q30vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.",
-        "publishedAt": "2026-09-18T22:00:19.000Z",
+        "description": "An uncharacteristic performance from Arsenal saw the Gunners ship three goals in the defeat to Brighton - but could the loss be the \"big lesson\" they needed?",
+        "publishedAt": "2026-09-19T19:05:18.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Frenetic draw with Canada ends England's 39-game winning run",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6eq8v70lpn9o?at_medium=RSS&at_campaign=rss",
+        "title": "From near oblivion to Europe - Brighton celebrate 125th anniversary in style",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm3wjl29qp4go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England's remarkable winning run comes to an end as they are held to a nail-biting 26-26 draw by Canada at Sandy Park.",
-        "publishedAt": "2026-09-19T17:32:21.000Z",
+        "description": "From obscurity and near oblivion to Premier League and Europe - Brighton celebrate their 125th anniversary.",
+        "publishedAt": "2026-09-19T16:41:34.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Ratcliffe 'must go' says Man Utd Muslim fan group",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw4663j9zo?at_medium=RSS&at_campaign=rss",
+        "title": "Hear'Say, 'Snake' & Tony Blair: A Coventry win 25 years in the making",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm209djp8d2xo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Manchester United Muslim Supporters Club says United co-owner Sir Jim Ratcliffe \"must go\" after he spoke out against immigration and said the country was \"on the slide\".",
-        "publishedAt": "2026-09-19T14:52:38.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "England crush Sri Lanka to top T20 world rankings",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England steamroller Sri Lanka in the third T20 to complete a 3-0 series clean sweep and return to number one in the world rankings.",
-        "publishedAt": "2026-09-19T16:28:22.000Z",
+        "description": "Coventry City's win over Nottingham Forest - thanks to Jay Dasilva's goal - was a victory which was over 25 years in the making following some dark days for the Sky Blues.",
+        "publishedAt": "2026-09-19T20:28:19.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,23 +2579,34 @@
   "sports_au": {
     "articles": [
       {
-        "title": "Brighton cruise past Arsenal to end the champion's perfect start",
+        "title": "Brighton cruise past Arsenal to end champions' perfect start",
         "url": "https://www.bbc.co.uk/sport/football/videos/cvde048j71rdo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Brighton secure a 3-0 victory over Premier League champions Arsenal to inflict the Gunners first defeat of the season, as the hosts celebrate their 125th anniversary.",
+        "description": "Brighton secure a 3-0 victory over Premier League champions Arsenal to inflict the Gunners' first defeat of the season.",
         "publishedAt": "2026-09-19T19:00:09.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Newcastle hold off Hull to seal win at St. James' Park",
+        "title": "Coventry earn first points of season in dramatic win over Forest",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmly4g0rqzwwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Jay Dasilva's strike proves the difference as Coventry earn their first Premier League win since returning to the top flight.",
+        "publishedAt": "2026-09-19T19:14:53.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Newcastle hold off Hull at St James' Park",
         "url": "https://www.bbc.co.uk/sport/football/videos/ckrer0yl0qjjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Newcastle United hold off a late Hull City fightback to seal a narrow 2-1 win, putting an end to the Tigers unbeaten start to the Premier League season.",
+        "description": "Newcastle United hold off a late Hull City fightback to seal a narrow 2-1 win.",
         "publishedAt": "2026-09-19T19:00:14.000Z",
         "category": "sports",
         "zone": "au"
@@ -2623,46 +2634,35 @@
         "zone": "au"
       },
       {
-        "title": "Brentford stay unbeaten as they put three past Chelsea",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
+        "title": "Brighton humbling 'a big lesson' for Arsenal - Arteta",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmqlw745q30vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.",
-        "publishedAt": "2026-09-18T22:00:19.000Z",
+        "description": "An uncharacteristic performance from Arsenal saw the Gunners ship three goals in the defeat to Brighton - but could the loss be the \"big lesson\" they needed?",
+        "publishedAt": "2026-09-19T19:05:18.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Frenetic draw with Canada ends England's 39-game winning run",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6eq8v70lpn9o?at_medium=RSS&at_campaign=rss",
+        "title": "From near oblivion to Europe - Brighton celebrate 125th anniversary in style",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm3wjl29qp4go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England's remarkable winning run comes to an end as they are held to a nail-biting 26-26 draw by Canada at Sandy Park.",
-        "publishedAt": "2026-09-19T17:32:21.000Z",
+        "description": "From obscurity and near oblivion to Premier League and Europe - Brighton celebrate their 125th anniversary.",
+        "publishedAt": "2026-09-19T16:41:34.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Ratcliffe 'must go' says Man Utd Muslim fan group",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw4663j9zo?at_medium=RSS&at_campaign=rss",
+        "title": "Hear'Say, 'Snake' & Tony Blair: A Coventry win 25 years in the making",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm209djp8d2xo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Manchester United Muslim Supporters Club says United co-owner Sir Jim Ratcliffe \"must go\" after he spoke out against immigration and said the country was \"on the slide\".",
-        "publishedAt": "2026-09-19T14:52:38.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "England crush Sri Lanka to top T20 world rankings",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England steamroller Sri Lanka in the third T20 to complete a 3-0 series clean sweep and return to number one in the world rankings.",
-        "publishedAt": "2026-09-19T16:28:22.000Z",
+        "description": "Coventry City's win over Nottingham Forest - thanks to Jay Dasilva's goal - was a victory which was over 25 years in the making following some dark days for the Sky Blues.",
+        "publishedAt": "2026-09-19T20:28:19.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,23 +2671,34 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "Brighton cruise past Arsenal to end the champion's perfect start",
+        "title": "Brighton cruise past Arsenal to end champions' perfect start",
         "url": "https://www.bbc.co.uk/sport/football/videos/cvde048j71rdo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Brighton secure a 3-0 victory over Premier League champions Arsenal to inflict the Gunners first defeat of the season, as the hosts celebrate their 125th anniversary.",
+        "description": "Brighton secure a 3-0 victory over Premier League champions Arsenal to inflict the Gunners' first defeat of the season.",
         "publishedAt": "2026-09-19T19:00:09.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Newcastle hold off Hull to seal win at St. James' Park",
+        "title": "Coventry earn first points of season in dramatic win over Forest",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmly4g0rqzwwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Jay Dasilva's strike proves the difference as Coventry earn their first Premier League win since returning to the top flight.",
+        "publishedAt": "2026-09-19T19:14:53.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Newcastle hold off Hull at St James' Park",
         "url": "https://www.bbc.co.uk/sport/football/videos/ckrer0yl0qjjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Newcastle United hold off a late Hull City fightback to seal a narrow 2-1 win, putting an end to the Tigers unbeaten start to the Premier League season.",
+        "description": "Newcastle United hold off a late Hull City fightback to seal a narrow 2-1 win.",
         "publishedAt": "2026-09-19T19:00:14.000Z",
         "category": "sports",
         "zone": "ca"
@@ -2715,46 +2726,35 @@
         "zone": "ca"
       },
       {
-        "title": "Brentford stay unbeaten as they put three past Chelsea",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
+        "title": "Brighton humbling 'a big lesson' for Arsenal - Arteta",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmqlw745q30vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.",
-        "publishedAt": "2026-09-18T22:00:19.000Z",
+        "description": "An uncharacteristic performance from Arsenal saw the Gunners ship three goals in the defeat to Brighton - but could the loss be the \"big lesson\" they needed?",
+        "publishedAt": "2026-09-19T19:05:18.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Frenetic draw with Canada ends England's 39-game winning run",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6eq8v70lpn9o?at_medium=RSS&at_campaign=rss",
+        "title": "From near oblivion to Europe - Brighton celebrate 125th anniversary in style",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm3wjl29qp4go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England's remarkable winning run comes to an end as they are held to a nail-biting 26-26 draw by Canada at Sandy Park.",
-        "publishedAt": "2026-09-19T17:32:21.000Z",
+        "description": "From obscurity and near oblivion to Premier League and Europe - Brighton celebrate their 125th anniversary.",
+        "publishedAt": "2026-09-19T16:41:34.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Ratcliffe 'must go' says Man Utd Muslim fan group",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw4663j9zo?at_medium=RSS&at_campaign=rss",
+        "title": "Hear'Say, 'Snake' & Tony Blair: A Coventry win 25 years in the making",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm209djp8d2xo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Manchester United Muslim Supporters Club says United co-owner Sir Jim Ratcliffe \"must go\" after he spoke out against immigration and said the country was \"on the slide\".",
-        "publishedAt": "2026-09-19T14:52:38.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "England crush Sri Lanka to top T20 world rankings",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England steamroller Sri Lanka in the third T20 to complete a 3-0 series clean sweep and return to number one in the world rankings.",
-        "publishedAt": "2026-09-19T16:28:22.000Z",
+        "description": "Coventry City's win over Nottingham Forest - thanks to Jay Dasilva's goal - was a victory which was over 25 years in the making following some dark days for the Sky Blues.",
+        "publishedAt": "2026-09-19T20:28:19.000Z",
         "category": "sports",
         "zone": "ca"
       }
