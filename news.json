@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T16:20:56.585Z",
+  "generatedAt": "2026-09-19T19:13:43.749Z",
   "general_us": {
     "articles": [
       {
@@ -14,24 +14,35 @@
         "zone": "us"
       },
       {
+        "title": "Major seaside hotel fire treated as suspicious",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
+        "publishedAt": "2026-09-19T16:43:21.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
+        "publishedAt": "2026-09-19T19:09:49.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
         "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
         "url": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Lib Dem leader Ed Davey claimed the party was aiming to beat its 2024 record of 72 MPs in any snap election.",
-        "publishedAt": "2026-09-19T15:00:32.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Journalists report being denied White House access after Trump bans some outlets",
-        "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-        "publishedAt": "2026-09-19T15:19:39.000Z",
+        "publishedAt": "2026-09-19T18:03:30.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -43,28 +54,6 @@
         },
         "description": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
         "publishedAt": "2026-09-18T15:59:21.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Smoke seen near Riyadh airport after air raid alerts in Saudi capital",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
-        "publishedAt": "2026-09-19T14:43:46.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
-        "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
-        "publishedAt": "2026-09-18T23:04:41.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -87,6 +76,17 @@
         },
         "description": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe.",
         "publishedAt": "2026-09-18T22:03:40.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Analysis: Trump escalates media fight after week of setbacks",
+        "url": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher.",
+        "publishedAt": "2026-09-19T17:23:37.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -106,24 +106,35 @@
         "zone": "gb"
       },
       {
+        "title": "Major seaside hotel fire treated as suspicious",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
+        "publishedAt": "2026-09-19T16:43:21.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
+        "publishedAt": "2026-09-19T19:09:49.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
         "url": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Lib Dem leader Ed Davey claimed the party was aiming to beat its 2024 record of 72 MPs in any snap election.",
-        "publishedAt": "2026-09-19T15:00:32.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Journalists report being denied White House access after Trump bans some outlets",
-        "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-        "publishedAt": "2026-09-19T15:19:39.000Z",
+        "publishedAt": "2026-09-19T18:03:30.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -135,28 +146,6 @@
         },
         "description": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
         "publishedAt": "2026-09-18T15:59:21.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Smoke seen near Riyadh airport after air raid alerts in Saudi capital",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
-        "publishedAt": "2026-09-19T14:43:46.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
-        "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
-        "publishedAt": "2026-09-18T23:04:41.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -179,6 +168,17 @@
         },
         "description": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe.",
         "publishedAt": "2026-09-18T22:03:40.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Analysis: Trump escalates media fight after week of setbacks",
+        "url": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher.",
+        "publishedAt": "2026-09-19T17:23:37.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -198,24 +198,35 @@
         "zone": "in"
       },
       {
+        "title": "Major seaside hotel fire treated as suspicious",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
+        "publishedAt": "2026-09-19T16:43:21.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
+        "publishedAt": "2026-09-19T19:09:49.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
         "url": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Lib Dem leader Ed Davey claimed the party was aiming to beat its 2024 record of 72 MPs in any snap election.",
-        "publishedAt": "2026-09-19T15:00:32.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Journalists report being denied White House access after Trump bans some outlets",
-        "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-        "publishedAt": "2026-09-19T15:19:39.000Z",
+        "publishedAt": "2026-09-19T18:03:30.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -227,28 +238,6 @@
         },
         "description": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
         "publishedAt": "2026-09-18T15:59:21.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Smoke seen near Riyadh airport after air raid alerts in Saudi capital",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
-        "publishedAt": "2026-09-19T14:43:46.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
-        "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
-        "publishedAt": "2026-09-18T23:04:41.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -271,6 +260,17 @@
         },
         "description": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe.",
         "publishedAt": "2026-09-18T22:03:40.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Analysis: Trump escalates media fight after week of setbacks",
+        "url": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher.",
+        "publishedAt": "2026-09-19T17:23:37.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -290,24 +290,35 @@
         "zone": "au"
       },
       {
+        "title": "Major seaside hotel fire treated as suspicious",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
+        "publishedAt": "2026-09-19T16:43:21.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
+        "publishedAt": "2026-09-19T19:09:49.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
         "url": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Lib Dem leader Ed Davey claimed the party was aiming to beat its 2024 record of 72 MPs in any snap election.",
-        "publishedAt": "2026-09-19T15:00:32.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Journalists report being denied White House access after Trump bans some outlets",
-        "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-        "publishedAt": "2026-09-19T15:19:39.000Z",
+        "publishedAt": "2026-09-19T18:03:30.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -319,28 +330,6 @@
         },
         "description": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
         "publishedAt": "2026-09-18T15:59:21.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Smoke seen near Riyadh airport after air raid alerts in Saudi capital",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
-        "publishedAt": "2026-09-19T14:43:46.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
-        "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
-        "publishedAt": "2026-09-18T23:04:41.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -363,6 +352,17 @@
         },
         "description": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe.",
         "publishedAt": "2026-09-18T22:03:40.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Analysis: Trump escalates media fight after week of setbacks",
+        "url": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher.",
+        "publishedAt": "2026-09-19T17:23:37.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -382,24 +382,35 @@
         "zone": "ca"
       },
       {
+        "title": "Major seaside hotel fire treated as suspicious",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
+        "publishedAt": "2026-09-19T16:43:21.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
+        "publishedAt": "2026-09-19T19:09:49.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
         "url": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Lib Dem leader Ed Davey claimed the party was aiming to beat its 2024 record of 72 MPs in any snap election.",
-        "publishedAt": "2026-09-19T15:00:32.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Journalists report being denied White House access after Trump bans some outlets",
-        "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-        "publishedAt": "2026-09-19T15:19:39.000Z",
+        "publishedAt": "2026-09-19T18:03:30.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -411,28 +422,6 @@
         },
         "description": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
         "publishedAt": "2026-09-18T15:59:21.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Smoke seen near Riyadh airport after air raid alerts in Saudi capital",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
-        "publishedAt": "2026-09-19T14:43:46.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
-        "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
-        "publishedAt": "2026-09-18T23:04:41.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -455,6 +444,17 @@
         },
         "description": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe.",
         "publishedAt": "2026-09-18T22:03:40.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Analysis: Trump escalates media fight after week of setbacks",
+        "url": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher.",
+        "publishedAt": "2026-09-19T17:23:37.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -2303,13 +2303,68 @@
   "sports_us": {
     "articles": [
       {
-        "title": "Canada end England's winning run in frenetic draw",
+        "title": "Brighton cruise past Arsenal to end the champion's perfect start",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cvde048j71rdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Brighton secure a 3-0 victory over Premier League champions Arsenal to inflict the Gunners first defeat of the season, as the hosts celebrate their 125th anniversary.",
+        "publishedAt": "2026-09-19T19:00:09.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Newcastle hold off Hull to seal win at St. James' Park",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckrer0yl0qjjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Newcastle United hold off a late Hull City fightback to seal a narrow 2-1 win, putting an end to the Tigers unbeaten start to the Premier League season.",
+        "publishedAt": "2026-09-19T19:00:14.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Everton's unbeaten run continues with win over 10-man Ipswich",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmvgy397e5qzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Unbeaten Everton move up to fifth in the Premier League, with Thierno Barry's goal making the difference against 10-man Ipswich Town.",
+        "publishedAt": "2026-09-19T19:00:21.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Spurs lose again as Villa hold on for first league win",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c3j4jz7pgq5lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Aston Villa pick up their first win of the Premier League season after five matches, holding off a late push from a Tottenham Hotspur side who remain without a win in the league.",
+        "publishedAt": "2026-09-19T19:00:02.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Brentford stay unbeaten as they put three past Chelsea",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.",
+        "publishedAt": "2026-09-18T22:00:19.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Frenetic draw with Canada ends England's 39-game winning run",
         "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6eq8v70lpn9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "England's remarkable winning run comes to an end as they are held to a nail-biting 26-26 draw by Canada at Sandy Park.",
-        "publishedAt": "2026-09-19T16:05:16.000Z",
+        "publishedAt": "2026-09-19T17:32:21.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2325,68 +2380,13 @@
         "zone": "us"
       },
       {
-        "title": "No revival in sight for 'fragile' Spurs after Villa defeat",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ck5ywlqxyvv2o?at_medium=RSS&at_campaign=rss",
+        "title": "England crush Sri Lanka to top T20 world rankings",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Tottenham look no closer to solving their problems as they slip to a home defeat by Aston Villa to add to their Premier League misery.",
-        "publishedAt": "2026-09-19T15:33:20.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Tottenham need 'blood & fight' not just to play better - de Zerbi",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6x2zg9ry9geo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Spurs head coach Roberto de Zerbi says his side \"have to be stronger\" following their loss against Aston Villa in the Premier League, focusing on the squad's \"behaviour\" rather than their quality.",
-        "publishedAt": "2026-09-19T14:38:17.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Goodwin double helps London City win at struggling Charlton",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cxnvl60le139o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "London City Lionesses earn their first away win of the season, with Isobel Goodwin scoring twice, as they emphatically beat a struggling Charlton side who have now lost all three of their WSL games.",
-        "publishedAt": "2026-09-19T13:52:53.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Emery praises Jackson & Suzuki after 'fantastic' win at Spurs",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cmwyzg4ep1wlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Aston Villa manager Unai Emery admires his side's resilience in their 3-2 away victory against Tottenham Hotspur in the Premier League, highlighting the performances of striker Nicolas Jackson and goalkeeper Zion Suzuki.",
-        "publishedAt": "2026-09-19T14:17:07.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "100 years on, is time up for Milan's iconic San Siro?",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c0q4k74kvy5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "As the iconic home of AC Milan and Inter Milan turns 100, BBC Sport visits the San Siro - the venue for the recent Winter Olympics opening ceremony, to find out why that could have been the last global event held at the stadium, and what comes next.",
-        "publishedAt": "2026-02-04T08:43:06.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Brentford stay unbeaten as they put three past Chelsea",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.",
-        "publishedAt": "2026-09-18T22:00:19.000Z",
+        "description": "England steamroller Sri Lanka in the third T20 to complete a 3-0 series clean sweep and return to number one in the world rankings.",
+        "publishedAt": "2026-09-19T16:28:22.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,13 +2395,68 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "Canada end England's winning run in frenetic draw",
+        "title": "Brighton cruise past Arsenal to end the champion's perfect start",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cvde048j71rdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Brighton secure a 3-0 victory over Premier League champions Arsenal to inflict the Gunners first defeat of the season, as the hosts celebrate their 125th anniversary.",
+        "publishedAt": "2026-09-19T19:00:09.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Newcastle hold off Hull to seal win at St. James' Park",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckrer0yl0qjjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Newcastle United hold off a late Hull City fightback to seal a narrow 2-1 win, putting an end to the Tigers unbeaten start to the Premier League season.",
+        "publishedAt": "2026-09-19T19:00:14.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Everton's unbeaten run continues with win over 10-man Ipswich",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmvgy397e5qzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Unbeaten Everton move up to fifth in the Premier League, with Thierno Barry's goal making the difference against 10-man Ipswich Town.",
+        "publishedAt": "2026-09-19T19:00:21.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Spurs lose again as Villa hold on for first league win",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c3j4jz7pgq5lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Aston Villa pick up their first win of the Premier League season after five matches, holding off a late push from a Tottenham Hotspur side who remain without a win in the league.",
+        "publishedAt": "2026-09-19T19:00:02.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Brentford stay unbeaten as they put three past Chelsea",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.",
+        "publishedAt": "2026-09-18T22:00:19.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Frenetic draw with Canada ends England's 39-game winning run",
         "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6eq8v70lpn9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "England's remarkable winning run comes to an end as they are held to a nail-biting 26-26 draw by Canada at Sandy Park.",
-        "publishedAt": "2026-09-19T16:05:16.000Z",
+        "publishedAt": "2026-09-19T17:32:21.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2417,68 +2472,13 @@
         "zone": "gb"
       },
       {
-        "title": "No revival in sight for 'fragile' Spurs after Villa defeat",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ck5ywlqxyvv2o?at_medium=RSS&at_campaign=rss",
+        "title": "England crush Sri Lanka to top T20 world rankings",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Tottenham look no closer to solving their problems as they slip to a home defeat by Aston Villa to add to their Premier League misery.",
-        "publishedAt": "2026-09-19T15:33:20.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Tottenham need 'blood & fight' not just to play better - de Zerbi",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6x2zg9ry9geo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Spurs head coach Roberto de Zerbi says his side \"have to be stronger\" following their loss against Aston Villa in the Premier League, focusing on the squad's \"behaviour\" rather than their quality.",
-        "publishedAt": "2026-09-19T14:38:17.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Goodwin double helps London City win at struggling Charlton",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cxnvl60le139o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "London City Lionesses earn their first away win of the season, with Isobel Goodwin scoring twice, as they emphatically beat a struggling Charlton side who have now lost all three of their WSL games.",
-        "publishedAt": "2026-09-19T13:52:53.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Emery praises Jackson & Suzuki after 'fantastic' win at Spurs",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cmwyzg4ep1wlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Aston Villa manager Unai Emery admires his side's resilience in their 3-2 away victory against Tottenham Hotspur in the Premier League, highlighting the performances of striker Nicolas Jackson and goalkeeper Zion Suzuki.",
-        "publishedAt": "2026-09-19T14:17:07.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "100 years on, is time up for Milan's iconic San Siro?",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c0q4k74kvy5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "As the iconic home of AC Milan and Inter Milan turns 100, BBC Sport visits the San Siro - the venue for the recent Winter Olympics opening ceremony, to find out why that could have been the last global event held at the stadium, and what comes next.",
-        "publishedAt": "2026-02-04T08:43:06.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Brentford stay unbeaten as they put three past Chelsea",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.",
-        "publishedAt": "2026-09-18T22:00:19.000Z",
+        "description": "England steamroller Sri Lanka in the third T20 to complete a 3-0 series clean sweep and return to number one in the world rankings.",
+        "publishedAt": "2026-09-19T16:28:22.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,13 +2487,68 @@
   "sports_in": {
     "articles": [
       {
-        "title": "Canada end England's winning run in frenetic draw",
+        "title": "Brighton cruise past Arsenal to end the champion's perfect start",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cvde048j71rdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Brighton secure a 3-0 victory over Premier League champions Arsenal to inflict the Gunners first defeat of the season, as the hosts celebrate their 125th anniversary.",
+        "publishedAt": "2026-09-19T19:00:09.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Newcastle hold off Hull to seal win at St. James' Park",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckrer0yl0qjjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Newcastle United hold off a late Hull City fightback to seal a narrow 2-1 win, putting an end to the Tigers unbeaten start to the Premier League season.",
+        "publishedAt": "2026-09-19T19:00:14.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Everton's unbeaten run continues with win over 10-man Ipswich",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmvgy397e5qzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Unbeaten Everton move up to fifth in the Premier League, with Thierno Barry's goal making the difference against 10-man Ipswich Town.",
+        "publishedAt": "2026-09-19T19:00:21.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Spurs lose again as Villa hold on for first league win",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c3j4jz7pgq5lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Aston Villa pick up their first win of the Premier League season after five matches, holding off a late push from a Tottenham Hotspur side who remain without a win in the league.",
+        "publishedAt": "2026-09-19T19:00:02.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Brentford stay unbeaten as they put three past Chelsea",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.",
+        "publishedAt": "2026-09-18T22:00:19.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Frenetic draw with Canada ends England's 39-game winning run",
         "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6eq8v70lpn9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "England's remarkable winning run comes to an end as they are held to a nail-biting 26-26 draw by Canada at Sandy Park.",
-        "publishedAt": "2026-09-19T16:05:16.000Z",
+        "publishedAt": "2026-09-19T17:32:21.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2509,68 +2564,13 @@
         "zone": "in"
       },
       {
-        "title": "No revival in sight for 'fragile' Spurs after Villa defeat",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ck5ywlqxyvv2o?at_medium=RSS&at_campaign=rss",
+        "title": "England crush Sri Lanka to top T20 world rankings",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Tottenham look no closer to solving their problems as they slip to a home defeat by Aston Villa to add to their Premier League misery.",
-        "publishedAt": "2026-09-19T15:33:20.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Tottenham need 'blood & fight' not just to play better - de Zerbi",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6x2zg9ry9geo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Spurs head coach Roberto de Zerbi says his side \"have to be stronger\" following their loss against Aston Villa in the Premier League, focusing on the squad's \"behaviour\" rather than their quality.",
-        "publishedAt": "2026-09-19T14:38:17.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Goodwin double helps London City win at struggling Charlton",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cxnvl60le139o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "London City Lionesses earn their first away win of the season, with Isobel Goodwin scoring twice, as they emphatically beat a struggling Charlton side who have now lost all three of their WSL games.",
-        "publishedAt": "2026-09-19T13:52:53.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Emery praises Jackson & Suzuki after 'fantastic' win at Spurs",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cmwyzg4ep1wlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Aston Villa manager Unai Emery admires his side's resilience in their 3-2 away victory against Tottenham Hotspur in the Premier League, highlighting the performances of striker Nicolas Jackson and goalkeeper Zion Suzuki.",
-        "publishedAt": "2026-09-19T14:17:07.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "100 years on, is time up for Milan's iconic San Siro?",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c0q4k74kvy5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "As the iconic home of AC Milan and Inter Milan turns 100, BBC Sport visits the San Siro - the venue for the recent Winter Olympics opening ceremony, to find out why that could have been the last global event held at the stadium, and what comes next.",
-        "publishedAt": "2026-02-04T08:43:06.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Brentford stay unbeaten as they put three past Chelsea",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.",
-        "publishedAt": "2026-09-18T22:00:19.000Z",
+        "description": "England steamroller Sri Lanka in the third T20 to complete a 3-0 series clean sweep and return to number one in the world rankings.",
+        "publishedAt": "2026-09-19T16:28:22.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,13 +2579,68 @@
   "sports_au": {
     "articles": [
       {
-        "title": "Canada end England's winning run in frenetic draw",
+        "title": "Brighton cruise past Arsenal to end the champion's perfect start",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cvde048j71rdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Brighton secure a 3-0 victory over Premier League champions Arsenal to inflict the Gunners first defeat of the season, as the hosts celebrate their 125th anniversary.",
+        "publishedAt": "2026-09-19T19:00:09.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Newcastle hold off Hull to seal win at St. James' Park",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckrer0yl0qjjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Newcastle United hold off a late Hull City fightback to seal a narrow 2-1 win, putting an end to the Tigers unbeaten start to the Premier League season.",
+        "publishedAt": "2026-09-19T19:00:14.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Everton's unbeaten run continues with win over 10-man Ipswich",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmvgy397e5qzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Unbeaten Everton move up to fifth in the Premier League, with Thierno Barry's goal making the difference against 10-man Ipswich Town.",
+        "publishedAt": "2026-09-19T19:00:21.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Spurs lose again as Villa hold on for first league win",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c3j4jz7pgq5lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Aston Villa pick up their first win of the Premier League season after five matches, holding off a late push from a Tottenham Hotspur side who remain without a win in the league.",
+        "publishedAt": "2026-09-19T19:00:02.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Brentford stay unbeaten as they put three past Chelsea",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.",
+        "publishedAt": "2026-09-18T22:00:19.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Frenetic draw with Canada ends England's 39-game winning run",
         "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6eq8v70lpn9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "England's remarkable winning run comes to an end as they are held to a nail-biting 26-26 draw by Canada at Sandy Park.",
-        "publishedAt": "2026-09-19T16:05:16.000Z",
+        "publishedAt": "2026-09-19T17:32:21.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2601,68 +2656,13 @@
         "zone": "au"
       },
       {
-        "title": "No revival in sight for 'fragile' Spurs after Villa defeat",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ck5ywlqxyvv2o?at_medium=RSS&at_campaign=rss",
+        "title": "England crush Sri Lanka to top T20 world rankings",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Tottenham look no closer to solving their problems as they slip to a home defeat by Aston Villa to add to their Premier League misery.",
-        "publishedAt": "2026-09-19T15:33:20.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Tottenham need 'blood & fight' not just to play better - de Zerbi",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6x2zg9ry9geo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Spurs head coach Roberto de Zerbi says his side \"have to be stronger\" following their loss against Aston Villa in the Premier League, focusing on the squad's \"behaviour\" rather than their quality.",
-        "publishedAt": "2026-09-19T14:38:17.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Goodwin double helps London City win at struggling Charlton",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cxnvl60le139o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "London City Lionesses earn their first away win of the season, with Isobel Goodwin scoring twice, as they emphatically beat a struggling Charlton side who have now lost all three of their WSL games.",
-        "publishedAt": "2026-09-19T13:52:53.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Emery praises Jackson & Suzuki after 'fantastic' win at Spurs",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cmwyzg4ep1wlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Aston Villa manager Unai Emery admires his side's resilience in their 3-2 away victory against Tottenham Hotspur in the Premier League, highlighting the performances of striker Nicolas Jackson and goalkeeper Zion Suzuki.",
-        "publishedAt": "2026-09-19T14:17:07.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "100 years on, is time up for Milan's iconic San Siro?",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c0q4k74kvy5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "As the iconic home of AC Milan and Inter Milan turns 100, BBC Sport visits the San Siro - the venue for the recent Winter Olympics opening ceremony, to find out why that could have been the last global event held at the stadium, and what comes next.",
-        "publishedAt": "2026-02-04T08:43:06.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Brentford stay unbeaten as they put three past Chelsea",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.",
-        "publishedAt": "2026-09-18T22:00:19.000Z",
+        "description": "England steamroller Sri Lanka in the third T20 to complete a 3-0 series clean sweep and return to number one in the world rankings.",
+        "publishedAt": "2026-09-19T16:28:22.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,13 +2671,68 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "Canada end England's winning run in frenetic draw",
+        "title": "Brighton cruise past Arsenal to end the champion's perfect start",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cvde048j71rdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Brighton secure a 3-0 victory over Premier League champions Arsenal to inflict the Gunners first defeat of the season, as the hosts celebrate their 125th anniversary.",
+        "publishedAt": "2026-09-19T19:00:09.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Newcastle hold off Hull to seal win at St. James' Park",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckrer0yl0qjjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Newcastle United hold off a late Hull City fightback to seal a narrow 2-1 win, putting an end to the Tigers unbeaten start to the Premier League season.",
+        "publishedAt": "2026-09-19T19:00:14.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Everton's unbeaten run continues with win over 10-man Ipswich",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmvgy397e5qzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Unbeaten Everton move up to fifth in the Premier League, with Thierno Barry's goal making the difference against 10-man Ipswich Town.",
+        "publishedAt": "2026-09-19T19:00:21.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Spurs lose again as Villa hold on for first league win",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c3j4jz7pgq5lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Aston Villa pick up their first win of the Premier League season after five matches, holding off a late push from a Tottenham Hotspur side who remain without a win in the league.",
+        "publishedAt": "2026-09-19T19:00:02.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Brentford stay unbeaten as they put three past Chelsea",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.",
+        "publishedAt": "2026-09-18T22:00:19.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Frenetic draw with Canada ends England's 39-game winning run",
         "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6eq8v70lpn9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "England's remarkable winning run comes to an end as they are held to a nail-biting 26-26 draw by Canada at Sandy Park.",
-        "publishedAt": "2026-09-19T16:05:16.000Z",
+        "publishedAt": "2026-09-19T17:32:21.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2693,68 +2748,13 @@
         "zone": "ca"
       },
       {
-        "title": "No revival in sight for 'fragile' Spurs after Villa defeat",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ck5ywlqxyvv2o?at_medium=RSS&at_campaign=rss",
+        "title": "England crush Sri Lanka to top T20 world rankings",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Tottenham look no closer to solving their problems as they slip to a home defeat by Aston Villa to add to their Premier League misery.",
-        "publishedAt": "2026-09-19T15:33:20.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Tottenham need 'blood & fight' not just to play better - de Zerbi",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6x2zg9ry9geo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Spurs head coach Roberto de Zerbi says his side \"have to be stronger\" following their loss against Aston Villa in the Premier League, focusing on the squad's \"behaviour\" rather than their quality.",
-        "publishedAt": "2026-09-19T14:38:17.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Goodwin double helps London City win at struggling Charlton",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cxnvl60le139o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "London City Lionesses earn their first away win of the season, with Isobel Goodwin scoring twice, as they emphatically beat a struggling Charlton side who have now lost all three of their WSL games.",
-        "publishedAt": "2026-09-19T13:52:53.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Emery praises Jackson & Suzuki after 'fantastic' win at Spurs",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cmwyzg4ep1wlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Aston Villa manager Unai Emery admires his side's resilience in their 3-2 away victory against Tottenham Hotspur in the Premier League, highlighting the performances of striker Nicolas Jackson and goalkeeper Zion Suzuki.",
-        "publishedAt": "2026-09-19T14:17:07.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "100 years on, is time up for Milan's iconic San Siro?",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c0q4k74kvy5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "As the iconic home of AC Milan and Inter Milan turns 100, BBC Sport visits the San Siro - the venue for the recent Winter Olympics opening ceremony, to find out why that could have been the last global event held at the stadium, and what comes next.",
-        "publishedAt": "2026-02-04T08:43:06.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Brentford stay unbeaten as they put three past Chelsea",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.",
-        "publishedAt": "2026-09-18T22:00:19.000Z",
+        "description": "England steamroller Sri Lanka in the third T20 to complete a 3-0 series clean sweep and return to number one in the world rankings.",
+        "publishedAt": "2026-09-19T16:28:22.000Z",
         "category": "sports",
         "zone": "ca"
       }
