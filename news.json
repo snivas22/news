@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T20:50:48.373Z",
+  "generatedAt": "2026-09-21T23:53:34.116Z",
   "general_us": {
     "articles": [
       {
@@ -10,6 +10,17 @@
         },
         "description": "Prime Minister Andy Burnham said further issues today \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
         "publishedAt": "2026-09-21T20:21:18.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says \"defensive air-to-air refuelling\" is to be provided following a request from Saudi Arabia, after it faced attacks from the Houthis in Yemen.",
+        "publishedAt": "2026-09-21T21:36:39.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -36,13 +47,24 @@
         "zone": "us"
       },
       {
-        "title": "Seventeen arrested in Teesside organised crime raids",
-        "url": "https://www.bbc.co.uk/news/articles/ckjrxpz03w8no?at_medium=RSS&at_campaign=rss",
+        "title": "Flights at major US airports delayed after cable cut by construction workers",
+        "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The raids across Teesside follow the A66 crash which killed two police officers and five men.",
-        "publishedAt": "2026-09-21T20:36:16.000Z",
+        "description": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
+        "publishedAt": "2026-09-21T23:25:28.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Watch: Police raid organised crime targets in Teesside",
+        "url": "https://www.bbc.co.uk/news/videos/c9x2z1m45vlno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Cleveland Police carried out one of their biggest raids in years, following the A66 crash that left two officers dead.",
+        "publishedAt": "2026-09-21T20:21:29.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -53,7 +75,7 @@
           "name": "RSS Feed"
         },
         "description": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
-        "publishedAt": "2026-09-21T15:58:53.000Z",
+        "publishedAt": "2026-09-21T22:48:33.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -63,30 +85,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fifa president Gianni Infantino has proposed an external review of the governance of world football's governing body.",
+        "description": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
         "publishedAt": "2026-09-21T19:50:57.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Man charged with causing death by dangerous driving over crash that killed 6",
-        "url": "https://www.bbc.co.uk/news/articles/cmqlwpkl72plo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Four members of the same family and a married couple on a motorbike died in the 2024 collision.",
-        "publishedAt": "2026-09-21T17:01:32.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Watch: Timelapse shows typhoon barrelling towards Japan",
-        "url": "https://www.bbc.co.uk/news/videos/cm0j3224p6j8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The typhoon is passing Japan's eastern coast, bringing major disruption and heavy rainfall in its wake.",
-        "publishedAt": "2026-09-21T16:52:12.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -106,6 +106,17 @@
         "zone": "gb"
       },
       {
+        "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says \"defensive air-to-air refuelling\" is to be provided following a request from Saudi Arabia, after it faced attacks from the Houthis in Yemen.",
+        "publishedAt": "2026-09-21T21:36:39.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
         "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -128,13 +139,24 @@
         "zone": "gb"
       },
       {
-        "title": "Seventeen arrested in Teesside organised crime raids",
-        "url": "https://www.bbc.co.uk/news/articles/ckjrxpz03w8no?at_medium=RSS&at_campaign=rss",
+        "title": "Flights at major US airports delayed after cable cut by construction workers",
+        "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The raids across Teesside follow the A66 crash which killed two police officers and five men.",
-        "publishedAt": "2026-09-21T20:36:16.000Z",
+        "description": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
+        "publishedAt": "2026-09-21T23:25:28.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Watch: Police raid organised crime targets in Teesside",
+        "url": "https://www.bbc.co.uk/news/videos/c9x2z1m45vlno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Cleveland Police carried out one of their biggest raids in years, following the A66 crash that left two officers dead.",
+        "publishedAt": "2026-09-21T20:21:29.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -145,7 +167,7 @@
           "name": "RSS Feed"
         },
         "description": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
-        "publishedAt": "2026-09-21T15:58:53.000Z",
+        "publishedAt": "2026-09-21T22:48:33.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -155,30 +177,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fifa president Gianni Infantino has proposed an external review of the governance of world football's governing body.",
+        "description": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
         "publishedAt": "2026-09-21T19:50:57.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Man charged with causing death by dangerous driving over crash that killed 6",
-        "url": "https://www.bbc.co.uk/news/articles/cmqlwpkl72plo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Four members of the same family and a married couple on a motorbike died in the 2024 collision.",
-        "publishedAt": "2026-09-21T17:01:32.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Watch: Timelapse shows typhoon barrelling towards Japan",
-        "url": "https://www.bbc.co.uk/news/videos/cm0j3224p6j8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The typhoon is passing Japan's eastern coast, bringing major disruption and heavy rainfall in its wake.",
-        "publishedAt": "2026-09-21T16:52:12.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -198,6 +198,17 @@
         "zone": "in"
       },
       {
+        "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says \"defensive air-to-air refuelling\" is to be provided following a request from Saudi Arabia, after it faced attacks from the Houthis in Yemen.",
+        "publishedAt": "2026-09-21T21:36:39.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
         "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -220,13 +231,24 @@
         "zone": "in"
       },
       {
-        "title": "Seventeen arrested in Teesside organised crime raids",
-        "url": "https://www.bbc.co.uk/news/articles/ckjrxpz03w8no?at_medium=RSS&at_campaign=rss",
+        "title": "Flights at major US airports delayed after cable cut by construction workers",
+        "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The raids across Teesside follow the A66 crash which killed two police officers and five men.",
-        "publishedAt": "2026-09-21T20:36:16.000Z",
+        "description": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
+        "publishedAt": "2026-09-21T23:25:28.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Watch: Police raid organised crime targets in Teesside",
+        "url": "https://www.bbc.co.uk/news/videos/c9x2z1m45vlno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Cleveland Police carried out one of their biggest raids in years, following the A66 crash that left two officers dead.",
+        "publishedAt": "2026-09-21T20:21:29.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -237,7 +259,7 @@
           "name": "RSS Feed"
         },
         "description": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
-        "publishedAt": "2026-09-21T15:58:53.000Z",
+        "publishedAt": "2026-09-21T22:48:33.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -247,30 +269,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fifa president Gianni Infantino has proposed an external review of the governance of world football's governing body.",
+        "description": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
         "publishedAt": "2026-09-21T19:50:57.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Man charged with causing death by dangerous driving over crash that killed 6",
-        "url": "https://www.bbc.co.uk/news/articles/cmqlwpkl72plo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Four members of the same family and a married couple on a motorbike died in the 2024 collision.",
-        "publishedAt": "2026-09-21T17:01:32.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Watch: Timelapse shows typhoon barrelling towards Japan",
-        "url": "https://www.bbc.co.uk/news/videos/cm0j3224p6j8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The typhoon is passing Japan's eastern coast, bringing major disruption and heavy rainfall in its wake.",
-        "publishedAt": "2026-09-21T16:52:12.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -290,6 +290,17 @@
         "zone": "au"
       },
       {
+        "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says \"defensive air-to-air refuelling\" is to be provided following a request from Saudi Arabia, after it faced attacks from the Houthis in Yemen.",
+        "publishedAt": "2026-09-21T21:36:39.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
         "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -312,13 +323,24 @@
         "zone": "au"
       },
       {
-        "title": "Seventeen arrested in Teesside organised crime raids",
-        "url": "https://www.bbc.co.uk/news/articles/ckjrxpz03w8no?at_medium=RSS&at_campaign=rss",
+        "title": "Flights at major US airports delayed after cable cut by construction workers",
+        "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The raids across Teesside follow the A66 crash which killed two police officers and five men.",
-        "publishedAt": "2026-09-21T20:36:16.000Z",
+        "description": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
+        "publishedAt": "2026-09-21T23:25:28.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Watch: Police raid organised crime targets in Teesside",
+        "url": "https://www.bbc.co.uk/news/videos/c9x2z1m45vlno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Cleveland Police carried out one of their biggest raids in years, following the A66 crash that left two officers dead.",
+        "publishedAt": "2026-09-21T20:21:29.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -329,7 +351,7 @@
           "name": "RSS Feed"
         },
         "description": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
-        "publishedAt": "2026-09-21T15:58:53.000Z",
+        "publishedAt": "2026-09-21T22:48:33.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -339,30 +361,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fifa president Gianni Infantino has proposed an external review of the governance of world football's governing body.",
+        "description": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
         "publishedAt": "2026-09-21T19:50:57.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Man charged with causing death by dangerous driving over crash that killed 6",
-        "url": "https://www.bbc.co.uk/news/articles/cmqlwpkl72plo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Four members of the same family and a married couple on a motorbike died in the 2024 collision.",
-        "publishedAt": "2026-09-21T17:01:32.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Watch: Timelapse shows typhoon barrelling towards Japan",
-        "url": "https://www.bbc.co.uk/news/videos/cm0j3224p6j8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The typhoon is passing Japan's eastern coast, bringing major disruption and heavy rainfall in its wake.",
-        "publishedAt": "2026-09-21T16:52:12.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -382,6 +382,17 @@
         "zone": "ca"
       },
       {
+        "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says \"defensive air-to-air refuelling\" is to be provided following a request from Saudi Arabia, after it faced attacks from the Houthis in Yemen.",
+        "publishedAt": "2026-09-21T21:36:39.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
         "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -404,13 +415,24 @@
         "zone": "ca"
       },
       {
-        "title": "Seventeen arrested in Teesside organised crime raids",
-        "url": "https://www.bbc.co.uk/news/articles/ckjrxpz03w8no?at_medium=RSS&at_campaign=rss",
+        "title": "Flights at major US airports delayed after cable cut by construction workers",
+        "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The raids across Teesside follow the A66 crash which killed two police officers and five men.",
-        "publishedAt": "2026-09-21T20:36:16.000Z",
+        "description": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
+        "publishedAt": "2026-09-21T23:25:28.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Watch: Police raid organised crime targets in Teesside",
+        "url": "https://www.bbc.co.uk/news/videos/c9x2z1m45vlno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Cleveland Police carried out one of their biggest raids in years, following the A66 crash that left two officers dead.",
+        "publishedAt": "2026-09-21T20:21:29.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -421,7 +443,7 @@
           "name": "RSS Feed"
         },
         "description": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
-        "publishedAt": "2026-09-21T15:58:53.000Z",
+        "publishedAt": "2026-09-21T22:48:33.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -431,30 +453,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fifa president Gianni Infantino has proposed an external review of the governance of world football's governing body.",
+        "description": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
         "publishedAt": "2026-09-21T19:50:57.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Man charged with causing death by dangerous driving over crash that killed 6",
-        "url": "https://www.bbc.co.uk/news/articles/cmqlwpkl72plo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Four members of the same family and a married couple on a motorbike died in the 2024 collision.",
-        "publishedAt": "2026-09-21T17:01:32.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Watch: Timelapse shows typhoon barrelling towards Japan",
-        "url": "https://www.bbc.co.uk/news/videos/cm0j3224p6j8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The typhoon is passing Japan's eastern coast, bringing major disruption and heavy rainfall in its wake.",
-        "publishedAt": "2026-09-21T16:52:12.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -463,6 +463,39 @@
   "business_us": {
     "articles": [
       {
+        "title": "Vet prescription fees capped under rule changes",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
+        "publishedAt": "2026-09-21T23:01:18.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+        "url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
+        "publishedAt": "2026-09-21T23:01:26.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
+        "publishedAt": "2026-09-21T21:34:32.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "Repeated air traffic control failures leave us in worrying territory",
         "url": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -474,13 +507,13 @@
         "zone": "us"
       },
       {
-        "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+        "title": "Flights at major US airports delayed after cable cut by construction workers",
+        "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
-        "publishedAt": "2026-09-21T20:43:26.000Z",
+        "description": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
+        "publishedAt": "2026-09-21T23:25:28.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -514,39 +547,6 @@
         },
         "description": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
         "publishedAt": "2026-09-21T04:00:38.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Tories pledge to bring back tax-free shopping for tourists",
-        "url": "https://www.bbc.co.uk/news/articles/cmd68px5qqddo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The party says scrapping the scheme in 2021 left the UK less competitive than European destinations.",
-        "publishedAt": "2026-09-21T10:37:23.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
-        "publishedAt": "2026-09-21T05:50:56.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Will you get £13,000 a year when you stop working? Here's how to check",
-        "url": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "How to find out how much state pension you're likely to receive - and what you can do about it now.",
-        "publishedAt": "2026-09-21T08:49:45.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,6 +555,39 @@
   "business_gb": {
     "articles": [
       {
+        "title": "Vet prescription fees capped under rule changes",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
+        "publishedAt": "2026-09-21T23:01:18.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+        "url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
+        "publishedAt": "2026-09-21T23:01:26.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
+        "publishedAt": "2026-09-21T21:34:32.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "Repeated air traffic control failures leave us in worrying territory",
         "url": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -566,13 +599,13 @@
         "zone": "gb"
       },
       {
-        "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+        "title": "Flights at major US airports delayed after cable cut by construction workers",
+        "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
-        "publishedAt": "2026-09-21T20:43:26.000Z",
+        "description": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
+        "publishedAt": "2026-09-21T23:25:28.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -606,39 +639,6 @@
         },
         "description": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
         "publishedAt": "2026-09-21T04:00:38.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Tories pledge to bring back tax-free shopping for tourists",
-        "url": "https://www.bbc.co.uk/news/articles/cmd68px5qqddo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The party says scrapping the scheme in 2021 left the UK less competitive than European destinations.",
-        "publishedAt": "2026-09-21T10:37:23.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
-        "publishedAt": "2026-09-21T05:50:56.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Will you get £13,000 a year when you stop working? Here's how to check",
-        "url": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "How to find out how much state pension you're likely to receive - and what you can do about it now.",
-        "publishedAt": "2026-09-21T08:49:45.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,6 +647,39 @@
   "business_in": {
     "articles": [
       {
+        "title": "Vet prescription fees capped under rule changes",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
+        "publishedAt": "2026-09-21T23:01:18.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+        "url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
+        "publishedAt": "2026-09-21T23:01:26.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
+        "publishedAt": "2026-09-21T21:34:32.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "Repeated air traffic control failures leave us in worrying territory",
         "url": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -658,13 +691,13 @@
         "zone": "in"
       },
       {
-        "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+        "title": "Flights at major US airports delayed after cable cut by construction workers",
+        "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
-        "publishedAt": "2026-09-21T20:43:26.000Z",
+        "description": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
+        "publishedAt": "2026-09-21T23:25:28.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -698,39 +731,6 @@
         },
         "description": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
         "publishedAt": "2026-09-21T04:00:38.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Tories pledge to bring back tax-free shopping for tourists",
-        "url": "https://www.bbc.co.uk/news/articles/cmd68px5qqddo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The party says scrapping the scheme in 2021 left the UK less competitive than European destinations.",
-        "publishedAt": "2026-09-21T10:37:23.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
-        "publishedAt": "2026-09-21T05:50:56.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Will you get £13,000 a year when you stop working? Here's how to check",
-        "url": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "How to find out how much state pension you're likely to receive - and what you can do about it now.",
-        "publishedAt": "2026-09-21T08:49:45.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,6 +739,39 @@
   "business_au": {
     "articles": [
       {
+        "title": "Vet prescription fees capped under rule changes",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
+        "publishedAt": "2026-09-21T23:01:18.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+        "url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
+        "publishedAt": "2026-09-21T23:01:26.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
+        "publishedAt": "2026-09-21T21:34:32.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "Repeated air traffic control failures leave us in worrying territory",
         "url": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -750,13 +783,13 @@
         "zone": "au"
       },
       {
-        "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+        "title": "Flights at major US airports delayed after cable cut by construction workers",
+        "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
-        "publishedAt": "2026-09-21T20:43:26.000Z",
+        "description": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
+        "publishedAt": "2026-09-21T23:25:28.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -790,39 +823,6 @@
         },
         "description": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
         "publishedAt": "2026-09-21T04:00:38.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Tories pledge to bring back tax-free shopping for tourists",
-        "url": "https://www.bbc.co.uk/news/articles/cmd68px5qqddo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The party says scrapping the scheme in 2021 left the UK less competitive than European destinations.",
-        "publishedAt": "2026-09-21T10:37:23.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
-        "publishedAt": "2026-09-21T05:50:56.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Will you get £13,000 a year when you stop working? Here's how to check",
-        "url": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "How to find out how much state pension you're likely to receive - and what you can do about it now.",
-        "publishedAt": "2026-09-21T08:49:45.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,6 +831,39 @@
   "business_ca": {
     "articles": [
       {
+        "title": "Vet prescription fees capped under rule changes",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
+        "publishedAt": "2026-09-21T23:01:18.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+        "url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
+        "publishedAt": "2026-09-21T23:01:26.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
+        "publishedAt": "2026-09-21T21:34:32.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "Repeated air traffic control failures leave us in worrying territory",
         "url": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -842,13 +875,13 @@
         "zone": "ca"
       },
       {
-        "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+        "title": "Flights at major US airports delayed after cable cut by construction workers",
+        "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
-        "publishedAt": "2026-09-21T20:43:26.000Z",
+        "description": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
+        "publishedAt": "2026-09-21T23:25:28.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -882,39 +915,6 @@
         },
         "description": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
         "publishedAt": "2026-09-21T04:00:38.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Tories pledge to bring back tax-free shopping for tourists",
-        "url": "https://www.bbc.co.uk/news/articles/cmd68px5qqddo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The party says scrapping the scheme in 2021 left the UK less competitive than European destinations.",
-        "publishedAt": "2026-09-21T10:37:23.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
-        "publishedAt": "2026-09-21T05:50:56.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Will you get £13,000 a year when you stop working? Here's how to check",
-        "url": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "How to find out how much state pension you're likely to receive - and what you can do about it now.",
-        "publishedAt": "2026-09-21T08:49:45.000Z",
         "category": "business",
         "zone": "ca"
       }
@@ -962,7 +962,7 @@
           "name": "RSS Feed"
         },
         "description": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
-        "publishedAt": "2026-09-21T15:58:53.000Z",
+        "publishedAt": "2026-09-21T22:48:33.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -1054,7 +1054,7 @@
           "name": "RSS Feed"
         },
         "description": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
-        "publishedAt": "2026-09-21T15:58:53.000Z",
+        "publishedAt": "2026-09-21T22:48:33.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1146,7 +1146,7 @@
           "name": "RSS Feed"
         },
         "description": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
-        "publishedAt": "2026-09-21T15:58:53.000Z",
+        "publishedAt": "2026-09-21T22:48:33.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1238,7 +1238,7 @@
           "name": "RSS Feed"
         },
         "description": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
-        "publishedAt": "2026-09-21T15:58:53.000Z",
+        "publishedAt": "2026-09-21T22:48:33.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1330,7 +1330,7 @@
           "name": "RSS Feed"
         },
         "description": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
-        "publishedAt": "2026-09-21T15:58:53.000Z",
+        "publishedAt": "2026-09-21T22:48:33.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1383,6 +1383,28 @@
   "health_us": {
     "articles": [
       {
+        "title": "Martha's Rule rolled out at every A&E department in England",
+        "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
+        "publishedAt": "2026-09-21T23:38:57.000Z",
+        "category": "health",
+        "zone": "us"
+      },
+      {
+        "title": "The simple skincare routine for teens that actually works - and five expert tips",
+        "url": "https://www.bbc.co.uk/news/articles/cwddvnvgl541o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "From popping spots to getting enough sleep, experts share their advice on the best way to look after teenage skin.",
+        "publishedAt": "2026-09-21T23:28:26.000Z",
+        "category": "health",
+        "zone": "us"
+      },
+      {
         "title": "'Other generations just buried it' - Youths share their mental health concerns",
         "url": "https://www.bbc.co.uk/news/videos/ck1wx2z55nwyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1445,28 +1467,6 @@
         },
         "description": "An 18‑week referral‑to‑treatment target has been backed by England's former national cancer director.",
         "publishedAt": "2026-09-17T19:13:59.000Z",
-        "category": "health",
-        "zone": "us"
-      },
-      {
-        "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
-        "url": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
-        "publishedAt": "2026-09-17T13:32:00.000Z",
-        "category": "health",
-        "zone": "us"
-      },
-      {
-        "title": "Burnham thanks well-wishers following his father's death",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgy53k49lgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "All opposition leaders sent condolences to Burnham as he cancelled engagements earlier this week.",
-        "publishedAt": "2026-09-16T11:21:21.000Z",
         "category": "health",
         "zone": "us"
       }
@@ -1475,6 +1475,28 @@
   "health_gb": {
     "articles": [
       {
+        "title": "Martha's Rule rolled out at every A&E department in England",
+        "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
+        "publishedAt": "2026-09-21T23:38:57.000Z",
+        "category": "health",
+        "zone": "gb"
+      },
+      {
+        "title": "The simple skincare routine for teens that actually works - and five expert tips",
+        "url": "https://www.bbc.co.uk/news/articles/cwddvnvgl541o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "From popping spots to getting enough sleep, experts share their advice on the best way to look after teenage skin.",
+        "publishedAt": "2026-09-21T23:28:26.000Z",
+        "category": "health",
+        "zone": "gb"
+      },
+      {
         "title": "'Other generations just buried it' - Youths share their mental health concerns",
         "url": "https://www.bbc.co.uk/news/videos/ck1wx2z55nwyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1537,28 +1559,6 @@
         },
         "description": "An 18‑week referral‑to‑treatment target has been backed by England's former national cancer director.",
         "publishedAt": "2026-09-17T19:13:59.000Z",
-        "category": "health",
-        "zone": "gb"
-      },
-      {
-        "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
-        "url": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
-        "publishedAt": "2026-09-17T13:32:00.000Z",
-        "category": "health",
-        "zone": "gb"
-      },
-      {
-        "title": "Burnham thanks well-wishers following his father's death",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgy53k49lgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "All opposition leaders sent condolences to Burnham as he cancelled engagements earlier this week.",
-        "publishedAt": "2026-09-16T11:21:21.000Z",
         "category": "health",
         "zone": "gb"
       }
@@ -1567,6 +1567,28 @@
   "health_in": {
     "articles": [
       {
+        "title": "Martha's Rule rolled out at every A&E department in England",
+        "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
+        "publishedAt": "2026-09-21T23:38:57.000Z",
+        "category": "health",
+        "zone": "in"
+      },
+      {
+        "title": "The simple skincare routine for teens that actually works - and five expert tips",
+        "url": "https://www.bbc.co.uk/news/articles/cwddvnvgl541o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "From popping spots to getting enough sleep, experts share their advice on the best way to look after teenage skin.",
+        "publishedAt": "2026-09-21T23:28:26.000Z",
+        "category": "health",
+        "zone": "in"
+      },
+      {
         "title": "'Other generations just buried it' - Youths share their mental health concerns",
         "url": "https://www.bbc.co.uk/news/videos/ck1wx2z55nwyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1629,28 +1651,6 @@
         },
         "description": "An 18‑week referral‑to‑treatment target has been backed by England's former national cancer director.",
         "publishedAt": "2026-09-17T19:13:59.000Z",
-        "category": "health",
-        "zone": "in"
-      },
-      {
-        "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
-        "url": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
-        "publishedAt": "2026-09-17T13:32:00.000Z",
-        "category": "health",
-        "zone": "in"
-      },
-      {
-        "title": "Burnham thanks well-wishers following his father's death",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgy53k49lgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "All opposition leaders sent condolences to Burnham as he cancelled engagements earlier this week.",
-        "publishedAt": "2026-09-16T11:21:21.000Z",
         "category": "health",
         "zone": "in"
       }
@@ -1659,6 +1659,28 @@
   "health_au": {
     "articles": [
       {
+        "title": "Martha's Rule rolled out at every A&E department in England",
+        "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
+        "publishedAt": "2026-09-21T23:38:57.000Z",
+        "category": "health",
+        "zone": "au"
+      },
+      {
+        "title": "The simple skincare routine for teens that actually works - and five expert tips",
+        "url": "https://www.bbc.co.uk/news/articles/cwddvnvgl541o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "From popping spots to getting enough sleep, experts share their advice on the best way to look after teenage skin.",
+        "publishedAt": "2026-09-21T23:28:26.000Z",
+        "category": "health",
+        "zone": "au"
+      },
+      {
         "title": "'Other generations just buried it' - Youths share their mental health concerns",
         "url": "https://www.bbc.co.uk/news/videos/ck1wx2z55nwyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1721,28 +1743,6 @@
         },
         "description": "An 18‑week referral‑to‑treatment target has been backed by England's former national cancer director.",
         "publishedAt": "2026-09-17T19:13:59.000Z",
-        "category": "health",
-        "zone": "au"
-      },
-      {
-        "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
-        "url": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
-        "publishedAt": "2026-09-17T13:32:00.000Z",
-        "category": "health",
-        "zone": "au"
-      },
-      {
-        "title": "Burnham thanks well-wishers following his father's death",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgy53k49lgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "All opposition leaders sent condolences to Burnham as he cancelled engagements earlier this week.",
-        "publishedAt": "2026-09-16T11:21:21.000Z",
         "category": "health",
         "zone": "au"
       }
@@ -1751,6 +1751,28 @@
   "health_ca": {
     "articles": [
       {
+        "title": "Martha's Rule rolled out at every A&E department in England",
+        "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
+        "publishedAt": "2026-09-21T23:38:57.000Z",
+        "category": "health",
+        "zone": "ca"
+      },
+      {
+        "title": "The simple skincare routine for teens that actually works - and five expert tips",
+        "url": "https://www.bbc.co.uk/news/articles/cwddvnvgl541o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "From popping spots to getting enough sleep, experts share their advice on the best way to look after teenage skin.",
+        "publishedAt": "2026-09-21T23:28:26.000Z",
+        "category": "health",
+        "zone": "ca"
+      },
+      {
         "title": "'Other generations just buried it' - Youths share their mental health concerns",
         "url": "https://www.bbc.co.uk/news/videos/ck1wx2z55nwyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1813,28 +1835,6 @@
         },
         "description": "An 18‑week referral‑to‑treatment target has been backed by England's former national cancer director.",
         "publishedAt": "2026-09-17T19:13:59.000Z",
-        "category": "health",
-        "zone": "ca"
-      },
-      {
-        "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
-        "url": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
-        "publishedAt": "2026-09-17T13:32:00.000Z",
-        "category": "health",
-        "zone": "ca"
-      },
-      {
-        "title": "Burnham thanks well-wishers following his father's death",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgy53k49lgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "All opposition leaders sent condolences to Burnham as he cancelled engagements earlier this week.",
-        "publishedAt": "2026-09-16T11:21:21.000Z",
         "category": "health",
         "zone": "ca"
       }
@@ -2314,24 +2314,35 @@
         "zone": "us"
       },
       {
-        "title": "Infantino says Fifa can change as he proposes external review",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
+        "title": "Israel FA accuses Hallgrimsson of 'ignorance, hypocrisy and stupidity'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwvgyzzrd8jmo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fifa president Gianni Infantino has proposed an external review of the governance of world football's governing body.",
-        "publishedAt": "2026-09-21T19:50:57.000Z",
+        "description": "The Israel FA accuse Republic of Ireland manager Heimir Hallgrimsson of \"ignorance, hypocrisy and stupidity\" in comments made last week.",
+        "publishedAt": "2026-09-21T21:49:45.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Was Neville right to call out Man Utd for a 'lack of effort'?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqrl6pe56348o?at_medium=RSS&at_campaign=rss",
+        "title": "Being run over by pitch roller was 'terrifying' - Townsend",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqp8dpd5d27yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The former Manchester United full-back said a 15-minute period in the 1-1 draw at Fulham was the \"worst I've ever seen\" - do the stats back him up and does his media portfolio amplify the noise?",
-        "publishedAt": "2026-09-21T15:39:36.000Z",
+        "description": "Townsend says he was lucky to only escape from under the roller with a few \"bumps and bruises\".",
+        "publishedAt": "2026-09-21T22:13:16.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Infantino says he is open to talks over Fifa reform",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
+        "publishedAt": "2026-09-21T19:50:57.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2347,6 +2358,17 @@
         "zone": "us"
       },
       {
+        "title": "Was Neville right to call out Man Utd for a 'lack of effort'?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqrl6pe56348o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The former Manchester United full-back said a 15-minute period in the 1-1 draw at Fulham was the \"worst I've ever seen\" - do the stats back him up and does his media portfolio amplify the noise?",
+        "publishedAt": "2026-09-21T15:39:36.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Atletico hit back at Mourinho over referee complaints",
         "url": "https://www.bbc.co.uk/sport/football/articles/cwx2z115lx4mo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2358,17 +2380,6 @@
         "zone": "us"
       },
       {
-        "title": "Xhaka under investigation over Covid-19 certificate",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Switzerland captain Granit Xhaka is being investigated over an issue with his Covid-19 vaccination certificate.",
-        "publishedAt": "2026-09-21T15:24:51.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
         "title": "Why Cardiff is set to win race to host Fury-Joshua",
         "url": "https://www.bbc.co.uk/sport/boxing/articles/ck5yw8q81ql2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2376,17 +2387,6 @@
         },
         "description": "Why Cardiff is set to beat competition from London and New York to host the long-awaited fight between Tyson Fury and Anthony Joshua.",
         "publishedAt": "2026-09-21T10:51:22.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Scotland call for Montgomery as Tierney & McLean drop out",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6wyz22d39ldo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Blackburn Rovers midfielder Kristi Montgomery gets a first call-up for Scotland as Kieran Tierney and Kenny McLean drop out of the Nations League squad.",
-        "publishedAt": "2026-09-21T17:32:06.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2406,24 +2406,35 @@
         "zone": "gb"
       },
       {
-        "title": "Infantino says Fifa can change as he proposes external review",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
+        "title": "Israel FA accuses Hallgrimsson of 'ignorance, hypocrisy and stupidity'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwvgyzzrd8jmo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fifa president Gianni Infantino has proposed an external review of the governance of world football's governing body.",
-        "publishedAt": "2026-09-21T19:50:57.000Z",
+        "description": "The Israel FA accuse Republic of Ireland manager Heimir Hallgrimsson of \"ignorance, hypocrisy and stupidity\" in comments made last week.",
+        "publishedAt": "2026-09-21T21:49:45.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Was Neville right to call out Man Utd for a 'lack of effort'?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqrl6pe56348o?at_medium=RSS&at_campaign=rss",
+        "title": "Being run over by pitch roller was 'terrifying' - Townsend",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqp8dpd5d27yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The former Manchester United full-back said a 15-minute period in the 1-1 draw at Fulham was the \"worst I've ever seen\" - do the stats back him up and does his media portfolio amplify the noise?",
-        "publishedAt": "2026-09-21T15:39:36.000Z",
+        "description": "Townsend says he was lucky to only escape from under the roller with a few \"bumps and bruises\".",
+        "publishedAt": "2026-09-21T22:13:16.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Infantino says he is open to talks over Fifa reform",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
+        "publishedAt": "2026-09-21T19:50:57.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2439,6 +2450,17 @@
         "zone": "gb"
       },
       {
+        "title": "Was Neville right to call out Man Utd for a 'lack of effort'?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqrl6pe56348o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The former Manchester United full-back said a 15-minute period in the 1-1 draw at Fulham was the \"worst I've ever seen\" - do the stats back him up and does his media portfolio amplify the noise?",
+        "publishedAt": "2026-09-21T15:39:36.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Atletico hit back at Mourinho over referee complaints",
         "url": "https://www.bbc.co.uk/sport/football/articles/cwx2z115lx4mo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2450,17 +2472,6 @@
         "zone": "gb"
       },
       {
-        "title": "Xhaka under investigation over Covid-19 certificate",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Switzerland captain Granit Xhaka is being investigated over an issue with his Covid-19 vaccination certificate.",
-        "publishedAt": "2026-09-21T15:24:51.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
         "title": "Why Cardiff is set to win race to host Fury-Joshua",
         "url": "https://www.bbc.co.uk/sport/boxing/articles/ck5yw8q81ql2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2468,17 +2479,6 @@
         },
         "description": "Why Cardiff is set to beat competition from London and New York to host the long-awaited fight between Tyson Fury and Anthony Joshua.",
         "publishedAt": "2026-09-21T10:51:22.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Scotland call for Montgomery as Tierney & McLean drop out",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6wyz22d39ldo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Blackburn Rovers midfielder Kristi Montgomery gets a first call-up for Scotland as Kieran Tierney and Kenny McLean drop out of the Nations League squad.",
-        "publishedAt": "2026-09-21T17:32:06.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2498,24 +2498,35 @@
         "zone": "in"
       },
       {
-        "title": "Infantino says Fifa can change as he proposes external review",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
+        "title": "Israel FA accuses Hallgrimsson of 'ignorance, hypocrisy and stupidity'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwvgyzzrd8jmo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fifa president Gianni Infantino has proposed an external review of the governance of world football's governing body.",
-        "publishedAt": "2026-09-21T19:50:57.000Z",
+        "description": "The Israel FA accuse Republic of Ireland manager Heimir Hallgrimsson of \"ignorance, hypocrisy and stupidity\" in comments made last week.",
+        "publishedAt": "2026-09-21T21:49:45.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Was Neville right to call out Man Utd for a 'lack of effort'?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqrl6pe56348o?at_medium=RSS&at_campaign=rss",
+        "title": "Being run over by pitch roller was 'terrifying' - Townsend",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqp8dpd5d27yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The former Manchester United full-back said a 15-minute period in the 1-1 draw at Fulham was the \"worst I've ever seen\" - do the stats back him up and does his media portfolio amplify the noise?",
-        "publishedAt": "2026-09-21T15:39:36.000Z",
+        "description": "Townsend says he was lucky to only escape from under the roller with a few \"bumps and bruises\".",
+        "publishedAt": "2026-09-21T22:13:16.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Infantino says he is open to talks over Fifa reform",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
+        "publishedAt": "2026-09-21T19:50:57.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2531,6 +2542,17 @@
         "zone": "in"
       },
       {
+        "title": "Was Neville right to call out Man Utd for a 'lack of effort'?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqrl6pe56348o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The former Manchester United full-back said a 15-minute period in the 1-1 draw at Fulham was the \"worst I've ever seen\" - do the stats back him up and does his media portfolio amplify the noise?",
+        "publishedAt": "2026-09-21T15:39:36.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Atletico hit back at Mourinho over referee complaints",
         "url": "https://www.bbc.co.uk/sport/football/articles/cwx2z115lx4mo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2542,17 +2564,6 @@
         "zone": "in"
       },
       {
-        "title": "Xhaka under investigation over Covid-19 certificate",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Switzerland captain Granit Xhaka is being investigated over an issue with his Covid-19 vaccination certificate.",
-        "publishedAt": "2026-09-21T15:24:51.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
         "title": "Why Cardiff is set to win race to host Fury-Joshua",
         "url": "https://www.bbc.co.uk/sport/boxing/articles/ck5yw8q81ql2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2560,17 +2571,6 @@
         },
         "description": "Why Cardiff is set to beat competition from London and New York to host the long-awaited fight between Tyson Fury and Anthony Joshua.",
         "publishedAt": "2026-09-21T10:51:22.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Scotland call for Montgomery as Tierney & McLean drop out",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6wyz22d39ldo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Blackburn Rovers midfielder Kristi Montgomery gets a first call-up for Scotland as Kieran Tierney and Kenny McLean drop out of the Nations League squad.",
-        "publishedAt": "2026-09-21T17:32:06.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2590,24 +2590,35 @@
         "zone": "au"
       },
       {
-        "title": "Infantino says Fifa can change as he proposes external review",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
+        "title": "Israel FA accuses Hallgrimsson of 'ignorance, hypocrisy and stupidity'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwvgyzzrd8jmo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fifa president Gianni Infantino has proposed an external review of the governance of world football's governing body.",
-        "publishedAt": "2026-09-21T19:50:57.000Z",
+        "description": "The Israel FA accuse Republic of Ireland manager Heimir Hallgrimsson of \"ignorance, hypocrisy and stupidity\" in comments made last week.",
+        "publishedAt": "2026-09-21T21:49:45.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Was Neville right to call out Man Utd for a 'lack of effort'?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqrl6pe56348o?at_medium=RSS&at_campaign=rss",
+        "title": "Being run over by pitch roller was 'terrifying' - Townsend",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqp8dpd5d27yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The former Manchester United full-back said a 15-minute period in the 1-1 draw at Fulham was the \"worst I've ever seen\" - do the stats back him up and does his media portfolio amplify the noise?",
-        "publishedAt": "2026-09-21T15:39:36.000Z",
+        "description": "Townsend says he was lucky to only escape from under the roller with a few \"bumps and bruises\".",
+        "publishedAt": "2026-09-21T22:13:16.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Infantino says he is open to talks over Fifa reform",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
+        "publishedAt": "2026-09-21T19:50:57.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2623,6 +2634,17 @@
         "zone": "au"
       },
       {
+        "title": "Was Neville right to call out Man Utd for a 'lack of effort'?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqrl6pe56348o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The former Manchester United full-back said a 15-minute period in the 1-1 draw at Fulham was the \"worst I've ever seen\" - do the stats back him up and does his media portfolio amplify the noise?",
+        "publishedAt": "2026-09-21T15:39:36.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Atletico hit back at Mourinho over referee complaints",
         "url": "https://www.bbc.co.uk/sport/football/articles/cwx2z115lx4mo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2634,17 +2656,6 @@
         "zone": "au"
       },
       {
-        "title": "Xhaka under investigation over Covid-19 certificate",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Switzerland captain Granit Xhaka is being investigated over an issue with his Covid-19 vaccination certificate.",
-        "publishedAt": "2026-09-21T15:24:51.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
         "title": "Why Cardiff is set to win race to host Fury-Joshua",
         "url": "https://www.bbc.co.uk/sport/boxing/articles/ck5yw8q81ql2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2652,17 +2663,6 @@
         },
         "description": "Why Cardiff is set to beat competition from London and New York to host the long-awaited fight between Tyson Fury and Anthony Joshua.",
         "publishedAt": "2026-09-21T10:51:22.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Scotland call for Montgomery as Tierney & McLean drop out",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6wyz22d39ldo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Blackburn Rovers midfielder Kristi Montgomery gets a first call-up for Scotland as Kieran Tierney and Kenny McLean drop out of the Nations League squad.",
-        "publishedAt": "2026-09-21T17:32:06.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2682,24 +2682,35 @@
         "zone": "ca"
       },
       {
-        "title": "Infantino says Fifa can change as he proposes external review",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
+        "title": "Israel FA accuses Hallgrimsson of 'ignorance, hypocrisy and stupidity'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwvgyzzrd8jmo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fifa president Gianni Infantino has proposed an external review of the governance of world football's governing body.",
-        "publishedAt": "2026-09-21T19:50:57.000Z",
+        "description": "The Israel FA accuse Republic of Ireland manager Heimir Hallgrimsson of \"ignorance, hypocrisy and stupidity\" in comments made last week.",
+        "publishedAt": "2026-09-21T21:49:45.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Was Neville right to call out Man Utd for a 'lack of effort'?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqrl6pe56348o?at_medium=RSS&at_campaign=rss",
+        "title": "Being run over by pitch roller was 'terrifying' - Townsend",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqp8dpd5d27yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The former Manchester United full-back said a 15-minute period in the 1-1 draw at Fulham was the \"worst I've ever seen\" - do the stats back him up and does his media portfolio amplify the noise?",
-        "publishedAt": "2026-09-21T15:39:36.000Z",
+        "description": "Townsend says he was lucky to only escape from under the roller with a few \"bumps and bruises\".",
+        "publishedAt": "2026-09-21T22:13:16.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Infantino says he is open to talks over Fifa reform",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
+        "publishedAt": "2026-09-21T19:50:57.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2715,6 +2726,17 @@
         "zone": "ca"
       },
       {
+        "title": "Was Neville right to call out Man Utd for a 'lack of effort'?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqrl6pe56348o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The former Manchester United full-back said a 15-minute period in the 1-1 draw at Fulham was the \"worst I've ever seen\" - do the stats back him up and does his media portfolio amplify the noise?",
+        "publishedAt": "2026-09-21T15:39:36.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Atletico hit back at Mourinho over referee complaints",
         "url": "https://www.bbc.co.uk/sport/football/articles/cwx2z115lx4mo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2726,17 +2748,6 @@
         "zone": "ca"
       },
       {
-        "title": "Xhaka under investigation over Covid-19 certificate",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Switzerland captain Granit Xhaka is being investigated over an issue with his Covid-19 vaccination certificate.",
-        "publishedAt": "2026-09-21T15:24:51.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
         "title": "Why Cardiff is set to win race to host Fury-Joshua",
         "url": "https://www.bbc.co.uk/sport/boxing/articles/ck5yw8q81ql2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2744,17 +2755,6 @@
         },
         "description": "Why Cardiff is set to beat competition from London and New York to host the long-awaited fight between Tyson Fury and Anthony Joshua.",
         "publishedAt": "2026-09-21T10:51:22.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Scotland call for Montgomery as Tierney & McLean drop out",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6wyz22d39ldo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Blackburn Rovers midfielder Kristi Montgomery gets a first call-up for Scotland as Kieran Tierney and Kenny McLean drop out of the Nations League squad.",
-        "publishedAt": "2026-09-21T17:32:06.000Z",
         "category": "sports",
         "zone": "ca"
       }
