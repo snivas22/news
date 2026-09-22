@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-09-22T18:34:40.441Z",
+  "generatedAt": "2026-09-22T21:50:53.827Z",
   "general_us": {
     "articles": [
+      {
+        "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
+        "url": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base.",
+        "publishedAt": "2026-09-22T21:22:36.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
+        "url": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal.",
+        "publishedAt": "2026-09-22T19:15:57.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "Plot targeting Manchester's Jewish community disrupted, say police",
         "url": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
@@ -9,18 +31,7 @@
           "name": "RSS Feed"
         },
         "description": "Two men were arrested in Manchester on Sunday, say counter-terror police.",
-        "publishedAt": "2026-09-22T18:00:17.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "New EU industry rules would damage UK, warns Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
-        "publishedAt": "2026-09-22T13:10:23.000Z",
+        "publishedAt": "2026-09-22T20:54:49.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -42,7 +53,7 @@
           "name": "RSS Feed"
         },
         "description": "Princess Diana's brother apologised to Morgan for a factual error in his memoir. Morgan said he is \"pursuing legal action\" against Spencer.",
-        "publishedAt": "2026-09-22T17:50:13.000Z",
+        "publishedAt": "2026-09-22T20:08:52.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -58,6 +69,17 @@
         "zone": "us"
       },
       {
+        "title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Past Booker winners Marlon James and Douglas Stuart are among the nominees for this year's award.",
+        "publishedAt": "2026-09-22T19:01:18.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
         "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
         "url": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -65,28 +87,6 @@
         },
         "description": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system - was ruled an accident.",
         "publishedAt": "2026-09-22T15:17:37.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
-        "url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
-        "publishedAt": "2026-09-22T16:50:29.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "'Looksmaxxing' influencer Clavicular charged with rape in Massachusetts",
-        "url": "https://www.bbc.co.uk/news/articles/c914dyx88233o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Authorities allege Braden Peters drugged a woman before assaulting her in May. He denies the charges.",
-        "publishedAt": "2026-09-22T16:45:14.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,24 +95,35 @@
   "general_gb": {
     "articles": [
       {
+        "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
+        "url": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base.",
+        "publishedAt": "2026-09-22T21:22:36.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
+        "url": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal.",
+        "publishedAt": "2026-09-22T19:15:57.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Plot targeting Manchester's Jewish community disrupted, say police",
         "url": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Two men were arrested in Manchester on Sunday, say counter-terror police.",
-        "publishedAt": "2026-09-22T18:00:17.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "New EU industry rules would damage UK, warns Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
-        "publishedAt": "2026-09-22T13:10:23.000Z",
+        "publishedAt": "2026-09-22T20:54:49.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -134,7 +145,7 @@
           "name": "RSS Feed"
         },
         "description": "Princess Diana's brother apologised to Morgan for a factual error in his memoir. Morgan said he is \"pursuing legal action\" against Spencer.",
-        "publishedAt": "2026-09-22T17:50:13.000Z",
+        "publishedAt": "2026-09-22T20:08:52.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -150,6 +161,17 @@
         "zone": "gb"
       },
       {
+        "title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Past Booker winners Marlon James and Douglas Stuart are among the nominees for this year's award.",
+        "publishedAt": "2026-09-22T19:01:18.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
         "url": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -157,28 +179,6 @@
         },
         "description": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system - was ruled an accident.",
         "publishedAt": "2026-09-22T15:17:37.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
-        "url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
-        "publishedAt": "2026-09-22T16:50:29.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "'Looksmaxxing' influencer Clavicular charged with rape in Massachusetts",
-        "url": "https://www.bbc.co.uk/news/articles/c914dyx88233o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Authorities allege Braden Peters drugged a woman before assaulting her in May. He denies the charges.",
-        "publishedAt": "2026-09-22T16:45:14.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,24 +187,35 @@
   "general_in": {
     "articles": [
       {
+        "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
+        "url": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base.",
+        "publishedAt": "2026-09-22T21:22:36.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
+        "url": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal.",
+        "publishedAt": "2026-09-22T19:15:57.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Plot targeting Manchester's Jewish community disrupted, say police",
         "url": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Two men were arrested in Manchester on Sunday, say counter-terror police.",
-        "publishedAt": "2026-09-22T18:00:17.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "New EU industry rules would damage UK, warns Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
-        "publishedAt": "2026-09-22T13:10:23.000Z",
+        "publishedAt": "2026-09-22T20:54:49.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -226,7 +237,7 @@
           "name": "RSS Feed"
         },
         "description": "Princess Diana's brother apologised to Morgan for a factual error in his memoir. Morgan said he is \"pursuing legal action\" against Spencer.",
-        "publishedAt": "2026-09-22T17:50:13.000Z",
+        "publishedAt": "2026-09-22T20:08:52.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -242,6 +253,17 @@
         "zone": "in"
       },
       {
+        "title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Past Booker winners Marlon James and Douglas Stuart are among the nominees for this year's award.",
+        "publishedAt": "2026-09-22T19:01:18.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
         "url": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -249,28 +271,6 @@
         },
         "description": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system - was ruled an accident.",
         "publishedAt": "2026-09-22T15:17:37.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
-        "url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
-        "publishedAt": "2026-09-22T16:50:29.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "'Looksmaxxing' influencer Clavicular charged with rape in Massachusetts",
-        "url": "https://www.bbc.co.uk/news/articles/c914dyx88233o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Authorities allege Braden Peters drugged a woman before assaulting her in May. He denies the charges.",
-        "publishedAt": "2026-09-22T16:45:14.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,24 +279,35 @@
   "general_au": {
     "articles": [
       {
+        "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
+        "url": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base.",
+        "publishedAt": "2026-09-22T21:22:36.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
+        "url": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal.",
+        "publishedAt": "2026-09-22T19:15:57.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Plot targeting Manchester's Jewish community disrupted, say police",
         "url": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Two men were arrested in Manchester on Sunday, say counter-terror police.",
-        "publishedAt": "2026-09-22T18:00:17.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "New EU industry rules would damage UK, warns Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
-        "publishedAt": "2026-09-22T13:10:23.000Z",
+        "publishedAt": "2026-09-22T20:54:49.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -318,7 +329,7 @@
           "name": "RSS Feed"
         },
         "description": "Princess Diana's brother apologised to Morgan for a factual error in his memoir. Morgan said he is \"pursuing legal action\" against Spencer.",
-        "publishedAt": "2026-09-22T17:50:13.000Z",
+        "publishedAt": "2026-09-22T20:08:52.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -334,6 +345,17 @@
         "zone": "au"
       },
       {
+        "title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Past Booker winners Marlon James and Douglas Stuart are among the nominees for this year's award.",
+        "publishedAt": "2026-09-22T19:01:18.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
         "url": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -341,28 +363,6 @@
         },
         "description": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system - was ruled an accident.",
         "publishedAt": "2026-09-22T15:17:37.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
-        "url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
-        "publishedAt": "2026-09-22T16:50:29.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "'Looksmaxxing' influencer Clavicular charged with rape in Massachusetts",
-        "url": "https://www.bbc.co.uk/news/articles/c914dyx88233o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Authorities allege Braden Peters drugged a woman before assaulting her in May. He denies the charges.",
-        "publishedAt": "2026-09-22T16:45:14.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,24 +371,35 @@
   "general_ca": {
     "articles": [
       {
+        "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
+        "url": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base.",
+        "publishedAt": "2026-09-22T21:22:36.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
+        "url": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal.",
+        "publishedAt": "2026-09-22T19:15:57.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Plot targeting Manchester's Jewish community disrupted, say police",
         "url": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Two men were arrested in Manchester on Sunday, say counter-terror police.",
-        "publishedAt": "2026-09-22T18:00:17.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "New EU industry rules would damage UK, warns Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
-        "publishedAt": "2026-09-22T13:10:23.000Z",
+        "publishedAt": "2026-09-22T20:54:49.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -410,7 +421,7 @@
           "name": "RSS Feed"
         },
         "description": "Princess Diana's brother apologised to Morgan for a factual error in his memoir. Morgan said he is \"pursuing legal action\" against Spencer.",
-        "publishedAt": "2026-09-22T17:50:13.000Z",
+        "publishedAt": "2026-09-22T20:08:52.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -426,6 +437,17 @@
         "zone": "ca"
       },
       {
+        "title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Past Booker winners Marlon James and Douglas Stuart are among the nominees for this year's award.",
+        "publishedAt": "2026-09-22T19:01:18.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
         "url": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -433,28 +455,6 @@
         },
         "description": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system - was ruled an accident.",
         "publishedAt": "2026-09-22T15:17:37.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
-        "url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
-        "publishedAt": "2026-09-22T16:50:29.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "'Looksmaxxing' influencer Clavicular charged with rape in Massachusetts",
-        "url": "https://www.bbc.co.uk/news/articles/c914dyx88233o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Authorities allege Braden Peters drugged a woman before assaulting her in May. He denies the charges.",
-        "publishedAt": "2026-09-22T16:45:14.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -474,13 +474,24 @@
         "zone": "us"
       },
       {
+        "title": "Trump says he would back ban on diesel exports",
+        "url": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Republicans lawmakers have put pressure on the president to curb exports as diesel prices soar to record highs in the US.",
+        "publishedAt": "2026-09-22T20:41:13.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "New EU industry rules would damage UK, warns Burnham",
         "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
-        "publishedAt": "2026-09-22T13:10:23.000Z",
+        "description": "The prime minister met the European Commission President during his visit to the United Nations General Assembly.",
+        "publishedAt": "2026-09-22T21:18:40.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -492,17 +503,6 @@
         },
         "description": "The food delivery giant will pay a $131.5m settlement following a city probe into wage violations.",
         "publishedAt": "2026-09-22T16:50:24.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
-        "url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
-        "publishedAt": "2026-09-22T16:50:29.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -529,6 +529,17 @@
         "zone": "us"
       },
       {
+        "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
+        "url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
+        "publishedAt": "2026-09-22T16:50:29.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
         "url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -536,17 +547,6 @@
         },
         "description": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
         "publishedAt": "2026-09-21T23:01:26.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Vet prescription fees capped under rule changes",
-        "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
-        "publishedAt": "2026-09-22T07:39:35.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -566,13 +566,24 @@
         "zone": "gb"
       },
       {
+        "title": "Trump says he would back ban on diesel exports",
+        "url": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Republicans lawmakers have put pressure on the president to curb exports as diesel prices soar to record highs in the US.",
+        "publishedAt": "2026-09-22T20:41:13.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "New EU industry rules would damage UK, warns Burnham",
         "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
-        "publishedAt": "2026-09-22T13:10:23.000Z",
+        "description": "The prime minister met the European Commission President during his visit to the United Nations General Assembly.",
+        "publishedAt": "2026-09-22T21:18:40.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -584,17 +595,6 @@
         },
         "description": "The food delivery giant will pay a $131.5m settlement following a city probe into wage violations.",
         "publishedAt": "2026-09-22T16:50:24.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
-        "url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
-        "publishedAt": "2026-09-22T16:50:29.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -621,6 +621,17 @@
         "zone": "gb"
       },
       {
+        "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
+        "url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
+        "publishedAt": "2026-09-22T16:50:29.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
         "url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -628,17 +639,6 @@
         },
         "description": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
         "publishedAt": "2026-09-21T23:01:26.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Vet prescription fees capped under rule changes",
-        "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
-        "publishedAt": "2026-09-22T07:39:35.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -658,13 +658,24 @@
         "zone": "in"
       },
       {
+        "title": "Trump says he would back ban on diesel exports",
+        "url": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Republicans lawmakers have put pressure on the president to curb exports as diesel prices soar to record highs in the US.",
+        "publishedAt": "2026-09-22T20:41:13.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "New EU industry rules would damage UK, warns Burnham",
         "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
-        "publishedAt": "2026-09-22T13:10:23.000Z",
+        "description": "The prime minister met the European Commission President during his visit to the United Nations General Assembly.",
+        "publishedAt": "2026-09-22T21:18:40.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -676,17 +687,6 @@
         },
         "description": "The food delivery giant will pay a $131.5m settlement following a city probe into wage violations.",
         "publishedAt": "2026-09-22T16:50:24.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
-        "url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
-        "publishedAt": "2026-09-22T16:50:29.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -713,6 +713,17 @@
         "zone": "in"
       },
       {
+        "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
+        "url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
+        "publishedAt": "2026-09-22T16:50:29.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
         "url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -720,17 +731,6 @@
         },
         "description": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
         "publishedAt": "2026-09-21T23:01:26.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Vet prescription fees capped under rule changes",
-        "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
-        "publishedAt": "2026-09-22T07:39:35.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -750,13 +750,24 @@
         "zone": "au"
       },
       {
+        "title": "Trump says he would back ban on diesel exports",
+        "url": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Republicans lawmakers have put pressure on the president to curb exports as diesel prices soar to record highs in the US.",
+        "publishedAt": "2026-09-22T20:41:13.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "New EU industry rules would damage UK, warns Burnham",
         "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
-        "publishedAt": "2026-09-22T13:10:23.000Z",
+        "description": "The prime minister met the European Commission President during his visit to the United Nations General Assembly.",
+        "publishedAt": "2026-09-22T21:18:40.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -768,17 +779,6 @@
         },
         "description": "The food delivery giant will pay a $131.5m settlement following a city probe into wage violations.",
         "publishedAt": "2026-09-22T16:50:24.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
-        "url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
-        "publishedAt": "2026-09-22T16:50:29.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -805,6 +805,17 @@
         "zone": "au"
       },
       {
+        "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
+        "url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
+        "publishedAt": "2026-09-22T16:50:29.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
         "url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -812,17 +823,6 @@
         },
         "description": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
         "publishedAt": "2026-09-21T23:01:26.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Vet prescription fees capped under rule changes",
-        "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
-        "publishedAt": "2026-09-22T07:39:35.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -842,13 +842,24 @@
         "zone": "ca"
       },
       {
+        "title": "Trump says he would back ban on diesel exports",
+        "url": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Republicans lawmakers have put pressure on the president to curb exports as diesel prices soar to record highs in the US.",
+        "publishedAt": "2026-09-22T20:41:13.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "New EU industry rules would damage UK, warns Burnham",
         "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
-        "publishedAt": "2026-09-22T13:10:23.000Z",
+        "description": "The prime minister met the European Commission President during his visit to the United Nations General Assembly.",
+        "publishedAt": "2026-09-22T21:18:40.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -860,17 +871,6 @@
         },
         "description": "The food delivery giant will pay a $131.5m settlement following a city probe into wage violations.",
         "publishedAt": "2026-09-22T16:50:24.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
-        "url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
-        "publishedAt": "2026-09-22T16:50:29.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -897,6 +897,17 @@
         "zone": "ca"
       },
       {
+        "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
+        "url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
+        "publishedAt": "2026-09-22T16:50:29.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
         "url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -906,22 +917,22 @@
         "publishedAt": "2026-09-21T23:01:26.000Z",
         "category": "business",
         "zone": "ca"
-      },
-      {
-        "title": "Vet prescription fees capped under rule changes",
-        "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
-        "publishedAt": "2026-09-22T07:39:35.000Z",
-        "category": "business",
-        "zone": "ca"
       }
     ]
   },
   "entertainment_us": {
     "articles": [
+      {
+        "title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Past Booker winners Marlon James and Douglas Stuart are among the nominees for this year's award.",
+        "publishedAt": "2026-09-22T19:01:18.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
       {
         "title": "Ella Langley's Choosin' Texas becomes longest-running number one in US chart history",
         "url": "https://www.bbc.co.uk/news/articles/cwyvz0yvqre8o?at_medium=RSS&at_campaign=rss",
@@ -956,35 +967,13 @@
         "zone": "us"
       },
       {
-        "title": "Harper Lee first edition novel found in Oxfam shop",
-        "url": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo?at_medium=RSS&at_campaign=rss",
+        "title": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
+        "url": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London.",
-        "publishedAt": "2026-09-22T10:11:36.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Can you take the 'London' out of London Fashion Week?",
-        "url": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "An initiative to show that LFW is \"bigger than London\" launched this year - but will it make a difference?",
-        "publishedAt": "2026-09-22T09:27:28.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Apple Music to open concert venue in Battersea",
-        "url": "https://www.bbc.co.uk/news/articles/c607l2j2rj8ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The tech giant has built its own concert hall, but says its not in competition with small venues.",
-        "publishedAt": "2026-09-22T05:22:58.000Z",
+        "description": "Princess Diana's brother apologised to Morgan for a factual error in his memoir. Morgan said he is \"pursuing legal action\" against Spencer.",
+        "publishedAt": "2026-09-22T20:08:52.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -1000,13 +989,24 @@
         "zone": "us"
       },
       {
-        "title": "How fields of Fermanagh helped Daisy Edgar-Jones prepare for her latest film",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9xpg19x43o?at_medium=RSS&at_campaign=rss",
+        "title": "Dolly Parton free book scheme to expand in London",
+        "url": "https://www.bbc.co.uk/news/articles/ckwyz06qg983o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The actress, whose mum is from County Down, recalls long childhood summers in Northern Ireland.",
-        "publishedAt": "2026-09-22T06:20:52.000Z",
+        "description": "The late singer's Imagination Library posts children a free book every month until they turn five.",
+        "publishedAt": "2026-09-22T20:16:43.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Harper Lee first edition novel found in Oxfam shop",
+        "url": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London.",
+        "publishedAt": "2026-09-22T10:11:36.000Z",
         "category": "entertainment",
         "zone": "us"
       }
@@ -1015,6 +1015,17 @@
   "entertainment_gb": {
     "articles": [
       {
+        "title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Past Booker winners Marlon James and Douglas Stuart are among the nominees for this year's award.",
+        "publishedAt": "2026-09-22T19:01:18.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
         "title": "Ella Langley's Choosin' Texas becomes longest-running number one in US chart history",
         "url": "https://www.bbc.co.uk/news/articles/cwyvz0yvqre8o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1048,35 +1059,13 @@
         "zone": "gb"
       },
       {
-        "title": "Harper Lee first edition novel found in Oxfam shop",
-        "url": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo?at_medium=RSS&at_campaign=rss",
+        "title": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
+        "url": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London.",
-        "publishedAt": "2026-09-22T10:11:36.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Can you take the 'London' out of London Fashion Week?",
-        "url": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "An initiative to show that LFW is \"bigger than London\" launched this year - but will it make a difference?",
-        "publishedAt": "2026-09-22T09:27:28.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Apple Music to open concert venue in Battersea",
-        "url": "https://www.bbc.co.uk/news/articles/c607l2j2rj8ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The tech giant has built its own concert hall, but says its not in competition with small venues.",
-        "publishedAt": "2026-09-22T05:22:58.000Z",
+        "description": "Princess Diana's brother apologised to Morgan for a factual error in his memoir. Morgan said he is \"pursuing legal action\" against Spencer.",
+        "publishedAt": "2026-09-22T20:08:52.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1092,13 +1081,24 @@
         "zone": "gb"
       },
       {
-        "title": "How fields of Fermanagh helped Daisy Edgar-Jones prepare for her latest film",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9xpg19x43o?at_medium=RSS&at_campaign=rss",
+        "title": "Dolly Parton free book scheme to expand in London",
+        "url": "https://www.bbc.co.uk/news/articles/ckwyz06qg983o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The actress, whose mum is from County Down, recalls long childhood summers in Northern Ireland.",
-        "publishedAt": "2026-09-22T06:20:52.000Z",
+        "description": "The late singer's Imagination Library posts children a free book every month until they turn five.",
+        "publishedAt": "2026-09-22T20:16:43.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Harper Lee first edition novel found in Oxfam shop",
+        "url": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London.",
+        "publishedAt": "2026-09-22T10:11:36.000Z",
         "category": "entertainment",
         "zone": "gb"
       }
@@ -1107,6 +1107,17 @@
   "entertainment_in": {
     "articles": [
       {
+        "title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Past Booker winners Marlon James and Douglas Stuart are among the nominees for this year's award.",
+        "publishedAt": "2026-09-22T19:01:18.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
         "title": "Ella Langley's Choosin' Texas becomes longest-running number one in US chart history",
         "url": "https://www.bbc.co.uk/news/articles/cwyvz0yvqre8o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1140,35 +1151,13 @@
         "zone": "in"
       },
       {
-        "title": "Harper Lee first edition novel found in Oxfam shop",
-        "url": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo?at_medium=RSS&at_campaign=rss",
+        "title": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
+        "url": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London.",
-        "publishedAt": "2026-09-22T10:11:36.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Can you take the 'London' out of London Fashion Week?",
-        "url": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "An initiative to show that LFW is \"bigger than London\" launched this year - but will it make a difference?",
-        "publishedAt": "2026-09-22T09:27:28.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Apple Music to open concert venue in Battersea",
-        "url": "https://www.bbc.co.uk/news/articles/c607l2j2rj8ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The tech giant has built its own concert hall, but says its not in competition with small venues.",
-        "publishedAt": "2026-09-22T05:22:58.000Z",
+        "description": "Princess Diana's brother apologised to Morgan for a factual error in his memoir. Morgan said he is \"pursuing legal action\" against Spencer.",
+        "publishedAt": "2026-09-22T20:08:52.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1184,13 +1173,24 @@
         "zone": "in"
       },
       {
-        "title": "How fields of Fermanagh helped Daisy Edgar-Jones prepare for her latest film",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9xpg19x43o?at_medium=RSS&at_campaign=rss",
+        "title": "Dolly Parton free book scheme to expand in London",
+        "url": "https://www.bbc.co.uk/news/articles/ckwyz06qg983o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The actress, whose mum is from County Down, recalls long childhood summers in Northern Ireland.",
-        "publishedAt": "2026-09-22T06:20:52.000Z",
+        "description": "The late singer's Imagination Library posts children a free book every month until they turn five.",
+        "publishedAt": "2026-09-22T20:16:43.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Harper Lee first edition novel found in Oxfam shop",
+        "url": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London.",
+        "publishedAt": "2026-09-22T10:11:36.000Z",
         "category": "entertainment",
         "zone": "in"
       }
@@ -1199,6 +1199,17 @@
   "entertainment_au": {
     "articles": [
       {
+        "title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Past Booker winners Marlon James and Douglas Stuart are among the nominees for this year's award.",
+        "publishedAt": "2026-09-22T19:01:18.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
         "title": "Ella Langley's Choosin' Texas becomes longest-running number one in US chart history",
         "url": "https://www.bbc.co.uk/news/articles/cwyvz0yvqre8o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1232,35 +1243,13 @@
         "zone": "au"
       },
       {
-        "title": "Harper Lee first edition novel found in Oxfam shop",
-        "url": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo?at_medium=RSS&at_campaign=rss",
+        "title": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
+        "url": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London.",
-        "publishedAt": "2026-09-22T10:11:36.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Can you take the 'London' out of London Fashion Week?",
-        "url": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "An initiative to show that LFW is \"bigger than London\" launched this year - but will it make a difference?",
-        "publishedAt": "2026-09-22T09:27:28.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Apple Music to open concert venue in Battersea",
-        "url": "https://www.bbc.co.uk/news/articles/c607l2j2rj8ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The tech giant has built its own concert hall, but says its not in competition with small venues.",
-        "publishedAt": "2026-09-22T05:22:58.000Z",
+        "description": "Princess Diana's brother apologised to Morgan for a factual error in his memoir. Morgan said he is \"pursuing legal action\" against Spencer.",
+        "publishedAt": "2026-09-22T20:08:52.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1276,13 +1265,24 @@
         "zone": "au"
       },
       {
-        "title": "How fields of Fermanagh helped Daisy Edgar-Jones prepare for her latest film",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9xpg19x43o?at_medium=RSS&at_campaign=rss",
+        "title": "Dolly Parton free book scheme to expand in London",
+        "url": "https://www.bbc.co.uk/news/articles/ckwyz06qg983o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The actress, whose mum is from County Down, recalls long childhood summers in Northern Ireland.",
-        "publishedAt": "2026-09-22T06:20:52.000Z",
+        "description": "The late singer's Imagination Library posts children a free book every month until they turn five.",
+        "publishedAt": "2026-09-22T20:16:43.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Harper Lee first edition novel found in Oxfam shop",
+        "url": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London.",
+        "publishedAt": "2026-09-22T10:11:36.000Z",
         "category": "entertainment",
         "zone": "au"
       }
@@ -1291,6 +1291,17 @@
   "entertainment_ca": {
     "articles": [
       {
+        "title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Past Booker winners Marlon James and Douglas Stuart are among the nominees for this year's award.",
+        "publishedAt": "2026-09-22T19:01:18.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
         "title": "Ella Langley's Choosin' Texas becomes longest-running number one in US chart history",
         "url": "https://www.bbc.co.uk/news/articles/cwyvz0yvqre8o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1324,35 +1335,13 @@
         "zone": "ca"
       },
       {
-        "title": "Harper Lee first edition novel found in Oxfam shop",
-        "url": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo?at_medium=RSS&at_campaign=rss",
+        "title": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
+        "url": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London.",
-        "publishedAt": "2026-09-22T10:11:36.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Can you take the 'London' out of London Fashion Week?",
-        "url": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "An initiative to show that LFW is \"bigger than London\" launched this year - but will it make a difference?",
-        "publishedAt": "2026-09-22T09:27:28.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Apple Music to open concert venue in Battersea",
-        "url": "https://www.bbc.co.uk/news/articles/c607l2j2rj8ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The tech giant has built its own concert hall, but says its not in competition with small venues.",
-        "publishedAt": "2026-09-22T05:22:58.000Z",
+        "description": "Princess Diana's brother apologised to Morgan for a factual error in his memoir. Morgan said he is \"pursuing legal action\" against Spencer.",
+        "publishedAt": "2026-09-22T20:08:52.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1368,13 +1357,24 @@
         "zone": "ca"
       },
       {
-        "title": "How fields of Fermanagh helped Daisy Edgar-Jones prepare for her latest film",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9xpg19x43o?at_medium=RSS&at_campaign=rss",
+        "title": "Dolly Parton free book scheme to expand in London",
+        "url": "https://www.bbc.co.uk/news/articles/ckwyz06qg983o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The actress, whose mum is from County Down, recalls long childhood summers in Northern Ireland.",
-        "publishedAt": "2026-09-22T06:20:52.000Z",
+        "description": "The late singer's Imagination Library posts children a free book every month until they turn five.",
+        "publishedAt": "2026-09-22T20:16:43.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "Harper Lee first edition novel found in Oxfam shop",
+        "url": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London.",
+        "publishedAt": "2026-09-22T10:11:36.000Z",
         "category": "entertainment",
         "zone": "ca"
       }
@@ -2303,6 +2303,17 @@
   "sports_us": {
     "articles": [
       {
+        "title": "Jacks stars as England grind out win over Sri Lanka",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Will Jacks' all-round efforts help England grind out an 89-run victory over Sri Lanka in the first one-day international at Chester-le-Street.",
+        "publishedAt": "2026-09-22T19:08:52.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "I was close to joining Liverpool in 2016 - Mbappe",
         "url": "https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2321,6 +2332,17 @@
         },
         "description": "Henry Pollock turned down rival offers worth much more than his Northampton extension, which will earn him over £400,000 a year, says adviser Eddie Hearn.",
         "publishedAt": "2026-09-22T13:54:18.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Banned British player's £15m lawsuit against WTA dismissed",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c9x2z652v86no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "British player Tara Moore's legal bid for £15m in damages over a doping case which led to her being banned for four years is dismissed.",
+        "publishedAt": "2026-09-22T18:34:15.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2358,35 +2380,13 @@
         "zone": "us"
       },
       {
-        "title": "Arteta agrees new deal with champions Arsenal",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+        "title": "Menzies upsets Van Veen to win second title of year",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/cmy0z4wg7vlwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mikel Arteta agrees an improved new contract with Premier League champions Arsenal.",
-        "publishedAt": "2026-09-22T11:48:23.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Chelsea struggles to Villa bench - Garnacho faces defining season",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c51kxgj43n89o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alejandro Garnacho joined Aston Villa on loan from Chelsea with a view to kick-starting his career, but his early weeks in the Midlands have been a struggle.",
-        "publishedAt": "2026-09-22T06:19:17.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Record prize fund for 2028 European Championships",
-        "url": "https://www.bbc.co.uk/sport/athletics/articles/cmzxzq7gy409o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The European Athletics Championships will have a total record prize fund worth £3m when it takes place in Poland in 2028.",
-        "publishedAt": "2026-09-22T15:13:00.000Z",
+        "description": "Scotland's Cameron Menzies celebrates his second tournament win of the year after beating Gian van Veen to the Players Championship 29 title in Den Bosch.",
+        "publishedAt": "2026-09-22T18:53:34.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,6 +2395,17 @@
   "sports_gb": {
     "articles": [
       {
+        "title": "Jacks stars as England grind out win over Sri Lanka",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Will Jacks' all-round efforts help England grind out an 89-run victory over Sri Lanka in the first one-day international at Chester-le-Street.",
+        "publishedAt": "2026-09-22T19:08:52.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "I was close to joining Liverpool in 2016 - Mbappe",
         "url": "https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2413,6 +2424,17 @@
         },
         "description": "Henry Pollock turned down rival offers worth much more than his Northampton extension, which will earn him over £400,000 a year, says adviser Eddie Hearn.",
         "publishedAt": "2026-09-22T13:54:18.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Banned British player's £15m lawsuit against WTA dismissed",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c9x2z652v86no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "British player Tara Moore's legal bid for £15m in damages over a doping case which led to her being banned for four years is dismissed.",
+        "publishedAt": "2026-09-22T18:34:15.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2450,35 +2472,13 @@
         "zone": "gb"
       },
       {
-        "title": "Arteta agrees new deal with champions Arsenal",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+        "title": "Menzies upsets Van Veen to win second title of year",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/cmy0z4wg7vlwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mikel Arteta agrees an improved new contract with Premier League champions Arsenal.",
-        "publishedAt": "2026-09-22T11:48:23.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Chelsea struggles to Villa bench - Garnacho faces defining season",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c51kxgj43n89o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alejandro Garnacho joined Aston Villa on loan from Chelsea with a view to kick-starting his career, but his early weeks in the Midlands have been a struggle.",
-        "publishedAt": "2026-09-22T06:19:17.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Record prize fund for 2028 European Championships",
-        "url": "https://www.bbc.co.uk/sport/athletics/articles/cmzxzq7gy409o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The European Athletics Championships will have a total record prize fund worth £3m when it takes place in Poland in 2028.",
-        "publishedAt": "2026-09-22T15:13:00.000Z",
+        "description": "Scotland's Cameron Menzies celebrates his second tournament win of the year after beating Gian van Veen to the Players Championship 29 title in Den Bosch.",
+        "publishedAt": "2026-09-22T18:53:34.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,6 +2487,17 @@
   "sports_in": {
     "articles": [
       {
+        "title": "Jacks stars as England grind out win over Sri Lanka",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Will Jacks' all-round efforts help England grind out an 89-run victory over Sri Lanka in the first one-day international at Chester-le-Street.",
+        "publishedAt": "2026-09-22T19:08:52.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "I was close to joining Liverpool in 2016 - Mbappe",
         "url": "https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2505,6 +2516,17 @@
         },
         "description": "Henry Pollock turned down rival offers worth much more than his Northampton extension, which will earn him over £400,000 a year, says adviser Eddie Hearn.",
         "publishedAt": "2026-09-22T13:54:18.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Banned British player's £15m lawsuit against WTA dismissed",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c9x2z652v86no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "British player Tara Moore's legal bid for £15m in damages over a doping case which led to her being banned for four years is dismissed.",
+        "publishedAt": "2026-09-22T18:34:15.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2542,35 +2564,13 @@
         "zone": "in"
       },
       {
-        "title": "Arteta agrees new deal with champions Arsenal",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+        "title": "Menzies upsets Van Veen to win second title of year",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/cmy0z4wg7vlwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mikel Arteta agrees an improved new contract with Premier League champions Arsenal.",
-        "publishedAt": "2026-09-22T11:48:23.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Chelsea struggles to Villa bench - Garnacho faces defining season",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c51kxgj43n89o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alejandro Garnacho joined Aston Villa on loan from Chelsea with a view to kick-starting his career, but his early weeks in the Midlands have been a struggle.",
-        "publishedAt": "2026-09-22T06:19:17.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Record prize fund for 2028 European Championships",
-        "url": "https://www.bbc.co.uk/sport/athletics/articles/cmzxzq7gy409o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The European Athletics Championships will have a total record prize fund worth £3m when it takes place in Poland in 2028.",
-        "publishedAt": "2026-09-22T15:13:00.000Z",
+        "description": "Scotland's Cameron Menzies celebrates his second tournament win of the year after beating Gian van Veen to the Players Championship 29 title in Den Bosch.",
+        "publishedAt": "2026-09-22T18:53:34.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,6 +2579,17 @@
   "sports_au": {
     "articles": [
       {
+        "title": "Jacks stars as England grind out win over Sri Lanka",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Will Jacks' all-round efforts help England grind out an 89-run victory over Sri Lanka in the first one-day international at Chester-le-Street.",
+        "publishedAt": "2026-09-22T19:08:52.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "I was close to joining Liverpool in 2016 - Mbappe",
         "url": "https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2597,6 +2608,17 @@
         },
         "description": "Henry Pollock turned down rival offers worth much more than his Northampton extension, which will earn him over £400,000 a year, says adviser Eddie Hearn.",
         "publishedAt": "2026-09-22T13:54:18.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Banned British player's £15m lawsuit against WTA dismissed",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c9x2z652v86no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "British player Tara Moore's legal bid for £15m in damages over a doping case which led to her being banned for four years is dismissed.",
+        "publishedAt": "2026-09-22T18:34:15.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2634,35 +2656,13 @@
         "zone": "au"
       },
       {
-        "title": "Arteta agrees new deal with champions Arsenal",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+        "title": "Menzies upsets Van Veen to win second title of year",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/cmy0z4wg7vlwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mikel Arteta agrees an improved new contract with Premier League champions Arsenal.",
-        "publishedAt": "2026-09-22T11:48:23.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Chelsea struggles to Villa bench - Garnacho faces defining season",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c51kxgj43n89o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alejandro Garnacho joined Aston Villa on loan from Chelsea with a view to kick-starting his career, but his early weeks in the Midlands have been a struggle.",
-        "publishedAt": "2026-09-22T06:19:17.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Record prize fund for 2028 European Championships",
-        "url": "https://www.bbc.co.uk/sport/athletics/articles/cmzxzq7gy409o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The European Athletics Championships will have a total record prize fund worth £3m when it takes place in Poland in 2028.",
-        "publishedAt": "2026-09-22T15:13:00.000Z",
+        "description": "Scotland's Cameron Menzies celebrates his second tournament win of the year after beating Gian van Veen to the Players Championship 29 title in Den Bosch.",
+        "publishedAt": "2026-09-22T18:53:34.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,6 +2671,17 @@
   "sports_ca": {
     "articles": [
       {
+        "title": "Jacks stars as England grind out win over Sri Lanka",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Will Jacks' all-round efforts help England grind out an 89-run victory over Sri Lanka in the first one-day international at Chester-le-Street.",
+        "publishedAt": "2026-09-22T19:08:52.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "I was close to joining Liverpool in 2016 - Mbappe",
         "url": "https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2689,6 +2700,17 @@
         },
         "description": "Henry Pollock turned down rival offers worth much more than his Northampton extension, which will earn him over £400,000 a year, says adviser Eddie Hearn.",
         "publishedAt": "2026-09-22T13:54:18.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Banned British player's £15m lawsuit against WTA dismissed",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c9x2z652v86no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "British player Tara Moore's legal bid for £15m in damages over a doping case which led to her being banned for four years is dismissed.",
+        "publishedAt": "2026-09-22T18:34:15.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2726,35 +2748,13 @@
         "zone": "ca"
       },
       {
-        "title": "Arteta agrees new deal with champions Arsenal",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+        "title": "Menzies upsets Van Veen to win second title of year",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/cmy0z4wg7vlwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mikel Arteta agrees an improved new contract with Premier League champions Arsenal.",
-        "publishedAt": "2026-09-22T11:48:23.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Chelsea struggles to Villa bench - Garnacho faces defining season",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c51kxgj43n89o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alejandro Garnacho joined Aston Villa on loan from Chelsea with a view to kick-starting his career, but his early weeks in the Midlands have been a struggle.",
-        "publishedAt": "2026-09-22T06:19:17.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Record prize fund for 2028 European Championships",
-        "url": "https://www.bbc.co.uk/sport/athletics/articles/cmzxzq7gy409o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The European Athletics Championships will have a total record prize fund worth £3m when it takes place in Poland in 2028.",
-        "publishedAt": "2026-09-22T15:13:00.000Z",
+        "description": "Scotland's Cameron Menzies celebrates his second tournament win of the year after beating Gian van Veen to the Players Championship 29 title in Den Bosch.",
+        "publishedAt": "2026-09-22T18:53:34.000Z",
         "category": "sports",
         "zone": "ca"
       }
