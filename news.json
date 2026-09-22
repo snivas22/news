@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-09-22T09:08:07.640Z",
+  "generatedAt": "2026-09-22T14:26:08.460Z",
   "general_us": {
     "articles": [
+      {
+        "title": "New EU industry rules would damage UK, warns Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
+        "publishedAt": "2026-09-22T13:10:23.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "Martha's Rule rolled out at every A&E department in England",
         "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
@@ -14,57 +25,35 @@
         "zone": "us"
       },
       {
-        "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
-        "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+        "title": "Father admits causing death of his son in hotel fall",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
-        "publishedAt": "2026-09-22T08:52:12.000Z",
+        "description": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
+        "publishedAt": "2026-09-22T11:18:27.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Burnham expects to find 'common ground' with Trump in first meeting",
-        "url": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
+        "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+        "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
-        "publishedAt": "2026-09-22T06:03:22.000Z",
+        "description": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+        "publishedAt": "2026-09-22T11:34:11.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Who will - and who won't - be talking to Donald Trump at the UN General Assembly?",
-        "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
+        "title": "Tim Westwood charged with two more sexual offences",
+        "url": "https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The BBC’s Sarah Smith outlines which world leaders Trump is set to meet and the key topics expected on the agenda.",
-        "publishedAt": "2026-09-22T04:05:58.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "UK to help refuel Saudi jets countering Houthi attacks",
-        "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The UK says it will provide air-to-air refuelling for \"defensive\" operations following a request from Saudi Arabia.",
-        "publishedAt": "2026-09-22T08:53:03.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Scientists discover why Kent meningitis outbreak was so severe",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The bacteria responsible picked up some new genetic material, say experts.",
-        "publishedAt": "2026-09-22T07:55:56.000Z",
+        "description": "The alleged sexual offences date back to 1991 and 2004.",
+        "publishedAt": "2026-09-22T14:16:34.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -80,13 +69,24 @@
         "zone": "us"
       },
       {
-        "title": "Vet prescription fees capped under rule changes",
-        "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
+        "title": "Scientists discover why Kent meningitis outbreak was so severe",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
-        "publishedAt": "2026-09-22T07:39:35.000Z",
+        "description": "The bacteria responsible picked up some new genetic material, say experts.",
+        "publishedAt": "2026-09-22T13:35:38.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
+        "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
+        "publishedAt": "2026-09-22T08:52:12.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,6 +95,17 @@
   "general_gb": {
     "articles": [
       {
+        "title": "New EU industry rules would damage UK, warns Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
+        "publishedAt": "2026-09-22T13:10:23.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Martha's Rule rolled out at every A&E department in England",
         "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -106,57 +117,35 @@
         "zone": "gb"
       },
       {
-        "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
-        "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+        "title": "Father admits causing death of his son in hotel fall",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
-        "publishedAt": "2026-09-22T08:52:12.000Z",
+        "description": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
+        "publishedAt": "2026-09-22T11:18:27.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Burnham expects to find 'common ground' with Trump in first meeting",
-        "url": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
+        "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+        "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
-        "publishedAt": "2026-09-22T06:03:22.000Z",
+        "description": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+        "publishedAt": "2026-09-22T11:34:11.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Who will - and who won't - be talking to Donald Trump at the UN General Assembly?",
-        "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
+        "title": "Tim Westwood charged with two more sexual offences",
+        "url": "https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The BBC’s Sarah Smith outlines which world leaders Trump is set to meet and the key topics expected on the agenda.",
-        "publishedAt": "2026-09-22T04:05:58.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "UK to help refuel Saudi jets countering Houthi attacks",
-        "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The UK says it will provide air-to-air refuelling for \"defensive\" operations following a request from Saudi Arabia.",
-        "publishedAt": "2026-09-22T08:53:03.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Scientists discover why Kent meningitis outbreak was so severe",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The bacteria responsible picked up some new genetic material, say experts.",
-        "publishedAt": "2026-09-22T07:55:56.000Z",
+        "description": "The alleged sexual offences date back to 1991 and 2004.",
+        "publishedAt": "2026-09-22T14:16:34.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -172,13 +161,24 @@
         "zone": "gb"
       },
       {
-        "title": "Vet prescription fees capped under rule changes",
-        "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
+        "title": "Scientists discover why Kent meningitis outbreak was so severe",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
-        "publishedAt": "2026-09-22T07:39:35.000Z",
+        "description": "The bacteria responsible picked up some new genetic material, say experts.",
+        "publishedAt": "2026-09-22T13:35:38.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
+        "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
+        "publishedAt": "2026-09-22T08:52:12.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,6 +187,17 @@
   "general_in": {
     "articles": [
       {
+        "title": "New EU industry rules would damage UK, warns Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
+        "publishedAt": "2026-09-22T13:10:23.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Martha's Rule rolled out at every A&E department in England",
         "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -198,57 +209,35 @@
         "zone": "in"
       },
       {
-        "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
-        "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+        "title": "Father admits causing death of his son in hotel fall",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
-        "publishedAt": "2026-09-22T08:52:12.000Z",
+        "description": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
+        "publishedAt": "2026-09-22T11:18:27.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Burnham expects to find 'common ground' with Trump in first meeting",
-        "url": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
+        "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+        "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
-        "publishedAt": "2026-09-22T06:03:22.000Z",
+        "description": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+        "publishedAt": "2026-09-22T11:34:11.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Who will - and who won't - be talking to Donald Trump at the UN General Assembly?",
-        "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
+        "title": "Tim Westwood charged with two more sexual offences",
+        "url": "https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The BBC’s Sarah Smith outlines which world leaders Trump is set to meet and the key topics expected on the agenda.",
-        "publishedAt": "2026-09-22T04:05:58.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "UK to help refuel Saudi jets countering Houthi attacks",
-        "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The UK says it will provide air-to-air refuelling for \"defensive\" operations following a request from Saudi Arabia.",
-        "publishedAt": "2026-09-22T08:53:03.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Scientists discover why Kent meningitis outbreak was so severe",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The bacteria responsible picked up some new genetic material, say experts.",
-        "publishedAt": "2026-09-22T07:55:56.000Z",
+        "description": "The alleged sexual offences date back to 1991 and 2004.",
+        "publishedAt": "2026-09-22T14:16:34.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -264,13 +253,24 @@
         "zone": "in"
       },
       {
-        "title": "Vet prescription fees capped under rule changes",
-        "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
+        "title": "Scientists discover why Kent meningitis outbreak was so severe",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
-        "publishedAt": "2026-09-22T07:39:35.000Z",
+        "description": "The bacteria responsible picked up some new genetic material, say experts.",
+        "publishedAt": "2026-09-22T13:35:38.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
+        "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
+        "publishedAt": "2026-09-22T08:52:12.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,6 +279,17 @@
   "general_au": {
     "articles": [
       {
+        "title": "New EU industry rules would damage UK, warns Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
+        "publishedAt": "2026-09-22T13:10:23.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Martha's Rule rolled out at every A&E department in England",
         "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -290,57 +301,35 @@
         "zone": "au"
       },
       {
-        "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
-        "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+        "title": "Father admits causing death of his son in hotel fall",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
-        "publishedAt": "2026-09-22T08:52:12.000Z",
+        "description": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
+        "publishedAt": "2026-09-22T11:18:27.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Burnham expects to find 'common ground' with Trump in first meeting",
-        "url": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
+        "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+        "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
-        "publishedAt": "2026-09-22T06:03:22.000Z",
+        "description": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+        "publishedAt": "2026-09-22T11:34:11.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Who will - and who won't - be talking to Donald Trump at the UN General Assembly?",
-        "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
+        "title": "Tim Westwood charged with two more sexual offences",
+        "url": "https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The BBC’s Sarah Smith outlines which world leaders Trump is set to meet and the key topics expected on the agenda.",
-        "publishedAt": "2026-09-22T04:05:58.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "UK to help refuel Saudi jets countering Houthi attacks",
-        "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The UK says it will provide air-to-air refuelling for \"defensive\" operations following a request from Saudi Arabia.",
-        "publishedAt": "2026-09-22T08:53:03.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Scientists discover why Kent meningitis outbreak was so severe",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The bacteria responsible picked up some new genetic material, say experts.",
-        "publishedAt": "2026-09-22T07:55:56.000Z",
+        "description": "The alleged sexual offences date back to 1991 and 2004.",
+        "publishedAt": "2026-09-22T14:16:34.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -356,13 +345,24 @@
         "zone": "au"
       },
       {
-        "title": "Vet prescription fees capped under rule changes",
-        "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
+        "title": "Scientists discover why Kent meningitis outbreak was so severe",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
-        "publishedAt": "2026-09-22T07:39:35.000Z",
+        "description": "The bacteria responsible picked up some new genetic material, say experts.",
+        "publishedAt": "2026-09-22T13:35:38.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
+        "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
+        "publishedAt": "2026-09-22T08:52:12.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,6 +371,17 @@
   "general_ca": {
     "articles": [
       {
+        "title": "New EU industry rules would damage UK, warns Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
+        "publishedAt": "2026-09-22T13:10:23.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Martha's Rule rolled out at every A&E department in England",
         "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -382,57 +393,35 @@
         "zone": "ca"
       },
       {
-        "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
-        "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+        "title": "Father admits causing death of his son in hotel fall",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
-        "publishedAt": "2026-09-22T08:52:12.000Z",
+        "description": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
+        "publishedAt": "2026-09-22T11:18:27.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Burnham expects to find 'common ground' with Trump in first meeting",
-        "url": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
+        "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+        "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
-        "publishedAt": "2026-09-22T06:03:22.000Z",
+        "description": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+        "publishedAt": "2026-09-22T11:34:11.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Who will - and who won't - be talking to Donald Trump at the UN General Assembly?",
-        "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
+        "title": "Tim Westwood charged with two more sexual offences",
+        "url": "https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The BBC’s Sarah Smith outlines which world leaders Trump is set to meet and the key topics expected on the agenda.",
-        "publishedAt": "2026-09-22T04:05:58.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "UK to help refuel Saudi jets countering Houthi attacks",
-        "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The UK says it will provide air-to-air refuelling for \"defensive\" operations following a request from Saudi Arabia.",
-        "publishedAt": "2026-09-22T08:53:03.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Scientists discover why Kent meningitis outbreak was so severe",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The bacteria responsible picked up some new genetic material, say experts.",
-        "publishedAt": "2026-09-22T07:55:56.000Z",
+        "description": "The alleged sexual offences date back to 1991 and 2004.",
+        "publishedAt": "2026-09-22T14:16:34.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -448,13 +437,24 @@
         "zone": "ca"
       },
       {
-        "title": "Vet prescription fees capped under rule changes",
-        "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
+        "title": "Scientists discover why Kent meningitis outbreak was so severe",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
-        "publishedAt": "2026-09-22T07:39:35.000Z",
+        "description": "The bacteria responsible picked up some new genetic material, say experts.",
+        "publishedAt": "2026-09-22T13:35:38.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
+        "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
+        "publishedAt": "2026-09-22T08:52:12.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -463,6 +463,17 @@
   "business_us": {
     "articles": [
       {
+        "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+        "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+        "publishedAt": "2026-09-22T11:34:11.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
         "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -507,24 +518,24 @@
         "zone": "us"
       },
       {
+        "title": "Spain battles climate change on several fronts",
+        "url": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
+        "publishedAt": "2026-09-22T09:11:48.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
         "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
-        "publishedAt": "2026-09-21T21:34:32.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Airlines criticise air traffic control as second glitch causes more disruption",
-        "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Prime Minister Andy Burnham said further issues \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
-        "publishedAt": "2026-09-21T20:21:18.000Z",
+        "publishedAt": "2026-09-22T11:24:48.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -536,17 +547,6 @@
         },
         "description": "The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic.",
         "publishedAt": "2026-09-21T16:39:01.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Flights at major US airports delayed after cable cut by construction workers",
-        "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
-        "publishedAt": "2026-09-22T01:36:54.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,6 +555,17 @@
   "business_gb": {
     "articles": [
       {
+        "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+        "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+        "publishedAt": "2026-09-22T11:34:11.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
         "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -599,24 +610,24 @@
         "zone": "gb"
       },
       {
+        "title": "Spain battles climate change on several fronts",
+        "url": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
+        "publishedAt": "2026-09-22T09:11:48.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
         "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
-        "publishedAt": "2026-09-21T21:34:32.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Airlines criticise air traffic control as second glitch causes more disruption",
-        "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Prime Minister Andy Burnham said further issues \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
-        "publishedAt": "2026-09-21T20:21:18.000Z",
+        "publishedAt": "2026-09-22T11:24:48.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -628,17 +639,6 @@
         },
         "description": "The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic.",
         "publishedAt": "2026-09-21T16:39:01.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Flights at major US airports delayed after cable cut by construction workers",
-        "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
-        "publishedAt": "2026-09-22T01:36:54.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,6 +647,17 @@
   "business_in": {
     "articles": [
       {
+        "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+        "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+        "publishedAt": "2026-09-22T11:34:11.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
         "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -691,24 +702,24 @@
         "zone": "in"
       },
       {
+        "title": "Spain battles climate change on several fronts",
+        "url": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
+        "publishedAt": "2026-09-22T09:11:48.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
         "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
-        "publishedAt": "2026-09-21T21:34:32.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Airlines criticise air traffic control as second glitch causes more disruption",
-        "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Prime Minister Andy Burnham said further issues \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
-        "publishedAt": "2026-09-21T20:21:18.000Z",
+        "publishedAt": "2026-09-22T11:24:48.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -720,17 +731,6 @@
         },
         "description": "The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic.",
         "publishedAt": "2026-09-21T16:39:01.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Flights at major US airports delayed after cable cut by construction workers",
-        "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
-        "publishedAt": "2026-09-22T01:36:54.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,6 +739,17 @@
   "business_au": {
     "articles": [
       {
+        "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+        "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+        "publishedAt": "2026-09-22T11:34:11.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
         "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -783,24 +794,24 @@
         "zone": "au"
       },
       {
+        "title": "Spain battles climate change on several fronts",
+        "url": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
+        "publishedAt": "2026-09-22T09:11:48.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
         "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
-        "publishedAt": "2026-09-21T21:34:32.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Airlines criticise air traffic control as second glitch causes more disruption",
-        "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Prime Minister Andy Burnham said further issues \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
-        "publishedAt": "2026-09-21T20:21:18.000Z",
+        "publishedAt": "2026-09-22T11:24:48.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -812,17 +823,6 @@
         },
         "description": "The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic.",
         "publishedAt": "2026-09-21T16:39:01.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Flights at major US airports delayed after cable cut by construction workers",
-        "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
-        "publishedAt": "2026-09-22T01:36:54.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,6 +831,17 @@
   "business_ca": {
     "articles": [
       {
+        "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+        "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+        "publishedAt": "2026-09-22T11:34:11.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
         "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -875,24 +886,24 @@
         "zone": "ca"
       },
       {
+        "title": "Spain battles climate change on several fronts",
+        "url": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
+        "publishedAt": "2026-09-22T09:11:48.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
         "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
-        "publishedAt": "2026-09-21T21:34:32.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Airlines criticise air traffic control as second glitch causes more disruption",
-        "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Prime Minister Andy Burnham said further issues \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
-        "publishedAt": "2026-09-21T20:21:18.000Z",
+        "publishedAt": "2026-09-22T11:24:48.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -906,30 +917,30 @@
         "publishedAt": "2026-09-21T16:39:01.000Z",
         "category": "business",
         "zone": "ca"
-      },
-      {
-        "title": "Flights at major US airports delayed after cable cut by construction workers",
-        "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
-        "publishedAt": "2026-09-22T01:36:54.000Z",
-        "category": "business",
-        "zone": "ca"
       }
     ]
   },
   "entertainment_us": {
     "articles": [
       {
-        "title": "London Fashion Week 2026: The five trends we'll see in spring",
-        "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&at_campaign=rss",
+        "title": "Harper Lee first edition novel found in Oxfam shop",
+        "url": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "As London Fashion Week comes to a close, here are the biggest trends for your wardrobe.",
-        "publishedAt": "2026-09-21T16:23:25.000Z",
+        "description": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London.",
+        "publishedAt": "2026-09-22T10:11:36.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Can you take the 'London' out of London Fashion Week?",
+        "url": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "An initiative to show that LFW is \"bigger than London\" launched this year - but will it make a difference?",
+        "publishedAt": "2026-09-22T09:27:28.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -950,8 +961,30 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The actor, whose mum is from County Down, recalls long childhood summers in Northern Ireland.",
+        "description": "The actress, whose mum is from County Down, recalls long childhood summers in Northern Ireland.",
         "publishedAt": "2026-09-22T06:20:52.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Sir Sean Connery's family plans new filmmaking centre in Edinburgh",
+        "url": "https://www.bbc.co.uk/news/articles/cmew9q277kpvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It will be named after the James Bond actor, who worked as a milkman in the Scottish capital before becoming a Hollywood star.",
+        "publishedAt": "2026-09-22T13:02:52.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Burberry closes London Fashion Week 2026 with signature check print and celeb-filled front row",
+        "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "As London Fashion Week comes to a close, here are the biggest trends for your wardrobe.",
+        "publishedAt": "2026-09-22T09:46:15.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -974,39 +1007,6 @@
         },
         "description": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
         "publishedAt": "2026-09-22T00:16:06.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Death of Cindy Crawford's son Presley Gerber being investigated as suspected overdose",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "His family asked for privacy during a \"very difficult and painful time\" following the model's death.",
-        "publishedAt": "2026-09-21T19:01:36.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "BBC removes 11 Mitchell and Webb comedy sketches from iPlayer",
-        "url": "https://www.bbc.co.uk/news/articles/c6jdvpr30k8jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The corporation said it had included \"the ones that still work today and not the ones that don't.\"",
-        "publishedAt": "2026-09-21T11:05:13.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "First look at The Other Bennet Sister Christmas special revealed",
-        "url": "https://www.bbc.co.uk/news/articles/cm2dw2r7wz0no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Filming wrapped on the BBC Christmas special in October, as fans eagerly await its return.",
-        "publishedAt": "2026-09-21T17:02:05.000Z",
         "category": "entertainment",
         "zone": "us"
       }
@@ -1015,13 +1015,24 @@
   "entertainment_gb": {
     "articles": [
       {
-        "title": "London Fashion Week 2026: The five trends we'll see in spring",
-        "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&at_campaign=rss",
+        "title": "Harper Lee first edition novel found in Oxfam shop",
+        "url": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "As London Fashion Week comes to a close, here are the biggest trends for your wardrobe.",
-        "publishedAt": "2026-09-21T16:23:25.000Z",
+        "description": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London.",
+        "publishedAt": "2026-09-22T10:11:36.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Can you take the 'London' out of London Fashion Week?",
+        "url": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "An initiative to show that LFW is \"bigger than London\" launched this year - but will it make a difference?",
+        "publishedAt": "2026-09-22T09:27:28.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1042,8 +1053,30 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The actor, whose mum is from County Down, recalls long childhood summers in Northern Ireland.",
+        "description": "The actress, whose mum is from County Down, recalls long childhood summers in Northern Ireland.",
         "publishedAt": "2026-09-22T06:20:52.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Sir Sean Connery's family plans new filmmaking centre in Edinburgh",
+        "url": "https://www.bbc.co.uk/news/articles/cmew9q277kpvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It will be named after the James Bond actor, who worked as a milkman in the Scottish capital before becoming a Hollywood star.",
+        "publishedAt": "2026-09-22T13:02:52.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Burberry closes London Fashion Week 2026 with signature check print and celeb-filled front row",
+        "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "As London Fashion Week comes to a close, here are the biggest trends for your wardrobe.",
+        "publishedAt": "2026-09-22T09:46:15.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1066,39 +1099,6 @@
         },
         "description": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
         "publishedAt": "2026-09-22T00:16:06.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Death of Cindy Crawford's son Presley Gerber being investigated as suspected overdose",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "His family asked for privacy during a \"very difficult and painful time\" following the model's death.",
-        "publishedAt": "2026-09-21T19:01:36.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "BBC removes 11 Mitchell and Webb comedy sketches from iPlayer",
-        "url": "https://www.bbc.co.uk/news/articles/c6jdvpr30k8jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The corporation said it had included \"the ones that still work today and not the ones that don't.\"",
-        "publishedAt": "2026-09-21T11:05:13.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "First look at The Other Bennet Sister Christmas special revealed",
-        "url": "https://www.bbc.co.uk/news/articles/cm2dw2r7wz0no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Filming wrapped on the BBC Christmas special in October, as fans eagerly await its return.",
-        "publishedAt": "2026-09-21T17:02:05.000Z",
         "category": "entertainment",
         "zone": "gb"
       }
@@ -1107,13 +1107,24 @@
   "entertainment_in": {
     "articles": [
       {
-        "title": "London Fashion Week 2026: The five trends we'll see in spring",
-        "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&at_campaign=rss",
+        "title": "Harper Lee first edition novel found in Oxfam shop",
+        "url": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "As London Fashion Week comes to a close, here are the biggest trends for your wardrobe.",
-        "publishedAt": "2026-09-21T16:23:25.000Z",
+        "description": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London.",
+        "publishedAt": "2026-09-22T10:11:36.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Can you take the 'London' out of London Fashion Week?",
+        "url": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "An initiative to show that LFW is \"bigger than London\" launched this year - but will it make a difference?",
+        "publishedAt": "2026-09-22T09:27:28.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1134,8 +1145,30 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The actor, whose mum is from County Down, recalls long childhood summers in Northern Ireland.",
+        "description": "The actress, whose mum is from County Down, recalls long childhood summers in Northern Ireland.",
         "publishedAt": "2026-09-22T06:20:52.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Sir Sean Connery's family plans new filmmaking centre in Edinburgh",
+        "url": "https://www.bbc.co.uk/news/articles/cmew9q277kpvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It will be named after the James Bond actor, who worked as a milkman in the Scottish capital before becoming a Hollywood star.",
+        "publishedAt": "2026-09-22T13:02:52.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Burberry closes London Fashion Week 2026 with signature check print and celeb-filled front row",
+        "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "As London Fashion Week comes to a close, here are the biggest trends for your wardrobe.",
+        "publishedAt": "2026-09-22T09:46:15.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1158,39 +1191,6 @@
         },
         "description": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
         "publishedAt": "2026-09-22T00:16:06.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Death of Cindy Crawford's son Presley Gerber being investigated as suspected overdose",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "His family asked for privacy during a \"very difficult and painful time\" following the model's death.",
-        "publishedAt": "2026-09-21T19:01:36.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "BBC removes 11 Mitchell and Webb comedy sketches from iPlayer",
-        "url": "https://www.bbc.co.uk/news/articles/c6jdvpr30k8jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The corporation said it had included \"the ones that still work today and not the ones that don't.\"",
-        "publishedAt": "2026-09-21T11:05:13.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "First look at The Other Bennet Sister Christmas special revealed",
-        "url": "https://www.bbc.co.uk/news/articles/cm2dw2r7wz0no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Filming wrapped on the BBC Christmas special in October, as fans eagerly await its return.",
-        "publishedAt": "2026-09-21T17:02:05.000Z",
         "category": "entertainment",
         "zone": "in"
       }
@@ -1199,13 +1199,24 @@
   "entertainment_au": {
     "articles": [
       {
-        "title": "London Fashion Week 2026: The five trends we'll see in spring",
-        "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&at_campaign=rss",
+        "title": "Harper Lee first edition novel found in Oxfam shop",
+        "url": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "As London Fashion Week comes to a close, here are the biggest trends for your wardrobe.",
-        "publishedAt": "2026-09-21T16:23:25.000Z",
+        "description": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London.",
+        "publishedAt": "2026-09-22T10:11:36.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Can you take the 'London' out of London Fashion Week?",
+        "url": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "An initiative to show that LFW is \"bigger than London\" launched this year - but will it make a difference?",
+        "publishedAt": "2026-09-22T09:27:28.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1226,8 +1237,30 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The actor, whose mum is from County Down, recalls long childhood summers in Northern Ireland.",
+        "description": "The actress, whose mum is from County Down, recalls long childhood summers in Northern Ireland.",
         "publishedAt": "2026-09-22T06:20:52.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Sir Sean Connery's family plans new filmmaking centre in Edinburgh",
+        "url": "https://www.bbc.co.uk/news/articles/cmew9q277kpvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It will be named after the James Bond actor, who worked as a milkman in the Scottish capital before becoming a Hollywood star.",
+        "publishedAt": "2026-09-22T13:02:52.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Burberry closes London Fashion Week 2026 with signature check print and celeb-filled front row",
+        "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "As London Fashion Week comes to a close, here are the biggest trends for your wardrobe.",
+        "publishedAt": "2026-09-22T09:46:15.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1250,39 +1283,6 @@
         },
         "description": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
         "publishedAt": "2026-09-22T00:16:06.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Death of Cindy Crawford's son Presley Gerber being investigated as suspected overdose",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "His family asked for privacy during a \"very difficult and painful time\" following the model's death.",
-        "publishedAt": "2026-09-21T19:01:36.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "BBC removes 11 Mitchell and Webb comedy sketches from iPlayer",
-        "url": "https://www.bbc.co.uk/news/articles/c6jdvpr30k8jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The corporation said it had included \"the ones that still work today and not the ones that don't.\"",
-        "publishedAt": "2026-09-21T11:05:13.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "First look at The Other Bennet Sister Christmas special revealed",
-        "url": "https://www.bbc.co.uk/news/articles/cm2dw2r7wz0no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Filming wrapped on the BBC Christmas special in October, as fans eagerly await its return.",
-        "publishedAt": "2026-09-21T17:02:05.000Z",
         "category": "entertainment",
         "zone": "au"
       }
@@ -1291,13 +1291,24 @@
   "entertainment_ca": {
     "articles": [
       {
-        "title": "London Fashion Week 2026: The five trends we'll see in spring",
-        "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&at_campaign=rss",
+        "title": "Harper Lee first edition novel found in Oxfam shop",
+        "url": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "As London Fashion Week comes to a close, here are the biggest trends for your wardrobe.",
-        "publishedAt": "2026-09-21T16:23:25.000Z",
+        "description": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London.",
+        "publishedAt": "2026-09-22T10:11:36.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "Can you take the 'London' out of London Fashion Week?",
+        "url": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "An initiative to show that LFW is \"bigger than London\" launched this year - but will it make a difference?",
+        "publishedAt": "2026-09-22T09:27:28.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1318,8 +1329,30 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The actor, whose mum is from County Down, recalls long childhood summers in Northern Ireland.",
+        "description": "The actress, whose mum is from County Down, recalls long childhood summers in Northern Ireland.",
         "publishedAt": "2026-09-22T06:20:52.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "Sir Sean Connery's family plans new filmmaking centre in Edinburgh",
+        "url": "https://www.bbc.co.uk/news/articles/cmew9q277kpvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It will be named after the James Bond actor, who worked as a milkman in the Scottish capital before becoming a Hollywood star.",
+        "publishedAt": "2026-09-22T13:02:52.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "Burberry closes London Fashion Week 2026 with signature check print and celeb-filled front row",
+        "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "As London Fashion Week comes to a close, here are the biggest trends for your wardrobe.",
+        "publishedAt": "2026-09-22T09:46:15.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1344,44 +1377,22 @@
         "publishedAt": "2026-09-22T00:16:06.000Z",
         "category": "entertainment",
         "zone": "ca"
-      },
-      {
-        "title": "Death of Cindy Crawford's son Presley Gerber being investigated as suspected overdose",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "His family asked for privacy during a \"very difficult and painful time\" following the model's death.",
-        "publishedAt": "2026-09-21T19:01:36.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "BBC removes 11 Mitchell and Webb comedy sketches from iPlayer",
-        "url": "https://www.bbc.co.uk/news/articles/c6jdvpr30k8jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The corporation said it had included \"the ones that still work today and not the ones that don't.\"",
-        "publishedAt": "2026-09-21T11:05:13.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "First look at The Other Bennet Sister Christmas special revealed",
-        "url": "https://www.bbc.co.uk/news/articles/cm2dw2r7wz0no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Filming wrapped on the BBC Christmas special in October, as fans eagerly await its return.",
-        "publishedAt": "2026-09-21T17:02:05.000Z",
-        "category": "entertainment",
-        "zone": "ca"
       }
     ]
   },
   "health_us": {
     "articles": [
+      {
+        "title": "Scientists discover why Kent meningitis outbreak was so severe",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The bacteria responsible picked up some new genetic material, say experts.",
+        "publishedAt": "2026-09-22T13:35:38.000Z",
+        "category": "health",
+        "zone": "us"
+      },
       {
         "title": "Martha's Rule rolled out at every A&E department in England",
         "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
@@ -1390,17 +1401,6 @@
         },
         "description": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
         "publishedAt": "2026-09-22T08:32:32.000Z",
-        "category": "health",
-        "zone": "us"
-      },
-      {
-        "title": "Scientists discover why Kent meningitis outbreak was so severe",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The bacteria responsible picked up some new genetic material, say experts.",
-        "publishedAt": "2026-09-22T07:55:56.000Z",
         "category": "health",
         "zone": "us"
       },
@@ -1475,6 +1475,17 @@
   "health_gb": {
     "articles": [
       {
+        "title": "Scientists discover why Kent meningitis outbreak was so severe",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The bacteria responsible picked up some new genetic material, say experts.",
+        "publishedAt": "2026-09-22T13:35:38.000Z",
+        "category": "health",
+        "zone": "gb"
+      },
+      {
         "title": "Martha's Rule rolled out at every A&E department in England",
         "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1482,17 +1493,6 @@
         },
         "description": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
         "publishedAt": "2026-09-22T08:32:32.000Z",
-        "category": "health",
-        "zone": "gb"
-      },
-      {
-        "title": "Scientists discover why Kent meningitis outbreak was so severe",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The bacteria responsible picked up some new genetic material, say experts.",
-        "publishedAt": "2026-09-22T07:55:56.000Z",
         "category": "health",
         "zone": "gb"
       },
@@ -1567,6 +1567,17 @@
   "health_in": {
     "articles": [
       {
+        "title": "Scientists discover why Kent meningitis outbreak was so severe",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The bacteria responsible picked up some new genetic material, say experts.",
+        "publishedAt": "2026-09-22T13:35:38.000Z",
+        "category": "health",
+        "zone": "in"
+      },
+      {
         "title": "Martha's Rule rolled out at every A&E department in England",
         "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1574,17 +1585,6 @@
         },
         "description": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
         "publishedAt": "2026-09-22T08:32:32.000Z",
-        "category": "health",
-        "zone": "in"
-      },
-      {
-        "title": "Scientists discover why Kent meningitis outbreak was so severe",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The bacteria responsible picked up some new genetic material, say experts.",
-        "publishedAt": "2026-09-22T07:55:56.000Z",
         "category": "health",
         "zone": "in"
       },
@@ -1659,6 +1659,17 @@
   "health_au": {
     "articles": [
       {
+        "title": "Scientists discover why Kent meningitis outbreak was so severe",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The bacteria responsible picked up some new genetic material, say experts.",
+        "publishedAt": "2026-09-22T13:35:38.000Z",
+        "category": "health",
+        "zone": "au"
+      },
+      {
         "title": "Martha's Rule rolled out at every A&E department in England",
         "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1666,17 +1677,6 @@
         },
         "description": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
         "publishedAt": "2026-09-22T08:32:32.000Z",
-        "category": "health",
-        "zone": "au"
-      },
-      {
-        "title": "Scientists discover why Kent meningitis outbreak was so severe",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The bacteria responsible picked up some new genetic material, say experts.",
-        "publishedAt": "2026-09-22T07:55:56.000Z",
         "category": "health",
         "zone": "au"
       },
@@ -1751,6 +1751,17 @@
   "health_ca": {
     "articles": [
       {
+        "title": "Scientists discover why Kent meningitis outbreak was so severe",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The bacteria responsible picked up some new genetic material, say experts.",
+        "publishedAt": "2026-09-22T13:35:38.000Z",
+        "category": "health",
+        "zone": "ca"
+      },
+      {
         "title": "Martha's Rule rolled out at every A&E department in England",
         "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1758,17 +1769,6 @@
         },
         "description": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
         "publishedAt": "2026-09-22T08:32:32.000Z",
-        "category": "health",
-        "zone": "ca"
-      },
-      {
-        "title": "Scientists discover why Kent meningitis outbreak was so severe",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The bacteria responsible picked up some new genetic material, say experts.",
-        "publishedAt": "2026-09-22T07:55:56.000Z",
         "category": "health",
         "zone": "ca"
       },
@@ -2303,6 +2303,39 @@
   "sports_us": {
     "articles": [
       {
+        "title": "Pollock left money on table to stay at Saints - Hearn",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckn8eq99jnevo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Henry Pollock turned down rival offers worth much more than his Northampton extension, which will earn him over £400,000 a year, says adviser Eddie Hearn.",
+        "publishedAt": "2026-09-22T13:54:18.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Arteta agrees new deal with champions Arsenal",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Mikel Arteta agrees an improved new contract with Premier League champions Arsenal.",
+        "publishedAt": "2026-09-22T11:48:23.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
+        "publishedAt": "2026-09-22T14:23:39.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "England fast bowler Wood retires from internationals",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/c931nq260pxo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2314,24 +2347,13 @@
         "zone": "us"
       },
       {
-        "title": "Pollock signs new Northampton deal in excess of £400K",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq39m2eppe0wo?at_medium=RSS&at_campaign=rss",
+        "title": "'In another galaxy' - La Liga chief dismisses Real's ref conspiracy claims",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmvgye6g53l7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Henry Pollock has brought an end to his contract stand-off with Northampton, saying it was ultimately \"a very easy decision\" to sign an extension.",
-        "publishedAt": "2026-09-22T08:28:34.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Chelsea struggles to Villa bench - Garnacho faces defining season",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c51kxgj43n89o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alejandro Garnacho joined Aston Villa on loan from Chelsea with a view to kick-starting his career, but his early weeks in the Midlands have been a struggle.",
-        "publishedAt": "2026-09-22T06:19:17.000Z",
+        "description": "La Liga president Javier Tebas says claiming there is a refereeing conspiracy against Real Madrid is like \"living in another galaxy\".",
+        "publishedAt": "2026-09-22T12:09:29.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2365,28 +2387,6 @@
         },
         "description": "Could Luke Littler walk away from darts completely if the booing he has suffered at European tournaments continues?",
         "publishedAt": "2026-09-21T18:55:42.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "McPake's 'colourful' journey from club-less to Scotland call-up in three years",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmx2z1jldpnzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Three years ago, Josh McPake was without a club. Twenty months ago, he was in the shop window but \"no-one wanted him\". This week, he's involved in his first Scotland camp. Here, BBC Sport Scotland charts the fall and rise of the winger who's got everyone in the country talking.",
-        "publishedAt": "2026-09-22T06:32:26.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Israel FA accuses Hallgrimsson of 'ignorance, hypocrisy and stupidity'",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwvgyzzrd8jmo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Israel FA accuse Republic of Ireland manager Heimir Hallgrimsson of \"ignorance, hypocrisy and stupidity\" in comments made last week.",
-        "publishedAt": "2026-09-21T21:49:45.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,6 +2395,39 @@
   "sports_gb": {
     "articles": [
       {
+        "title": "Pollock left money on table to stay at Saints - Hearn",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckn8eq99jnevo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Henry Pollock turned down rival offers worth much more than his Northampton extension, which will earn him over £400,000 a year, says adviser Eddie Hearn.",
+        "publishedAt": "2026-09-22T13:54:18.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Arteta agrees new deal with champions Arsenal",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Mikel Arteta agrees an improved new contract with Premier League champions Arsenal.",
+        "publishedAt": "2026-09-22T11:48:23.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
+        "publishedAt": "2026-09-22T14:23:39.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "England fast bowler Wood retires from internationals",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/c931nq260pxo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2406,24 +2439,13 @@
         "zone": "gb"
       },
       {
-        "title": "Pollock signs new Northampton deal in excess of £400K",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq39m2eppe0wo?at_medium=RSS&at_campaign=rss",
+        "title": "'In another galaxy' - La Liga chief dismisses Real's ref conspiracy claims",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmvgye6g53l7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Henry Pollock has brought an end to his contract stand-off with Northampton, saying it was ultimately \"a very easy decision\" to sign an extension.",
-        "publishedAt": "2026-09-22T08:28:34.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Chelsea struggles to Villa bench - Garnacho faces defining season",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c51kxgj43n89o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alejandro Garnacho joined Aston Villa on loan from Chelsea with a view to kick-starting his career, but his early weeks in the Midlands have been a struggle.",
-        "publishedAt": "2026-09-22T06:19:17.000Z",
+        "description": "La Liga president Javier Tebas says claiming there is a refereeing conspiracy against Real Madrid is like \"living in another galaxy\".",
+        "publishedAt": "2026-09-22T12:09:29.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2457,28 +2479,6 @@
         },
         "description": "Could Luke Littler walk away from darts completely if the booing he has suffered at European tournaments continues?",
         "publishedAt": "2026-09-21T18:55:42.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "McPake's 'colourful' journey from club-less to Scotland call-up in three years",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmx2z1jldpnzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Three years ago, Josh McPake was without a club. Twenty months ago, he was in the shop window but \"no-one wanted him\". This week, he's involved in his first Scotland camp. Here, BBC Sport Scotland charts the fall and rise of the winger who's got everyone in the country talking.",
-        "publishedAt": "2026-09-22T06:32:26.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Israel FA accuses Hallgrimsson of 'ignorance, hypocrisy and stupidity'",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwvgyzzrd8jmo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Israel FA accuse Republic of Ireland manager Heimir Hallgrimsson of \"ignorance, hypocrisy and stupidity\" in comments made last week.",
-        "publishedAt": "2026-09-21T21:49:45.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,6 +2487,39 @@
   "sports_in": {
     "articles": [
       {
+        "title": "Pollock left money on table to stay at Saints - Hearn",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckn8eq99jnevo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Henry Pollock turned down rival offers worth much more than his Northampton extension, which will earn him over £400,000 a year, says adviser Eddie Hearn.",
+        "publishedAt": "2026-09-22T13:54:18.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Arteta agrees new deal with champions Arsenal",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Mikel Arteta agrees an improved new contract with Premier League champions Arsenal.",
+        "publishedAt": "2026-09-22T11:48:23.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
+        "publishedAt": "2026-09-22T14:23:39.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "England fast bowler Wood retires from internationals",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/c931nq260pxo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2498,24 +2531,13 @@
         "zone": "in"
       },
       {
-        "title": "Pollock signs new Northampton deal in excess of £400K",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq39m2eppe0wo?at_medium=RSS&at_campaign=rss",
+        "title": "'In another galaxy' - La Liga chief dismisses Real's ref conspiracy claims",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmvgye6g53l7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Henry Pollock has brought an end to his contract stand-off with Northampton, saying it was ultimately \"a very easy decision\" to sign an extension.",
-        "publishedAt": "2026-09-22T08:28:34.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Chelsea struggles to Villa bench - Garnacho faces defining season",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c51kxgj43n89o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alejandro Garnacho joined Aston Villa on loan from Chelsea with a view to kick-starting his career, but his early weeks in the Midlands have been a struggle.",
-        "publishedAt": "2026-09-22T06:19:17.000Z",
+        "description": "La Liga president Javier Tebas says claiming there is a refereeing conspiracy against Real Madrid is like \"living in another galaxy\".",
+        "publishedAt": "2026-09-22T12:09:29.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2549,28 +2571,6 @@
         },
         "description": "Could Luke Littler walk away from darts completely if the booing he has suffered at European tournaments continues?",
         "publishedAt": "2026-09-21T18:55:42.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "McPake's 'colourful' journey from club-less to Scotland call-up in three years",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmx2z1jldpnzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Three years ago, Josh McPake was without a club. Twenty months ago, he was in the shop window but \"no-one wanted him\". This week, he's involved in his first Scotland camp. Here, BBC Sport Scotland charts the fall and rise of the winger who's got everyone in the country talking.",
-        "publishedAt": "2026-09-22T06:32:26.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Israel FA accuses Hallgrimsson of 'ignorance, hypocrisy and stupidity'",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwvgyzzrd8jmo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Israel FA accuse Republic of Ireland manager Heimir Hallgrimsson of \"ignorance, hypocrisy and stupidity\" in comments made last week.",
-        "publishedAt": "2026-09-21T21:49:45.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,6 +2579,39 @@
   "sports_au": {
     "articles": [
       {
+        "title": "Pollock left money on table to stay at Saints - Hearn",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckn8eq99jnevo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Henry Pollock turned down rival offers worth much more than his Northampton extension, which will earn him over £400,000 a year, says adviser Eddie Hearn.",
+        "publishedAt": "2026-09-22T13:54:18.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Arteta agrees new deal with champions Arsenal",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Mikel Arteta agrees an improved new contract with Premier League champions Arsenal.",
+        "publishedAt": "2026-09-22T11:48:23.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
+        "publishedAt": "2026-09-22T14:23:39.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "England fast bowler Wood retires from internationals",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/c931nq260pxo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2590,24 +2623,13 @@
         "zone": "au"
       },
       {
-        "title": "Pollock signs new Northampton deal in excess of £400K",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq39m2eppe0wo?at_medium=RSS&at_campaign=rss",
+        "title": "'In another galaxy' - La Liga chief dismisses Real's ref conspiracy claims",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmvgye6g53l7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Henry Pollock has brought an end to his contract stand-off with Northampton, saying it was ultimately \"a very easy decision\" to sign an extension.",
-        "publishedAt": "2026-09-22T08:28:34.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Chelsea struggles to Villa bench - Garnacho faces defining season",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c51kxgj43n89o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alejandro Garnacho joined Aston Villa on loan from Chelsea with a view to kick-starting his career, but his early weeks in the Midlands have been a struggle.",
-        "publishedAt": "2026-09-22T06:19:17.000Z",
+        "description": "La Liga president Javier Tebas says claiming there is a refereeing conspiracy against Real Madrid is like \"living in another galaxy\".",
+        "publishedAt": "2026-09-22T12:09:29.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2641,28 +2663,6 @@
         },
         "description": "Could Luke Littler walk away from darts completely if the booing he has suffered at European tournaments continues?",
         "publishedAt": "2026-09-21T18:55:42.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "McPake's 'colourful' journey from club-less to Scotland call-up in three years",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmx2z1jldpnzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Three years ago, Josh McPake was without a club. Twenty months ago, he was in the shop window but \"no-one wanted him\". This week, he's involved in his first Scotland camp. Here, BBC Sport Scotland charts the fall and rise of the winger who's got everyone in the country talking.",
-        "publishedAt": "2026-09-22T06:32:26.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Israel FA accuses Hallgrimsson of 'ignorance, hypocrisy and stupidity'",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwvgyzzrd8jmo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Israel FA accuse Republic of Ireland manager Heimir Hallgrimsson of \"ignorance, hypocrisy and stupidity\" in comments made last week.",
-        "publishedAt": "2026-09-21T21:49:45.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,6 +2671,39 @@
   "sports_ca": {
     "articles": [
       {
+        "title": "Pollock left money on table to stay at Saints - Hearn",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckn8eq99jnevo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Henry Pollock turned down rival offers worth much more than his Northampton extension, which will earn him over £400,000 a year, says adviser Eddie Hearn.",
+        "publishedAt": "2026-09-22T13:54:18.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Arteta agrees new deal with champions Arsenal",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Mikel Arteta agrees an improved new contract with Premier League champions Arsenal.",
+        "publishedAt": "2026-09-22T11:48:23.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
+        "publishedAt": "2026-09-22T14:23:39.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "England fast bowler Wood retires from internationals",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/c931nq260pxo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2682,24 +2715,13 @@
         "zone": "ca"
       },
       {
-        "title": "Pollock signs new Northampton deal in excess of £400K",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq39m2eppe0wo?at_medium=RSS&at_campaign=rss",
+        "title": "'In another galaxy' - La Liga chief dismisses Real's ref conspiracy claims",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmvgye6g53l7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Henry Pollock has brought an end to his contract stand-off with Northampton, saying it was ultimately \"a very easy decision\" to sign an extension.",
-        "publishedAt": "2026-09-22T08:28:34.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Chelsea struggles to Villa bench - Garnacho faces defining season",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c51kxgj43n89o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alejandro Garnacho joined Aston Villa on loan from Chelsea with a view to kick-starting his career, but his early weeks in the Midlands have been a struggle.",
-        "publishedAt": "2026-09-22T06:19:17.000Z",
+        "description": "La Liga president Javier Tebas says claiming there is a refereeing conspiracy against Real Madrid is like \"living in another galaxy\".",
+        "publishedAt": "2026-09-22T12:09:29.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2733,28 +2755,6 @@
         },
         "description": "Could Luke Littler walk away from darts completely if the booing he has suffered at European tournaments continues?",
         "publishedAt": "2026-09-21T18:55:42.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "McPake's 'colourful' journey from club-less to Scotland call-up in three years",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmx2z1jldpnzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Three years ago, Josh McPake was without a club. Twenty months ago, he was in the shop window but \"no-one wanted him\". This week, he's involved in his first Scotland camp. Here, BBC Sport Scotland charts the fall and rise of the winger who's got everyone in the country talking.",
-        "publishedAt": "2026-09-22T06:32:26.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Israel FA accuses Hallgrimsson of 'ignorance, hypocrisy and stupidity'",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwvgyzzrd8jmo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Israel FA accuse Republic of Ireland manager Heimir Hallgrimsson of \"ignorance, hypocrisy and stupidity\" in comments made last week.",
-        "publishedAt": "2026-09-21T21:49:45.000Z",
         "category": "sports",
         "zone": "ca"
       }
