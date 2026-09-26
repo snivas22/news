@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-09-26T16:54:47.670Z",
+  "generatedAt": "2026-09-26T19:34:31.534Z",
   "general_us": {
     "articles": [
+      {
+        "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+        "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
+        "publishedAt": "2026-09-26T18:50:02.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "Heathrow Airport warns third runway could be delayed by four years",
         "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
@@ -14,13 +25,13 @@
         "zone": "us"
       },
       {
-        "title": "Man City chairman confident club will prove innocence",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Christian Purslow's comments come after Manchester City was found guilty of dozens of financial rule charges brought by the Premier League.",
-        "publishedAt": "2026-09-26T15:02:28.000Z",
+        "description": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+        "publishedAt": "2026-09-26T18:17:12.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -32,17 +43,6 @@
         },
         "description": "The party’s spirits have been transformed since Burnham became PM, but what's coming down the tracks, asks Laura Kuenssberg.",
         "publishedAt": "2026-09-26T11:22:03.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The US president says Tehran had only put forward the proposal because it is losing the war.",
-        "publishedAt": "2026-09-26T16:16:29.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -63,7 +63,7 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for Sunday's Nations League game against Israel in Hungary, after confirming they will go ahead with the fixture.",
+        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
         "publishedAt": "2026-09-26T14:58:44.000Z",
         "category": "general",
         "zone": "us"
@@ -95,6 +95,17 @@
   "general_gb": {
     "articles": [
       {
+        "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+        "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
+        "publishedAt": "2026-09-26T18:50:02.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Heathrow Airport warns third runway could be delayed by four years",
         "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -106,13 +117,13 @@
         "zone": "gb"
       },
       {
-        "title": "Man City chairman confident club will prove innocence",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Christian Purslow's comments come after Manchester City was found guilty of dozens of financial rule charges brought by the Premier League.",
-        "publishedAt": "2026-09-26T15:02:28.000Z",
+        "description": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+        "publishedAt": "2026-09-26T18:17:12.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -124,17 +135,6 @@
         },
         "description": "The party’s spirits have been transformed since Burnham became PM, but what's coming down the tracks, asks Laura Kuenssberg.",
         "publishedAt": "2026-09-26T11:22:03.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The US president says Tehran had only put forward the proposal because it is losing the war.",
-        "publishedAt": "2026-09-26T16:16:29.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -155,7 +155,7 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for Sunday's Nations League game against Israel in Hungary, after confirming they will go ahead with the fixture.",
+        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
         "publishedAt": "2026-09-26T14:58:44.000Z",
         "category": "general",
         "zone": "gb"
@@ -187,6 +187,17 @@
   "general_in": {
     "articles": [
       {
+        "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+        "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
+        "publishedAt": "2026-09-26T18:50:02.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Heathrow Airport warns third runway could be delayed by four years",
         "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -198,13 +209,13 @@
         "zone": "in"
       },
       {
-        "title": "Man City chairman confident club will prove innocence",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Christian Purslow's comments come after Manchester City was found guilty of dozens of financial rule charges brought by the Premier League.",
-        "publishedAt": "2026-09-26T15:02:28.000Z",
+        "description": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+        "publishedAt": "2026-09-26T18:17:12.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -216,17 +227,6 @@
         },
         "description": "The party’s spirits have been transformed since Burnham became PM, but what's coming down the tracks, asks Laura Kuenssberg.",
         "publishedAt": "2026-09-26T11:22:03.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The US president says Tehran had only put forward the proposal because it is losing the war.",
-        "publishedAt": "2026-09-26T16:16:29.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -247,7 +247,7 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for Sunday's Nations League game against Israel in Hungary, after confirming they will go ahead with the fixture.",
+        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
         "publishedAt": "2026-09-26T14:58:44.000Z",
         "category": "general",
         "zone": "in"
@@ -279,6 +279,17 @@
   "general_au": {
     "articles": [
       {
+        "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+        "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
+        "publishedAt": "2026-09-26T18:50:02.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Heathrow Airport warns third runway could be delayed by four years",
         "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -290,13 +301,13 @@
         "zone": "au"
       },
       {
-        "title": "Man City chairman confident club will prove innocence",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Christian Purslow's comments come after Manchester City was found guilty of dozens of financial rule charges brought by the Premier League.",
-        "publishedAt": "2026-09-26T15:02:28.000Z",
+        "description": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+        "publishedAt": "2026-09-26T18:17:12.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -308,17 +319,6 @@
         },
         "description": "The party’s spirits have been transformed since Burnham became PM, but what's coming down the tracks, asks Laura Kuenssberg.",
         "publishedAt": "2026-09-26T11:22:03.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The US president says Tehran had only put forward the proposal because it is losing the war.",
-        "publishedAt": "2026-09-26T16:16:29.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -339,7 +339,7 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for Sunday's Nations League game against Israel in Hungary, after confirming they will go ahead with the fixture.",
+        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
         "publishedAt": "2026-09-26T14:58:44.000Z",
         "category": "general",
         "zone": "au"
@@ -371,6 +371,17 @@
   "general_ca": {
     "articles": [
       {
+        "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+        "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
+        "publishedAt": "2026-09-26T18:50:02.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Heathrow Airport warns third runway could be delayed by four years",
         "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -382,13 +393,13 @@
         "zone": "ca"
       },
       {
-        "title": "Man City chairman confident club will prove innocence",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Christian Purslow's comments come after Manchester City was found guilty of dozens of financial rule charges brought by the Premier League.",
-        "publishedAt": "2026-09-26T15:02:28.000Z",
+        "description": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+        "publishedAt": "2026-09-26T18:17:12.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -400,17 +411,6 @@
         },
         "description": "The party’s spirits have been transformed since Burnham became PM, but what's coming down the tracks, asks Laura Kuenssberg.",
         "publishedAt": "2026-09-26T11:22:03.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The US president says Tehran had only put forward the proposal because it is losing the war.",
-        "publishedAt": "2026-09-26T16:16:29.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -431,7 +431,7 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for Sunday's Nations League game against Israel in Hungary, after confirming they will go ahead with the fixture.",
+        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
         "publishedAt": "2026-09-26T14:58:44.000Z",
         "category": "general",
         "zone": "ca"
@@ -967,6 +967,17 @@
         "zone": "us"
       },
       {
+        "title": "Radio 2 presenter to take on 'greatest ever distance' in Children in Need challenge",
+        "url": "https://www.bbc.co.uk/news/articles/cqrm99ljprpno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Owain Wyn Evans will cycle almost 400 miles, setting off from Glasgow and finishing in Cardiff.",
+        "publishedAt": "2026-09-26T19:09:44.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
         "title": "British rapper Yung Filly to face rape retrial in Australia next June",
         "url": "https://www.bbc.co.uk/news/articles/cmj643pd4e11o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -996,17 +1007,6 @@
         },
         "description": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
         "publishedAt": "2026-09-25T18:36:30.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Turner Prize gallery 'centre of creative universe'",
-        "url": "https://www.bbc.co.uk/news/articles/cr0j3ldnzlngo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Work by four artists nominated for the prize will go on display from 26 September.",
-        "publishedAt": "2026-09-25T05:12:36.000Z",
         "category": "entertainment",
         "zone": "us"
       }
@@ -1059,6 +1059,17 @@
         "zone": "gb"
       },
       {
+        "title": "Radio 2 presenter to take on 'greatest ever distance' in Children in Need challenge",
+        "url": "https://www.bbc.co.uk/news/articles/cqrm99ljprpno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Owain Wyn Evans will cycle almost 400 miles, setting off from Glasgow and finishing in Cardiff.",
+        "publishedAt": "2026-09-26T19:09:44.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
         "title": "British rapper Yung Filly to face rape retrial in Australia next June",
         "url": "https://www.bbc.co.uk/news/articles/cmj643pd4e11o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1088,17 +1099,6 @@
         },
         "description": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
         "publishedAt": "2026-09-25T18:36:30.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Turner Prize gallery 'centre of creative universe'",
-        "url": "https://www.bbc.co.uk/news/articles/cr0j3ldnzlngo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Work by four artists nominated for the prize will go on display from 26 September.",
-        "publishedAt": "2026-09-25T05:12:36.000Z",
         "category": "entertainment",
         "zone": "gb"
       }
@@ -1151,6 +1151,17 @@
         "zone": "in"
       },
       {
+        "title": "Radio 2 presenter to take on 'greatest ever distance' in Children in Need challenge",
+        "url": "https://www.bbc.co.uk/news/articles/cqrm99ljprpno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Owain Wyn Evans will cycle almost 400 miles, setting off from Glasgow and finishing in Cardiff.",
+        "publishedAt": "2026-09-26T19:09:44.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
         "title": "British rapper Yung Filly to face rape retrial in Australia next June",
         "url": "https://www.bbc.co.uk/news/articles/cmj643pd4e11o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1180,17 +1191,6 @@
         },
         "description": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
         "publishedAt": "2026-09-25T18:36:30.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Turner Prize gallery 'centre of creative universe'",
-        "url": "https://www.bbc.co.uk/news/articles/cr0j3ldnzlngo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Work by four artists nominated for the prize will go on display from 26 September.",
-        "publishedAt": "2026-09-25T05:12:36.000Z",
         "category": "entertainment",
         "zone": "in"
       }
@@ -1243,6 +1243,17 @@
         "zone": "au"
       },
       {
+        "title": "Radio 2 presenter to take on 'greatest ever distance' in Children in Need challenge",
+        "url": "https://www.bbc.co.uk/news/articles/cqrm99ljprpno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Owain Wyn Evans will cycle almost 400 miles, setting off from Glasgow and finishing in Cardiff.",
+        "publishedAt": "2026-09-26T19:09:44.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
         "title": "British rapper Yung Filly to face rape retrial in Australia next June",
         "url": "https://www.bbc.co.uk/news/articles/cmj643pd4e11o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1272,17 +1283,6 @@
         },
         "description": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
         "publishedAt": "2026-09-25T18:36:30.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Turner Prize gallery 'centre of creative universe'",
-        "url": "https://www.bbc.co.uk/news/articles/cr0j3ldnzlngo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Work by four artists nominated for the prize will go on display from 26 September.",
-        "publishedAt": "2026-09-25T05:12:36.000Z",
         "category": "entertainment",
         "zone": "au"
       }
@@ -1335,6 +1335,17 @@
         "zone": "ca"
       },
       {
+        "title": "Radio 2 presenter to take on 'greatest ever distance' in Children in Need challenge",
+        "url": "https://www.bbc.co.uk/news/articles/cqrm99ljprpno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Owain Wyn Evans will cycle almost 400 miles, setting off from Glasgow and finishing in Cardiff.",
+        "publishedAt": "2026-09-26T19:09:44.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
         "title": "British rapper Yung Filly to face rape retrial in Australia next June",
         "url": "https://www.bbc.co.uk/news/articles/cmj643pd4e11o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1364,17 +1375,6 @@
         },
         "description": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
         "publishedAt": "2026-09-25T18:36:30.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Turner Prize gallery 'centre of creative universe'",
-        "url": "https://www.bbc.co.uk/news/articles/cr0j3ldnzlngo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Work by four artists nominated for the prize will go on display from 26 September.",
-        "publishedAt": "2026-09-25T05:12:36.000Z",
         "category": "entertainment",
         "zone": "ca"
       }
@@ -2303,46 +2303,24 @@
   "sports_us": {
     "articles": [
       {
-        "title": "Man City chairman confident club will prove innocence",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
+        "title": "'Mr Saturday' Russell 'comes through other side after real tough period'",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/ckly558q6jeqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City chairman Khaldoon Al Mubarak says he is still confident of proving the club's innocence after they were found guilty of breaking Premier League financial rules.",
-        "publishedAt": "2026-09-26T15:02:28.000Z",
+        "description": "George Russell described the Azerbaijan Grand Prix as \"the most dominant weekend I've had in my career\" after a win that felt like vindication.",
+        "publishedAt": "2026-09-26T17:44:04.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Russell wins despite late Verstappen challenge",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/ck8d33760j63o?at_medium=RSS&at_campaign=rss",
+        "title": "Wakefield shock Wigan to reach first Grand Final",
+        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cv2dwykpgz4go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mercedes' George Russell holds off a late challenge from Red Bull's Max Verstappen to win an Azerbaijan Grand Prix enlivened by two late safety car periods.",
-        "publishedAt": "2026-09-26T13:16:13.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "England's Harrison scores last-gasp try to beat Black Ferns",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cje3r46ll3lwo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Zoe Harrison scores last-gasp try as England defeat New Zealand at Allianz Stadium to avoid a second successive draw in the WXV Global Series.",
-        "publishedAt": "2026-09-26T16:12:27.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "England secure win over New Zealand with last-gasp try",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6vgyyvyr45po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England extend their unbeaten run to 41 Tests after Zoe Harrison scores a try in overtime as the Red Roses beat New Zealand 26-19 at the Allianz Stadium.",
-        "publishedAt": "2026-09-26T16:38:22.000Z",
+        "description": "Wakefield Trinity produce a sensational upset to reach their first ever Super League Grand Final and end Wigan Warriors' hopes of a treble in 2026.",
+        "publishedAt": "2026-09-26T18:44:16.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2358,35 +2336,57 @@
         "zone": "us"
       },
       {
-        "title": "The computer hacker who tried to take down Man City",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss",
+        "title": "England embrace growing competitiveness of women's game",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwddvvnp9dp9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Sport travelled to Portugal to find out more about Rui Pinto - the computer hacker who sparked the Manchester City investigation.",
-        "publishedAt": "2026-09-26T05:56:40.000Z",
+        "description": "England edge past New Zealand with a last-gasp try by Zoe Harrison as they embrace the growing competitiveness of women's rugby.",
+        "publishedAt": "2026-09-26T18:55:41.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Clubs seek legal advice over Man City charges compensation",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
+        "title": "England secure win over New Zealand with last-gasp try",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6vgyyvyr45po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
-        "publishedAt": "2026-09-25T20:13:53.000Z",
+        "description": "England extend their unbeaten run to 41 Tests after Zoe Harrison scores a try in overtime as the Red Roses beat New Zealand 26-19 at the Allianz Stadium.",
+        "publishedAt": "2026-09-26T16:38:22.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Relegation? Titles stripped? Appeals? What next for Man City",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
+        "title": "Gilmour catalyst, impressive Welsh, but same issue for Scotland?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqevwwnw10w9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Man City. Here's what it means.",
-        "publishedAt": "2026-09-25T20:48:18.000Z",
+        "description": "BBC Sport Scotland picks out what we learned from Sebastien Pocognoli's first game in charge as Scotland drew with Slovenia.",
+        "publishedAt": "2026-09-26T17:05:53.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Republic of Ireland to wear black armbands for Israel game",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+        "publishedAt": "2026-09-26T14:58:44.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Warwickshire beat Leicestershire to seal ninth Championship title",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c64g77l1p0z2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Warwickshire complete their ninth County Championship title triumph with an innings victory against Leicestershire.",
+        "publishedAt": "2026-09-26T13:55:57.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,46 +2395,24 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "Man City chairman confident club will prove innocence",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
+        "title": "'Mr Saturday' Russell 'comes through other side after real tough period'",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/ckly558q6jeqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City chairman Khaldoon Al Mubarak says he is still confident of proving the club's innocence after they were found guilty of breaking Premier League financial rules.",
-        "publishedAt": "2026-09-26T15:02:28.000Z",
+        "description": "George Russell described the Azerbaijan Grand Prix as \"the most dominant weekend I've had in my career\" after a win that felt like vindication.",
+        "publishedAt": "2026-09-26T17:44:04.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Russell wins despite late Verstappen challenge",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/ck8d33760j63o?at_medium=RSS&at_campaign=rss",
+        "title": "Wakefield shock Wigan to reach first Grand Final",
+        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cv2dwykpgz4go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mercedes' George Russell holds off a late challenge from Red Bull's Max Verstappen to win an Azerbaijan Grand Prix enlivened by two late safety car periods.",
-        "publishedAt": "2026-09-26T13:16:13.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "England's Harrison scores last-gasp try to beat Black Ferns",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cje3r46ll3lwo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Zoe Harrison scores last-gasp try as England defeat New Zealand at Allianz Stadium to avoid a second successive draw in the WXV Global Series.",
-        "publishedAt": "2026-09-26T16:12:27.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "England secure win over New Zealand with last-gasp try",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6vgyyvyr45po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England extend their unbeaten run to 41 Tests after Zoe Harrison scores a try in overtime as the Red Roses beat New Zealand 26-19 at the Allianz Stadium.",
-        "publishedAt": "2026-09-26T16:38:22.000Z",
+        "description": "Wakefield Trinity produce a sensational upset to reach their first ever Super League Grand Final and end Wigan Warriors' hopes of a treble in 2026.",
+        "publishedAt": "2026-09-26T18:44:16.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2450,35 +2428,57 @@
         "zone": "gb"
       },
       {
-        "title": "The computer hacker who tried to take down Man City",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss",
+        "title": "England embrace growing competitiveness of women's game",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwddvvnp9dp9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Sport travelled to Portugal to find out more about Rui Pinto - the computer hacker who sparked the Manchester City investigation.",
-        "publishedAt": "2026-09-26T05:56:40.000Z",
+        "description": "England edge past New Zealand with a last-gasp try by Zoe Harrison as they embrace the growing competitiveness of women's rugby.",
+        "publishedAt": "2026-09-26T18:55:41.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Clubs seek legal advice over Man City charges compensation",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
+        "title": "England secure win over New Zealand with last-gasp try",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6vgyyvyr45po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
-        "publishedAt": "2026-09-25T20:13:53.000Z",
+        "description": "England extend their unbeaten run to 41 Tests after Zoe Harrison scores a try in overtime as the Red Roses beat New Zealand 26-19 at the Allianz Stadium.",
+        "publishedAt": "2026-09-26T16:38:22.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Relegation? Titles stripped? Appeals? What next for Man City",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
+        "title": "Gilmour catalyst, impressive Welsh, but same issue for Scotland?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqevwwnw10w9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Man City. Here's what it means.",
-        "publishedAt": "2026-09-25T20:48:18.000Z",
+        "description": "BBC Sport Scotland picks out what we learned from Sebastien Pocognoli's first game in charge as Scotland drew with Slovenia.",
+        "publishedAt": "2026-09-26T17:05:53.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Republic of Ireland to wear black armbands for Israel game",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+        "publishedAt": "2026-09-26T14:58:44.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Warwickshire beat Leicestershire to seal ninth Championship title",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c64g77l1p0z2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Warwickshire complete their ninth County Championship title triumph with an innings victory against Leicestershire.",
+        "publishedAt": "2026-09-26T13:55:57.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,46 +2487,24 @@
   "sports_in": {
     "articles": [
       {
-        "title": "Man City chairman confident club will prove innocence",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
+        "title": "'Mr Saturday' Russell 'comes through other side after real tough period'",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/ckly558q6jeqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City chairman Khaldoon Al Mubarak says he is still confident of proving the club's innocence after they were found guilty of breaking Premier League financial rules.",
-        "publishedAt": "2026-09-26T15:02:28.000Z",
+        "description": "George Russell described the Azerbaijan Grand Prix as \"the most dominant weekend I've had in my career\" after a win that felt like vindication.",
+        "publishedAt": "2026-09-26T17:44:04.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Russell wins despite late Verstappen challenge",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/ck8d33760j63o?at_medium=RSS&at_campaign=rss",
+        "title": "Wakefield shock Wigan to reach first Grand Final",
+        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cv2dwykpgz4go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mercedes' George Russell holds off a late challenge from Red Bull's Max Verstappen to win an Azerbaijan Grand Prix enlivened by two late safety car periods.",
-        "publishedAt": "2026-09-26T13:16:13.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "England's Harrison scores last-gasp try to beat Black Ferns",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cje3r46ll3lwo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Zoe Harrison scores last-gasp try as England defeat New Zealand at Allianz Stadium to avoid a second successive draw in the WXV Global Series.",
-        "publishedAt": "2026-09-26T16:12:27.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "England secure win over New Zealand with last-gasp try",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6vgyyvyr45po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England extend their unbeaten run to 41 Tests after Zoe Harrison scores a try in overtime as the Red Roses beat New Zealand 26-19 at the Allianz Stadium.",
-        "publishedAt": "2026-09-26T16:38:22.000Z",
+        "description": "Wakefield Trinity produce a sensational upset to reach their first ever Super League Grand Final and end Wigan Warriors' hopes of a treble in 2026.",
+        "publishedAt": "2026-09-26T18:44:16.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2542,35 +2520,57 @@
         "zone": "in"
       },
       {
-        "title": "The computer hacker who tried to take down Man City",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss",
+        "title": "England embrace growing competitiveness of women's game",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwddvvnp9dp9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Sport travelled to Portugal to find out more about Rui Pinto - the computer hacker who sparked the Manchester City investigation.",
-        "publishedAt": "2026-09-26T05:56:40.000Z",
+        "description": "England edge past New Zealand with a last-gasp try by Zoe Harrison as they embrace the growing competitiveness of women's rugby.",
+        "publishedAt": "2026-09-26T18:55:41.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Clubs seek legal advice over Man City charges compensation",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
+        "title": "England secure win over New Zealand with last-gasp try",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6vgyyvyr45po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
-        "publishedAt": "2026-09-25T20:13:53.000Z",
+        "description": "England extend their unbeaten run to 41 Tests after Zoe Harrison scores a try in overtime as the Red Roses beat New Zealand 26-19 at the Allianz Stadium.",
+        "publishedAt": "2026-09-26T16:38:22.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Relegation? Titles stripped? Appeals? What next for Man City",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
+        "title": "Gilmour catalyst, impressive Welsh, but same issue for Scotland?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqevwwnw10w9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Man City. Here's what it means.",
-        "publishedAt": "2026-09-25T20:48:18.000Z",
+        "description": "BBC Sport Scotland picks out what we learned from Sebastien Pocognoli's first game in charge as Scotland drew with Slovenia.",
+        "publishedAt": "2026-09-26T17:05:53.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Republic of Ireland to wear black armbands for Israel game",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+        "publishedAt": "2026-09-26T14:58:44.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Warwickshire beat Leicestershire to seal ninth Championship title",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c64g77l1p0z2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Warwickshire complete their ninth County Championship title triumph with an innings victory against Leicestershire.",
+        "publishedAt": "2026-09-26T13:55:57.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,46 +2579,24 @@
   "sports_au": {
     "articles": [
       {
-        "title": "Man City chairman confident club will prove innocence",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
+        "title": "'Mr Saturday' Russell 'comes through other side after real tough period'",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/ckly558q6jeqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City chairman Khaldoon Al Mubarak says he is still confident of proving the club's innocence after they were found guilty of breaking Premier League financial rules.",
-        "publishedAt": "2026-09-26T15:02:28.000Z",
+        "description": "George Russell described the Azerbaijan Grand Prix as \"the most dominant weekend I've had in my career\" after a win that felt like vindication.",
+        "publishedAt": "2026-09-26T17:44:04.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Russell wins despite late Verstappen challenge",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/ck8d33760j63o?at_medium=RSS&at_campaign=rss",
+        "title": "Wakefield shock Wigan to reach first Grand Final",
+        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cv2dwykpgz4go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mercedes' George Russell holds off a late challenge from Red Bull's Max Verstappen to win an Azerbaijan Grand Prix enlivened by two late safety car periods.",
-        "publishedAt": "2026-09-26T13:16:13.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "England's Harrison scores last-gasp try to beat Black Ferns",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cje3r46ll3lwo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Zoe Harrison scores last-gasp try as England defeat New Zealand at Allianz Stadium to avoid a second successive draw in the WXV Global Series.",
-        "publishedAt": "2026-09-26T16:12:27.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "England secure win over New Zealand with last-gasp try",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6vgyyvyr45po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England extend their unbeaten run to 41 Tests after Zoe Harrison scores a try in overtime as the Red Roses beat New Zealand 26-19 at the Allianz Stadium.",
-        "publishedAt": "2026-09-26T16:38:22.000Z",
+        "description": "Wakefield Trinity produce a sensational upset to reach their first ever Super League Grand Final and end Wigan Warriors' hopes of a treble in 2026.",
+        "publishedAt": "2026-09-26T18:44:16.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2634,35 +2612,57 @@
         "zone": "au"
       },
       {
-        "title": "The computer hacker who tried to take down Man City",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss",
+        "title": "England embrace growing competitiveness of women's game",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwddvvnp9dp9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Sport travelled to Portugal to find out more about Rui Pinto - the computer hacker who sparked the Manchester City investigation.",
-        "publishedAt": "2026-09-26T05:56:40.000Z",
+        "description": "England edge past New Zealand with a last-gasp try by Zoe Harrison as they embrace the growing competitiveness of women's rugby.",
+        "publishedAt": "2026-09-26T18:55:41.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Clubs seek legal advice over Man City charges compensation",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
+        "title": "England secure win over New Zealand with last-gasp try",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6vgyyvyr45po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
-        "publishedAt": "2026-09-25T20:13:53.000Z",
+        "description": "England extend their unbeaten run to 41 Tests after Zoe Harrison scores a try in overtime as the Red Roses beat New Zealand 26-19 at the Allianz Stadium.",
+        "publishedAt": "2026-09-26T16:38:22.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Relegation? Titles stripped? Appeals? What next for Man City",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
+        "title": "Gilmour catalyst, impressive Welsh, but same issue for Scotland?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqevwwnw10w9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Man City. Here's what it means.",
-        "publishedAt": "2026-09-25T20:48:18.000Z",
+        "description": "BBC Sport Scotland picks out what we learned from Sebastien Pocognoli's first game in charge as Scotland drew with Slovenia.",
+        "publishedAt": "2026-09-26T17:05:53.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Republic of Ireland to wear black armbands for Israel game",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+        "publishedAt": "2026-09-26T14:58:44.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Warwickshire beat Leicestershire to seal ninth Championship title",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c64g77l1p0z2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Warwickshire complete their ninth County Championship title triumph with an innings victory against Leicestershire.",
+        "publishedAt": "2026-09-26T13:55:57.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,46 +2671,24 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "Man City chairman confident club will prove innocence",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
+        "title": "'Mr Saturday' Russell 'comes through other side after real tough period'",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/ckly558q6jeqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City chairman Khaldoon Al Mubarak says he is still confident of proving the club's innocence after they were found guilty of breaking Premier League financial rules.",
-        "publishedAt": "2026-09-26T15:02:28.000Z",
+        "description": "George Russell described the Azerbaijan Grand Prix as \"the most dominant weekend I've had in my career\" after a win that felt like vindication.",
+        "publishedAt": "2026-09-26T17:44:04.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Russell wins despite late Verstappen challenge",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/ck8d33760j63o?at_medium=RSS&at_campaign=rss",
+        "title": "Wakefield shock Wigan to reach first Grand Final",
+        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cv2dwykpgz4go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mercedes' George Russell holds off a late challenge from Red Bull's Max Verstappen to win an Azerbaijan Grand Prix enlivened by two late safety car periods.",
-        "publishedAt": "2026-09-26T13:16:13.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "England's Harrison scores last-gasp try to beat Black Ferns",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cje3r46ll3lwo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Zoe Harrison scores last-gasp try as England defeat New Zealand at Allianz Stadium to avoid a second successive draw in the WXV Global Series.",
-        "publishedAt": "2026-09-26T16:12:27.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "England secure win over New Zealand with last-gasp try",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6vgyyvyr45po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England extend their unbeaten run to 41 Tests after Zoe Harrison scores a try in overtime as the Red Roses beat New Zealand 26-19 at the Allianz Stadium.",
-        "publishedAt": "2026-09-26T16:38:22.000Z",
+        "description": "Wakefield Trinity produce a sensational upset to reach their first ever Super League Grand Final and end Wigan Warriors' hopes of a treble in 2026.",
+        "publishedAt": "2026-09-26T18:44:16.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2726,35 +2704,57 @@
         "zone": "ca"
       },
       {
-        "title": "The computer hacker who tried to take down Man City",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss",
+        "title": "England embrace growing competitiveness of women's game",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwddvvnp9dp9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Sport travelled to Portugal to find out more about Rui Pinto - the computer hacker who sparked the Manchester City investigation.",
-        "publishedAt": "2026-09-26T05:56:40.000Z",
+        "description": "England edge past New Zealand with a last-gasp try by Zoe Harrison as they embrace the growing competitiveness of women's rugby.",
+        "publishedAt": "2026-09-26T18:55:41.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Clubs seek legal advice over Man City charges compensation",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
+        "title": "England secure win over New Zealand with last-gasp try",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6vgyyvyr45po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
-        "publishedAt": "2026-09-25T20:13:53.000Z",
+        "description": "England extend their unbeaten run to 41 Tests after Zoe Harrison scores a try in overtime as the Red Roses beat New Zealand 26-19 at the Allianz Stadium.",
+        "publishedAt": "2026-09-26T16:38:22.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Relegation? Titles stripped? Appeals? What next for Man City",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
+        "title": "Gilmour catalyst, impressive Welsh, but same issue for Scotland?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqevwwnw10w9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Man City. Here's what it means.",
-        "publishedAt": "2026-09-25T20:48:18.000Z",
+        "description": "BBC Sport Scotland picks out what we learned from Sebastien Pocognoli's first game in charge as Scotland drew with Slovenia.",
+        "publishedAt": "2026-09-26T17:05:53.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Republic of Ireland to wear black armbands for Israel game",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+        "publishedAt": "2026-09-26T14:58:44.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Warwickshire beat Leicestershire to seal ninth Championship title",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c64g77l1p0z2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Warwickshire complete their ninth County Championship title triumph with an innings victory against Leicestershire.",
+        "publishedAt": "2026-09-26T13:55:57.000Z",
         "category": "sports",
         "zone": "ca"
       }
