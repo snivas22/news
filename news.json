@@ -1,29 +1,7 @@
 {
-  "generatedAt": "2026-09-27T01:08:27.145Z",
+  "generatedAt": "2026-09-27T07:43:41.417Z",
   "general_us": {
     "articles": [
-      {
-        "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
-        "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
-        "publishedAt": "2026-09-26T18:50:02.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Appeal court judges overturn ban on controversial Drumcree parade",
-        "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Court of Appeal overturned an earlier ban on the Orange Order parading down the mainly nationalist Garvaghy Road in Portadown for the first time since the late 1990s.",
-        "publishedAt": "2026-09-27T00:49:02.000Z",
-        "category": "general",
-        "zone": "us"
-      },
       {
         "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
         "url": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
@@ -36,24 +14,24 @@
         "zone": "us"
       },
       {
-        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+        "title": "Ten NHS staff removed over Noah Woods data breach",
+        "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
-        "publishedAt": "2026-09-26T22:15:59.000Z",
+        "description": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation.",
+        "publishedAt": "2026-09-27T07:37:25.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Heathrow Airport warns third runway could be delayed by four years",
-        "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+        "title": "Iran waiting for official US response after Trump rejects Hormuz deal, minister says",
+        "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
-        "publishedAt": "2026-09-26T16:32:42.000Z",
+        "description": "The foreign minister says the US has not officially rejected the deal, despite comments from Donald Trump on Saturday.",
+        "publishedAt": "2026-09-27T06:52:49.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -85,8 +63,30 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "UPFs are linked to a range of health problems. But no-one seems to be able to agree why.",
+        "description": "UPFs are linked to a range of health problems. But no-one seems able to agree on why.",
         "publishedAt": "2026-09-26T23:03:39.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too",
+        "url": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
+        "publishedAt": "2026-09-26T23:04:08.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Young people in China are fangirling over a professor who gets their anxiety",
+        "url": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
+        "publishedAt": "2026-09-26T22:02:18.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,28 +95,6 @@
   "general_gb": {
     "articles": [
       {
-        "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
-        "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
-        "publishedAt": "2026-09-26T18:50:02.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Appeal court judges overturn ban on controversial Drumcree parade",
-        "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Court of Appeal overturned an earlier ban on the Orange Order parading down the mainly nationalist Garvaghy Road in Portadown for the first time since the late 1990s.",
-        "publishedAt": "2026-09-27T00:49:02.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
         "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
         "url": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -128,24 +106,24 @@
         "zone": "gb"
       },
       {
-        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+        "title": "Ten NHS staff removed over Noah Woods data breach",
+        "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
-        "publishedAt": "2026-09-26T22:15:59.000Z",
+        "description": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation.",
+        "publishedAt": "2026-09-27T07:37:25.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Heathrow Airport warns third runway could be delayed by four years",
-        "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+        "title": "Iran waiting for official US response after Trump rejects Hormuz deal, minister says",
+        "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
-        "publishedAt": "2026-09-26T16:32:42.000Z",
+        "description": "The foreign minister says the US has not officially rejected the deal, despite comments from Donald Trump on Saturday.",
+        "publishedAt": "2026-09-27T06:52:49.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -177,8 +155,30 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "UPFs are linked to a range of health problems. But no-one seems to be able to agree why.",
+        "description": "UPFs are linked to a range of health problems. But no-one seems able to agree on why.",
         "publishedAt": "2026-09-26T23:03:39.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too",
+        "url": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
+        "publishedAt": "2026-09-26T23:04:08.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Young people in China are fangirling over a professor who gets their anxiety",
+        "url": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
+        "publishedAt": "2026-09-26T22:02:18.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,28 +187,6 @@
   "general_in": {
     "articles": [
       {
-        "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
-        "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
-        "publishedAt": "2026-09-26T18:50:02.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Appeal court judges overturn ban on controversial Drumcree parade",
-        "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Court of Appeal overturned an earlier ban on the Orange Order parading down the mainly nationalist Garvaghy Road in Portadown for the first time since the late 1990s.",
-        "publishedAt": "2026-09-27T00:49:02.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
         "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
         "url": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -220,24 +198,24 @@
         "zone": "in"
       },
       {
-        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+        "title": "Ten NHS staff removed over Noah Woods data breach",
+        "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
-        "publishedAt": "2026-09-26T22:15:59.000Z",
+        "description": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation.",
+        "publishedAt": "2026-09-27T07:37:25.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Heathrow Airport warns third runway could be delayed by four years",
-        "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+        "title": "Iran waiting for official US response after Trump rejects Hormuz deal, minister says",
+        "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
-        "publishedAt": "2026-09-26T16:32:42.000Z",
+        "description": "The foreign minister says the US has not officially rejected the deal, despite comments from Donald Trump on Saturday.",
+        "publishedAt": "2026-09-27T06:52:49.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -269,8 +247,30 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "UPFs are linked to a range of health problems. But no-one seems to be able to agree why.",
+        "description": "UPFs are linked to a range of health problems. But no-one seems able to agree on why.",
         "publishedAt": "2026-09-26T23:03:39.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too",
+        "url": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
+        "publishedAt": "2026-09-26T23:04:08.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Young people in China are fangirling over a professor who gets their anxiety",
+        "url": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
+        "publishedAt": "2026-09-26T22:02:18.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,28 +279,6 @@
   "general_au": {
     "articles": [
       {
-        "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
-        "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
-        "publishedAt": "2026-09-26T18:50:02.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Appeal court judges overturn ban on controversial Drumcree parade",
-        "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Court of Appeal overturned an earlier ban on the Orange Order parading down the mainly nationalist Garvaghy Road in Portadown for the first time since the late 1990s.",
-        "publishedAt": "2026-09-27T00:49:02.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
         "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
         "url": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -312,24 +290,24 @@
         "zone": "au"
       },
       {
-        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+        "title": "Ten NHS staff removed over Noah Woods data breach",
+        "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
-        "publishedAt": "2026-09-26T22:15:59.000Z",
+        "description": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation.",
+        "publishedAt": "2026-09-27T07:37:25.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Heathrow Airport warns third runway could be delayed by four years",
-        "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+        "title": "Iran waiting for official US response after Trump rejects Hormuz deal, minister says",
+        "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
-        "publishedAt": "2026-09-26T16:32:42.000Z",
+        "description": "The foreign minister says the US has not officially rejected the deal, despite comments from Donald Trump on Saturday.",
+        "publishedAt": "2026-09-27T06:52:49.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -361,8 +339,30 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "UPFs are linked to a range of health problems. But no-one seems to be able to agree why.",
+        "description": "UPFs are linked to a range of health problems. But no-one seems able to agree on why.",
         "publishedAt": "2026-09-26T23:03:39.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too",
+        "url": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
+        "publishedAt": "2026-09-26T23:04:08.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Young people in China are fangirling over a professor who gets their anxiety",
+        "url": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
+        "publishedAt": "2026-09-26T22:02:18.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,28 +371,6 @@
   "general_ca": {
     "articles": [
       {
-        "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
-        "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
-        "publishedAt": "2026-09-26T18:50:02.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Appeal court judges overturn ban on controversial Drumcree parade",
-        "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Court of Appeal overturned an earlier ban on the Orange Order parading down the mainly nationalist Garvaghy Road in Portadown for the first time since the late 1990s.",
-        "publishedAt": "2026-09-27T00:49:02.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
         "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
         "url": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -404,24 +382,24 @@
         "zone": "ca"
       },
       {
-        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+        "title": "Ten NHS staff removed over Noah Woods data breach",
+        "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
-        "publishedAt": "2026-09-26T22:15:59.000Z",
+        "description": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation.",
+        "publishedAt": "2026-09-27T07:37:25.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Heathrow Airport warns third runway could be delayed by four years",
-        "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+        "title": "Iran waiting for official US response after Trump rejects Hormuz deal, minister says",
+        "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
-        "publishedAt": "2026-09-26T16:32:42.000Z",
+        "description": "The foreign minister says the US has not officially rejected the deal, despite comments from Donald Trump on Saturday.",
+        "publishedAt": "2026-09-27T06:52:49.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -453,8 +431,30 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "UPFs are linked to a range of health problems. But no-one seems to be able to agree why.",
+        "description": "UPFs are linked to a range of health problems. But no-one seems able to agree on why.",
         "publishedAt": "2026-09-26T23:03:39.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too",
+        "url": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
+        "publishedAt": "2026-09-26T23:04:08.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Young people in China are fangirling over a professor who gets their anxiety",
+        "url": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
+        "publishedAt": "2026-09-26T22:02:18.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -463,6 +463,28 @@
   "business_us": {
     "articles": [
       {
+        "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+        "publishedAt": "2026-09-26T23:00:42.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Heathrow Airport warns third runway could be delayed by four years",
+        "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
+        "publishedAt": "2026-09-26T16:32:42.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "OpenAI bots meddled with multiple US government agency sites",
         "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -496,6 +518,17 @@
         "zone": "us"
       },
       {
+        "title": "X-planes: Are they needed in the new era of drones?",
+        "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Where do America's X-plane projects fit in an era of cheap drones?",
+        "publishedAt": "2026-09-24T23:03:53.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "'We're all broke': Would you chase a friend for £5?",
         "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -514,39 +547,6 @@
         },
         "description": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments.",
         "publishedAt": "2026-09-25T16:00:44.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-        "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
-        "publishedAt": "2026-09-25T09:48:33.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "UK diesel price close to all-time high",
-        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
-        "publishedAt": "2026-09-25T10:50:49.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "X-planes: Are they needed in the new era of drones?",
-        "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Where do America's X-plane projects fit in an era of cheap drones?",
-        "publishedAt": "2026-09-24T23:03:53.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,6 +555,28 @@
   "business_gb": {
     "articles": [
       {
+        "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+        "publishedAt": "2026-09-26T23:00:42.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Heathrow Airport warns third runway could be delayed by four years",
+        "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
+        "publishedAt": "2026-09-26T16:32:42.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "OpenAI bots meddled with multiple US government agency sites",
         "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -588,6 +610,17 @@
         "zone": "gb"
       },
       {
+        "title": "X-planes: Are they needed in the new era of drones?",
+        "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Where do America's X-plane projects fit in an era of cheap drones?",
+        "publishedAt": "2026-09-24T23:03:53.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "'We're all broke': Would you chase a friend for £5?",
         "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -606,39 +639,6 @@
         },
         "description": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments.",
         "publishedAt": "2026-09-25T16:00:44.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-        "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
-        "publishedAt": "2026-09-25T09:48:33.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "UK diesel price close to all-time high",
-        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
-        "publishedAt": "2026-09-25T10:50:49.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "X-planes: Are they needed in the new era of drones?",
-        "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Where do America's X-plane projects fit in an era of cheap drones?",
-        "publishedAt": "2026-09-24T23:03:53.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,6 +647,28 @@
   "business_in": {
     "articles": [
       {
+        "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+        "publishedAt": "2026-09-26T23:00:42.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Heathrow Airport warns third runway could be delayed by four years",
+        "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
+        "publishedAt": "2026-09-26T16:32:42.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "OpenAI bots meddled with multiple US government agency sites",
         "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -680,6 +702,17 @@
         "zone": "in"
       },
       {
+        "title": "X-planes: Are they needed in the new era of drones?",
+        "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Where do America's X-plane projects fit in an era of cheap drones?",
+        "publishedAt": "2026-09-24T23:03:53.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "'We're all broke': Would you chase a friend for £5?",
         "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -698,39 +731,6 @@
         },
         "description": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments.",
         "publishedAt": "2026-09-25T16:00:44.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-        "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
-        "publishedAt": "2026-09-25T09:48:33.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "UK diesel price close to all-time high",
-        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
-        "publishedAt": "2026-09-25T10:50:49.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "X-planes: Are they needed in the new era of drones?",
-        "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Where do America's X-plane projects fit in an era of cheap drones?",
-        "publishedAt": "2026-09-24T23:03:53.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,6 +739,28 @@
   "business_au": {
     "articles": [
       {
+        "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+        "publishedAt": "2026-09-26T23:00:42.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Heathrow Airport warns third runway could be delayed by four years",
+        "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
+        "publishedAt": "2026-09-26T16:32:42.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "OpenAI bots meddled with multiple US government agency sites",
         "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -772,6 +794,17 @@
         "zone": "au"
       },
       {
+        "title": "X-planes: Are they needed in the new era of drones?",
+        "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Where do America's X-plane projects fit in an era of cheap drones?",
+        "publishedAt": "2026-09-24T23:03:53.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "'We're all broke': Would you chase a friend for £5?",
         "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -790,39 +823,6 @@
         },
         "description": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments.",
         "publishedAt": "2026-09-25T16:00:44.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-        "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
-        "publishedAt": "2026-09-25T09:48:33.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "UK diesel price close to all-time high",
-        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
-        "publishedAt": "2026-09-25T10:50:49.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "X-planes: Are they needed in the new era of drones?",
-        "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Where do America's X-plane projects fit in an era of cheap drones?",
-        "publishedAt": "2026-09-24T23:03:53.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,6 +831,28 @@
   "business_ca": {
     "articles": [
       {
+        "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+        "publishedAt": "2026-09-26T23:00:42.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Heathrow Airport warns third runway could be delayed by four years",
+        "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
+        "publishedAt": "2026-09-26T16:32:42.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "OpenAI bots meddled with multiple US government agency sites",
         "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -864,6 +886,17 @@
         "zone": "ca"
       },
       {
+        "title": "X-planes: Are they needed in the new era of drones?",
+        "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Where do America's X-plane projects fit in an era of cheap drones?",
+        "publishedAt": "2026-09-24T23:03:53.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "'We're all broke': Would you chase a friend for £5?",
         "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -884,52 +917,19 @@
         "publishedAt": "2026-09-25T16:00:44.000Z",
         "category": "business",
         "zone": "ca"
-      },
-      {
-        "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-        "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
-        "publishedAt": "2026-09-25T09:48:33.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "UK diesel price close to all-time high",
-        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
-        "publishedAt": "2026-09-25T10:50:49.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "X-planes: Are they needed in the new era of drones?",
-        "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Where do America's X-plane projects fit in an era of cheap drones?",
-        "publishedAt": "2026-09-24T23:03:53.000Z",
-        "category": "business",
-        "zone": "ca"
       }
     ]
   },
   "entertainment_us": {
     "articles": [
       {
-        "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
-        "url": "https://www.bbc.co.uk/news/articles/ck7900wl7nxyo?at_medium=RSS&at_campaign=rss",
+        "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
+        "url": "https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after severe weather warnings.",
-        "publishedAt": "2026-09-25T15:51:52.000Z",
+        "description": "The reality TV game show returns on Thursday, with 21 stars vying to win £100,000 for their chosen charity.",
+        "publishedAt": "2026-09-26T23:01:47.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -941,6 +941,17 @@
         },
         "description": "The BBC's financial situation \"may well mean\" some channels and stations close, Matt Brittin says.",
         "publishedAt": "2026-09-25T12:00:11.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
+        "url": "https://www.bbc.co.uk/news/articles/ck7900wl7nxyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after severe weather warnings.",
+        "publishedAt": "2026-09-25T15:51:52.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -978,17 +989,6 @@
         "zone": "us"
       },
       {
-        "title": "British rapper Yung Filly to face rape retrial in Australia next June",
-        "url": "https://www.bbc.co.uk/news/articles/cmj643pd4e11o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andres Felipe Valencia Barrientos was cleared of several sexual offences in July but a jury was undecided on three rape charges.",
-        "publishedAt": "2026-09-25T04:02:54.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
         "title": "Ex-GTA developer's studio faces closure after debut game flopped",
         "url": "https://www.bbc.co.uk/news/articles/cqpvewv3mpgko?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1000,13 +1000,13 @@
         "zone": "us"
       },
       {
-        "title": "Media outlets banned by Trump resume White House coverage after judge's order",
-        "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+        "title": "Liam Neeson involved in new movie revealing story behind Tuam babies",
+        "url": "https://www.bbc.co.uk/news/articles/ckj063lq1jm6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
-        "publishedAt": "2026-09-25T18:36:30.000Z",
+        "description": "The Lost Children of Tuam, co-produced by Liam Neeson, is now in cinemas.",
+        "publishedAt": "2026-09-26T05:43:54.000Z",
         "category": "entertainment",
         "zone": "us"
       }
@@ -1015,13 +1015,13 @@
   "entertainment_gb": {
     "articles": [
       {
-        "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
-        "url": "https://www.bbc.co.uk/news/articles/ck7900wl7nxyo?at_medium=RSS&at_campaign=rss",
+        "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
+        "url": "https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after severe weather warnings.",
-        "publishedAt": "2026-09-25T15:51:52.000Z",
+        "description": "The reality TV game show returns on Thursday, with 21 stars vying to win £100,000 for their chosen charity.",
+        "publishedAt": "2026-09-26T23:01:47.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1033,6 +1033,17 @@
         },
         "description": "The BBC's financial situation \"may well mean\" some channels and stations close, Matt Brittin says.",
         "publishedAt": "2026-09-25T12:00:11.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
+        "url": "https://www.bbc.co.uk/news/articles/ck7900wl7nxyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after severe weather warnings.",
+        "publishedAt": "2026-09-25T15:51:52.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1070,17 +1081,6 @@
         "zone": "gb"
       },
       {
-        "title": "British rapper Yung Filly to face rape retrial in Australia next June",
-        "url": "https://www.bbc.co.uk/news/articles/cmj643pd4e11o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andres Felipe Valencia Barrientos was cleared of several sexual offences in July but a jury was undecided on three rape charges.",
-        "publishedAt": "2026-09-25T04:02:54.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
         "title": "Ex-GTA developer's studio faces closure after debut game flopped",
         "url": "https://www.bbc.co.uk/news/articles/cqpvewv3mpgko?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1092,13 +1092,13 @@
         "zone": "gb"
       },
       {
-        "title": "Media outlets banned by Trump resume White House coverage after judge's order",
-        "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+        "title": "Liam Neeson involved in new movie revealing story behind Tuam babies",
+        "url": "https://www.bbc.co.uk/news/articles/ckj063lq1jm6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
-        "publishedAt": "2026-09-25T18:36:30.000Z",
+        "description": "The Lost Children of Tuam, co-produced by Liam Neeson, is now in cinemas.",
+        "publishedAt": "2026-09-26T05:43:54.000Z",
         "category": "entertainment",
         "zone": "gb"
       }
@@ -1107,13 +1107,13 @@
   "entertainment_in": {
     "articles": [
       {
-        "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
-        "url": "https://www.bbc.co.uk/news/articles/ck7900wl7nxyo?at_medium=RSS&at_campaign=rss",
+        "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
+        "url": "https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after severe weather warnings.",
-        "publishedAt": "2026-09-25T15:51:52.000Z",
+        "description": "The reality TV game show returns on Thursday, with 21 stars vying to win £100,000 for their chosen charity.",
+        "publishedAt": "2026-09-26T23:01:47.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1125,6 +1125,17 @@
         },
         "description": "The BBC's financial situation \"may well mean\" some channels and stations close, Matt Brittin says.",
         "publishedAt": "2026-09-25T12:00:11.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
+        "url": "https://www.bbc.co.uk/news/articles/ck7900wl7nxyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after severe weather warnings.",
+        "publishedAt": "2026-09-25T15:51:52.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1162,17 +1173,6 @@
         "zone": "in"
       },
       {
-        "title": "British rapper Yung Filly to face rape retrial in Australia next June",
-        "url": "https://www.bbc.co.uk/news/articles/cmj643pd4e11o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andres Felipe Valencia Barrientos was cleared of several sexual offences in July but a jury was undecided on three rape charges.",
-        "publishedAt": "2026-09-25T04:02:54.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
         "title": "Ex-GTA developer's studio faces closure after debut game flopped",
         "url": "https://www.bbc.co.uk/news/articles/cqpvewv3mpgko?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1184,13 +1184,13 @@
         "zone": "in"
       },
       {
-        "title": "Media outlets banned by Trump resume White House coverage after judge's order",
-        "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+        "title": "Liam Neeson involved in new movie revealing story behind Tuam babies",
+        "url": "https://www.bbc.co.uk/news/articles/ckj063lq1jm6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
-        "publishedAt": "2026-09-25T18:36:30.000Z",
+        "description": "The Lost Children of Tuam, co-produced by Liam Neeson, is now in cinemas.",
+        "publishedAt": "2026-09-26T05:43:54.000Z",
         "category": "entertainment",
         "zone": "in"
       }
@@ -1199,13 +1199,13 @@
   "entertainment_au": {
     "articles": [
       {
-        "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
-        "url": "https://www.bbc.co.uk/news/articles/ck7900wl7nxyo?at_medium=RSS&at_campaign=rss",
+        "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
+        "url": "https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after severe weather warnings.",
-        "publishedAt": "2026-09-25T15:51:52.000Z",
+        "description": "The reality TV game show returns on Thursday, with 21 stars vying to win £100,000 for their chosen charity.",
+        "publishedAt": "2026-09-26T23:01:47.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1217,6 +1217,17 @@
         },
         "description": "The BBC's financial situation \"may well mean\" some channels and stations close, Matt Brittin says.",
         "publishedAt": "2026-09-25T12:00:11.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
+        "url": "https://www.bbc.co.uk/news/articles/ck7900wl7nxyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after severe weather warnings.",
+        "publishedAt": "2026-09-25T15:51:52.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1254,17 +1265,6 @@
         "zone": "au"
       },
       {
-        "title": "British rapper Yung Filly to face rape retrial in Australia next June",
-        "url": "https://www.bbc.co.uk/news/articles/cmj643pd4e11o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andres Felipe Valencia Barrientos was cleared of several sexual offences in July but a jury was undecided on three rape charges.",
-        "publishedAt": "2026-09-25T04:02:54.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
         "title": "Ex-GTA developer's studio faces closure after debut game flopped",
         "url": "https://www.bbc.co.uk/news/articles/cqpvewv3mpgko?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1276,13 +1276,13 @@
         "zone": "au"
       },
       {
-        "title": "Media outlets banned by Trump resume White House coverage after judge's order",
-        "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+        "title": "Liam Neeson involved in new movie revealing story behind Tuam babies",
+        "url": "https://www.bbc.co.uk/news/articles/ckj063lq1jm6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
-        "publishedAt": "2026-09-25T18:36:30.000Z",
+        "description": "The Lost Children of Tuam, co-produced by Liam Neeson, is now in cinemas.",
+        "publishedAt": "2026-09-26T05:43:54.000Z",
         "category": "entertainment",
         "zone": "au"
       }
@@ -1291,13 +1291,13 @@
   "entertainment_ca": {
     "articles": [
       {
-        "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
-        "url": "https://www.bbc.co.uk/news/articles/ck7900wl7nxyo?at_medium=RSS&at_campaign=rss",
+        "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
+        "url": "https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after severe weather warnings.",
-        "publishedAt": "2026-09-25T15:51:52.000Z",
+        "description": "The reality TV game show returns on Thursday, with 21 stars vying to win £100,000 for their chosen charity.",
+        "publishedAt": "2026-09-26T23:01:47.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1309,6 +1309,17 @@
         },
         "description": "The BBC's financial situation \"may well mean\" some channels and stations close, Matt Brittin says.",
         "publishedAt": "2026-09-25T12:00:11.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
+        "url": "https://www.bbc.co.uk/news/articles/ck7900wl7nxyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after severe weather warnings.",
+        "publishedAt": "2026-09-25T15:51:52.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1346,17 +1357,6 @@
         "zone": "ca"
       },
       {
-        "title": "British rapper Yung Filly to face rape retrial in Australia next June",
-        "url": "https://www.bbc.co.uk/news/articles/cmj643pd4e11o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andres Felipe Valencia Barrientos was cleared of several sexual offences in July but a jury was undecided on three rape charges.",
-        "publishedAt": "2026-09-25T04:02:54.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
         "title": "Ex-GTA developer's studio faces closure after debut game flopped",
         "url": "https://www.bbc.co.uk/news/articles/cqpvewv3mpgko?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1368,13 +1368,13 @@
         "zone": "ca"
       },
       {
-        "title": "Media outlets banned by Trump resume White House coverage after judge's order",
-        "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+        "title": "Liam Neeson involved in new movie revealing story behind Tuam babies",
+        "url": "https://www.bbc.co.uk/news/articles/ckj063lq1jm6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
-        "publishedAt": "2026-09-25T18:36:30.000Z",
+        "description": "The Lost Children of Tuam, co-produced by Liam Neeson, is now in cinemas.",
+        "publishedAt": "2026-09-26T05:43:54.000Z",
         "category": "entertainment",
         "zone": "ca"
       }
@@ -1383,6 +1383,17 @@
   "health_us": {
     "articles": [
       {
+        "title": "Ten NHS staff removed over Noah Woods data breach",
+        "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation.",
+        "publishedAt": "2026-09-27T07:37:25.000Z",
+        "category": "health",
+        "zone": "us"
+      },
+      {
         "title": "NHS to suspend staff suspected of snooping on patient records",
         "url": "https://www.bbc.co.uk/news/articles/cjr4v9g14vygo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1456,17 +1467,6 @@
         },
         "description": "Doctors running a dedicated NHS clinic for children with ketamine bladder say they are seeing patients as young as 13.",
         "publishedAt": "2026-09-23T07:27:24.000Z",
-        "category": "health",
-        "zone": "us"
-      },
-      {
-        "title": "Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery",
-        "url": "https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A concerning number of patients are reporting problems from treatment abroad, say doctors.",
-        "publishedAt": "2026-09-23T05:00:25.000Z",
         "category": "health",
         "zone": "us"
       }
@@ -1475,6 +1475,17 @@
   "health_gb": {
     "articles": [
       {
+        "title": "Ten NHS staff removed over Noah Woods data breach",
+        "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation.",
+        "publishedAt": "2026-09-27T07:37:25.000Z",
+        "category": "health",
+        "zone": "gb"
+      },
+      {
         "title": "NHS to suspend staff suspected of snooping on patient records",
         "url": "https://www.bbc.co.uk/news/articles/cjr4v9g14vygo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1548,17 +1559,6 @@
         },
         "description": "Doctors running a dedicated NHS clinic for children with ketamine bladder say they are seeing patients as young as 13.",
         "publishedAt": "2026-09-23T07:27:24.000Z",
-        "category": "health",
-        "zone": "gb"
-      },
-      {
-        "title": "Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery",
-        "url": "https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A concerning number of patients are reporting problems from treatment abroad, say doctors.",
-        "publishedAt": "2026-09-23T05:00:25.000Z",
         "category": "health",
         "zone": "gb"
       }
@@ -1567,6 +1567,17 @@
   "health_in": {
     "articles": [
       {
+        "title": "Ten NHS staff removed over Noah Woods data breach",
+        "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation.",
+        "publishedAt": "2026-09-27T07:37:25.000Z",
+        "category": "health",
+        "zone": "in"
+      },
+      {
         "title": "NHS to suspend staff suspected of snooping on patient records",
         "url": "https://www.bbc.co.uk/news/articles/cjr4v9g14vygo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1640,17 +1651,6 @@
         },
         "description": "Doctors running a dedicated NHS clinic for children with ketamine bladder say they are seeing patients as young as 13.",
         "publishedAt": "2026-09-23T07:27:24.000Z",
-        "category": "health",
-        "zone": "in"
-      },
-      {
-        "title": "Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery",
-        "url": "https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A concerning number of patients are reporting problems from treatment abroad, say doctors.",
-        "publishedAt": "2026-09-23T05:00:25.000Z",
         "category": "health",
         "zone": "in"
       }
@@ -1659,6 +1659,17 @@
   "health_au": {
     "articles": [
       {
+        "title": "Ten NHS staff removed over Noah Woods data breach",
+        "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation.",
+        "publishedAt": "2026-09-27T07:37:25.000Z",
+        "category": "health",
+        "zone": "au"
+      },
+      {
         "title": "NHS to suspend staff suspected of snooping on patient records",
         "url": "https://www.bbc.co.uk/news/articles/cjr4v9g14vygo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1732,17 +1743,6 @@
         },
         "description": "Doctors running a dedicated NHS clinic for children with ketamine bladder say they are seeing patients as young as 13.",
         "publishedAt": "2026-09-23T07:27:24.000Z",
-        "category": "health",
-        "zone": "au"
-      },
-      {
-        "title": "Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery",
-        "url": "https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A concerning number of patients are reporting problems from treatment abroad, say doctors.",
-        "publishedAt": "2026-09-23T05:00:25.000Z",
         "category": "health",
         "zone": "au"
       }
@@ -1751,6 +1751,17 @@
   "health_ca": {
     "articles": [
       {
+        "title": "Ten NHS staff removed over Noah Woods data breach",
+        "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation.",
+        "publishedAt": "2026-09-27T07:37:25.000Z",
+        "category": "health",
+        "zone": "ca"
+      },
+      {
         "title": "NHS to suspend staff suspected of snooping on patient records",
         "url": "https://www.bbc.co.uk/news/articles/cjr4v9g14vygo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1824,17 +1835,6 @@
         },
         "description": "Doctors running a dedicated NHS clinic for children with ketamine bladder say they are seeing patients as young as 13.",
         "publishedAt": "2026-09-23T07:27:24.000Z",
-        "category": "health",
-        "zone": "ca"
-      },
-      {
-        "title": "Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery",
-        "url": "https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A concerning number of patients are reporting problems from treatment abroad, say doctors.",
-        "publishedAt": "2026-09-23T05:00:25.000Z",
         "category": "health",
         "zone": "ca"
       }
@@ -2314,6 +2314,72 @@
         "zone": "us"
       },
       {
+        "title": "White casts doubt on Fury-Joshua after 24 hours of chaos",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cklyjjjge16vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "There is fresh uncertainty around the proposed Tyson Fury v Anthony Joshua fight - after Dana White said he did not know whether it would happen.",
+        "publishedAt": "2026-09-27T05:39:28.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "'I feel cheated - when do Stoke City get our FA Cup?'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c60m33473zxpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Sport columnist Tony Pulis explains what he and all Stoke fans are thinking after Manchester City are found guilty of the majority of the 115 charges they faced.",
+        "publishedAt": "2026-09-27T06:50:09.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Pickford or Trafford? The battle to be England's number one is now on",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckm2qqpjv7nro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Jordan Pickford has been England's number one for a long time. But does he now have a rival in James Trafford?",
+        "publishedAt": "2026-09-26T23:06:07.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Alcaraz wins after saving match points as Europe lead Laver Cup",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cm5yddy3wv90o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Carlos Alcaraz narrowly avoids back-to-back singles defeats for the first time in 18 months as Team Europe lead Team World at the Laver Cup.",
+        "publishedAt": "2026-09-27T06:15:26.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Internationals hold three-point Presidents Cup lead over US",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c64gvvjze807o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Internationals team could secure a first President's Cup in 28 years on Sunday after holding off a United States fightback on day three in Medinah.",
+        "publishedAt": "2026-09-26T23:22:47.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "From turgid to thrusting - mixed start for new Scotland",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c67833k8dn0eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Sport Scotland's Tom English reviews a mixed start to life as Scotland head coach for Sebastien Pocognoli as his side open their Nations League campaign with a goalless draw in Slovenia.",
+        "publishedAt": "2026-09-27T07:14:55.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "'Mr Saturday' Russell 'comes through other side after real tough period'",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/ckly558q6jeqo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2321,72 +2387,6 @@
         },
         "description": "George Russell described the Azerbaijan Grand Prix as \"the most dominant weekend I've had in my career\" after a win that felt like vindication.",
         "publishedAt": "2026-09-26T17:44:04.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Tuchel rues 'big mistakes' - did Man City charges have impact?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6j4jjg5qxero?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England's loss to Spain was decided by uncharacteristic mistakes, with two Man City players making errors - so did club news affect performances for country?",
-        "publishedAt": "2026-09-26T22:47:10.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "'Pipe dream' to reality? Wakefield reach Grand Final",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6n8mm9d11lno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Wakefield Trinity were playing in rugby league's second tier in 2024. Two years on, they are one win away from becoming Super League champions.",
-        "publishedAt": "2026-09-26T20:02:07.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "No Premier League appetite to strip Man City of titles - but threat remains",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cxyvzzj17682o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "After being found guilty of the majority of the 115 charges for breaching Premier League, could Manchester city really be stripped of eight trophies?",
-        "publishedAt": "2026-09-26T13:26:40.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Vollering wins women's road race world title",
-        "url": "https://www.bbc.co.uk/sport/cycling/articles/cxr500pj7dlqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Demi Vollering continues her remarkable season with a thrilling victory in the women's road race in Montreal.",
-        "publishedAt": "2026-09-26T20:36:39.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "England secure win over New Zealand with last-gasp try",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6vgyyvyr45po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England extend their unbeaten run to 41 Tests after Zoe Harrison scores a try in overtime as the Red Roses beat New Zealand 26-19 at the Allianz Stadium.",
-        "publishedAt": "2026-09-26T16:38:22.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Bayern target Barcelona's Olmo - Sunday's gossip",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw770034l523o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Bayern Munich target Dani Olmo, Trent Alexander-Arnold is staying at Real Madrid, Premier League clubs show interest in Spurs' Micky van de Ven, plus more.",
-        "publishedAt": "2026-09-26T20:54:18.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2406,6 +2406,72 @@
         "zone": "gb"
       },
       {
+        "title": "White casts doubt on Fury-Joshua after 24 hours of chaos",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cklyjjjge16vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "There is fresh uncertainty around the proposed Tyson Fury v Anthony Joshua fight - after Dana White said he did not know whether it would happen.",
+        "publishedAt": "2026-09-27T05:39:28.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "'I feel cheated - when do Stoke City get our FA Cup?'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c60m33473zxpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Sport columnist Tony Pulis explains what he and all Stoke fans are thinking after Manchester City are found guilty of the majority of the 115 charges they faced.",
+        "publishedAt": "2026-09-27T06:50:09.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Pickford or Trafford? The battle to be England's number one is now on",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckm2qqpjv7nro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Jordan Pickford has been England's number one for a long time. But does he now have a rival in James Trafford?",
+        "publishedAt": "2026-09-26T23:06:07.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Alcaraz wins after saving match points as Europe lead Laver Cup",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cm5yddy3wv90o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Carlos Alcaraz narrowly avoids back-to-back singles defeats for the first time in 18 months as Team Europe lead Team World at the Laver Cup.",
+        "publishedAt": "2026-09-27T06:15:26.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Internationals hold three-point Presidents Cup lead over US",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c64gvvjze807o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Internationals team could secure a first President's Cup in 28 years on Sunday after holding off a United States fightback on day three in Medinah.",
+        "publishedAt": "2026-09-26T23:22:47.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "From turgid to thrusting - mixed start for new Scotland",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c67833k8dn0eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Sport Scotland's Tom English reviews a mixed start to life as Scotland head coach for Sebastien Pocognoli as his side open their Nations League campaign with a goalless draw in Slovenia.",
+        "publishedAt": "2026-09-27T07:14:55.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "'Mr Saturday' Russell 'comes through other side after real tough period'",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/ckly558q6jeqo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2413,72 +2479,6 @@
         },
         "description": "George Russell described the Azerbaijan Grand Prix as \"the most dominant weekend I've had in my career\" after a win that felt like vindication.",
         "publishedAt": "2026-09-26T17:44:04.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Tuchel rues 'big mistakes' - did Man City charges have impact?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6j4jjg5qxero?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England's loss to Spain was decided by uncharacteristic mistakes, with two Man City players making errors - so did club news affect performances for country?",
-        "publishedAt": "2026-09-26T22:47:10.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "'Pipe dream' to reality? Wakefield reach Grand Final",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6n8mm9d11lno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Wakefield Trinity were playing in rugby league's second tier in 2024. Two years on, they are one win away from becoming Super League champions.",
-        "publishedAt": "2026-09-26T20:02:07.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "No Premier League appetite to strip Man City of titles - but threat remains",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cxyvzzj17682o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "After being found guilty of the majority of the 115 charges for breaching Premier League, could Manchester city really be stripped of eight trophies?",
-        "publishedAt": "2026-09-26T13:26:40.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Vollering wins women's road race world title",
-        "url": "https://www.bbc.co.uk/sport/cycling/articles/cxr500pj7dlqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Demi Vollering continues her remarkable season with a thrilling victory in the women's road race in Montreal.",
-        "publishedAt": "2026-09-26T20:36:39.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "England secure win over New Zealand with last-gasp try",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6vgyyvyr45po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England extend their unbeaten run to 41 Tests after Zoe Harrison scores a try in overtime as the Red Roses beat New Zealand 26-19 at the Allianz Stadium.",
-        "publishedAt": "2026-09-26T16:38:22.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Bayern target Barcelona's Olmo - Sunday's gossip",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw770034l523o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Bayern Munich target Dani Olmo, Trent Alexander-Arnold is staying at Real Madrid, Premier League clubs show interest in Spurs' Micky van de Ven, plus more.",
-        "publishedAt": "2026-09-26T20:54:18.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2498,6 +2498,72 @@
         "zone": "in"
       },
       {
+        "title": "White casts doubt on Fury-Joshua after 24 hours of chaos",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cklyjjjge16vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "There is fresh uncertainty around the proposed Tyson Fury v Anthony Joshua fight - after Dana White said he did not know whether it would happen.",
+        "publishedAt": "2026-09-27T05:39:28.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "'I feel cheated - when do Stoke City get our FA Cup?'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c60m33473zxpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Sport columnist Tony Pulis explains what he and all Stoke fans are thinking after Manchester City are found guilty of the majority of the 115 charges they faced.",
+        "publishedAt": "2026-09-27T06:50:09.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Pickford or Trafford? The battle to be England's number one is now on",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckm2qqpjv7nro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Jordan Pickford has been England's number one for a long time. But does he now have a rival in James Trafford?",
+        "publishedAt": "2026-09-26T23:06:07.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Alcaraz wins after saving match points as Europe lead Laver Cup",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cm5yddy3wv90o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Carlos Alcaraz narrowly avoids back-to-back singles defeats for the first time in 18 months as Team Europe lead Team World at the Laver Cup.",
+        "publishedAt": "2026-09-27T06:15:26.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Internationals hold three-point Presidents Cup lead over US",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c64gvvjze807o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Internationals team could secure a first President's Cup in 28 years on Sunday after holding off a United States fightback on day three in Medinah.",
+        "publishedAt": "2026-09-26T23:22:47.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "From turgid to thrusting - mixed start for new Scotland",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c67833k8dn0eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Sport Scotland's Tom English reviews a mixed start to life as Scotland head coach for Sebastien Pocognoli as his side open their Nations League campaign with a goalless draw in Slovenia.",
+        "publishedAt": "2026-09-27T07:14:55.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "'Mr Saturday' Russell 'comes through other side after real tough period'",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/ckly558q6jeqo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2505,72 +2571,6 @@
         },
         "description": "George Russell described the Azerbaijan Grand Prix as \"the most dominant weekend I've had in my career\" after a win that felt like vindication.",
         "publishedAt": "2026-09-26T17:44:04.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Tuchel rues 'big mistakes' - did Man City charges have impact?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6j4jjg5qxero?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England's loss to Spain was decided by uncharacteristic mistakes, with two Man City players making errors - so did club news affect performances for country?",
-        "publishedAt": "2026-09-26T22:47:10.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "'Pipe dream' to reality? Wakefield reach Grand Final",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6n8mm9d11lno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Wakefield Trinity were playing in rugby league's second tier in 2024. Two years on, they are one win away from becoming Super League champions.",
-        "publishedAt": "2026-09-26T20:02:07.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "No Premier League appetite to strip Man City of titles - but threat remains",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cxyvzzj17682o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "After being found guilty of the majority of the 115 charges for breaching Premier League, could Manchester city really be stripped of eight trophies?",
-        "publishedAt": "2026-09-26T13:26:40.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Vollering wins women's road race world title",
-        "url": "https://www.bbc.co.uk/sport/cycling/articles/cxr500pj7dlqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Demi Vollering continues her remarkable season with a thrilling victory in the women's road race in Montreal.",
-        "publishedAt": "2026-09-26T20:36:39.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "England secure win over New Zealand with last-gasp try",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6vgyyvyr45po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England extend their unbeaten run to 41 Tests after Zoe Harrison scores a try in overtime as the Red Roses beat New Zealand 26-19 at the Allianz Stadium.",
-        "publishedAt": "2026-09-26T16:38:22.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Bayern target Barcelona's Olmo - Sunday's gossip",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw770034l523o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Bayern Munich target Dani Olmo, Trent Alexander-Arnold is staying at Real Madrid, Premier League clubs show interest in Spurs' Micky van de Ven, plus more.",
-        "publishedAt": "2026-09-26T20:54:18.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2590,6 +2590,72 @@
         "zone": "au"
       },
       {
+        "title": "White casts doubt on Fury-Joshua after 24 hours of chaos",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cklyjjjge16vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "There is fresh uncertainty around the proposed Tyson Fury v Anthony Joshua fight - after Dana White said he did not know whether it would happen.",
+        "publishedAt": "2026-09-27T05:39:28.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "'I feel cheated - when do Stoke City get our FA Cup?'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c60m33473zxpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Sport columnist Tony Pulis explains what he and all Stoke fans are thinking after Manchester City are found guilty of the majority of the 115 charges they faced.",
+        "publishedAt": "2026-09-27T06:50:09.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Pickford or Trafford? The battle to be England's number one is now on",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckm2qqpjv7nro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Jordan Pickford has been England's number one for a long time. But does he now have a rival in James Trafford?",
+        "publishedAt": "2026-09-26T23:06:07.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Alcaraz wins after saving match points as Europe lead Laver Cup",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cm5yddy3wv90o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Carlos Alcaraz narrowly avoids back-to-back singles defeats for the first time in 18 months as Team Europe lead Team World at the Laver Cup.",
+        "publishedAt": "2026-09-27T06:15:26.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Internationals hold three-point Presidents Cup lead over US",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c64gvvjze807o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Internationals team could secure a first President's Cup in 28 years on Sunday after holding off a United States fightback on day three in Medinah.",
+        "publishedAt": "2026-09-26T23:22:47.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "From turgid to thrusting - mixed start for new Scotland",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c67833k8dn0eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Sport Scotland's Tom English reviews a mixed start to life as Scotland head coach for Sebastien Pocognoli as his side open their Nations League campaign with a goalless draw in Slovenia.",
+        "publishedAt": "2026-09-27T07:14:55.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "'Mr Saturday' Russell 'comes through other side after real tough period'",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/ckly558q6jeqo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2597,72 +2663,6 @@
         },
         "description": "George Russell described the Azerbaijan Grand Prix as \"the most dominant weekend I've had in my career\" after a win that felt like vindication.",
         "publishedAt": "2026-09-26T17:44:04.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Tuchel rues 'big mistakes' - did Man City charges have impact?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6j4jjg5qxero?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England's loss to Spain was decided by uncharacteristic mistakes, with two Man City players making errors - so did club news affect performances for country?",
-        "publishedAt": "2026-09-26T22:47:10.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "'Pipe dream' to reality? Wakefield reach Grand Final",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6n8mm9d11lno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Wakefield Trinity were playing in rugby league's second tier in 2024. Two years on, they are one win away from becoming Super League champions.",
-        "publishedAt": "2026-09-26T20:02:07.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "No Premier League appetite to strip Man City of titles - but threat remains",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cxyvzzj17682o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "After being found guilty of the majority of the 115 charges for breaching Premier League, could Manchester city really be stripped of eight trophies?",
-        "publishedAt": "2026-09-26T13:26:40.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Vollering wins women's road race world title",
-        "url": "https://www.bbc.co.uk/sport/cycling/articles/cxr500pj7dlqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Demi Vollering continues her remarkable season with a thrilling victory in the women's road race in Montreal.",
-        "publishedAt": "2026-09-26T20:36:39.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "England secure win over New Zealand with last-gasp try",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6vgyyvyr45po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England extend their unbeaten run to 41 Tests after Zoe Harrison scores a try in overtime as the Red Roses beat New Zealand 26-19 at the Allianz Stadium.",
-        "publishedAt": "2026-09-26T16:38:22.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Bayern target Barcelona's Olmo - Sunday's gossip",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw770034l523o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Bayern Munich target Dani Olmo, Trent Alexander-Arnold is staying at Real Madrid, Premier League clubs show interest in Spurs' Micky van de Ven, plus more.",
-        "publishedAt": "2026-09-26T20:54:18.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2682,6 +2682,72 @@
         "zone": "ca"
       },
       {
+        "title": "White casts doubt on Fury-Joshua after 24 hours of chaos",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cklyjjjge16vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "There is fresh uncertainty around the proposed Tyson Fury v Anthony Joshua fight - after Dana White said he did not know whether it would happen.",
+        "publishedAt": "2026-09-27T05:39:28.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "'I feel cheated - when do Stoke City get our FA Cup?'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c60m33473zxpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Sport columnist Tony Pulis explains what he and all Stoke fans are thinking after Manchester City are found guilty of the majority of the 115 charges they faced.",
+        "publishedAt": "2026-09-27T06:50:09.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Pickford or Trafford? The battle to be England's number one is now on",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckm2qqpjv7nro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Jordan Pickford has been England's number one for a long time. But does he now have a rival in James Trafford?",
+        "publishedAt": "2026-09-26T23:06:07.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Alcaraz wins after saving match points as Europe lead Laver Cup",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cm5yddy3wv90o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Carlos Alcaraz narrowly avoids back-to-back singles defeats for the first time in 18 months as Team Europe lead Team World at the Laver Cup.",
+        "publishedAt": "2026-09-27T06:15:26.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Internationals hold three-point Presidents Cup lead over US",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c64gvvjze807o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Internationals team could secure a first President's Cup in 28 years on Sunday after holding off a United States fightback on day three in Medinah.",
+        "publishedAt": "2026-09-26T23:22:47.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "From turgid to thrusting - mixed start for new Scotland",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c67833k8dn0eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Sport Scotland's Tom English reviews a mixed start to life as Scotland head coach for Sebastien Pocognoli as his side open their Nations League campaign with a goalless draw in Slovenia.",
+        "publishedAt": "2026-09-27T07:14:55.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "'Mr Saturday' Russell 'comes through other side after real tough period'",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/ckly558q6jeqo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2689,72 +2755,6 @@
         },
         "description": "George Russell described the Azerbaijan Grand Prix as \"the most dominant weekend I've had in my career\" after a win that felt like vindication.",
         "publishedAt": "2026-09-26T17:44:04.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Tuchel rues 'big mistakes' - did Man City charges have impact?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6j4jjg5qxero?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England's loss to Spain was decided by uncharacteristic mistakes, with two Man City players making errors - so did club news affect performances for country?",
-        "publishedAt": "2026-09-26T22:47:10.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "'Pipe dream' to reality? Wakefield reach Grand Final",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6n8mm9d11lno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Wakefield Trinity were playing in rugby league's second tier in 2024. Two years on, they are one win away from becoming Super League champions.",
-        "publishedAt": "2026-09-26T20:02:07.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "No Premier League appetite to strip Man City of titles - but threat remains",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cxyvzzj17682o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "After being found guilty of the majority of the 115 charges for breaching Premier League, could Manchester city really be stripped of eight trophies?",
-        "publishedAt": "2026-09-26T13:26:40.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Vollering wins women's road race world title",
-        "url": "https://www.bbc.co.uk/sport/cycling/articles/cxr500pj7dlqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Demi Vollering continues her remarkable season with a thrilling victory in the women's road race in Montreal.",
-        "publishedAt": "2026-09-26T20:36:39.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "England secure win over New Zealand with last-gasp try",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6vgyyvyr45po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England extend their unbeaten run to 41 Tests after Zoe Harrison scores a try in overtime as the Red Roses beat New Zealand 26-19 at the Allianz Stadium.",
-        "publishedAt": "2026-09-26T16:38:22.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Bayern target Barcelona's Olmo - Sunday's gossip",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw770034l523o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Bayern Munich target Dani Olmo, Trent Alexander-Arnold is staying at Real Madrid, Premier League clubs show interest in Spurs' Micky van de Ven, plus more.",
-        "publishedAt": "2026-09-26T20:54:18.000Z",
         "category": "sports",
         "zone": "ca"
       }
