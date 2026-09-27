@@ -1,15 +1,26 @@
 {
-  "generatedAt": "2026-09-27T18:05:25.451Z",
+  "generatedAt": "2026-09-27T21:52:52.764Z",
   "general_us": {
     "articles": [
       {
-        "title": "What we know about RAF base counter-terror investigation",
+        "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
+        "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
+        "publishedAt": "2026-09-27T20:10:51.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "What we know about RAF Fairford counter-terror probe",
         "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
-        "publishedAt": "2026-09-27T17:01:54.000Z",
+        "publishedAt": "2026-09-27T19:47:44.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -36,6 +47,28 @@
         "zone": "us"
       },
       {
+        "title": "Inside Yemen's front-line city as Houthis battle for control",
+        "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+        "publishedAt": "2026-09-27T21:16:31.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "No handshakes between Republic of Ireland and Israel",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Republic of Ireland and Israel players do not shake hands with each other before or after Sunday's controversial Uefa Nations League game in Hungary.",
+        "publishedAt": "2026-09-27T18:58:35.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
         "title": "Ten NHS staff removed over Noah Woods data breach",
         "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -54,39 +87,6 @@
         },
         "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
         "publishedAt": "2026-09-27T16:49:38.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Two mass shootings in South Africa leave 27 dead",
-        "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-        "publishedAt": "2026-09-27T14:09:22.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
-        "publishedAt": "2026-09-27T14:24:46.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-        "publishedAt": "2026-09-27T07:44:11.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,13 +95,24 @@
   "general_gb": {
     "articles": [
       {
-        "title": "What we know about RAF base counter-terror investigation",
+        "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
+        "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
+        "publishedAt": "2026-09-27T20:10:51.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "What we know about RAF Fairford counter-terror probe",
         "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
-        "publishedAt": "2026-09-27T17:01:54.000Z",
+        "publishedAt": "2026-09-27T19:47:44.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -128,6 +139,28 @@
         "zone": "gb"
       },
       {
+        "title": "Inside Yemen's front-line city as Houthis battle for control",
+        "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+        "publishedAt": "2026-09-27T21:16:31.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "No handshakes between Republic of Ireland and Israel",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Republic of Ireland and Israel players do not shake hands with each other before or after Sunday's controversial Uefa Nations League game in Hungary.",
+        "publishedAt": "2026-09-27T18:58:35.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Ten NHS staff removed over Noah Woods data breach",
         "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -146,39 +179,6 @@
         },
         "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
         "publishedAt": "2026-09-27T16:49:38.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Two mass shootings in South Africa leave 27 dead",
-        "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-        "publishedAt": "2026-09-27T14:09:22.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
-        "publishedAt": "2026-09-27T14:24:46.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-        "publishedAt": "2026-09-27T07:44:11.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,13 +187,24 @@
   "general_in": {
     "articles": [
       {
-        "title": "What we know about RAF base counter-terror investigation",
+        "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
+        "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
+        "publishedAt": "2026-09-27T20:10:51.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "What we know about RAF Fairford counter-terror probe",
         "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
-        "publishedAt": "2026-09-27T17:01:54.000Z",
+        "publishedAt": "2026-09-27T19:47:44.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -220,6 +231,28 @@
         "zone": "in"
       },
       {
+        "title": "Inside Yemen's front-line city as Houthis battle for control",
+        "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+        "publishedAt": "2026-09-27T21:16:31.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "No handshakes between Republic of Ireland and Israel",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Republic of Ireland and Israel players do not shake hands with each other before or after Sunday's controversial Uefa Nations League game in Hungary.",
+        "publishedAt": "2026-09-27T18:58:35.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Ten NHS staff removed over Noah Woods data breach",
         "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -238,39 +271,6 @@
         },
         "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
         "publishedAt": "2026-09-27T16:49:38.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Two mass shootings in South Africa leave 27 dead",
-        "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-        "publishedAt": "2026-09-27T14:09:22.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
-        "publishedAt": "2026-09-27T14:24:46.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-        "publishedAt": "2026-09-27T07:44:11.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,13 +279,24 @@
   "general_au": {
     "articles": [
       {
-        "title": "What we know about RAF base counter-terror investigation",
+        "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
+        "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
+        "publishedAt": "2026-09-27T20:10:51.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "What we know about RAF Fairford counter-terror probe",
         "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
-        "publishedAt": "2026-09-27T17:01:54.000Z",
+        "publishedAt": "2026-09-27T19:47:44.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -312,6 +323,28 @@
         "zone": "au"
       },
       {
+        "title": "Inside Yemen's front-line city as Houthis battle for control",
+        "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+        "publishedAt": "2026-09-27T21:16:31.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "No handshakes between Republic of Ireland and Israel",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Republic of Ireland and Israel players do not shake hands with each other before or after Sunday's controversial Uefa Nations League game in Hungary.",
+        "publishedAt": "2026-09-27T18:58:35.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Ten NHS staff removed over Noah Woods data breach",
         "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -330,39 +363,6 @@
         },
         "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
         "publishedAt": "2026-09-27T16:49:38.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Two mass shootings in South Africa leave 27 dead",
-        "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-        "publishedAt": "2026-09-27T14:09:22.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
-        "publishedAt": "2026-09-27T14:24:46.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-        "publishedAt": "2026-09-27T07:44:11.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,13 +371,24 @@
   "general_ca": {
     "articles": [
       {
-        "title": "What we know about RAF base counter-terror investigation",
+        "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
+        "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
+        "publishedAt": "2026-09-27T20:10:51.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "What we know about RAF Fairford counter-terror probe",
         "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
-        "publishedAt": "2026-09-27T17:01:54.000Z",
+        "publishedAt": "2026-09-27T19:47:44.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -404,6 +415,28 @@
         "zone": "ca"
       },
       {
+        "title": "Inside Yemen's front-line city as Houthis battle for control",
+        "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+        "publishedAt": "2026-09-27T21:16:31.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "No handshakes between Republic of Ireland and Israel",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Republic of Ireland and Israel players do not shake hands with each other before or after Sunday's controversial Uefa Nations League game in Hungary.",
+        "publishedAt": "2026-09-27T18:58:35.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Ten NHS staff removed over Noah Woods data breach",
         "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -422,39 +455,6 @@
         },
         "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
         "publishedAt": "2026-09-27T16:49:38.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Two mass shootings in South Africa leave 27 dead",
-        "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-        "publishedAt": "2026-09-27T14:09:22.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
-        "publishedAt": "2026-09-27T14:24:46.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-        "publishedAt": "2026-09-27T07:44:11.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -2303,6 +2303,28 @@
   "sports_us": {
     "articles": [
       {
+        "title": "No handshakes between Republic of Ireland and Israel",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Republic of Ireland and Israel players do not shake hands with each other before or after Sunday's controversial Uefa Nations League game in Hungary.",
+        "publishedAt": "2026-09-27T18:58:35.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Bellamy 'hurting' as Denmark outclass Wales",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqvgyjp3lgv9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Craig Bellamy says he is \"hurting\" on the back of Wales' 2-0 Nations League A defeat away to Denmark, but feels his side will continue to improve.",
+        "publishedAt": "2026-09-27T19:16:16.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "England win series as Banton delivers on potential",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2310,6 +2332,28 @@
         },
         "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
         "publishedAt": "2026-09-27T16:49:38.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "McNulty first US world road race winner in 33 years",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/cqe8xr05dj1no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Brandon McNulty becomes the first American winner of the men's road race world title in 33 years with a stunning victory in Montreal.",
+        "publishedAt": "2026-09-27T20:33:42.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Chelsea restore resilience - are they title contenders again?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.",
+        "publishedAt": "2026-09-27T19:46:44.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2325,6 +2369,17 @@
         "zone": "us"
       },
       {
+        "title": "Heroic York rearguard stuns Wigan in Grand Final",
+        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/ck1wxy1nwq4zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "York Valkyrie become the first side to win the Women's Super League three times after an incredible defensive effort thwarts favourites Wigan.",
+        "publishedAt": "2026-09-27T19:07:55.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Horner a distraction for Ferrari says Vasseur",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/cvwyz791096jo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2332,61 +2387,6 @@
         },
         "description": "Christian Horner is proving a distraction for Ferrari by \"looking for a job\", team principal Frederic Vasseur says.",
         "publishedAt": "2026-09-27T11:44:25.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Zverev comeback leads Europe to Laver Cup victory",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c3dx0w2rqqzpo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alexander Zverev recovers from his day two defeat by Alex de Minaur to beat Learner Tien and clinch the Laver Cup title for Team Europe on the final day.",
-        "publishedAt": "2026-09-27T16:55:10.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Four men down - but Australia still beat South Africa",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cx05r4gg209ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Australia are reduced to 11 men but dig in for a remarkable win against a much-changed South Africa side as they beat the world champions 42-38 in Perth.",
-        "publishedAt": "2026-09-27T12:19:34.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "White casts doubt on Fury-Joshua after 24 hours of chaos",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cklyjjjge16vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "There is fresh uncertainty around the proposed Tyson Fury v Anthony Joshua fight - after Dana White said he did not know whether it would happen.",
-        "publishedAt": "2026-09-27T05:39:28.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "USA's new breakout star? Sullivan living up to Premier League promise",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6vgyy4v938no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Cavan Sullivan made his United States debut on Saturday aged just 16 - and produced a performance to show just why Manchester City moved to sign him.",
-        "publishedAt": "2026-09-27T11:14:29.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Saracens edge out Leicester despite Isiekwe red",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmjrxg7xgn9wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Saracens overcome a second-half red card for Nick Isiekwe to begin the Brendan Venter era with a 40-38 win at Leicester Tigers.",
-        "publishedAt": "2026-09-27T16:27:58.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,6 +2395,28 @@
   "sports_gb": {
     "articles": [
       {
+        "title": "No handshakes between Republic of Ireland and Israel",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Republic of Ireland and Israel players do not shake hands with each other before or after Sunday's controversial Uefa Nations League game in Hungary.",
+        "publishedAt": "2026-09-27T18:58:35.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Bellamy 'hurting' as Denmark outclass Wales",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqvgyjp3lgv9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Craig Bellamy says he is \"hurting\" on the back of Wales' 2-0 Nations League A defeat away to Denmark, but feels his side will continue to improve.",
+        "publishedAt": "2026-09-27T19:16:16.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "England win series as Banton delivers on potential",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2402,6 +2424,28 @@
         },
         "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
         "publishedAt": "2026-09-27T16:49:38.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "McNulty first US world road race winner in 33 years",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/cqe8xr05dj1no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Brandon McNulty becomes the first American winner of the men's road race world title in 33 years with a stunning victory in Montreal.",
+        "publishedAt": "2026-09-27T20:33:42.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Chelsea restore resilience - are they title contenders again?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.",
+        "publishedAt": "2026-09-27T19:46:44.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2417,6 +2461,17 @@
         "zone": "gb"
       },
       {
+        "title": "Heroic York rearguard stuns Wigan in Grand Final",
+        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/ck1wxy1nwq4zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "York Valkyrie become the first side to win the Women's Super League three times after an incredible defensive effort thwarts favourites Wigan.",
+        "publishedAt": "2026-09-27T19:07:55.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Horner a distraction for Ferrari says Vasseur",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/cvwyz791096jo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2424,61 +2479,6 @@
         },
         "description": "Christian Horner is proving a distraction for Ferrari by \"looking for a job\", team principal Frederic Vasseur says.",
         "publishedAt": "2026-09-27T11:44:25.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Zverev comeback leads Europe to Laver Cup victory",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c3dx0w2rqqzpo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alexander Zverev recovers from his day two defeat by Alex de Minaur to beat Learner Tien and clinch the Laver Cup title for Team Europe on the final day.",
-        "publishedAt": "2026-09-27T16:55:10.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Four men down - but Australia still beat South Africa",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cx05r4gg209ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Australia are reduced to 11 men but dig in for a remarkable win against a much-changed South Africa side as they beat the world champions 42-38 in Perth.",
-        "publishedAt": "2026-09-27T12:19:34.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "White casts doubt on Fury-Joshua after 24 hours of chaos",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cklyjjjge16vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "There is fresh uncertainty around the proposed Tyson Fury v Anthony Joshua fight - after Dana White said he did not know whether it would happen.",
-        "publishedAt": "2026-09-27T05:39:28.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "USA's new breakout star? Sullivan living up to Premier League promise",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6vgyy4v938no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Cavan Sullivan made his United States debut on Saturday aged just 16 - and produced a performance to show just why Manchester City moved to sign him.",
-        "publishedAt": "2026-09-27T11:14:29.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Saracens edge out Leicester despite Isiekwe red",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmjrxg7xgn9wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Saracens overcome a second-half red card for Nick Isiekwe to begin the Brendan Venter era with a 40-38 win at Leicester Tigers.",
-        "publishedAt": "2026-09-27T16:27:58.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,6 +2487,28 @@
   "sports_in": {
     "articles": [
       {
+        "title": "No handshakes between Republic of Ireland and Israel",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Republic of Ireland and Israel players do not shake hands with each other before or after Sunday's controversial Uefa Nations League game in Hungary.",
+        "publishedAt": "2026-09-27T18:58:35.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Bellamy 'hurting' as Denmark outclass Wales",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqvgyjp3lgv9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Craig Bellamy says he is \"hurting\" on the back of Wales' 2-0 Nations League A defeat away to Denmark, but feels his side will continue to improve.",
+        "publishedAt": "2026-09-27T19:16:16.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "England win series as Banton delivers on potential",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2494,6 +2516,28 @@
         },
         "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
         "publishedAt": "2026-09-27T16:49:38.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "McNulty first US world road race winner in 33 years",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/cqe8xr05dj1no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Brandon McNulty becomes the first American winner of the men's road race world title in 33 years with a stunning victory in Montreal.",
+        "publishedAt": "2026-09-27T20:33:42.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Chelsea restore resilience - are they title contenders again?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.",
+        "publishedAt": "2026-09-27T19:46:44.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2509,6 +2553,17 @@
         "zone": "in"
       },
       {
+        "title": "Heroic York rearguard stuns Wigan in Grand Final",
+        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/ck1wxy1nwq4zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "York Valkyrie become the first side to win the Women's Super League three times after an incredible defensive effort thwarts favourites Wigan.",
+        "publishedAt": "2026-09-27T19:07:55.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Horner a distraction for Ferrari says Vasseur",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/cvwyz791096jo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2516,61 +2571,6 @@
         },
         "description": "Christian Horner is proving a distraction for Ferrari by \"looking for a job\", team principal Frederic Vasseur says.",
         "publishedAt": "2026-09-27T11:44:25.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Zverev comeback leads Europe to Laver Cup victory",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c3dx0w2rqqzpo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alexander Zverev recovers from his day two defeat by Alex de Minaur to beat Learner Tien and clinch the Laver Cup title for Team Europe on the final day.",
-        "publishedAt": "2026-09-27T16:55:10.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Four men down - but Australia still beat South Africa",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cx05r4gg209ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Australia are reduced to 11 men but dig in for a remarkable win against a much-changed South Africa side as they beat the world champions 42-38 in Perth.",
-        "publishedAt": "2026-09-27T12:19:34.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "White casts doubt on Fury-Joshua after 24 hours of chaos",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cklyjjjge16vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "There is fresh uncertainty around the proposed Tyson Fury v Anthony Joshua fight - after Dana White said he did not know whether it would happen.",
-        "publishedAt": "2026-09-27T05:39:28.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "USA's new breakout star? Sullivan living up to Premier League promise",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6vgyy4v938no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Cavan Sullivan made his United States debut on Saturday aged just 16 - and produced a performance to show just why Manchester City moved to sign him.",
-        "publishedAt": "2026-09-27T11:14:29.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Saracens edge out Leicester despite Isiekwe red",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmjrxg7xgn9wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Saracens overcome a second-half red card for Nick Isiekwe to begin the Brendan Venter era with a 40-38 win at Leicester Tigers.",
-        "publishedAt": "2026-09-27T16:27:58.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,6 +2579,28 @@
   "sports_au": {
     "articles": [
       {
+        "title": "No handshakes between Republic of Ireland and Israel",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Republic of Ireland and Israel players do not shake hands with each other before or after Sunday's controversial Uefa Nations League game in Hungary.",
+        "publishedAt": "2026-09-27T18:58:35.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Bellamy 'hurting' as Denmark outclass Wales",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqvgyjp3lgv9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Craig Bellamy says he is \"hurting\" on the back of Wales' 2-0 Nations League A defeat away to Denmark, but feels his side will continue to improve.",
+        "publishedAt": "2026-09-27T19:16:16.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "England win series as Banton delivers on potential",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2586,6 +2608,28 @@
         },
         "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
         "publishedAt": "2026-09-27T16:49:38.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "McNulty first US world road race winner in 33 years",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/cqe8xr05dj1no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Brandon McNulty becomes the first American winner of the men's road race world title in 33 years with a stunning victory in Montreal.",
+        "publishedAt": "2026-09-27T20:33:42.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Chelsea restore resilience - are they title contenders again?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.",
+        "publishedAt": "2026-09-27T19:46:44.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2601,6 +2645,17 @@
         "zone": "au"
       },
       {
+        "title": "Heroic York rearguard stuns Wigan in Grand Final",
+        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/ck1wxy1nwq4zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "York Valkyrie become the first side to win the Women's Super League three times after an incredible defensive effort thwarts favourites Wigan.",
+        "publishedAt": "2026-09-27T19:07:55.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Horner a distraction for Ferrari says Vasseur",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/cvwyz791096jo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2608,61 +2663,6 @@
         },
         "description": "Christian Horner is proving a distraction for Ferrari by \"looking for a job\", team principal Frederic Vasseur says.",
         "publishedAt": "2026-09-27T11:44:25.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Zverev comeback leads Europe to Laver Cup victory",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c3dx0w2rqqzpo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alexander Zverev recovers from his day two defeat by Alex de Minaur to beat Learner Tien and clinch the Laver Cup title for Team Europe on the final day.",
-        "publishedAt": "2026-09-27T16:55:10.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Four men down - but Australia still beat South Africa",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cx05r4gg209ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Australia are reduced to 11 men but dig in for a remarkable win against a much-changed South Africa side as they beat the world champions 42-38 in Perth.",
-        "publishedAt": "2026-09-27T12:19:34.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "White casts doubt on Fury-Joshua after 24 hours of chaos",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cklyjjjge16vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "There is fresh uncertainty around the proposed Tyson Fury v Anthony Joshua fight - after Dana White said he did not know whether it would happen.",
-        "publishedAt": "2026-09-27T05:39:28.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "USA's new breakout star? Sullivan living up to Premier League promise",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6vgyy4v938no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Cavan Sullivan made his United States debut on Saturday aged just 16 - and produced a performance to show just why Manchester City moved to sign him.",
-        "publishedAt": "2026-09-27T11:14:29.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Saracens edge out Leicester despite Isiekwe red",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmjrxg7xgn9wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Saracens overcome a second-half red card for Nick Isiekwe to begin the Brendan Venter era with a 40-38 win at Leicester Tigers.",
-        "publishedAt": "2026-09-27T16:27:58.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,6 +2671,28 @@
   "sports_ca": {
     "articles": [
       {
+        "title": "No handshakes between Republic of Ireland and Israel",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Republic of Ireland and Israel players do not shake hands with each other before or after Sunday's controversial Uefa Nations League game in Hungary.",
+        "publishedAt": "2026-09-27T18:58:35.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Bellamy 'hurting' as Denmark outclass Wales",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqvgyjp3lgv9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Craig Bellamy says he is \"hurting\" on the back of Wales' 2-0 Nations League A defeat away to Denmark, but feels his side will continue to improve.",
+        "publishedAt": "2026-09-27T19:16:16.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "England win series as Banton delivers on potential",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2678,6 +2700,28 @@
         },
         "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
         "publishedAt": "2026-09-27T16:49:38.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "McNulty first US world road race winner in 33 years",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/cqe8xr05dj1no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Brandon McNulty becomes the first American winner of the men's road race world title in 33 years with a stunning victory in Montreal.",
+        "publishedAt": "2026-09-27T20:33:42.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Chelsea restore resilience - are they title contenders again?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.",
+        "publishedAt": "2026-09-27T19:46:44.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2693,6 +2737,17 @@
         "zone": "ca"
       },
       {
+        "title": "Heroic York rearguard stuns Wigan in Grand Final",
+        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/ck1wxy1nwq4zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "York Valkyrie become the first side to win the Women's Super League three times after an incredible defensive effort thwarts favourites Wigan.",
+        "publishedAt": "2026-09-27T19:07:55.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Horner a distraction for Ferrari says Vasseur",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/cvwyz791096jo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2700,61 +2755,6 @@
         },
         "description": "Christian Horner is proving a distraction for Ferrari by \"looking for a job\", team principal Frederic Vasseur says.",
         "publishedAt": "2026-09-27T11:44:25.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Zverev comeback leads Europe to Laver Cup victory",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c3dx0w2rqqzpo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alexander Zverev recovers from his day two defeat by Alex de Minaur to beat Learner Tien and clinch the Laver Cup title for Team Europe on the final day.",
-        "publishedAt": "2026-09-27T16:55:10.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Four men down - but Australia still beat South Africa",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cx05r4gg209ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Australia are reduced to 11 men but dig in for a remarkable win against a much-changed South Africa side as they beat the world champions 42-38 in Perth.",
-        "publishedAt": "2026-09-27T12:19:34.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "White casts doubt on Fury-Joshua after 24 hours of chaos",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cklyjjjge16vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "There is fresh uncertainty around the proposed Tyson Fury v Anthony Joshua fight - after Dana White said he did not know whether it would happen.",
-        "publishedAt": "2026-09-27T05:39:28.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "USA's new breakout star? Sullivan living up to Premier League promise",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6vgyy4v938no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Cavan Sullivan made his United States debut on Saturday aged just 16 - and produced a performance to show just why Manchester City moved to sign him.",
-        "publishedAt": "2026-09-27T11:14:29.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Saracens edge out Leicester despite Isiekwe red",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmjrxg7xgn9wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Saracens overcome a second-half red card for Nick Isiekwe to begin the Brendan Venter era with a 40-38 win at Leicester Tigers.",
-        "publishedAt": "2026-09-27T16:27:58.000Z",
         "category": "sports",
         "zone": "ca"
       }
