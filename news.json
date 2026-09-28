@@ -1,18 +1,7 @@
 {
-  "generatedAt": "2026-09-28T00:22:03.944Z",
+  "generatedAt": "2026-09-28T06:24:06.891Z",
   "general_us": {
     "articles": [
-      {
-        "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
-        "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
-        "publishedAt": "2026-09-27T20:10:51.000Z",
-        "category": "general",
-        "zone": "us"
-      },
       {
         "title": "What we know about RAF Fairford counter-terror probe",
         "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
@@ -20,18 +9,18 @@
           "name": "RSS Feed"
         },
         "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
-        "publishedAt": "2026-09-27T19:47:44.000Z",
+        "publishedAt": "2026-09-28T05:41:43.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Protesters disperse after blocking contentious Orange Order parade",
-        "url": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss",
+        "title": "Police block Orange Order from controversial parade route",
+        "url": "https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Northern Ireland Secretary Sir Chris Bryant, who returned from the Labour Party conference for talks, urged both sides of the dispute to \"double down on compromise\".",
-        "publishedAt": "2026-09-27T23:30:13.000Z",
+        "description": "They had been unable to make the permitted parade on Sunday morning because protesters had gathered on the mainly-nationalist Garvaghy Road.",
+        "publishedAt": "2026-09-28T06:04:40.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -47,13 +36,24 @@
         "zone": "us"
       },
       {
-        "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+        "title": "Watch: BBC team take cover as Houthi drone spotted on Yemen front-line",
         "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
         "publishedAt": "2026-09-27T21:00:06.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Thousands of illegal ghost plates on cars revealed by new cameras",
+        "url": "https://www.bbc.co.uk/news/articles/cq9860162dj2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Illegal registration plates are far too easy to get hold of and are putting the public at risk, BBC is told.",
+        "publishedAt": "2026-09-28T05:02:30.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -69,7 +69,7 @@
         "zone": "us"
       },
       {
-        "title": "Republic of Ireland 'raised awareness worldwide' in Israel game",
+        "title": "Republic of Ireland 'raised awareness worldwide' in Israel game, coach says",
         "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -95,35 +95,24 @@
   "general_gb": {
     "articles": [
       {
-        "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
-        "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
-        "publishedAt": "2026-09-27T20:10:51.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
         "title": "What we know about RAF Fairford counter-terror probe",
         "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
-        "publishedAt": "2026-09-27T19:47:44.000Z",
+        "publishedAt": "2026-09-28T05:41:43.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Protesters disperse after blocking contentious Orange Order parade",
-        "url": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss",
+        "title": "Police block Orange Order from controversial parade route",
+        "url": "https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Northern Ireland Secretary Sir Chris Bryant, who returned from the Labour Party conference for talks, urged both sides of the dispute to \"double down on compromise\".",
-        "publishedAt": "2026-09-27T23:30:13.000Z",
+        "description": "They had been unable to make the permitted parade on Sunday morning because protesters had gathered on the mainly-nationalist Garvaghy Road.",
+        "publishedAt": "2026-09-28T06:04:40.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -139,13 +128,24 @@
         "zone": "gb"
       },
       {
-        "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+        "title": "Watch: BBC team take cover as Houthi drone spotted on Yemen front-line",
         "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
         "publishedAt": "2026-09-27T21:00:06.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Thousands of illegal ghost plates on cars revealed by new cameras",
+        "url": "https://www.bbc.co.uk/news/articles/cq9860162dj2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Illegal registration plates are far too easy to get hold of and are putting the public at risk, BBC is told.",
+        "publishedAt": "2026-09-28T05:02:30.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -161,7 +161,7 @@
         "zone": "gb"
       },
       {
-        "title": "Republic of Ireland 'raised awareness worldwide' in Israel game",
+        "title": "Republic of Ireland 'raised awareness worldwide' in Israel game, coach says",
         "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -187,35 +187,24 @@
   "general_in": {
     "articles": [
       {
-        "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
-        "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
-        "publishedAt": "2026-09-27T20:10:51.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
         "title": "What we know about RAF Fairford counter-terror probe",
         "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
-        "publishedAt": "2026-09-27T19:47:44.000Z",
+        "publishedAt": "2026-09-28T05:41:43.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Protesters disperse after blocking contentious Orange Order parade",
-        "url": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss",
+        "title": "Police block Orange Order from controversial parade route",
+        "url": "https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Northern Ireland Secretary Sir Chris Bryant, who returned from the Labour Party conference for talks, urged both sides of the dispute to \"double down on compromise\".",
-        "publishedAt": "2026-09-27T23:30:13.000Z",
+        "description": "They had been unable to make the permitted parade on Sunday morning because protesters had gathered on the mainly-nationalist Garvaghy Road.",
+        "publishedAt": "2026-09-28T06:04:40.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -231,13 +220,24 @@
         "zone": "in"
       },
       {
-        "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+        "title": "Watch: BBC team take cover as Houthi drone spotted on Yemen front-line",
         "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
         "publishedAt": "2026-09-27T21:00:06.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Thousands of illegal ghost plates on cars revealed by new cameras",
+        "url": "https://www.bbc.co.uk/news/articles/cq9860162dj2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Illegal registration plates are far too easy to get hold of and are putting the public at risk, BBC is told.",
+        "publishedAt": "2026-09-28T05:02:30.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -253,7 +253,7 @@
         "zone": "in"
       },
       {
-        "title": "Republic of Ireland 'raised awareness worldwide' in Israel game",
+        "title": "Republic of Ireland 'raised awareness worldwide' in Israel game, coach says",
         "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -279,35 +279,24 @@
   "general_au": {
     "articles": [
       {
-        "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
-        "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
-        "publishedAt": "2026-09-27T20:10:51.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
         "title": "What we know about RAF Fairford counter-terror probe",
         "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
-        "publishedAt": "2026-09-27T19:47:44.000Z",
+        "publishedAt": "2026-09-28T05:41:43.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Protesters disperse after blocking contentious Orange Order parade",
-        "url": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss",
+        "title": "Police block Orange Order from controversial parade route",
+        "url": "https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Northern Ireland Secretary Sir Chris Bryant, who returned from the Labour Party conference for talks, urged both sides of the dispute to \"double down on compromise\".",
-        "publishedAt": "2026-09-27T23:30:13.000Z",
+        "description": "They had been unable to make the permitted parade on Sunday morning because protesters had gathered on the mainly-nationalist Garvaghy Road.",
+        "publishedAt": "2026-09-28T06:04:40.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -323,13 +312,24 @@
         "zone": "au"
       },
       {
-        "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+        "title": "Watch: BBC team take cover as Houthi drone spotted on Yemen front-line",
         "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
         "publishedAt": "2026-09-27T21:00:06.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Thousands of illegal ghost plates on cars revealed by new cameras",
+        "url": "https://www.bbc.co.uk/news/articles/cq9860162dj2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Illegal registration plates are far too easy to get hold of and are putting the public at risk, BBC is told.",
+        "publishedAt": "2026-09-28T05:02:30.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -345,7 +345,7 @@
         "zone": "au"
       },
       {
-        "title": "Republic of Ireland 'raised awareness worldwide' in Israel game",
+        "title": "Republic of Ireland 'raised awareness worldwide' in Israel game, coach says",
         "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -371,35 +371,24 @@
   "general_ca": {
     "articles": [
       {
-        "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
-        "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
-        "publishedAt": "2026-09-27T20:10:51.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
         "title": "What we know about RAF Fairford counter-terror probe",
         "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
-        "publishedAt": "2026-09-27T19:47:44.000Z",
+        "publishedAt": "2026-09-28T05:41:43.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Protesters disperse after blocking contentious Orange Order parade",
-        "url": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss",
+        "title": "Police block Orange Order from controversial parade route",
+        "url": "https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Northern Ireland Secretary Sir Chris Bryant, who returned from the Labour Party conference for talks, urged both sides of the dispute to \"double down on compromise\".",
-        "publishedAt": "2026-09-27T23:30:13.000Z",
+        "description": "They had been unable to make the permitted parade on Sunday morning because protesters had gathered on the mainly-nationalist Garvaghy Road.",
+        "publishedAt": "2026-09-28T06:04:40.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -415,13 +404,24 @@
         "zone": "ca"
       },
       {
-        "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+        "title": "Watch: BBC team take cover as Houthi drone spotted on Yemen front-line",
         "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
         "publishedAt": "2026-09-27T21:00:06.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Thousands of illegal ghost plates on cars revealed by new cameras",
+        "url": "https://www.bbc.co.uk/news/articles/cq9860162dj2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Illegal registration plates are far too easy to get hold of and are putting the public at risk, BBC is told.",
+        "publishedAt": "2026-09-28T05:02:30.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -437,7 +437,7 @@
         "zone": "ca"
       },
       {
-        "title": "Republic of Ireland 'raised awareness worldwide' in Israel game",
+        "title": "Republic of Ireland 'raised awareness worldwide' in Israel game, coach says",
         "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -463,6 +463,17 @@
   "business_us": {
     "articles": [
       {
+        "title": "My hometown shows that high streets have to change or die",
+        "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
+        "publishedAt": "2026-09-27T23:05:53.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
         "url": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -474,6 +485,28 @@
         "zone": "us"
       },
       {
+        "title": "Tourism tax needs to be more flexible in Wales, warns expert",
+        "url": "https://www.bbc.co.uk/news/articles/cm4glxn32zypo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Anglesey, Conwy and Gwynedd councils have all put a pause on introducing the nightly tourist tax.",
+        "publishedAt": "2026-09-28T05:04:54.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Avanti West Coast services to be nationalised from March",
+        "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passengers.",
+        "publishedAt": "2026-09-28T03:05:50.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "You need £17,000 for a first home - here's how to do it",
         "url": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -481,6 +514,17 @@
         },
         "description": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
         "publishedAt": "2026-09-27T23:20:43.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "OpenAI bots meddled with multiple US government agency sites",
+        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+        "publishedAt": "2026-09-26T02:50:56.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -503,50 +547,6 @@
         },
         "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
         "publishedAt": "2026-09-26T23:00:42.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "OpenAI bots meddled with multiple US government agency sites",
-        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
-        "publishedAt": "2026-09-26T02:50:56.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Could an iced coffee freeze you out of the job market?",
-        "url": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Employees and recruiters weigh into the online debate around interview etiquette.",
-        "publishedAt": "2026-09-26T10:05:36.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Clubs seek legal advice over Man City charges compensation",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
-        "publishedAt": "2026-09-25T20:13:53.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "'We're all broke': Would you chase a friend for £5?",
-        "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "What's the smallest amount of money you would ask a friend to pay you back?",
-        "publishedAt": "2026-09-24T23:00:45.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,6 +555,17 @@
   "business_gb": {
     "articles": [
       {
+        "title": "My hometown shows that high streets have to change or die",
+        "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
+        "publishedAt": "2026-09-27T23:05:53.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
         "url": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -566,6 +577,28 @@
         "zone": "gb"
       },
       {
+        "title": "Tourism tax needs to be more flexible in Wales, warns expert",
+        "url": "https://www.bbc.co.uk/news/articles/cm4glxn32zypo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Anglesey, Conwy and Gwynedd councils have all put a pause on introducing the nightly tourist tax.",
+        "publishedAt": "2026-09-28T05:04:54.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Avanti West Coast services to be nationalised from March",
+        "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passengers.",
+        "publishedAt": "2026-09-28T03:05:50.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "You need £17,000 for a first home - here's how to do it",
         "url": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -573,6 +606,17 @@
         },
         "description": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
         "publishedAt": "2026-09-27T23:20:43.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "OpenAI bots meddled with multiple US government agency sites",
+        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+        "publishedAt": "2026-09-26T02:50:56.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -595,50 +639,6 @@
         },
         "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
         "publishedAt": "2026-09-26T23:00:42.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "OpenAI bots meddled with multiple US government agency sites",
-        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
-        "publishedAt": "2026-09-26T02:50:56.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Could an iced coffee freeze you out of the job market?",
-        "url": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Employees and recruiters weigh into the online debate around interview etiquette.",
-        "publishedAt": "2026-09-26T10:05:36.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Clubs seek legal advice over Man City charges compensation",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
-        "publishedAt": "2026-09-25T20:13:53.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "'We're all broke': Would you chase a friend for £5?",
-        "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "What's the smallest amount of money you would ask a friend to pay you back?",
-        "publishedAt": "2026-09-24T23:00:45.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,6 +647,17 @@
   "business_in": {
     "articles": [
       {
+        "title": "My hometown shows that high streets have to change or die",
+        "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
+        "publishedAt": "2026-09-27T23:05:53.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
         "url": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -658,6 +669,28 @@
         "zone": "in"
       },
       {
+        "title": "Tourism tax needs to be more flexible in Wales, warns expert",
+        "url": "https://www.bbc.co.uk/news/articles/cm4glxn32zypo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Anglesey, Conwy and Gwynedd councils have all put a pause on introducing the nightly tourist tax.",
+        "publishedAt": "2026-09-28T05:04:54.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Avanti West Coast services to be nationalised from March",
+        "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passengers.",
+        "publishedAt": "2026-09-28T03:05:50.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "You need £17,000 for a first home - here's how to do it",
         "url": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -665,6 +698,17 @@
         },
         "description": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
         "publishedAt": "2026-09-27T23:20:43.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "OpenAI bots meddled with multiple US government agency sites",
+        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+        "publishedAt": "2026-09-26T02:50:56.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -687,50 +731,6 @@
         },
         "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
         "publishedAt": "2026-09-26T23:00:42.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "OpenAI bots meddled with multiple US government agency sites",
-        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
-        "publishedAt": "2026-09-26T02:50:56.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Could an iced coffee freeze you out of the job market?",
-        "url": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Employees and recruiters weigh into the online debate around interview etiquette.",
-        "publishedAt": "2026-09-26T10:05:36.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Clubs seek legal advice over Man City charges compensation",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
-        "publishedAt": "2026-09-25T20:13:53.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "'We're all broke': Would you chase a friend for £5?",
-        "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "What's the smallest amount of money you would ask a friend to pay you back?",
-        "publishedAt": "2026-09-24T23:00:45.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,6 +739,17 @@
   "business_au": {
     "articles": [
       {
+        "title": "My hometown shows that high streets have to change or die",
+        "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
+        "publishedAt": "2026-09-27T23:05:53.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
         "url": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -750,6 +761,28 @@
         "zone": "au"
       },
       {
+        "title": "Tourism tax needs to be more flexible in Wales, warns expert",
+        "url": "https://www.bbc.co.uk/news/articles/cm4glxn32zypo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Anglesey, Conwy and Gwynedd councils have all put a pause on introducing the nightly tourist tax.",
+        "publishedAt": "2026-09-28T05:04:54.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Avanti West Coast services to be nationalised from March",
+        "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passengers.",
+        "publishedAt": "2026-09-28T03:05:50.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "You need £17,000 for a first home - here's how to do it",
         "url": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -757,6 +790,17 @@
         },
         "description": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
         "publishedAt": "2026-09-27T23:20:43.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "OpenAI bots meddled with multiple US government agency sites",
+        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+        "publishedAt": "2026-09-26T02:50:56.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -779,50 +823,6 @@
         },
         "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
         "publishedAt": "2026-09-26T23:00:42.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "OpenAI bots meddled with multiple US government agency sites",
-        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
-        "publishedAt": "2026-09-26T02:50:56.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Could an iced coffee freeze you out of the job market?",
-        "url": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Employees and recruiters weigh into the online debate around interview etiquette.",
-        "publishedAt": "2026-09-26T10:05:36.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Clubs seek legal advice over Man City charges compensation",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
-        "publishedAt": "2026-09-25T20:13:53.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "'We're all broke': Would you chase a friend for £5?",
-        "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "What's the smallest amount of money you would ask a friend to pay you back?",
-        "publishedAt": "2026-09-24T23:00:45.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,6 +831,17 @@
   "business_ca": {
     "articles": [
       {
+        "title": "My hometown shows that high streets have to change or die",
+        "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
+        "publishedAt": "2026-09-27T23:05:53.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
         "url": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -842,6 +853,28 @@
         "zone": "ca"
       },
       {
+        "title": "Tourism tax needs to be more flexible in Wales, warns expert",
+        "url": "https://www.bbc.co.uk/news/articles/cm4glxn32zypo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Anglesey, Conwy and Gwynedd councils have all put a pause on introducing the nightly tourist tax.",
+        "publishedAt": "2026-09-28T05:04:54.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Avanti West Coast services to be nationalised from March",
+        "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passengers.",
+        "publishedAt": "2026-09-28T03:05:50.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "You need £17,000 for a first home - here's how to do it",
         "url": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -849,6 +882,17 @@
         },
         "description": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
         "publishedAt": "2026-09-27T23:20:43.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "OpenAI bots meddled with multiple US government agency sites",
+        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+        "publishedAt": "2026-09-26T02:50:56.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -871,50 +915,6 @@
         },
         "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
         "publishedAt": "2026-09-26T23:00:42.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "OpenAI bots meddled with multiple US government agency sites",
-        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
-        "publishedAt": "2026-09-26T02:50:56.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Could an iced coffee freeze you out of the job market?",
-        "url": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Employees and recruiters weigh into the online debate around interview etiquette.",
-        "publishedAt": "2026-09-26T10:05:36.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Clubs seek legal advice over Man City charges compensation",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
-        "publishedAt": "2026-09-25T20:13:53.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "'We're all broke': Would you chase a friend for £5?",
-        "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "What's the smallest amount of money you would ask a friend to pay you back?",
-        "publishedAt": "2026-09-24T23:00:45.000Z",
         "category": "business",
         "zone": "ca"
       }
@@ -934,6 +934,61 @@
         "zone": "us"
       },
       {
+        "title": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
+        "url": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Celebrities posed for the cameras ahead of the 2026 MTV Video Music Awards in Los Angeles.",
+        "publishedAt": "2026-09-28T01:16:18.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "News media must stay relevant or 'society will struggle', says World News Day organiser",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "World News Day aims to highlight the role of news providers in investigating and explaining important events.",
+        "publishedAt": "2026-09-27T23:27:22.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "'All options' considered for Banksy's flag statue",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgy8pkykgxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Westminster City Council says it is the statue's custodian and is responsible for its safety.",
+        "publishedAt": "2026-09-28T04:56:32.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "U2 celebrate 50th anniversary at the school where they formed",
+        "url": "https://www.bbc.co.uk/news/articles/cm9w4042yklko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The rock band go back to their roots, playing a gig in the Dublin playground where they first met.",
+        "publishedAt": "2026-09-25T16:52:10.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Traitors star burgled after sharing holiday photos",
+        "url": "https://www.bbc.co.uk/news/articles/cmd6892j09pxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Paul Gorton urges people to think twice before sharing holiday pictures before they are back home.",
+        "publishedAt": "2026-09-27T06:19:47.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
         "title": "Some BBC channels and radio stations may well have to close, director general says",
         "url": "https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -952,61 +1007,6 @@
         },
         "description": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after severe weather warnings.",
         "publishedAt": "2026-09-25T15:51:52.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Jay-Z rape accuser says her allegation was false",
-        "url": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar.",
-        "publishedAt": "2026-09-25T10:51:28.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "U2 celebrate 50th anniversary at the school where they formed",
-        "url": "https://www.bbc.co.uk/news/articles/cm9w4042yklko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The rock band go back to their roots, playing a gig in the Dublin playground where they first met.",
-        "publishedAt": "2026-09-25T16:52:10.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Radio 2 presenter to take on 'greatest ever distance' in Children in Need challenge",
-        "url": "https://www.bbc.co.uk/news/articles/cqrm99ljprpno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Owain Wyn Evans will cycle almost 400 miles, setting off from Glasgow and finishing in Cardiff.",
-        "publishedAt": "2026-09-26T19:09:44.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Ex-GTA developer's studio faces closure after debut game flopped",
-        "url": "https://www.bbc.co.uk/news/articles/cqpvewv3mpgko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Build A Rocket Boy, founded by Leslie Benzies, has gone into administration after its debut game flopped.",
-        "publishedAt": "2026-09-25T16:17:20.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Liam Neeson involved in new movie revealing story behind Tuam babies",
-        "url": "https://www.bbc.co.uk/news/articles/ckj063lq1jm6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Lost Children of Tuam, co-produced by Liam Neeson, is now in cinemas.",
-        "publishedAt": "2026-09-26T05:43:54.000Z",
         "category": "entertainment",
         "zone": "us"
       }
@@ -1026,6 +1026,61 @@
         "zone": "gb"
       },
       {
+        "title": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
+        "url": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Celebrities posed for the cameras ahead of the 2026 MTV Video Music Awards in Los Angeles.",
+        "publishedAt": "2026-09-28T01:16:18.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "News media must stay relevant or 'society will struggle', says World News Day organiser",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "World News Day aims to highlight the role of news providers in investigating and explaining important events.",
+        "publishedAt": "2026-09-27T23:27:22.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "'All options' considered for Banksy's flag statue",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgy8pkykgxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Westminster City Council says it is the statue's custodian and is responsible for its safety.",
+        "publishedAt": "2026-09-28T04:56:32.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "U2 celebrate 50th anniversary at the school where they formed",
+        "url": "https://www.bbc.co.uk/news/articles/cm9w4042yklko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The rock band go back to their roots, playing a gig in the Dublin playground where they first met.",
+        "publishedAt": "2026-09-25T16:52:10.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Traitors star burgled after sharing holiday photos",
+        "url": "https://www.bbc.co.uk/news/articles/cmd6892j09pxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Paul Gorton urges people to think twice before sharing holiday pictures before they are back home.",
+        "publishedAt": "2026-09-27T06:19:47.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
         "title": "Some BBC channels and radio stations may well have to close, director general says",
         "url": "https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1044,61 +1099,6 @@
         },
         "description": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after severe weather warnings.",
         "publishedAt": "2026-09-25T15:51:52.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Jay-Z rape accuser says her allegation was false",
-        "url": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar.",
-        "publishedAt": "2026-09-25T10:51:28.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "U2 celebrate 50th anniversary at the school where they formed",
-        "url": "https://www.bbc.co.uk/news/articles/cm9w4042yklko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The rock band go back to their roots, playing a gig in the Dublin playground where they first met.",
-        "publishedAt": "2026-09-25T16:52:10.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Radio 2 presenter to take on 'greatest ever distance' in Children in Need challenge",
-        "url": "https://www.bbc.co.uk/news/articles/cqrm99ljprpno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Owain Wyn Evans will cycle almost 400 miles, setting off from Glasgow and finishing in Cardiff.",
-        "publishedAt": "2026-09-26T19:09:44.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Ex-GTA developer's studio faces closure after debut game flopped",
-        "url": "https://www.bbc.co.uk/news/articles/cqpvewv3mpgko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Build A Rocket Boy, founded by Leslie Benzies, has gone into administration after its debut game flopped.",
-        "publishedAt": "2026-09-25T16:17:20.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Liam Neeson involved in new movie revealing story behind Tuam babies",
-        "url": "https://www.bbc.co.uk/news/articles/ckj063lq1jm6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Lost Children of Tuam, co-produced by Liam Neeson, is now in cinemas.",
-        "publishedAt": "2026-09-26T05:43:54.000Z",
         "category": "entertainment",
         "zone": "gb"
       }
@@ -1118,6 +1118,61 @@
         "zone": "in"
       },
       {
+        "title": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
+        "url": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Celebrities posed for the cameras ahead of the 2026 MTV Video Music Awards in Los Angeles.",
+        "publishedAt": "2026-09-28T01:16:18.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "News media must stay relevant or 'society will struggle', says World News Day organiser",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "World News Day aims to highlight the role of news providers in investigating and explaining important events.",
+        "publishedAt": "2026-09-27T23:27:22.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "'All options' considered for Banksy's flag statue",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgy8pkykgxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Westminster City Council says it is the statue's custodian and is responsible for its safety.",
+        "publishedAt": "2026-09-28T04:56:32.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "U2 celebrate 50th anniversary at the school where they formed",
+        "url": "https://www.bbc.co.uk/news/articles/cm9w4042yklko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The rock band go back to their roots, playing a gig in the Dublin playground where they first met.",
+        "publishedAt": "2026-09-25T16:52:10.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Traitors star burgled after sharing holiday photos",
+        "url": "https://www.bbc.co.uk/news/articles/cmd6892j09pxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Paul Gorton urges people to think twice before sharing holiday pictures before they are back home.",
+        "publishedAt": "2026-09-27T06:19:47.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
         "title": "Some BBC channels and radio stations may well have to close, director general says",
         "url": "https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1136,61 +1191,6 @@
         },
         "description": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after severe weather warnings.",
         "publishedAt": "2026-09-25T15:51:52.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Jay-Z rape accuser says her allegation was false",
-        "url": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar.",
-        "publishedAt": "2026-09-25T10:51:28.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "U2 celebrate 50th anniversary at the school where they formed",
-        "url": "https://www.bbc.co.uk/news/articles/cm9w4042yklko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The rock band go back to their roots, playing a gig in the Dublin playground where they first met.",
-        "publishedAt": "2026-09-25T16:52:10.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Radio 2 presenter to take on 'greatest ever distance' in Children in Need challenge",
-        "url": "https://www.bbc.co.uk/news/articles/cqrm99ljprpno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Owain Wyn Evans will cycle almost 400 miles, setting off from Glasgow and finishing in Cardiff.",
-        "publishedAt": "2026-09-26T19:09:44.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Ex-GTA developer's studio faces closure after debut game flopped",
-        "url": "https://www.bbc.co.uk/news/articles/cqpvewv3mpgko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Build A Rocket Boy, founded by Leslie Benzies, has gone into administration after its debut game flopped.",
-        "publishedAt": "2026-09-25T16:17:20.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Liam Neeson involved in new movie revealing story behind Tuam babies",
-        "url": "https://www.bbc.co.uk/news/articles/ckj063lq1jm6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Lost Children of Tuam, co-produced by Liam Neeson, is now in cinemas.",
-        "publishedAt": "2026-09-26T05:43:54.000Z",
         "category": "entertainment",
         "zone": "in"
       }
@@ -1210,6 +1210,61 @@
         "zone": "au"
       },
       {
+        "title": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
+        "url": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Celebrities posed for the cameras ahead of the 2026 MTV Video Music Awards in Los Angeles.",
+        "publishedAt": "2026-09-28T01:16:18.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "News media must stay relevant or 'society will struggle', says World News Day organiser",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "World News Day aims to highlight the role of news providers in investigating and explaining important events.",
+        "publishedAt": "2026-09-27T23:27:22.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "'All options' considered for Banksy's flag statue",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgy8pkykgxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Westminster City Council says it is the statue's custodian and is responsible for its safety.",
+        "publishedAt": "2026-09-28T04:56:32.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "U2 celebrate 50th anniversary at the school where they formed",
+        "url": "https://www.bbc.co.uk/news/articles/cm9w4042yklko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The rock band go back to their roots, playing a gig in the Dublin playground where they first met.",
+        "publishedAt": "2026-09-25T16:52:10.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Traitors star burgled after sharing holiday photos",
+        "url": "https://www.bbc.co.uk/news/articles/cmd6892j09pxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Paul Gorton urges people to think twice before sharing holiday pictures before they are back home.",
+        "publishedAt": "2026-09-27T06:19:47.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
         "title": "Some BBC channels and radio stations may well have to close, director general says",
         "url": "https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1228,61 +1283,6 @@
         },
         "description": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after severe weather warnings.",
         "publishedAt": "2026-09-25T15:51:52.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Jay-Z rape accuser says her allegation was false",
-        "url": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar.",
-        "publishedAt": "2026-09-25T10:51:28.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "U2 celebrate 50th anniversary at the school where they formed",
-        "url": "https://www.bbc.co.uk/news/articles/cm9w4042yklko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The rock band go back to their roots, playing a gig in the Dublin playground where they first met.",
-        "publishedAt": "2026-09-25T16:52:10.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Radio 2 presenter to take on 'greatest ever distance' in Children in Need challenge",
-        "url": "https://www.bbc.co.uk/news/articles/cqrm99ljprpno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Owain Wyn Evans will cycle almost 400 miles, setting off from Glasgow and finishing in Cardiff.",
-        "publishedAt": "2026-09-26T19:09:44.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Ex-GTA developer's studio faces closure after debut game flopped",
-        "url": "https://www.bbc.co.uk/news/articles/cqpvewv3mpgko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Build A Rocket Boy, founded by Leslie Benzies, has gone into administration after its debut game flopped.",
-        "publishedAt": "2026-09-25T16:17:20.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Liam Neeson involved in new movie revealing story behind Tuam babies",
-        "url": "https://www.bbc.co.uk/news/articles/ckj063lq1jm6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Lost Children of Tuam, co-produced by Liam Neeson, is now in cinemas.",
-        "publishedAt": "2026-09-26T05:43:54.000Z",
         "category": "entertainment",
         "zone": "au"
       }
@@ -1302,6 +1302,61 @@
         "zone": "ca"
       },
       {
+        "title": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
+        "url": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Celebrities posed for the cameras ahead of the 2026 MTV Video Music Awards in Los Angeles.",
+        "publishedAt": "2026-09-28T01:16:18.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "News media must stay relevant or 'society will struggle', says World News Day organiser",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "World News Day aims to highlight the role of news providers in investigating and explaining important events.",
+        "publishedAt": "2026-09-27T23:27:22.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "'All options' considered for Banksy's flag statue",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgy8pkykgxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Westminster City Council says it is the statue's custodian and is responsible for its safety.",
+        "publishedAt": "2026-09-28T04:56:32.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "U2 celebrate 50th anniversary at the school where they formed",
+        "url": "https://www.bbc.co.uk/news/articles/cm9w4042yklko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The rock band go back to their roots, playing a gig in the Dublin playground where they first met.",
+        "publishedAt": "2026-09-25T16:52:10.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "Traitors star burgled after sharing holiday photos",
+        "url": "https://www.bbc.co.uk/news/articles/cmd6892j09pxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Paul Gorton urges people to think twice before sharing holiday pictures before they are back home.",
+        "publishedAt": "2026-09-27T06:19:47.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
         "title": "Some BBC channels and radio stations may well have to close, director general says",
         "url": "https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1320,61 +1375,6 @@
         },
         "description": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after severe weather warnings.",
         "publishedAt": "2026-09-25T15:51:52.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Jay-Z rape accuser says her allegation was false",
-        "url": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar.",
-        "publishedAt": "2026-09-25T10:51:28.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "U2 celebrate 50th anniversary at the school where they formed",
-        "url": "https://www.bbc.co.uk/news/articles/cm9w4042yklko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The rock band go back to their roots, playing a gig in the Dublin playground where they first met.",
-        "publishedAt": "2026-09-25T16:52:10.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Radio 2 presenter to take on 'greatest ever distance' in Children in Need challenge",
-        "url": "https://www.bbc.co.uk/news/articles/cqrm99ljprpno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Owain Wyn Evans will cycle almost 400 miles, setting off from Glasgow and finishing in Cardiff.",
-        "publishedAt": "2026-09-26T19:09:44.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Ex-GTA developer's studio faces closure after debut game flopped",
-        "url": "https://www.bbc.co.uk/news/articles/cqpvewv3mpgko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Build A Rocket Boy, founded by Leslie Benzies, has gone into administration after its debut game flopped.",
-        "publishedAt": "2026-09-25T16:17:20.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Liam Neeson involved in new movie revealing story behind Tuam babies",
-        "url": "https://www.bbc.co.uk/news/articles/ckj063lq1jm6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Lost Children of Tuam, co-produced by Liam Neeson, is now in cinemas.",
-        "publishedAt": "2026-09-26T05:43:54.000Z",
         "category": "entertainment",
         "zone": "ca"
       }
@@ -2314,13 +2314,13 @@
         "zone": "us"
       },
       {
-        "title": "England win series as Banton delivers on potential",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
+        "title": "England are learning - these are the World Cup issues they need to solve",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c862ey99gr9wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
-        "publishedAt": "2026-09-27T16:49:38.000Z",
+        "description": "Who are England's openers? Which spinner supports Adil Rashid? Which seamers get nod when Sam Curran returns?",
+        "publishedAt": "2026-09-28T05:33:23.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2336,17 +2336,6 @@
         "zone": "us"
       },
       {
-        "title": "Chelsea restore resilience - are they title contenders again?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.",
-        "publishedAt": "2026-09-27T19:46:44.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
         "title": "Bellamy 'hurting' as Denmark outclass Wales",
         "url": "https://www.bbc.co.uk/sport/football/articles/cqvgyjp3lgv9o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2358,13 +2347,13 @@
         "zone": "us"
       },
       {
-        "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
+        "title": "Chelsea restore resilience - are they title contenders again?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
-        "publishedAt": "2026-09-27T14:24:46.000Z",
+        "description": "Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.",
+        "publishedAt": "2026-09-27T19:46:44.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2387,6 +2376,17 @@
         },
         "description": "The United States complete a thrilling comeback on the final day to beat the Internationals and win an 11th successive Presidents Cup.",
         "publishedAt": "2026-09-27T22:42:57.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
+        "publishedAt": "2026-09-27T14:24:46.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2406,13 +2406,13 @@
         "zone": "gb"
       },
       {
-        "title": "England win series as Banton delivers on potential",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
+        "title": "England are learning - these are the World Cup issues they need to solve",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c862ey99gr9wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
-        "publishedAt": "2026-09-27T16:49:38.000Z",
+        "description": "Who are England's openers? Which spinner supports Adil Rashid? Which seamers get nod when Sam Curran returns?",
+        "publishedAt": "2026-09-28T05:33:23.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2428,17 +2428,6 @@
         "zone": "gb"
       },
       {
-        "title": "Chelsea restore resilience - are they title contenders again?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.",
-        "publishedAt": "2026-09-27T19:46:44.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
         "title": "Bellamy 'hurting' as Denmark outclass Wales",
         "url": "https://www.bbc.co.uk/sport/football/articles/cqvgyjp3lgv9o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2450,13 +2439,13 @@
         "zone": "gb"
       },
       {
-        "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
+        "title": "Chelsea restore resilience - are they title contenders again?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
-        "publishedAt": "2026-09-27T14:24:46.000Z",
+        "description": "Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.",
+        "publishedAt": "2026-09-27T19:46:44.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2479,6 +2468,17 @@
         },
         "description": "The United States complete a thrilling comeback on the final day to beat the Internationals and win an 11th successive Presidents Cup.",
         "publishedAt": "2026-09-27T22:42:57.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
+        "publishedAt": "2026-09-27T14:24:46.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2498,13 +2498,13 @@
         "zone": "in"
       },
       {
-        "title": "England win series as Banton delivers on potential",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
+        "title": "England are learning - these are the World Cup issues they need to solve",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c862ey99gr9wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
-        "publishedAt": "2026-09-27T16:49:38.000Z",
+        "description": "Who are England's openers? Which spinner supports Adil Rashid? Which seamers get nod when Sam Curran returns?",
+        "publishedAt": "2026-09-28T05:33:23.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2520,17 +2520,6 @@
         "zone": "in"
       },
       {
-        "title": "Chelsea restore resilience - are they title contenders again?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.",
-        "publishedAt": "2026-09-27T19:46:44.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
         "title": "Bellamy 'hurting' as Denmark outclass Wales",
         "url": "https://www.bbc.co.uk/sport/football/articles/cqvgyjp3lgv9o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2542,13 +2531,13 @@
         "zone": "in"
       },
       {
-        "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
+        "title": "Chelsea restore resilience - are they title contenders again?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
-        "publishedAt": "2026-09-27T14:24:46.000Z",
+        "description": "Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.",
+        "publishedAt": "2026-09-27T19:46:44.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2571,6 +2560,17 @@
         },
         "description": "The United States complete a thrilling comeback on the final day to beat the Internationals and win an 11th successive Presidents Cup.",
         "publishedAt": "2026-09-27T22:42:57.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
+        "publishedAt": "2026-09-27T14:24:46.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2590,13 +2590,13 @@
         "zone": "au"
       },
       {
-        "title": "England win series as Banton delivers on potential",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
+        "title": "England are learning - these are the World Cup issues they need to solve",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c862ey99gr9wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
-        "publishedAt": "2026-09-27T16:49:38.000Z",
+        "description": "Who are England's openers? Which spinner supports Adil Rashid? Which seamers get nod when Sam Curran returns?",
+        "publishedAt": "2026-09-28T05:33:23.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2612,17 +2612,6 @@
         "zone": "au"
       },
       {
-        "title": "Chelsea restore resilience - are they title contenders again?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.",
-        "publishedAt": "2026-09-27T19:46:44.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
         "title": "Bellamy 'hurting' as Denmark outclass Wales",
         "url": "https://www.bbc.co.uk/sport/football/articles/cqvgyjp3lgv9o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2634,13 +2623,13 @@
         "zone": "au"
       },
       {
-        "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
+        "title": "Chelsea restore resilience - are they title contenders again?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
-        "publishedAt": "2026-09-27T14:24:46.000Z",
+        "description": "Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.",
+        "publishedAt": "2026-09-27T19:46:44.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2663,6 +2652,17 @@
         },
         "description": "The United States complete a thrilling comeback on the final day to beat the Internationals and win an 11th successive Presidents Cup.",
         "publishedAt": "2026-09-27T22:42:57.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
+        "publishedAt": "2026-09-27T14:24:46.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2682,13 +2682,13 @@
         "zone": "ca"
       },
       {
-        "title": "England win series as Banton delivers on potential",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
+        "title": "England are learning - these are the World Cup issues they need to solve",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c862ey99gr9wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
-        "publishedAt": "2026-09-27T16:49:38.000Z",
+        "description": "Who are England's openers? Which spinner supports Adil Rashid? Which seamers get nod when Sam Curran returns?",
+        "publishedAt": "2026-09-28T05:33:23.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2704,17 +2704,6 @@
         "zone": "ca"
       },
       {
-        "title": "Chelsea restore resilience - are they title contenders again?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.",
-        "publishedAt": "2026-09-27T19:46:44.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
         "title": "Bellamy 'hurting' as Denmark outclass Wales",
         "url": "https://www.bbc.co.uk/sport/football/articles/cqvgyjp3lgv9o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2726,13 +2715,13 @@
         "zone": "ca"
       },
       {
-        "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
+        "title": "Chelsea restore resilience - are they title contenders again?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
-        "publishedAt": "2026-09-27T14:24:46.000Z",
+        "description": "Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.",
+        "publishedAt": "2026-09-27T19:46:44.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2755,6 +2744,17 @@
         },
         "description": "The United States complete a thrilling comeback on the final day to beat the Internationals and win an 11th successive Presidents Cup.",
         "publishedAt": "2026-09-27T22:42:57.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
+        "publishedAt": "2026-09-27T14:24:46.000Z",
         "category": "sports",
         "zone": "ca"
       }
