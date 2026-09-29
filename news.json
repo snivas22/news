@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T21:38:32.071Z",
+  "generatedAt": "2026-09-29T01:33:01.878Z",
   "general_us": {
     "articles": [
       {
@@ -25,6 +25,28 @@
         "zone": "us"
       },
       {
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.",
+        "publishedAt": "2026-09-29T01:18:24.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Burnham to unveil public body to invest in electricity grid",
+        "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+        "publishedAt": "2026-09-29T00:40:29.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
         "title": "UK tries to stop Trump's diesel export ban",
         "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -36,13 +58,24 @@
         "zone": "us"
       },
       {
-        "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-        "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
+        "title": "Migrants using longer, more dangerous routes across Channel",
+        "url": "https://www.bbc.co.uk/news/articles/c6y8zzdjmrgvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
-        "publishedAt": "2026-09-28T18:07:25.000Z",
+        "description": "The government says it is bearing down on dangerous small boat crossings.",
+        "publishedAt": "2026-09-29T00:42:15.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Temperatures to hit 25C in burst of late September warmth",
+        "url": "https://www.bbc.co.uk/weather/articles/cqn7438pym51o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Temperatures are expected to rise well above the late September average on Tuesday with a very warm night to follow, as Simon King explains.",
+        "publishedAt": "2026-09-28T23:13:58.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -54,39 +87,6 @@
         },
         "description": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today.",
         "publishedAt": "2026-09-28T13:59:06.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Mahmood signals rethink on migrants' right to remain",
-        "url": "https://www.bbc.co.uk/news/articles/cmz7zxdy4gllo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The home secretary has been under pressure to water down the proposals from some Labour MPs, including Angela Rayner.",
-        "publishedAt": "2026-09-28T18:04:41.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Slipknot fans threaten boycott after Marilyn Manson announced as support act for UK show",
-        "url": "https://www.bbc.co.uk/news/articles/ckjw5egyexz8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The heavy metal band will be joined by the US rock musician during their London show.",
-        "publishedAt": "2026-09-28T17:00:29.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
-        "url": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are hugely popular and used by millions of shoppers.",
-        "publishedAt": "2026-09-28T17:45:52.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -117,6 +117,28 @@
         "zone": "gb"
       },
       {
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.",
+        "publishedAt": "2026-09-29T01:18:24.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Burnham to unveil public body to invest in electricity grid",
+        "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+        "publishedAt": "2026-09-29T00:40:29.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "UK tries to stop Trump's diesel export ban",
         "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -128,13 +150,24 @@
         "zone": "gb"
       },
       {
-        "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-        "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
+        "title": "Migrants using longer, more dangerous routes across Channel",
+        "url": "https://www.bbc.co.uk/news/articles/c6y8zzdjmrgvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
-        "publishedAt": "2026-09-28T18:07:25.000Z",
+        "description": "The government says it is bearing down on dangerous small boat crossings.",
+        "publishedAt": "2026-09-29T00:42:15.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Temperatures to hit 25C in burst of late September warmth",
+        "url": "https://www.bbc.co.uk/weather/articles/cqn7438pym51o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Temperatures are expected to rise well above the late September average on Tuesday with a very warm night to follow, as Simon King explains.",
+        "publishedAt": "2026-09-28T23:13:58.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -146,39 +179,6 @@
         },
         "description": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today.",
         "publishedAt": "2026-09-28T13:59:06.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Mahmood signals rethink on migrants' right to remain",
-        "url": "https://www.bbc.co.uk/news/articles/cmz7zxdy4gllo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The home secretary has been under pressure to water down the proposals from some Labour MPs, including Angela Rayner.",
-        "publishedAt": "2026-09-28T18:04:41.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Slipknot fans threaten boycott after Marilyn Manson announced as support act for UK show",
-        "url": "https://www.bbc.co.uk/news/articles/ckjw5egyexz8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The heavy metal band will be joined by the US rock musician during their London show.",
-        "publishedAt": "2026-09-28T17:00:29.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
-        "url": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are hugely popular and used by millions of shoppers.",
-        "publishedAt": "2026-09-28T17:45:52.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -209,6 +209,28 @@
         "zone": "in"
       },
       {
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.",
+        "publishedAt": "2026-09-29T01:18:24.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Burnham to unveil public body to invest in electricity grid",
+        "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+        "publishedAt": "2026-09-29T00:40:29.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "UK tries to stop Trump's diesel export ban",
         "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -220,13 +242,24 @@
         "zone": "in"
       },
       {
-        "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-        "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
+        "title": "Migrants using longer, more dangerous routes across Channel",
+        "url": "https://www.bbc.co.uk/news/articles/c6y8zzdjmrgvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
-        "publishedAt": "2026-09-28T18:07:25.000Z",
+        "description": "The government says it is bearing down on dangerous small boat crossings.",
+        "publishedAt": "2026-09-29T00:42:15.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Temperatures to hit 25C in burst of late September warmth",
+        "url": "https://www.bbc.co.uk/weather/articles/cqn7438pym51o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Temperatures are expected to rise well above the late September average on Tuesday with a very warm night to follow, as Simon King explains.",
+        "publishedAt": "2026-09-28T23:13:58.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -238,39 +271,6 @@
         },
         "description": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today.",
         "publishedAt": "2026-09-28T13:59:06.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Mahmood signals rethink on migrants' right to remain",
-        "url": "https://www.bbc.co.uk/news/articles/cmz7zxdy4gllo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The home secretary has been under pressure to water down the proposals from some Labour MPs, including Angela Rayner.",
-        "publishedAt": "2026-09-28T18:04:41.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Slipknot fans threaten boycott after Marilyn Manson announced as support act for UK show",
-        "url": "https://www.bbc.co.uk/news/articles/ckjw5egyexz8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The heavy metal band will be joined by the US rock musician during their London show.",
-        "publishedAt": "2026-09-28T17:00:29.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
-        "url": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are hugely popular and used by millions of shoppers.",
-        "publishedAt": "2026-09-28T17:45:52.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -301,6 +301,28 @@
         "zone": "au"
       },
       {
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.",
+        "publishedAt": "2026-09-29T01:18:24.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Burnham to unveil public body to invest in electricity grid",
+        "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+        "publishedAt": "2026-09-29T00:40:29.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "UK tries to stop Trump's diesel export ban",
         "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -312,13 +334,24 @@
         "zone": "au"
       },
       {
-        "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-        "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
+        "title": "Migrants using longer, more dangerous routes across Channel",
+        "url": "https://www.bbc.co.uk/news/articles/c6y8zzdjmrgvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
-        "publishedAt": "2026-09-28T18:07:25.000Z",
+        "description": "The government says it is bearing down on dangerous small boat crossings.",
+        "publishedAt": "2026-09-29T00:42:15.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Temperatures to hit 25C in burst of late September warmth",
+        "url": "https://www.bbc.co.uk/weather/articles/cqn7438pym51o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Temperatures are expected to rise well above the late September average on Tuesday with a very warm night to follow, as Simon King explains.",
+        "publishedAt": "2026-09-28T23:13:58.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -330,39 +363,6 @@
         },
         "description": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today.",
         "publishedAt": "2026-09-28T13:59:06.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Mahmood signals rethink on migrants' right to remain",
-        "url": "https://www.bbc.co.uk/news/articles/cmz7zxdy4gllo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The home secretary has been under pressure to water down the proposals from some Labour MPs, including Angela Rayner.",
-        "publishedAt": "2026-09-28T18:04:41.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Slipknot fans threaten boycott after Marilyn Manson announced as support act for UK show",
-        "url": "https://www.bbc.co.uk/news/articles/ckjw5egyexz8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The heavy metal band will be joined by the US rock musician during their London show.",
-        "publishedAt": "2026-09-28T17:00:29.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
-        "url": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are hugely popular and used by millions of shoppers.",
-        "publishedAt": "2026-09-28T17:45:52.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -393,6 +393,28 @@
         "zone": "ca"
       },
       {
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.",
+        "publishedAt": "2026-09-29T01:18:24.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Burnham to unveil public body to invest in electricity grid",
+        "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+        "publishedAt": "2026-09-29T00:40:29.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "UK tries to stop Trump's diesel export ban",
         "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -404,13 +426,24 @@
         "zone": "ca"
       },
       {
-        "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-        "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
+        "title": "Migrants using longer, more dangerous routes across Channel",
+        "url": "https://www.bbc.co.uk/news/articles/c6y8zzdjmrgvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
-        "publishedAt": "2026-09-28T18:07:25.000Z",
+        "description": "The government says it is bearing down on dangerous small boat crossings.",
+        "publishedAt": "2026-09-29T00:42:15.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Temperatures to hit 25C in burst of late September warmth",
+        "url": "https://www.bbc.co.uk/weather/articles/cqn7438pym51o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Temperatures are expected to rise well above the late September average on Tuesday with a very warm night to follow, as Simon King explains.",
+        "publishedAt": "2026-09-28T23:13:58.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -424,44 +457,55 @@
         "publishedAt": "2026-09-28T13:59:06.000Z",
         "category": "general",
         "zone": "ca"
-      },
-      {
-        "title": "Mahmood signals rethink on migrants' right to remain",
-        "url": "https://www.bbc.co.uk/news/articles/cmz7zxdy4gllo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The home secretary has been under pressure to water down the proposals from some Labour MPs, including Angela Rayner.",
-        "publishedAt": "2026-09-28T18:04:41.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Slipknot fans threaten boycott after Marilyn Manson announced as support act for UK show",
-        "url": "https://www.bbc.co.uk/news/articles/ckjw5egyexz8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The heavy metal band will be joined by the US rock musician during their London show.",
-        "publishedAt": "2026-09-28T17:00:29.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
-        "url": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are hugely popular and used by millions of shoppers.",
-        "publishedAt": "2026-09-28T17:45:52.000Z",
-        "category": "general",
-        "zone": "ca"
       }
     ]
   },
   "business_us": {
     "articles": [
+      {
+        "title": "Burnham to unveil public body to invest in electricity grid",
+        "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+        "publishedAt": "2026-09-29T00:40:29.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Warning more homes will be uninsurable due to flood risk",
+        "url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
+        "publishedAt": "2026-09-28T23:10:13.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.",
+        "publishedAt": "2026-09-29T01:18:24.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Unis are offering degrees in content creation for £30,000. But are they worth it?",
+        "url": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Content creation degrees aim to help people make money from their social media posts.",
+        "publishedAt": "2026-09-28T23:10:06.000Z",
+        "category": "business",
+        "zone": "us"
+      },
       {
         "title": "UK tries to stop Trump's diesel export ban",
         "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
@@ -503,50 +547,6 @@
         },
         "description": "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.",
         "publishedAt": "2026-09-28T20:42:56.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "What is the Budget and what could be in it?",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chancellor John Healey will set out his plans for UK taxes in October.",
-        "publishedAt": "2026-09-28T17:14:16.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Why UK diesel prices have hit an all-time high",
-        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
-        "publishedAt": "2026-09-28T20:43:52.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Why the PM could finally drop the triple lock pension pledge",
-        "url": "https://www.bbc.co.uk/news/articles/c6jdvmy1287yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andy Burnham said that he would make tough decisions to fund a new national care service.",
-        "publishedAt": "2026-09-28T07:38:21.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-        "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
-        "publishedAt": "2026-09-28T18:07:25.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,6 +555,50 @@
   "business_gb": {
     "articles": [
       {
+        "title": "Burnham to unveil public body to invest in electricity grid",
+        "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+        "publishedAt": "2026-09-29T00:40:29.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Warning more homes will be uninsurable due to flood risk",
+        "url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
+        "publishedAt": "2026-09-28T23:10:13.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.",
+        "publishedAt": "2026-09-29T01:18:24.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Unis are offering degrees in content creation for £30,000. But are they worth it?",
+        "url": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Content creation degrees aim to help people make money from their social media posts.",
+        "publishedAt": "2026-09-28T23:10:06.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "UK tries to stop Trump's diesel export ban",
         "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -595,50 +639,6 @@
         },
         "description": "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.",
         "publishedAt": "2026-09-28T20:42:56.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "What is the Budget and what could be in it?",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chancellor John Healey will set out his plans for UK taxes in October.",
-        "publishedAt": "2026-09-28T17:14:16.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Why UK diesel prices have hit an all-time high",
-        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
-        "publishedAt": "2026-09-28T20:43:52.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Why the PM could finally drop the triple lock pension pledge",
-        "url": "https://www.bbc.co.uk/news/articles/c6jdvmy1287yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andy Burnham said that he would make tough decisions to fund a new national care service.",
-        "publishedAt": "2026-09-28T07:38:21.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-        "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
-        "publishedAt": "2026-09-28T18:07:25.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,6 +647,50 @@
   "business_in": {
     "articles": [
       {
+        "title": "Burnham to unveil public body to invest in electricity grid",
+        "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+        "publishedAt": "2026-09-29T00:40:29.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Warning more homes will be uninsurable due to flood risk",
+        "url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
+        "publishedAt": "2026-09-28T23:10:13.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.",
+        "publishedAt": "2026-09-29T01:18:24.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Unis are offering degrees in content creation for £30,000. But are they worth it?",
+        "url": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Content creation degrees aim to help people make money from their social media posts.",
+        "publishedAt": "2026-09-28T23:10:06.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "UK tries to stop Trump's diesel export ban",
         "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -687,50 +731,6 @@
         },
         "description": "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.",
         "publishedAt": "2026-09-28T20:42:56.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "What is the Budget and what could be in it?",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chancellor John Healey will set out his plans for UK taxes in October.",
-        "publishedAt": "2026-09-28T17:14:16.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Why UK diesel prices have hit an all-time high",
-        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
-        "publishedAt": "2026-09-28T20:43:52.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Why the PM could finally drop the triple lock pension pledge",
-        "url": "https://www.bbc.co.uk/news/articles/c6jdvmy1287yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andy Burnham said that he would make tough decisions to fund a new national care service.",
-        "publishedAt": "2026-09-28T07:38:21.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-        "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
-        "publishedAt": "2026-09-28T18:07:25.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,6 +739,50 @@
   "business_au": {
     "articles": [
       {
+        "title": "Burnham to unveil public body to invest in electricity grid",
+        "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+        "publishedAt": "2026-09-29T00:40:29.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Warning more homes will be uninsurable due to flood risk",
+        "url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
+        "publishedAt": "2026-09-28T23:10:13.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.",
+        "publishedAt": "2026-09-29T01:18:24.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Unis are offering degrees in content creation for £30,000. But are they worth it?",
+        "url": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Content creation degrees aim to help people make money from their social media posts.",
+        "publishedAt": "2026-09-28T23:10:06.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "UK tries to stop Trump's diesel export ban",
         "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -779,50 +823,6 @@
         },
         "description": "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.",
         "publishedAt": "2026-09-28T20:42:56.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "What is the Budget and what could be in it?",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chancellor John Healey will set out his plans for UK taxes in October.",
-        "publishedAt": "2026-09-28T17:14:16.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Why UK diesel prices have hit an all-time high",
-        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
-        "publishedAt": "2026-09-28T20:43:52.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Why the PM could finally drop the triple lock pension pledge",
-        "url": "https://www.bbc.co.uk/news/articles/c6jdvmy1287yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andy Burnham said that he would make tough decisions to fund a new national care service.",
-        "publishedAt": "2026-09-28T07:38:21.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-        "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
-        "publishedAt": "2026-09-28T18:07:25.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,6 +831,50 @@
   "business_ca": {
     "articles": [
       {
+        "title": "Burnham to unveil public body to invest in electricity grid",
+        "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+        "publishedAt": "2026-09-29T00:40:29.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Warning more homes will be uninsurable due to flood risk",
+        "url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
+        "publishedAt": "2026-09-28T23:10:13.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.",
+        "publishedAt": "2026-09-29T01:18:24.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Unis are offering degrees in content creation for £30,000. But are they worth it?",
+        "url": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Content creation degrees aim to help people make money from their social media posts.",
+        "publishedAt": "2026-09-28T23:10:06.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "UK tries to stop Trump's diesel export ban",
         "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -871,50 +915,6 @@
         },
         "description": "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.",
         "publishedAt": "2026-09-28T20:42:56.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "What is the Budget and what could be in it?",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chancellor John Healey will set out his plans for UK taxes in October.",
-        "publishedAt": "2026-09-28T17:14:16.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Why UK diesel prices have hit an all-time high",
-        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
-        "publishedAt": "2026-09-28T20:43:52.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Why the PM could finally drop the triple lock pension pledge",
-        "url": "https://www.bbc.co.uk/news/articles/c6jdvmy1287yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andy Burnham said that he would make tough decisions to fund a new national care service.",
-        "publishedAt": "2026-09-28T07:38:21.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-        "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
-        "publishedAt": "2026-09-28T18:07:25.000Z",
         "category": "business",
         "zone": "ca"
       }
@@ -2314,6 +2314,28 @@
         "zone": "us"
       },
       {
+        "title": "Infantino makes bigger cash pledge to Fifa members",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6n4k9exz4v3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fifa president Gianni Infantino indicates more money could be distributed to the governing body's members from its cash reserves.",
+        "publishedAt": "2026-09-28T22:32:29.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Littler stunned by Woodhouse at World Grand Prix",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/cmzxzjv5gwzqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "World champion Luke Littler's hopes of defending his World Grand Prix title are dashed as he falls to a shock shock first-round defeat by Luke Woodhouse in Leicester.",
+        "publishedAt": "2026-09-28T22:49:06.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Hart trusts Man City chair Al Mubarak over ruling",
         "url": "https://www.bbc.co.uk/sport/football/articles/c617jky597k7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2321,6 +2343,17 @@
         },
         "description": "Former Manchester City goalkeeper Joe Hart believes club chairman Khaldoon Al Mubarak's claims they are innocent of breaking the Premier League's financial rules.",
         "publishedAt": "2026-09-28T19:24:40.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Leicestershire get partial points reprieve but stay in limbo",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Leicestershire have eight points of their 27-point County Championship deduction reinstated but their Division One status remains in limbo.",
+        "publishedAt": "2026-09-28T17:34:59.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2336,17 +2369,6 @@
         "zone": "us"
       },
       {
-        "title": "Norris apologises to Colapinto for ban comments",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cm87vz5w4jwro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "World champion Lando Norris apologises to Franco Colapinto for saying the Argentine should be banned for causing an accident at the Azerbaijan Grand Prix.",
-        "publishedAt": "2026-09-28T10:11:33.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
         "title": "Ferguson retains Rangers dream but Bologna exit never close",
         "url": "https://www.bbc.co.uk/sport/football/articles/cw62jy1e40mlo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2358,35 +2380,13 @@
         "zone": "us"
       },
       {
-        "title": "Forest Green allow Savage to talk to another club",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c68xkzw9r7rko?at_medium=RSS&at_campaign=rss",
+        "title": "Olympic champion Marchant retires from cycling",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/c98r6z3y00n2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Forest Green give manager Robbie Savage permission to speak to another club, amid speculation linking him to Peterborough United.",
-        "publishedAt": "2026-09-28T13:37:08.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "The four 'what next?' scenarios for Premier League after Man City ruling",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
-        "publishedAt": "2026-09-28T08:28:30.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "O'Sullivan knocked out of Shenzhen Open",
-        "url": "https://www.bbc.co.uk/sport/snooker/articles/cmkgwk04e2g7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Seven-time world champion Ronnie O'Sullivan, world number one Zhao Xintong and defending champion Mark Williams lose on the opening day of the Shenzhen Open.",
-        "publishedAt": "2026-09-28T16:03:21.000Z",
+        "description": "British Olympic gold medallist Katy Marchant says it has not been a difficult decision to quit the sport.",
+        "publishedAt": "2026-09-28T06:44:04.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2406,6 +2406,28 @@
         "zone": "gb"
       },
       {
+        "title": "Infantino makes bigger cash pledge to Fifa members",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6n4k9exz4v3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fifa president Gianni Infantino indicates more money could be distributed to the governing body's members from its cash reserves.",
+        "publishedAt": "2026-09-28T22:32:29.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Littler stunned by Woodhouse at World Grand Prix",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/cmzxzjv5gwzqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "World champion Luke Littler's hopes of defending his World Grand Prix title are dashed as he falls to a shock shock first-round defeat by Luke Woodhouse in Leicester.",
+        "publishedAt": "2026-09-28T22:49:06.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Hart trusts Man City chair Al Mubarak over ruling",
         "url": "https://www.bbc.co.uk/sport/football/articles/c617jky597k7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2413,6 +2435,17 @@
         },
         "description": "Former Manchester City goalkeeper Joe Hart believes club chairman Khaldoon Al Mubarak's claims they are innocent of breaking the Premier League's financial rules.",
         "publishedAt": "2026-09-28T19:24:40.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Leicestershire get partial points reprieve but stay in limbo",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Leicestershire have eight points of their 27-point County Championship deduction reinstated but their Division One status remains in limbo.",
+        "publishedAt": "2026-09-28T17:34:59.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2428,17 +2461,6 @@
         "zone": "gb"
       },
       {
-        "title": "Norris apologises to Colapinto for ban comments",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cm87vz5w4jwro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "World champion Lando Norris apologises to Franco Colapinto for saying the Argentine should be banned for causing an accident at the Azerbaijan Grand Prix.",
-        "publishedAt": "2026-09-28T10:11:33.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
         "title": "Ferguson retains Rangers dream but Bologna exit never close",
         "url": "https://www.bbc.co.uk/sport/football/articles/cw62jy1e40mlo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2450,35 +2472,13 @@
         "zone": "gb"
       },
       {
-        "title": "Forest Green allow Savage to talk to another club",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c68xkzw9r7rko?at_medium=RSS&at_campaign=rss",
+        "title": "Olympic champion Marchant retires from cycling",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/c98r6z3y00n2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Forest Green give manager Robbie Savage permission to speak to another club, amid speculation linking him to Peterborough United.",
-        "publishedAt": "2026-09-28T13:37:08.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "The four 'what next?' scenarios for Premier League after Man City ruling",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
-        "publishedAt": "2026-09-28T08:28:30.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "O'Sullivan knocked out of Shenzhen Open",
-        "url": "https://www.bbc.co.uk/sport/snooker/articles/cmkgwk04e2g7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Seven-time world champion Ronnie O'Sullivan, world number one Zhao Xintong and defending champion Mark Williams lose on the opening day of the Shenzhen Open.",
-        "publishedAt": "2026-09-28T16:03:21.000Z",
+        "description": "British Olympic gold medallist Katy Marchant says it has not been a difficult decision to quit the sport.",
+        "publishedAt": "2026-09-28T06:44:04.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2498,6 +2498,28 @@
         "zone": "in"
       },
       {
+        "title": "Infantino makes bigger cash pledge to Fifa members",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6n4k9exz4v3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fifa president Gianni Infantino indicates more money could be distributed to the governing body's members from its cash reserves.",
+        "publishedAt": "2026-09-28T22:32:29.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Littler stunned by Woodhouse at World Grand Prix",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/cmzxzjv5gwzqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "World champion Luke Littler's hopes of defending his World Grand Prix title are dashed as he falls to a shock shock first-round defeat by Luke Woodhouse in Leicester.",
+        "publishedAt": "2026-09-28T22:49:06.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Hart trusts Man City chair Al Mubarak over ruling",
         "url": "https://www.bbc.co.uk/sport/football/articles/c617jky597k7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2505,6 +2527,17 @@
         },
         "description": "Former Manchester City goalkeeper Joe Hart believes club chairman Khaldoon Al Mubarak's claims they are innocent of breaking the Premier League's financial rules.",
         "publishedAt": "2026-09-28T19:24:40.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Leicestershire get partial points reprieve but stay in limbo",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Leicestershire have eight points of their 27-point County Championship deduction reinstated but their Division One status remains in limbo.",
+        "publishedAt": "2026-09-28T17:34:59.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2520,17 +2553,6 @@
         "zone": "in"
       },
       {
-        "title": "Norris apologises to Colapinto for ban comments",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cm87vz5w4jwro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "World champion Lando Norris apologises to Franco Colapinto for saying the Argentine should be banned for causing an accident at the Azerbaijan Grand Prix.",
-        "publishedAt": "2026-09-28T10:11:33.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
         "title": "Ferguson retains Rangers dream but Bologna exit never close",
         "url": "https://www.bbc.co.uk/sport/football/articles/cw62jy1e40mlo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2542,35 +2564,13 @@
         "zone": "in"
       },
       {
-        "title": "Forest Green allow Savage to talk to another club",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c68xkzw9r7rko?at_medium=RSS&at_campaign=rss",
+        "title": "Olympic champion Marchant retires from cycling",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/c98r6z3y00n2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Forest Green give manager Robbie Savage permission to speak to another club, amid speculation linking him to Peterborough United.",
-        "publishedAt": "2026-09-28T13:37:08.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "The four 'what next?' scenarios for Premier League after Man City ruling",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
-        "publishedAt": "2026-09-28T08:28:30.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "O'Sullivan knocked out of Shenzhen Open",
-        "url": "https://www.bbc.co.uk/sport/snooker/articles/cmkgwk04e2g7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Seven-time world champion Ronnie O'Sullivan, world number one Zhao Xintong and defending champion Mark Williams lose on the opening day of the Shenzhen Open.",
-        "publishedAt": "2026-09-28T16:03:21.000Z",
+        "description": "British Olympic gold medallist Katy Marchant says it has not been a difficult decision to quit the sport.",
+        "publishedAt": "2026-09-28T06:44:04.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2590,6 +2590,28 @@
         "zone": "au"
       },
       {
+        "title": "Infantino makes bigger cash pledge to Fifa members",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6n4k9exz4v3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fifa president Gianni Infantino indicates more money could be distributed to the governing body's members from its cash reserves.",
+        "publishedAt": "2026-09-28T22:32:29.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Littler stunned by Woodhouse at World Grand Prix",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/cmzxzjv5gwzqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "World champion Luke Littler's hopes of defending his World Grand Prix title are dashed as he falls to a shock shock first-round defeat by Luke Woodhouse in Leicester.",
+        "publishedAt": "2026-09-28T22:49:06.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Hart trusts Man City chair Al Mubarak over ruling",
         "url": "https://www.bbc.co.uk/sport/football/articles/c617jky597k7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2597,6 +2619,17 @@
         },
         "description": "Former Manchester City goalkeeper Joe Hart believes club chairman Khaldoon Al Mubarak's claims they are innocent of breaking the Premier League's financial rules.",
         "publishedAt": "2026-09-28T19:24:40.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Leicestershire get partial points reprieve but stay in limbo",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Leicestershire have eight points of their 27-point County Championship deduction reinstated but their Division One status remains in limbo.",
+        "publishedAt": "2026-09-28T17:34:59.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2612,17 +2645,6 @@
         "zone": "au"
       },
       {
-        "title": "Norris apologises to Colapinto for ban comments",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cm87vz5w4jwro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "World champion Lando Norris apologises to Franco Colapinto for saying the Argentine should be banned for causing an accident at the Azerbaijan Grand Prix.",
-        "publishedAt": "2026-09-28T10:11:33.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
         "title": "Ferguson retains Rangers dream but Bologna exit never close",
         "url": "https://www.bbc.co.uk/sport/football/articles/cw62jy1e40mlo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2634,35 +2656,13 @@
         "zone": "au"
       },
       {
-        "title": "Forest Green allow Savage to talk to another club",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c68xkzw9r7rko?at_medium=RSS&at_campaign=rss",
+        "title": "Olympic champion Marchant retires from cycling",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/c98r6z3y00n2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Forest Green give manager Robbie Savage permission to speak to another club, amid speculation linking him to Peterborough United.",
-        "publishedAt": "2026-09-28T13:37:08.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "The four 'what next?' scenarios for Premier League after Man City ruling",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
-        "publishedAt": "2026-09-28T08:28:30.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "O'Sullivan knocked out of Shenzhen Open",
-        "url": "https://www.bbc.co.uk/sport/snooker/articles/cmkgwk04e2g7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Seven-time world champion Ronnie O'Sullivan, world number one Zhao Xintong and defending champion Mark Williams lose on the opening day of the Shenzhen Open.",
-        "publishedAt": "2026-09-28T16:03:21.000Z",
+        "description": "British Olympic gold medallist Katy Marchant says it has not been a difficult decision to quit the sport.",
+        "publishedAt": "2026-09-28T06:44:04.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2682,6 +2682,28 @@
         "zone": "ca"
       },
       {
+        "title": "Infantino makes bigger cash pledge to Fifa members",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6n4k9exz4v3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fifa president Gianni Infantino indicates more money could be distributed to the governing body's members from its cash reserves.",
+        "publishedAt": "2026-09-28T22:32:29.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Littler stunned by Woodhouse at World Grand Prix",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/cmzxzjv5gwzqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "World champion Luke Littler's hopes of defending his World Grand Prix title are dashed as he falls to a shock shock first-round defeat by Luke Woodhouse in Leicester.",
+        "publishedAt": "2026-09-28T22:49:06.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Hart trusts Man City chair Al Mubarak over ruling",
         "url": "https://www.bbc.co.uk/sport/football/articles/c617jky597k7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2689,6 +2711,17 @@
         },
         "description": "Former Manchester City goalkeeper Joe Hart believes club chairman Khaldoon Al Mubarak's claims they are innocent of breaking the Premier League's financial rules.",
         "publishedAt": "2026-09-28T19:24:40.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Leicestershire get partial points reprieve but stay in limbo",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Leicestershire have eight points of their 27-point County Championship deduction reinstated but their Division One status remains in limbo.",
+        "publishedAt": "2026-09-28T17:34:59.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2704,17 +2737,6 @@
         "zone": "ca"
       },
       {
-        "title": "Norris apologises to Colapinto for ban comments",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cm87vz5w4jwro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "World champion Lando Norris apologises to Franco Colapinto for saying the Argentine should be banned for causing an accident at the Azerbaijan Grand Prix.",
-        "publishedAt": "2026-09-28T10:11:33.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
         "title": "Ferguson retains Rangers dream but Bologna exit never close",
         "url": "https://www.bbc.co.uk/sport/football/articles/cw62jy1e40mlo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2726,35 +2748,13 @@
         "zone": "ca"
       },
       {
-        "title": "Forest Green allow Savage to talk to another club",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c68xkzw9r7rko?at_medium=RSS&at_campaign=rss",
+        "title": "Olympic champion Marchant retires from cycling",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/c98r6z3y00n2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Forest Green give manager Robbie Savage permission to speak to another club, amid speculation linking him to Peterborough United.",
-        "publishedAt": "2026-09-28T13:37:08.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "The four 'what next?' scenarios for Premier League after Man City ruling",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
-        "publishedAt": "2026-09-28T08:28:30.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "O'Sullivan knocked out of Shenzhen Open",
-        "url": "https://www.bbc.co.uk/sport/snooker/articles/cmkgwk04e2g7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Seven-time world champion Ronnie O'Sullivan, world number one Zhao Xintong and defending champion Mark Williams lose on the opening day of the Shenzhen Open.",
-        "publishedAt": "2026-09-28T16:03:21.000Z",
+        "description": "British Olympic gold medallist Katy Marchant says it has not been a difficult decision to quit the sport.",
+        "publishedAt": "2026-09-28T06:44:04.000Z",
         "category": "sports",
         "zone": "ca"
       }
@@ -2763,6 +2763,17 @@
   "technology_us": {
     "articles": [
       {
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.",
+        "publishedAt": "2026-09-29T01:18:24.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
         "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
         "url": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2836,17 +2847,6 @@
         },
         "description": "Where do America's X-plane projects fit in an era of cheap drones?",
         "publishedAt": "2026-09-24T23:03:53.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-        "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-        "publishedAt": "2026-09-24T18:06:40.000Z",
         "category": "technology",
         "zone": "us"
       }
@@ -2855,6 +2855,17 @@
   "technology_gb": {
     "articles": [
       {
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.",
+        "publishedAt": "2026-09-29T01:18:24.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
         "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
         "url": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2928,17 +2939,6 @@
         },
         "description": "Where do America's X-plane projects fit in an era of cheap drones?",
         "publishedAt": "2026-09-24T23:03:53.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-        "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-        "publishedAt": "2026-09-24T18:06:40.000Z",
         "category": "technology",
         "zone": "gb"
       }
@@ -2947,6 +2947,17 @@
   "technology_in": {
     "articles": [
       {
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.",
+        "publishedAt": "2026-09-29T01:18:24.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
         "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
         "url": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3020,17 +3031,6 @@
         },
         "description": "Where do America's X-plane projects fit in an era of cheap drones?",
         "publishedAt": "2026-09-24T23:03:53.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-        "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-        "publishedAt": "2026-09-24T18:06:40.000Z",
         "category": "technology",
         "zone": "in"
       }
@@ -3039,6 +3039,17 @@
   "technology_au": {
     "articles": [
       {
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.",
+        "publishedAt": "2026-09-29T01:18:24.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
         "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
         "url": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3112,17 +3123,6 @@
         },
         "description": "Where do America's X-plane projects fit in an era of cheap drones?",
         "publishedAt": "2026-09-24T23:03:53.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-        "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-        "publishedAt": "2026-09-24T18:06:40.000Z",
         "category": "technology",
         "zone": "au"
       }
@@ -3131,6 +3131,17 @@
   "technology_ca": {
     "articles": [
       {
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.",
+        "publishedAt": "2026-09-29T01:18:24.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
         "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
         "url": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3204,17 +3215,6 @@
         },
         "description": "Where do America's X-plane projects fit in an era of cheap drones?",
         "publishedAt": "2026-09-24T23:03:53.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-        "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-        "publishedAt": "2026-09-24T18:06:40.000Z",
         "category": "technology",
         "zone": "ca"
       }
