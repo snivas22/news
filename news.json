@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T17:02:59.479Z",
+  "generatedAt": "2026-10-03T20:43:46.787Z",
   "general_us": {
     "articles": [
       {
@@ -21,6 +21,17 @@
         },
         "description": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
         "publishedAt": "2026-10-03T10:58:51.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+        "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+        "publishedAt": "2026-10-03T17:48:42.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -47,24 +58,13 @@
         "zone": "us"
       },
       {
-        "title": "Homemade bomb part of alleged plot on Manchester's Jewish community, court told",
-        "url": "https://www.bbc.co.uk/news/articles/cr62y3enq62zo?at_medium=RSS&at_campaign=rss",
+        "title": "Man shot dead as families gather for memorial in London",
+        "url": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Two men were arrested on the eve of Yom Kippur, considered the holiest day in the Jewish calendar.",
-        "publishedAt": "2026-10-03T12:51:08.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Pike survived two lethal injections on Wednesday and is currently in critical condition in hospital.",
-        "publishedAt": "2026-10-03T16:57:02.000Z",
+        "description": "The 40-year-old died at the scene in west London from a gunshot wound, the Met Police said.",
+        "publishedAt": "2026-10-03T20:42:05.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -117,6 +117,17 @@
         "zone": "gb"
       },
       {
+        "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+        "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+        "publishedAt": "2026-10-03T17:48:42.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
         "url": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -139,24 +150,13 @@
         "zone": "gb"
       },
       {
-        "title": "Homemade bomb part of alleged plot on Manchester's Jewish community, court told",
-        "url": "https://www.bbc.co.uk/news/articles/cr62y3enq62zo?at_medium=RSS&at_campaign=rss",
+        "title": "Man shot dead as families gather for memorial in London",
+        "url": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Two men were arrested on the eve of Yom Kippur, considered the holiest day in the Jewish calendar.",
-        "publishedAt": "2026-10-03T12:51:08.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Pike survived two lethal injections on Wednesday and is currently in critical condition in hospital.",
-        "publishedAt": "2026-10-03T16:57:02.000Z",
+        "description": "The 40-year-old died at the scene in west London from a gunshot wound, the Met Police said.",
+        "publishedAt": "2026-10-03T20:42:05.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -209,6 +209,17 @@
         "zone": "in"
       },
       {
+        "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+        "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+        "publishedAt": "2026-10-03T17:48:42.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
         "url": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -231,24 +242,13 @@
         "zone": "in"
       },
       {
-        "title": "Homemade bomb part of alleged plot on Manchester's Jewish community, court told",
-        "url": "https://www.bbc.co.uk/news/articles/cr62y3enq62zo?at_medium=RSS&at_campaign=rss",
+        "title": "Man shot dead as families gather for memorial in London",
+        "url": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Two men were arrested on the eve of Yom Kippur, considered the holiest day in the Jewish calendar.",
-        "publishedAt": "2026-10-03T12:51:08.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Pike survived two lethal injections on Wednesday and is currently in critical condition in hospital.",
-        "publishedAt": "2026-10-03T16:57:02.000Z",
+        "description": "The 40-year-old died at the scene in west London from a gunshot wound, the Met Police said.",
+        "publishedAt": "2026-10-03T20:42:05.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -301,6 +301,17 @@
         "zone": "au"
       },
       {
+        "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+        "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+        "publishedAt": "2026-10-03T17:48:42.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
         "url": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -323,24 +334,13 @@
         "zone": "au"
       },
       {
-        "title": "Homemade bomb part of alleged plot on Manchester's Jewish community, court told",
-        "url": "https://www.bbc.co.uk/news/articles/cr62y3enq62zo?at_medium=RSS&at_campaign=rss",
+        "title": "Man shot dead as families gather for memorial in London",
+        "url": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Two men were arrested on the eve of Yom Kippur, considered the holiest day in the Jewish calendar.",
-        "publishedAt": "2026-10-03T12:51:08.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Pike survived two lethal injections on Wednesday and is currently in critical condition in hospital.",
-        "publishedAt": "2026-10-03T16:57:02.000Z",
+        "description": "The 40-year-old died at the scene in west London from a gunshot wound, the Met Police said.",
+        "publishedAt": "2026-10-03T20:42:05.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -393,6 +393,17 @@
         "zone": "ca"
       },
       {
+        "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+        "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+        "publishedAt": "2026-10-03T17:48:42.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
         "url": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -415,24 +426,13 @@
         "zone": "ca"
       },
       {
-        "title": "Homemade bomb part of alleged plot on Manchester's Jewish community, court told",
-        "url": "https://www.bbc.co.uk/news/articles/cr62y3enq62zo?at_medium=RSS&at_campaign=rss",
+        "title": "Man shot dead as families gather for memorial in London",
+        "url": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Two men were arrested on the eve of Yom Kippur, considered the holiest day in the Jewish calendar.",
-        "publishedAt": "2026-10-03T12:51:08.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
-        "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Pike survived two lethal injections on Wednesday and is currently in critical condition in hospital.",
-        "publishedAt": "2026-10-03T16:57:02.000Z",
+        "description": "The 40-year-old died at the scene in west London from a gunshot wound, the Met Police said.",
+        "publishedAt": "2026-10-03T20:42:05.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -2303,13 +2303,24 @@
   "sports_us": {
     "articles": [
       {
-        "title": "Desmond targeted by Celtic fan protest at Alfred Dunhill",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c60qke217knjo?at_medium=RSS&at_campaign=rss",
+        "title": "Wakefield beat Warrington to win Super League",
+        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c39w4w7pzqv4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Celtic's largest shareholder Dermot Desmond is targeted in a protest at the Alfred Dunhill Links golf tournament in St Andrews as tennis balls were thrown towards him.",
-        "publishedAt": "2026-10-03T16:24:56.000Z",
+        "description": "Wakefield Trinity end a 58-year wait to be champions as they claim a deserved Grand Final success over Warrington Wolves at Old Trafford.",
+        "publishedAt": "2026-10-03T19:02:55.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Who was the best player on the pitch? - England player ratings",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1x8znyd0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "England produce one of their best performances in recent times as they thump Croatia 6-0 in Rijeka. How did our report rate the players' performances?",
+        "publishedAt": "2026-10-03T17:58:13.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2325,6 +2336,17 @@
         "zone": "us"
       },
       {
+        "title": "Gloucester thrash sorry Quins to go top of the Prem",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw305gm8j591o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Gloucester thrash a limp Harlequins at Kingsholm to go to the top of the early Prem standings.",
+        "publishedAt": "2026-10-03T19:29:51.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Republic of Ireland news conference ends abruptly amid accusations",
         "url": "https://www.bbc.co.uk/sport/football/articles/cm78p5x6xqq7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2332,6 +2354,17 @@
         },
         "description": "Republic of Ireland manager Heimir Hallgrimsson's pre-match news conference ends abruptly as accusations are levelled at his players.",
         "publishedAt": "2026-10-03T13:02:11.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Sinfield completes final ultramarathon challenge",
+        "url": "https://www.bbc.co.uk/news/articles/cwgkvy047gkno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Sir Kevin Sinfield crosses the finish line at Old Trafford after seven ultramarathons in seven days.",
+        "publishedAt": "2026-10-03T17:38:56.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2354,39 +2387,6 @@
         },
         "description": "Chinese world champion Wu Yize wins six consecutive frames to beat Judd Trump 6-1 at the Shenzhen Open and set up a final against countryman Yuan Sijun.",
         "publishedAt": "2026-10-03T16:56:14.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Group has 'exploded' after Wales win - Bellamy",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmkgewx77521o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Craig Bellamy says Wales' win over Norway has \"thrown a hand grenade\" into their Nations League group as they go in search of another victory against Denmark in Cardiff on Sunday.",
-        "publishedAt": "2026-10-03T16:11:50.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Rees-Zammit stars as Bristol power past Northampton",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm27ln49devo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Louis Rees-Zammit scores a double as Bristol edge past reigning champions Northampton in a pulsating Prem tussle.",
-        "publishedAt": "2026-10-03T16:44:58.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Pretorius breaks Gayle's T20 record score",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa.",
-        "publishedAt": "2026-10-02T22:22:36.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,13 +2395,24 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "Desmond targeted by Celtic fan protest at Alfred Dunhill",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c60qke217knjo?at_medium=RSS&at_campaign=rss",
+        "title": "Wakefield beat Warrington to win Super League",
+        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c39w4w7pzqv4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Celtic's largest shareholder Dermot Desmond is targeted in a protest at the Alfred Dunhill Links golf tournament in St Andrews as tennis balls were thrown towards him.",
-        "publishedAt": "2026-10-03T16:24:56.000Z",
+        "description": "Wakefield Trinity end a 58-year wait to be champions as they claim a deserved Grand Final success over Warrington Wolves at Old Trafford.",
+        "publishedAt": "2026-10-03T19:02:55.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Who was the best player on the pitch? - England player ratings",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1x8znyd0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "England produce one of their best performances in recent times as they thump Croatia 6-0 in Rijeka. How did our report rate the players' performances?",
+        "publishedAt": "2026-10-03T17:58:13.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2417,6 +2428,17 @@
         "zone": "gb"
       },
       {
+        "title": "Gloucester thrash sorry Quins to go top of the Prem",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw305gm8j591o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Gloucester thrash a limp Harlequins at Kingsholm to go to the top of the early Prem standings.",
+        "publishedAt": "2026-10-03T19:29:51.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Republic of Ireland news conference ends abruptly amid accusations",
         "url": "https://www.bbc.co.uk/sport/football/articles/cm78p5x6xqq7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2424,6 +2446,17 @@
         },
         "description": "Republic of Ireland manager Heimir Hallgrimsson's pre-match news conference ends abruptly as accusations are levelled at his players.",
         "publishedAt": "2026-10-03T13:02:11.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Sinfield completes final ultramarathon challenge",
+        "url": "https://www.bbc.co.uk/news/articles/cwgkvy047gkno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Sir Kevin Sinfield crosses the finish line at Old Trafford after seven ultramarathons in seven days.",
+        "publishedAt": "2026-10-03T17:38:56.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2446,39 +2479,6 @@
         },
         "description": "Chinese world champion Wu Yize wins six consecutive frames to beat Judd Trump 6-1 at the Shenzhen Open and set up a final against countryman Yuan Sijun.",
         "publishedAt": "2026-10-03T16:56:14.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Group has 'exploded' after Wales win - Bellamy",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmkgewx77521o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Craig Bellamy says Wales' win over Norway has \"thrown a hand grenade\" into their Nations League group as they go in search of another victory against Denmark in Cardiff on Sunday.",
-        "publishedAt": "2026-10-03T16:11:50.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Rees-Zammit stars as Bristol power past Northampton",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm27ln49devo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Louis Rees-Zammit scores a double as Bristol edge past reigning champions Northampton in a pulsating Prem tussle.",
-        "publishedAt": "2026-10-03T16:44:58.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Pretorius breaks Gayle's T20 record score",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa.",
-        "publishedAt": "2026-10-02T22:22:36.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,13 +2487,24 @@
   "sports_in": {
     "articles": [
       {
-        "title": "Desmond targeted by Celtic fan protest at Alfred Dunhill",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c60qke217knjo?at_medium=RSS&at_campaign=rss",
+        "title": "Wakefield beat Warrington to win Super League",
+        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c39w4w7pzqv4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Celtic's largest shareholder Dermot Desmond is targeted in a protest at the Alfred Dunhill Links golf tournament in St Andrews as tennis balls were thrown towards him.",
-        "publishedAt": "2026-10-03T16:24:56.000Z",
+        "description": "Wakefield Trinity end a 58-year wait to be champions as they claim a deserved Grand Final success over Warrington Wolves at Old Trafford.",
+        "publishedAt": "2026-10-03T19:02:55.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Who was the best player on the pitch? - England player ratings",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1x8znyd0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "England produce one of their best performances in recent times as they thump Croatia 6-0 in Rijeka. How did our report rate the players' performances?",
+        "publishedAt": "2026-10-03T17:58:13.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2509,6 +2520,17 @@
         "zone": "in"
       },
       {
+        "title": "Gloucester thrash sorry Quins to go top of the Prem",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw305gm8j591o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Gloucester thrash a limp Harlequins at Kingsholm to go to the top of the early Prem standings.",
+        "publishedAt": "2026-10-03T19:29:51.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Republic of Ireland news conference ends abruptly amid accusations",
         "url": "https://www.bbc.co.uk/sport/football/articles/cm78p5x6xqq7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2516,6 +2538,17 @@
         },
         "description": "Republic of Ireland manager Heimir Hallgrimsson's pre-match news conference ends abruptly as accusations are levelled at his players.",
         "publishedAt": "2026-10-03T13:02:11.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Sinfield completes final ultramarathon challenge",
+        "url": "https://www.bbc.co.uk/news/articles/cwgkvy047gkno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Sir Kevin Sinfield crosses the finish line at Old Trafford after seven ultramarathons in seven days.",
+        "publishedAt": "2026-10-03T17:38:56.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2538,39 +2571,6 @@
         },
         "description": "Chinese world champion Wu Yize wins six consecutive frames to beat Judd Trump 6-1 at the Shenzhen Open and set up a final against countryman Yuan Sijun.",
         "publishedAt": "2026-10-03T16:56:14.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Group has 'exploded' after Wales win - Bellamy",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmkgewx77521o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Craig Bellamy says Wales' win over Norway has \"thrown a hand grenade\" into their Nations League group as they go in search of another victory against Denmark in Cardiff on Sunday.",
-        "publishedAt": "2026-10-03T16:11:50.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Rees-Zammit stars as Bristol power past Northampton",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm27ln49devo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Louis Rees-Zammit scores a double as Bristol edge past reigning champions Northampton in a pulsating Prem tussle.",
-        "publishedAt": "2026-10-03T16:44:58.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Pretorius breaks Gayle's T20 record score",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa.",
-        "publishedAt": "2026-10-02T22:22:36.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,13 +2579,24 @@
   "sports_au": {
     "articles": [
       {
-        "title": "Desmond targeted by Celtic fan protest at Alfred Dunhill",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c60qke217knjo?at_medium=RSS&at_campaign=rss",
+        "title": "Wakefield beat Warrington to win Super League",
+        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c39w4w7pzqv4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Celtic's largest shareholder Dermot Desmond is targeted in a protest at the Alfred Dunhill Links golf tournament in St Andrews as tennis balls were thrown towards him.",
-        "publishedAt": "2026-10-03T16:24:56.000Z",
+        "description": "Wakefield Trinity end a 58-year wait to be champions as they claim a deserved Grand Final success over Warrington Wolves at Old Trafford.",
+        "publishedAt": "2026-10-03T19:02:55.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Who was the best player on the pitch? - England player ratings",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1x8znyd0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "England produce one of their best performances in recent times as they thump Croatia 6-0 in Rijeka. How did our report rate the players' performances?",
+        "publishedAt": "2026-10-03T17:58:13.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2601,6 +2612,17 @@
         "zone": "au"
       },
       {
+        "title": "Gloucester thrash sorry Quins to go top of the Prem",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw305gm8j591o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Gloucester thrash a limp Harlequins at Kingsholm to go to the top of the early Prem standings.",
+        "publishedAt": "2026-10-03T19:29:51.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Republic of Ireland news conference ends abruptly amid accusations",
         "url": "https://www.bbc.co.uk/sport/football/articles/cm78p5x6xqq7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2608,6 +2630,17 @@
         },
         "description": "Republic of Ireland manager Heimir Hallgrimsson's pre-match news conference ends abruptly as accusations are levelled at his players.",
         "publishedAt": "2026-10-03T13:02:11.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Sinfield completes final ultramarathon challenge",
+        "url": "https://www.bbc.co.uk/news/articles/cwgkvy047gkno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Sir Kevin Sinfield crosses the finish line at Old Trafford after seven ultramarathons in seven days.",
+        "publishedAt": "2026-10-03T17:38:56.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2630,39 +2663,6 @@
         },
         "description": "Chinese world champion Wu Yize wins six consecutive frames to beat Judd Trump 6-1 at the Shenzhen Open and set up a final against countryman Yuan Sijun.",
         "publishedAt": "2026-10-03T16:56:14.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Group has 'exploded' after Wales win - Bellamy",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmkgewx77521o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Craig Bellamy says Wales' win over Norway has \"thrown a hand grenade\" into their Nations League group as they go in search of another victory against Denmark in Cardiff on Sunday.",
-        "publishedAt": "2026-10-03T16:11:50.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Rees-Zammit stars as Bristol power past Northampton",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm27ln49devo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Louis Rees-Zammit scores a double as Bristol edge past reigning champions Northampton in a pulsating Prem tussle.",
-        "publishedAt": "2026-10-03T16:44:58.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Pretorius breaks Gayle's T20 record score",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa.",
-        "publishedAt": "2026-10-02T22:22:36.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,13 +2671,24 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "Desmond targeted by Celtic fan protest at Alfred Dunhill",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c60qke217knjo?at_medium=RSS&at_campaign=rss",
+        "title": "Wakefield beat Warrington to win Super League",
+        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c39w4w7pzqv4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Celtic's largest shareholder Dermot Desmond is targeted in a protest at the Alfred Dunhill Links golf tournament in St Andrews as tennis balls were thrown towards him.",
-        "publishedAt": "2026-10-03T16:24:56.000Z",
+        "description": "Wakefield Trinity end a 58-year wait to be champions as they claim a deserved Grand Final success over Warrington Wolves at Old Trafford.",
+        "publishedAt": "2026-10-03T19:02:55.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Who was the best player on the pitch? - England player ratings",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1x8znyd0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "England produce one of their best performances in recent times as they thump Croatia 6-0 in Rijeka. How did our report rate the players' performances?",
+        "publishedAt": "2026-10-03T17:58:13.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2693,6 +2704,17 @@
         "zone": "ca"
       },
       {
+        "title": "Gloucester thrash sorry Quins to go top of the Prem",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw305gm8j591o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Gloucester thrash a limp Harlequins at Kingsholm to go to the top of the early Prem standings.",
+        "publishedAt": "2026-10-03T19:29:51.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Republic of Ireland news conference ends abruptly amid accusations",
         "url": "https://www.bbc.co.uk/sport/football/articles/cm78p5x6xqq7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2700,6 +2722,17 @@
         },
         "description": "Republic of Ireland manager Heimir Hallgrimsson's pre-match news conference ends abruptly as accusations are levelled at his players.",
         "publishedAt": "2026-10-03T13:02:11.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Sinfield completes final ultramarathon challenge",
+        "url": "https://www.bbc.co.uk/news/articles/cwgkvy047gkno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Sir Kevin Sinfield crosses the finish line at Old Trafford after seven ultramarathons in seven days.",
+        "publishedAt": "2026-10-03T17:38:56.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2722,39 +2755,6 @@
         },
         "description": "Chinese world champion Wu Yize wins six consecutive frames to beat Judd Trump 6-1 at the Shenzhen Open and set up a final against countryman Yuan Sijun.",
         "publishedAt": "2026-10-03T16:56:14.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Group has 'exploded' after Wales win - Bellamy",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmkgewx77521o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Craig Bellamy says Wales' win over Norway has \"thrown a hand grenade\" into their Nations League group as they go in search of another victory against Denmark in Cardiff on Sunday.",
-        "publishedAt": "2026-10-03T16:11:50.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Rees-Zammit stars as Bristol power past Northampton",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm27ln49devo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Louis Rees-Zammit scores a double as Bristol edge past reigning champions Northampton in a pulsating Prem tussle.",
-        "publishedAt": "2026-10-03T16:44:58.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Pretorius breaks Gayle's T20 record score",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa.",
-        "publishedAt": "2026-10-02T22:22:36.000Z",
         "category": "sports",
         "zone": "ca"
       }
