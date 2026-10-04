@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T15:46:02.362Z",
+  "generatedAt": "2026-10-04T19:18:08.717Z",
   "general_us": {
     "articles": [
       {
@@ -9,7 +9,7 @@
           "name": "RSS Feed"
         },
         "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
-        "publishedAt": "2026-10-04T15:45:28.000Z",
+        "publishedAt": "2026-10-04T18:08:52.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -20,7 +20,7 @@
           "name": "RSS Feed"
         },
         "description": "The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding political principles.",
-        "publishedAt": "2026-10-04T15:21:02.000Z",
+        "publishedAt": "2026-10-04T16:20:02.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -36,17 +36,6 @@
         "zone": "us"
       },
       {
-        "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
-        "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.",
-        "publishedAt": "2026-10-04T11:19:58.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
         "title": "British Museum announces changes to ease Bayeux Tapestry queues",
         "url": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -58,13 +47,24 @@
         "zone": "us"
       },
       {
-        "title": "Daughter of MP murdered five years ago tells BBC politicians still at risk",
-        "url": "https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss",
+        "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+        "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Katie Amess questions if anything has changed to protect politicians five years after her father's death.",
-        "publishedAt": "2026-10-04T11:59:35.000Z",
+        "description": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+        "publishedAt": "2026-10-04T16:51:30.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+        "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
+        "publishedAt": "2026-10-04T16:24:48.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -80,13 +80,13 @@
         "zone": "us"
       },
       {
-        "title": "Why Canada is preparing for an unlikely US invasion",
-        "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+        "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
+        "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
-        "publishedAt": "2026-10-03T23:30:06.000Z",
+        "description": "Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.",
+        "publishedAt": "2026-10-04T11:19:58.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -101,7 +101,7 @@
           "name": "RSS Feed"
         },
         "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
-        "publishedAt": "2026-10-04T15:45:28.000Z",
+        "publishedAt": "2026-10-04T18:08:52.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -112,7 +112,7 @@
           "name": "RSS Feed"
         },
         "description": "The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding political principles.",
-        "publishedAt": "2026-10-04T15:21:02.000Z",
+        "publishedAt": "2026-10-04T16:20:02.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -128,17 +128,6 @@
         "zone": "gb"
       },
       {
-        "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
-        "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.",
-        "publishedAt": "2026-10-04T11:19:58.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
         "title": "British Museum announces changes to ease Bayeux Tapestry queues",
         "url": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -150,13 +139,24 @@
         "zone": "gb"
       },
       {
-        "title": "Daughter of MP murdered five years ago tells BBC politicians still at risk",
-        "url": "https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss",
+        "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+        "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Katie Amess questions if anything has changed to protect politicians five years after her father's death.",
-        "publishedAt": "2026-10-04T11:59:35.000Z",
+        "description": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+        "publishedAt": "2026-10-04T16:51:30.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+        "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
+        "publishedAt": "2026-10-04T16:24:48.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -172,13 +172,13 @@
         "zone": "gb"
       },
       {
-        "title": "Why Canada is preparing for an unlikely US invasion",
-        "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+        "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
+        "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
-        "publishedAt": "2026-10-03T23:30:06.000Z",
+        "description": "Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.",
+        "publishedAt": "2026-10-04T11:19:58.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -193,7 +193,7 @@
           "name": "RSS Feed"
         },
         "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
-        "publishedAt": "2026-10-04T15:45:28.000Z",
+        "publishedAt": "2026-10-04T18:08:52.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -204,7 +204,7 @@
           "name": "RSS Feed"
         },
         "description": "The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding political principles.",
-        "publishedAt": "2026-10-04T15:21:02.000Z",
+        "publishedAt": "2026-10-04T16:20:02.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -220,17 +220,6 @@
         "zone": "in"
       },
       {
-        "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
-        "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.",
-        "publishedAt": "2026-10-04T11:19:58.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
         "title": "British Museum announces changes to ease Bayeux Tapestry queues",
         "url": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -242,13 +231,24 @@
         "zone": "in"
       },
       {
-        "title": "Daughter of MP murdered five years ago tells BBC politicians still at risk",
-        "url": "https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss",
+        "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+        "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Katie Amess questions if anything has changed to protect politicians five years after her father's death.",
-        "publishedAt": "2026-10-04T11:59:35.000Z",
+        "description": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+        "publishedAt": "2026-10-04T16:51:30.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+        "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
+        "publishedAt": "2026-10-04T16:24:48.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -264,13 +264,13 @@
         "zone": "in"
       },
       {
-        "title": "Why Canada is preparing for an unlikely US invasion",
-        "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+        "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
+        "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
-        "publishedAt": "2026-10-03T23:30:06.000Z",
+        "description": "Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.",
+        "publishedAt": "2026-10-04T11:19:58.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -285,7 +285,7 @@
           "name": "RSS Feed"
         },
         "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
-        "publishedAt": "2026-10-04T15:45:28.000Z",
+        "publishedAt": "2026-10-04T18:08:52.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -296,7 +296,7 @@
           "name": "RSS Feed"
         },
         "description": "The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding political principles.",
-        "publishedAt": "2026-10-04T15:21:02.000Z",
+        "publishedAt": "2026-10-04T16:20:02.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -312,17 +312,6 @@
         "zone": "au"
       },
       {
-        "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
-        "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.",
-        "publishedAt": "2026-10-04T11:19:58.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
         "title": "British Museum announces changes to ease Bayeux Tapestry queues",
         "url": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -334,13 +323,24 @@
         "zone": "au"
       },
       {
-        "title": "Daughter of MP murdered five years ago tells BBC politicians still at risk",
-        "url": "https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss",
+        "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+        "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Katie Amess questions if anything has changed to protect politicians five years after her father's death.",
-        "publishedAt": "2026-10-04T11:59:35.000Z",
+        "description": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+        "publishedAt": "2026-10-04T16:51:30.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+        "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
+        "publishedAt": "2026-10-04T16:24:48.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -356,13 +356,13 @@
         "zone": "au"
       },
       {
-        "title": "Why Canada is preparing for an unlikely US invasion",
-        "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+        "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
+        "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
-        "publishedAt": "2026-10-03T23:30:06.000Z",
+        "description": "Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.",
+        "publishedAt": "2026-10-04T11:19:58.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -377,7 +377,7 @@
           "name": "RSS Feed"
         },
         "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
-        "publishedAt": "2026-10-04T15:45:28.000Z",
+        "publishedAt": "2026-10-04T18:08:52.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -388,7 +388,7 @@
           "name": "RSS Feed"
         },
         "description": "The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding political principles.",
-        "publishedAt": "2026-10-04T15:21:02.000Z",
+        "publishedAt": "2026-10-04T16:20:02.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -404,17 +404,6 @@
         "zone": "ca"
       },
       {
-        "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
-        "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.",
-        "publishedAt": "2026-10-04T11:19:58.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
         "title": "British Museum announces changes to ease Bayeux Tapestry queues",
         "url": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -426,13 +415,24 @@
         "zone": "ca"
       },
       {
-        "title": "Daughter of MP murdered five years ago tells BBC politicians still at risk",
-        "url": "https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss",
+        "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+        "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Katie Amess questions if anything has changed to protect politicians five years after her father's death.",
-        "publishedAt": "2026-10-04T11:59:35.000Z",
+        "description": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+        "publishedAt": "2026-10-04T16:51:30.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+        "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
+        "publishedAt": "2026-10-04T16:24:48.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -448,13 +448,13 @@
         "zone": "ca"
       },
       {
-        "title": "Why Canada is preparing for an unlikely US invasion",
-        "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+        "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
+        "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
-        "publishedAt": "2026-10-03T23:30:06.000Z",
+        "description": "Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.",
+        "publishedAt": "2026-10-04T11:19:58.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -2303,6 +2303,17 @@
   "sports_us": {
     "articles": [
       {
+        "title": "Hamilton bemused after glitch turns F1 into 'Lego race'",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cwg7x820k9xjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Max Verstappen and Lewis Hamilton liken the effects of a software bug that affected multiple cars before the Bahrain Grand Prix in Malaysia to a \"Lego race\".",
+        "publishedAt": "2026-10-04T16:58:56.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Verstappen wins in Malaysia after long delays as Russell retires",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/c5n49zx3zlvwo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2314,46 +2325,35 @@
         "zone": "us"
       },
       {
-        "title": "Dominant Verstappen & superb Hamilton recovery - driver ratings",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqkgjnrjr3l5o?at_medium=RSS&at_campaign=rss",
+        "title": "World No. 979 Stewart's dilemma after finishing fourth at Alfred Dunhill Links",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c6pwg5z9982zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Bahrain Grand Prix in Malaysia.",
-        "publishedAt": "2026-10-04T13:36:42.000Z",
+        "description": "Scotland's Michael Stewart has a choice to make after securing his best finish at a DP World Tour event.",
+        "publishedAt": "2026-10-04T17:55:17.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Djokovic beats Zverev to reach China Open semis",
+        "title": "Evans ends Britain's 25-year wait for WRC champion",
+        "url": "https://www.bbc.co.uk/sport/motorsport/articles/cmd6dq5gyw7xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Five-time runner-up Elfyn Evans is world champion for the first time after rival Oliver Solberg crashes in the final moments of Rally Italia Sardegna.",
+        "publishedAt": "2026-10-04T13:46:49.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "‘Moments I still play for’ - Djokovic battles past world number two Zverev",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c8kge0d95dzno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open.",
         "publishedAt": "2026-10-04T14:47:14.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
-        "publishedAt": "2026-10-03T21:07:59.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Bowie seizing Scotland shot after World Cup disappointment",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5djvw4n8vp8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Scotland speaks to Kieron Bowie after he scores his first goal for his country against North Macedonia.",
-        "publishedAt": "2026-10-04T07:59:10.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2369,24 +2369,24 @@
         "zone": "us"
       },
       {
-        "title": "Evans claims dramatic WRC title after Solberg crash",
-        "url": "https://www.bbc.co.uk/sport/motorsport/articles/cmd6dq5gyw7xo?at_medium=RSS&at_campaign=rss",
+        "title": "Wu wins first title since Crucible as Chinese snooker hits new high",
+        "url": "https://www.bbc.co.uk/sport/snooker/articles/cq4g1l0gxl44o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Five-time runner-up Elfyn Evans is world champion for the first time after rival Oliver Solberg crashes in the final moments of Rally Italia Sardegna.",
-        "publishedAt": "2026-10-04T13:46:49.000Z",
+        "description": "Wu Yize claims his first ranking title since he became world champion - a result that means China will have the top two players in the rankings for the first time.",
+        "publishedAt": "2026-10-04T15:42:24.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "I clawed my way to the top but need a break - Azpilicueta",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq0kl0yy3r0po?at_medium=RSS&at_campaign=rss",
+        "title": "Dominant Verstappen & superb Hamilton recovery - driver ratings",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqkgjnrjr3l5o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Cesar Azpilicueta says it is time to move to \"a different stage of life\" following a glorious 20-year playing career, notably captaining Chelsea to several titles.",
-        "publishedAt": "2026-10-04T06:15:35.000Z",
+        "description": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Bahrain Grand Prix in Malaysia.",
+        "publishedAt": "2026-10-04T13:36:42.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,6 +2395,17 @@
   "sports_gb": {
     "articles": [
       {
+        "title": "Hamilton bemused after glitch turns F1 into 'Lego race'",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cwg7x820k9xjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Max Verstappen and Lewis Hamilton liken the effects of a software bug that affected multiple cars before the Bahrain Grand Prix in Malaysia to a \"Lego race\".",
+        "publishedAt": "2026-10-04T16:58:56.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Verstappen wins in Malaysia after long delays as Russell retires",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/c5n49zx3zlvwo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2406,46 +2417,35 @@
         "zone": "gb"
       },
       {
-        "title": "Dominant Verstappen & superb Hamilton recovery - driver ratings",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqkgjnrjr3l5o?at_medium=RSS&at_campaign=rss",
+        "title": "World No. 979 Stewart's dilemma after finishing fourth at Alfred Dunhill Links",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c6pwg5z9982zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Bahrain Grand Prix in Malaysia.",
-        "publishedAt": "2026-10-04T13:36:42.000Z",
+        "description": "Scotland's Michael Stewart has a choice to make after securing his best finish at a DP World Tour event.",
+        "publishedAt": "2026-10-04T17:55:17.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Djokovic beats Zverev to reach China Open semis",
+        "title": "Evans ends Britain's 25-year wait for WRC champion",
+        "url": "https://www.bbc.co.uk/sport/motorsport/articles/cmd6dq5gyw7xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Five-time runner-up Elfyn Evans is world champion for the first time after rival Oliver Solberg crashes in the final moments of Rally Italia Sardegna.",
+        "publishedAt": "2026-10-04T13:46:49.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "‘Moments I still play for’ - Djokovic battles past world number two Zverev",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c8kge0d95dzno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open.",
         "publishedAt": "2026-10-04T14:47:14.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
-        "publishedAt": "2026-10-03T21:07:59.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Bowie seizing Scotland shot after World Cup disappointment",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5djvw4n8vp8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Scotland speaks to Kieron Bowie after he scores his first goal for his country against North Macedonia.",
-        "publishedAt": "2026-10-04T07:59:10.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2461,24 +2461,24 @@
         "zone": "gb"
       },
       {
-        "title": "Evans claims dramatic WRC title after Solberg crash",
-        "url": "https://www.bbc.co.uk/sport/motorsport/articles/cmd6dq5gyw7xo?at_medium=RSS&at_campaign=rss",
+        "title": "Wu wins first title since Crucible as Chinese snooker hits new high",
+        "url": "https://www.bbc.co.uk/sport/snooker/articles/cq4g1l0gxl44o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Five-time runner-up Elfyn Evans is world champion for the first time after rival Oliver Solberg crashes in the final moments of Rally Italia Sardegna.",
-        "publishedAt": "2026-10-04T13:46:49.000Z",
+        "description": "Wu Yize claims his first ranking title since he became world champion - a result that means China will have the top two players in the rankings for the first time.",
+        "publishedAt": "2026-10-04T15:42:24.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "I clawed my way to the top but need a break - Azpilicueta",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq0kl0yy3r0po?at_medium=RSS&at_campaign=rss",
+        "title": "Dominant Verstappen & superb Hamilton recovery - driver ratings",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqkgjnrjr3l5o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Cesar Azpilicueta says it is time to move to \"a different stage of life\" following a glorious 20-year playing career, notably captaining Chelsea to several titles.",
-        "publishedAt": "2026-10-04T06:15:35.000Z",
+        "description": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Bahrain Grand Prix in Malaysia.",
+        "publishedAt": "2026-10-04T13:36:42.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,6 +2487,17 @@
   "sports_in": {
     "articles": [
       {
+        "title": "Hamilton bemused after glitch turns F1 into 'Lego race'",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cwg7x820k9xjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Max Verstappen and Lewis Hamilton liken the effects of a software bug that affected multiple cars before the Bahrain Grand Prix in Malaysia to a \"Lego race\".",
+        "publishedAt": "2026-10-04T16:58:56.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Verstappen wins in Malaysia after long delays as Russell retires",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/c5n49zx3zlvwo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2498,46 +2509,35 @@
         "zone": "in"
       },
       {
-        "title": "Dominant Verstappen & superb Hamilton recovery - driver ratings",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqkgjnrjr3l5o?at_medium=RSS&at_campaign=rss",
+        "title": "World No. 979 Stewart's dilemma after finishing fourth at Alfred Dunhill Links",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c6pwg5z9982zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Bahrain Grand Prix in Malaysia.",
-        "publishedAt": "2026-10-04T13:36:42.000Z",
+        "description": "Scotland's Michael Stewart has a choice to make after securing his best finish at a DP World Tour event.",
+        "publishedAt": "2026-10-04T17:55:17.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Djokovic beats Zverev to reach China Open semis",
+        "title": "Evans ends Britain's 25-year wait for WRC champion",
+        "url": "https://www.bbc.co.uk/sport/motorsport/articles/cmd6dq5gyw7xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Five-time runner-up Elfyn Evans is world champion for the first time after rival Oliver Solberg crashes in the final moments of Rally Italia Sardegna.",
+        "publishedAt": "2026-10-04T13:46:49.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "‘Moments I still play for’ - Djokovic battles past world number two Zverev",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c8kge0d95dzno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open.",
         "publishedAt": "2026-10-04T14:47:14.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
-        "publishedAt": "2026-10-03T21:07:59.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Bowie seizing Scotland shot after World Cup disappointment",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5djvw4n8vp8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Scotland speaks to Kieron Bowie after he scores his first goal for his country against North Macedonia.",
-        "publishedAt": "2026-10-04T07:59:10.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2553,24 +2553,24 @@
         "zone": "in"
       },
       {
-        "title": "Evans claims dramatic WRC title after Solberg crash",
-        "url": "https://www.bbc.co.uk/sport/motorsport/articles/cmd6dq5gyw7xo?at_medium=RSS&at_campaign=rss",
+        "title": "Wu wins first title since Crucible as Chinese snooker hits new high",
+        "url": "https://www.bbc.co.uk/sport/snooker/articles/cq4g1l0gxl44o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Five-time runner-up Elfyn Evans is world champion for the first time after rival Oliver Solberg crashes in the final moments of Rally Italia Sardegna.",
-        "publishedAt": "2026-10-04T13:46:49.000Z",
+        "description": "Wu Yize claims his first ranking title since he became world champion - a result that means China will have the top two players in the rankings for the first time.",
+        "publishedAt": "2026-10-04T15:42:24.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "I clawed my way to the top but need a break - Azpilicueta",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq0kl0yy3r0po?at_medium=RSS&at_campaign=rss",
+        "title": "Dominant Verstappen & superb Hamilton recovery - driver ratings",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqkgjnrjr3l5o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Cesar Azpilicueta says it is time to move to \"a different stage of life\" following a glorious 20-year playing career, notably captaining Chelsea to several titles.",
-        "publishedAt": "2026-10-04T06:15:35.000Z",
+        "description": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Bahrain Grand Prix in Malaysia.",
+        "publishedAt": "2026-10-04T13:36:42.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,6 +2579,17 @@
   "sports_au": {
     "articles": [
       {
+        "title": "Hamilton bemused after glitch turns F1 into 'Lego race'",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cwg7x820k9xjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Max Verstappen and Lewis Hamilton liken the effects of a software bug that affected multiple cars before the Bahrain Grand Prix in Malaysia to a \"Lego race\".",
+        "publishedAt": "2026-10-04T16:58:56.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Verstappen wins in Malaysia after long delays as Russell retires",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/c5n49zx3zlvwo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2590,46 +2601,35 @@
         "zone": "au"
       },
       {
-        "title": "Dominant Verstappen & superb Hamilton recovery - driver ratings",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqkgjnrjr3l5o?at_medium=RSS&at_campaign=rss",
+        "title": "World No. 979 Stewart's dilemma after finishing fourth at Alfred Dunhill Links",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c6pwg5z9982zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Bahrain Grand Prix in Malaysia.",
-        "publishedAt": "2026-10-04T13:36:42.000Z",
+        "description": "Scotland's Michael Stewart has a choice to make after securing his best finish at a DP World Tour event.",
+        "publishedAt": "2026-10-04T17:55:17.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Djokovic beats Zverev to reach China Open semis",
+        "title": "Evans ends Britain's 25-year wait for WRC champion",
+        "url": "https://www.bbc.co.uk/sport/motorsport/articles/cmd6dq5gyw7xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Five-time runner-up Elfyn Evans is world champion for the first time after rival Oliver Solberg crashes in the final moments of Rally Italia Sardegna.",
+        "publishedAt": "2026-10-04T13:46:49.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "‘Moments I still play for’ - Djokovic battles past world number two Zverev",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c8kge0d95dzno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open.",
         "publishedAt": "2026-10-04T14:47:14.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
-        "publishedAt": "2026-10-03T21:07:59.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Bowie seizing Scotland shot after World Cup disappointment",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5djvw4n8vp8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Scotland speaks to Kieron Bowie after he scores his first goal for his country against North Macedonia.",
-        "publishedAt": "2026-10-04T07:59:10.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2645,24 +2645,24 @@
         "zone": "au"
       },
       {
-        "title": "Evans claims dramatic WRC title after Solberg crash",
-        "url": "https://www.bbc.co.uk/sport/motorsport/articles/cmd6dq5gyw7xo?at_medium=RSS&at_campaign=rss",
+        "title": "Wu wins first title since Crucible as Chinese snooker hits new high",
+        "url": "https://www.bbc.co.uk/sport/snooker/articles/cq4g1l0gxl44o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Five-time runner-up Elfyn Evans is world champion for the first time after rival Oliver Solberg crashes in the final moments of Rally Italia Sardegna.",
-        "publishedAt": "2026-10-04T13:46:49.000Z",
+        "description": "Wu Yize claims his first ranking title since he became world champion - a result that means China will have the top two players in the rankings for the first time.",
+        "publishedAt": "2026-10-04T15:42:24.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "I clawed my way to the top but need a break - Azpilicueta",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq0kl0yy3r0po?at_medium=RSS&at_campaign=rss",
+        "title": "Dominant Verstappen & superb Hamilton recovery - driver ratings",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqkgjnrjr3l5o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Cesar Azpilicueta says it is time to move to \"a different stage of life\" following a glorious 20-year playing career, notably captaining Chelsea to several titles.",
-        "publishedAt": "2026-10-04T06:15:35.000Z",
+        "description": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Bahrain Grand Prix in Malaysia.",
+        "publishedAt": "2026-10-04T13:36:42.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,6 +2671,17 @@
   "sports_ca": {
     "articles": [
       {
+        "title": "Hamilton bemused after glitch turns F1 into 'Lego race'",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cwg7x820k9xjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Max Verstappen and Lewis Hamilton liken the effects of a software bug that affected multiple cars before the Bahrain Grand Prix in Malaysia to a \"Lego race\".",
+        "publishedAt": "2026-10-04T16:58:56.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Verstappen wins in Malaysia after long delays as Russell retires",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/c5n49zx3zlvwo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2682,46 +2693,35 @@
         "zone": "ca"
       },
       {
-        "title": "Dominant Verstappen & superb Hamilton recovery - driver ratings",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqkgjnrjr3l5o?at_medium=RSS&at_campaign=rss",
+        "title": "World No. 979 Stewart's dilemma after finishing fourth at Alfred Dunhill Links",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c6pwg5z9982zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Bahrain Grand Prix in Malaysia.",
-        "publishedAt": "2026-10-04T13:36:42.000Z",
+        "description": "Scotland's Michael Stewart has a choice to make after securing his best finish at a DP World Tour event.",
+        "publishedAt": "2026-10-04T17:55:17.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Djokovic beats Zverev to reach China Open semis",
+        "title": "Evans ends Britain's 25-year wait for WRC champion",
+        "url": "https://www.bbc.co.uk/sport/motorsport/articles/cmd6dq5gyw7xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Five-time runner-up Elfyn Evans is world champion for the first time after rival Oliver Solberg crashes in the final moments of Rally Italia Sardegna.",
+        "publishedAt": "2026-10-04T13:46:49.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "‘Moments I still play for’ - Djokovic battles past world number two Zverev",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c8kge0d95dzno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open.",
         "publishedAt": "2026-10-04T14:47:14.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
-        "publishedAt": "2026-10-03T21:07:59.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Bowie seizing Scotland shot after World Cup disappointment",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5djvw4n8vp8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Scotland speaks to Kieron Bowie after he scores his first goal for his country against North Macedonia.",
-        "publishedAt": "2026-10-04T07:59:10.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2737,24 +2737,24 @@
         "zone": "ca"
       },
       {
-        "title": "Evans claims dramatic WRC title after Solberg crash",
-        "url": "https://www.bbc.co.uk/sport/motorsport/articles/cmd6dq5gyw7xo?at_medium=RSS&at_campaign=rss",
+        "title": "Wu wins first title since Crucible as Chinese snooker hits new high",
+        "url": "https://www.bbc.co.uk/sport/snooker/articles/cq4g1l0gxl44o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Five-time runner-up Elfyn Evans is world champion for the first time after rival Oliver Solberg crashes in the final moments of Rally Italia Sardegna.",
-        "publishedAt": "2026-10-04T13:46:49.000Z",
+        "description": "Wu Yize claims his first ranking title since he became world champion - a result that means China will have the top two players in the rankings for the first time.",
+        "publishedAt": "2026-10-04T15:42:24.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "I clawed my way to the top but need a break - Azpilicueta",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq0kl0yy3r0po?at_medium=RSS&at_campaign=rss",
+        "title": "Dominant Verstappen & superb Hamilton recovery - driver ratings",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqkgjnrjr3l5o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Cesar Azpilicueta says it is time to move to \"a different stage of life\" following a glorious 20-year playing career, notably captaining Chelsea to several titles.",
-        "publishedAt": "2026-10-04T06:15:35.000Z",
+        "description": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Bahrain Grand Prix in Malaysia.",
+        "publishedAt": "2026-10-04T13:36:42.000Z",
         "category": "sports",
         "zone": "ca"
       }
