@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-10-04T04:49:42.874Z",
+  "generatedAt": "2026-10-04T10:59:01.785Z",
   "general_us": {
     "articles": [
+      {
+        "title": "Badenoch unveils plan to end £100,000 childcare 'cliff edge' ahead of Tory conference",
+        "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Conservative leader tells the BBC the earnings threshold for government support stops people \"working harder\".",
+        "publishedAt": "2026-10-04T10:14:45.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "Burnham scraps controversial plans to curb jury trials",
         "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
@@ -14,13 +25,35 @@
         "zone": "us"
       },
       {
-        "title": "Tories pledge to remove £100,000 childcare 'cliff edge'",
-        "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+        "title": "Australia investigating Flydubai co-pilot's links to country",
+        "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so.",
-        "publishedAt": "2026-10-03T21:03:22.000Z",
+        "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+        "publishedAt": "2026-10-04T06:19:17.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Glastonbury 2027 tickets sell out in 42 minutes",
+        "url": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
+        "publishedAt": "2026-10-04T10:52:54.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+        "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Unverified video shows a drone hitting the Northern Bridge as vehicles move across it, creating a large fireball.",
+        "publishedAt": "2026-10-04T10:11:32.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -36,24 +69,13 @@
         "zone": "us"
       },
       {
-        "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-        "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+        "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-        "publishedAt": "2026-10-03T14:27:33.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Man shot dead as families gather for memorial in London",
-        "url": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The 40-year-old died at the scene in west London from a gunshot wound, the Met Police said.",
-        "publishedAt": "2026-10-03T20:42:05.000Z",
+        "description": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
+        "publishedAt": "2026-10-03T21:07:59.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -65,28 +87,6 @@
         },
         "description": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
         "publishedAt": "2026-10-04T01:31:32.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "When parenting advice becomes too much",
-        "url": "https://www.bbc.co.uk/news/articles/cv4g5267jk8yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Many parents feel overwhelmed by the amount of parenting information available",
-        "publishedAt": "2026-10-04T01:24:05.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Why Canada is preparing for a (long shot) US invasion",
-        "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
-        "publishedAt": "2026-10-03T23:30:06.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,6 +95,17 @@
   "general_gb": {
     "articles": [
       {
+        "title": "Badenoch unveils plan to end £100,000 childcare 'cliff edge' ahead of Tory conference",
+        "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Conservative leader tells the BBC the earnings threshold for government support stops people \"working harder\".",
+        "publishedAt": "2026-10-04T10:14:45.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Burnham scraps controversial plans to curb jury trials",
         "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -106,13 +117,35 @@
         "zone": "gb"
       },
       {
-        "title": "Tories pledge to remove £100,000 childcare 'cliff edge'",
-        "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+        "title": "Australia investigating Flydubai co-pilot's links to country",
+        "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so.",
-        "publishedAt": "2026-10-03T21:03:22.000Z",
+        "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+        "publishedAt": "2026-10-04T06:19:17.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Glastonbury 2027 tickets sell out in 42 minutes",
+        "url": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
+        "publishedAt": "2026-10-04T10:52:54.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+        "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Unverified video shows a drone hitting the Northern Bridge as vehicles move across it, creating a large fireball.",
+        "publishedAt": "2026-10-04T10:11:32.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -128,24 +161,13 @@
         "zone": "gb"
       },
       {
-        "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-        "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+        "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-        "publishedAt": "2026-10-03T14:27:33.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Man shot dead as families gather for memorial in London",
-        "url": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The 40-year-old died at the scene in west London from a gunshot wound, the Met Police said.",
-        "publishedAt": "2026-10-03T20:42:05.000Z",
+        "description": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
+        "publishedAt": "2026-10-03T21:07:59.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -157,28 +179,6 @@
         },
         "description": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
         "publishedAt": "2026-10-04T01:31:32.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "When parenting advice becomes too much",
-        "url": "https://www.bbc.co.uk/news/articles/cv4g5267jk8yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Many parents feel overwhelmed by the amount of parenting information available",
-        "publishedAt": "2026-10-04T01:24:05.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Why Canada is preparing for a (long shot) US invasion",
-        "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
-        "publishedAt": "2026-10-03T23:30:06.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,6 +187,17 @@
   "general_in": {
     "articles": [
       {
+        "title": "Badenoch unveils plan to end £100,000 childcare 'cliff edge' ahead of Tory conference",
+        "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Conservative leader tells the BBC the earnings threshold for government support stops people \"working harder\".",
+        "publishedAt": "2026-10-04T10:14:45.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Burnham scraps controversial plans to curb jury trials",
         "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -198,13 +209,35 @@
         "zone": "in"
       },
       {
-        "title": "Tories pledge to remove £100,000 childcare 'cliff edge'",
-        "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+        "title": "Australia investigating Flydubai co-pilot's links to country",
+        "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so.",
-        "publishedAt": "2026-10-03T21:03:22.000Z",
+        "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+        "publishedAt": "2026-10-04T06:19:17.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Glastonbury 2027 tickets sell out in 42 minutes",
+        "url": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
+        "publishedAt": "2026-10-04T10:52:54.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+        "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Unverified video shows a drone hitting the Northern Bridge as vehicles move across it, creating a large fireball.",
+        "publishedAt": "2026-10-04T10:11:32.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -220,24 +253,13 @@
         "zone": "in"
       },
       {
-        "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-        "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+        "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-        "publishedAt": "2026-10-03T14:27:33.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Man shot dead as families gather for memorial in London",
-        "url": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The 40-year-old died at the scene in west London from a gunshot wound, the Met Police said.",
-        "publishedAt": "2026-10-03T20:42:05.000Z",
+        "description": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
+        "publishedAt": "2026-10-03T21:07:59.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -249,28 +271,6 @@
         },
         "description": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
         "publishedAt": "2026-10-04T01:31:32.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "When parenting advice becomes too much",
-        "url": "https://www.bbc.co.uk/news/articles/cv4g5267jk8yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Many parents feel overwhelmed by the amount of parenting information available",
-        "publishedAt": "2026-10-04T01:24:05.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Why Canada is preparing for a (long shot) US invasion",
-        "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
-        "publishedAt": "2026-10-03T23:30:06.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,6 +279,17 @@
   "general_au": {
     "articles": [
       {
+        "title": "Badenoch unveils plan to end £100,000 childcare 'cliff edge' ahead of Tory conference",
+        "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Conservative leader tells the BBC the earnings threshold for government support stops people \"working harder\".",
+        "publishedAt": "2026-10-04T10:14:45.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Burnham scraps controversial plans to curb jury trials",
         "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -290,13 +301,35 @@
         "zone": "au"
       },
       {
-        "title": "Tories pledge to remove £100,000 childcare 'cliff edge'",
-        "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+        "title": "Australia investigating Flydubai co-pilot's links to country",
+        "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so.",
-        "publishedAt": "2026-10-03T21:03:22.000Z",
+        "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+        "publishedAt": "2026-10-04T06:19:17.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Glastonbury 2027 tickets sell out in 42 minutes",
+        "url": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
+        "publishedAt": "2026-10-04T10:52:54.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+        "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Unverified video shows a drone hitting the Northern Bridge as vehicles move across it, creating a large fireball.",
+        "publishedAt": "2026-10-04T10:11:32.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -312,24 +345,13 @@
         "zone": "au"
       },
       {
-        "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-        "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+        "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-        "publishedAt": "2026-10-03T14:27:33.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Man shot dead as families gather for memorial in London",
-        "url": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The 40-year-old died at the scene in west London from a gunshot wound, the Met Police said.",
-        "publishedAt": "2026-10-03T20:42:05.000Z",
+        "description": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
+        "publishedAt": "2026-10-03T21:07:59.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -341,28 +363,6 @@
         },
         "description": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
         "publishedAt": "2026-10-04T01:31:32.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "When parenting advice becomes too much",
-        "url": "https://www.bbc.co.uk/news/articles/cv4g5267jk8yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Many parents feel overwhelmed by the amount of parenting information available",
-        "publishedAt": "2026-10-04T01:24:05.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Why Canada is preparing for a (long shot) US invasion",
-        "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
-        "publishedAt": "2026-10-03T23:30:06.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,6 +371,17 @@
   "general_ca": {
     "articles": [
       {
+        "title": "Badenoch unveils plan to end £100,000 childcare 'cliff edge' ahead of Tory conference",
+        "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Conservative leader tells the BBC the earnings threshold for government support stops people \"working harder\".",
+        "publishedAt": "2026-10-04T10:14:45.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Burnham scraps controversial plans to curb jury trials",
         "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -382,13 +393,35 @@
         "zone": "ca"
       },
       {
-        "title": "Tories pledge to remove £100,000 childcare 'cliff edge'",
-        "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+        "title": "Australia investigating Flydubai co-pilot's links to country",
+        "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so.",
-        "publishedAt": "2026-10-03T21:03:22.000Z",
+        "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+        "publishedAt": "2026-10-04T06:19:17.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Glastonbury 2027 tickets sell out in 42 minutes",
+        "url": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
+        "publishedAt": "2026-10-04T10:52:54.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+        "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Unverified video shows a drone hitting the Northern Bridge as vehicles move across it, creating a large fireball.",
+        "publishedAt": "2026-10-04T10:11:32.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -404,24 +437,13 @@
         "zone": "ca"
       },
       {
-        "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-        "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+        "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-        "publishedAt": "2026-10-03T14:27:33.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Man shot dead as families gather for memorial in London",
-        "url": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The 40-year-old died at the scene in west London from a gunshot wound, the Met Police said.",
-        "publishedAt": "2026-10-03T20:42:05.000Z",
+        "description": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
+        "publishedAt": "2026-10-03T21:07:59.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -433,28 +455,6 @@
         },
         "description": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
         "publishedAt": "2026-10-04T01:31:32.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "When parenting advice becomes too much",
-        "url": "https://www.bbc.co.uk/news/articles/cv4g5267jk8yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Many parents feel overwhelmed by the amount of parenting information available",
-        "publishedAt": "2026-10-04T01:24:05.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Why Canada is preparing for a (long shot) US invasion",
-        "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
-        "publishedAt": "2026-10-03T23:30:06.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -923,6 +923,17 @@
   "entertainment_us": {
     "articles": [
       {
+        "title": "Glastonbury 2027 tickets sell out in 42 minutes",
+        "url": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
+        "publishedAt": "2026-10-04T10:52:54.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
         "title": "The Celebrity Traitors connections that might surprise you",
         "url": "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -930,17 +941,6 @@
         },
         "description": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
         "publishedAt": "2026-10-04T01:31:32.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
-        "url": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes.",
-        "publishedAt": "2026-10-03T11:07:52.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -956,6 +956,17 @@
         "zone": "us"
       },
       {
+        "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
+        "url": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes.",
+        "publishedAt": "2026-10-03T11:07:52.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
         "title": "Spoiler alert! Is social media ruining big gig surprises?",
         "url": "https://www.bbc.co.uk/news/articles/cq62j2l2lx4lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -967,24 +978,24 @@
         "zone": "us"
       },
       {
-        "title": "Olivia Dean accused of copying Bill Withers' Just The Two of Us",
-        "url": "https://www.bbc.co.uk/news/articles/c933k3gk72x6o?at_medium=RSS&at_campaign=rss",
+        "title": "The Kent village that helped shape Audrey Hepburn",
+        "url": "https://www.bbc.co.uk/news/articles/cq8jzll3w4lvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The star's record label is sued over similarities between her song I've Seen It and Withers' classic.",
-        "publishedAt": "2026-10-02T09:51:23.000Z",
+        "description": "Audrey Hepburn spent three years in Elham before the outbreak of World War Two.",
+        "publishedAt": "2026-10-04T06:08:22.000Z",
         "category": "entertainment",
         "zone": "us"
       },
       {
-        "title": "K-pop giants Stray Kids join BTS in boycotting the Grammys",
-        "url": "https://www.bbc.co.uk/news/articles/c5398kkx27ewo?at_medium=RSS&at_campaign=rss",
+        "title": "Craig Charles' tribute to 'city that shaped me'",
+        "url": "https://www.bbc.co.uk/news/articles/c8ly40r9v95no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Stray Kids become the second major act to withdraw from the Grammys over the new best Asian Pop award.",
-        "publishedAt": "2026-10-02T12:28:59.000Z",
+        "description": "Presenter Craig Charles marks 50 years of poetry with a tribute to Liverpool for National Poetry Day.",
+        "publishedAt": "2026-10-04T06:37:50.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -996,17 +1007,6 @@
         },
         "description": "The instrument was one of a number of items which belonged to a former Oasis sound engineer.",
         "publishedAt": "2026-10-03T14:45:05.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Film festival celebrates British-Latino identity",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly7mgm0rd9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Latino film festival in the capital will screen 60 films from 27 countries over five days.",
-        "publishedAt": "2026-10-03T10:53:48.000Z",
         "category": "entertainment",
         "zone": "us"
       }
@@ -1015,6 +1015,17 @@
   "entertainment_gb": {
     "articles": [
       {
+        "title": "Glastonbury 2027 tickets sell out in 42 minutes",
+        "url": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
+        "publishedAt": "2026-10-04T10:52:54.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
         "title": "The Celebrity Traitors connections that might surprise you",
         "url": "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1022,17 +1033,6 @@
         },
         "description": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
         "publishedAt": "2026-10-04T01:31:32.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
-        "url": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes.",
-        "publishedAt": "2026-10-03T11:07:52.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1048,6 +1048,17 @@
         "zone": "gb"
       },
       {
+        "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
+        "url": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes.",
+        "publishedAt": "2026-10-03T11:07:52.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
         "title": "Spoiler alert! Is social media ruining big gig surprises?",
         "url": "https://www.bbc.co.uk/news/articles/cq62j2l2lx4lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1059,24 +1070,24 @@
         "zone": "gb"
       },
       {
-        "title": "Olivia Dean accused of copying Bill Withers' Just The Two of Us",
-        "url": "https://www.bbc.co.uk/news/articles/c933k3gk72x6o?at_medium=RSS&at_campaign=rss",
+        "title": "The Kent village that helped shape Audrey Hepburn",
+        "url": "https://www.bbc.co.uk/news/articles/cq8jzll3w4lvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The star's record label is sued over similarities between her song I've Seen It and Withers' classic.",
-        "publishedAt": "2026-10-02T09:51:23.000Z",
+        "description": "Audrey Hepburn spent three years in Elham before the outbreak of World War Two.",
+        "publishedAt": "2026-10-04T06:08:22.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
       {
-        "title": "K-pop giants Stray Kids join BTS in boycotting the Grammys",
-        "url": "https://www.bbc.co.uk/news/articles/c5398kkx27ewo?at_medium=RSS&at_campaign=rss",
+        "title": "Craig Charles' tribute to 'city that shaped me'",
+        "url": "https://www.bbc.co.uk/news/articles/c8ly40r9v95no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Stray Kids become the second major act to withdraw from the Grammys over the new best Asian Pop award.",
-        "publishedAt": "2026-10-02T12:28:59.000Z",
+        "description": "Presenter Craig Charles marks 50 years of poetry with a tribute to Liverpool for National Poetry Day.",
+        "publishedAt": "2026-10-04T06:37:50.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1088,17 +1099,6 @@
         },
         "description": "The instrument was one of a number of items which belonged to a former Oasis sound engineer.",
         "publishedAt": "2026-10-03T14:45:05.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Film festival celebrates British-Latino identity",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly7mgm0rd9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Latino film festival in the capital will screen 60 films from 27 countries over five days.",
-        "publishedAt": "2026-10-03T10:53:48.000Z",
         "category": "entertainment",
         "zone": "gb"
       }
@@ -1107,6 +1107,17 @@
   "entertainment_in": {
     "articles": [
       {
+        "title": "Glastonbury 2027 tickets sell out in 42 minutes",
+        "url": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
+        "publishedAt": "2026-10-04T10:52:54.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
         "title": "The Celebrity Traitors connections that might surprise you",
         "url": "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1114,17 +1125,6 @@
         },
         "description": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
         "publishedAt": "2026-10-04T01:31:32.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
-        "url": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes.",
-        "publishedAt": "2026-10-03T11:07:52.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1140,6 +1140,17 @@
         "zone": "in"
       },
       {
+        "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
+        "url": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes.",
+        "publishedAt": "2026-10-03T11:07:52.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
         "title": "Spoiler alert! Is social media ruining big gig surprises?",
         "url": "https://www.bbc.co.uk/news/articles/cq62j2l2lx4lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1151,24 +1162,24 @@
         "zone": "in"
       },
       {
-        "title": "Olivia Dean accused of copying Bill Withers' Just The Two of Us",
-        "url": "https://www.bbc.co.uk/news/articles/c933k3gk72x6o?at_medium=RSS&at_campaign=rss",
+        "title": "The Kent village that helped shape Audrey Hepburn",
+        "url": "https://www.bbc.co.uk/news/articles/cq8jzll3w4lvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The star's record label is sued over similarities between her song I've Seen It and Withers' classic.",
-        "publishedAt": "2026-10-02T09:51:23.000Z",
+        "description": "Audrey Hepburn spent three years in Elham before the outbreak of World War Two.",
+        "publishedAt": "2026-10-04T06:08:22.000Z",
         "category": "entertainment",
         "zone": "in"
       },
       {
-        "title": "K-pop giants Stray Kids join BTS in boycotting the Grammys",
-        "url": "https://www.bbc.co.uk/news/articles/c5398kkx27ewo?at_medium=RSS&at_campaign=rss",
+        "title": "Craig Charles' tribute to 'city that shaped me'",
+        "url": "https://www.bbc.co.uk/news/articles/c8ly40r9v95no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Stray Kids become the second major act to withdraw from the Grammys over the new best Asian Pop award.",
-        "publishedAt": "2026-10-02T12:28:59.000Z",
+        "description": "Presenter Craig Charles marks 50 years of poetry with a tribute to Liverpool for National Poetry Day.",
+        "publishedAt": "2026-10-04T06:37:50.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1180,17 +1191,6 @@
         },
         "description": "The instrument was one of a number of items which belonged to a former Oasis sound engineer.",
         "publishedAt": "2026-10-03T14:45:05.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Film festival celebrates British-Latino identity",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly7mgm0rd9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Latino film festival in the capital will screen 60 films from 27 countries over five days.",
-        "publishedAt": "2026-10-03T10:53:48.000Z",
         "category": "entertainment",
         "zone": "in"
       }
@@ -1199,6 +1199,17 @@
   "entertainment_au": {
     "articles": [
       {
+        "title": "Glastonbury 2027 tickets sell out in 42 minutes",
+        "url": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
+        "publishedAt": "2026-10-04T10:52:54.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
         "title": "The Celebrity Traitors connections that might surprise you",
         "url": "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1206,17 +1217,6 @@
         },
         "description": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
         "publishedAt": "2026-10-04T01:31:32.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
-        "url": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes.",
-        "publishedAt": "2026-10-03T11:07:52.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1232,6 +1232,17 @@
         "zone": "au"
       },
       {
+        "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
+        "url": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes.",
+        "publishedAt": "2026-10-03T11:07:52.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
         "title": "Spoiler alert! Is social media ruining big gig surprises?",
         "url": "https://www.bbc.co.uk/news/articles/cq62j2l2lx4lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1243,24 +1254,24 @@
         "zone": "au"
       },
       {
-        "title": "Olivia Dean accused of copying Bill Withers' Just The Two of Us",
-        "url": "https://www.bbc.co.uk/news/articles/c933k3gk72x6o?at_medium=RSS&at_campaign=rss",
+        "title": "The Kent village that helped shape Audrey Hepburn",
+        "url": "https://www.bbc.co.uk/news/articles/cq8jzll3w4lvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The star's record label is sued over similarities between her song I've Seen It and Withers' classic.",
-        "publishedAt": "2026-10-02T09:51:23.000Z",
+        "description": "Audrey Hepburn spent three years in Elham before the outbreak of World War Two.",
+        "publishedAt": "2026-10-04T06:08:22.000Z",
         "category": "entertainment",
         "zone": "au"
       },
       {
-        "title": "K-pop giants Stray Kids join BTS in boycotting the Grammys",
-        "url": "https://www.bbc.co.uk/news/articles/c5398kkx27ewo?at_medium=RSS&at_campaign=rss",
+        "title": "Craig Charles' tribute to 'city that shaped me'",
+        "url": "https://www.bbc.co.uk/news/articles/c8ly40r9v95no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Stray Kids become the second major act to withdraw from the Grammys over the new best Asian Pop award.",
-        "publishedAt": "2026-10-02T12:28:59.000Z",
+        "description": "Presenter Craig Charles marks 50 years of poetry with a tribute to Liverpool for National Poetry Day.",
+        "publishedAt": "2026-10-04T06:37:50.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1272,17 +1283,6 @@
         },
         "description": "The instrument was one of a number of items which belonged to a former Oasis sound engineer.",
         "publishedAt": "2026-10-03T14:45:05.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Film festival celebrates British-Latino identity",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly7mgm0rd9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Latino film festival in the capital will screen 60 films from 27 countries over five days.",
-        "publishedAt": "2026-10-03T10:53:48.000Z",
         "category": "entertainment",
         "zone": "au"
       }
@@ -1291,6 +1291,17 @@
   "entertainment_ca": {
     "articles": [
       {
+        "title": "Glastonbury 2027 tickets sell out in 42 minutes",
+        "url": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
+        "publishedAt": "2026-10-04T10:52:54.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
         "title": "The Celebrity Traitors connections that might surprise you",
         "url": "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1298,17 +1309,6 @@
         },
         "description": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
         "publishedAt": "2026-10-04T01:31:32.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
-        "url": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes.",
-        "publishedAt": "2026-10-03T11:07:52.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1324,6 +1324,17 @@
         "zone": "ca"
       },
       {
+        "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
+        "url": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes.",
+        "publishedAt": "2026-10-03T11:07:52.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
         "title": "Spoiler alert! Is social media ruining big gig surprises?",
         "url": "https://www.bbc.co.uk/news/articles/cq62j2l2lx4lo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1335,24 +1346,24 @@
         "zone": "ca"
       },
       {
-        "title": "Olivia Dean accused of copying Bill Withers' Just The Two of Us",
-        "url": "https://www.bbc.co.uk/news/articles/c933k3gk72x6o?at_medium=RSS&at_campaign=rss",
+        "title": "The Kent village that helped shape Audrey Hepburn",
+        "url": "https://www.bbc.co.uk/news/articles/cq8jzll3w4lvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The star's record label is sued over similarities between her song I've Seen It and Withers' classic.",
-        "publishedAt": "2026-10-02T09:51:23.000Z",
+        "description": "Audrey Hepburn spent three years in Elham before the outbreak of World War Two.",
+        "publishedAt": "2026-10-04T06:08:22.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
       {
-        "title": "K-pop giants Stray Kids join BTS in boycotting the Grammys",
-        "url": "https://www.bbc.co.uk/news/articles/c5398kkx27ewo?at_medium=RSS&at_campaign=rss",
+        "title": "Craig Charles' tribute to 'city that shaped me'",
+        "url": "https://www.bbc.co.uk/news/articles/c8ly40r9v95no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Stray Kids become the second major act to withdraw from the Grammys over the new best Asian Pop award.",
-        "publishedAt": "2026-10-02T12:28:59.000Z",
+        "description": "Presenter Craig Charles marks 50 years of poetry with a tribute to Liverpool for National Poetry Day.",
+        "publishedAt": "2026-10-04T06:37:50.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1364,17 +1375,6 @@
         },
         "description": "The instrument was one of a number of items which belonged to a former Oasis sound engineer.",
         "publishedAt": "2026-10-03T14:45:05.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Film festival celebrates British-Latino identity",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly7mgm0rd9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Latino film festival in the capital will screen 60 films from 27 countries over five days.",
-        "publishedAt": "2026-10-03T10:53:48.000Z",
         "category": "entertainment",
         "zone": "ca"
       }
@@ -2314,79 +2314,79 @@
         "zone": "us"
       },
       {
-        "title": "Two going on four, five or six on good night for new Scotland era",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx7vp540g75mo?at_medium=RSS&at_campaign=rss",
+        "title": "Bowie seizing Scotland shot after World Cup disappointment",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5djvw4n8vp8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Scotland scored twice in North Macedonia but the scoreline does not reflect their dominance in Skopje, writes Tom English.",
-        "publishedAt": "2026-10-03T22:22:18.000Z",
+        "description": "BBC Scotland speaks to Kieron Bowie after he scores his first goal for his country against North Macedonia.",
+        "publishedAt": "2026-10-04T07:59:10.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Wakefield beat Warrington to win Super League",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c39w4w7pzqv4o?at_medium=RSS&at_campaign=rss",
+        "title": "'An unbelievable story' - inside unfancied Wakefield's rapid ascent",
+        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/ckpq0r02lz81o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Wakefield Trinity end a 58-year wait to be champions as they claim a deserved Grand Final success over Warrington Wolves at Old Trafford.",
-        "publishedAt": "2026-10-03T19:02:55.000Z",
+        "description": "Wakefield's stars of yesteryear are remembered in sepia but now the class of 2026 has added glorious colour to their success after winning a previously unfathomable Super League title.",
+        "publishedAt": "2026-10-03T21:39:45.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Who was the best player on the pitch? - England player ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1x8znyd0o?at_medium=RSS&at_campaign=rss",
+        "title": "Modric 'ashamed' of Croatia's 'catastrophic night'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwzrdm3lyk21o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England produce one of their best performances in recent times as they thump Croatia 6-0 in Rijeka. How did our report rate the players' performances?",
-        "publishedAt": "2026-10-03T17:58:13.000Z",
+        "description": "Croatia captain Luka Modric says he was \"ashamed\" of his side's performance on a \"catastrophic night\" against England.",
+        "publishedAt": "2026-10-04T10:35:47.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "'Incredible' Red Bull upgrade enlivens F1 in Malaysia",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c5vgj31224kmo?at_medium=RSS&at_campaign=rss",
+        "title": "I clawed my way to the top but need a break - Azpilicueta",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq0kl0yy3r0po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Even Lewis Hamilton fears Max Verstappen will be tough to beat in Sunday's Bahrain Grand Prix in Malaysia.",
-        "publishedAt": "2026-10-03T12:25:57.000Z",
+        "description": "Cesar Azpilicueta says it is time to move to \"a different stage of life\" following a glorious 20-year playing career, notably captaining Chelsea to several titles.",
+        "publishedAt": "2026-10-04T06:15:35.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Leicester hold off Newcastle for first Prem win",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy9z7dxdvv0o?at_medium=RSS&at_campaign=rss",
+        "title": "Sabalenka stunned by Bartunkova at China Open",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c64g155j534vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Leicester Tigers pick up their first win of the season with a tense and hard-fought victory at Newcastle Red Bulls in the Prem.",
-        "publishedAt": "2026-10-03T20:46:08.000Z",
+        "description": "World number two Aryna Sabalenka follows Elena Rybakina out the door at the China Open as she falls to a surprise defeat by Nikola Bartunkova.",
+        "publishedAt": "2026-10-04T07:30:23.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Whittaker survives late scare to hold on for points win",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cmqxnj18d337o?at_medium=RSS&at_campaign=rss",
+        "title": "Wales aiming to prove they can thrive at top level",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmy0er2yz02yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "British light-heavyweight Ben Whittaker survives a dramatic late onslaught from Conor Wallace to move a step closer to a world-title shot with a points victory in Birmingham.",
-        "publishedAt": "2026-10-03T22:59:50.000Z",
+        "description": "Captain Ben Davies says Wales will be driven by determination to prove they can live with challenges of Nations League A when they face Denmark in Cardiff.",
+        "publishedAt": "2026-10-04T03:40:55.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Humphries to face Price in World Grand Prix final",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/cvde8y5w9dkxo?at_medium=RSS&at_campaign=rss",
+        "title": "'New queen' Silva beats Wang to UFC flyweight title",
+        "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c670pzzzxgzeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "World number two Luke Humphries clinched his spot in the final of the World Grand Prix with a 5-3 victory over James Wade where he will face Gerwyn Price after his 5-2 win over Nathan Aspinall.",
-        "publishedAt": "2026-10-03T23:19:17.000Z",
+        "description": "Natalia Silva is crowned the new women's flyweight champion with a unanimous decision victory over China's Wang Cong at UFC 332.",
+        "publishedAt": "2026-10-04T06:57:08.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2406,79 +2406,79 @@
         "zone": "gb"
       },
       {
-        "title": "Two going on four, five or six on good night for new Scotland era",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx7vp540g75mo?at_medium=RSS&at_campaign=rss",
+        "title": "Bowie seizing Scotland shot after World Cup disappointment",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5djvw4n8vp8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Scotland scored twice in North Macedonia but the scoreline does not reflect their dominance in Skopje, writes Tom English.",
-        "publishedAt": "2026-10-03T22:22:18.000Z",
+        "description": "BBC Scotland speaks to Kieron Bowie after he scores his first goal for his country against North Macedonia.",
+        "publishedAt": "2026-10-04T07:59:10.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Wakefield beat Warrington to win Super League",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c39w4w7pzqv4o?at_medium=RSS&at_campaign=rss",
+        "title": "'An unbelievable story' - inside unfancied Wakefield's rapid ascent",
+        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/ckpq0r02lz81o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Wakefield Trinity end a 58-year wait to be champions as they claim a deserved Grand Final success over Warrington Wolves at Old Trafford.",
-        "publishedAt": "2026-10-03T19:02:55.000Z",
+        "description": "Wakefield's stars of yesteryear are remembered in sepia but now the class of 2026 has added glorious colour to their success after winning a previously unfathomable Super League title.",
+        "publishedAt": "2026-10-03T21:39:45.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Who was the best player on the pitch? - England player ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1x8znyd0o?at_medium=RSS&at_campaign=rss",
+        "title": "Modric 'ashamed' of Croatia's 'catastrophic night'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwzrdm3lyk21o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England produce one of their best performances in recent times as they thump Croatia 6-0 in Rijeka. How did our report rate the players' performances?",
-        "publishedAt": "2026-10-03T17:58:13.000Z",
+        "description": "Croatia captain Luka Modric says he was \"ashamed\" of his side's performance on a \"catastrophic night\" against England.",
+        "publishedAt": "2026-10-04T10:35:47.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "'Incredible' Red Bull upgrade enlivens F1 in Malaysia",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c5vgj31224kmo?at_medium=RSS&at_campaign=rss",
+        "title": "I clawed my way to the top but need a break - Azpilicueta",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq0kl0yy3r0po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Even Lewis Hamilton fears Max Verstappen will be tough to beat in Sunday's Bahrain Grand Prix in Malaysia.",
-        "publishedAt": "2026-10-03T12:25:57.000Z",
+        "description": "Cesar Azpilicueta says it is time to move to \"a different stage of life\" following a glorious 20-year playing career, notably captaining Chelsea to several titles.",
+        "publishedAt": "2026-10-04T06:15:35.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Leicester hold off Newcastle for first Prem win",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy9z7dxdvv0o?at_medium=RSS&at_campaign=rss",
+        "title": "Sabalenka stunned by Bartunkova at China Open",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c64g155j534vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Leicester Tigers pick up their first win of the season with a tense and hard-fought victory at Newcastle Red Bulls in the Prem.",
-        "publishedAt": "2026-10-03T20:46:08.000Z",
+        "description": "World number two Aryna Sabalenka follows Elena Rybakina out the door at the China Open as she falls to a surprise defeat by Nikola Bartunkova.",
+        "publishedAt": "2026-10-04T07:30:23.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Whittaker survives late scare to hold on for points win",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cmqxnj18d337o?at_medium=RSS&at_campaign=rss",
+        "title": "Wales aiming to prove they can thrive at top level",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmy0er2yz02yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "British light-heavyweight Ben Whittaker survives a dramatic late onslaught from Conor Wallace to move a step closer to a world-title shot with a points victory in Birmingham.",
-        "publishedAt": "2026-10-03T22:59:50.000Z",
+        "description": "Captain Ben Davies says Wales will be driven by determination to prove they can live with challenges of Nations League A when they face Denmark in Cardiff.",
+        "publishedAt": "2026-10-04T03:40:55.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Humphries to face Price in World Grand Prix final",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/cvde8y5w9dkxo?at_medium=RSS&at_campaign=rss",
+        "title": "'New queen' Silva beats Wang to UFC flyweight title",
+        "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c670pzzzxgzeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "World number two Luke Humphries clinched his spot in the final of the World Grand Prix with a 5-3 victory over James Wade where he will face Gerwyn Price after his 5-2 win over Nathan Aspinall.",
-        "publishedAt": "2026-10-03T23:19:17.000Z",
+        "description": "Natalia Silva is crowned the new women's flyweight champion with a unanimous decision victory over China's Wang Cong at UFC 332.",
+        "publishedAt": "2026-10-04T06:57:08.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2498,79 +2498,79 @@
         "zone": "in"
       },
       {
-        "title": "Two going on four, five or six on good night for new Scotland era",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx7vp540g75mo?at_medium=RSS&at_campaign=rss",
+        "title": "Bowie seizing Scotland shot after World Cup disappointment",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5djvw4n8vp8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Scotland scored twice in North Macedonia but the scoreline does not reflect their dominance in Skopje, writes Tom English.",
-        "publishedAt": "2026-10-03T22:22:18.000Z",
+        "description": "BBC Scotland speaks to Kieron Bowie after he scores his first goal for his country against North Macedonia.",
+        "publishedAt": "2026-10-04T07:59:10.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Wakefield beat Warrington to win Super League",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c39w4w7pzqv4o?at_medium=RSS&at_campaign=rss",
+        "title": "'An unbelievable story' - inside unfancied Wakefield's rapid ascent",
+        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/ckpq0r02lz81o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Wakefield Trinity end a 58-year wait to be champions as they claim a deserved Grand Final success over Warrington Wolves at Old Trafford.",
-        "publishedAt": "2026-10-03T19:02:55.000Z",
+        "description": "Wakefield's stars of yesteryear are remembered in sepia but now the class of 2026 has added glorious colour to their success after winning a previously unfathomable Super League title.",
+        "publishedAt": "2026-10-03T21:39:45.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Who was the best player on the pitch? - England player ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1x8znyd0o?at_medium=RSS&at_campaign=rss",
+        "title": "Modric 'ashamed' of Croatia's 'catastrophic night'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwzrdm3lyk21o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England produce one of their best performances in recent times as they thump Croatia 6-0 in Rijeka. How did our report rate the players' performances?",
-        "publishedAt": "2026-10-03T17:58:13.000Z",
+        "description": "Croatia captain Luka Modric says he was \"ashamed\" of his side's performance on a \"catastrophic night\" against England.",
+        "publishedAt": "2026-10-04T10:35:47.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "'Incredible' Red Bull upgrade enlivens F1 in Malaysia",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c5vgj31224kmo?at_medium=RSS&at_campaign=rss",
+        "title": "I clawed my way to the top but need a break - Azpilicueta",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq0kl0yy3r0po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Even Lewis Hamilton fears Max Verstappen will be tough to beat in Sunday's Bahrain Grand Prix in Malaysia.",
-        "publishedAt": "2026-10-03T12:25:57.000Z",
+        "description": "Cesar Azpilicueta says it is time to move to \"a different stage of life\" following a glorious 20-year playing career, notably captaining Chelsea to several titles.",
+        "publishedAt": "2026-10-04T06:15:35.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Leicester hold off Newcastle for first Prem win",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy9z7dxdvv0o?at_medium=RSS&at_campaign=rss",
+        "title": "Sabalenka stunned by Bartunkova at China Open",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c64g155j534vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Leicester Tigers pick up their first win of the season with a tense and hard-fought victory at Newcastle Red Bulls in the Prem.",
-        "publishedAt": "2026-10-03T20:46:08.000Z",
+        "description": "World number two Aryna Sabalenka follows Elena Rybakina out the door at the China Open as she falls to a surprise defeat by Nikola Bartunkova.",
+        "publishedAt": "2026-10-04T07:30:23.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Whittaker survives late scare to hold on for points win",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cmqxnj18d337o?at_medium=RSS&at_campaign=rss",
+        "title": "Wales aiming to prove they can thrive at top level",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmy0er2yz02yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "British light-heavyweight Ben Whittaker survives a dramatic late onslaught from Conor Wallace to move a step closer to a world-title shot with a points victory in Birmingham.",
-        "publishedAt": "2026-10-03T22:59:50.000Z",
+        "description": "Captain Ben Davies says Wales will be driven by determination to prove they can live with challenges of Nations League A when they face Denmark in Cardiff.",
+        "publishedAt": "2026-10-04T03:40:55.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Humphries to face Price in World Grand Prix final",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/cvde8y5w9dkxo?at_medium=RSS&at_campaign=rss",
+        "title": "'New queen' Silva beats Wang to UFC flyweight title",
+        "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c670pzzzxgzeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "World number two Luke Humphries clinched his spot in the final of the World Grand Prix with a 5-3 victory over James Wade where he will face Gerwyn Price after his 5-2 win over Nathan Aspinall.",
-        "publishedAt": "2026-10-03T23:19:17.000Z",
+        "description": "Natalia Silva is crowned the new women's flyweight champion with a unanimous decision victory over China's Wang Cong at UFC 332.",
+        "publishedAt": "2026-10-04T06:57:08.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2590,79 +2590,79 @@
         "zone": "au"
       },
       {
-        "title": "Two going on four, five or six on good night for new Scotland era",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx7vp540g75mo?at_medium=RSS&at_campaign=rss",
+        "title": "Bowie seizing Scotland shot after World Cup disappointment",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5djvw4n8vp8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Scotland scored twice in North Macedonia but the scoreline does not reflect their dominance in Skopje, writes Tom English.",
-        "publishedAt": "2026-10-03T22:22:18.000Z",
+        "description": "BBC Scotland speaks to Kieron Bowie after he scores his first goal for his country against North Macedonia.",
+        "publishedAt": "2026-10-04T07:59:10.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Wakefield beat Warrington to win Super League",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c39w4w7pzqv4o?at_medium=RSS&at_campaign=rss",
+        "title": "'An unbelievable story' - inside unfancied Wakefield's rapid ascent",
+        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/ckpq0r02lz81o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Wakefield Trinity end a 58-year wait to be champions as they claim a deserved Grand Final success over Warrington Wolves at Old Trafford.",
-        "publishedAt": "2026-10-03T19:02:55.000Z",
+        "description": "Wakefield's stars of yesteryear are remembered in sepia but now the class of 2026 has added glorious colour to their success after winning a previously unfathomable Super League title.",
+        "publishedAt": "2026-10-03T21:39:45.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Who was the best player on the pitch? - England player ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1x8znyd0o?at_medium=RSS&at_campaign=rss",
+        "title": "Modric 'ashamed' of Croatia's 'catastrophic night'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwzrdm3lyk21o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England produce one of their best performances in recent times as they thump Croatia 6-0 in Rijeka. How did our report rate the players' performances?",
-        "publishedAt": "2026-10-03T17:58:13.000Z",
+        "description": "Croatia captain Luka Modric says he was \"ashamed\" of his side's performance on a \"catastrophic night\" against England.",
+        "publishedAt": "2026-10-04T10:35:47.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "'Incredible' Red Bull upgrade enlivens F1 in Malaysia",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c5vgj31224kmo?at_medium=RSS&at_campaign=rss",
+        "title": "I clawed my way to the top but need a break - Azpilicueta",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq0kl0yy3r0po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Even Lewis Hamilton fears Max Verstappen will be tough to beat in Sunday's Bahrain Grand Prix in Malaysia.",
-        "publishedAt": "2026-10-03T12:25:57.000Z",
+        "description": "Cesar Azpilicueta says it is time to move to \"a different stage of life\" following a glorious 20-year playing career, notably captaining Chelsea to several titles.",
+        "publishedAt": "2026-10-04T06:15:35.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Leicester hold off Newcastle for first Prem win",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy9z7dxdvv0o?at_medium=RSS&at_campaign=rss",
+        "title": "Sabalenka stunned by Bartunkova at China Open",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c64g155j534vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Leicester Tigers pick up their first win of the season with a tense and hard-fought victory at Newcastle Red Bulls in the Prem.",
-        "publishedAt": "2026-10-03T20:46:08.000Z",
+        "description": "World number two Aryna Sabalenka follows Elena Rybakina out the door at the China Open as she falls to a surprise defeat by Nikola Bartunkova.",
+        "publishedAt": "2026-10-04T07:30:23.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Whittaker survives late scare to hold on for points win",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cmqxnj18d337o?at_medium=RSS&at_campaign=rss",
+        "title": "Wales aiming to prove they can thrive at top level",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmy0er2yz02yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "British light-heavyweight Ben Whittaker survives a dramatic late onslaught from Conor Wallace to move a step closer to a world-title shot with a points victory in Birmingham.",
-        "publishedAt": "2026-10-03T22:59:50.000Z",
+        "description": "Captain Ben Davies says Wales will be driven by determination to prove they can live with challenges of Nations League A when they face Denmark in Cardiff.",
+        "publishedAt": "2026-10-04T03:40:55.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Humphries to face Price in World Grand Prix final",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/cvde8y5w9dkxo?at_medium=RSS&at_campaign=rss",
+        "title": "'New queen' Silva beats Wang to UFC flyweight title",
+        "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c670pzzzxgzeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "World number two Luke Humphries clinched his spot in the final of the World Grand Prix with a 5-3 victory over James Wade where he will face Gerwyn Price after his 5-2 win over Nathan Aspinall.",
-        "publishedAt": "2026-10-03T23:19:17.000Z",
+        "description": "Natalia Silva is crowned the new women's flyweight champion with a unanimous decision victory over China's Wang Cong at UFC 332.",
+        "publishedAt": "2026-10-04T06:57:08.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2682,79 +2682,79 @@
         "zone": "ca"
       },
       {
-        "title": "Two going on four, five or six on good night for new Scotland era",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx7vp540g75mo?at_medium=RSS&at_campaign=rss",
+        "title": "Bowie seizing Scotland shot after World Cup disappointment",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5djvw4n8vp8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Scotland scored twice in North Macedonia but the scoreline does not reflect their dominance in Skopje, writes Tom English.",
-        "publishedAt": "2026-10-03T22:22:18.000Z",
+        "description": "BBC Scotland speaks to Kieron Bowie after he scores his first goal for his country against North Macedonia.",
+        "publishedAt": "2026-10-04T07:59:10.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Wakefield beat Warrington to win Super League",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c39w4w7pzqv4o?at_medium=RSS&at_campaign=rss",
+        "title": "'An unbelievable story' - inside unfancied Wakefield's rapid ascent",
+        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/ckpq0r02lz81o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Wakefield Trinity end a 58-year wait to be champions as they claim a deserved Grand Final success over Warrington Wolves at Old Trafford.",
-        "publishedAt": "2026-10-03T19:02:55.000Z",
+        "description": "Wakefield's stars of yesteryear are remembered in sepia but now the class of 2026 has added glorious colour to their success after winning a previously unfathomable Super League title.",
+        "publishedAt": "2026-10-03T21:39:45.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Who was the best player on the pitch? - England player ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1x8znyd0o?at_medium=RSS&at_campaign=rss",
+        "title": "Modric 'ashamed' of Croatia's 'catastrophic night'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwzrdm3lyk21o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England produce one of their best performances in recent times as they thump Croatia 6-0 in Rijeka. How did our report rate the players' performances?",
-        "publishedAt": "2026-10-03T17:58:13.000Z",
+        "description": "Croatia captain Luka Modric says he was \"ashamed\" of his side's performance on a \"catastrophic night\" against England.",
+        "publishedAt": "2026-10-04T10:35:47.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "'Incredible' Red Bull upgrade enlivens F1 in Malaysia",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c5vgj31224kmo?at_medium=RSS&at_campaign=rss",
+        "title": "I clawed my way to the top but need a break - Azpilicueta",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq0kl0yy3r0po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Even Lewis Hamilton fears Max Verstappen will be tough to beat in Sunday's Bahrain Grand Prix in Malaysia.",
-        "publishedAt": "2026-10-03T12:25:57.000Z",
+        "description": "Cesar Azpilicueta says it is time to move to \"a different stage of life\" following a glorious 20-year playing career, notably captaining Chelsea to several titles.",
+        "publishedAt": "2026-10-04T06:15:35.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Leicester hold off Newcastle for first Prem win",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy9z7dxdvv0o?at_medium=RSS&at_campaign=rss",
+        "title": "Sabalenka stunned by Bartunkova at China Open",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c64g155j534vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Leicester Tigers pick up their first win of the season with a tense and hard-fought victory at Newcastle Red Bulls in the Prem.",
-        "publishedAt": "2026-10-03T20:46:08.000Z",
+        "description": "World number two Aryna Sabalenka follows Elena Rybakina out the door at the China Open as she falls to a surprise defeat by Nikola Bartunkova.",
+        "publishedAt": "2026-10-04T07:30:23.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Whittaker survives late scare to hold on for points win",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cmqxnj18d337o?at_medium=RSS&at_campaign=rss",
+        "title": "Wales aiming to prove they can thrive at top level",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmy0er2yz02yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "British light-heavyweight Ben Whittaker survives a dramatic late onslaught from Conor Wallace to move a step closer to a world-title shot with a points victory in Birmingham.",
-        "publishedAt": "2026-10-03T22:59:50.000Z",
+        "description": "Captain Ben Davies says Wales will be driven by determination to prove they can live with challenges of Nations League A when they face Denmark in Cardiff.",
+        "publishedAt": "2026-10-04T03:40:55.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Humphries to face Price in World Grand Prix final",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/cvde8y5w9dkxo?at_medium=RSS&at_campaign=rss",
+        "title": "'New queen' Silva beats Wang to UFC flyweight title",
+        "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c670pzzzxgzeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "World number two Luke Humphries clinched his spot in the final of the World Grand Prix with a 5-3 victory over James Wade where he will face Gerwyn Price after his 5-2 win over Nathan Aspinall.",
-        "publishedAt": "2026-10-03T23:19:17.000Z",
+        "description": "Natalia Silva is crowned the new women's flyweight champion with a unanimous decision victory over China's Wang Cong at UFC 332.",
+        "publishedAt": "2026-10-04T06:57:08.000Z",
         "category": "sports",
         "zone": "ca"
       }
