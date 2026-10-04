@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-10-04T19:18:08.717Z",
+  "generatedAt": "2026-10-04T22:52:04.708Z",
   "general_us": {
     "articles": [
+      {
+        "title": "US removes all bombers from RAF Fairford base",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+        "publishedAt": "2026-10-04T21:57:32.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "Green Party members back 'Zionism is racism' motion",
         "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
@@ -9,7 +20,7 @@
           "name": "RSS Feed"
         },
         "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
-        "publishedAt": "2026-10-04T18:08:52.000Z",
+        "publishedAt": "2026-10-04T20:51:36.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -25,24 +36,13 @@
         "zone": "us"
       },
       {
-        "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-        "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+        "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-        "publishedAt": "2026-10-04T14:25:32.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "British Museum announces changes to ease Bayeux Tapestry queues",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors.",
-        "publishedAt": "2026-10-04T13:45:24.000Z",
+        "description": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
+        "publishedAt": "2026-10-04T21:11:49.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -69,24 +69,24 @@
         "zone": "us"
       },
       {
-        "title": "Glastonbury 2027 tickets sell out in 42 minutes",
-        "url": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
+        "title": "British Museum announces changes to ease Bayeux Tapestry queues",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
-        "publishedAt": "2026-10-04T11:24:58.000Z",
+        "description": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors.",
+        "publishedAt": "2026-10-04T13:45:24.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
-        "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
+        "title": "Protesters gather as migrants brought ashore on south coast",
+        "url": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.",
-        "publishedAt": "2026-10-04T11:19:58.000Z",
+        "description": "A dinghy was believed to be carrying 120 migrants, according to French media.",
+        "publishedAt": "2026-10-04T21:37:03.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,13 +95,24 @@
   "general_gb": {
     "articles": [
       {
+        "title": "US removes all bombers from RAF Fairford base",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+        "publishedAt": "2026-10-04T21:57:32.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Green Party members back 'Zionism is racism' motion",
         "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
-        "publishedAt": "2026-10-04T18:08:52.000Z",
+        "publishedAt": "2026-10-04T20:51:36.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -117,24 +128,13 @@
         "zone": "gb"
       },
       {
-        "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-        "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+        "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-        "publishedAt": "2026-10-04T14:25:32.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "British Museum announces changes to ease Bayeux Tapestry queues",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors.",
-        "publishedAt": "2026-10-04T13:45:24.000Z",
+        "description": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
+        "publishedAt": "2026-10-04T21:11:49.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -161,24 +161,24 @@
         "zone": "gb"
       },
       {
-        "title": "Glastonbury 2027 tickets sell out in 42 minutes",
-        "url": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
+        "title": "British Museum announces changes to ease Bayeux Tapestry queues",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
-        "publishedAt": "2026-10-04T11:24:58.000Z",
+        "description": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors.",
+        "publishedAt": "2026-10-04T13:45:24.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
-        "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
+        "title": "Protesters gather as migrants brought ashore on south coast",
+        "url": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.",
-        "publishedAt": "2026-10-04T11:19:58.000Z",
+        "description": "A dinghy was believed to be carrying 120 migrants, according to French media.",
+        "publishedAt": "2026-10-04T21:37:03.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,13 +187,24 @@
   "general_in": {
     "articles": [
       {
+        "title": "US removes all bombers from RAF Fairford base",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+        "publishedAt": "2026-10-04T21:57:32.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Green Party members back 'Zionism is racism' motion",
         "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
-        "publishedAt": "2026-10-04T18:08:52.000Z",
+        "publishedAt": "2026-10-04T20:51:36.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -209,24 +220,13 @@
         "zone": "in"
       },
       {
-        "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-        "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+        "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-        "publishedAt": "2026-10-04T14:25:32.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "British Museum announces changes to ease Bayeux Tapestry queues",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors.",
-        "publishedAt": "2026-10-04T13:45:24.000Z",
+        "description": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
+        "publishedAt": "2026-10-04T21:11:49.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -253,24 +253,24 @@
         "zone": "in"
       },
       {
-        "title": "Glastonbury 2027 tickets sell out in 42 minutes",
-        "url": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
+        "title": "British Museum announces changes to ease Bayeux Tapestry queues",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
-        "publishedAt": "2026-10-04T11:24:58.000Z",
+        "description": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors.",
+        "publishedAt": "2026-10-04T13:45:24.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
-        "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
+        "title": "Protesters gather as migrants brought ashore on south coast",
+        "url": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.",
-        "publishedAt": "2026-10-04T11:19:58.000Z",
+        "description": "A dinghy was believed to be carrying 120 migrants, according to French media.",
+        "publishedAt": "2026-10-04T21:37:03.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,13 +279,24 @@
   "general_au": {
     "articles": [
       {
+        "title": "US removes all bombers from RAF Fairford base",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+        "publishedAt": "2026-10-04T21:57:32.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Green Party members back 'Zionism is racism' motion",
         "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
-        "publishedAt": "2026-10-04T18:08:52.000Z",
+        "publishedAt": "2026-10-04T20:51:36.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -301,24 +312,13 @@
         "zone": "au"
       },
       {
-        "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-        "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+        "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-        "publishedAt": "2026-10-04T14:25:32.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "British Museum announces changes to ease Bayeux Tapestry queues",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors.",
-        "publishedAt": "2026-10-04T13:45:24.000Z",
+        "description": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
+        "publishedAt": "2026-10-04T21:11:49.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -345,24 +345,24 @@
         "zone": "au"
       },
       {
-        "title": "Glastonbury 2027 tickets sell out in 42 minutes",
-        "url": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
+        "title": "British Museum announces changes to ease Bayeux Tapestry queues",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
-        "publishedAt": "2026-10-04T11:24:58.000Z",
+        "description": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors.",
+        "publishedAt": "2026-10-04T13:45:24.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
-        "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
+        "title": "Protesters gather as migrants brought ashore on south coast",
+        "url": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.",
-        "publishedAt": "2026-10-04T11:19:58.000Z",
+        "description": "A dinghy was believed to be carrying 120 migrants, according to French media.",
+        "publishedAt": "2026-10-04T21:37:03.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,13 +371,24 @@
   "general_ca": {
     "articles": [
       {
+        "title": "US removes all bombers from RAF Fairford base",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+        "publishedAt": "2026-10-04T21:57:32.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Green Party members back 'Zionism is racism' motion",
         "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
-        "publishedAt": "2026-10-04T18:08:52.000Z",
+        "publishedAt": "2026-10-04T20:51:36.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -393,24 +404,13 @@
         "zone": "ca"
       },
       {
-        "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-        "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+        "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-        "publishedAt": "2026-10-04T14:25:32.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "British Museum announces changes to ease Bayeux Tapestry queues",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors.",
-        "publishedAt": "2026-10-04T13:45:24.000Z",
+        "description": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
+        "publishedAt": "2026-10-04T21:11:49.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -437,24 +437,24 @@
         "zone": "ca"
       },
       {
-        "title": "Glastonbury 2027 tickets sell out in 42 minutes",
-        "url": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
+        "title": "British Museum announces changes to ease Bayeux Tapestry queues",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
-        "publishedAt": "2026-10-04T11:24:58.000Z",
+        "description": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors.",
+        "publishedAt": "2026-10-04T13:45:24.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
-        "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
+        "title": "Protesters gather as migrants brought ashore on south coast",
+        "url": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.",
-        "publishedAt": "2026-10-04T11:19:58.000Z",
+        "description": "A dinghy was believed to be carrying 120 migrants, according to French media.",
+        "publishedAt": "2026-10-04T21:37:03.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -2314,13 +2314,57 @@
         "zone": "us"
       },
       {
-        "title": "Verstappen wins in Malaysia after long delays as Russell retires",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c5n49zx3zlvwo?at_medium=RSS&at_campaign=rss",
+        "title": "Humphries wins Grand Prix to end barren spell",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/cw1m49g84mmro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Max Verstappen takes his and Red Bull's first win of the year with a dominant drive in a dramatic Bahrain Grand Prix in Malaysia that started amid chaotic and unprecedented scenes.",
-        "publishedAt": "2026-10-04T10:32:37.000Z",
+        "description": "World number two Luke Humphries ends a 16-month wait for a PDC major trophy with a stunning 6-4 victory over Gerwyn Price in the World Grand Prix final.",
+        "publishedAt": "2026-10-04T21:39:14.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Bellamy bemoans new schedule after Denmark loss",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm93zyld4513o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Craig Bellamy suggests the new four-match international window has counted against Wales after Sunday's Nations League defeat against Denmark.",
+        "publishedAt": "2026-10-04T22:36:20.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Arsenal 10 points off WSL leaders - is Slegers' job at risk?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9p8gmvlvp57o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It is only five matches into the WSL season but Arsenal are already 10 points behind leaders Manchester City and manager Renee Slegers is coming under increasing scrutiny.",
+        "publishedAt": "2026-10-04T20:34:17.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "'Money-grab' or celebration? NFL kicks off London series",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/cqwyrlk27e7ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The NFL kicked off this season's series of London games on Sunday but the build-up was overshadowed by anger from long-term fans over ticket prices.",
+        "publishedAt": "2026-10-04T20:36:03.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Portugal boss says door open for Ronaldo return",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3dxwry8vydvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Cristiano Ronaldo could still return for Portugal, according to boss Jorge Jesus.",
+        "publishedAt": "2026-10-04T22:10:59.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2336,57 +2380,13 @@
         "zone": "us"
       },
       {
-        "title": "Evans ends Britain's 25-year wait for WRC champion",
-        "url": "https://www.bbc.co.uk/sport/motorsport/articles/cmd6dq5gyw7xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Five-time runner-up Elfyn Evans is world champion for the first time after rival Oliver Solberg crashes in the final moments of Rally Italia Sardegna.",
-        "publishedAt": "2026-10-04T13:46:49.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "‘Moments I still play for’ - Djokovic battles past world number two Zverev",
+        "title": "'Moments I still play for' - Djokovic battles past world number two Zverev",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c8kge0d95dzno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open.",
         "publishedAt": "2026-10-04T14:47:14.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Modric 'ashamed' of Croatia's 'catastrophic night'",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwzrdm3lyk21o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Croatia captain Luka Modric says he was \"ashamed\" of his side's performance on a \"catastrophic night\" against England.",
-        "publishedAt": "2026-10-04T10:35:47.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Wu wins first title since Crucible as Chinese snooker hits new high",
-        "url": "https://www.bbc.co.uk/sport/snooker/articles/cq4g1l0gxl44o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Wu Yize claims his first ranking title since he became world champion - a result that means China will have the top two players in the rankings for the first time.",
-        "publishedAt": "2026-10-04T15:42:24.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Dominant Verstappen & superb Hamilton recovery - driver ratings",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqkgjnrjr3l5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Bahrain Grand Prix in Malaysia.",
-        "publishedAt": "2026-10-04T13:36:42.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2406,13 +2406,57 @@
         "zone": "gb"
       },
       {
-        "title": "Verstappen wins in Malaysia after long delays as Russell retires",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c5n49zx3zlvwo?at_medium=RSS&at_campaign=rss",
+        "title": "Humphries wins Grand Prix to end barren spell",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/cw1m49g84mmro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Max Verstappen takes his and Red Bull's first win of the year with a dominant drive in a dramatic Bahrain Grand Prix in Malaysia that started amid chaotic and unprecedented scenes.",
-        "publishedAt": "2026-10-04T10:32:37.000Z",
+        "description": "World number two Luke Humphries ends a 16-month wait for a PDC major trophy with a stunning 6-4 victory over Gerwyn Price in the World Grand Prix final.",
+        "publishedAt": "2026-10-04T21:39:14.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Bellamy bemoans new schedule after Denmark loss",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm93zyld4513o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Craig Bellamy suggests the new four-match international window has counted against Wales after Sunday's Nations League defeat against Denmark.",
+        "publishedAt": "2026-10-04T22:36:20.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Arsenal 10 points off WSL leaders - is Slegers' job at risk?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9p8gmvlvp57o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It is only five matches into the WSL season but Arsenal are already 10 points behind leaders Manchester City and manager Renee Slegers is coming under increasing scrutiny.",
+        "publishedAt": "2026-10-04T20:34:17.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "'Money-grab' or celebration? NFL kicks off London series",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/cqwyrlk27e7ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The NFL kicked off this season's series of London games on Sunday but the build-up was overshadowed by anger from long-term fans over ticket prices.",
+        "publishedAt": "2026-10-04T20:36:03.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Portugal boss says door open for Ronaldo return",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3dxwry8vydvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Cristiano Ronaldo could still return for Portugal, according to boss Jorge Jesus.",
+        "publishedAt": "2026-10-04T22:10:59.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2428,57 +2472,13 @@
         "zone": "gb"
       },
       {
-        "title": "Evans ends Britain's 25-year wait for WRC champion",
-        "url": "https://www.bbc.co.uk/sport/motorsport/articles/cmd6dq5gyw7xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Five-time runner-up Elfyn Evans is world champion for the first time after rival Oliver Solberg crashes in the final moments of Rally Italia Sardegna.",
-        "publishedAt": "2026-10-04T13:46:49.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "‘Moments I still play for’ - Djokovic battles past world number two Zverev",
+        "title": "'Moments I still play for' - Djokovic battles past world number two Zverev",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c8kge0d95dzno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open.",
         "publishedAt": "2026-10-04T14:47:14.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Modric 'ashamed' of Croatia's 'catastrophic night'",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwzrdm3lyk21o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Croatia captain Luka Modric says he was \"ashamed\" of his side's performance on a \"catastrophic night\" against England.",
-        "publishedAt": "2026-10-04T10:35:47.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Wu wins first title since Crucible as Chinese snooker hits new high",
-        "url": "https://www.bbc.co.uk/sport/snooker/articles/cq4g1l0gxl44o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Wu Yize claims his first ranking title since he became world champion - a result that means China will have the top two players in the rankings for the first time.",
-        "publishedAt": "2026-10-04T15:42:24.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Dominant Verstappen & superb Hamilton recovery - driver ratings",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqkgjnrjr3l5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Bahrain Grand Prix in Malaysia.",
-        "publishedAt": "2026-10-04T13:36:42.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2498,13 +2498,57 @@
         "zone": "in"
       },
       {
-        "title": "Verstappen wins in Malaysia after long delays as Russell retires",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c5n49zx3zlvwo?at_medium=RSS&at_campaign=rss",
+        "title": "Humphries wins Grand Prix to end barren spell",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/cw1m49g84mmro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Max Verstappen takes his and Red Bull's first win of the year with a dominant drive in a dramatic Bahrain Grand Prix in Malaysia that started amid chaotic and unprecedented scenes.",
-        "publishedAt": "2026-10-04T10:32:37.000Z",
+        "description": "World number two Luke Humphries ends a 16-month wait for a PDC major trophy with a stunning 6-4 victory over Gerwyn Price in the World Grand Prix final.",
+        "publishedAt": "2026-10-04T21:39:14.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Bellamy bemoans new schedule after Denmark loss",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm93zyld4513o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Craig Bellamy suggests the new four-match international window has counted against Wales after Sunday's Nations League defeat against Denmark.",
+        "publishedAt": "2026-10-04T22:36:20.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Arsenal 10 points off WSL leaders - is Slegers' job at risk?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9p8gmvlvp57o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It is only five matches into the WSL season but Arsenal are already 10 points behind leaders Manchester City and manager Renee Slegers is coming under increasing scrutiny.",
+        "publishedAt": "2026-10-04T20:34:17.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "'Money-grab' or celebration? NFL kicks off London series",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/cqwyrlk27e7ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The NFL kicked off this season's series of London games on Sunday but the build-up was overshadowed by anger from long-term fans over ticket prices.",
+        "publishedAt": "2026-10-04T20:36:03.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Portugal boss says door open for Ronaldo return",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3dxwry8vydvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Cristiano Ronaldo could still return for Portugal, according to boss Jorge Jesus.",
+        "publishedAt": "2026-10-04T22:10:59.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2520,57 +2564,13 @@
         "zone": "in"
       },
       {
-        "title": "Evans ends Britain's 25-year wait for WRC champion",
-        "url": "https://www.bbc.co.uk/sport/motorsport/articles/cmd6dq5gyw7xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Five-time runner-up Elfyn Evans is world champion for the first time after rival Oliver Solberg crashes in the final moments of Rally Italia Sardegna.",
-        "publishedAt": "2026-10-04T13:46:49.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "‘Moments I still play for’ - Djokovic battles past world number two Zverev",
+        "title": "'Moments I still play for' - Djokovic battles past world number two Zverev",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c8kge0d95dzno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open.",
         "publishedAt": "2026-10-04T14:47:14.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Modric 'ashamed' of Croatia's 'catastrophic night'",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwzrdm3lyk21o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Croatia captain Luka Modric says he was \"ashamed\" of his side's performance on a \"catastrophic night\" against England.",
-        "publishedAt": "2026-10-04T10:35:47.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Wu wins first title since Crucible as Chinese snooker hits new high",
-        "url": "https://www.bbc.co.uk/sport/snooker/articles/cq4g1l0gxl44o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Wu Yize claims his first ranking title since he became world champion - a result that means China will have the top two players in the rankings for the first time.",
-        "publishedAt": "2026-10-04T15:42:24.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Dominant Verstappen & superb Hamilton recovery - driver ratings",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqkgjnrjr3l5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Bahrain Grand Prix in Malaysia.",
-        "publishedAt": "2026-10-04T13:36:42.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2590,13 +2590,57 @@
         "zone": "au"
       },
       {
-        "title": "Verstappen wins in Malaysia after long delays as Russell retires",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c5n49zx3zlvwo?at_medium=RSS&at_campaign=rss",
+        "title": "Humphries wins Grand Prix to end barren spell",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/cw1m49g84mmro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Max Verstappen takes his and Red Bull's first win of the year with a dominant drive in a dramatic Bahrain Grand Prix in Malaysia that started amid chaotic and unprecedented scenes.",
-        "publishedAt": "2026-10-04T10:32:37.000Z",
+        "description": "World number two Luke Humphries ends a 16-month wait for a PDC major trophy with a stunning 6-4 victory over Gerwyn Price in the World Grand Prix final.",
+        "publishedAt": "2026-10-04T21:39:14.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Bellamy bemoans new schedule after Denmark loss",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm93zyld4513o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Craig Bellamy suggests the new four-match international window has counted against Wales after Sunday's Nations League defeat against Denmark.",
+        "publishedAt": "2026-10-04T22:36:20.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Arsenal 10 points off WSL leaders - is Slegers' job at risk?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9p8gmvlvp57o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It is only five matches into the WSL season but Arsenal are already 10 points behind leaders Manchester City and manager Renee Slegers is coming under increasing scrutiny.",
+        "publishedAt": "2026-10-04T20:34:17.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "'Money-grab' or celebration? NFL kicks off London series",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/cqwyrlk27e7ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The NFL kicked off this season's series of London games on Sunday but the build-up was overshadowed by anger from long-term fans over ticket prices.",
+        "publishedAt": "2026-10-04T20:36:03.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Portugal boss says door open for Ronaldo return",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3dxwry8vydvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Cristiano Ronaldo could still return for Portugal, according to boss Jorge Jesus.",
+        "publishedAt": "2026-10-04T22:10:59.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2612,57 +2656,13 @@
         "zone": "au"
       },
       {
-        "title": "Evans ends Britain's 25-year wait for WRC champion",
-        "url": "https://www.bbc.co.uk/sport/motorsport/articles/cmd6dq5gyw7xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Five-time runner-up Elfyn Evans is world champion for the first time after rival Oliver Solberg crashes in the final moments of Rally Italia Sardegna.",
-        "publishedAt": "2026-10-04T13:46:49.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "‘Moments I still play for’ - Djokovic battles past world number two Zverev",
+        "title": "'Moments I still play for' - Djokovic battles past world number two Zverev",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c8kge0d95dzno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open.",
         "publishedAt": "2026-10-04T14:47:14.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Modric 'ashamed' of Croatia's 'catastrophic night'",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwzrdm3lyk21o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Croatia captain Luka Modric says he was \"ashamed\" of his side's performance on a \"catastrophic night\" against England.",
-        "publishedAt": "2026-10-04T10:35:47.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Wu wins first title since Crucible as Chinese snooker hits new high",
-        "url": "https://www.bbc.co.uk/sport/snooker/articles/cq4g1l0gxl44o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Wu Yize claims his first ranking title since he became world champion - a result that means China will have the top two players in the rankings for the first time.",
-        "publishedAt": "2026-10-04T15:42:24.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Dominant Verstappen & superb Hamilton recovery - driver ratings",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqkgjnrjr3l5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Bahrain Grand Prix in Malaysia.",
-        "publishedAt": "2026-10-04T13:36:42.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2682,13 +2682,57 @@
         "zone": "ca"
       },
       {
-        "title": "Verstappen wins in Malaysia after long delays as Russell retires",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c5n49zx3zlvwo?at_medium=RSS&at_campaign=rss",
+        "title": "Humphries wins Grand Prix to end barren spell",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/cw1m49g84mmro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Max Verstappen takes his and Red Bull's first win of the year with a dominant drive in a dramatic Bahrain Grand Prix in Malaysia that started amid chaotic and unprecedented scenes.",
-        "publishedAt": "2026-10-04T10:32:37.000Z",
+        "description": "World number two Luke Humphries ends a 16-month wait for a PDC major trophy with a stunning 6-4 victory over Gerwyn Price in the World Grand Prix final.",
+        "publishedAt": "2026-10-04T21:39:14.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Bellamy bemoans new schedule after Denmark loss",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm93zyld4513o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Craig Bellamy suggests the new four-match international window has counted against Wales after Sunday's Nations League defeat against Denmark.",
+        "publishedAt": "2026-10-04T22:36:20.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Arsenal 10 points off WSL leaders - is Slegers' job at risk?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9p8gmvlvp57o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It is only five matches into the WSL season but Arsenal are already 10 points behind leaders Manchester City and manager Renee Slegers is coming under increasing scrutiny.",
+        "publishedAt": "2026-10-04T20:34:17.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "'Money-grab' or celebration? NFL kicks off London series",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/cqwyrlk27e7ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The NFL kicked off this season's series of London games on Sunday but the build-up was overshadowed by anger from long-term fans over ticket prices.",
+        "publishedAt": "2026-10-04T20:36:03.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Portugal boss says door open for Ronaldo return",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3dxwry8vydvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Cristiano Ronaldo could still return for Portugal, according to boss Jorge Jesus.",
+        "publishedAt": "2026-10-04T22:10:59.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2704,57 +2748,13 @@
         "zone": "ca"
       },
       {
-        "title": "Evans ends Britain's 25-year wait for WRC champion",
-        "url": "https://www.bbc.co.uk/sport/motorsport/articles/cmd6dq5gyw7xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Five-time runner-up Elfyn Evans is world champion for the first time after rival Oliver Solberg crashes in the final moments of Rally Italia Sardegna.",
-        "publishedAt": "2026-10-04T13:46:49.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "‘Moments I still play for’ - Djokovic battles past world number two Zverev",
+        "title": "'Moments I still play for' - Djokovic battles past world number two Zverev",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c8kge0d95dzno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open.",
         "publishedAt": "2026-10-04T14:47:14.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Modric 'ashamed' of Croatia's 'catastrophic night'",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwzrdm3lyk21o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Croatia captain Luka Modric says he was \"ashamed\" of his side's performance on a \"catastrophic night\" against England.",
-        "publishedAt": "2026-10-04T10:35:47.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Wu wins first title since Crucible as Chinese snooker hits new high",
-        "url": "https://www.bbc.co.uk/sport/snooker/articles/cq4g1l0gxl44o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Wu Yize claims his first ranking title since he became world champion - a result that means China will have the top two players in the rankings for the first time.",
-        "publishedAt": "2026-10-04T15:42:24.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Dominant Verstappen & superb Hamilton recovery - driver ratings",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqkgjnrjr3l5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Bahrain Grand Prix in Malaysia.",
-        "publishedAt": "2026-10-04T13:36:42.000Z",
         "category": "sports",
         "zone": "ca"
       }
