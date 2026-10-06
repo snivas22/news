@@ -1,7 +1,40 @@
 {
-  "generatedAt": "2026-10-05T18:03:24.477Z",
+  "generatedAt": "2026-10-06T00:39:13.635Z",
   "general_us": {
     "articles": [
+      {
+        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+        "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+        "publishedAt": "2026-10-05T21:46:22.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "What prompted the US bombers to leave RAF Fairford?",
+        "url": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes.",
+        "publishedAt": "2026-10-05T21:57:26.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Author and former politician Jeffrey Archer dies aged 86",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "His last book, Adam and Eve, is set to release this month.",
+        "publishedAt": "2026-10-05T21:41:53.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "King's funding for Andrew not to be used for legal action against police",
         "url": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss",
@@ -9,51 +42,18 @@
           "name": "RSS Feed"
         },
         "description": "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.",
-        "publishedAt": "2026-10-05T17:18:21.000Z",
+        "publishedAt": "2026-10-05T18:48:40.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "What we know about Andrew Mountbatten-Windsor's legal action against police",
-        "url": "https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss",
+        "title": "France braces for national day of school protests after injuries and mass arrests",
+        "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police over his arrest in February.",
-        "publishedAt": "2026-10-05T13:09:42.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
-        "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
-        "publishedAt": "2026-10-05T16:13:35.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-        "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
-        "publishedAt": "2026-10-05T16:32:18.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
-        "publishedAt": "2026-10-05T16:13:21.000Z",
+        "description": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
+        "publishedAt": "2026-10-05T21:18:10.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -69,6 +69,17 @@
         "zone": "us"
       },
       {
+        "title": "Tories pledge £10bn 'Britannia Shield' air defence system",
+        "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.",
+        "publishedAt": "2026-10-05T22:39:20.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
         "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
         "url": "https://www.bbc.co.uk/news/articles/cmdx395grzzko?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -76,17 +87,6 @@
         },
         "description": "Changes to how visitors see the Bayeux Tapestry exhibition were made after concerns over long queues and overcrowding.",
         "publishedAt": "2026-10-05T17:08:11.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "BBC appoints Rachel Jupp as new director of news",
-        "url": "https://www.bbc.co.uk/news/articles/cjrvl8n82wvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jupp is a former deputy editor of BBC Two's Newsnight and has also served as Panorama's editor.",
-        "publishedAt": "2026-10-05T13:05:13.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,57 +95,57 @@
   "general_gb": {
     "articles": [
       {
+        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+        "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+        "publishedAt": "2026-10-05T21:46:22.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "What prompted the US bombers to leave RAF Fairford?",
+        "url": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes.",
+        "publishedAt": "2026-10-05T21:57:26.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Author and former politician Jeffrey Archer dies aged 86",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "His last book, Adam and Eve, is set to release this month.",
+        "publishedAt": "2026-10-05T21:41:53.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "King's funding for Andrew not to be used for legal action against police",
         "url": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.",
-        "publishedAt": "2026-10-05T17:18:21.000Z",
+        "publishedAt": "2026-10-05T18:48:40.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "What we know about Andrew Mountbatten-Windsor's legal action against police",
-        "url": "https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss",
+        "title": "France braces for national day of school protests after injuries and mass arrests",
+        "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police over his arrest in February.",
-        "publishedAt": "2026-10-05T13:09:42.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
-        "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
-        "publishedAt": "2026-10-05T16:13:35.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-        "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
-        "publishedAt": "2026-10-05T16:32:18.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
-        "publishedAt": "2026-10-05T16:13:21.000Z",
+        "description": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
+        "publishedAt": "2026-10-05T21:18:10.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -161,6 +161,17 @@
         "zone": "gb"
       },
       {
+        "title": "Tories pledge £10bn 'Britannia Shield' air defence system",
+        "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.",
+        "publishedAt": "2026-10-05T22:39:20.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
         "url": "https://www.bbc.co.uk/news/articles/cmdx395grzzko?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -168,17 +179,6 @@
         },
         "description": "Changes to how visitors see the Bayeux Tapestry exhibition were made after concerns over long queues and overcrowding.",
         "publishedAt": "2026-10-05T17:08:11.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "BBC appoints Rachel Jupp as new director of news",
-        "url": "https://www.bbc.co.uk/news/articles/cjrvl8n82wvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jupp is a former deputy editor of BBC Two's Newsnight and has also served as Panorama's editor.",
-        "publishedAt": "2026-10-05T13:05:13.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,57 +187,57 @@
   "general_in": {
     "articles": [
       {
+        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+        "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+        "publishedAt": "2026-10-05T21:46:22.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "What prompted the US bombers to leave RAF Fairford?",
+        "url": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes.",
+        "publishedAt": "2026-10-05T21:57:26.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Author and former politician Jeffrey Archer dies aged 86",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "His last book, Adam and Eve, is set to release this month.",
+        "publishedAt": "2026-10-05T21:41:53.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "King's funding for Andrew not to be used for legal action against police",
         "url": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.",
-        "publishedAt": "2026-10-05T17:18:21.000Z",
+        "publishedAt": "2026-10-05T18:48:40.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "What we know about Andrew Mountbatten-Windsor's legal action against police",
-        "url": "https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss",
+        "title": "France braces for national day of school protests after injuries and mass arrests",
+        "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police over his arrest in February.",
-        "publishedAt": "2026-10-05T13:09:42.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
-        "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
-        "publishedAt": "2026-10-05T16:13:35.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-        "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
-        "publishedAt": "2026-10-05T16:32:18.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
-        "publishedAt": "2026-10-05T16:13:21.000Z",
+        "description": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
+        "publishedAt": "2026-10-05T21:18:10.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -253,6 +253,17 @@
         "zone": "in"
       },
       {
+        "title": "Tories pledge £10bn 'Britannia Shield' air defence system",
+        "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.",
+        "publishedAt": "2026-10-05T22:39:20.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
         "url": "https://www.bbc.co.uk/news/articles/cmdx395grzzko?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -260,17 +271,6 @@
         },
         "description": "Changes to how visitors see the Bayeux Tapestry exhibition were made after concerns over long queues and overcrowding.",
         "publishedAt": "2026-10-05T17:08:11.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "BBC appoints Rachel Jupp as new director of news",
-        "url": "https://www.bbc.co.uk/news/articles/cjrvl8n82wvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jupp is a former deputy editor of BBC Two's Newsnight and has also served as Panorama's editor.",
-        "publishedAt": "2026-10-05T13:05:13.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,57 +279,57 @@
   "general_au": {
     "articles": [
       {
+        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+        "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+        "publishedAt": "2026-10-05T21:46:22.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "What prompted the US bombers to leave RAF Fairford?",
+        "url": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes.",
+        "publishedAt": "2026-10-05T21:57:26.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Author and former politician Jeffrey Archer dies aged 86",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "His last book, Adam and Eve, is set to release this month.",
+        "publishedAt": "2026-10-05T21:41:53.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "King's funding for Andrew not to be used for legal action against police",
         "url": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.",
-        "publishedAt": "2026-10-05T17:18:21.000Z",
+        "publishedAt": "2026-10-05T18:48:40.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "What we know about Andrew Mountbatten-Windsor's legal action against police",
-        "url": "https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss",
+        "title": "France braces for national day of school protests after injuries and mass arrests",
+        "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police over his arrest in February.",
-        "publishedAt": "2026-10-05T13:09:42.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
-        "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
-        "publishedAt": "2026-10-05T16:13:35.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-        "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
-        "publishedAt": "2026-10-05T16:32:18.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
-        "publishedAt": "2026-10-05T16:13:21.000Z",
+        "description": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
+        "publishedAt": "2026-10-05T21:18:10.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -345,6 +345,17 @@
         "zone": "au"
       },
       {
+        "title": "Tories pledge £10bn 'Britannia Shield' air defence system",
+        "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.",
+        "publishedAt": "2026-10-05T22:39:20.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
         "url": "https://www.bbc.co.uk/news/articles/cmdx395grzzko?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -352,17 +363,6 @@
         },
         "description": "Changes to how visitors see the Bayeux Tapestry exhibition were made after concerns over long queues and overcrowding.",
         "publishedAt": "2026-10-05T17:08:11.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "BBC appoints Rachel Jupp as new director of news",
-        "url": "https://www.bbc.co.uk/news/articles/cjrvl8n82wvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jupp is a former deputy editor of BBC Two's Newsnight and has also served as Panorama's editor.",
-        "publishedAt": "2026-10-05T13:05:13.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,57 +371,57 @@
   "general_ca": {
     "articles": [
       {
+        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+        "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+        "publishedAt": "2026-10-05T21:46:22.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "What prompted the US bombers to leave RAF Fairford?",
+        "url": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes.",
+        "publishedAt": "2026-10-05T21:57:26.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Author and former politician Jeffrey Archer dies aged 86",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "His last book, Adam and Eve, is set to release this month.",
+        "publishedAt": "2026-10-05T21:41:53.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "King's funding for Andrew not to be used for legal action against police",
         "url": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.",
-        "publishedAt": "2026-10-05T17:18:21.000Z",
+        "publishedAt": "2026-10-05T18:48:40.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "What we know about Andrew Mountbatten-Windsor's legal action against police",
-        "url": "https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss",
+        "title": "France braces for national day of school protests after injuries and mass arrests",
+        "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police over his arrest in February.",
-        "publishedAt": "2026-10-05T13:09:42.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
-        "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
-        "publishedAt": "2026-10-05T16:13:35.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-        "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
-        "publishedAt": "2026-10-05T16:32:18.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
-        "publishedAt": "2026-10-05T16:13:21.000Z",
+        "description": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
+        "publishedAt": "2026-10-05T21:18:10.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -437,6 +437,17 @@
         "zone": "ca"
       },
       {
+        "title": "Tories pledge £10bn 'Britannia Shield' air defence system",
+        "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.",
+        "publishedAt": "2026-10-05T22:39:20.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
         "url": "https://www.bbc.co.uk/news/articles/cmdx395grzzko?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -446,22 +457,22 @@
         "publishedAt": "2026-10-05T17:08:11.000Z",
         "category": "general",
         "zone": "ca"
-      },
-      {
-        "title": "BBC appoints Rachel Jupp as new director of news",
-        "url": "https://www.bbc.co.uk/news/articles/cjrvl8n82wvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jupp is a former deputy editor of BBC Two's Newsnight and has also served as Panorama's editor.",
-        "publishedAt": "2026-10-05T13:05:13.000Z",
-        "category": "general",
-        "zone": "ca"
       }
     ]
   },
   "business_us": {
     "articles": [
+      {
+        "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
+        "url": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A growing number of parents are opening retirement funds for their children.",
+        "publishedAt": "2026-10-05T23:00:41.000Z",
+        "category": "business",
+        "zone": "us"
+      },
       {
         "title": "Average five-year mortgage rate hits 6% for first time in three years",
         "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
@@ -485,6 +496,17 @@
         "zone": "us"
       },
       {
+        "title": "Five reasons India's stock market is sinking even when its economy is growing",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
+        "publishedAt": "2026-10-05T23:13:11.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
         "url": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -492,28 +514,6 @@
         },
         "description": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
         "publishedAt": "2026-10-05T10:25:36.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "The job interview question you don't have to answer",
-        "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Experts explain what you should do if you are asked for your current salary during a job interview.",
-        "publishedAt": "2026-10-04T23:22:07.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
-        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
-        "publishedAt": "2026-10-05T17:23:28.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -529,24 +529,24 @@
         "zone": "us"
       },
       {
-        "title": "UK diesel prices top £2 a litre for first time, RAC says",
-        "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
+        "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
+        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The rise in global oil prices has been pushing up the pump prices of petrol and diesel in the UK.",
-        "publishedAt": "2026-10-02T15:50:05.000Z",
+        "description": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
+        "publishedAt": "2026-10-05T17:23:28.000Z",
         "category": "business",
         "zone": "us"
       },
       {
-        "title": "Why are data centres such a big deal in Scotland?",
-        "url": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o?at_medium=RSS&at_campaign=rss",
+        "title": "The job interview question you don't have to answer",
+        "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "At least 23 huge data centres are planned in Scotland, causing significant concern for campaigners.",
-        "publishedAt": "2026-10-05T10:04:08.000Z",
+        "description": "Experts explain what you should do if you are asked for your current salary during a job interview.",
+        "publishedAt": "2026-10-04T23:22:07.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,6 +555,17 @@
   "business_gb": {
     "articles": [
       {
+        "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
+        "url": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A growing number of parents are opening retirement funds for their children.",
+        "publishedAt": "2026-10-05T23:00:41.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "Average five-year mortgage rate hits 6% for first time in three years",
         "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -577,6 +588,17 @@
         "zone": "gb"
       },
       {
+        "title": "Five reasons India's stock market is sinking even when its economy is growing",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
+        "publishedAt": "2026-10-05T23:13:11.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
         "url": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -584,28 +606,6 @@
         },
         "description": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
         "publishedAt": "2026-10-05T10:25:36.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "The job interview question you don't have to answer",
-        "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Experts explain what you should do if you are asked for your current salary during a job interview.",
-        "publishedAt": "2026-10-04T23:22:07.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
-        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
-        "publishedAt": "2026-10-05T17:23:28.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -621,24 +621,24 @@
         "zone": "gb"
       },
       {
-        "title": "UK diesel prices top £2 a litre for first time, RAC says",
-        "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
+        "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
+        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The rise in global oil prices has been pushing up the pump prices of petrol and diesel in the UK.",
-        "publishedAt": "2026-10-02T15:50:05.000Z",
+        "description": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
+        "publishedAt": "2026-10-05T17:23:28.000Z",
         "category": "business",
         "zone": "gb"
       },
       {
-        "title": "Why are data centres such a big deal in Scotland?",
-        "url": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o?at_medium=RSS&at_campaign=rss",
+        "title": "The job interview question you don't have to answer",
+        "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "At least 23 huge data centres are planned in Scotland, causing significant concern for campaigners.",
-        "publishedAt": "2026-10-05T10:04:08.000Z",
+        "description": "Experts explain what you should do if you are asked for your current salary during a job interview.",
+        "publishedAt": "2026-10-04T23:22:07.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,6 +647,17 @@
   "business_in": {
     "articles": [
       {
+        "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
+        "url": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A growing number of parents are opening retirement funds for their children.",
+        "publishedAt": "2026-10-05T23:00:41.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "Average five-year mortgage rate hits 6% for first time in three years",
         "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -669,6 +680,17 @@
         "zone": "in"
       },
       {
+        "title": "Five reasons India's stock market is sinking even when its economy is growing",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
+        "publishedAt": "2026-10-05T23:13:11.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
         "url": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -676,28 +698,6 @@
         },
         "description": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
         "publishedAt": "2026-10-05T10:25:36.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "The job interview question you don't have to answer",
-        "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Experts explain what you should do if you are asked for your current salary during a job interview.",
-        "publishedAt": "2026-10-04T23:22:07.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
-        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
-        "publishedAt": "2026-10-05T17:23:28.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -713,24 +713,24 @@
         "zone": "in"
       },
       {
-        "title": "UK diesel prices top £2 a litre for first time, RAC says",
-        "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
+        "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
+        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The rise in global oil prices has been pushing up the pump prices of petrol and diesel in the UK.",
-        "publishedAt": "2026-10-02T15:50:05.000Z",
+        "description": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
+        "publishedAt": "2026-10-05T17:23:28.000Z",
         "category": "business",
         "zone": "in"
       },
       {
-        "title": "Why are data centres such a big deal in Scotland?",
-        "url": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o?at_medium=RSS&at_campaign=rss",
+        "title": "The job interview question you don't have to answer",
+        "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "At least 23 huge data centres are planned in Scotland, causing significant concern for campaigners.",
-        "publishedAt": "2026-10-05T10:04:08.000Z",
+        "description": "Experts explain what you should do if you are asked for your current salary during a job interview.",
+        "publishedAt": "2026-10-04T23:22:07.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,6 +739,17 @@
   "business_au": {
     "articles": [
       {
+        "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
+        "url": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A growing number of parents are opening retirement funds for their children.",
+        "publishedAt": "2026-10-05T23:00:41.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "Average five-year mortgage rate hits 6% for first time in three years",
         "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -761,6 +772,17 @@
         "zone": "au"
       },
       {
+        "title": "Five reasons India's stock market is sinking even when its economy is growing",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
+        "publishedAt": "2026-10-05T23:13:11.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
         "url": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -768,28 +790,6 @@
         },
         "description": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
         "publishedAt": "2026-10-05T10:25:36.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "The job interview question you don't have to answer",
-        "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Experts explain what you should do if you are asked for your current salary during a job interview.",
-        "publishedAt": "2026-10-04T23:22:07.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
-        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
-        "publishedAt": "2026-10-05T17:23:28.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -805,24 +805,24 @@
         "zone": "au"
       },
       {
-        "title": "UK diesel prices top £2 a litre for first time, RAC says",
-        "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
+        "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
+        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The rise in global oil prices has been pushing up the pump prices of petrol and diesel in the UK.",
-        "publishedAt": "2026-10-02T15:50:05.000Z",
+        "description": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
+        "publishedAt": "2026-10-05T17:23:28.000Z",
         "category": "business",
         "zone": "au"
       },
       {
-        "title": "Why are data centres such a big deal in Scotland?",
-        "url": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o?at_medium=RSS&at_campaign=rss",
+        "title": "The job interview question you don't have to answer",
+        "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "At least 23 huge data centres are planned in Scotland, causing significant concern for campaigners.",
-        "publishedAt": "2026-10-05T10:04:08.000Z",
+        "description": "Experts explain what you should do if you are asked for your current salary during a job interview.",
+        "publishedAt": "2026-10-04T23:22:07.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,6 +831,17 @@
   "business_ca": {
     "articles": [
       {
+        "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
+        "url": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A growing number of parents are opening retirement funds for their children.",
+        "publishedAt": "2026-10-05T23:00:41.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "Average five-year mortgage rate hits 6% for first time in three years",
         "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -853,6 +864,17 @@
         "zone": "ca"
       },
       {
+        "title": "Five reasons India's stock market is sinking even when its economy is growing",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
+        "publishedAt": "2026-10-05T23:13:11.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
         "url": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -860,28 +882,6 @@
         },
         "description": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
         "publishedAt": "2026-10-05T10:25:36.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "The job interview question you don't have to answer",
-        "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Experts explain what you should do if you are asked for your current salary during a job interview.",
-        "publishedAt": "2026-10-04T23:22:07.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
-        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
-        "publishedAt": "2026-10-05T17:23:28.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -897,24 +897,24 @@
         "zone": "ca"
       },
       {
-        "title": "UK diesel prices top £2 a litre for first time, RAC says",
-        "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
+        "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
+        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The rise in global oil prices has been pushing up the pump prices of petrol and diesel in the UK.",
-        "publishedAt": "2026-10-02T15:50:05.000Z",
+        "description": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
+        "publishedAt": "2026-10-05T17:23:28.000Z",
         "category": "business",
         "zone": "ca"
       },
       {
-        "title": "Why are data centres such a big deal in Scotland?",
-        "url": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o?at_medium=RSS&at_campaign=rss",
+        "title": "The job interview question you don't have to answer",
+        "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "At least 23 huge data centres are planned in Scotland, causing significant concern for campaigners.",
-        "publishedAt": "2026-10-05T10:04:08.000Z",
+        "description": "Experts explain what you should do if you are asked for your current salary during a job interview.",
+        "publishedAt": "2026-10-04T23:22:07.000Z",
         "category": "business",
         "zone": "ca"
       }
@@ -923,6 +923,39 @@
   "entertainment_us": {
     "articles": [
       {
+        "title": "Author and former politician Jeffrey Archer dies aged 86",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "His last book, Adam and Eve, is set to release this month.",
+        "publishedAt": "2026-10-05T21:41:53.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx395grzzko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Changes to how visitors see the Bayeux Tapestry exhibition were made after concerns over long queues and overcrowding.",
+        "publishedAt": "2026-10-05T17:08:11.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Blue Planet and Gandhi composer George Fenton dies aged 76",
+        "url": "https://www.bbc.co.uk/news/articles/cwz0v40r98n9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The musician received five Oscar nominations, and soundtracked dozens of memorable nature films.",
+        "publishedAt": "2026-10-05T22:58:25.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
         "title": "BBC appoints Rachel Jupp as new director of news",
         "url": "https://www.bbc.co.uk/news/articles/cjrvl8n82wvo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -930,6 +963,17 @@
         },
         "description": "Jupp is a former deputy editor of BBC Two's Newsnight and has also served as Panorama's editor.",
         "publishedAt": "2026-10-05T13:05:13.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Niamh O'Brien, dancer and wife of Michael Flatley, dies at 52",
+        "url": "https://www.bbc.co.uk/news/articles/cx5yn8y7y7dvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "She was a renowned Irish dancer who performed the lead role of Saoirse in the Lord of the Dance.",
+        "publishedAt": "2026-10-05T20:47:19.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -945,17 +989,6 @@
         "zone": "us"
       },
       {
-        "title": "British Museum announces changes to ease Bayeux Tapestry queues",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors.",
-        "publishedAt": "2026-10-04T13:45:24.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
         "title": "Rachel Jupp is a bold choice for BBC News chief, says Katie Razzall",
         "url": "https://www.bbc.co.uk/news/articles/cqwy79l7d78yo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -967,46 +1000,13 @@
         "zone": "us"
       },
       {
-        "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
-        "url": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo?at_medium=RSS&at_campaign=rss",
+        "title": "It's been a terrible year for farming, Jeremy Clarkson tells Tory conference",
+        "url": "https://www.bbc.co.uk/news/articles/cq0ldwr166ggo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The star reveals why he is \"very selective\" about releasing music - and shares his future collab hopes.",
-        "publishedAt": "2026-10-05T11:10:28.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Glastonbury 2027 tickets sell out in 42 minutes",
-        "url": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
-        "publishedAt": "2026-10-04T11:24:58.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "It's A Sin star 'keeps you guessing' in Wales-set thriller",
-        "url": "https://www.bbc.co.uk/news/articles/ckm2q20nqdnqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Callum Scott Howells stars opposite fellow Welsh actor Gabrielle Creevy in The Night They Vanished.",
-        "publishedAt": "2026-10-05T17:01:29.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "The Celebrity Traitors connections that might surprise you",
-        "url": "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
-        "publishedAt": "2026-10-04T01:31:32.000Z",
+        "description": "The former Top Gear presenter and star of Clarkson's Farm also said farmers were being \"attacked\" from every angle.",
+        "publishedAt": "2026-10-05T17:46:59.000Z",
         "category": "entertainment",
         "zone": "us"
       }
@@ -1015,6 +1015,39 @@
   "entertainment_gb": {
     "articles": [
       {
+        "title": "Author and former politician Jeffrey Archer dies aged 86",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "His last book, Adam and Eve, is set to release this month.",
+        "publishedAt": "2026-10-05T21:41:53.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx395grzzko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Changes to how visitors see the Bayeux Tapestry exhibition were made after concerns over long queues and overcrowding.",
+        "publishedAt": "2026-10-05T17:08:11.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Blue Planet and Gandhi composer George Fenton dies aged 76",
+        "url": "https://www.bbc.co.uk/news/articles/cwz0v40r98n9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The musician received five Oscar nominations, and soundtracked dozens of memorable nature films.",
+        "publishedAt": "2026-10-05T22:58:25.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
         "title": "BBC appoints Rachel Jupp as new director of news",
         "url": "https://www.bbc.co.uk/news/articles/cjrvl8n82wvo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1022,6 +1055,17 @@
         },
         "description": "Jupp is a former deputy editor of BBC Two's Newsnight and has also served as Panorama's editor.",
         "publishedAt": "2026-10-05T13:05:13.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Niamh O'Brien, dancer and wife of Michael Flatley, dies at 52",
+        "url": "https://www.bbc.co.uk/news/articles/cx5yn8y7y7dvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "She was a renowned Irish dancer who performed the lead role of Saoirse in the Lord of the Dance.",
+        "publishedAt": "2026-10-05T20:47:19.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1037,17 +1081,6 @@
         "zone": "gb"
       },
       {
-        "title": "British Museum announces changes to ease Bayeux Tapestry queues",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors.",
-        "publishedAt": "2026-10-04T13:45:24.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
         "title": "Rachel Jupp is a bold choice for BBC News chief, says Katie Razzall",
         "url": "https://www.bbc.co.uk/news/articles/cqwy79l7d78yo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1059,46 +1092,13 @@
         "zone": "gb"
       },
       {
-        "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
-        "url": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo?at_medium=RSS&at_campaign=rss",
+        "title": "It's been a terrible year for farming, Jeremy Clarkson tells Tory conference",
+        "url": "https://www.bbc.co.uk/news/articles/cq0ldwr166ggo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The star reveals why he is \"very selective\" about releasing music - and shares his future collab hopes.",
-        "publishedAt": "2026-10-05T11:10:28.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Glastonbury 2027 tickets sell out in 42 minutes",
-        "url": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
-        "publishedAt": "2026-10-04T11:24:58.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "It's A Sin star 'keeps you guessing' in Wales-set thriller",
-        "url": "https://www.bbc.co.uk/news/articles/ckm2q20nqdnqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Callum Scott Howells stars opposite fellow Welsh actor Gabrielle Creevy in The Night They Vanished.",
-        "publishedAt": "2026-10-05T17:01:29.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "The Celebrity Traitors connections that might surprise you",
-        "url": "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
-        "publishedAt": "2026-10-04T01:31:32.000Z",
+        "description": "The former Top Gear presenter and star of Clarkson's Farm also said farmers were being \"attacked\" from every angle.",
+        "publishedAt": "2026-10-05T17:46:59.000Z",
         "category": "entertainment",
         "zone": "gb"
       }
@@ -1107,6 +1107,39 @@
   "entertainment_in": {
     "articles": [
       {
+        "title": "Author and former politician Jeffrey Archer dies aged 86",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "His last book, Adam and Eve, is set to release this month.",
+        "publishedAt": "2026-10-05T21:41:53.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx395grzzko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Changes to how visitors see the Bayeux Tapestry exhibition were made after concerns over long queues and overcrowding.",
+        "publishedAt": "2026-10-05T17:08:11.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Blue Planet and Gandhi composer George Fenton dies aged 76",
+        "url": "https://www.bbc.co.uk/news/articles/cwz0v40r98n9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The musician received five Oscar nominations, and soundtracked dozens of memorable nature films.",
+        "publishedAt": "2026-10-05T22:58:25.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
         "title": "BBC appoints Rachel Jupp as new director of news",
         "url": "https://www.bbc.co.uk/news/articles/cjrvl8n82wvo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1114,6 +1147,17 @@
         },
         "description": "Jupp is a former deputy editor of BBC Two's Newsnight and has also served as Panorama's editor.",
         "publishedAt": "2026-10-05T13:05:13.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Niamh O'Brien, dancer and wife of Michael Flatley, dies at 52",
+        "url": "https://www.bbc.co.uk/news/articles/cx5yn8y7y7dvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "She was a renowned Irish dancer who performed the lead role of Saoirse in the Lord of the Dance.",
+        "publishedAt": "2026-10-05T20:47:19.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1129,17 +1173,6 @@
         "zone": "in"
       },
       {
-        "title": "British Museum announces changes to ease Bayeux Tapestry queues",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors.",
-        "publishedAt": "2026-10-04T13:45:24.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
         "title": "Rachel Jupp is a bold choice for BBC News chief, says Katie Razzall",
         "url": "https://www.bbc.co.uk/news/articles/cqwy79l7d78yo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1151,46 +1184,13 @@
         "zone": "in"
       },
       {
-        "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
-        "url": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo?at_medium=RSS&at_campaign=rss",
+        "title": "It's been a terrible year for farming, Jeremy Clarkson tells Tory conference",
+        "url": "https://www.bbc.co.uk/news/articles/cq0ldwr166ggo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The star reveals why he is \"very selective\" about releasing music - and shares his future collab hopes.",
-        "publishedAt": "2026-10-05T11:10:28.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Glastonbury 2027 tickets sell out in 42 minutes",
-        "url": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
-        "publishedAt": "2026-10-04T11:24:58.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "It's A Sin star 'keeps you guessing' in Wales-set thriller",
-        "url": "https://www.bbc.co.uk/news/articles/ckm2q20nqdnqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Callum Scott Howells stars opposite fellow Welsh actor Gabrielle Creevy in The Night They Vanished.",
-        "publishedAt": "2026-10-05T17:01:29.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "The Celebrity Traitors connections that might surprise you",
-        "url": "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
-        "publishedAt": "2026-10-04T01:31:32.000Z",
+        "description": "The former Top Gear presenter and star of Clarkson's Farm also said farmers were being \"attacked\" from every angle.",
+        "publishedAt": "2026-10-05T17:46:59.000Z",
         "category": "entertainment",
         "zone": "in"
       }
@@ -1199,6 +1199,39 @@
   "entertainment_au": {
     "articles": [
       {
+        "title": "Author and former politician Jeffrey Archer dies aged 86",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "His last book, Adam and Eve, is set to release this month.",
+        "publishedAt": "2026-10-05T21:41:53.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx395grzzko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Changes to how visitors see the Bayeux Tapestry exhibition were made after concerns over long queues and overcrowding.",
+        "publishedAt": "2026-10-05T17:08:11.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Blue Planet and Gandhi composer George Fenton dies aged 76",
+        "url": "https://www.bbc.co.uk/news/articles/cwz0v40r98n9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The musician received five Oscar nominations, and soundtracked dozens of memorable nature films.",
+        "publishedAt": "2026-10-05T22:58:25.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
         "title": "BBC appoints Rachel Jupp as new director of news",
         "url": "https://www.bbc.co.uk/news/articles/cjrvl8n82wvo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1206,6 +1239,17 @@
         },
         "description": "Jupp is a former deputy editor of BBC Two's Newsnight and has also served as Panorama's editor.",
         "publishedAt": "2026-10-05T13:05:13.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Niamh O'Brien, dancer and wife of Michael Flatley, dies at 52",
+        "url": "https://www.bbc.co.uk/news/articles/cx5yn8y7y7dvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "She was a renowned Irish dancer who performed the lead role of Saoirse in the Lord of the Dance.",
+        "publishedAt": "2026-10-05T20:47:19.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1221,17 +1265,6 @@
         "zone": "au"
       },
       {
-        "title": "British Museum announces changes to ease Bayeux Tapestry queues",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors.",
-        "publishedAt": "2026-10-04T13:45:24.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
         "title": "Rachel Jupp is a bold choice for BBC News chief, says Katie Razzall",
         "url": "https://www.bbc.co.uk/news/articles/cqwy79l7d78yo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1243,46 +1276,13 @@
         "zone": "au"
       },
       {
-        "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
-        "url": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo?at_medium=RSS&at_campaign=rss",
+        "title": "It's been a terrible year for farming, Jeremy Clarkson tells Tory conference",
+        "url": "https://www.bbc.co.uk/news/articles/cq0ldwr166ggo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The star reveals why he is \"very selective\" about releasing music - and shares his future collab hopes.",
-        "publishedAt": "2026-10-05T11:10:28.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Glastonbury 2027 tickets sell out in 42 minutes",
-        "url": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
-        "publishedAt": "2026-10-04T11:24:58.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "It's A Sin star 'keeps you guessing' in Wales-set thriller",
-        "url": "https://www.bbc.co.uk/news/articles/ckm2q20nqdnqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Callum Scott Howells stars opposite fellow Welsh actor Gabrielle Creevy in The Night They Vanished.",
-        "publishedAt": "2026-10-05T17:01:29.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "The Celebrity Traitors connections that might surprise you",
-        "url": "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
-        "publishedAt": "2026-10-04T01:31:32.000Z",
+        "description": "The former Top Gear presenter and star of Clarkson's Farm also said farmers were being \"attacked\" from every angle.",
+        "publishedAt": "2026-10-05T17:46:59.000Z",
         "category": "entertainment",
         "zone": "au"
       }
@@ -1291,6 +1291,39 @@
   "entertainment_ca": {
     "articles": [
       {
+        "title": "Author and former politician Jeffrey Archer dies aged 86",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "His last book, Adam and Eve, is set to release this month.",
+        "publishedAt": "2026-10-05T21:41:53.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx395grzzko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Changes to how visitors see the Bayeux Tapestry exhibition were made after concerns over long queues and overcrowding.",
+        "publishedAt": "2026-10-05T17:08:11.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "Blue Planet and Gandhi composer George Fenton dies aged 76",
+        "url": "https://www.bbc.co.uk/news/articles/cwz0v40r98n9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The musician received five Oscar nominations, and soundtracked dozens of memorable nature films.",
+        "publishedAt": "2026-10-05T22:58:25.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
         "title": "BBC appoints Rachel Jupp as new director of news",
         "url": "https://www.bbc.co.uk/news/articles/cjrvl8n82wvo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1298,6 +1331,17 @@
         },
         "description": "Jupp is a former deputy editor of BBC Two's Newsnight and has also served as Panorama's editor.",
         "publishedAt": "2026-10-05T13:05:13.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "Niamh O'Brien, dancer and wife of Michael Flatley, dies at 52",
+        "url": "https://www.bbc.co.uk/news/articles/cx5yn8y7y7dvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "She was a renowned Irish dancer who performed the lead role of Saoirse in the Lord of the Dance.",
+        "publishedAt": "2026-10-05T20:47:19.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1313,17 +1357,6 @@
         "zone": "ca"
       },
       {
-        "title": "British Museum announces changes to ease Bayeux Tapestry queues",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors.",
-        "publishedAt": "2026-10-04T13:45:24.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
         "title": "Rachel Jupp is a bold choice for BBC News chief, says Katie Razzall",
         "url": "https://www.bbc.co.uk/news/articles/cqwy79l7d78yo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1335,46 +1368,13 @@
         "zone": "ca"
       },
       {
-        "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
-        "url": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo?at_medium=RSS&at_campaign=rss",
+        "title": "It's been a terrible year for farming, Jeremy Clarkson tells Tory conference",
+        "url": "https://www.bbc.co.uk/news/articles/cq0ldwr166ggo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The star reveals why he is \"very selective\" about releasing music - and shares his future collab hopes.",
-        "publishedAt": "2026-10-05T11:10:28.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Glastonbury 2027 tickets sell out in 42 minutes",
-        "url": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
-        "publishedAt": "2026-10-04T11:24:58.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "It's A Sin star 'keeps you guessing' in Wales-set thriller",
-        "url": "https://www.bbc.co.uk/news/articles/ckm2q20nqdnqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Callum Scott Howells stars opposite fellow Welsh actor Gabrielle Creevy in The Night They Vanished.",
-        "publishedAt": "2026-10-05T17:01:29.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "The Celebrity Traitors connections that might surprise you",
-        "url": "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
-        "publishedAt": "2026-10-04T01:31:32.000Z",
+        "description": "The former Top Gear presenter and star of Clarkson's Farm also said farmers were being \"attacked\" from every angle.",
+        "publishedAt": "2026-10-05T17:46:59.000Z",
         "category": "entertainment",
         "zone": "ca"
       }
@@ -2303,13 +2303,13 @@
   "sports_us": {
     "articles": [
       {
-        "title": "Player welfare, injury worries & boredom - has extended break worked?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss",
+        "title": "England's greatest international? Kane is now a serious contender",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm5ynj882zw0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The extended international break was brought in with player welfare in mind, but has it been a success?",
-        "publishedAt": "2026-10-05T14:54:39.000Z",
+        "description": "With Harry Kane set to equal Peter Shilton's all-time England appearance record, where does he rank among England greats?",
+        "publishedAt": "2026-10-05T19:05:52.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2325,13 +2325,13 @@
         "zone": "us"
       },
       {
-        "title": "Bournemouth unhappy after Scott injured with England",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&at_campaign=rss",
+        "title": "Player welfare, injury worries & boredom - has extended break worked?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Bournemouth are unhappy with the way they believe England handled the injury to Alex Scott - which means he could now be out for up to eight weeks.",
-        "publishedAt": "2026-10-05T12:38:58.000Z",
+        "description": "The extended international break was brought in with player welfare in mind, but has it been a success?",
+        "publishedAt": "2026-10-05T14:54:39.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2347,13 +2347,13 @@
         "zone": "us"
       },
       {
-        "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss",
+        "title": "Gabriel in Man Utd team photo but no hint of reconciliation",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmde8n8j0dn4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City's owners have been found guilty of injecting money into the club. At Manchester United, fans are frustrated at how much has been taken out.",
-        "publishedAt": "2026-10-05T08:08:02.000Z",
+        "description": "As he prepares to celebrate his 16th birthday, the rift between Manchester United and JJ Gabriel shows no sign of being healed.",
+        "publishedAt": "2026-10-05T19:13:15.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2369,24 +2369,24 @@
         "zone": "us"
       },
       {
-        "title": "Australia warm-up shows England have 'learned' from Ashes",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no?at_medium=RSS&at_campaign=rss",
+        "title": "Juventus & Atletico Madrid eye Madueke - Tuesday's gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw203mjx7r46o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England confirm warm-up fixture at the Waca before this winter's white-ball tour of Australia - a stark contrast to last year's Ashes defeat.",
-        "publishedAt": "2026-10-05T12:52:25.000Z",
+        "description": "Arsenal forward Noni Madueke has suitors in Spain and Italy, five Premier League clubs are interested in Barcelona defender Jules Kounde, England captain Harry Kane is close to signing a new deal at Bayern Munich, plus more.",
+        "publishedAt": "2026-10-05T20:38:51.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Quins disaster, salty celebrations and Test bolters - Prem talking points",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy4x3e7zwn9o?at_medium=RSS&at_campaign=rss",
+        "title": "Littler suffers defeat in World Youth Championships",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/c3gr8yrywyd1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Bristol set out their top-four aspirations with a statement win, while Gloucester's renaissance continues in the second round of Prem action.",
-        "publishedAt": "2026-10-05T11:49:09.000Z",
+        "description": "Luke Littler is knocked out of the World Youth Championships in the semi-finals by Cam Crabtree.",
+        "publishedAt": "2026-10-05T20:07:20.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,13 +2395,13 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "Player welfare, injury worries & boredom - has extended break worked?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss",
+        "title": "England's greatest international? Kane is now a serious contender",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm5ynj882zw0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The extended international break was brought in with player welfare in mind, but has it been a success?",
-        "publishedAt": "2026-10-05T14:54:39.000Z",
+        "description": "With Harry Kane set to equal Peter Shilton's all-time England appearance record, where does he rank among England greats?",
+        "publishedAt": "2026-10-05T19:05:52.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2417,13 +2417,13 @@
         "zone": "gb"
       },
       {
-        "title": "Bournemouth unhappy after Scott injured with England",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&at_campaign=rss",
+        "title": "Player welfare, injury worries & boredom - has extended break worked?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Bournemouth are unhappy with the way they believe England handled the injury to Alex Scott - which means he could now be out for up to eight weeks.",
-        "publishedAt": "2026-10-05T12:38:58.000Z",
+        "description": "The extended international break was brought in with player welfare in mind, but has it been a success?",
+        "publishedAt": "2026-10-05T14:54:39.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2439,13 +2439,13 @@
         "zone": "gb"
       },
       {
-        "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss",
+        "title": "Gabriel in Man Utd team photo but no hint of reconciliation",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmde8n8j0dn4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City's owners have been found guilty of injecting money into the club. At Manchester United, fans are frustrated at how much has been taken out.",
-        "publishedAt": "2026-10-05T08:08:02.000Z",
+        "description": "As he prepares to celebrate his 16th birthday, the rift between Manchester United and JJ Gabriel shows no sign of being healed.",
+        "publishedAt": "2026-10-05T19:13:15.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2461,24 +2461,24 @@
         "zone": "gb"
       },
       {
-        "title": "Australia warm-up shows England have 'learned' from Ashes",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no?at_medium=RSS&at_campaign=rss",
+        "title": "Juventus & Atletico Madrid eye Madueke - Tuesday's gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw203mjx7r46o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England confirm warm-up fixture at the Waca before this winter's white-ball tour of Australia - a stark contrast to last year's Ashes defeat.",
-        "publishedAt": "2026-10-05T12:52:25.000Z",
+        "description": "Arsenal forward Noni Madueke has suitors in Spain and Italy, five Premier League clubs are interested in Barcelona defender Jules Kounde, England captain Harry Kane is close to signing a new deal at Bayern Munich, plus more.",
+        "publishedAt": "2026-10-05T20:38:51.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Quins disaster, salty celebrations and Test bolters - Prem talking points",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy4x3e7zwn9o?at_medium=RSS&at_campaign=rss",
+        "title": "Littler suffers defeat in World Youth Championships",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/c3gr8yrywyd1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Bristol set out their top-four aspirations with a statement win, while Gloucester's renaissance continues in the second round of Prem action.",
-        "publishedAt": "2026-10-05T11:49:09.000Z",
+        "description": "Luke Littler is knocked out of the World Youth Championships in the semi-finals by Cam Crabtree.",
+        "publishedAt": "2026-10-05T20:07:20.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,13 +2487,13 @@
   "sports_in": {
     "articles": [
       {
-        "title": "Player welfare, injury worries & boredom - has extended break worked?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss",
+        "title": "England's greatest international? Kane is now a serious contender",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm5ynj882zw0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The extended international break was brought in with player welfare in mind, but has it been a success?",
-        "publishedAt": "2026-10-05T14:54:39.000Z",
+        "description": "With Harry Kane set to equal Peter Shilton's all-time England appearance record, where does he rank among England greats?",
+        "publishedAt": "2026-10-05T19:05:52.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2509,13 +2509,13 @@
         "zone": "in"
       },
       {
-        "title": "Bournemouth unhappy after Scott injured with England",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&at_campaign=rss",
+        "title": "Player welfare, injury worries & boredom - has extended break worked?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Bournemouth are unhappy with the way they believe England handled the injury to Alex Scott - which means he could now be out for up to eight weeks.",
-        "publishedAt": "2026-10-05T12:38:58.000Z",
+        "description": "The extended international break was brought in with player welfare in mind, but has it been a success?",
+        "publishedAt": "2026-10-05T14:54:39.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2531,13 +2531,13 @@
         "zone": "in"
       },
       {
-        "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss",
+        "title": "Gabriel in Man Utd team photo but no hint of reconciliation",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmde8n8j0dn4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City's owners have been found guilty of injecting money into the club. At Manchester United, fans are frustrated at how much has been taken out.",
-        "publishedAt": "2026-10-05T08:08:02.000Z",
+        "description": "As he prepares to celebrate his 16th birthday, the rift between Manchester United and JJ Gabriel shows no sign of being healed.",
+        "publishedAt": "2026-10-05T19:13:15.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2553,24 +2553,24 @@
         "zone": "in"
       },
       {
-        "title": "Australia warm-up shows England have 'learned' from Ashes",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no?at_medium=RSS&at_campaign=rss",
+        "title": "Juventus & Atletico Madrid eye Madueke - Tuesday's gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw203mjx7r46o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England confirm warm-up fixture at the Waca before this winter's white-ball tour of Australia - a stark contrast to last year's Ashes defeat.",
-        "publishedAt": "2026-10-05T12:52:25.000Z",
+        "description": "Arsenal forward Noni Madueke has suitors in Spain and Italy, five Premier League clubs are interested in Barcelona defender Jules Kounde, England captain Harry Kane is close to signing a new deal at Bayern Munich, plus more.",
+        "publishedAt": "2026-10-05T20:38:51.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Quins disaster, salty celebrations and Test bolters - Prem talking points",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy4x3e7zwn9o?at_medium=RSS&at_campaign=rss",
+        "title": "Littler suffers defeat in World Youth Championships",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/c3gr8yrywyd1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Bristol set out their top-four aspirations with a statement win, while Gloucester's renaissance continues in the second round of Prem action.",
-        "publishedAt": "2026-10-05T11:49:09.000Z",
+        "description": "Luke Littler is knocked out of the World Youth Championships in the semi-finals by Cam Crabtree.",
+        "publishedAt": "2026-10-05T20:07:20.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,13 +2579,13 @@
   "sports_au": {
     "articles": [
       {
-        "title": "Player welfare, injury worries & boredom - has extended break worked?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss",
+        "title": "England's greatest international? Kane is now a serious contender",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm5ynj882zw0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The extended international break was brought in with player welfare in mind, but has it been a success?",
-        "publishedAt": "2026-10-05T14:54:39.000Z",
+        "description": "With Harry Kane set to equal Peter Shilton's all-time England appearance record, where does he rank among England greats?",
+        "publishedAt": "2026-10-05T19:05:52.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2601,13 +2601,13 @@
         "zone": "au"
       },
       {
-        "title": "Bournemouth unhappy after Scott injured with England",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&at_campaign=rss",
+        "title": "Player welfare, injury worries & boredom - has extended break worked?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Bournemouth are unhappy with the way they believe England handled the injury to Alex Scott - which means he could now be out for up to eight weeks.",
-        "publishedAt": "2026-10-05T12:38:58.000Z",
+        "description": "The extended international break was brought in with player welfare in mind, but has it been a success?",
+        "publishedAt": "2026-10-05T14:54:39.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2623,13 +2623,13 @@
         "zone": "au"
       },
       {
-        "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss",
+        "title": "Gabriel in Man Utd team photo but no hint of reconciliation",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmde8n8j0dn4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City's owners have been found guilty of injecting money into the club. At Manchester United, fans are frustrated at how much has been taken out.",
-        "publishedAt": "2026-10-05T08:08:02.000Z",
+        "description": "As he prepares to celebrate his 16th birthday, the rift between Manchester United and JJ Gabriel shows no sign of being healed.",
+        "publishedAt": "2026-10-05T19:13:15.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2645,24 +2645,24 @@
         "zone": "au"
       },
       {
-        "title": "Australia warm-up shows England have 'learned' from Ashes",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no?at_medium=RSS&at_campaign=rss",
+        "title": "Juventus & Atletico Madrid eye Madueke - Tuesday's gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw203mjx7r46o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England confirm warm-up fixture at the Waca before this winter's white-ball tour of Australia - a stark contrast to last year's Ashes defeat.",
-        "publishedAt": "2026-10-05T12:52:25.000Z",
+        "description": "Arsenal forward Noni Madueke has suitors in Spain and Italy, five Premier League clubs are interested in Barcelona defender Jules Kounde, England captain Harry Kane is close to signing a new deal at Bayern Munich, plus more.",
+        "publishedAt": "2026-10-05T20:38:51.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Quins disaster, salty celebrations and Test bolters - Prem talking points",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy4x3e7zwn9o?at_medium=RSS&at_campaign=rss",
+        "title": "Littler suffers defeat in World Youth Championships",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/c3gr8yrywyd1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Bristol set out their top-four aspirations with a statement win, while Gloucester's renaissance continues in the second round of Prem action.",
-        "publishedAt": "2026-10-05T11:49:09.000Z",
+        "description": "Luke Littler is knocked out of the World Youth Championships in the semi-finals by Cam Crabtree.",
+        "publishedAt": "2026-10-05T20:07:20.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,13 +2671,13 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "Player welfare, injury worries & boredom - has extended break worked?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss",
+        "title": "England's greatest international? Kane is now a serious contender",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm5ynj882zw0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The extended international break was brought in with player welfare in mind, but has it been a success?",
-        "publishedAt": "2026-10-05T14:54:39.000Z",
+        "description": "With Harry Kane set to equal Peter Shilton's all-time England appearance record, where does he rank among England greats?",
+        "publishedAt": "2026-10-05T19:05:52.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2693,13 +2693,13 @@
         "zone": "ca"
       },
       {
-        "title": "Bournemouth unhappy after Scott injured with England",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&at_campaign=rss",
+        "title": "Player welfare, injury worries & boredom - has extended break worked?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Bournemouth are unhappy with the way they believe England handled the injury to Alex Scott - which means he could now be out for up to eight weeks.",
-        "publishedAt": "2026-10-05T12:38:58.000Z",
+        "description": "The extended international break was brought in with player welfare in mind, but has it been a success?",
+        "publishedAt": "2026-10-05T14:54:39.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2715,13 +2715,13 @@
         "zone": "ca"
       },
       {
-        "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss",
+        "title": "Gabriel in Man Utd team photo but no hint of reconciliation",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmde8n8j0dn4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City's owners have been found guilty of injecting money into the club. At Manchester United, fans are frustrated at how much has been taken out.",
-        "publishedAt": "2026-10-05T08:08:02.000Z",
+        "description": "As he prepares to celebrate his 16th birthday, the rift between Manchester United and JJ Gabriel shows no sign of being healed.",
+        "publishedAt": "2026-10-05T19:13:15.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2737,24 +2737,24 @@
         "zone": "ca"
       },
       {
-        "title": "Australia warm-up shows England have 'learned' from Ashes",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no?at_medium=RSS&at_campaign=rss",
+        "title": "Juventus & Atletico Madrid eye Madueke - Tuesday's gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw203mjx7r46o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England confirm warm-up fixture at the Waca before this winter's white-ball tour of Australia - a stark contrast to last year's Ashes defeat.",
-        "publishedAt": "2026-10-05T12:52:25.000Z",
+        "description": "Arsenal forward Noni Madueke has suitors in Spain and Italy, five Premier League clubs are interested in Barcelona defender Jules Kounde, England captain Harry Kane is close to signing a new deal at Bayern Munich, plus more.",
+        "publishedAt": "2026-10-05T20:38:51.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Quins disaster, salty celebrations and Test bolters - Prem talking points",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy4x3e7zwn9o?at_medium=RSS&at_campaign=rss",
+        "title": "Littler suffers defeat in World Youth Championships",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/c3gr8yrywyd1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Bristol set out their top-four aspirations with a statement win, while Gloucester's renaissance continues in the second round of Prem action.",
-        "publishedAt": "2026-10-05T11:49:09.000Z",
+        "description": "Luke Littler is knocked out of the World Youth Championships in the semi-finals by Cam Crabtree.",
+        "publishedAt": "2026-10-05T20:07:20.000Z",
         "category": "sports",
         "zone": "ca"
       }
