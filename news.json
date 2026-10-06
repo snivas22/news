@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T00:39:13.635Z",
+  "generatedAt": "2026-10-06T07:17:50.096Z",
   "general_us": {
     "articles": [
       {
@@ -9,40 +9,7 @@
           "name": "RSS Feed"
         },
         "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
-        "publishedAt": "2026-10-05T21:46:22.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "What prompted the US bombers to leave RAF Fairford?",
-        "url": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes.",
-        "publishedAt": "2026-10-05T21:57:26.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Author and former politician Jeffrey Archer dies aged 86",
-        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "His last book, Adam and Eve, is set to release this month.",
-        "publishedAt": "2026-10-05T21:41:53.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "King's funding for Andrew not to be used for legal action against police",
-        "url": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.",
-        "publishedAt": "2026-10-05T18:48:40.000Z",
+        "publishedAt": "2026-10-06T07:02:24.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -58,35 +25,68 @@
         "zone": "us"
       },
       {
-        "title": "Prisoner took his own life after terror order had 'substantial impact' on mental state, inquest finds",
-        "url": "https://www.bbc.co.uk/news/articles/c5398lm30pwwo?at_medium=RSS&at_campaign=rss",
+        "title": "Author and former politician Jeffrey Archer dies aged 86",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Akhtar Uddin was jailed for breaching Terrorism Prevention and Investigation Measures in 2020.",
-        "publishedAt": "2026-10-05T17:21:42.000Z",
+        "description": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month.",
+        "publishedAt": "2026-10-06T03:19:57.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Tories pledge £10bn 'Britannia Shield' air defence system",
-        "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
+        "title": "Rise in babies in care proceedings raises fears of unnecessary adoptions, experts tell BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c52e9k3998e7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.",
-        "publishedAt": "2026-10-05T22:39:20.000Z",
+        "description": "With better support, many babies may not have needed to go into care, File on 4 Investigates is told.",
+        "publishedAt": "2026-10-06T05:00:32.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx395grzzko?at_medium=RSS&at_campaign=rss",
+        "title": "MPs call for investigation after Lutnick-Epstein whistleblower dies",
+        "url": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Changes to how visitors see the Bayeux Tapestry exhibition were made after concerns over long queues and overcrowding.",
-        "publishedAt": "2026-10-05T17:08:11.000Z",
+        "description": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month.",
+        "publishedAt": "2026-10-05T23:29:02.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The city's space boom raises questions about the role of the state in backing important industries.",
+        "publishedAt": "2026-10-05T23:07:08.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
+        "publishedAt": "2026-10-06T06:53:17.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "UK oil refinery broke toxic pollution limits dozens of times, documents reveal",
+        "url": "https://www.bbc.co.uk/news/articles/c64g15v2jqy8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Pollution was spilled into local rivers and protected sites, documents shared with the BBC suggest.",
+        "publishedAt": "2026-10-06T06:01:12.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -101,40 +101,7 @@
           "name": "RSS Feed"
         },
         "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
-        "publishedAt": "2026-10-05T21:46:22.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "What prompted the US bombers to leave RAF Fairford?",
-        "url": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes.",
-        "publishedAt": "2026-10-05T21:57:26.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Author and former politician Jeffrey Archer dies aged 86",
-        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "His last book, Adam and Eve, is set to release this month.",
-        "publishedAt": "2026-10-05T21:41:53.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "King's funding for Andrew not to be used for legal action against police",
-        "url": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.",
-        "publishedAt": "2026-10-05T18:48:40.000Z",
+        "publishedAt": "2026-10-06T07:02:24.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -150,35 +117,68 @@
         "zone": "gb"
       },
       {
-        "title": "Prisoner took his own life after terror order had 'substantial impact' on mental state, inquest finds",
-        "url": "https://www.bbc.co.uk/news/articles/c5398lm30pwwo?at_medium=RSS&at_campaign=rss",
+        "title": "Author and former politician Jeffrey Archer dies aged 86",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Akhtar Uddin was jailed for breaching Terrorism Prevention and Investigation Measures in 2020.",
-        "publishedAt": "2026-10-05T17:21:42.000Z",
+        "description": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month.",
+        "publishedAt": "2026-10-06T03:19:57.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Tories pledge £10bn 'Britannia Shield' air defence system",
-        "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
+        "title": "Rise in babies in care proceedings raises fears of unnecessary adoptions, experts tell BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c52e9k3998e7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.",
-        "publishedAt": "2026-10-05T22:39:20.000Z",
+        "description": "With better support, many babies may not have needed to go into care, File on 4 Investigates is told.",
+        "publishedAt": "2026-10-06T05:00:32.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx395grzzko?at_medium=RSS&at_campaign=rss",
+        "title": "MPs call for investigation after Lutnick-Epstein whistleblower dies",
+        "url": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Changes to how visitors see the Bayeux Tapestry exhibition were made after concerns over long queues and overcrowding.",
-        "publishedAt": "2026-10-05T17:08:11.000Z",
+        "description": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month.",
+        "publishedAt": "2026-10-05T23:29:02.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The city's space boom raises questions about the role of the state in backing important industries.",
+        "publishedAt": "2026-10-05T23:07:08.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
+        "publishedAt": "2026-10-06T06:53:17.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "UK oil refinery broke toxic pollution limits dozens of times, documents reveal",
+        "url": "https://www.bbc.co.uk/news/articles/c64g15v2jqy8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Pollution was spilled into local rivers and protected sites, documents shared with the BBC suggest.",
+        "publishedAt": "2026-10-06T06:01:12.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -193,40 +193,7 @@
           "name": "RSS Feed"
         },
         "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
-        "publishedAt": "2026-10-05T21:46:22.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "What prompted the US bombers to leave RAF Fairford?",
-        "url": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes.",
-        "publishedAt": "2026-10-05T21:57:26.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Author and former politician Jeffrey Archer dies aged 86",
-        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "His last book, Adam and Eve, is set to release this month.",
-        "publishedAt": "2026-10-05T21:41:53.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "King's funding for Andrew not to be used for legal action against police",
-        "url": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.",
-        "publishedAt": "2026-10-05T18:48:40.000Z",
+        "publishedAt": "2026-10-06T07:02:24.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -242,35 +209,68 @@
         "zone": "in"
       },
       {
-        "title": "Prisoner took his own life after terror order had 'substantial impact' on mental state, inquest finds",
-        "url": "https://www.bbc.co.uk/news/articles/c5398lm30pwwo?at_medium=RSS&at_campaign=rss",
+        "title": "Author and former politician Jeffrey Archer dies aged 86",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Akhtar Uddin was jailed for breaching Terrorism Prevention and Investigation Measures in 2020.",
-        "publishedAt": "2026-10-05T17:21:42.000Z",
+        "description": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month.",
+        "publishedAt": "2026-10-06T03:19:57.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Tories pledge £10bn 'Britannia Shield' air defence system",
-        "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
+        "title": "Rise in babies in care proceedings raises fears of unnecessary adoptions, experts tell BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c52e9k3998e7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.",
-        "publishedAt": "2026-10-05T22:39:20.000Z",
+        "description": "With better support, many babies may not have needed to go into care, File on 4 Investigates is told.",
+        "publishedAt": "2026-10-06T05:00:32.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx395grzzko?at_medium=RSS&at_campaign=rss",
+        "title": "MPs call for investigation after Lutnick-Epstein whistleblower dies",
+        "url": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Changes to how visitors see the Bayeux Tapestry exhibition were made after concerns over long queues and overcrowding.",
-        "publishedAt": "2026-10-05T17:08:11.000Z",
+        "description": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month.",
+        "publishedAt": "2026-10-05T23:29:02.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The city's space boom raises questions about the role of the state in backing important industries.",
+        "publishedAt": "2026-10-05T23:07:08.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
+        "publishedAt": "2026-10-06T06:53:17.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "UK oil refinery broke toxic pollution limits dozens of times, documents reveal",
+        "url": "https://www.bbc.co.uk/news/articles/c64g15v2jqy8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Pollution was spilled into local rivers and protected sites, documents shared with the BBC suggest.",
+        "publishedAt": "2026-10-06T06:01:12.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -285,40 +285,7 @@
           "name": "RSS Feed"
         },
         "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
-        "publishedAt": "2026-10-05T21:46:22.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "What prompted the US bombers to leave RAF Fairford?",
-        "url": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes.",
-        "publishedAt": "2026-10-05T21:57:26.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Author and former politician Jeffrey Archer dies aged 86",
-        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "His last book, Adam and Eve, is set to release this month.",
-        "publishedAt": "2026-10-05T21:41:53.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "King's funding for Andrew not to be used for legal action against police",
-        "url": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.",
-        "publishedAt": "2026-10-05T18:48:40.000Z",
+        "publishedAt": "2026-10-06T07:02:24.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -334,35 +301,68 @@
         "zone": "au"
       },
       {
-        "title": "Prisoner took his own life after terror order had 'substantial impact' on mental state, inquest finds",
-        "url": "https://www.bbc.co.uk/news/articles/c5398lm30pwwo?at_medium=RSS&at_campaign=rss",
+        "title": "Author and former politician Jeffrey Archer dies aged 86",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Akhtar Uddin was jailed for breaching Terrorism Prevention and Investigation Measures in 2020.",
-        "publishedAt": "2026-10-05T17:21:42.000Z",
+        "description": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month.",
+        "publishedAt": "2026-10-06T03:19:57.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Tories pledge £10bn 'Britannia Shield' air defence system",
-        "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
+        "title": "Rise in babies in care proceedings raises fears of unnecessary adoptions, experts tell BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c52e9k3998e7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.",
-        "publishedAt": "2026-10-05T22:39:20.000Z",
+        "description": "With better support, many babies may not have needed to go into care, File on 4 Investigates is told.",
+        "publishedAt": "2026-10-06T05:00:32.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx395grzzko?at_medium=RSS&at_campaign=rss",
+        "title": "MPs call for investigation after Lutnick-Epstein whistleblower dies",
+        "url": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Changes to how visitors see the Bayeux Tapestry exhibition were made after concerns over long queues and overcrowding.",
-        "publishedAt": "2026-10-05T17:08:11.000Z",
+        "description": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month.",
+        "publishedAt": "2026-10-05T23:29:02.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The city's space boom raises questions about the role of the state in backing important industries.",
+        "publishedAt": "2026-10-05T23:07:08.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
+        "publishedAt": "2026-10-06T06:53:17.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "UK oil refinery broke toxic pollution limits dozens of times, documents reveal",
+        "url": "https://www.bbc.co.uk/news/articles/c64g15v2jqy8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Pollution was spilled into local rivers and protected sites, documents shared with the BBC suggest.",
+        "publishedAt": "2026-10-06T06:01:12.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -377,40 +377,7 @@
           "name": "RSS Feed"
         },
         "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
-        "publishedAt": "2026-10-05T21:46:22.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "What prompted the US bombers to leave RAF Fairford?",
-        "url": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes.",
-        "publishedAt": "2026-10-05T21:57:26.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Author and former politician Jeffrey Archer dies aged 86",
-        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "His last book, Adam and Eve, is set to release this month.",
-        "publishedAt": "2026-10-05T21:41:53.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "King's funding for Andrew not to be used for legal action against police",
-        "url": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.",
-        "publishedAt": "2026-10-05T18:48:40.000Z",
+        "publishedAt": "2026-10-06T07:02:24.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -426,35 +393,68 @@
         "zone": "ca"
       },
       {
-        "title": "Prisoner took his own life after terror order had 'substantial impact' on mental state, inquest finds",
-        "url": "https://www.bbc.co.uk/news/articles/c5398lm30pwwo?at_medium=RSS&at_campaign=rss",
+        "title": "Author and former politician Jeffrey Archer dies aged 86",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Akhtar Uddin was jailed for breaching Terrorism Prevention and Investigation Measures in 2020.",
-        "publishedAt": "2026-10-05T17:21:42.000Z",
+        "description": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month.",
+        "publishedAt": "2026-10-06T03:19:57.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Tories pledge £10bn 'Britannia Shield' air defence system",
-        "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
+        "title": "Rise in babies in care proceedings raises fears of unnecessary adoptions, experts tell BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c52e9k3998e7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.",
-        "publishedAt": "2026-10-05T22:39:20.000Z",
+        "description": "With better support, many babies may not have needed to go into care, File on 4 Investigates is told.",
+        "publishedAt": "2026-10-06T05:00:32.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx395grzzko?at_medium=RSS&at_campaign=rss",
+        "title": "MPs call for investigation after Lutnick-Epstein whistleblower dies",
+        "url": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Changes to how visitors see the Bayeux Tapestry exhibition were made after concerns over long queues and overcrowding.",
-        "publishedAt": "2026-10-05T17:08:11.000Z",
+        "description": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month.",
+        "publishedAt": "2026-10-05T23:29:02.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The city's space boom raises questions about the role of the state in backing important industries.",
+        "publishedAt": "2026-10-05T23:07:08.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
+        "publishedAt": "2026-10-06T06:53:17.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "UK oil refinery broke toxic pollution limits dozens of times, documents reveal",
+        "url": "https://www.bbc.co.uk/news/articles/c64g15v2jqy8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Pollution was spilled into local rivers and protected sites, documents shared with the BBC suggest.",
+        "publishedAt": "2026-10-06T06:01:12.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -463,13 +463,57 @@
   "business_us": {
     "articles": [
       {
-        "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
+        "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
         "url": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "A growing number of parents are opening retirement funds for their children.",
-        "publishedAt": "2026-10-05T23:00:41.000Z",
+        "publishedAt": "2026-10-06T06:59:53.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Lego fraudster among last year's most high-profile insurance scammers",
+        "url": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
+        "publishedAt": "2026-10-06T07:03:35.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
+        "publishedAt": "2026-10-06T06:53:17.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Last call for the mall? How shopping centres are reinventing themselves",
+        "url": "https://www.bbc.co.uk/news/articles/ck9qrq1d19w4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In the internet age, medium-sized retail hubs are looking for new ways to survive and thrive.",
+        "publishedAt": "2026-10-06T05:28:37.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Wood Group offshore workers launch 48-hour strike in row over pay",
+        "url": "https://www.bbc.co.uk/news/articles/cm79pn0y8257o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Unite union said workers had faced the threat of fire and rehire notices and of having their pay cut.",
+        "publishedAt": "2026-10-06T04:57:20.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -485,17 +529,6 @@
         "zone": "us"
       },
       {
-        "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
-        "publishedAt": "2026-10-05T16:13:21.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
         "title": "Five reasons India's stock market is sinking even when its economy is growing",
         "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -507,46 +540,13 @@
         "zone": "us"
       },
       {
-        "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
-        "url": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
+        "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
-        "publishedAt": "2026-10-05T10:25:36.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Trump chooses top spy boss to run new AI taskforce",
-        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-        "publishedAt": "2026-10-05T10:03:38.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
-        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
-        "publishedAt": "2026-10-05T17:23:28.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "The job interview question you don't have to answer",
-        "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Experts explain what you should do if you are asked for your current salary during a job interview.",
-        "publishedAt": "2026-10-04T23:22:07.000Z",
+        "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+        "publishedAt": "2026-10-05T16:13:21.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,13 +555,57 @@
   "business_gb": {
     "articles": [
       {
-        "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
+        "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
         "url": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "A growing number of parents are opening retirement funds for their children.",
-        "publishedAt": "2026-10-05T23:00:41.000Z",
+        "publishedAt": "2026-10-06T06:59:53.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Lego fraudster among last year's most high-profile insurance scammers",
+        "url": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
+        "publishedAt": "2026-10-06T07:03:35.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
+        "publishedAt": "2026-10-06T06:53:17.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Last call for the mall? How shopping centres are reinventing themselves",
+        "url": "https://www.bbc.co.uk/news/articles/ck9qrq1d19w4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In the internet age, medium-sized retail hubs are looking for new ways to survive and thrive.",
+        "publishedAt": "2026-10-06T05:28:37.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Wood Group offshore workers launch 48-hour strike in row over pay",
+        "url": "https://www.bbc.co.uk/news/articles/cm79pn0y8257o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Unite union said workers had faced the threat of fire and rehire notices and of having their pay cut.",
+        "publishedAt": "2026-10-06T04:57:20.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -577,17 +621,6 @@
         "zone": "gb"
       },
       {
-        "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
-        "publishedAt": "2026-10-05T16:13:21.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
         "title": "Five reasons India's stock market is sinking even when its economy is growing",
         "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -599,46 +632,13 @@
         "zone": "gb"
       },
       {
-        "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
-        "url": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
+        "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
-        "publishedAt": "2026-10-05T10:25:36.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Trump chooses top spy boss to run new AI taskforce",
-        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-        "publishedAt": "2026-10-05T10:03:38.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
-        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
-        "publishedAt": "2026-10-05T17:23:28.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "The job interview question you don't have to answer",
-        "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Experts explain what you should do if you are asked for your current salary during a job interview.",
-        "publishedAt": "2026-10-04T23:22:07.000Z",
+        "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+        "publishedAt": "2026-10-05T16:13:21.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,13 +647,57 @@
   "business_in": {
     "articles": [
       {
-        "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
+        "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
         "url": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "A growing number of parents are opening retirement funds for their children.",
-        "publishedAt": "2026-10-05T23:00:41.000Z",
+        "publishedAt": "2026-10-06T06:59:53.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Lego fraudster among last year's most high-profile insurance scammers",
+        "url": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
+        "publishedAt": "2026-10-06T07:03:35.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
+        "publishedAt": "2026-10-06T06:53:17.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Last call for the mall? How shopping centres are reinventing themselves",
+        "url": "https://www.bbc.co.uk/news/articles/ck9qrq1d19w4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In the internet age, medium-sized retail hubs are looking for new ways to survive and thrive.",
+        "publishedAt": "2026-10-06T05:28:37.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Wood Group offshore workers launch 48-hour strike in row over pay",
+        "url": "https://www.bbc.co.uk/news/articles/cm79pn0y8257o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Unite union said workers had faced the threat of fire and rehire notices and of having their pay cut.",
+        "publishedAt": "2026-10-06T04:57:20.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -669,17 +713,6 @@
         "zone": "in"
       },
       {
-        "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
-        "publishedAt": "2026-10-05T16:13:21.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
         "title": "Five reasons India's stock market is sinking even when its economy is growing",
         "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -691,46 +724,13 @@
         "zone": "in"
       },
       {
-        "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
-        "url": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
+        "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
-        "publishedAt": "2026-10-05T10:25:36.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Trump chooses top spy boss to run new AI taskforce",
-        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-        "publishedAt": "2026-10-05T10:03:38.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
-        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
-        "publishedAt": "2026-10-05T17:23:28.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "The job interview question you don't have to answer",
-        "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Experts explain what you should do if you are asked for your current salary during a job interview.",
-        "publishedAt": "2026-10-04T23:22:07.000Z",
+        "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+        "publishedAt": "2026-10-05T16:13:21.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,13 +739,57 @@
   "business_au": {
     "articles": [
       {
-        "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
+        "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
         "url": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "A growing number of parents are opening retirement funds for their children.",
-        "publishedAt": "2026-10-05T23:00:41.000Z",
+        "publishedAt": "2026-10-06T06:59:53.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Lego fraudster among last year's most high-profile insurance scammers",
+        "url": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
+        "publishedAt": "2026-10-06T07:03:35.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
+        "publishedAt": "2026-10-06T06:53:17.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Last call for the mall? How shopping centres are reinventing themselves",
+        "url": "https://www.bbc.co.uk/news/articles/ck9qrq1d19w4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In the internet age, medium-sized retail hubs are looking for new ways to survive and thrive.",
+        "publishedAt": "2026-10-06T05:28:37.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Wood Group offshore workers launch 48-hour strike in row over pay",
+        "url": "https://www.bbc.co.uk/news/articles/cm79pn0y8257o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Unite union said workers had faced the threat of fire and rehire notices and of having their pay cut.",
+        "publishedAt": "2026-10-06T04:57:20.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -761,17 +805,6 @@
         "zone": "au"
       },
       {
-        "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
-        "publishedAt": "2026-10-05T16:13:21.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
         "title": "Five reasons India's stock market is sinking even when its economy is growing",
         "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -783,46 +816,13 @@
         "zone": "au"
       },
       {
-        "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
-        "url": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
+        "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
-        "publishedAt": "2026-10-05T10:25:36.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Trump chooses top spy boss to run new AI taskforce",
-        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-        "publishedAt": "2026-10-05T10:03:38.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
-        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
-        "publishedAt": "2026-10-05T17:23:28.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "The job interview question you don't have to answer",
-        "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Experts explain what you should do if you are asked for your current salary during a job interview.",
-        "publishedAt": "2026-10-04T23:22:07.000Z",
+        "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+        "publishedAt": "2026-10-05T16:13:21.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,13 +831,57 @@
   "business_ca": {
     "articles": [
       {
-        "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
+        "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
         "url": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "A growing number of parents are opening retirement funds for their children.",
-        "publishedAt": "2026-10-05T23:00:41.000Z",
+        "publishedAt": "2026-10-06T06:59:53.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Lego fraudster among last year's most high-profile insurance scammers",
+        "url": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
+        "publishedAt": "2026-10-06T07:03:35.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
+        "publishedAt": "2026-10-06T06:53:17.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Last call for the mall? How shopping centres are reinventing themselves",
+        "url": "https://www.bbc.co.uk/news/articles/ck9qrq1d19w4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In the internet age, medium-sized retail hubs are looking for new ways to survive and thrive.",
+        "publishedAt": "2026-10-06T05:28:37.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Wood Group offshore workers launch 48-hour strike in row over pay",
+        "url": "https://www.bbc.co.uk/news/articles/cm79pn0y8257o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Unite union said workers had faced the threat of fire and rehire notices and of having their pay cut.",
+        "publishedAt": "2026-10-06T04:57:20.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -853,17 +897,6 @@
         "zone": "ca"
       },
       {
-        "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
-        "publishedAt": "2026-10-05T16:13:21.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
         "title": "Five reasons India's stock market is sinking even when its economy is growing",
         "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -875,46 +908,13 @@
         "zone": "ca"
       },
       {
-        "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
-        "url": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
+        "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
-        "publishedAt": "2026-10-05T10:25:36.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Trump chooses top spy boss to run new AI taskforce",
-        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-        "publishedAt": "2026-10-05T10:03:38.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
-        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
-        "publishedAt": "2026-10-05T17:23:28.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "The job interview question you don't have to answer",
-        "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Experts explain what you should do if you are asked for your current salary during a job interview.",
-        "publishedAt": "2026-10-04T23:22:07.000Z",
+        "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+        "publishedAt": "2026-10-05T16:13:21.000Z",
         "category": "business",
         "zone": "ca"
       }
@@ -928,8 +928,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "His last book, Adam and Eve, is set to release this month.",
-        "publishedAt": "2026-10-05T21:41:53.000Z",
+        "description": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month.",
+        "publishedAt": "2026-10-06T03:19:57.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -1020,8 +1020,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "His last book, Adam and Eve, is set to release this month.",
-        "publishedAt": "2026-10-05T21:41:53.000Z",
+        "description": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month.",
+        "publishedAt": "2026-10-06T03:19:57.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1112,8 +1112,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "His last book, Adam and Eve, is set to release this month.",
-        "publishedAt": "2026-10-05T21:41:53.000Z",
+        "description": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month.",
+        "publishedAt": "2026-10-06T03:19:57.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1204,8 +1204,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "His last book, Adam and Eve, is set to release this month.",
-        "publishedAt": "2026-10-05T21:41:53.000Z",
+        "description": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month.",
+        "publishedAt": "2026-10-06T03:19:57.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1296,8 +1296,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "His last book, Adam and Eve, is set to release this month.",
-        "publishedAt": "2026-10-05T21:41:53.000Z",
+        "description": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month.",
+        "publishedAt": "2026-10-06T03:19:57.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1383,6 +1383,17 @@
   "health_us": {
     "articles": [
       {
+        "title": "Ten NHS trusts referred over monitoring consent",
+        "url": "https://www.bbc.co.uk/news/articles/cxm234pzj952o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Infrared technology is used in patients' bedrooms and can monitor their breathing and pulse.",
+        "publishedAt": "2026-10-06T05:42:35.000Z",
+        "category": "health",
+        "zone": "us"
+      },
+      {
         "title": "Nobel Prize awarded for revealing inner workings of the brain",
         "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1456,17 +1467,6 @@
         },
         "description": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK.",
         "publishedAt": "2026-09-29T17:39:06.000Z",
-        "category": "health",
-        "zone": "us"
-      },
-      {
-        "title": "Scrapping pensions triple lock 'morally wrong', says union boss",
-        "url": "https://www.bbc.co.uk/news/articles/cklyje46xnpgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andy Burnham wants to outline his ideas for a free-at-the-point-of-use social care system in his first speech to Labour conference as prime minister.",
-        "publishedAt": "2026-09-29T09:10:03.000Z",
         "category": "health",
         "zone": "us"
       }
@@ -1475,6 +1475,17 @@
   "health_gb": {
     "articles": [
       {
+        "title": "Ten NHS trusts referred over monitoring consent",
+        "url": "https://www.bbc.co.uk/news/articles/cxm234pzj952o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Infrared technology is used in patients' bedrooms and can monitor their breathing and pulse.",
+        "publishedAt": "2026-10-06T05:42:35.000Z",
+        "category": "health",
+        "zone": "gb"
+      },
+      {
         "title": "Nobel Prize awarded for revealing inner workings of the brain",
         "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1548,17 +1559,6 @@
         },
         "description": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK.",
         "publishedAt": "2026-09-29T17:39:06.000Z",
-        "category": "health",
-        "zone": "gb"
-      },
-      {
-        "title": "Scrapping pensions triple lock 'morally wrong', says union boss",
-        "url": "https://www.bbc.co.uk/news/articles/cklyje46xnpgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andy Burnham wants to outline his ideas for a free-at-the-point-of-use social care system in his first speech to Labour conference as prime minister.",
-        "publishedAt": "2026-09-29T09:10:03.000Z",
         "category": "health",
         "zone": "gb"
       }
@@ -1567,6 +1567,17 @@
   "health_in": {
     "articles": [
       {
+        "title": "Ten NHS trusts referred over monitoring consent",
+        "url": "https://www.bbc.co.uk/news/articles/cxm234pzj952o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Infrared technology is used in patients' bedrooms and can monitor their breathing and pulse.",
+        "publishedAt": "2026-10-06T05:42:35.000Z",
+        "category": "health",
+        "zone": "in"
+      },
+      {
         "title": "Nobel Prize awarded for revealing inner workings of the brain",
         "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1640,17 +1651,6 @@
         },
         "description": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK.",
         "publishedAt": "2026-09-29T17:39:06.000Z",
-        "category": "health",
-        "zone": "in"
-      },
-      {
-        "title": "Scrapping pensions triple lock 'morally wrong', says union boss",
-        "url": "https://www.bbc.co.uk/news/articles/cklyje46xnpgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andy Burnham wants to outline his ideas for a free-at-the-point-of-use social care system in his first speech to Labour conference as prime minister.",
-        "publishedAt": "2026-09-29T09:10:03.000Z",
         "category": "health",
         "zone": "in"
       }
@@ -1659,6 +1659,17 @@
   "health_au": {
     "articles": [
       {
+        "title": "Ten NHS trusts referred over monitoring consent",
+        "url": "https://www.bbc.co.uk/news/articles/cxm234pzj952o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Infrared technology is used in patients' bedrooms and can monitor their breathing and pulse.",
+        "publishedAt": "2026-10-06T05:42:35.000Z",
+        "category": "health",
+        "zone": "au"
+      },
+      {
         "title": "Nobel Prize awarded for revealing inner workings of the brain",
         "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1732,17 +1743,6 @@
         },
         "description": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK.",
         "publishedAt": "2026-09-29T17:39:06.000Z",
-        "category": "health",
-        "zone": "au"
-      },
-      {
-        "title": "Scrapping pensions triple lock 'morally wrong', says union boss",
-        "url": "https://www.bbc.co.uk/news/articles/cklyje46xnpgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andy Burnham wants to outline his ideas for a free-at-the-point-of-use social care system in his first speech to Labour conference as prime minister.",
-        "publishedAt": "2026-09-29T09:10:03.000Z",
         "category": "health",
         "zone": "au"
       }
@@ -1751,6 +1751,17 @@
   "health_ca": {
     "articles": [
       {
+        "title": "Ten NHS trusts referred over monitoring consent",
+        "url": "https://www.bbc.co.uk/news/articles/cxm234pzj952o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Infrared technology is used in patients' bedrooms and can monitor their breathing and pulse.",
+        "publishedAt": "2026-10-06T05:42:35.000Z",
+        "category": "health",
+        "zone": "ca"
+      },
+      {
         "title": "Nobel Prize awarded for revealing inner workings of the brain",
         "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1824,17 +1835,6 @@
         },
         "description": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK.",
         "publishedAt": "2026-09-29T17:39:06.000Z",
-        "category": "health",
-        "zone": "ca"
-      },
-      {
-        "title": "Scrapping pensions triple lock 'morally wrong', says union boss",
-        "url": "https://www.bbc.co.uk/news/articles/cklyje46xnpgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Andy Burnham wants to outline his ideas for a free-at-the-point-of-use social care system in his first speech to Labour conference as prime minister.",
-        "publishedAt": "2026-09-29T09:10:03.000Z",
         "category": "health",
         "zone": "ca"
       }
@@ -2314,24 +2314,68 @@
         "zone": "us"
       },
       {
-        "title": "F1 needs to have hard look at itself - Sainz",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cr62y51n1841o?at_medium=RSS&at_campaign=rss",
+        "title": "Owner, businessman & player: Messi has big plans as a golden era ends",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwly3lpmyye9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "F1 \"needs to have a hard look at\" itself in the wake of unprecedented software glitches that affected the Bahrain Grand Prix in Malaysia, Carlos Sainz says.",
-        "publishedAt": "2026-10-05T11:52:01.000Z",
+        "description": "Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what next for the 39-year-old?",
+        "publishedAt": "2026-10-06T05:39:49.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Player welfare, injury worries & boredom - has extended break worked?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss",
+        "title": "F1 in the wet and the future of engines - Q&A",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cr15j3z2npz9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The extended international break was brought in with player welfare in mind, but has it been a success?",
-        "publishedAt": "2026-10-05T14:54:39.000Z",
+        "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Bahrain Grand Prix in Malaysia.",
+        "publishedAt": "2026-10-06T06:47:43.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "NFL suspends two officials for player incidents",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/cqrlynky9j61o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The NFL suspends officials Jeff Seeman and Adrian Hill for instances of unprofessional conduct towards a player.",
+        "publishedAt": "2026-10-06T06:13:09.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Gauff condemns racist abuse after China Open win",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cqd09z0x9xd8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Coco Gauff says she suffered racial abuse on social media after an incident during her win over Sun Xinran at the China Open.",
+        "publishedAt": "2026-10-05T21:41:17.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Northern Ireland make huge strides despite Georgia frustration",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmvg9lp24p1po?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "With eight points from four games, Northern Ireland show real progress through what manager Michael O'Neill calls \"one of the most enjoyable windows\" he has had in international football.",
+        "publishedAt": "2026-10-05T23:30:24.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Captain apologises for gloating over military service exemption",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6wy4xd80xyvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lee Gi-hyuk apologises for gloating about avoiding South Korea's mandatory military service by captaining his country to the football gold medal at the Asian Games.",
+        "publishedAt": "2026-10-06T06:43:45.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2343,50 +2387,6 @@
         },
         "description": "Daniil Medvedev is disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic.",
         "publishedAt": "2026-10-05T14:44:45.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Gabriel in Man Utd team photo but no hint of reconciliation",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmde8n8j0dn4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "As he prepares to celebrate his 16th birthday, the rift between Manchester United and JJ Gabriel shows no sign of being healed.",
-        "publishedAt": "2026-10-05T19:13:15.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "ECB will 'look at' funding women's Windies Test if needed",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The England and Wales Cricket Board (ECB) will “look at” the unusual step of funding a women’s Test in the West Indies next year in order to aid England’s Ashes preparations.",
-        "publishedAt": "2026-10-05T17:00:17.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Juventus & Atletico Madrid eye Madueke - Tuesday's gossip",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw203mjx7r46o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Arsenal forward Noni Madueke has suitors in Spain and Italy, five Premier League clubs are interested in Barcelona defender Jules Kounde, England captain Harry Kane is close to signing a new deal at Bayern Munich, plus more.",
-        "publishedAt": "2026-10-05T20:38:51.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Littler suffers defeat in World Youth Championships",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/c3gr8yrywyd1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Luke Littler is knocked out of the World Youth Championships in the semi-finals by Cam Crabtree.",
-        "publishedAt": "2026-10-05T20:07:20.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2406,24 +2406,68 @@
         "zone": "gb"
       },
       {
-        "title": "F1 needs to have hard look at itself - Sainz",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cr62y51n1841o?at_medium=RSS&at_campaign=rss",
+        "title": "Owner, businessman & player: Messi has big plans as a golden era ends",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwly3lpmyye9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "F1 \"needs to have a hard look at\" itself in the wake of unprecedented software glitches that affected the Bahrain Grand Prix in Malaysia, Carlos Sainz says.",
-        "publishedAt": "2026-10-05T11:52:01.000Z",
+        "description": "Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what next for the 39-year-old?",
+        "publishedAt": "2026-10-06T05:39:49.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Player welfare, injury worries & boredom - has extended break worked?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss",
+        "title": "F1 in the wet and the future of engines - Q&A",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cr15j3z2npz9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The extended international break was brought in with player welfare in mind, but has it been a success?",
-        "publishedAt": "2026-10-05T14:54:39.000Z",
+        "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Bahrain Grand Prix in Malaysia.",
+        "publishedAt": "2026-10-06T06:47:43.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "NFL suspends two officials for player incidents",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/cqrlynky9j61o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The NFL suspends officials Jeff Seeman and Adrian Hill for instances of unprofessional conduct towards a player.",
+        "publishedAt": "2026-10-06T06:13:09.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Gauff condemns racist abuse after China Open win",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cqd09z0x9xd8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Coco Gauff says she suffered racial abuse on social media after an incident during her win over Sun Xinran at the China Open.",
+        "publishedAt": "2026-10-05T21:41:17.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Northern Ireland make huge strides despite Georgia frustration",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmvg9lp24p1po?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "With eight points from four games, Northern Ireland show real progress through what manager Michael O'Neill calls \"one of the most enjoyable windows\" he has had in international football.",
+        "publishedAt": "2026-10-05T23:30:24.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Captain apologises for gloating over military service exemption",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6wy4xd80xyvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lee Gi-hyuk apologises for gloating about avoiding South Korea's mandatory military service by captaining his country to the football gold medal at the Asian Games.",
+        "publishedAt": "2026-10-06T06:43:45.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2435,50 +2479,6 @@
         },
         "description": "Daniil Medvedev is disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic.",
         "publishedAt": "2026-10-05T14:44:45.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Gabriel in Man Utd team photo but no hint of reconciliation",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmde8n8j0dn4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "As he prepares to celebrate his 16th birthday, the rift between Manchester United and JJ Gabriel shows no sign of being healed.",
-        "publishedAt": "2026-10-05T19:13:15.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "ECB will 'look at' funding women's Windies Test if needed",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The England and Wales Cricket Board (ECB) will “look at” the unusual step of funding a women’s Test in the West Indies next year in order to aid England’s Ashes preparations.",
-        "publishedAt": "2026-10-05T17:00:17.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Juventus & Atletico Madrid eye Madueke - Tuesday's gossip",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw203mjx7r46o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Arsenal forward Noni Madueke has suitors in Spain and Italy, five Premier League clubs are interested in Barcelona defender Jules Kounde, England captain Harry Kane is close to signing a new deal at Bayern Munich, plus more.",
-        "publishedAt": "2026-10-05T20:38:51.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Littler suffers defeat in World Youth Championships",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/c3gr8yrywyd1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Luke Littler is knocked out of the World Youth Championships in the semi-finals by Cam Crabtree.",
-        "publishedAt": "2026-10-05T20:07:20.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2498,24 +2498,68 @@
         "zone": "in"
       },
       {
-        "title": "F1 needs to have hard look at itself - Sainz",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cr62y51n1841o?at_medium=RSS&at_campaign=rss",
+        "title": "Owner, businessman & player: Messi has big plans as a golden era ends",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwly3lpmyye9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "F1 \"needs to have a hard look at\" itself in the wake of unprecedented software glitches that affected the Bahrain Grand Prix in Malaysia, Carlos Sainz says.",
-        "publishedAt": "2026-10-05T11:52:01.000Z",
+        "description": "Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what next for the 39-year-old?",
+        "publishedAt": "2026-10-06T05:39:49.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Player welfare, injury worries & boredom - has extended break worked?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss",
+        "title": "F1 in the wet and the future of engines - Q&A",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cr15j3z2npz9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The extended international break was brought in with player welfare in mind, but has it been a success?",
-        "publishedAt": "2026-10-05T14:54:39.000Z",
+        "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Bahrain Grand Prix in Malaysia.",
+        "publishedAt": "2026-10-06T06:47:43.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "NFL suspends two officials for player incidents",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/cqrlynky9j61o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The NFL suspends officials Jeff Seeman and Adrian Hill for instances of unprofessional conduct towards a player.",
+        "publishedAt": "2026-10-06T06:13:09.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Gauff condemns racist abuse after China Open win",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cqd09z0x9xd8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Coco Gauff says she suffered racial abuse on social media after an incident during her win over Sun Xinran at the China Open.",
+        "publishedAt": "2026-10-05T21:41:17.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Northern Ireland make huge strides despite Georgia frustration",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmvg9lp24p1po?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "With eight points from four games, Northern Ireland show real progress through what manager Michael O'Neill calls \"one of the most enjoyable windows\" he has had in international football.",
+        "publishedAt": "2026-10-05T23:30:24.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Captain apologises for gloating over military service exemption",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6wy4xd80xyvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lee Gi-hyuk apologises for gloating about avoiding South Korea's mandatory military service by captaining his country to the football gold medal at the Asian Games.",
+        "publishedAt": "2026-10-06T06:43:45.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2527,50 +2571,6 @@
         },
         "description": "Daniil Medvedev is disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic.",
         "publishedAt": "2026-10-05T14:44:45.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Gabriel in Man Utd team photo but no hint of reconciliation",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmde8n8j0dn4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "As he prepares to celebrate his 16th birthday, the rift between Manchester United and JJ Gabriel shows no sign of being healed.",
-        "publishedAt": "2026-10-05T19:13:15.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "ECB will 'look at' funding women's Windies Test if needed",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The England and Wales Cricket Board (ECB) will “look at” the unusual step of funding a women’s Test in the West Indies next year in order to aid England’s Ashes preparations.",
-        "publishedAt": "2026-10-05T17:00:17.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Juventus & Atletico Madrid eye Madueke - Tuesday's gossip",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw203mjx7r46o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Arsenal forward Noni Madueke has suitors in Spain and Italy, five Premier League clubs are interested in Barcelona defender Jules Kounde, England captain Harry Kane is close to signing a new deal at Bayern Munich, plus more.",
-        "publishedAt": "2026-10-05T20:38:51.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Littler suffers defeat in World Youth Championships",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/c3gr8yrywyd1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Luke Littler is knocked out of the World Youth Championships in the semi-finals by Cam Crabtree.",
-        "publishedAt": "2026-10-05T20:07:20.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2590,24 +2590,68 @@
         "zone": "au"
       },
       {
-        "title": "F1 needs to have hard look at itself - Sainz",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cr62y51n1841o?at_medium=RSS&at_campaign=rss",
+        "title": "Owner, businessman & player: Messi has big plans as a golden era ends",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwly3lpmyye9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "F1 \"needs to have a hard look at\" itself in the wake of unprecedented software glitches that affected the Bahrain Grand Prix in Malaysia, Carlos Sainz says.",
-        "publishedAt": "2026-10-05T11:52:01.000Z",
+        "description": "Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what next for the 39-year-old?",
+        "publishedAt": "2026-10-06T05:39:49.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Player welfare, injury worries & boredom - has extended break worked?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss",
+        "title": "F1 in the wet and the future of engines - Q&A",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cr15j3z2npz9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The extended international break was brought in with player welfare in mind, but has it been a success?",
-        "publishedAt": "2026-10-05T14:54:39.000Z",
+        "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Bahrain Grand Prix in Malaysia.",
+        "publishedAt": "2026-10-06T06:47:43.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "NFL suspends two officials for player incidents",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/cqrlynky9j61o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The NFL suspends officials Jeff Seeman and Adrian Hill for instances of unprofessional conduct towards a player.",
+        "publishedAt": "2026-10-06T06:13:09.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Gauff condemns racist abuse after China Open win",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cqd09z0x9xd8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Coco Gauff says she suffered racial abuse on social media after an incident during her win over Sun Xinran at the China Open.",
+        "publishedAt": "2026-10-05T21:41:17.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Northern Ireland make huge strides despite Georgia frustration",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmvg9lp24p1po?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "With eight points from four games, Northern Ireland show real progress through what manager Michael O'Neill calls \"one of the most enjoyable windows\" he has had in international football.",
+        "publishedAt": "2026-10-05T23:30:24.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Captain apologises for gloating over military service exemption",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6wy4xd80xyvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lee Gi-hyuk apologises for gloating about avoiding South Korea's mandatory military service by captaining his country to the football gold medal at the Asian Games.",
+        "publishedAt": "2026-10-06T06:43:45.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2619,50 +2663,6 @@
         },
         "description": "Daniil Medvedev is disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic.",
         "publishedAt": "2026-10-05T14:44:45.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Gabriel in Man Utd team photo but no hint of reconciliation",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmde8n8j0dn4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "As he prepares to celebrate his 16th birthday, the rift between Manchester United and JJ Gabriel shows no sign of being healed.",
-        "publishedAt": "2026-10-05T19:13:15.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "ECB will 'look at' funding women's Windies Test if needed",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The England and Wales Cricket Board (ECB) will “look at” the unusual step of funding a women’s Test in the West Indies next year in order to aid England’s Ashes preparations.",
-        "publishedAt": "2026-10-05T17:00:17.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Juventus & Atletico Madrid eye Madueke - Tuesday's gossip",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw203mjx7r46o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Arsenal forward Noni Madueke has suitors in Spain and Italy, five Premier League clubs are interested in Barcelona defender Jules Kounde, England captain Harry Kane is close to signing a new deal at Bayern Munich, plus more.",
-        "publishedAt": "2026-10-05T20:38:51.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Littler suffers defeat in World Youth Championships",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/c3gr8yrywyd1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Luke Littler is knocked out of the World Youth Championships in the semi-finals by Cam Crabtree.",
-        "publishedAt": "2026-10-05T20:07:20.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2682,24 +2682,68 @@
         "zone": "ca"
       },
       {
-        "title": "F1 needs to have hard look at itself - Sainz",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cr62y51n1841o?at_medium=RSS&at_campaign=rss",
+        "title": "Owner, businessman & player: Messi has big plans as a golden era ends",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwly3lpmyye9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "F1 \"needs to have a hard look at\" itself in the wake of unprecedented software glitches that affected the Bahrain Grand Prix in Malaysia, Carlos Sainz says.",
-        "publishedAt": "2026-10-05T11:52:01.000Z",
+        "description": "Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what next for the 39-year-old?",
+        "publishedAt": "2026-10-06T05:39:49.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Player welfare, injury worries & boredom - has extended break worked?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss",
+        "title": "F1 in the wet and the future of engines - Q&A",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cr15j3z2npz9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The extended international break was brought in with player welfare in mind, but has it been a success?",
-        "publishedAt": "2026-10-05T14:54:39.000Z",
+        "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Bahrain Grand Prix in Malaysia.",
+        "publishedAt": "2026-10-06T06:47:43.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "NFL suspends two officials for player incidents",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/cqrlynky9j61o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The NFL suspends officials Jeff Seeman and Adrian Hill for instances of unprofessional conduct towards a player.",
+        "publishedAt": "2026-10-06T06:13:09.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Gauff condemns racist abuse after China Open win",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cqd09z0x9xd8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Coco Gauff says she suffered racial abuse on social media after an incident during her win over Sun Xinran at the China Open.",
+        "publishedAt": "2026-10-05T21:41:17.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Northern Ireland make huge strides despite Georgia frustration",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmvg9lp24p1po?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "With eight points from four games, Northern Ireland show real progress through what manager Michael O'Neill calls \"one of the most enjoyable windows\" he has had in international football.",
+        "publishedAt": "2026-10-05T23:30:24.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Captain apologises for gloating over military service exemption",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6wy4xd80xyvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lee Gi-hyuk apologises for gloating about avoiding South Korea's mandatory military service by captaining his country to the football gold medal at the Asian Games.",
+        "publishedAt": "2026-10-06T06:43:45.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2713,55 +2757,22 @@
         "publishedAt": "2026-10-05T14:44:45.000Z",
         "category": "sports",
         "zone": "ca"
-      },
-      {
-        "title": "Gabriel in Man Utd team photo but no hint of reconciliation",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmde8n8j0dn4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "As he prepares to celebrate his 16th birthday, the rift between Manchester United and JJ Gabriel shows no sign of being healed.",
-        "publishedAt": "2026-10-05T19:13:15.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "ECB will 'look at' funding women's Windies Test if needed",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The England and Wales Cricket Board (ECB) will “look at” the unusual step of funding a women’s Test in the West Indies next year in order to aid England’s Ashes preparations.",
-        "publishedAt": "2026-10-05T17:00:17.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Juventus & Atletico Madrid eye Madueke - Tuesday's gossip",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw203mjx7r46o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Arsenal forward Noni Madueke has suitors in Spain and Italy, five Premier League clubs are interested in Barcelona defender Jules Kounde, England captain Harry Kane is close to signing a new deal at Bayern Munich, plus more.",
-        "publishedAt": "2026-10-05T20:38:51.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Littler suffers defeat in World Youth Championships",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/c3gr8yrywyd1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Luke Littler is knocked out of the World Youth Championships in the semi-finals by Cam Crabtree.",
-        "publishedAt": "2026-10-05T20:07:20.000Z",
-        "category": "sports",
-        "zone": "ca"
       }
     ]
   },
   "technology_us": {
     "articles": [
+      {
+        "title": "Lego fraudster among last year's most high-profile insurance scammers",
+        "url": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
+        "publishedAt": "2026-10-06T07:03:35.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
       {
         "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
         "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
@@ -2836,17 +2847,6 @@
         },
         "description": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
         "publishedAt": "2026-09-30T23:10:19.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "The AI telling farmers when to harvest",
-        "url": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
-        "publishedAt": "2026-09-30T23:02:21.000Z",
         "category": "technology",
         "zone": "us"
       }
@@ -2855,6 +2855,17 @@
   "technology_gb": {
     "articles": [
       {
+        "title": "Lego fraudster among last year's most high-profile insurance scammers",
+        "url": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
+        "publishedAt": "2026-10-06T07:03:35.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
         "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
         "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2928,17 +2939,6 @@
         },
         "description": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
         "publishedAt": "2026-09-30T23:10:19.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "The AI telling farmers when to harvest",
-        "url": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
-        "publishedAt": "2026-09-30T23:02:21.000Z",
         "category": "technology",
         "zone": "gb"
       }
@@ -2947,6 +2947,17 @@
   "technology_in": {
     "articles": [
       {
+        "title": "Lego fraudster among last year's most high-profile insurance scammers",
+        "url": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
+        "publishedAt": "2026-10-06T07:03:35.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
         "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
         "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3020,17 +3031,6 @@
         },
         "description": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
         "publishedAt": "2026-09-30T23:10:19.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "The AI telling farmers when to harvest",
-        "url": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
-        "publishedAt": "2026-09-30T23:02:21.000Z",
         "category": "technology",
         "zone": "in"
       }
@@ -3039,6 +3039,17 @@
   "technology_au": {
     "articles": [
       {
+        "title": "Lego fraudster among last year's most high-profile insurance scammers",
+        "url": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
+        "publishedAt": "2026-10-06T07:03:35.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
         "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
         "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3112,17 +3123,6 @@
         },
         "description": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
         "publishedAt": "2026-09-30T23:10:19.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "The AI telling farmers when to harvest",
-        "url": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
-        "publishedAt": "2026-09-30T23:02:21.000Z",
         "category": "technology",
         "zone": "au"
       }
@@ -3131,6 +3131,17 @@
   "technology_ca": {
     "articles": [
       {
+        "title": "Lego fraudster among last year's most high-profile insurance scammers",
+        "url": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
+        "publishedAt": "2026-10-06T07:03:35.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
         "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
         "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3204,17 +3215,6 @@
         },
         "description": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
         "publishedAt": "2026-09-30T23:10:19.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "The AI telling farmers when to harvest",
-        "url": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
-        "publishedAt": "2026-09-30T23:02:21.000Z",
         "category": "technology",
         "zone": "ca"
       }
