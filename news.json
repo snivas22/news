@@ -1,7 +1,40 @@
 {
-  "generatedAt": "2026-10-09T15:54:04.711Z",
+  "generatedAt": "2026-10-09T20:38:01.080Z",
   "general_us": {
     "articles": [
+      {
+        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+        "publishedAt": "2026-10-09T20:32:42.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "NI secretary to ban the Drumcree parade",
+        "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
+        "publishedAt": "2026-10-09T20:19:24.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+        "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+        "publishedAt": "2026-10-09T18:40:10.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
         "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
@@ -9,7 +42,7 @@
           "name": "RSS Feed"
         },
         "description": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
-        "publishedAt": "2026-10-09T15:16:54.000Z",
+        "publishedAt": "2026-10-09T19:26:53.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -21,6 +54,17 @@
         },
         "description": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.",
         "publishedAt": "2026-10-09T12:29:02.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+        "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+        "publishedAt": "2026-10-09T18:40:05.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -42,51 +86,7 @@
           "name": "RSS Feed"
         },
         "description": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\"",
-        "publishedAt": "2026-10-09T15:18:58.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Anthropic bans users from being 'cruel' to its AI systems",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-        "publishedAt": "2026-10-09T12:34:27.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Alison Hammond: 'I thought I was having heart attack on air'",
-        "url": "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The host says a health scare on live TV was one of the \"scariest things I've ever been through\".",
-        "publishedAt": "2026-10-09T10:52:34.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Bank cashier outed by holiday photos after stealing £8k is ordered to pay back money",
-        "url": "https://www.bbc.co.uk/news/articles/c6rmy7287njko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Kelly Kershaw stole from vulnerable customers to fund a safari in Africa and a trip to Paris.",
-        "publishedAt": "2026-10-09T15:14:30.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Firing squad execution of man who killed 13 soldiers to be livestreamed, Pentagon says",
-        "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
-        "publishedAt": "2026-10-09T12:24:58.000Z",
+        "publishedAt": "2026-10-09T17:14:16.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,13 +95,46 @@
   "general_gb": {
     "articles": [
       {
+        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+        "publishedAt": "2026-10-09T20:32:42.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "NI secretary to ban the Drumcree parade",
+        "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
+        "publishedAt": "2026-10-09T20:19:24.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+        "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+        "publishedAt": "2026-10-09T18:40:10.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
         "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
-        "publishedAt": "2026-10-09T15:16:54.000Z",
+        "publishedAt": "2026-10-09T19:26:53.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -113,6 +146,17 @@
         },
         "description": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.",
         "publishedAt": "2026-10-09T12:29:02.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+        "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+        "publishedAt": "2026-10-09T18:40:05.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -134,51 +178,7 @@
           "name": "RSS Feed"
         },
         "description": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\"",
-        "publishedAt": "2026-10-09T15:18:58.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Anthropic bans users from being 'cruel' to its AI systems",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-        "publishedAt": "2026-10-09T12:34:27.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Alison Hammond: 'I thought I was having heart attack on air'",
-        "url": "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The host says a health scare on live TV was one of the \"scariest things I've ever been through\".",
-        "publishedAt": "2026-10-09T10:52:34.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Bank cashier outed by holiday photos after stealing £8k is ordered to pay back money",
-        "url": "https://www.bbc.co.uk/news/articles/c6rmy7287njko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Kelly Kershaw stole from vulnerable customers to fund a safari in Africa and a trip to Paris.",
-        "publishedAt": "2026-10-09T15:14:30.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Firing squad execution of man who killed 13 soldiers to be livestreamed, Pentagon says",
-        "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
-        "publishedAt": "2026-10-09T12:24:58.000Z",
+        "publishedAt": "2026-10-09T17:14:16.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,13 +187,46 @@
   "general_in": {
     "articles": [
       {
+        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+        "publishedAt": "2026-10-09T20:32:42.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "NI secretary to ban the Drumcree parade",
+        "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
+        "publishedAt": "2026-10-09T20:19:24.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+        "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+        "publishedAt": "2026-10-09T18:40:10.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
         "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
-        "publishedAt": "2026-10-09T15:16:54.000Z",
+        "publishedAt": "2026-10-09T19:26:53.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -205,6 +238,17 @@
         },
         "description": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.",
         "publishedAt": "2026-10-09T12:29:02.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+        "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+        "publishedAt": "2026-10-09T18:40:05.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -226,51 +270,7 @@
           "name": "RSS Feed"
         },
         "description": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\"",
-        "publishedAt": "2026-10-09T15:18:58.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Anthropic bans users from being 'cruel' to its AI systems",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-        "publishedAt": "2026-10-09T12:34:27.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Alison Hammond: 'I thought I was having heart attack on air'",
-        "url": "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The host says a health scare on live TV was one of the \"scariest things I've ever been through\".",
-        "publishedAt": "2026-10-09T10:52:34.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Bank cashier outed by holiday photos after stealing £8k is ordered to pay back money",
-        "url": "https://www.bbc.co.uk/news/articles/c6rmy7287njko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Kelly Kershaw stole from vulnerable customers to fund a safari in Africa and a trip to Paris.",
-        "publishedAt": "2026-10-09T15:14:30.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Firing squad execution of man who killed 13 soldiers to be livestreamed, Pentagon says",
-        "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
-        "publishedAt": "2026-10-09T12:24:58.000Z",
+        "publishedAt": "2026-10-09T17:14:16.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,13 +279,46 @@
   "general_au": {
     "articles": [
       {
+        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+        "publishedAt": "2026-10-09T20:32:42.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "NI secretary to ban the Drumcree parade",
+        "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
+        "publishedAt": "2026-10-09T20:19:24.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+        "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+        "publishedAt": "2026-10-09T18:40:10.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
         "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
-        "publishedAt": "2026-10-09T15:16:54.000Z",
+        "publishedAt": "2026-10-09T19:26:53.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -297,6 +330,17 @@
         },
         "description": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.",
         "publishedAt": "2026-10-09T12:29:02.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+        "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+        "publishedAt": "2026-10-09T18:40:05.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -318,51 +362,7 @@
           "name": "RSS Feed"
         },
         "description": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\"",
-        "publishedAt": "2026-10-09T15:18:58.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Anthropic bans users from being 'cruel' to its AI systems",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-        "publishedAt": "2026-10-09T12:34:27.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Alison Hammond: 'I thought I was having heart attack on air'",
-        "url": "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The host says a health scare on live TV was one of the \"scariest things I've ever been through\".",
-        "publishedAt": "2026-10-09T10:52:34.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Bank cashier outed by holiday photos after stealing £8k is ordered to pay back money",
-        "url": "https://www.bbc.co.uk/news/articles/c6rmy7287njko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Kelly Kershaw stole from vulnerable customers to fund a safari in Africa and a trip to Paris.",
-        "publishedAt": "2026-10-09T15:14:30.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Firing squad execution of man who killed 13 soldiers to be livestreamed, Pentagon says",
-        "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
-        "publishedAt": "2026-10-09T12:24:58.000Z",
+        "publishedAt": "2026-10-09T17:14:16.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,13 +371,46 @@
   "general_ca": {
     "articles": [
       {
+        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+        "publishedAt": "2026-10-09T20:32:42.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "NI secretary to ban the Drumcree parade",
+        "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
+        "publishedAt": "2026-10-09T20:19:24.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+        "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+        "publishedAt": "2026-10-09T18:40:10.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
         "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
-        "publishedAt": "2026-10-09T15:16:54.000Z",
+        "publishedAt": "2026-10-09T19:26:53.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -389,6 +422,17 @@
         },
         "description": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.",
         "publishedAt": "2026-10-09T12:29:02.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+        "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+        "publishedAt": "2026-10-09T18:40:05.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -410,51 +454,7 @@
           "name": "RSS Feed"
         },
         "description": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\"",
-        "publishedAt": "2026-10-09T15:18:58.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Anthropic bans users from being 'cruel' to its AI systems",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-        "publishedAt": "2026-10-09T12:34:27.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Alison Hammond: 'I thought I was having heart attack on air'",
-        "url": "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The host says a health scare on live TV was one of the \"scariest things I've ever been through\".",
-        "publishedAt": "2026-10-09T10:52:34.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Bank cashier outed by holiday photos after stealing £8k is ordered to pay back money",
-        "url": "https://www.bbc.co.uk/news/articles/c6rmy7287njko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Kelly Kershaw stole from vulnerable customers to fund a safari in Africa and a trip to Paris.",
-        "publishedAt": "2026-10-09T15:14:30.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Firing squad execution of man who killed 13 soldiers to be livestreamed, Pentagon says",
-        "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
-        "publishedAt": "2026-10-09T12:24:58.000Z",
+        "publishedAt": "2026-10-09T17:14:16.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -463,13 +463,24 @@
   "business_us": {
     "articles": [
       {
+        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+        "publishedAt": "2026-10-09T20:32:42.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "Burnham promises to curb non-compete rules in job contracts",
         "url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
-        "publishedAt": "2026-10-09T13:02:47.000Z",
+        "publishedAt": "2026-10-09T16:15:30.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -491,7 +502,7 @@
           "name": "RSS Feed"
         },
         "description": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
-        "publishedAt": "2026-10-09T04:55:14.000Z",
+        "publishedAt": "2026-10-09T19:32:50.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -507,17 +518,6 @@
         "zone": "us"
       },
       {
-        "title": "Anthropic bans users from being 'cruel' to its AI systems",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-        "publishedAt": "2026-10-09T12:34:27.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
         "title": "Why are more roofs not made of solar tiles?",
         "url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -529,6 +529,17 @@
         "zone": "us"
       },
       {
+        "title": "Anthropic bans users from being 'cruel' to its AI systems",
+        "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
+        "publishedAt": "2026-10-09T12:34:27.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "'Add me on WhatsApp' scam calls to be investigated",
         "url": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -536,17 +547,6 @@
         },
         "description": "The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam.",
         "publishedAt": "2026-10-08T23:05:09.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-        "url": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
-        "publishedAt": "2026-10-09T09:30:49.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,13 +555,24 @@
   "business_gb": {
     "articles": [
       {
+        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+        "publishedAt": "2026-10-09T20:32:42.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "Burnham promises to curb non-compete rules in job contracts",
         "url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
-        "publishedAt": "2026-10-09T13:02:47.000Z",
+        "publishedAt": "2026-10-09T16:15:30.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -583,7 +594,7 @@
           "name": "RSS Feed"
         },
         "description": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
-        "publishedAt": "2026-10-09T04:55:14.000Z",
+        "publishedAt": "2026-10-09T19:32:50.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -599,17 +610,6 @@
         "zone": "gb"
       },
       {
-        "title": "Anthropic bans users from being 'cruel' to its AI systems",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-        "publishedAt": "2026-10-09T12:34:27.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
         "title": "Why are more roofs not made of solar tiles?",
         "url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -621,6 +621,17 @@
         "zone": "gb"
       },
       {
+        "title": "Anthropic bans users from being 'cruel' to its AI systems",
+        "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
+        "publishedAt": "2026-10-09T12:34:27.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "'Add me on WhatsApp' scam calls to be investigated",
         "url": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -628,17 +639,6 @@
         },
         "description": "The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam.",
         "publishedAt": "2026-10-08T23:05:09.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-        "url": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
-        "publishedAt": "2026-10-09T09:30:49.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,13 +647,24 @@
   "business_in": {
     "articles": [
       {
+        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+        "publishedAt": "2026-10-09T20:32:42.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "Burnham promises to curb non-compete rules in job contracts",
         "url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
-        "publishedAt": "2026-10-09T13:02:47.000Z",
+        "publishedAt": "2026-10-09T16:15:30.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -675,7 +686,7 @@
           "name": "RSS Feed"
         },
         "description": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
-        "publishedAt": "2026-10-09T04:55:14.000Z",
+        "publishedAt": "2026-10-09T19:32:50.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -691,17 +702,6 @@
         "zone": "in"
       },
       {
-        "title": "Anthropic bans users from being 'cruel' to its AI systems",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-        "publishedAt": "2026-10-09T12:34:27.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
         "title": "Why are more roofs not made of solar tiles?",
         "url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -713,6 +713,17 @@
         "zone": "in"
       },
       {
+        "title": "Anthropic bans users from being 'cruel' to its AI systems",
+        "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
+        "publishedAt": "2026-10-09T12:34:27.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "'Add me on WhatsApp' scam calls to be investigated",
         "url": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -720,17 +731,6 @@
         },
         "description": "The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam.",
         "publishedAt": "2026-10-08T23:05:09.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-        "url": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
-        "publishedAt": "2026-10-09T09:30:49.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,13 +739,24 @@
   "business_au": {
     "articles": [
       {
+        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+        "publishedAt": "2026-10-09T20:32:42.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "Burnham promises to curb non-compete rules in job contracts",
         "url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
-        "publishedAt": "2026-10-09T13:02:47.000Z",
+        "publishedAt": "2026-10-09T16:15:30.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -767,7 +778,7 @@
           "name": "RSS Feed"
         },
         "description": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
-        "publishedAt": "2026-10-09T04:55:14.000Z",
+        "publishedAt": "2026-10-09T19:32:50.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -783,17 +794,6 @@
         "zone": "au"
       },
       {
-        "title": "Anthropic bans users from being 'cruel' to its AI systems",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-        "publishedAt": "2026-10-09T12:34:27.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
         "title": "Why are more roofs not made of solar tiles?",
         "url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -805,6 +805,17 @@
         "zone": "au"
       },
       {
+        "title": "Anthropic bans users from being 'cruel' to its AI systems",
+        "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
+        "publishedAt": "2026-10-09T12:34:27.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "'Add me on WhatsApp' scam calls to be investigated",
         "url": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -812,17 +823,6 @@
         },
         "description": "The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam.",
         "publishedAt": "2026-10-08T23:05:09.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-        "url": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
-        "publishedAt": "2026-10-09T09:30:49.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,13 +831,24 @@
   "business_ca": {
     "articles": [
       {
+        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+        "publishedAt": "2026-10-09T20:32:42.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "Burnham promises to curb non-compete rules in job contracts",
         "url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
-        "publishedAt": "2026-10-09T13:02:47.000Z",
+        "publishedAt": "2026-10-09T16:15:30.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -859,7 +870,7 @@
           "name": "RSS Feed"
         },
         "description": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
-        "publishedAt": "2026-10-09T04:55:14.000Z",
+        "publishedAt": "2026-10-09T19:32:50.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -875,17 +886,6 @@
         "zone": "ca"
       },
       {
-        "title": "Anthropic bans users from being 'cruel' to its AI systems",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-        "publishedAt": "2026-10-09T12:34:27.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
         "title": "Why are more roofs not made of solar tiles?",
         "url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -897,6 +897,17 @@
         "zone": "ca"
       },
       {
+        "title": "Anthropic bans users from being 'cruel' to its AI systems",
+        "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
+        "publishedAt": "2026-10-09T12:34:27.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "'Add me on WhatsApp' scam calls to be investigated",
         "url": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -904,17 +915,6 @@
         },
         "description": "The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam.",
         "publishedAt": "2026-10-08T23:05:09.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-        "url": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
-        "publishedAt": "2026-10-09T09:30:49.000Z",
         "category": "business",
         "zone": "ca"
       }
@@ -978,6 +978,17 @@
         "zone": "us"
       },
       {
+        "title": "Hollywood actor Luke Evans on 'joyous' four months filming in rainy Wales",
+        "url": "https://www.bbc.co.uk/news/articles/cqde873038pwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "His family were on the set, and he even managed to get some relatives a cameo in the final episode.",
+        "publishedAt": "2026-10-09T18:02:29.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
         "title": "Video game Cyberpunk 2077 to get live-action movie adaptation",
         "url": "https://www.bbc.co.uk/news/articles/c60e048r02lgo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -996,17 +1007,6 @@
         },
         "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
         "publishedAt": "2026-10-08T20:38:11.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
-        "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
-        "publishedAt": "2026-10-08T14:33:23.000Z",
         "category": "entertainment",
         "zone": "us"
       }
@@ -1070,6 +1070,17 @@
         "zone": "gb"
       },
       {
+        "title": "Hollywood actor Luke Evans on 'joyous' four months filming in rainy Wales",
+        "url": "https://www.bbc.co.uk/news/articles/cqde873038pwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "His family were on the set, and he even managed to get some relatives a cameo in the final episode.",
+        "publishedAt": "2026-10-09T18:02:29.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
         "title": "Video game Cyberpunk 2077 to get live-action movie adaptation",
         "url": "https://www.bbc.co.uk/news/articles/c60e048r02lgo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1088,17 +1099,6 @@
         },
         "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
         "publishedAt": "2026-10-08T20:38:11.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
-        "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
-        "publishedAt": "2026-10-08T14:33:23.000Z",
         "category": "entertainment",
         "zone": "gb"
       }
@@ -1162,6 +1162,17 @@
         "zone": "in"
       },
       {
+        "title": "Hollywood actor Luke Evans on 'joyous' four months filming in rainy Wales",
+        "url": "https://www.bbc.co.uk/news/articles/cqde873038pwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "His family were on the set, and he even managed to get some relatives a cameo in the final episode.",
+        "publishedAt": "2026-10-09T18:02:29.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
         "title": "Video game Cyberpunk 2077 to get live-action movie adaptation",
         "url": "https://www.bbc.co.uk/news/articles/c60e048r02lgo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1180,17 +1191,6 @@
         },
         "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
         "publishedAt": "2026-10-08T20:38:11.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
-        "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
-        "publishedAt": "2026-10-08T14:33:23.000Z",
         "category": "entertainment",
         "zone": "in"
       }
@@ -1254,6 +1254,17 @@
         "zone": "au"
       },
       {
+        "title": "Hollywood actor Luke Evans on 'joyous' four months filming in rainy Wales",
+        "url": "https://www.bbc.co.uk/news/articles/cqde873038pwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "His family were on the set, and he even managed to get some relatives a cameo in the final episode.",
+        "publishedAt": "2026-10-09T18:02:29.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
         "title": "Video game Cyberpunk 2077 to get live-action movie adaptation",
         "url": "https://www.bbc.co.uk/news/articles/c60e048r02lgo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1272,17 +1283,6 @@
         },
         "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
         "publishedAt": "2026-10-08T20:38:11.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
-        "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
-        "publishedAt": "2026-10-08T14:33:23.000Z",
         "category": "entertainment",
         "zone": "au"
       }
@@ -1346,6 +1346,17 @@
         "zone": "ca"
       },
       {
+        "title": "Hollywood actor Luke Evans on 'joyous' four months filming in rainy Wales",
+        "url": "https://www.bbc.co.uk/news/articles/cqde873038pwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "His family were on the set, and he even managed to get some relatives a cameo in the final episode.",
+        "publishedAt": "2026-10-09T18:02:29.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
         "title": "Video game Cyberpunk 2077 to get live-action movie adaptation",
         "url": "https://www.bbc.co.uk/news/articles/c60e048r02lgo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1364,17 +1375,6 @@
         },
         "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
         "publishedAt": "2026-10-08T20:38:11.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
-        "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
-        "publishedAt": "2026-10-08T14:33:23.000Z",
         "category": "entertainment",
         "zone": "ca"
       }
@@ -2347,24 +2347,13 @@
         "zone": "us"
       },
       {
-        "title": "'Good value in pub' - ex-NFL star Kelce tries rugby",
-        "url": "https://www.bbc.co.uk/sport/articles/cm79pdw50y7wo?at_medium=RSS&at_campaign=rss",
+        "title": "Everton up for sale again - so what next as owners TFG look for a way out?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3y0e8n9q4e0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Philadelphia Eagles Super Bowl winner Jason Kelce stuns amateur London rugby players by showing up for a practice game.",
-        "publishedAt": "2026-10-09T13:40:57.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Everton owners consider selling club two years after takeover",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Everton owners the Friedkin Group are exploring the sale of the club less than two years after taking control.",
-        "publishedAt": "2026-10-09T08:23:50.000Z",
+        "description": "Everton are up for sale again. Chief football writer Phil McNulty looks at what happens next as owners The Friedkin Group look for a way out.",
+        "publishedAt": "2026-10-09T15:38:59.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2380,13 +2369,24 @@
         "zone": "us"
       },
       {
-        "title": "Man City titles 'absolutely not' tainted - Maresca",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmzxjdvv784xo?at_medium=RSS&at_campaign=rss",
+        "title": "Ex-Essex cricketer faces trial on two rape charges",
+        "url": "https://www.bbc.co.uk/news/articles/ck5yn6325wj2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City manager Enzo Maresca says the club's titles are \"absolutely not\" tainted after they were found guilty of the majority of the 115 charges brought against them by the Premier League.",
-        "publishedAt": "2026-10-09T14:08:55.000Z",
+        "description": "Robin Das, 24, will appear before a jury at Inner London Crown Court in January 2028.",
+        "publishedAt": "2026-10-09T14:07:34.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Edwards joins Argentina as defence coach",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm9dz5e19jxjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Defence coach Shaun Edwards joins Argentina's coaching staff on a deal that runs until the end of the 2027 Rugby World Cup in Australia.",
+        "publishedAt": "2026-10-09T16:43:14.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2439,24 +2439,13 @@
         "zone": "gb"
       },
       {
-        "title": "'Good value in pub' - ex-NFL star Kelce tries rugby",
-        "url": "https://www.bbc.co.uk/sport/articles/cm79pdw50y7wo?at_medium=RSS&at_campaign=rss",
+        "title": "Everton up for sale again - so what next as owners TFG look for a way out?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3y0e8n9q4e0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Philadelphia Eagles Super Bowl winner Jason Kelce stuns amateur London rugby players by showing up for a practice game.",
-        "publishedAt": "2026-10-09T13:40:57.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Everton owners consider selling club two years after takeover",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Everton owners the Friedkin Group are exploring the sale of the club less than two years after taking control.",
-        "publishedAt": "2026-10-09T08:23:50.000Z",
+        "description": "Everton are up for sale again. Chief football writer Phil McNulty looks at what happens next as owners The Friedkin Group look for a way out.",
+        "publishedAt": "2026-10-09T15:38:59.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2472,13 +2461,24 @@
         "zone": "gb"
       },
       {
-        "title": "Man City titles 'absolutely not' tainted - Maresca",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmzxjdvv784xo?at_medium=RSS&at_campaign=rss",
+        "title": "Ex-Essex cricketer faces trial on two rape charges",
+        "url": "https://www.bbc.co.uk/news/articles/ck5yn6325wj2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City manager Enzo Maresca says the club's titles are \"absolutely not\" tainted after they were found guilty of the majority of the 115 charges brought against them by the Premier League.",
-        "publishedAt": "2026-10-09T14:08:55.000Z",
+        "description": "Robin Das, 24, will appear before a jury at Inner London Crown Court in January 2028.",
+        "publishedAt": "2026-10-09T14:07:34.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Edwards joins Argentina as defence coach",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm9dz5e19jxjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Defence coach Shaun Edwards joins Argentina's coaching staff on a deal that runs until the end of the 2027 Rugby World Cup in Australia.",
+        "publishedAt": "2026-10-09T16:43:14.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2531,24 +2531,13 @@
         "zone": "in"
       },
       {
-        "title": "'Good value in pub' - ex-NFL star Kelce tries rugby",
-        "url": "https://www.bbc.co.uk/sport/articles/cm79pdw50y7wo?at_medium=RSS&at_campaign=rss",
+        "title": "Everton up for sale again - so what next as owners TFG look for a way out?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3y0e8n9q4e0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Philadelphia Eagles Super Bowl winner Jason Kelce stuns amateur London rugby players by showing up for a practice game.",
-        "publishedAt": "2026-10-09T13:40:57.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Everton owners consider selling club two years after takeover",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Everton owners the Friedkin Group are exploring the sale of the club less than two years after taking control.",
-        "publishedAt": "2026-10-09T08:23:50.000Z",
+        "description": "Everton are up for sale again. Chief football writer Phil McNulty looks at what happens next as owners The Friedkin Group look for a way out.",
+        "publishedAt": "2026-10-09T15:38:59.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2564,13 +2553,24 @@
         "zone": "in"
       },
       {
-        "title": "Man City titles 'absolutely not' tainted - Maresca",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmzxjdvv784xo?at_medium=RSS&at_campaign=rss",
+        "title": "Ex-Essex cricketer faces trial on two rape charges",
+        "url": "https://www.bbc.co.uk/news/articles/ck5yn6325wj2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City manager Enzo Maresca says the club's titles are \"absolutely not\" tainted after they were found guilty of the majority of the 115 charges brought against them by the Premier League.",
-        "publishedAt": "2026-10-09T14:08:55.000Z",
+        "description": "Robin Das, 24, will appear before a jury at Inner London Crown Court in January 2028.",
+        "publishedAt": "2026-10-09T14:07:34.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Edwards joins Argentina as defence coach",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm9dz5e19jxjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Defence coach Shaun Edwards joins Argentina's coaching staff on a deal that runs until the end of the 2027 Rugby World Cup in Australia.",
+        "publishedAt": "2026-10-09T16:43:14.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2623,24 +2623,13 @@
         "zone": "au"
       },
       {
-        "title": "'Good value in pub' - ex-NFL star Kelce tries rugby",
-        "url": "https://www.bbc.co.uk/sport/articles/cm79pdw50y7wo?at_medium=RSS&at_campaign=rss",
+        "title": "Everton up for sale again - so what next as owners TFG look for a way out?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3y0e8n9q4e0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Philadelphia Eagles Super Bowl winner Jason Kelce stuns amateur London rugby players by showing up for a practice game.",
-        "publishedAt": "2026-10-09T13:40:57.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Everton owners consider selling club two years after takeover",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Everton owners the Friedkin Group are exploring the sale of the club less than two years after taking control.",
-        "publishedAt": "2026-10-09T08:23:50.000Z",
+        "description": "Everton are up for sale again. Chief football writer Phil McNulty looks at what happens next as owners The Friedkin Group look for a way out.",
+        "publishedAt": "2026-10-09T15:38:59.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2656,13 +2645,24 @@
         "zone": "au"
       },
       {
-        "title": "Man City titles 'absolutely not' tainted - Maresca",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmzxjdvv784xo?at_medium=RSS&at_campaign=rss",
+        "title": "Ex-Essex cricketer faces trial on two rape charges",
+        "url": "https://www.bbc.co.uk/news/articles/ck5yn6325wj2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City manager Enzo Maresca says the club's titles are \"absolutely not\" tainted after they were found guilty of the majority of the 115 charges brought against them by the Premier League.",
-        "publishedAt": "2026-10-09T14:08:55.000Z",
+        "description": "Robin Das, 24, will appear before a jury at Inner London Crown Court in January 2028.",
+        "publishedAt": "2026-10-09T14:07:34.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Edwards joins Argentina as defence coach",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm9dz5e19jxjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Defence coach Shaun Edwards joins Argentina's coaching staff on a deal that runs until the end of the 2027 Rugby World Cup in Australia.",
+        "publishedAt": "2026-10-09T16:43:14.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2715,24 +2715,13 @@
         "zone": "ca"
       },
       {
-        "title": "'Good value in pub' - ex-NFL star Kelce tries rugby",
-        "url": "https://www.bbc.co.uk/sport/articles/cm79pdw50y7wo?at_medium=RSS&at_campaign=rss",
+        "title": "Everton up for sale again - so what next as owners TFG look for a way out?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3y0e8n9q4e0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Philadelphia Eagles Super Bowl winner Jason Kelce stuns amateur London rugby players by showing up for a practice game.",
-        "publishedAt": "2026-10-09T13:40:57.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Everton owners consider selling club two years after takeover",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Everton owners the Friedkin Group are exploring the sale of the club less than two years after taking control.",
-        "publishedAt": "2026-10-09T08:23:50.000Z",
+        "description": "Everton are up for sale again. Chief football writer Phil McNulty looks at what happens next as owners The Friedkin Group look for a way out.",
+        "publishedAt": "2026-10-09T15:38:59.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2748,13 +2737,24 @@
         "zone": "ca"
       },
       {
-        "title": "Man City titles 'absolutely not' tainted - Maresca",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmzxjdvv784xo?at_medium=RSS&at_campaign=rss",
+        "title": "Ex-Essex cricketer faces trial on two rape charges",
+        "url": "https://www.bbc.co.uk/news/articles/ck5yn6325wj2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City manager Enzo Maresca says the club's titles are \"absolutely not\" tainted after they were found guilty of the majority of the 115 charges brought against them by the Premier League.",
-        "publishedAt": "2026-10-09T14:08:55.000Z",
+        "description": "Robin Das, 24, will appear before a jury at Inner London Crown Court in January 2028.",
+        "publishedAt": "2026-10-09T14:07:34.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Edwards joins Argentina as defence coach",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm9dz5e19jxjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Defence coach Shaun Edwards joins Argentina's coaching staff on a deal that runs until the end of the 2027 Rugby World Cup in Australia.",
+        "publishedAt": "2026-10-09T16:43:14.000Z",
         "category": "sports",
         "zone": "ca"
       }
