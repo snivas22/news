@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T00:32:59.437Z",
+  "generatedAt": "2026-10-10T06:45:49.051Z",
   "general_us": {
     "articles": [
       {
@@ -9,7 +9,7 @@
           "name": "RSS Feed"
         },
         "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-        "publishedAt": "2026-10-10T00:19:26.000Z",
+        "publishedAt": "2026-10-10T04:38:20.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -25,13 +25,24 @@
         "zone": "us"
       },
       {
-        "title": "NI secretary to ban the Drumcree parade",
+        "title": "NI secretary intervenes to ban Drumcree parade",
         "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
-        "publishedAt": "2026-10-09T21:46:19.000Z",
+        "publishedAt": "2026-10-10T06:29:56.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+        "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+        "publishedAt": "2026-10-10T04:34:55.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -47,35 +58,24 @@
         "zone": "us"
       },
       {
-        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-        "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+        "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-        "publishedAt": "2026-10-09T18:40:10.000Z",
+        "description": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
+        "publishedAt": "2026-10-10T04:51:57.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-        "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+        "title": "Queen reflects on reading 'forbidden' Lady Chatterley's Lover under the pillow",
+        "url": "https://www.bbc.co.uk/news/articles/cm70pee7l57do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
-        "publishedAt": "2026-10-09T21:50:47.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Weekend showers and sunshine for UK ahead of warmer temperatures next week",
-        "url": "https://www.bbc.co.uk/weather/articles/cknv0qyv1d3po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "With sunshine and showers forecast for the weekend, next week could see a return to some warmer temperatures but there will be gales for some.",
-        "publishedAt": "2026-10-09T23:00:53.000Z",
+        "description": "In BBC documentary The Book That Changed My Life, the Queen speaks about memorable moments in her own reading.",
+        "publishedAt": "2026-10-10T05:00:18.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -101,7 +101,7 @@
           "name": "RSS Feed"
         },
         "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-        "publishedAt": "2026-10-10T00:19:26.000Z",
+        "publishedAt": "2026-10-10T04:38:20.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -117,13 +117,24 @@
         "zone": "gb"
       },
       {
-        "title": "NI secretary to ban the Drumcree parade",
+        "title": "NI secretary intervenes to ban Drumcree parade",
         "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
-        "publishedAt": "2026-10-09T21:46:19.000Z",
+        "publishedAt": "2026-10-10T06:29:56.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+        "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+        "publishedAt": "2026-10-10T04:34:55.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -139,35 +150,24 @@
         "zone": "gb"
       },
       {
-        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-        "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+        "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-        "publishedAt": "2026-10-09T18:40:10.000Z",
+        "description": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
+        "publishedAt": "2026-10-10T04:51:57.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-        "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+        "title": "Queen reflects on reading 'forbidden' Lady Chatterley's Lover under the pillow",
+        "url": "https://www.bbc.co.uk/news/articles/cm70pee7l57do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
-        "publishedAt": "2026-10-09T21:50:47.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Weekend showers and sunshine for UK ahead of warmer temperatures next week",
-        "url": "https://www.bbc.co.uk/weather/articles/cknv0qyv1d3po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "With sunshine and showers forecast for the weekend, next week could see a return to some warmer temperatures but there will be gales for some.",
-        "publishedAt": "2026-10-09T23:00:53.000Z",
+        "description": "In BBC documentary The Book That Changed My Life, the Queen speaks about memorable moments in her own reading.",
+        "publishedAt": "2026-10-10T05:00:18.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -193,7 +193,7 @@
           "name": "RSS Feed"
         },
         "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-        "publishedAt": "2026-10-10T00:19:26.000Z",
+        "publishedAt": "2026-10-10T04:38:20.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -209,13 +209,24 @@
         "zone": "in"
       },
       {
-        "title": "NI secretary to ban the Drumcree parade",
+        "title": "NI secretary intervenes to ban Drumcree parade",
         "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
-        "publishedAt": "2026-10-09T21:46:19.000Z",
+        "publishedAt": "2026-10-10T06:29:56.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+        "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+        "publishedAt": "2026-10-10T04:34:55.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -231,35 +242,24 @@
         "zone": "in"
       },
       {
-        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-        "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+        "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-        "publishedAt": "2026-10-09T18:40:10.000Z",
+        "description": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
+        "publishedAt": "2026-10-10T04:51:57.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-        "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+        "title": "Queen reflects on reading 'forbidden' Lady Chatterley's Lover under the pillow",
+        "url": "https://www.bbc.co.uk/news/articles/cm70pee7l57do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
-        "publishedAt": "2026-10-09T21:50:47.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Weekend showers and sunshine for UK ahead of warmer temperatures next week",
-        "url": "https://www.bbc.co.uk/weather/articles/cknv0qyv1d3po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "With sunshine and showers forecast for the weekend, next week could see a return to some warmer temperatures but there will be gales for some.",
-        "publishedAt": "2026-10-09T23:00:53.000Z",
+        "description": "In BBC documentary The Book That Changed My Life, the Queen speaks about memorable moments in her own reading.",
+        "publishedAt": "2026-10-10T05:00:18.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -285,7 +285,7 @@
           "name": "RSS Feed"
         },
         "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-        "publishedAt": "2026-10-10T00:19:26.000Z",
+        "publishedAt": "2026-10-10T04:38:20.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -301,13 +301,24 @@
         "zone": "au"
       },
       {
-        "title": "NI secretary to ban the Drumcree parade",
+        "title": "NI secretary intervenes to ban Drumcree parade",
         "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
-        "publishedAt": "2026-10-09T21:46:19.000Z",
+        "publishedAt": "2026-10-10T06:29:56.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+        "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+        "publishedAt": "2026-10-10T04:34:55.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -323,35 +334,24 @@
         "zone": "au"
       },
       {
-        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-        "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+        "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-        "publishedAt": "2026-10-09T18:40:10.000Z",
+        "description": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
+        "publishedAt": "2026-10-10T04:51:57.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-        "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+        "title": "Queen reflects on reading 'forbidden' Lady Chatterley's Lover under the pillow",
+        "url": "https://www.bbc.co.uk/news/articles/cm70pee7l57do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
-        "publishedAt": "2026-10-09T21:50:47.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Weekend showers and sunshine for UK ahead of warmer temperatures next week",
-        "url": "https://www.bbc.co.uk/weather/articles/cknv0qyv1d3po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "With sunshine and showers forecast for the weekend, next week could see a return to some warmer temperatures but there will be gales for some.",
-        "publishedAt": "2026-10-09T23:00:53.000Z",
+        "description": "In BBC documentary The Book That Changed My Life, the Queen speaks about memorable moments in her own reading.",
+        "publishedAt": "2026-10-10T05:00:18.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -377,7 +377,7 @@
           "name": "RSS Feed"
         },
         "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-        "publishedAt": "2026-10-10T00:19:26.000Z",
+        "publishedAt": "2026-10-10T04:38:20.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -393,13 +393,24 @@
         "zone": "ca"
       },
       {
-        "title": "NI secretary to ban the Drumcree parade",
+        "title": "NI secretary intervenes to ban Drumcree parade",
         "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
-        "publishedAt": "2026-10-09T21:46:19.000Z",
+        "publishedAt": "2026-10-10T06:29:56.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+        "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+        "publishedAt": "2026-10-10T04:34:55.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -415,35 +426,24 @@
         "zone": "ca"
       },
       {
-        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-        "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+        "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-        "publishedAt": "2026-10-09T18:40:10.000Z",
+        "description": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
+        "publishedAt": "2026-10-10T04:51:57.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-        "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+        "title": "Queen reflects on reading 'forbidden' Lady Chatterley's Lover under the pillow",
+        "url": "https://www.bbc.co.uk/news/articles/cm70pee7l57do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
-        "publishedAt": "2026-10-09T21:50:47.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Weekend showers and sunshine for UK ahead of warmer temperatures next week",
-        "url": "https://www.bbc.co.uk/weather/articles/cknv0qyv1d3po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "With sunshine and showers forecast for the weekend, next week could see a return to some warmer temperatures but there will be gales for some.",
-        "publishedAt": "2026-10-09T23:00:53.000Z",
+        "description": "In BBC documentary The Book That Changed My Life, the Queen speaks about memorable moments in her own reading.",
+        "publishedAt": "2026-10-10T05:00:18.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -469,7 +469,7 @@
           "name": "RSS Feed"
         },
         "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-        "publishedAt": "2026-10-10T00:19:26.000Z",
+        "publishedAt": "2026-10-10T04:38:20.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -561,7 +561,7 @@
           "name": "RSS Feed"
         },
         "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-        "publishedAt": "2026-10-10T00:19:26.000Z",
+        "publishedAt": "2026-10-10T04:38:20.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -653,7 +653,7 @@
           "name": "RSS Feed"
         },
         "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-        "publishedAt": "2026-10-10T00:19:26.000Z",
+        "publishedAt": "2026-10-10T04:38:20.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -745,7 +745,7 @@
           "name": "RSS Feed"
         },
         "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-        "publishedAt": "2026-10-10T00:19:26.000Z",
+        "publishedAt": "2026-10-10T04:38:20.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -837,7 +837,7 @@
           "name": "RSS Feed"
         },
         "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-        "publishedAt": "2026-10-10T00:19:26.000Z",
+        "publishedAt": "2026-10-10T04:38:20.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -2303,6 +2303,17 @@
   "sports_us": {
     "articles": [
       {
+        "title": "Time to rise? Ranking European football's sleeping giants",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq5yjyyzd35do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "From Sampdoria to Saint-Etienne and Real Zaragoza, who are the sleeping giants of European football?",
+        "publishedAt": "2026-10-10T05:14:17.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Greek takeaways: What did we learn from Lionesses' win?",
         "url": "https://www.bbc.co.uk/sport/football/articles/cwp8g1ry6rjlo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2321,17 +2332,6 @@
         },
         "description": "Mikel Arteta says his conscience is clear over Manchester City's rule breaches during a period when he was assistant manager at the club.",
         "publishedAt": "2026-10-09T21:30:52.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "What reception awaits Man City at Anfield?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cjkgey07lq15o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Bus welcomes, banners and flags expected as Man City head to Liverpool on Sunday for their first game since they were found guilty of breaching Premier League rules.",
-        "publishedAt": "2026-10-09T14:02:46.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2369,6 +2369,17 @@
         "zone": "us"
       },
       {
+        "title": "Who am I? Plus today's other quizzes",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5n49xxjxe4zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+        "publishedAt": "2026-10-10T05:28:48.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "I've got my own questions on Man City case - Carrick",
         "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2376,17 +2387,6 @@
         },
         "description": "Manchester United boss Michael Carrick says he was personally affected by the Manchester City case which has seen the club found guilty of breaching Premier League financial rules and still has questions about the matter.",
         "publishedAt": "2026-10-09T14:30:38.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Edwards joins Argentina as defence coach",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm9dz5e19jxjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Defence coach Shaun Edwards joins Argentina's coaching staff on a deal that runs until the end of the 2027 Rugby World Cup in Australia.",
-        "publishedAt": "2026-10-09T16:43:14.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,6 +2395,17 @@
   "sports_gb": {
     "articles": [
       {
+        "title": "Time to rise? Ranking European football's sleeping giants",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq5yjyyzd35do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "From Sampdoria to Saint-Etienne and Real Zaragoza, who are the sleeping giants of European football?",
+        "publishedAt": "2026-10-10T05:14:17.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Greek takeaways: What did we learn from Lionesses' win?",
         "url": "https://www.bbc.co.uk/sport/football/articles/cwp8g1ry6rjlo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2413,17 +2424,6 @@
         },
         "description": "Mikel Arteta says his conscience is clear over Manchester City's rule breaches during a period when he was assistant manager at the club.",
         "publishedAt": "2026-10-09T21:30:52.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "What reception awaits Man City at Anfield?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cjkgey07lq15o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Bus welcomes, banners and flags expected as Man City head to Liverpool on Sunday for their first game since they were found guilty of breaching Premier League rules.",
-        "publishedAt": "2026-10-09T14:02:46.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2461,6 +2461,17 @@
         "zone": "gb"
       },
       {
+        "title": "Who am I? Plus today's other quizzes",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5n49xxjxe4zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+        "publishedAt": "2026-10-10T05:28:48.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "I've got my own questions on Man City case - Carrick",
         "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2468,17 +2479,6 @@
         },
         "description": "Manchester United boss Michael Carrick says he was personally affected by the Manchester City case which has seen the club found guilty of breaching Premier League financial rules and still has questions about the matter.",
         "publishedAt": "2026-10-09T14:30:38.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Edwards joins Argentina as defence coach",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm9dz5e19jxjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Defence coach Shaun Edwards joins Argentina's coaching staff on a deal that runs until the end of the 2027 Rugby World Cup in Australia.",
-        "publishedAt": "2026-10-09T16:43:14.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,6 +2487,17 @@
   "sports_in": {
     "articles": [
       {
+        "title": "Time to rise? Ranking European football's sleeping giants",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq5yjyyzd35do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "From Sampdoria to Saint-Etienne and Real Zaragoza, who are the sleeping giants of European football?",
+        "publishedAt": "2026-10-10T05:14:17.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Greek takeaways: What did we learn from Lionesses' win?",
         "url": "https://www.bbc.co.uk/sport/football/articles/cwp8g1ry6rjlo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2505,17 +2516,6 @@
         },
         "description": "Mikel Arteta says his conscience is clear over Manchester City's rule breaches during a period when he was assistant manager at the club.",
         "publishedAt": "2026-10-09T21:30:52.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "What reception awaits Man City at Anfield?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cjkgey07lq15o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Bus welcomes, banners and flags expected as Man City head to Liverpool on Sunday for their first game since they were found guilty of breaching Premier League rules.",
-        "publishedAt": "2026-10-09T14:02:46.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2553,6 +2553,17 @@
         "zone": "in"
       },
       {
+        "title": "Who am I? Plus today's other quizzes",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5n49xxjxe4zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+        "publishedAt": "2026-10-10T05:28:48.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "I've got my own questions on Man City case - Carrick",
         "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2560,17 +2571,6 @@
         },
         "description": "Manchester United boss Michael Carrick says he was personally affected by the Manchester City case which has seen the club found guilty of breaching Premier League financial rules and still has questions about the matter.",
         "publishedAt": "2026-10-09T14:30:38.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Edwards joins Argentina as defence coach",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm9dz5e19jxjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Defence coach Shaun Edwards joins Argentina's coaching staff on a deal that runs until the end of the 2027 Rugby World Cup in Australia.",
-        "publishedAt": "2026-10-09T16:43:14.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,6 +2579,17 @@
   "sports_au": {
     "articles": [
       {
+        "title": "Time to rise? Ranking European football's sleeping giants",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq5yjyyzd35do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "From Sampdoria to Saint-Etienne and Real Zaragoza, who are the sleeping giants of European football?",
+        "publishedAt": "2026-10-10T05:14:17.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Greek takeaways: What did we learn from Lionesses' win?",
         "url": "https://www.bbc.co.uk/sport/football/articles/cwp8g1ry6rjlo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2597,17 +2608,6 @@
         },
         "description": "Mikel Arteta says his conscience is clear over Manchester City's rule breaches during a period when he was assistant manager at the club.",
         "publishedAt": "2026-10-09T21:30:52.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "What reception awaits Man City at Anfield?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cjkgey07lq15o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Bus welcomes, banners and flags expected as Man City head to Liverpool on Sunday for their first game since they were found guilty of breaching Premier League rules.",
-        "publishedAt": "2026-10-09T14:02:46.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2645,6 +2645,17 @@
         "zone": "au"
       },
       {
+        "title": "Who am I? Plus today's other quizzes",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5n49xxjxe4zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+        "publishedAt": "2026-10-10T05:28:48.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "I've got my own questions on Man City case - Carrick",
         "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2652,17 +2663,6 @@
         },
         "description": "Manchester United boss Michael Carrick says he was personally affected by the Manchester City case which has seen the club found guilty of breaching Premier League financial rules and still has questions about the matter.",
         "publishedAt": "2026-10-09T14:30:38.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Edwards joins Argentina as defence coach",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm9dz5e19jxjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Defence coach Shaun Edwards joins Argentina's coaching staff on a deal that runs until the end of the 2027 Rugby World Cup in Australia.",
-        "publishedAt": "2026-10-09T16:43:14.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,6 +2671,17 @@
   "sports_ca": {
     "articles": [
       {
+        "title": "Time to rise? Ranking European football's sleeping giants",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq5yjyyzd35do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "From Sampdoria to Saint-Etienne and Real Zaragoza, who are the sleeping giants of European football?",
+        "publishedAt": "2026-10-10T05:14:17.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Greek takeaways: What did we learn from Lionesses' win?",
         "url": "https://www.bbc.co.uk/sport/football/articles/cwp8g1ry6rjlo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2689,17 +2700,6 @@
         },
         "description": "Mikel Arteta says his conscience is clear over Manchester City's rule breaches during a period when he was assistant manager at the club.",
         "publishedAt": "2026-10-09T21:30:52.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "What reception awaits Man City at Anfield?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cjkgey07lq15o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Bus welcomes, banners and flags expected as Man City head to Liverpool on Sunday for their first game since they were found guilty of breaching Premier League rules.",
-        "publishedAt": "2026-10-09T14:02:46.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2737,6 +2737,17 @@
         "zone": "ca"
       },
       {
+        "title": "Who am I? Plus today's other quizzes",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5n49xxjxe4zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+        "publishedAt": "2026-10-10T05:28:48.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "I've got my own questions on Man City case - Carrick",
         "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2744,17 +2755,6 @@
         },
         "description": "Manchester United boss Michael Carrick says he was personally affected by the Manchester City case which has seen the club found guilty of breaching Premier League financial rules and still has questions about the matter.",
         "publishedAt": "2026-10-09T14:30:38.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Edwards joins Argentina as defence coach",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm9dz5e19jxjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Defence coach Shaun Edwards joins Argentina's coaching staff on a deal that runs until the end of the 2027 Rugby World Cup in Australia.",
-        "publishedAt": "2026-10-09T16:43:14.000Z",
         "category": "sports",
         "zone": "ca"
       }
