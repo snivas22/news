@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T23:12:47.621Z",
+  "generatedAt": "2026-10-14T03:58:24.546Z",
   "general_us": {
     "articles": [
       {
@@ -9,7 +9,7 @@
           "name": "RSS Feed"
         },
         "description": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
-        "publishedAt": "2026-10-13T22:07:06.000Z",
+        "publishedAt": "2026-10-13T23:58:56.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -20,7 +20,7 @@
           "name": "RSS Feed"
         },
         "description": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-        "publishedAt": "2026-10-13T20:46:06.000Z",
+        "publishedAt": "2026-10-14T00:17:00.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -47,13 +47,24 @@
         "zone": "us"
       },
       {
-        "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-        "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+        "title": "Zelensky and Burnham to meet in Downing Street",
+        "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
-        "publishedAt": "2026-10-13T18:25:28.000Z",
+        "description": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky.",
+        "publishedAt": "2026-10-13T21:31:30.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Royal Mail losing 400 postal workers a week, says union",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
+        "publishedAt": "2026-10-13T23:03:59.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -69,24 +80,13 @@
         "zone": "us"
       },
       {
-        "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
-        "url": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
+        "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week.",
-        "publishedAt": "2026-10-13T18:23:22.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-        "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
-        "publishedAt": "2026-10-13T19:23:28.000Z",
+        "description": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
+        "publishedAt": "2026-10-13T18:25:28.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -101,7 +101,7 @@
           "name": "RSS Feed"
         },
         "description": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
-        "publishedAt": "2026-10-13T22:07:06.000Z",
+        "publishedAt": "2026-10-13T23:58:56.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -112,7 +112,7 @@
           "name": "RSS Feed"
         },
         "description": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-        "publishedAt": "2026-10-13T20:46:06.000Z",
+        "publishedAt": "2026-10-14T00:17:00.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -139,13 +139,24 @@
         "zone": "gb"
       },
       {
-        "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-        "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+        "title": "Zelensky and Burnham to meet in Downing Street",
+        "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
-        "publishedAt": "2026-10-13T18:25:28.000Z",
+        "description": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky.",
+        "publishedAt": "2026-10-13T21:31:30.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Royal Mail losing 400 postal workers a week, says union",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
+        "publishedAt": "2026-10-13T23:03:59.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -161,24 +172,13 @@
         "zone": "gb"
       },
       {
-        "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
-        "url": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
+        "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week.",
-        "publishedAt": "2026-10-13T18:23:22.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-        "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
-        "publishedAt": "2026-10-13T19:23:28.000Z",
+        "description": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
+        "publishedAt": "2026-10-13T18:25:28.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -193,7 +193,7 @@
           "name": "RSS Feed"
         },
         "description": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
-        "publishedAt": "2026-10-13T22:07:06.000Z",
+        "publishedAt": "2026-10-13T23:58:56.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -204,7 +204,7 @@
           "name": "RSS Feed"
         },
         "description": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-        "publishedAt": "2026-10-13T20:46:06.000Z",
+        "publishedAt": "2026-10-14T00:17:00.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -231,13 +231,24 @@
         "zone": "in"
       },
       {
-        "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-        "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+        "title": "Zelensky and Burnham to meet in Downing Street",
+        "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
-        "publishedAt": "2026-10-13T18:25:28.000Z",
+        "description": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky.",
+        "publishedAt": "2026-10-13T21:31:30.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Royal Mail losing 400 postal workers a week, says union",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
+        "publishedAt": "2026-10-13T23:03:59.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -253,24 +264,13 @@
         "zone": "in"
       },
       {
-        "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
-        "url": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
+        "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week.",
-        "publishedAt": "2026-10-13T18:23:22.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-        "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
-        "publishedAt": "2026-10-13T19:23:28.000Z",
+        "description": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
+        "publishedAt": "2026-10-13T18:25:28.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -285,7 +285,7 @@
           "name": "RSS Feed"
         },
         "description": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
-        "publishedAt": "2026-10-13T22:07:06.000Z",
+        "publishedAt": "2026-10-13T23:58:56.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -296,7 +296,7 @@
           "name": "RSS Feed"
         },
         "description": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-        "publishedAt": "2026-10-13T20:46:06.000Z",
+        "publishedAt": "2026-10-14T00:17:00.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -323,13 +323,24 @@
         "zone": "au"
       },
       {
-        "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-        "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+        "title": "Zelensky and Burnham to meet in Downing Street",
+        "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
-        "publishedAt": "2026-10-13T18:25:28.000Z",
+        "description": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky.",
+        "publishedAt": "2026-10-13T21:31:30.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Royal Mail losing 400 postal workers a week, says union",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
+        "publishedAt": "2026-10-13T23:03:59.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -345,24 +356,13 @@
         "zone": "au"
       },
       {
-        "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
-        "url": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
+        "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week.",
-        "publishedAt": "2026-10-13T18:23:22.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-        "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
-        "publishedAt": "2026-10-13T19:23:28.000Z",
+        "description": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
+        "publishedAt": "2026-10-13T18:25:28.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -377,7 +377,7 @@
           "name": "RSS Feed"
         },
         "description": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
-        "publishedAt": "2026-10-13T22:07:06.000Z",
+        "publishedAt": "2026-10-13T23:58:56.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -388,7 +388,7 @@
           "name": "RSS Feed"
         },
         "description": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-        "publishedAt": "2026-10-13T20:46:06.000Z",
+        "publishedAt": "2026-10-14T00:17:00.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -415,13 +415,24 @@
         "zone": "ca"
       },
       {
-        "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-        "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+        "title": "Zelensky and Burnham to meet in Downing Street",
+        "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
-        "publishedAt": "2026-10-13T18:25:28.000Z",
+        "description": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky.",
+        "publishedAt": "2026-10-13T21:31:30.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Royal Mail losing 400 postal workers a week, says union",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
+        "publishedAt": "2026-10-13T23:03:59.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -437,24 +448,13 @@
         "zone": "ca"
       },
       {
-        "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
-        "url": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
+        "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week.",
-        "publishedAt": "2026-10-13T18:23:22.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-        "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
-        "publishedAt": "2026-10-13T19:23:28.000Z",
+        "description": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
+        "publishedAt": "2026-10-13T18:25:28.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -518,17 +518,6 @@
         "zone": "us"
       },
       {
-        "title": "Poundland in rescue talks as owners seek buyer",
-        "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
-        "publishedAt": "2026-10-13T12:17:17.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
         "title": "How long will humans be needed for translation?",
         "url": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -536,6 +525,17 @@
         },
         "description": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
         "publishedAt": "2026-10-13T23:05:29.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Poundland in rescue talks as owners seek buyer",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
+        "publishedAt": "2026-10-13T12:17:17.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -610,17 +610,6 @@
         "zone": "gb"
       },
       {
-        "title": "Poundland in rescue talks as owners seek buyer",
-        "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
-        "publishedAt": "2026-10-13T12:17:17.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
         "title": "How long will humans be needed for translation?",
         "url": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -628,6 +617,17 @@
         },
         "description": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
         "publishedAt": "2026-10-13T23:05:29.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Poundland in rescue talks as owners seek buyer",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
+        "publishedAt": "2026-10-13T12:17:17.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -702,17 +702,6 @@
         "zone": "in"
       },
       {
-        "title": "Poundland in rescue talks as owners seek buyer",
-        "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
-        "publishedAt": "2026-10-13T12:17:17.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
         "title": "How long will humans be needed for translation?",
         "url": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -720,6 +709,17 @@
         },
         "description": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
         "publishedAt": "2026-10-13T23:05:29.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Poundland in rescue talks as owners seek buyer",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
+        "publishedAt": "2026-10-13T12:17:17.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -794,17 +794,6 @@
         "zone": "au"
       },
       {
-        "title": "Poundland in rescue talks as owners seek buyer",
-        "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
-        "publishedAt": "2026-10-13T12:17:17.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
         "title": "How long will humans be needed for translation?",
         "url": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -812,6 +801,17 @@
         },
         "description": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
         "publishedAt": "2026-10-13T23:05:29.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Poundland in rescue talks as owners seek buyer",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
+        "publishedAt": "2026-10-13T12:17:17.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -886,17 +886,6 @@
         "zone": "ca"
       },
       {
-        "title": "Poundland in rescue talks as owners seek buyer",
-        "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
-        "publishedAt": "2026-10-13T12:17:17.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
         "title": "How long will humans be needed for translation?",
         "url": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -904,6 +893,17 @@
         },
         "description": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
         "publishedAt": "2026-10-13T23:05:29.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Poundland in rescue talks as owners seek buyer",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
+        "publishedAt": "2026-10-13T12:17:17.000Z",
         "category": "business",
         "zone": "ca"
       },
