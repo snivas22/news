@@ -1,18 +1,7 @@
 {
-  "generatedAt": "2026-10-17T18:16:05.284Z",
+  "generatedAt": "2026-10-17T21:19:07.560Z",
   "general_us": {
     "articles": [
-      {
-        "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
-        "url": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
-        "publishedAt": "2026-10-17T12:14:52.000Z",
-        "category": "general",
-        "zone": "us"
-      },
       {
         "title": "More NHS staff sacked over attacks victims' records",
         "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
@@ -25,24 +14,35 @@
         "zone": "us"
       },
       {
-        "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
-        "url": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss",
+        "title": "European diplomats attacked by Israeli settlers in West Bank",
+        "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
-        "publishedAt": "2026-10-17T12:56:09.000Z",
+        "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+        "publishedAt": "2026-10-17T18:38:57.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Scotland 'not like Manchester', Swinney says in dig at PM Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss",
+        "title": "Anti-government protesters battle with police in Albania",
+        "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The first minister also used his SNP conference speech to announce plans for Scotland's bus network to be brought under public control.",
-        "publishedAt": "2026-10-17T15:36:05.000Z",
+        "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+        "publishedAt": "2026-10-17T20:53:00.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Swinney's emotional explanation for his commitment to independence",
+        "url": "https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Scotland's political editor Glenn Campbell reflects on John Swinney's SNP conference speech.",
+        "publishedAt": "2026-10-17T18:11:42.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -54,6 +54,17 @@
         },
         "description": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
         "publishedAt": "2026-10-17T13:51:36.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
+        "publishedAt": "2026-10-17T16:02:31.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -76,17 +87,6 @@
         },
         "description": "More than one million people now vape who have never been smokers, according to the ONS.",
         "publishedAt": "2026-10-16T23:49:16.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-        "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Australian government hopes to protect social media users from being served content they don't want to see.",
-        "publishedAt": "2026-10-16T18:11:29.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,17 +95,6 @@
   "general_gb": {
     "articles": [
       {
-        "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
-        "url": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
-        "publishedAt": "2026-10-17T12:14:52.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
         "title": "More NHS staff sacked over attacks victims' records",
         "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -117,24 +106,35 @@
         "zone": "gb"
       },
       {
-        "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
-        "url": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss",
+        "title": "European diplomats attacked by Israeli settlers in West Bank",
+        "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
-        "publishedAt": "2026-10-17T12:56:09.000Z",
+        "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+        "publishedAt": "2026-10-17T18:38:57.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Scotland 'not like Manchester', Swinney says in dig at PM Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss",
+        "title": "Anti-government protesters battle with police in Albania",
+        "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The first minister also used his SNP conference speech to announce plans for Scotland's bus network to be brought under public control.",
-        "publishedAt": "2026-10-17T15:36:05.000Z",
+        "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+        "publishedAt": "2026-10-17T20:53:00.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Swinney's emotional explanation for his commitment to independence",
+        "url": "https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Scotland's political editor Glenn Campbell reflects on John Swinney's SNP conference speech.",
+        "publishedAt": "2026-10-17T18:11:42.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -146,6 +146,17 @@
         },
         "description": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
         "publishedAt": "2026-10-17T13:51:36.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
+        "publishedAt": "2026-10-17T16:02:31.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -168,17 +179,6 @@
         },
         "description": "More than one million people now vape who have never been smokers, according to the ONS.",
         "publishedAt": "2026-10-16T23:49:16.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-        "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Australian government hopes to protect social media users from being served content they don't want to see.",
-        "publishedAt": "2026-10-16T18:11:29.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,17 +187,6 @@
   "general_in": {
     "articles": [
       {
-        "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
-        "url": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
-        "publishedAt": "2026-10-17T12:14:52.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
         "title": "More NHS staff sacked over attacks victims' records",
         "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -209,24 +198,35 @@
         "zone": "in"
       },
       {
-        "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
-        "url": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss",
+        "title": "European diplomats attacked by Israeli settlers in West Bank",
+        "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
-        "publishedAt": "2026-10-17T12:56:09.000Z",
+        "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+        "publishedAt": "2026-10-17T18:38:57.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Scotland 'not like Manchester', Swinney says in dig at PM Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss",
+        "title": "Anti-government protesters battle with police in Albania",
+        "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The first minister also used his SNP conference speech to announce plans for Scotland's bus network to be brought under public control.",
-        "publishedAt": "2026-10-17T15:36:05.000Z",
+        "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+        "publishedAt": "2026-10-17T20:53:00.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Swinney's emotional explanation for his commitment to independence",
+        "url": "https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Scotland's political editor Glenn Campbell reflects on John Swinney's SNP conference speech.",
+        "publishedAt": "2026-10-17T18:11:42.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -238,6 +238,17 @@
         },
         "description": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
         "publishedAt": "2026-10-17T13:51:36.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
+        "publishedAt": "2026-10-17T16:02:31.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -260,17 +271,6 @@
         },
         "description": "More than one million people now vape who have never been smokers, according to the ONS.",
         "publishedAt": "2026-10-16T23:49:16.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-        "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Australian government hopes to protect social media users from being served content they don't want to see.",
-        "publishedAt": "2026-10-16T18:11:29.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,17 +279,6 @@
   "general_au": {
     "articles": [
       {
-        "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
-        "url": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
-        "publishedAt": "2026-10-17T12:14:52.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
         "title": "More NHS staff sacked over attacks victims' records",
         "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -301,24 +290,35 @@
         "zone": "au"
       },
       {
-        "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
-        "url": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss",
+        "title": "European diplomats attacked by Israeli settlers in West Bank",
+        "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
-        "publishedAt": "2026-10-17T12:56:09.000Z",
+        "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+        "publishedAt": "2026-10-17T18:38:57.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Scotland 'not like Manchester', Swinney says in dig at PM Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss",
+        "title": "Anti-government protesters battle with police in Albania",
+        "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The first minister also used his SNP conference speech to announce plans for Scotland's bus network to be brought under public control.",
-        "publishedAt": "2026-10-17T15:36:05.000Z",
+        "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+        "publishedAt": "2026-10-17T20:53:00.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Swinney's emotional explanation for his commitment to independence",
+        "url": "https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Scotland's political editor Glenn Campbell reflects on John Swinney's SNP conference speech.",
+        "publishedAt": "2026-10-17T18:11:42.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -330,6 +330,17 @@
         },
         "description": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
         "publishedAt": "2026-10-17T13:51:36.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
+        "publishedAt": "2026-10-17T16:02:31.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -352,17 +363,6 @@
         },
         "description": "More than one million people now vape who have never been smokers, according to the ONS.",
         "publishedAt": "2026-10-16T23:49:16.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-        "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Australian government hopes to protect social media users from being served content they don't want to see.",
-        "publishedAt": "2026-10-16T18:11:29.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,17 +371,6 @@
   "general_ca": {
     "articles": [
       {
-        "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
-        "url": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
-        "publishedAt": "2026-10-17T12:14:52.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
         "title": "More NHS staff sacked over attacks victims' records",
         "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -393,24 +382,35 @@
         "zone": "ca"
       },
       {
-        "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
-        "url": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss",
+        "title": "European diplomats attacked by Israeli settlers in West Bank",
+        "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
-        "publishedAt": "2026-10-17T12:56:09.000Z",
+        "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+        "publishedAt": "2026-10-17T18:38:57.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Scotland 'not like Manchester', Swinney says in dig at PM Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss",
+        "title": "Anti-government protesters battle with police in Albania",
+        "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The first minister also used his SNP conference speech to announce plans for Scotland's bus network to be brought under public control.",
-        "publishedAt": "2026-10-17T15:36:05.000Z",
+        "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+        "publishedAt": "2026-10-17T20:53:00.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Swinney's emotional explanation for his commitment to independence",
+        "url": "https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Scotland's political editor Glenn Campbell reflects on John Swinney's SNP conference speech.",
+        "publishedAt": "2026-10-17T18:11:42.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -422,6 +422,17 @@
         },
         "description": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
         "publishedAt": "2026-10-17T13:51:36.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
+        "publishedAt": "2026-10-17T16:02:31.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -444,17 +455,6 @@
         },
         "description": "More than one million people now vape who have never been smokers, according to the ONS.",
         "publishedAt": "2026-10-16T23:49:16.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-        "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Australian government hopes to protect social media users from being served content they don't want to see.",
-        "publishedAt": "2026-10-16T18:11:29.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -2303,6 +2303,17 @@
   "sports_us": {
     "articles": [
       {
+        "title": "Wirtz delivers but remains Liverpool's conundrum",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Florian Wirtz is instrumental as Liverpool return to winning ways in the Premier League, but does he remain boss Andoni Iraola's great conundrum?",
+        "publishedAt": "2026-10-17T20:07:40.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
         "url": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2325,68 +2336,57 @@
         "zone": "us"
       },
       {
-        "title": "McDermott seeks fix as England fight to save their World Cup",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/crwyqgjg5y8wo?at_medium=RSS&at_campaign=rss",
+        "title": "Tributes to Andrews before Champions Cup matches",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq5ynl4nvv5vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Brian McDermott says he can fix the errors that led to England's Rugby League World Cup defeat by Tonga - but is it already too late?",
-        "publishedAt": "2026-10-17T14:12:33.000Z",
+        "description": "Lions and Sale Sharks are among the clubs to pay tribute to Hyron Andrews at their matches on Saturday, following the South African's death aged 31.",
+        "publishedAt": "2026-10-17T19:08:14.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "England's 41-match unbeaten run ended by Canada",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cknv0m61l9e4o?at_medium=RSS&at_campaign=rss",
+        "title": "Liverpool come from behind to beat nine-man Brentford",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England's 41-match unbeaten streak ends in dramatic fashion as Shoshanah Seumanutafa's late try hands Canada a thrilling 24-21 victory in Toronto.",
-        "publishedAt": "2026-10-17T07:25:54.000Z",
+        "description": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and Vitaly Janelt.",
+        "publishedAt": "2026-10-17T19:00:13.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Glasgow get bonus-point win at emotion-filled Sale",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqpvgj4837r1o?at_medium=RSS&at_campaign=rss",
+        "title": "Haaland nets double as Man City go six points clear at the top",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Glasgow Warriors pull away to record an impressive bonus-point victory over Sale Sharks in the Investec Champions Cup at an emotional CorpAcq Stadium.",
-        "publishedAt": "2026-10-17T15:13:21.000Z",
+        "description": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
+        "publishedAt": "2026-10-17T19:00:09.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Arsenal held at home by Birmingham",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c680zp4djprgo?at_medium=RSS&at_campaign=rss",
+        "title": "Manzambi heads Villa to victory at Newcastle",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Arsenal continue to struggle in the Women's Super League after having to come from behind to draw 1-1 with Birmingham at the Emirates.",
-        "publishedAt": "2026-10-17T17:46:41.000Z",
+        "description": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
+        "publishedAt": "2026-10-17T19:12:02.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Tonga stun England in World Cup opener",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cm70prd68l5jo?at_medium=RSS&at_campaign=rss",
+        "title": "Neto scores twice as Chelsea win at Everton",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cq146nz03k16o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Tonga put England's Rugby League World Cup campaign under jeopardy by beating them in their opening match at HBF Park.",
-        "publishedAt": "2026-10-17T17:59:48.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Morris completes golden hat-trick alongside Boothman in madison",
-        "url": "https://www.bbc.co.uk/sport/cycling/videos/c3pwgqel0er4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Anna Morris secures a hat-trick of gold medals at the Track Cycling World Championships as she wins the women's madison for Great Britain with Erin Boothman.",
-        "publishedAt": "2026-10-17T11:43:07.000Z",
+        "description": "Pedro Neto scores twice for Chelsea as they beat Everton 2-0 at the Hill Dickinson Stadium, in a game overshadowed by a nasty head injury to Emiliano Martinez.",
+        "publishedAt": "2026-10-17T19:00:03.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,6 +2395,17 @@
   "sports_gb": {
     "articles": [
       {
+        "title": "Wirtz delivers but remains Liverpool's conundrum",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Florian Wirtz is instrumental as Liverpool return to winning ways in the Premier League, but does he remain boss Andoni Iraola's great conundrum?",
+        "publishedAt": "2026-10-17T20:07:40.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
         "url": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2417,68 +2428,57 @@
         "zone": "gb"
       },
       {
-        "title": "McDermott seeks fix as England fight to save their World Cup",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/crwyqgjg5y8wo?at_medium=RSS&at_campaign=rss",
+        "title": "Tributes to Andrews before Champions Cup matches",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq5ynl4nvv5vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Brian McDermott says he can fix the errors that led to England's Rugby League World Cup defeat by Tonga - but is it already too late?",
-        "publishedAt": "2026-10-17T14:12:33.000Z",
+        "description": "Lions and Sale Sharks are among the clubs to pay tribute to Hyron Andrews at their matches on Saturday, following the South African's death aged 31.",
+        "publishedAt": "2026-10-17T19:08:14.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "England's 41-match unbeaten run ended by Canada",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cknv0m61l9e4o?at_medium=RSS&at_campaign=rss",
+        "title": "Liverpool come from behind to beat nine-man Brentford",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England's 41-match unbeaten streak ends in dramatic fashion as Shoshanah Seumanutafa's late try hands Canada a thrilling 24-21 victory in Toronto.",
-        "publishedAt": "2026-10-17T07:25:54.000Z",
+        "description": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and Vitaly Janelt.",
+        "publishedAt": "2026-10-17T19:00:13.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Glasgow get bonus-point win at emotion-filled Sale",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqpvgj4837r1o?at_medium=RSS&at_campaign=rss",
+        "title": "Haaland nets double as Man City go six points clear at the top",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Glasgow Warriors pull away to record an impressive bonus-point victory over Sale Sharks in the Investec Champions Cup at an emotional CorpAcq Stadium.",
-        "publishedAt": "2026-10-17T15:13:21.000Z",
+        "description": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
+        "publishedAt": "2026-10-17T19:00:09.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Arsenal held at home by Birmingham",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c680zp4djprgo?at_medium=RSS&at_campaign=rss",
+        "title": "Manzambi heads Villa to victory at Newcastle",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Arsenal continue to struggle in the Women's Super League after having to come from behind to draw 1-1 with Birmingham at the Emirates.",
-        "publishedAt": "2026-10-17T17:46:41.000Z",
+        "description": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
+        "publishedAt": "2026-10-17T19:12:02.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Tonga stun England in World Cup opener",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cm70prd68l5jo?at_medium=RSS&at_campaign=rss",
+        "title": "Neto scores twice as Chelsea win at Everton",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cq146nz03k16o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Tonga put England's Rugby League World Cup campaign under jeopardy by beating them in their opening match at HBF Park.",
-        "publishedAt": "2026-10-17T17:59:48.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Morris completes golden hat-trick alongside Boothman in madison",
-        "url": "https://www.bbc.co.uk/sport/cycling/videos/c3pwgqel0er4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Anna Morris secures a hat-trick of gold medals at the Track Cycling World Championships as she wins the women's madison for Great Britain with Erin Boothman.",
-        "publishedAt": "2026-10-17T11:43:07.000Z",
+        "description": "Pedro Neto scores twice for Chelsea as they beat Everton 2-0 at the Hill Dickinson Stadium, in a game overshadowed by a nasty head injury to Emiliano Martinez.",
+        "publishedAt": "2026-10-17T19:00:03.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,6 +2487,17 @@
   "sports_in": {
     "articles": [
       {
+        "title": "Wirtz delivers but remains Liverpool's conundrum",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Florian Wirtz is instrumental as Liverpool return to winning ways in the Premier League, but does he remain boss Andoni Iraola's great conundrum?",
+        "publishedAt": "2026-10-17T20:07:40.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
         "url": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2509,68 +2520,57 @@
         "zone": "in"
       },
       {
-        "title": "McDermott seeks fix as England fight to save their World Cup",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/crwyqgjg5y8wo?at_medium=RSS&at_campaign=rss",
+        "title": "Tributes to Andrews before Champions Cup matches",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq5ynl4nvv5vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Brian McDermott says he can fix the errors that led to England's Rugby League World Cup defeat by Tonga - but is it already too late?",
-        "publishedAt": "2026-10-17T14:12:33.000Z",
+        "description": "Lions and Sale Sharks are among the clubs to pay tribute to Hyron Andrews at their matches on Saturday, following the South African's death aged 31.",
+        "publishedAt": "2026-10-17T19:08:14.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "England's 41-match unbeaten run ended by Canada",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cknv0m61l9e4o?at_medium=RSS&at_campaign=rss",
+        "title": "Liverpool come from behind to beat nine-man Brentford",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England's 41-match unbeaten streak ends in dramatic fashion as Shoshanah Seumanutafa's late try hands Canada a thrilling 24-21 victory in Toronto.",
-        "publishedAt": "2026-10-17T07:25:54.000Z",
+        "description": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and Vitaly Janelt.",
+        "publishedAt": "2026-10-17T19:00:13.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Glasgow get bonus-point win at emotion-filled Sale",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqpvgj4837r1o?at_medium=RSS&at_campaign=rss",
+        "title": "Haaland nets double as Man City go six points clear at the top",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Glasgow Warriors pull away to record an impressive bonus-point victory over Sale Sharks in the Investec Champions Cup at an emotional CorpAcq Stadium.",
-        "publishedAt": "2026-10-17T15:13:21.000Z",
+        "description": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
+        "publishedAt": "2026-10-17T19:00:09.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Arsenal held at home by Birmingham",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c680zp4djprgo?at_medium=RSS&at_campaign=rss",
+        "title": "Manzambi heads Villa to victory at Newcastle",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Arsenal continue to struggle in the Women's Super League after having to come from behind to draw 1-1 with Birmingham at the Emirates.",
-        "publishedAt": "2026-10-17T17:46:41.000Z",
+        "description": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
+        "publishedAt": "2026-10-17T19:12:02.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Tonga stun England in World Cup opener",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cm70prd68l5jo?at_medium=RSS&at_campaign=rss",
+        "title": "Neto scores twice as Chelsea win at Everton",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cq146nz03k16o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Tonga put England's Rugby League World Cup campaign under jeopardy by beating them in their opening match at HBF Park.",
-        "publishedAt": "2026-10-17T17:59:48.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Morris completes golden hat-trick alongside Boothman in madison",
-        "url": "https://www.bbc.co.uk/sport/cycling/videos/c3pwgqel0er4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Anna Morris secures a hat-trick of gold medals at the Track Cycling World Championships as she wins the women's madison for Great Britain with Erin Boothman.",
-        "publishedAt": "2026-10-17T11:43:07.000Z",
+        "description": "Pedro Neto scores twice for Chelsea as they beat Everton 2-0 at the Hill Dickinson Stadium, in a game overshadowed by a nasty head injury to Emiliano Martinez.",
+        "publishedAt": "2026-10-17T19:00:03.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,6 +2579,17 @@
   "sports_au": {
     "articles": [
       {
+        "title": "Wirtz delivers but remains Liverpool's conundrum",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Florian Wirtz is instrumental as Liverpool return to winning ways in the Premier League, but does he remain boss Andoni Iraola's great conundrum?",
+        "publishedAt": "2026-10-17T20:07:40.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
         "url": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2601,68 +2612,57 @@
         "zone": "au"
       },
       {
-        "title": "McDermott seeks fix as England fight to save their World Cup",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/crwyqgjg5y8wo?at_medium=RSS&at_campaign=rss",
+        "title": "Tributes to Andrews before Champions Cup matches",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq5ynl4nvv5vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Brian McDermott says he can fix the errors that led to England's Rugby League World Cup defeat by Tonga - but is it already too late?",
-        "publishedAt": "2026-10-17T14:12:33.000Z",
+        "description": "Lions and Sale Sharks are among the clubs to pay tribute to Hyron Andrews at their matches on Saturday, following the South African's death aged 31.",
+        "publishedAt": "2026-10-17T19:08:14.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "England's 41-match unbeaten run ended by Canada",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cknv0m61l9e4o?at_medium=RSS&at_campaign=rss",
+        "title": "Liverpool come from behind to beat nine-man Brentford",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England's 41-match unbeaten streak ends in dramatic fashion as Shoshanah Seumanutafa's late try hands Canada a thrilling 24-21 victory in Toronto.",
-        "publishedAt": "2026-10-17T07:25:54.000Z",
+        "description": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and Vitaly Janelt.",
+        "publishedAt": "2026-10-17T19:00:13.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Glasgow get bonus-point win at emotion-filled Sale",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqpvgj4837r1o?at_medium=RSS&at_campaign=rss",
+        "title": "Haaland nets double as Man City go six points clear at the top",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Glasgow Warriors pull away to record an impressive bonus-point victory over Sale Sharks in the Investec Champions Cup at an emotional CorpAcq Stadium.",
-        "publishedAt": "2026-10-17T15:13:21.000Z",
+        "description": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
+        "publishedAt": "2026-10-17T19:00:09.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Arsenal held at home by Birmingham",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c680zp4djprgo?at_medium=RSS&at_campaign=rss",
+        "title": "Manzambi heads Villa to victory at Newcastle",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Arsenal continue to struggle in the Women's Super League after having to come from behind to draw 1-1 with Birmingham at the Emirates.",
-        "publishedAt": "2026-10-17T17:46:41.000Z",
+        "description": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
+        "publishedAt": "2026-10-17T19:12:02.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Tonga stun England in World Cup opener",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cm70prd68l5jo?at_medium=RSS&at_campaign=rss",
+        "title": "Neto scores twice as Chelsea win at Everton",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cq146nz03k16o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Tonga put England's Rugby League World Cup campaign under jeopardy by beating them in their opening match at HBF Park.",
-        "publishedAt": "2026-10-17T17:59:48.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Morris completes golden hat-trick alongside Boothman in madison",
-        "url": "https://www.bbc.co.uk/sport/cycling/videos/c3pwgqel0er4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Anna Morris secures a hat-trick of gold medals at the Track Cycling World Championships as she wins the women's madison for Great Britain with Erin Boothman.",
-        "publishedAt": "2026-10-17T11:43:07.000Z",
+        "description": "Pedro Neto scores twice for Chelsea as they beat Everton 2-0 at the Hill Dickinson Stadium, in a game overshadowed by a nasty head injury to Emiliano Martinez.",
+        "publishedAt": "2026-10-17T19:00:03.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,6 +2671,17 @@
   "sports_ca": {
     "articles": [
       {
+        "title": "Wirtz delivers but remains Liverpool's conundrum",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Florian Wirtz is instrumental as Liverpool return to winning ways in the Premier League, but does he remain boss Andoni Iraola's great conundrum?",
+        "publishedAt": "2026-10-17T20:07:40.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
         "url": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2693,68 +2704,57 @@
         "zone": "ca"
       },
       {
-        "title": "McDermott seeks fix as England fight to save their World Cup",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/crwyqgjg5y8wo?at_medium=RSS&at_campaign=rss",
+        "title": "Tributes to Andrews before Champions Cup matches",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq5ynl4nvv5vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Brian McDermott says he can fix the errors that led to England's Rugby League World Cup defeat by Tonga - but is it already too late?",
-        "publishedAt": "2026-10-17T14:12:33.000Z",
+        "description": "Lions and Sale Sharks are among the clubs to pay tribute to Hyron Andrews at their matches on Saturday, following the South African's death aged 31.",
+        "publishedAt": "2026-10-17T19:08:14.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "England's 41-match unbeaten run ended by Canada",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cknv0m61l9e4o?at_medium=RSS&at_campaign=rss",
+        "title": "Liverpool come from behind to beat nine-man Brentford",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England's 41-match unbeaten streak ends in dramatic fashion as Shoshanah Seumanutafa's late try hands Canada a thrilling 24-21 victory in Toronto.",
-        "publishedAt": "2026-10-17T07:25:54.000Z",
+        "description": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and Vitaly Janelt.",
+        "publishedAt": "2026-10-17T19:00:13.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Glasgow get bonus-point win at emotion-filled Sale",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqpvgj4837r1o?at_medium=RSS&at_campaign=rss",
+        "title": "Haaland nets double as Man City go six points clear at the top",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Glasgow Warriors pull away to record an impressive bonus-point victory over Sale Sharks in the Investec Champions Cup at an emotional CorpAcq Stadium.",
-        "publishedAt": "2026-10-17T15:13:21.000Z",
+        "description": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
+        "publishedAt": "2026-10-17T19:00:09.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Arsenal held at home by Birmingham",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c680zp4djprgo?at_medium=RSS&at_campaign=rss",
+        "title": "Manzambi heads Villa to victory at Newcastle",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Arsenal continue to struggle in the Women's Super League after having to come from behind to draw 1-1 with Birmingham at the Emirates.",
-        "publishedAt": "2026-10-17T17:46:41.000Z",
+        "description": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
+        "publishedAt": "2026-10-17T19:12:02.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Tonga stun England in World Cup opener",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cm70prd68l5jo?at_medium=RSS&at_campaign=rss",
+        "title": "Neto scores twice as Chelsea win at Everton",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cq146nz03k16o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Tonga put England's Rugby League World Cup campaign under jeopardy by beating them in their opening match at HBF Park.",
-        "publishedAt": "2026-10-17T17:59:48.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Morris completes golden hat-trick alongside Boothman in madison",
-        "url": "https://www.bbc.co.uk/sport/cycling/videos/c3pwgqel0er4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Anna Morris secures a hat-trick of gold medals at the Track Cycling World Championships as she wins the women's madison for Great Britain with Erin Boothman.",
-        "publishedAt": "2026-10-17T11:43:07.000Z",
+        "description": "Pedro Neto scores twice for Chelsea as they beat Everton 2-0 at the Hill Dickinson Stadium, in a game overshadowed by a nasty head injury to Emiliano Martinez.",
+        "publishedAt": "2026-10-17T19:00:03.000Z",
         "category": "sports",
         "zone": "ca"
       }
@@ -2763,6 +2763,17 @@
   "technology_us": {
     "articles": [
       {
+        "title": "No further action against government adviser's wife over Palestine Action post, police say",
+        "url": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
+        "publishedAt": "2026-10-17T20:24:32.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
         "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
         "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2836,17 +2847,6 @@
         },
         "description": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
         "publishedAt": "2026-10-15T11:34:55.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-        "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
-        "publishedAt": "2026-10-14T15:54:04.000Z",
         "category": "technology",
         "zone": "us"
       }
@@ -2855,6 +2855,17 @@
   "technology_gb": {
     "articles": [
       {
+        "title": "No further action against government adviser's wife over Palestine Action post, police say",
+        "url": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
+        "publishedAt": "2026-10-17T20:24:32.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
         "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
         "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2928,17 +2939,6 @@
         },
         "description": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
         "publishedAt": "2026-10-15T11:34:55.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-        "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
-        "publishedAt": "2026-10-14T15:54:04.000Z",
         "category": "technology",
         "zone": "gb"
       }
@@ -2947,6 +2947,17 @@
   "technology_in": {
     "articles": [
       {
+        "title": "No further action against government adviser's wife over Palestine Action post, police say",
+        "url": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
+        "publishedAt": "2026-10-17T20:24:32.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
         "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
         "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3020,17 +3031,6 @@
         },
         "description": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
         "publishedAt": "2026-10-15T11:34:55.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-        "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
-        "publishedAt": "2026-10-14T15:54:04.000Z",
         "category": "technology",
         "zone": "in"
       }
@@ -3039,6 +3039,17 @@
   "technology_au": {
     "articles": [
       {
+        "title": "No further action against government adviser's wife over Palestine Action post, police say",
+        "url": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
+        "publishedAt": "2026-10-17T20:24:32.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
         "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
         "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3112,17 +3123,6 @@
         },
         "description": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
         "publishedAt": "2026-10-15T11:34:55.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-        "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
-        "publishedAt": "2026-10-14T15:54:04.000Z",
         "category": "technology",
         "zone": "au"
       }
@@ -3131,6 +3131,17 @@
   "technology_ca": {
     "articles": [
       {
+        "title": "No further action against government adviser's wife over Palestine Action post, police say",
+        "url": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
+        "publishedAt": "2026-10-17T20:24:32.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
         "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
         "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3204,17 +3215,6 @@
         },
         "description": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
         "publishedAt": "2026-10-15T11:34:55.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-        "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
-        "publishedAt": "2026-10-14T15:54:04.000Z",
         "category": "technology",
         "zone": "ca"
       }
