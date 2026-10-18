@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-10-18T20:15:42.363Z",
+  "generatedAt": "2026-10-18T22:51:05.180Z",
   "general_us": {
     "articles": [
+      {
+        "title": "Macron calls for 'calm and order' after riots across France",
+        "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+        "publishedAt": "2026-10-18T20:33:21.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "What we know so far about deadly fire at Canadian military base",
         "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
@@ -9,18 +20,7 @@
           "name": "RSS Feed"
         },
         "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
-        "publishedAt": "2026-10-18T19:42:37.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-        "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-        "publishedAt": "2026-10-18T12:07:31.000Z",
+        "publishedAt": "2026-10-18T21:37:56.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -47,13 +47,13 @@
         "zone": "us"
       },
       {
-        "title": "Watch: Police hunt for synthetic drugs in Chicago jail",
-        "url": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&at_campaign=rss",
+        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+        "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC News hears from users, dealers, prison and recovery workers as America battles with a deadly new drug epidemic.",
-        "publishedAt": "2026-10-18T05:30:16.000Z",
+        "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+        "publishedAt": "2026-10-18T21:00:22.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -95,24 +95,24 @@
   "general_gb": {
     "articles": [
       {
+        "title": "Macron calls for 'calm and order' after riots across France",
+        "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+        "publishedAt": "2026-10-18T20:33:21.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "What we know so far about deadly fire at Canadian military base",
         "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
-        "publishedAt": "2026-10-18T19:42:37.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-        "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-        "publishedAt": "2026-10-18T12:07:31.000Z",
+        "publishedAt": "2026-10-18T21:37:56.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -139,13 +139,13 @@
         "zone": "gb"
       },
       {
-        "title": "Watch: Police hunt for synthetic drugs in Chicago jail",
-        "url": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&at_campaign=rss",
+        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+        "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC News hears from users, dealers, prison and recovery workers as America battles with a deadly new drug epidemic.",
-        "publishedAt": "2026-10-18T05:30:16.000Z",
+        "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+        "publishedAt": "2026-10-18T21:00:22.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -187,24 +187,24 @@
   "general_in": {
     "articles": [
       {
+        "title": "Macron calls for 'calm and order' after riots across France",
+        "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+        "publishedAt": "2026-10-18T20:33:21.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "What we know so far about deadly fire at Canadian military base",
         "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
-        "publishedAt": "2026-10-18T19:42:37.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-        "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-        "publishedAt": "2026-10-18T12:07:31.000Z",
+        "publishedAt": "2026-10-18T21:37:56.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -231,13 +231,13 @@
         "zone": "in"
       },
       {
-        "title": "Watch: Police hunt for synthetic drugs in Chicago jail",
-        "url": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&at_campaign=rss",
+        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+        "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC News hears from users, dealers, prison and recovery workers as America battles with a deadly new drug epidemic.",
-        "publishedAt": "2026-10-18T05:30:16.000Z",
+        "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+        "publishedAt": "2026-10-18T21:00:22.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -279,24 +279,24 @@
   "general_au": {
     "articles": [
       {
+        "title": "Macron calls for 'calm and order' after riots across France",
+        "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+        "publishedAt": "2026-10-18T20:33:21.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "What we know so far about deadly fire at Canadian military base",
         "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
-        "publishedAt": "2026-10-18T19:42:37.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-        "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-        "publishedAt": "2026-10-18T12:07:31.000Z",
+        "publishedAt": "2026-10-18T21:37:56.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -323,13 +323,13 @@
         "zone": "au"
       },
       {
-        "title": "Watch: Police hunt for synthetic drugs in Chicago jail",
-        "url": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&at_campaign=rss",
+        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+        "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC News hears from users, dealers, prison and recovery workers as America battles with a deadly new drug epidemic.",
-        "publishedAt": "2026-10-18T05:30:16.000Z",
+        "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+        "publishedAt": "2026-10-18T21:00:22.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -371,24 +371,24 @@
   "general_ca": {
     "articles": [
       {
+        "title": "Macron calls for 'calm and order' after riots across France",
+        "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+        "publishedAt": "2026-10-18T20:33:21.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "What we know so far about deadly fire at Canadian military base",
         "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
-        "publishedAt": "2026-10-18T19:42:37.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-        "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-        "publishedAt": "2026-10-18T12:07:31.000Z",
+        "publishedAt": "2026-10-18T21:37:56.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -415,13 +415,13 @@
         "zone": "ca"
       },
       {
-        "title": "Watch: Police hunt for synthetic drugs in Chicago jail",
-        "url": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&at_campaign=rss",
+        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+        "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC News hears from users, dealers, prison and recovery workers as America battles with a deadly new drug epidemic.",
-        "publishedAt": "2026-10-18T05:30:16.000Z",
+        "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+        "publishedAt": "2026-10-18T21:00:22.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -1383,6 +1383,17 @@
   "health_us": {
     "articles": [
       {
+        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+        "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+        "publishedAt": "2026-10-18T21:00:22.000Z",
+        "category": "health",
+        "zone": "us"
+      },
+      {
         "title": "Ending corridor care in hospitals for children a priority, says health secretary",
         "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1456,17 +1467,6 @@
         },
         "description": "New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.",
         "publishedAt": "2026-10-15T16:07:26.000Z",
-        "category": "health",
-        "zone": "us"
-      },
-      {
-        "title": "I'm 12 and I want to try protein powder - should I?",
-        "url": "https://www.bbc.co.uk/news/articles/cm158555dq1go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "We asked experts how safe it is for children and teenagers to take protein supplements.",
-        "publishedAt": "2026-10-15T00:00:35.000Z",
         "category": "health",
         "zone": "us"
       }
@@ -1475,6 +1475,17 @@
   "health_gb": {
     "articles": [
       {
+        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+        "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+        "publishedAt": "2026-10-18T21:00:22.000Z",
+        "category": "health",
+        "zone": "gb"
+      },
+      {
         "title": "Ending corridor care in hospitals for children a priority, says health secretary",
         "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1548,17 +1559,6 @@
         },
         "description": "New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.",
         "publishedAt": "2026-10-15T16:07:26.000Z",
-        "category": "health",
-        "zone": "gb"
-      },
-      {
-        "title": "I'm 12 and I want to try protein powder - should I?",
-        "url": "https://www.bbc.co.uk/news/articles/cm158555dq1go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "We asked experts how safe it is for children and teenagers to take protein supplements.",
-        "publishedAt": "2026-10-15T00:00:35.000Z",
         "category": "health",
         "zone": "gb"
       }
@@ -1567,6 +1567,17 @@
   "health_in": {
     "articles": [
       {
+        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+        "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+        "publishedAt": "2026-10-18T21:00:22.000Z",
+        "category": "health",
+        "zone": "in"
+      },
+      {
         "title": "Ending corridor care in hospitals for children a priority, says health secretary",
         "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1640,17 +1651,6 @@
         },
         "description": "New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.",
         "publishedAt": "2026-10-15T16:07:26.000Z",
-        "category": "health",
-        "zone": "in"
-      },
-      {
-        "title": "I'm 12 and I want to try protein powder - should I?",
-        "url": "https://www.bbc.co.uk/news/articles/cm158555dq1go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "We asked experts how safe it is for children and teenagers to take protein supplements.",
-        "publishedAt": "2026-10-15T00:00:35.000Z",
         "category": "health",
         "zone": "in"
       }
@@ -1659,6 +1659,17 @@
   "health_au": {
     "articles": [
       {
+        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+        "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+        "publishedAt": "2026-10-18T21:00:22.000Z",
+        "category": "health",
+        "zone": "au"
+      },
+      {
         "title": "Ending corridor care in hospitals for children a priority, says health secretary",
         "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1732,17 +1743,6 @@
         },
         "description": "New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.",
         "publishedAt": "2026-10-15T16:07:26.000Z",
-        "category": "health",
-        "zone": "au"
-      },
-      {
-        "title": "I'm 12 and I want to try protein powder - should I?",
-        "url": "https://www.bbc.co.uk/news/articles/cm158555dq1go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "We asked experts how safe it is for children and teenagers to take protein supplements.",
-        "publishedAt": "2026-10-15T00:00:35.000Z",
         "category": "health",
         "zone": "au"
       }
@@ -1751,6 +1751,17 @@
   "health_ca": {
     "articles": [
       {
+        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+        "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+        "publishedAt": "2026-10-18T21:00:22.000Z",
+        "category": "health",
+        "zone": "ca"
+      },
+      {
         "title": "Ending corridor care in hospitals for children a priority, says health secretary",
         "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1824,17 +1835,6 @@
         },
         "description": "New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.",
         "publishedAt": "2026-10-15T16:07:26.000Z",
-        "category": "health",
-        "zone": "ca"
-      },
-      {
-        "title": "I'm 12 and I want to try protein powder - should I?",
-        "url": "https://www.bbc.co.uk/news/articles/cm158555dq1go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "We asked experts how safe it is for children and teenagers to take protein supplements.",
-        "publishedAt": "2026-10-15T00:00:35.000Z",
         "category": "health",
         "zone": "ca"
       }
@@ -2303,46 +2303,13 @@
   "sports_us": {
     "articles": [
       {
-        "title": "Gomez scores extraordinary goal as Brighton put five past Palace",
-        "url": "https://www.bbc.co.uk/sport/football/videos/ckm23z2qem45o?at_medium=RSS&at_campaign=rss",
+        "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace.",
-        "publishedAt": "2026-10-18T18:59:02.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Madueke's strike enough as Arsenal pick up narrow win over Forest",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm70px0l7p7no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Noni Madueke comes of the bench to score the winning goal as Arsenal beat Nottingham Forest 1-0 at The City Ground.",
-        "publishedAt": "2026-10-18T18:59:06.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Leeds extend Man Utd's winless run to six games",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cw4g1dgr2v93o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Dominic Calvert-Lewin earns a point for Leeds and extends Manchester United's winless run to six games.",
-        "publishedAt": "2026-10-18T18:59:10.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Bournemouth pick up first league victory with win over Sunderland",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cme8rz8x6pw8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Bournemouth beat Sunderland 2-0 at the Vitality Stadium to pick up their first league victory of the season and move out of the relegation zone.",
-        "publishedAt": "2026-10-18T18:59:15.000Z",
+        "description": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
+        "publishedAt": "2026-10-18T17:24:45.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2354,17 +2321,6 @@
         },
         "description": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
         "publishedAt": "2026-10-18T19:55:41.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
-        "publishedAt": "2026-10-18T17:24:45.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2387,6 +2343,50 @@
         },
         "description": "Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to save his job.",
         "publishedAt": "2026-10-18T19:51:22.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Northampton beat Cardiff for only English win of Champions Cup openers",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw62ynq8jz2no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Northampton edge to a nervy Champions Cup pool win against tenacious Cardiff at Franklin's Gardens.",
+        "publishedAt": "2026-10-18T18:23:30.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Shades of Barca and Beckham - Brighton aim to maintain superb start",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyd05wj00do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "With 23 goals in seven Premier League matches, including some stunning strikes, Brighton continue to delight their fans and get them dreaming of what might be.",
+        "publishedAt": "2026-10-18T18:33:29.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Britain's Kartal misses out on biggest title of her career",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cqm2411vp3dgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska.",
+        "publishedAt": "2026-10-18T13:39:24.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Gomez scores extraordinary goal as Brighton put five past Palace",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckm23z2qem45o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace.",
+        "publishedAt": "2026-10-18T18:59:02.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,46 +2395,13 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "Gomez scores extraordinary goal as Brighton put five past Palace",
-        "url": "https://www.bbc.co.uk/sport/football/videos/ckm23z2qem45o?at_medium=RSS&at_campaign=rss",
+        "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace.",
-        "publishedAt": "2026-10-18T18:59:02.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Madueke's strike enough as Arsenal pick up narrow win over Forest",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm70px0l7p7no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Noni Madueke comes of the bench to score the winning goal as Arsenal beat Nottingham Forest 1-0 at The City Ground.",
-        "publishedAt": "2026-10-18T18:59:06.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Leeds extend Man Utd's winless run to six games",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cw4g1dgr2v93o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Dominic Calvert-Lewin earns a point for Leeds and extends Manchester United's winless run to six games.",
-        "publishedAt": "2026-10-18T18:59:10.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Bournemouth pick up first league victory with win over Sunderland",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cme8rz8x6pw8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Bournemouth beat Sunderland 2-0 at the Vitality Stadium to pick up their first league victory of the season and move out of the relegation zone.",
-        "publishedAt": "2026-10-18T18:59:15.000Z",
+        "description": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
+        "publishedAt": "2026-10-18T17:24:45.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2446,17 +2413,6 @@
         },
         "description": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
         "publishedAt": "2026-10-18T19:55:41.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
-        "publishedAt": "2026-10-18T17:24:45.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2479,6 +2435,50 @@
         },
         "description": "Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to save his job.",
         "publishedAt": "2026-10-18T19:51:22.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Northampton beat Cardiff for only English win of Champions Cup openers",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw62ynq8jz2no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Northampton edge to a nervy Champions Cup pool win against tenacious Cardiff at Franklin's Gardens.",
+        "publishedAt": "2026-10-18T18:23:30.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Shades of Barca and Beckham - Brighton aim to maintain superb start",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyd05wj00do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "With 23 goals in seven Premier League matches, including some stunning strikes, Brighton continue to delight their fans and get them dreaming of what might be.",
+        "publishedAt": "2026-10-18T18:33:29.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Britain's Kartal misses out on biggest title of her career",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cqm2411vp3dgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska.",
+        "publishedAt": "2026-10-18T13:39:24.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Gomez scores extraordinary goal as Brighton put five past Palace",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckm23z2qem45o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace.",
+        "publishedAt": "2026-10-18T18:59:02.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,46 +2487,13 @@
   "sports_in": {
     "articles": [
       {
-        "title": "Gomez scores extraordinary goal as Brighton put five past Palace",
-        "url": "https://www.bbc.co.uk/sport/football/videos/ckm23z2qem45o?at_medium=RSS&at_campaign=rss",
+        "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace.",
-        "publishedAt": "2026-10-18T18:59:02.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Madueke's strike enough as Arsenal pick up narrow win over Forest",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm70px0l7p7no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Noni Madueke comes of the bench to score the winning goal as Arsenal beat Nottingham Forest 1-0 at The City Ground.",
-        "publishedAt": "2026-10-18T18:59:06.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Leeds extend Man Utd's winless run to six games",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cw4g1dgr2v93o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Dominic Calvert-Lewin earns a point for Leeds and extends Manchester United's winless run to six games.",
-        "publishedAt": "2026-10-18T18:59:10.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Bournemouth pick up first league victory with win over Sunderland",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cme8rz8x6pw8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Bournemouth beat Sunderland 2-0 at the Vitality Stadium to pick up their first league victory of the season and move out of the relegation zone.",
-        "publishedAt": "2026-10-18T18:59:15.000Z",
+        "description": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
+        "publishedAt": "2026-10-18T17:24:45.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2538,17 +2505,6 @@
         },
         "description": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
         "publishedAt": "2026-10-18T19:55:41.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
-        "publishedAt": "2026-10-18T17:24:45.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2571,6 +2527,50 @@
         },
         "description": "Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to save his job.",
         "publishedAt": "2026-10-18T19:51:22.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Northampton beat Cardiff for only English win of Champions Cup openers",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw62ynq8jz2no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Northampton edge to a nervy Champions Cup pool win against tenacious Cardiff at Franklin's Gardens.",
+        "publishedAt": "2026-10-18T18:23:30.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Shades of Barca and Beckham - Brighton aim to maintain superb start",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyd05wj00do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "With 23 goals in seven Premier League matches, including some stunning strikes, Brighton continue to delight their fans and get them dreaming of what might be.",
+        "publishedAt": "2026-10-18T18:33:29.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Britain's Kartal misses out on biggest title of her career",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cqm2411vp3dgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska.",
+        "publishedAt": "2026-10-18T13:39:24.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Gomez scores extraordinary goal as Brighton put five past Palace",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckm23z2qem45o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace.",
+        "publishedAt": "2026-10-18T18:59:02.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,46 +2579,13 @@
   "sports_au": {
     "articles": [
       {
-        "title": "Gomez scores extraordinary goal as Brighton put five past Palace",
-        "url": "https://www.bbc.co.uk/sport/football/videos/ckm23z2qem45o?at_medium=RSS&at_campaign=rss",
+        "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace.",
-        "publishedAt": "2026-10-18T18:59:02.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Madueke's strike enough as Arsenal pick up narrow win over Forest",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm70px0l7p7no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Noni Madueke comes of the bench to score the winning goal as Arsenal beat Nottingham Forest 1-0 at The City Ground.",
-        "publishedAt": "2026-10-18T18:59:06.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Leeds extend Man Utd's winless run to six games",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cw4g1dgr2v93o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Dominic Calvert-Lewin earns a point for Leeds and extends Manchester United's winless run to six games.",
-        "publishedAt": "2026-10-18T18:59:10.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Bournemouth pick up first league victory with win over Sunderland",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cme8rz8x6pw8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Bournemouth beat Sunderland 2-0 at the Vitality Stadium to pick up their first league victory of the season and move out of the relegation zone.",
-        "publishedAt": "2026-10-18T18:59:15.000Z",
+        "description": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
+        "publishedAt": "2026-10-18T17:24:45.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2630,17 +2597,6 @@
         },
         "description": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
         "publishedAt": "2026-10-18T19:55:41.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
-        "publishedAt": "2026-10-18T17:24:45.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2663,6 +2619,50 @@
         },
         "description": "Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to save his job.",
         "publishedAt": "2026-10-18T19:51:22.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Northampton beat Cardiff for only English win of Champions Cup openers",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw62ynq8jz2no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Northampton edge to a nervy Champions Cup pool win against tenacious Cardiff at Franklin's Gardens.",
+        "publishedAt": "2026-10-18T18:23:30.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Shades of Barca and Beckham - Brighton aim to maintain superb start",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyd05wj00do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "With 23 goals in seven Premier League matches, including some stunning strikes, Brighton continue to delight their fans and get them dreaming of what might be.",
+        "publishedAt": "2026-10-18T18:33:29.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Britain's Kartal misses out on biggest title of her career",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cqm2411vp3dgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska.",
+        "publishedAt": "2026-10-18T13:39:24.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Gomez scores extraordinary goal as Brighton put five past Palace",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckm23z2qem45o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace.",
+        "publishedAt": "2026-10-18T18:59:02.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,46 +2671,13 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "Gomez scores extraordinary goal as Brighton put five past Palace",
-        "url": "https://www.bbc.co.uk/sport/football/videos/ckm23z2qem45o?at_medium=RSS&at_campaign=rss",
+        "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace.",
-        "publishedAt": "2026-10-18T18:59:02.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Madueke's strike enough as Arsenal pick up narrow win over Forest",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm70px0l7p7no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Noni Madueke comes of the bench to score the winning goal as Arsenal beat Nottingham Forest 1-0 at The City Ground.",
-        "publishedAt": "2026-10-18T18:59:06.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Leeds extend Man Utd's winless run to six games",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cw4g1dgr2v93o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Dominic Calvert-Lewin earns a point for Leeds and extends Manchester United's winless run to six games.",
-        "publishedAt": "2026-10-18T18:59:10.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Bournemouth pick up first league victory with win over Sunderland",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cme8rz8x6pw8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Bournemouth beat Sunderland 2-0 at the Vitality Stadium to pick up their first league victory of the season and move out of the relegation zone.",
-        "publishedAt": "2026-10-18T18:59:15.000Z",
+        "description": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
+        "publishedAt": "2026-10-18T17:24:45.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2722,17 +2689,6 @@
         },
         "description": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
         "publishedAt": "2026-10-18T19:55:41.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
-        "publishedAt": "2026-10-18T17:24:45.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2755,6 +2711,50 @@
         },
         "description": "Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to save his job.",
         "publishedAt": "2026-10-18T19:51:22.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Northampton beat Cardiff for only English win of Champions Cup openers",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw62ynq8jz2no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Northampton edge to a nervy Champions Cup pool win against tenacious Cardiff at Franklin's Gardens.",
+        "publishedAt": "2026-10-18T18:23:30.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Shades of Barca and Beckham - Brighton aim to maintain superb start",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyd05wj00do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "With 23 goals in seven Premier League matches, including some stunning strikes, Brighton continue to delight their fans and get them dreaming of what might be.",
+        "publishedAt": "2026-10-18T18:33:29.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Britain's Kartal misses out on biggest title of her career",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cqm2411vp3dgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska.",
+        "publishedAt": "2026-10-18T13:39:24.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Gomez scores extraordinary goal as Brighton put five past Palace",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckm23z2qem45o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace.",
+        "publishedAt": "2026-10-18T18:59:02.000Z",
         "category": "sports",
         "zone": "ca"
       }
