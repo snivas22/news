@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-10-18T17:08:31.535Z",
+  "generatedAt": "2026-10-18T20:15:42.363Z",
   "general_us": {
     "articles": [
+      {
+        "title": "What we know so far about deadly fire at Canadian military base",
+        "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
+        "publishedAt": "2026-10-18T19:42:37.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
         "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
@@ -47,6 +58,17 @@
         "zone": "us"
       },
       {
+        "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+        "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+        "publishedAt": "2026-10-18T19:53:27.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
         "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
         "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -65,28 +87,6 @@
         },
         "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
         "publishedAt": "2026-10-18T12:09:04.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Suspects hunted after police officer injured in shooting",
-        "url": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say.",
-        "publishedAt": "2026-10-18T13:10:18.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
-        "url": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The flying instructor has been described as \"a gentleman and an experienced aviator\" by former students.",
-        "publishedAt": "2026-10-18T17:00:42.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,6 +95,17 @@
   "general_gb": {
     "articles": [
       {
+        "title": "What we know so far about deadly fire at Canadian military base",
+        "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
+        "publishedAt": "2026-10-18T19:42:37.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
         "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -139,6 +150,17 @@
         "zone": "gb"
       },
       {
+        "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+        "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+        "publishedAt": "2026-10-18T19:53:27.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
         "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -157,28 +179,6 @@
         },
         "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
         "publishedAt": "2026-10-18T12:09:04.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Suspects hunted after police officer injured in shooting",
-        "url": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say.",
-        "publishedAt": "2026-10-18T13:10:18.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
-        "url": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The flying instructor has been described as \"a gentleman and an experienced aviator\" by former students.",
-        "publishedAt": "2026-10-18T17:00:42.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,6 +187,17 @@
   "general_in": {
     "articles": [
       {
+        "title": "What we know so far about deadly fire at Canadian military base",
+        "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
+        "publishedAt": "2026-10-18T19:42:37.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
         "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -231,6 +242,17 @@
         "zone": "in"
       },
       {
+        "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+        "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+        "publishedAt": "2026-10-18T19:53:27.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
         "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -249,28 +271,6 @@
         },
         "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
         "publishedAt": "2026-10-18T12:09:04.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Suspects hunted after police officer injured in shooting",
-        "url": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say.",
-        "publishedAt": "2026-10-18T13:10:18.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
-        "url": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The flying instructor has been described as \"a gentleman and an experienced aviator\" by former students.",
-        "publishedAt": "2026-10-18T17:00:42.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,6 +279,17 @@
   "general_au": {
     "articles": [
       {
+        "title": "What we know so far about deadly fire at Canadian military base",
+        "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
+        "publishedAt": "2026-10-18T19:42:37.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
         "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -323,6 +334,17 @@
         "zone": "au"
       },
       {
+        "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+        "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+        "publishedAt": "2026-10-18T19:53:27.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
         "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -341,28 +363,6 @@
         },
         "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
         "publishedAt": "2026-10-18T12:09:04.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Suspects hunted after police officer injured in shooting",
-        "url": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say.",
-        "publishedAt": "2026-10-18T13:10:18.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
-        "url": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The flying instructor has been described as \"a gentleman and an experienced aviator\" by former students.",
-        "publishedAt": "2026-10-18T17:00:42.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,6 +371,17 @@
   "general_ca": {
     "articles": [
       {
+        "title": "What we know so far about deadly fire at Canadian military base",
+        "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
+        "publishedAt": "2026-10-18T19:42:37.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
         "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -415,6 +426,17 @@
         "zone": "ca"
       },
       {
+        "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+        "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+        "publishedAt": "2026-10-18T19:53:27.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
         "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -433,28 +455,6 @@
         },
         "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
         "publishedAt": "2026-10-18T12:09:04.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Suspects hunted after police officer injured in shooting",
-        "url": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say.",
-        "publishedAt": "2026-10-18T13:10:18.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
-        "url": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The flying instructor has been described as \"a gentleman and an experienced aviator\" by former students.",
-        "publishedAt": "2026-10-18T17:00:42.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -923,6 +923,17 @@
   "entertainment_us": {
     "articles": [
       {
+        "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+        "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+        "publishedAt": "2026-10-18T19:53:27.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
         "title": "Making murder fun: How the Traitors' soundtrack sets the tone",
         "url": "https://www.bbc.co.uk/news/articles/crwyq75117z4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -985,17 +996,6 @@
         },
         "description": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
         "publishedAt": "2026-10-17T01:55:45.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
-        "publishedAt": "2026-10-17T00:38:34.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -1015,6 +1015,17 @@
   "entertainment_gb": {
     "articles": [
       {
+        "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+        "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+        "publishedAt": "2026-10-18T19:53:27.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
         "title": "Making murder fun: How the Traitors' soundtrack sets the tone",
         "url": "https://www.bbc.co.uk/news/articles/crwyq75117z4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1077,17 +1088,6 @@
         },
         "description": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
         "publishedAt": "2026-10-17T01:55:45.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
-        "publishedAt": "2026-10-17T00:38:34.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1107,6 +1107,17 @@
   "entertainment_in": {
     "articles": [
       {
+        "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+        "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+        "publishedAt": "2026-10-18T19:53:27.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
         "title": "Making murder fun: How the Traitors' soundtrack sets the tone",
         "url": "https://www.bbc.co.uk/news/articles/crwyq75117z4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1169,17 +1180,6 @@
         },
         "description": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
         "publishedAt": "2026-10-17T01:55:45.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
-        "publishedAt": "2026-10-17T00:38:34.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1199,6 +1199,17 @@
   "entertainment_au": {
     "articles": [
       {
+        "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+        "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+        "publishedAt": "2026-10-18T19:53:27.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
         "title": "Making murder fun: How the Traitors' soundtrack sets the tone",
         "url": "https://www.bbc.co.uk/news/articles/crwyq75117z4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1261,17 +1272,6 @@
         },
         "description": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
         "publishedAt": "2026-10-17T01:55:45.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
-        "publishedAt": "2026-10-17T00:38:34.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1291,6 +1291,17 @@
   "entertainment_ca": {
     "articles": [
       {
+        "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+        "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+        "publishedAt": "2026-10-18T19:53:27.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
         "title": "Making murder fun: How the Traitors' soundtrack sets the tone",
         "url": "https://www.bbc.co.uk/news/articles/crwyq75117z4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1353,17 +1364,6 @@
         },
         "description": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
         "publishedAt": "2026-10-17T01:55:45.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
-        "publishedAt": "2026-10-17T00:38:34.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -2303,90 +2303,90 @@
   "sports_us": {
     "articles": [
       {
-        "title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo?at_medium=RSS&at_campaign=rss",
+        "title": "Gomez scores extraordinary goal as Brighton put five past Palace",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckm23z2qem45o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Dominic Calvert-Lewin's second-half equaliser means Manchester United have now gone six games without a win for the first time since 2019 - find out who rated highest at Elland Road.",
-        "publishedAt": "2026-10-18T14:56:01.000Z",
+        "description": "Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace.",
+        "publishedAt": "2026-10-18T18:59:02.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Slade misses last-gasp kick as Toulouse deny Exeter famous win",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvglwz05j6l4o?at_medium=RSS&at_campaign=rss",
+        "title": "Madueke's strike enough as Arsenal pick up narrow win over Forest",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm70px0l7p7no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Toulouse deny Exeter Chiefs a famous Champions Cup victory in France, fighting back to win a frenetic contest with 14 men following Rodrigue Neti's first-half red card.",
-        "publishedAt": "2026-10-18T16:27:51.000Z",
+        "description": "Noni Madueke comes of the bench to score the winning goal as Arsenal beat Nottingham Forest 1-0 at The City Ground.",
+        "publishedAt": "2026-10-18T18:59:06.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Britain's Kartal misses out on biggest title of her career",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cqm2411vp3dgo?at_medium=RSS&at_campaign=rss",
+        "title": "Leeds extend Man Utd's winless run to six games",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cw4g1dgr2v93o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska.",
-        "publishedAt": "2026-10-18T13:39:24.000Z",
+        "description": "Dominic Calvert-Lewin earns a point for Leeds and extends Manchester United's winless run to six games.",
+        "publishedAt": "2026-10-18T18:59:10.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Chacarra wins in India to take Race to Dubai lead",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/cw98zlldrpj0o?at_medium=RSS&at_campaign=rss",
+        "title": "Bournemouth pick up first league victory with win over Sunderland",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cme8rz8x6pw8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Eugenio Chacarra wins the DP World India Championship by two strokes to move top of the Race to Dubai standings ahead of Patrick Reed and Rory McIlroy.",
-        "publishedAt": "2026-10-18T15:11:51.000Z",
+        "description": "Bournemouth beat Sunderland 2-0 at the Vitality Stadium to pick up their first league victory of the season and move out of the relegation zone.",
+        "publishedAt": "2026-10-18T18:59:15.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "After Dubois' dominant win, what's next for heavyweight boxing?",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/ck3r59ywz99ro?at_medium=RSS&at_campaign=rss",
+        "title": "Madueke's 'anger and conviction' shows he's more than a 'finisher'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3qjnyw8qe4do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "After world champion Daniel Dubois' emphatic win over Fabio Wardley, what's next for the heavyweight division?",
-        "publishedAt": "2026-10-18T09:55:31.000Z",
+        "description": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
+        "publishedAt": "2026-10-18T19:55:41.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Liverpool come from behind to beat nine-man Brentford",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss",
+        "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and Vitaly Janelt.",
-        "publishedAt": "2026-10-17T19:00:13.000Z",
+        "description": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
+        "publishedAt": "2026-10-18T17:24:45.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Haaland nets double as Man City go six points clear at the top",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
+        "title": "Hearts roll out red carpet ... and Celtic walk all over it",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c62kezneyq8vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
-        "publishedAt": "2026-10-17T19:00:09.000Z",
+        "description": "Hearts thought attack was the best form of defence at Celtic Park. They were badly wrong, writes Tom English.",
+        "publishedAt": "2026-10-18T18:22:50.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Manzambi heads Villa to victory at Newcastle",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss",
+        "title": "Sage feels 'shame' at Palace thrashing with future in doubt",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq1kdzp093jwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
-        "publishedAt": "2026-10-17T19:12:02.000Z",
+        "description": "Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to save his job.",
+        "publishedAt": "2026-10-18T19:51:22.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,90 +2395,90 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo?at_medium=RSS&at_campaign=rss",
+        "title": "Gomez scores extraordinary goal as Brighton put five past Palace",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckm23z2qem45o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Dominic Calvert-Lewin's second-half equaliser means Manchester United have now gone six games without a win for the first time since 2019 - find out who rated highest at Elland Road.",
-        "publishedAt": "2026-10-18T14:56:01.000Z",
+        "description": "Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace.",
+        "publishedAt": "2026-10-18T18:59:02.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Slade misses last-gasp kick as Toulouse deny Exeter famous win",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvglwz05j6l4o?at_medium=RSS&at_campaign=rss",
+        "title": "Madueke's strike enough as Arsenal pick up narrow win over Forest",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm70px0l7p7no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Toulouse deny Exeter Chiefs a famous Champions Cup victory in France, fighting back to win a frenetic contest with 14 men following Rodrigue Neti's first-half red card.",
-        "publishedAt": "2026-10-18T16:27:51.000Z",
+        "description": "Noni Madueke comes of the bench to score the winning goal as Arsenal beat Nottingham Forest 1-0 at The City Ground.",
+        "publishedAt": "2026-10-18T18:59:06.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Britain's Kartal misses out on biggest title of her career",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cqm2411vp3dgo?at_medium=RSS&at_campaign=rss",
+        "title": "Leeds extend Man Utd's winless run to six games",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cw4g1dgr2v93o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska.",
-        "publishedAt": "2026-10-18T13:39:24.000Z",
+        "description": "Dominic Calvert-Lewin earns a point for Leeds and extends Manchester United's winless run to six games.",
+        "publishedAt": "2026-10-18T18:59:10.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Chacarra wins in India to take Race to Dubai lead",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/cw98zlldrpj0o?at_medium=RSS&at_campaign=rss",
+        "title": "Bournemouth pick up first league victory with win over Sunderland",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cme8rz8x6pw8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Eugenio Chacarra wins the DP World India Championship by two strokes to move top of the Race to Dubai standings ahead of Patrick Reed and Rory McIlroy.",
-        "publishedAt": "2026-10-18T15:11:51.000Z",
+        "description": "Bournemouth beat Sunderland 2-0 at the Vitality Stadium to pick up their first league victory of the season and move out of the relegation zone.",
+        "publishedAt": "2026-10-18T18:59:15.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "After Dubois' dominant win, what's next for heavyweight boxing?",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/ck3r59ywz99ro?at_medium=RSS&at_campaign=rss",
+        "title": "Madueke's 'anger and conviction' shows he's more than a 'finisher'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3qjnyw8qe4do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "After world champion Daniel Dubois' emphatic win over Fabio Wardley, what's next for the heavyweight division?",
-        "publishedAt": "2026-10-18T09:55:31.000Z",
+        "description": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
+        "publishedAt": "2026-10-18T19:55:41.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Liverpool come from behind to beat nine-man Brentford",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss",
+        "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and Vitaly Janelt.",
-        "publishedAt": "2026-10-17T19:00:13.000Z",
+        "description": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
+        "publishedAt": "2026-10-18T17:24:45.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Haaland nets double as Man City go six points clear at the top",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
+        "title": "Hearts roll out red carpet ... and Celtic walk all over it",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c62kezneyq8vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
-        "publishedAt": "2026-10-17T19:00:09.000Z",
+        "description": "Hearts thought attack was the best form of defence at Celtic Park. They were badly wrong, writes Tom English.",
+        "publishedAt": "2026-10-18T18:22:50.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Manzambi heads Villa to victory at Newcastle",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss",
+        "title": "Sage feels 'shame' at Palace thrashing with future in doubt",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq1kdzp093jwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
-        "publishedAt": "2026-10-17T19:12:02.000Z",
+        "description": "Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to save his job.",
+        "publishedAt": "2026-10-18T19:51:22.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,90 +2487,90 @@
   "sports_in": {
     "articles": [
       {
-        "title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo?at_medium=RSS&at_campaign=rss",
+        "title": "Gomez scores extraordinary goal as Brighton put five past Palace",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckm23z2qem45o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Dominic Calvert-Lewin's second-half equaliser means Manchester United have now gone six games without a win for the first time since 2019 - find out who rated highest at Elland Road.",
-        "publishedAt": "2026-10-18T14:56:01.000Z",
+        "description": "Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace.",
+        "publishedAt": "2026-10-18T18:59:02.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Slade misses last-gasp kick as Toulouse deny Exeter famous win",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvglwz05j6l4o?at_medium=RSS&at_campaign=rss",
+        "title": "Madueke's strike enough as Arsenal pick up narrow win over Forest",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm70px0l7p7no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Toulouse deny Exeter Chiefs a famous Champions Cup victory in France, fighting back to win a frenetic contest with 14 men following Rodrigue Neti's first-half red card.",
-        "publishedAt": "2026-10-18T16:27:51.000Z",
+        "description": "Noni Madueke comes of the bench to score the winning goal as Arsenal beat Nottingham Forest 1-0 at The City Ground.",
+        "publishedAt": "2026-10-18T18:59:06.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Britain's Kartal misses out on biggest title of her career",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cqm2411vp3dgo?at_medium=RSS&at_campaign=rss",
+        "title": "Leeds extend Man Utd's winless run to six games",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cw4g1dgr2v93o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska.",
-        "publishedAt": "2026-10-18T13:39:24.000Z",
+        "description": "Dominic Calvert-Lewin earns a point for Leeds and extends Manchester United's winless run to six games.",
+        "publishedAt": "2026-10-18T18:59:10.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Chacarra wins in India to take Race to Dubai lead",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/cw98zlldrpj0o?at_medium=RSS&at_campaign=rss",
+        "title": "Bournemouth pick up first league victory with win over Sunderland",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cme8rz8x6pw8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Eugenio Chacarra wins the DP World India Championship by two strokes to move top of the Race to Dubai standings ahead of Patrick Reed and Rory McIlroy.",
-        "publishedAt": "2026-10-18T15:11:51.000Z",
+        "description": "Bournemouth beat Sunderland 2-0 at the Vitality Stadium to pick up their first league victory of the season and move out of the relegation zone.",
+        "publishedAt": "2026-10-18T18:59:15.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "After Dubois' dominant win, what's next for heavyweight boxing?",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/ck3r59ywz99ro?at_medium=RSS&at_campaign=rss",
+        "title": "Madueke's 'anger and conviction' shows he's more than a 'finisher'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3qjnyw8qe4do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "After world champion Daniel Dubois' emphatic win over Fabio Wardley, what's next for the heavyweight division?",
-        "publishedAt": "2026-10-18T09:55:31.000Z",
+        "description": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
+        "publishedAt": "2026-10-18T19:55:41.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Liverpool come from behind to beat nine-man Brentford",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss",
+        "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and Vitaly Janelt.",
-        "publishedAt": "2026-10-17T19:00:13.000Z",
+        "description": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
+        "publishedAt": "2026-10-18T17:24:45.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Haaland nets double as Man City go six points clear at the top",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
+        "title": "Hearts roll out red carpet ... and Celtic walk all over it",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c62kezneyq8vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
-        "publishedAt": "2026-10-17T19:00:09.000Z",
+        "description": "Hearts thought attack was the best form of defence at Celtic Park. They were badly wrong, writes Tom English.",
+        "publishedAt": "2026-10-18T18:22:50.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Manzambi heads Villa to victory at Newcastle",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss",
+        "title": "Sage feels 'shame' at Palace thrashing with future in doubt",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq1kdzp093jwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
-        "publishedAt": "2026-10-17T19:12:02.000Z",
+        "description": "Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to save his job.",
+        "publishedAt": "2026-10-18T19:51:22.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,90 +2579,90 @@
   "sports_au": {
     "articles": [
       {
-        "title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo?at_medium=RSS&at_campaign=rss",
+        "title": "Gomez scores extraordinary goal as Brighton put five past Palace",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckm23z2qem45o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Dominic Calvert-Lewin's second-half equaliser means Manchester United have now gone six games without a win for the first time since 2019 - find out who rated highest at Elland Road.",
-        "publishedAt": "2026-10-18T14:56:01.000Z",
+        "description": "Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace.",
+        "publishedAt": "2026-10-18T18:59:02.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Slade misses last-gasp kick as Toulouse deny Exeter famous win",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvglwz05j6l4o?at_medium=RSS&at_campaign=rss",
+        "title": "Madueke's strike enough as Arsenal pick up narrow win over Forest",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm70px0l7p7no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Toulouse deny Exeter Chiefs a famous Champions Cup victory in France, fighting back to win a frenetic contest with 14 men following Rodrigue Neti's first-half red card.",
-        "publishedAt": "2026-10-18T16:27:51.000Z",
+        "description": "Noni Madueke comes of the bench to score the winning goal as Arsenal beat Nottingham Forest 1-0 at The City Ground.",
+        "publishedAt": "2026-10-18T18:59:06.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Britain's Kartal misses out on biggest title of her career",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cqm2411vp3dgo?at_medium=RSS&at_campaign=rss",
+        "title": "Leeds extend Man Utd's winless run to six games",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cw4g1dgr2v93o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska.",
-        "publishedAt": "2026-10-18T13:39:24.000Z",
+        "description": "Dominic Calvert-Lewin earns a point for Leeds and extends Manchester United's winless run to six games.",
+        "publishedAt": "2026-10-18T18:59:10.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Chacarra wins in India to take Race to Dubai lead",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/cw98zlldrpj0o?at_medium=RSS&at_campaign=rss",
+        "title": "Bournemouth pick up first league victory with win over Sunderland",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cme8rz8x6pw8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Eugenio Chacarra wins the DP World India Championship by two strokes to move top of the Race to Dubai standings ahead of Patrick Reed and Rory McIlroy.",
-        "publishedAt": "2026-10-18T15:11:51.000Z",
+        "description": "Bournemouth beat Sunderland 2-0 at the Vitality Stadium to pick up their first league victory of the season and move out of the relegation zone.",
+        "publishedAt": "2026-10-18T18:59:15.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "After Dubois' dominant win, what's next for heavyweight boxing?",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/ck3r59ywz99ro?at_medium=RSS&at_campaign=rss",
+        "title": "Madueke's 'anger and conviction' shows he's more than a 'finisher'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3qjnyw8qe4do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "After world champion Daniel Dubois' emphatic win over Fabio Wardley, what's next for the heavyweight division?",
-        "publishedAt": "2026-10-18T09:55:31.000Z",
+        "description": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
+        "publishedAt": "2026-10-18T19:55:41.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Liverpool come from behind to beat nine-man Brentford",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss",
+        "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and Vitaly Janelt.",
-        "publishedAt": "2026-10-17T19:00:13.000Z",
+        "description": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
+        "publishedAt": "2026-10-18T17:24:45.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Haaland nets double as Man City go six points clear at the top",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
+        "title": "Hearts roll out red carpet ... and Celtic walk all over it",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c62kezneyq8vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
-        "publishedAt": "2026-10-17T19:00:09.000Z",
+        "description": "Hearts thought attack was the best form of defence at Celtic Park. They were badly wrong, writes Tom English.",
+        "publishedAt": "2026-10-18T18:22:50.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Manzambi heads Villa to victory at Newcastle",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss",
+        "title": "Sage feels 'shame' at Palace thrashing with future in doubt",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq1kdzp093jwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
-        "publishedAt": "2026-10-17T19:12:02.000Z",
+        "description": "Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to save his job.",
+        "publishedAt": "2026-10-18T19:51:22.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,90 +2671,90 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo?at_medium=RSS&at_campaign=rss",
+        "title": "Gomez scores extraordinary goal as Brighton put five past Palace",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckm23z2qem45o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Dominic Calvert-Lewin's second-half equaliser means Manchester United have now gone six games without a win for the first time since 2019 - find out who rated highest at Elland Road.",
-        "publishedAt": "2026-10-18T14:56:01.000Z",
+        "description": "Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace.",
+        "publishedAt": "2026-10-18T18:59:02.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Slade misses last-gasp kick as Toulouse deny Exeter famous win",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvglwz05j6l4o?at_medium=RSS&at_campaign=rss",
+        "title": "Madueke's strike enough as Arsenal pick up narrow win over Forest",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm70px0l7p7no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Toulouse deny Exeter Chiefs a famous Champions Cup victory in France, fighting back to win a frenetic contest with 14 men following Rodrigue Neti's first-half red card.",
-        "publishedAt": "2026-10-18T16:27:51.000Z",
+        "description": "Noni Madueke comes of the bench to score the winning goal as Arsenal beat Nottingham Forest 1-0 at The City Ground.",
+        "publishedAt": "2026-10-18T18:59:06.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Britain's Kartal misses out on biggest title of her career",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cqm2411vp3dgo?at_medium=RSS&at_campaign=rss",
+        "title": "Leeds extend Man Utd's winless run to six games",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cw4g1dgr2v93o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska.",
-        "publishedAt": "2026-10-18T13:39:24.000Z",
+        "description": "Dominic Calvert-Lewin earns a point for Leeds and extends Manchester United's winless run to six games.",
+        "publishedAt": "2026-10-18T18:59:10.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Chacarra wins in India to take Race to Dubai lead",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/cw98zlldrpj0o?at_medium=RSS&at_campaign=rss",
+        "title": "Bournemouth pick up first league victory with win over Sunderland",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cme8rz8x6pw8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Eugenio Chacarra wins the DP World India Championship by two strokes to move top of the Race to Dubai standings ahead of Patrick Reed and Rory McIlroy.",
-        "publishedAt": "2026-10-18T15:11:51.000Z",
+        "description": "Bournemouth beat Sunderland 2-0 at the Vitality Stadium to pick up their first league victory of the season and move out of the relegation zone.",
+        "publishedAt": "2026-10-18T18:59:15.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "After Dubois' dominant win, what's next for heavyweight boxing?",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/ck3r59ywz99ro?at_medium=RSS&at_campaign=rss",
+        "title": "Madueke's 'anger and conviction' shows he's more than a 'finisher'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3qjnyw8qe4do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "After world champion Daniel Dubois' emphatic win over Fabio Wardley, what's next for the heavyweight division?",
-        "publishedAt": "2026-10-18T09:55:31.000Z",
+        "description": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
+        "publishedAt": "2026-10-18T19:55:41.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Liverpool come from behind to beat nine-man Brentford",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss",
+        "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and Vitaly Janelt.",
-        "publishedAt": "2026-10-17T19:00:13.000Z",
+        "description": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
+        "publishedAt": "2026-10-18T17:24:45.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Haaland nets double as Man City go six points clear at the top",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
+        "title": "Hearts roll out red carpet ... and Celtic walk all over it",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c62kezneyq8vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
-        "publishedAt": "2026-10-17T19:00:09.000Z",
+        "description": "Hearts thought attack was the best form of defence at Celtic Park. They were badly wrong, writes Tom English.",
+        "publishedAt": "2026-10-18T18:22:50.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Manzambi heads Villa to victory at Newcastle",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss",
+        "title": "Sage feels 'shame' at Palace thrashing with future in doubt",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq1kdzp093jwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
-        "publishedAt": "2026-10-17T19:12:02.000Z",
+        "description": "Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to save his job.",
+        "publishedAt": "2026-10-18T19:51:22.000Z",
         "category": "sports",
         "zone": "ca"
       }
