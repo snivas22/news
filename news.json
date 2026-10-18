@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T13:03:35.442Z",
+  "generatedAt": "2026-10-18T17:08:31.535Z",
   "general_us": {
     "articles": [
       {
@@ -8,19 +8,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+        "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
         "publishedAt": "2026-10-18T12:07:31.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Watch: Parisians wake up to protest damage and looted shops",
-        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
-        "publishedAt": "2026-10-18T10:58:39.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -31,18 +20,7 @@
           "name": "RSS Feed"
         },
         "description": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
-        "publishedAt": "2026-10-18T11:14:33.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
-        "publishedAt": "2026-10-18T12:09:04.000Z",
+        "publishedAt": "2026-10-18T14:57:19.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -69,24 +47,46 @@
         "zone": "us"
       },
       {
+        "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+        "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+        "publishedAt": "2026-10-18T15:46:10.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Ending corridor care in hospitals for children a priority, says health secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
+        "publishedAt": "2026-10-18T12:09:04.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
         "title": "Suspects hunted after police officer injured in shooting",
         "url": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say.",
-        "publishedAt": "2026-10-18T12:54:03.000Z",
+        "publishedAt": "2026-10-18T13:10:18.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-        "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+        "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
+        "url": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
-        "publishedAt": "2026-10-17T22:09:50.000Z",
+        "description": "The flying instructor has been described as \"a gentleman and an experienced aviator\" by former students.",
+        "publishedAt": "2026-10-18T17:00:42.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -100,19 +100,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+        "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
         "publishedAt": "2026-10-18T12:07:31.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Watch: Parisians wake up to protest damage and looted shops",
-        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
-        "publishedAt": "2026-10-18T10:58:39.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -123,18 +112,7 @@
           "name": "RSS Feed"
         },
         "description": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
-        "publishedAt": "2026-10-18T11:14:33.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
-        "publishedAt": "2026-10-18T12:09:04.000Z",
+        "publishedAt": "2026-10-18T14:57:19.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -161,24 +139,46 @@
         "zone": "gb"
       },
       {
+        "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+        "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+        "publishedAt": "2026-10-18T15:46:10.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Ending corridor care in hospitals for children a priority, says health secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
+        "publishedAt": "2026-10-18T12:09:04.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Suspects hunted after police officer injured in shooting",
         "url": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say.",
-        "publishedAt": "2026-10-18T12:54:03.000Z",
+        "publishedAt": "2026-10-18T13:10:18.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-        "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+        "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
+        "url": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
-        "publishedAt": "2026-10-17T22:09:50.000Z",
+        "description": "The flying instructor has been described as \"a gentleman and an experienced aviator\" by former students.",
+        "publishedAt": "2026-10-18T17:00:42.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -192,19 +192,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+        "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
         "publishedAt": "2026-10-18T12:07:31.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Watch: Parisians wake up to protest damage and looted shops",
-        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
-        "publishedAt": "2026-10-18T10:58:39.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -215,18 +204,7 @@
           "name": "RSS Feed"
         },
         "description": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
-        "publishedAt": "2026-10-18T11:14:33.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
-        "publishedAt": "2026-10-18T12:09:04.000Z",
+        "publishedAt": "2026-10-18T14:57:19.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -253,24 +231,46 @@
         "zone": "in"
       },
       {
+        "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+        "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+        "publishedAt": "2026-10-18T15:46:10.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Ending corridor care in hospitals for children a priority, says health secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
+        "publishedAt": "2026-10-18T12:09:04.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Suspects hunted after police officer injured in shooting",
         "url": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say.",
-        "publishedAt": "2026-10-18T12:54:03.000Z",
+        "publishedAt": "2026-10-18T13:10:18.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-        "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+        "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
+        "url": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
-        "publishedAt": "2026-10-17T22:09:50.000Z",
+        "description": "The flying instructor has been described as \"a gentleman and an experienced aviator\" by former students.",
+        "publishedAt": "2026-10-18T17:00:42.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -284,19 +284,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+        "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
         "publishedAt": "2026-10-18T12:07:31.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Watch: Parisians wake up to protest damage and looted shops",
-        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
-        "publishedAt": "2026-10-18T10:58:39.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -307,18 +296,7 @@
           "name": "RSS Feed"
         },
         "description": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
-        "publishedAt": "2026-10-18T11:14:33.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
-        "publishedAt": "2026-10-18T12:09:04.000Z",
+        "publishedAt": "2026-10-18T14:57:19.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -345,24 +323,46 @@
         "zone": "au"
       },
       {
+        "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+        "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+        "publishedAt": "2026-10-18T15:46:10.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Ending corridor care in hospitals for children a priority, says health secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
+        "publishedAt": "2026-10-18T12:09:04.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Suspects hunted after police officer injured in shooting",
         "url": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say.",
-        "publishedAt": "2026-10-18T12:54:03.000Z",
+        "publishedAt": "2026-10-18T13:10:18.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-        "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+        "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
+        "url": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
-        "publishedAt": "2026-10-17T22:09:50.000Z",
+        "description": "The flying instructor has been described as \"a gentleman and an experienced aviator\" by former students.",
+        "publishedAt": "2026-10-18T17:00:42.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -376,19 +376,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+        "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
         "publishedAt": "2026-10-18T12:07:31.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Watch: Parisians wake up to protest damage and looted shops",
-        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
-        "publishedAt": "2026-10-18T10:58:39.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -399,18 +388,7 @@
           "name": "RSS Feed"
         },
         "description": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
-        "publishedAt": "2026-10-18T11:14:33.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
-        "publishedAt": "2026-10-18T12:09:04.000Z",
+        "publishedAt": "2026-10-18T14:57:19.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -437,24 +415,46 @@
         "zone": "ca"
       },
       {
+        "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+        "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+        "publishedAt": "2026-10-18T15:46:10.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Ending corridor care in hospitals for children a priority, says health secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
+        "publishedAt": "2026-10-18T12:09:04.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Suspects hunted after police officer injured in shooting",
         "url": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say.",
-        "publishedAt": "2026-10-18T12:54:03.000Z",
+        "publishedAt": "2026-10-18T13:10:18.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-        "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+        "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
+        "url": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
-        "publishedAt": "2026-10-17T22:09:50.000Z",
+        "description": "The flying instructor has been described as \"a gentleman and an experienced aviator\" by former students.",
+        "publishedAt": "2026-10-18T17:00:42.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -2303,6 +2303,50 @@
   "sports_us": {
     "articles": [
       {
+        "title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Dominic Calvert-Lewin's second-half equaliser means Manchester United have now gone six games without a win for the first time since 2019 - find out who rated highest at Elland Road.",
+        "publishedAt": "2026-10-18T14:56:01.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Slade misses last-gasp kick as Toulouse deny Exeter famous win",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvglwz05j6l4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Toulouse deny Exeter Chiefs a famous Champions Cup victory in France, fighting back to win a frenetic contest with 14 men following Rodrigue Neti's first-half red card.",
+        "publishedAt": "2026-10-18T16:27:51.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Britain's Kartal misses out on biggest title of her career",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cqm2411vp3dgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska.",
+        "publishedAt": "2026-10-18T13:39:24.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Chacarra wins in India to take Race to Dubai lead",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cw98zlldrpj0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Eugenio Chacarra wins the DP World India Championship by two strokes to move top of the Race to Dubai standings ahead of Patrick Reed and Rory McIlroy.",
+        "publishedAt": "2026-10-18T15:11:51.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "After Dubois' dominant win, what's next for heavyweight boxing?",
         "url": "https://www.bbc.co.uk/sport/boxing/articles/ck3r59ywz99ro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2310,61 +2354,6 @@
         },
         "description": "After world champion Daniel Dubois' emphatic win over Fabio Wardley, what's next for the heavyweight division?",
         "publishedAt": "2026-10-18T09:55:31.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Martinez breaks jaw in Chelsea win at Everton",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cked3vl198eyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chelsea goalkeeper Emiliano Martinez says he will be back \"in a few weeks\" after breaking his jaw in a collision with Jarrad Branthwaite.",
-        "publishedAt": "2026-10-18T09:42:10.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Rain returns after Australia's Boland dents South Africa - scorecard",
-        "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Latest scorecard from the second Test between South Africa and Australia in Gqeberha.",
-        "publishedAt": "2026-10-18T00:00:00.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "New Zealand avoid World Cup shock against Fiji",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmx2q94rppe9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "New Zealand women are given a World Cup \"wake-up call\" after they are forced to come from behind to beat debutants Fiji in their opening game.",
-        "publishedAt": "2026-10-18T07:38:11.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Will Hearts prove credentials at scene of title heartbreak?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6y93xw91dv3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Hearts' last trip to Parkhead ended with their title dream being crushed in the space of 11 minutes. They return to face Celtic on Sunday refreshed and reshaped.",
-        "publishedAt": "2026-10-17T21:55:44.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Finucane will 'come back fighting' after missing gold",
-        "url": "https://www.bbc.co.uk/sport/olympics/articles/cm0rl7504204o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Emma Finucane says she will \"come back fighting\" for gold medals after narrowly missing out on the top step in the Keirin.",
-        "publishedAt": "2026-10-18T09:24:40.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2387,6 +2376,17 @@
         },
         "description": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
         "publishedAt": "2026-10-17T19:00:09.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Manzambi heads Villa to victory at Newcastle",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
+        "publishedAt": "2026-10-17T19:12:02.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,6 +2395,50 @@
   "sports_gb": {
     "articles": [
       {
+        "title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Dominic Calvert-Lewin's second-half equaliser means Manchester United have now gone six games without a win for the first time since 2019 - find out who rated highest at Elland Road.",
+        "publishedAt": "2026-10-18T14:56:01.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Slade misses last-gasp kick as Toulouse deny Exeter famous win",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvglwz05j6l4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Toulouse deny Exeter Chiefs a famous Champions Cup victory in France, fighting back to win a frenetic contest with 14 men following Rodrigue Neti's first-half red card.",
+        "publishedAt": "2026-10-18T16:27:51.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Britain's Kartal misses out on biggest title of her career",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cqm2411vp3dgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska.",
+        "publishedAt": "2026-10-18T13:39:24.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Chacarra wins in India to take Race to Dubai lead",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cw98zlldrpj0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Eugenio Chacarra wins the DP World India Championship by two strokes to move top of the Race to Dubai standings ahead of Patrick Reed and Rory McIlroy.",
+        "publishedAt": "2026-10-18T15:11:51.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "After Dubois' dominant win, what's next for heavyweight boxing?",
         "url": "https://www.bbc.co.uk/sport/boxing/articles/ck3r59ywz99ro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2402,61 +2446,6 @@
         },
         "description": "After world champion Daniel Dubois' emphatic win over Fabio Wardley, what's next for the heavyweight division?",
         "publishedAt": "2026-10-18T09:55:31.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Martinez breaks jaw in Chelsea win at Everton",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cked3vl198eyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chelsea goalkeeper Emiliano Martinez says he will be back \"in a few weeks\" after breaking his jaw in a collision with Jarrad Branthwaite.",
-        "publishedAt": "2026-10-18T09:42:10.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Rain returns after Australia's Boland dents South Africa - scorecard",
-        "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Latest scorecard from the second Test between South Africa and Australia in Gqeberha.",
-        "publishedAt": "2026-10-18T00:00:00.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "New Zealand avoid World Cup shock against Fiji",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmx2q94rppe9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "New Zealand women are given a World Cup \"wake-up call\" after they are forced to come from behind to beat debutants Fiji in their opening game.",
-        "publishedAt": "2026-10-18T07:38:11.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Will Hearts prove credentials at scene of title heartbreak?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6y93xw91dv3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Hearts' last trip to Parkhead ended with their title dream being crushed in the space of 11 minutes. They return to face Celtic on Sunday refreshed and reshaped.",
-        "publishedAt": "2026-10-17T21:55:44.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Finucane will 'come back fighting' after missing gold",
-        "url": "https://www.bbc.co.uk/sport/olympics/articles/cm0rl7504204o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Emma Finucane says she will \"come back fighting\" for gold medals after narrowly missing out on the top step in the Keirin.",
-        "publishedAt": "2026-10-18T09:24:40.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2479,6 +2468,17 @@
         },
         "description": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
         "publishedAt": "2026-10-17T19:00:09.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Manzambi heads Villa to victory at Newcastle",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
+        "publishedAt": "2026-10-17T19:12:02.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,6 +2487,50 @@
   "sports_in": {
     "articles": [
       {
+        "title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Dominic Calvert-Lewin's second-half equaliser means Manchester United have now gone six games without a win for the first time since 2019 - find out who rated highest at Elland Road.",
+        "publishedAt": "2026-10-18T14:56:01.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Slade misses last-gasp kick as Toulouse deny Exeter famous win",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvglwz05j6l4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Toulouse deny Exeter Chiefs a famous Champions Cup victory in France, fighting back to win a frenetic contest with 14 men following Rodrigue Neti's first-half red card.",
+        "publishedAt": "2026-10-18T16:27:51.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Britain's Kartal misses out on biggest title of her career",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cqm2411vp3dgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska.",
+        "publishedAt": "2026-10-18T13:39:24.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Chacarra wins in India to take Race to Dubai lead",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cw98zlldrpj0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Eugenio Chacarra wins the DP World India Championship by two strokes to move top of the Race to Dubai standings ahead of Patrick Reed and Rory McIlroy.",
+        "publishedAt": "2026-10-18T15:11:51.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "After Dubois' dominant win, what's next for heavyweight boxing?",
         "url": "https://www.bbc.co.uk/sport/boxing/articles/ck3r59ywz99ro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2494,61 +2538,6 @@
         },
         "description": "After world champion Daniel Dubois' emphatic win over Fabio Wardley, what's next for the heavyweight division?",
         "publishedAt": "2026-10-18T09:55:31.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Martinez breaks jaw in Chelsea win at Everton",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cked3vl198eyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chelsea goalkeeper Emiliano Martinez says he will be back \"in a few weeks\" after breaking his jaw in a collision with Jarrad Branthwaite.",
-        "publishedAt": "2026-10-18T09:42:10.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Rain returns after Australia's Boland dents South Africa - scorecard",
-        "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Latest scorecard from the second Test between South Africa and Australia in Gqeberha.",
-        "publishedAt": "2026-10-18T00:00:00.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "New Zealand avoid World Cup shock against Fiji",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmx2q94rppe9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "New Zealand women are given a World Cup \"wake-up call\" after they are forced to come from behind to beat debutants Fiji in their opening game.",
-        "publishedAt": "2026-10-18T07:38:11.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Will Hearts prove credentials at scene of title heartbreak?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6y93xw91dv3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Hearts' last trip to Parkhead ended with their title dream being crushed in the space of 11 minutes. They return to face Celtic on Sunday refreshed and reshaped.",
-        "publishedAt": "2026-10-17T21:55:44.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Finucane will 'come back fighting' after missing gold",
-        "url": "https://www.bbc.co.uk/sport/olympics/articles/cm0rl7504204o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Emma Finucane says she will \"come back fighting\" for gold medals after narrowly missing out on the top step in the Keirin.",
-        "publishedAt": "2026-10-18T09:24:40.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2571,6 +2560,17 @@
         },
         "description": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
         "publishedAt": "2026-10-17T19:00:09.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Manzambi heads Villa to victory at Newcastle",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
+        "publishedAt": "2026-10-17T19:12:02.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,6 +2579,50 @@
   "sports_au": {
     "articles": [
       {
+        "title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Dominic Calvert-Lewin's second-half equaliser means Manchester United have now gone six games without a win for the first time since 2019 - find out who rated highest at Elland Road.",
+        "publishedAt": "2026-10-18T14:56:01.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Slade misses last-gasp kick as Toulouse deny Exeter famous win",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvglwz05j6l4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Toulouse deny Exeter Chiefs a famous Champions Cup victory in France, fighting back to win a frenetic contest with 14 men following Rodrigue Neti's first-half red card.",
+        "publishedAt": "2026-10-18T16:27:51.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Britain's Kartal misses out on biggest title of her career",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cqm2411vp3dgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska.",
+        "publishedAt": "2026-10-18T13:39:24.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Chacarra wins in India to take Race to Dubai lead",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cw98zlldrpj0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Eugenio Chacarra wins the DP World India Championship by two strokes to move top of the Race to Dubai standings ahead of Patrick Reed and Rory McIlroy.",
+        "publishedAt": "2026-10-18T15:11:51.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "After Dubois' dominant win, what's next for heavyweight boxing?",
         "url": "https://www.bbc.co.uk/sport/boxing/articles/ck3r59ywz99ro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2586,61 +2630,6 @@
         },
         "description": "After world champion Daniel Dubois' emphatic win over Fabio Wardley, what's next for the heavyweight division?",
         "publishedAt": "2026-10-18T09:55:31.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Martinez breaks jaw in Chelsea win at Everton",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cked3vl198eyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chelsea goalkeeper Emiliano Martinez says he will be back \"in a few weeks\" after breaking his jaw in a collision with Jarrad Branthwaite.",
-        "publishedAt": "2026-10-18T09:42:10.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Rain returns after Australia's Boland dents South Africa - scorecard",
-        "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Latest scorecard from the second Test between South Africa and Australia in Gqeberha.",
-        "publishedAt": "2026-10-18T00:00:00.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "New Zealand avoid World Cup shock against Fiji",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmx2q94rppe9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "New Zealand women are given a World Cup \"wake-up call\" after they are forced to come from behind to beat debutants Fiji in their opening game.",
-        "publishedAt": "2026-10-18T07:38:11.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Will Hearts prove credentials at scene of title heartbreak?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6y93xw91dv3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Hearts' last trip to Parkhead ended with their title dream being crushed in the space of 11 minutes. They return to face Celtic on Sunday refreshed and reshaped.",
-        "publishedAt": "2026-10-17T21:55:44.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Finucane will 'come back fighting' after missing gold",
-        "url": "https://www.bbc.co.uk/sport/olympics/articles/cm0rl7504204o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Emma Finucane says she will \"come back fighting\" for gold medals after narrowly missing out on the top step in the Keirin.",
-        "publishedAt": "2026-10-18T09:24:40.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2663,6 +2652,17 @@
         },
         "description": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
         "publishedAt": "2026-10-17T19:00:09.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Manzambi heads Villa to victory at Newcastle",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
+        "publishedAt": "2026-10-17T19:12:02.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,6 +2671,50 @@
   "sports_ca": {
     "articles": [
       {
+        "title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Dominic Calvert-Lewin's second-half equaliser means Manchester United have now gone six games without a win for the first time since 2019 - find out who rated highest at Elland Road.",
+        "publishedAt": "2026-10-18T14:56:01.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Slade misses last-gasp kick as Toulouse deny Exeter famous win",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvglwz05j6l4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Toulouse deny Exeter Chiefs a famous Champions Cup victory in France, fighting back to win a frenetic contest with 14 men following Rodrigue Neti's first-half red card.",
+        "publishedAt": "2026-10-18T16:27:51.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Britain's Kartal misses out on biggest title of her career",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cqm2411vp3dgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska.",
+        "publishedAt": "2026-10-18T13:39:24.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Chacarra wins in India to take Race to Dubai lead",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cw98zlldrpj0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Eugenio Chacarra wins the DP World India Championship by two strokes to move top of the Race to Dubai standings ahead of Patrick Reed and Rory McIlroy.",
+        "publishedAt": "2026-10-18T15:11:51.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "After Dubois' dominant win, what's next for heavyweight boxing?",
         "url": "https://www.bbc.co.uk/sport/boxing/articles/ck3r59ywz99ro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2678,61 +2722,6 @@
         },
         "description": "After world champion Daniel Dubois' emphatic win over Fabio Wardley, what's next for the heavyweight division?",
         "publishedAt": "2026-10-18T09:55:31.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Martinez breaks jaw in Chelsea win at Everton",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cked3vl198eyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chelsea goalkeeper Emiliano Martinez says he will be back \"in a few weeks\" after breaking his jaw in a collision with Jarrad Branthwaite.",
-        "publishedAt": "2026-10-18T09:42:10.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Rain returns after Australia's Boland dents South Africa - scorecard",
-        "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Latest scorecard from the second Test between South Africa and Australia in Gqeberha.",
-        "publishedAt": "2026-10-18T00:00:00.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "New Zealand avoid World Cup shock against Fiji",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmx2q94rppe9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "New Zealand women are given a World Cup \"wake-up call\" after they are forced to come from behind to beat debutants Fiji in their opening game.",
-        "publishedAt": "2026-10-18T07:38:11.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Will Hearts prove credentials at scene of title heartbreak?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6y93xw91dv3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Hearts' last trip to Parkhead ended with their title dream being crushed in the space of 11 minutes. They return to face Celtic on Sunday refreshed and reshaped.",
-        "publishedAt": "2026-10-17T21:55:44.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Finucane will 'come back fighting' after missing gold",
-        "url": "https://www.bbc.co.uk/sport/olympics/articles/cm0rl7504204o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Emma Finucane says she will \"come back fighting\" for gold medals after narrowly missing out on the top step in the Keirin.",
-        "publishedAt": "2026-10-18T09:24:40.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2755,6 +2744,17 @@
         },
         "description": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
         "publishedAt": "2026-10-17T19:00:09.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Manzambi heads Villa to victory at Newcastle",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
+        "publishedAt": "2026-10-17T19:12:02.000Z",
         "category": "sports",
         "zone": "ca"
       }
