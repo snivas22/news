@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T23:24:33.306Z",
+  "generatedAt": "2026-10-20T03:55:09.516Z",
   "general_us": {
     "articles": [
       {
@@ -36,6 +36,17 @@
         "zone": "us"
       },
       {
+        "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+        "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+        "publishedAt": "2026-10-20T01:31:09.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
         "title": "Burnham vows end to 'rip-off parking charges' under new rules",
         "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -58,35 +69,24 @@
         "zone": "us"
       },
       {
-        "title": "Mission blasts off for Mars to grab a piece of its moon",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+        "title": "Criminals detained in hospital set to lose benefits",
+        "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
-        "publishedAt": "2026-10-19T19:45:46.000Z",
+        "description": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.",
+        "publishedAt": "2026-10-19T23:21:38.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-        "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-        "publishedAt": "2026-10-19T17:18:04.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "US Church on frontline of battle against drug known as 'tranq'",
+        "title": "US church on frontline of battle against drug known as 'tranq'",
         "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
-        "publishedAt": "2026-10-19T21:05:54.000Z",
+        "publishedAt": "2026-10-20T00:02:32.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -128,6 +128,17 @@
         "zone": "gb"
       },
       {
+        "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+        "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+        "publishedAt": "2026-10-20T01:31:09.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Burnham vows end to 'rip-off parking charges' under new rules",
         "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -150,35 +161,24 @@
         "zone": "gb"
       },
       {
-        "title": "Mission blasts off for Mars to grab a piece of its moon",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+        "title": "Criminals detained in hospital set to lose benefits",
+        "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
-        "publishedAt": "2026-10-19T19:45:46.000Z",
+        "description": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.",
+        "publishedAt": "2026-10-19T23:21:38.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-        "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-        "publishedAt": "2026-10-19T17:18:04.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "US Church on frontline of battle against drug known as 'tranq'",
+        "title": "US church on frontline of battle against drug known as 'tranq'",
         "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
-        "publishedAt": "2026-10-19T21:05:54.000Z",
+        "publishedAt": "2026-10-20T00:02:32.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -220,6 +220,17 @@
         "zone": "in"
       },
       {
+        "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+        "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+        "publishedAt": "2026-10-20T01:31:09.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Burnham vows end to 'rip-off parking charges' under new rules",
         "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -242,35 +253,24 @@
         "zone": "in"
       },
       {
-        "title": "Mission blasts off for Mars to grab a piece of its moon",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+        "title": "Criminals detained in hospital set to lose benefits",
+        "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
-        "publishedAt": "2026-10-19T19:45:46.000Z",
+        "description": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.",
+        "publishedAt": "2026-10-19T23:21:38.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-        "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-        "publishedAt": "2026-10-19T17:18:04.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "US Church on frontline of battle against drug known as 'tranq'",
+        "title": "US church on frontline of battle against drug known as 'tranq'",
         "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
-        "publishedAt": "2026-10-19T21:05:54.000Z",
+        "publishedAt": "2026-10-20T00:02:32.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -312,6 +312,17 @@
         "zone": "au"
       },
       {
+        "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+        "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+        "publishedAt": "2026-10-20T01:31:09.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Burnham vows end to 'rip-off parking charges' under new rules",
         "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -334,35 +345,24 @@
         "zone": "au"
       },
       {
-        "title": "Mission blasts off for Mars to grab a piece of its moon",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+        "title": "Criminals detained in hospital set to lose benefits",
+        "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
-        "publishedAt": "2026-10-19T19:45:46.000Z",
+        "description": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.",
+        "publishedAt": "2026-10-19T23:21:38.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-        "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-        "publishedAt": "2026-10-19T17:18:04.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "US Church on frontline of battle against drug known as 'tranq'",
+        "title": "US church on frontline of battle against drug known as 'tranq'",
         "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
-        "publishedAt": "2026-10-19T21:05:54.000Z",
+        "publishedAt": "2026-10-20T00:02:32.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -404,6 +404,17 @@
         "zone": "ca"
       },
       {
+        "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+        "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+        "publishedAt": "2026-10-20T01:31:09.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Burnham vows end to 'rip-off parking charges' under new rules",
         "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -426,35 +437,24 @@
         "zone": "ca"
       },
       {
-        "title": "Mission blasts off for Mars to grab a piece of its moon",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+        "title": "Criminals detained in hospital set to lose benefits",
+        "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
-        "publishedAt": "2026-10-19T19:45:46.000Z",
+        "description": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.",
+        "publishedAt": "2026-10-19T23:21:38.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-        "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-        "publishedAt": "2026-10-19T17:18:04.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "US Church on frontline of battle against drug known as 'tranq'",
+        "title": "US church on frontline of battle against drug known as 'tranq'",
         "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
-        "publishedAt": "2026-10-19T21:05:54.000Z",
+        "publishedAt": "2026-10-20T00:02:32.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -1920,13 +1920,13 @@
         "zone": "us"
       },
       {
-        "title": "Long-serving ABC broadcaster Robyn Williams to leave The Science Show after 51 years",
-        "url": "https://www.theguardian.com/media/2026/oct/17/robyn-williams-leaving-abc-the-science-show-after-51-years",
+        "title": "‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos",
+        "url": "https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks",
         "source": {
-          "name": "Amanda Meade Media correspondent"
+          "name": "Justin McCurry in Tokyo and agencies"
         },
-        "description": "No replacement has been named as the 82-year-old departs, with the media announcement referring only to ‘the next generation’ Sign up for Guardian Australia’s free weekly media newsletter here Long-serving broadcaster Robyn Williams is leaving the ABC’s The Science Show after 51 years, as the public broadcaster looks to refresh its science programming. The news comes a fortnight after the ABC’s financial journalist Alan Kohler announced his retirement after three decades. Sign up to get Guardian Australia’s weekly media diary as a free newsletter Continue reading...",
-        "publishedAt": "2026-10-17T01:05:16.000Z",
+        "description": "Scientists hope Martian material collected will shed light on the origins of the solar system and life on Earth Japan has successfully launched a spacecraft on an unprecedented mission to bring back samples from one of Mars’s moons that scientists hope will shed light on the origins of the solar system and life on Earth. The Martian ⁠Moons Exploration (MMX) spacecraft, propelled by Japan’s flagship H3 rocket, lifted off before dawn from Tanegashima island in the country’s far south-west, the Japan Aerospace Exploration Agency (Jaxa) said. Continue reading...",
+        "publishedAt": "2026-10-19T23:37:57.000Z",
         "category": "science",
         "zone": "us"
       }
@@ -2012,13 +2012,13 @@
         "zone": "gb"
       },
       {
-        "title": "Long-serving ABC broadcaster Robyn Williams to leave The Science Show after 51 years",
-        "url": "https://www.theguardian.com/media/2026/oct/17/robyn-williams-leaving-abc-the-science-show-after-51-years",
+        "title": "‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos",
+        "url": "https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks",
         "source": {
-          "name": "Amanda Meade Media correspondent"
+          "name": "Justin McCurry in Tokyo and agencies"
         },
-        "description": "No replacement has been named as the 82-year-old departs, with the media announcement referring only to ‘the next generation’ Sign up for Guardian Australia’s free weekly media newsletter here Long-serving broadcaster Robyn Williams is leaving the ABC’s The Science Show after 51 years, as the public broadcaster looks to refresh its science programming. The news comes a fortnight after the ABC’s financial journalist Alan Kohler announced his retirement after three decades. Sign up to get Guardian Australia’s weekly media diary as a free newsletter Continue reading...",
-        "publishedAt": "2026-10-17T01:05:16.000Z",
+        "description": "Scientists hope Martian material collected will shed light on the origins of the solar system and life on Earth Japan has successfully launched a spacecraft on an unprecedented mission to bring back samples from one of Mars’s moons that scientists hope will shed light on the origins of the solar system and life on Earth. The Martian ⁠Moons Exploration (MMX) spacecraft, propelled by Japan’s flagship H3 rocket, lifted off before dawn from Tanegashima island in the country’s far south-west, the Japan Aerospace Exploration Agency (Jaxa) said. Continue reading...",
+        "publishedAt": "2026-10-19T23:37:57.000Z",
         "category": "science",
         "zone": "gb"
       }
@@ -2104,13 +2104,13 @@
         "zone": "in"
       },
       {
-        "title": "Long-serving ABC broadcaster Robyn Williams to leave The Science Show after 51 years",
-        "url": "https://www.theguardian.com/media/2026/oct/17/robyn-williams-leaving-abc-the-science-show-after-51-years",
+        "title": "‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos",
+        "url": "https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks",
         "source": {
-          "name": "Amanda Meade Media correspondent"
+          "name": "Justin McCurry in Tokyo and agencies"
         },
-        "description": "No replacement has been named as the 82-year-old departs, with the media announcement referring only to ‘the next generation’ Sign up for Guardian Australia’s free weekly media newsletter here Long-serving broadcaster Robyn Williams is leaving the ABC’s The Science Show after 51 years, as the public broadcaster looks to refresh its science programming. The news comes a fortnight after the ABC’s financial journalist Alan Kohler announced his retirement after three decades. Sign up to get Guardian Australia’s weekly media diary as a free newsletter Continue reading...",
-        "publishedAt": "2026-10-17T01:05:16.000Z",
+        "description": "Scientists hope Martian material collected will shed light on the origins of the solar system and life on Earth Japan has successfully launched a spacecraft on an unprecedented mission to bring back samples from one of Mars’s moons that scientists hope will shed light on the origins of the solar system and life on Earth. The Martian ⁠Moons Exploration (MMX) spacecraft, propelled by Japan’s flagship H3 rocket, lifted off before dawn from Tanegashima island in the country’s far south-west, the Japan Aerospace Exploration Agency (Jaxa) said. Continue reading...",
+        "publishedAt": "2026-10-19T23:37:57.000Z",
         "category": "science",
         "zone": "in"
       }
@@ -2196,13 +2196,13 @@
         "zone": "au"
       },
       {
-        "title": "Long-serving ABC broadcaster Robyn Williams to leave The Science Show after 51 years",
-        "url": "https://www.theguardian.com/media/2026/oct/17/robyn-williams-leaving-abc-the-science-show-after-51-years",
+        "title": "‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos",
+        "url": "https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks",
         "source": {
-          "name": "Amanda Meade Media correspondent"
+          "name": "Justin McCurry in Tokyo and agencies"
         },
-        "description": "No replacement has been named as the 82-year-old departs, with the media announcement referring only to ‘the next generation’ Sign up for Guardian Australia’s free weekly media newsletter here Long-serving broadcaster Robyn Williams is leaving the ABC’s The Science Show after 51 years, as the public broadcaster looks to refresh its science programming. The news comes a fortnight after the ABC’s financial journalist Alan Kohler announced his retirement after three decades. Sign up to get Guardian Australia’s weekly media diary as a free newsletter Continue reading...",
-        "publishedAt": "2026-10-17T01:05:16.000Z",
+        "description": "Scientists hope Martian material collected will shed light on the origins of the solar system and life on Earth Japan has successfully launched a spacecraft on an unprecedented mission to bring back samples from one of Mars’s moons that scientists hope will shed light on the origins of the solar system and life on Earth. The Martian ⁠Moons Exploration (MMX) spacecraft, propelled by Japan’s flagship H3 rocket, lifted off before dawn from Tanegashima island in the country’s far south-west, the Japan Aerospace Exploration Agency (Jaxa) said. Continue reading...",
+        "publishedAt": "2026-10-19T23:37:57.000Z",
         "category": "science",
         "zone": "au"
       }
@@ -2288,13 +2288,13 @@
         "zone": "ca"
       },
       {
-        "title": "Long-serving ABC broadcaster Robyn Williams to leave The Science Show after 51 years",
-        "url": "https://www.theguardian.com/media/2026/oct/17/robyn-williams-leaving-abc-the-science-show-after-51-years",
+        "title": "‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos",
+        "url": "https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks",
         "source": {
-          "name": "Amanda Meade Media correspondent"
+          "name": "Justin McCurry in Tokyo and agencies"
         },
-        "description": "No replacement has been named as the 82-year-old departs, with the media announcement referring only to ‘the next generation’ Sign up for Guardian Australia’s free weekly media newsletter here Long-serving broadcaster Robyn Williams is leaving the ABC’s The Science Show after 51 years, as the public broadcaster looks to refresh its science programming. The news comes a fortnight after the ABC’s financial journalist Alan Kohler announced his retirement after three decades. Sign up to get Guardian Australia’s weekly media diary as a free newsletter Continue reading...",
-        "publishedAt": "2026-10-17T01:05:16.000Z",
+        "description": "Scientists hope Martian material collected will shed light on the origins of the solar system and life on Earth Japan has successfully launched a spacecraft on an unprecedented mission to bring back samples from one of Mars’s moons that scientists hope will shed light on the origins of the solar system and life on Earth. The Martian ⁠Moons Exploration (MMX) spacecraft, propelled by Japan’s flagship H3 rocket, lifted off before dawn from Tanegashima island in the country’s far south-west, the Japan Aerospace Exploration Agency (Jaxa) said. Continue reading...",
+        "publishedAt": "2026-10-19T23:37:57.000Z",
         "category": "science",
         "zone": "ca"
       }
@@ -2325,6 +2325,17 @@
         "zone": "us"
       },
       {
+        "title": "England coach should be English, suggests Fleming",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "New Zealander Stephen Fleming, England’s new Test coach, suggests the national team should be led by someone from England.",
+        "publishedAt": "2026-10-19T23:29:19.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Maddison shines on return - Tottenham v Coventry ratings",
         "url": "https://www.bbc.co.uk/sport/football/articles/crx23ndd337wo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2347,24 +2358,13 @@
         "zone": "us"
       },
       {
-        "title": "Uefa gives Infantino two-week deadline to release key documents",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo?at_medium=RSS&at_campaign=rss",
+        "title": "Who has made Troy's Premier League team of the week?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqgm0zy4d23po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Uefa's letter contained 42 questions, covering Fifa's failed private investment proposals, its Peace Prize and the fallout from Folarin Balogun's World Cup red card.",
-        "publishedAt": "2026-10-19T18:20:39.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Palace manager Sage facing fight to keep his job",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq2d6npjy9xlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Crystal Palace boss Pierre Sage faces a fight to keep his job, but will be given more time.",
-        "publishedAt": "2026-10-19T19:32:56.000Z",
+        "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+        "publishedAt": "2026-10-19T23:22:24.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2380,13 +2380,13 @@
         "zone": "us"
       },
       {
-        "title": "Leicester to visit Oxford City in FA Cup first round - see full draw",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckwyqdvedj32o?at_medium=RSS&at_campaign=rss",
+        "title": "Palace manager Sage facing fight to keep his job",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq2d6npjy9xlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Leicester City will travel to National League North side Oxford City in the 2026-27 FA Cup first round - five years after winning the competition.",
-        "publishedAt": "2026-10-19T18:13:52.000Z",
+        "description": "Crystal Palace boss Pierre Sage faces a fight to keep his job, but will be given more time.",
+        "publishedAt": "2026-10-19T19:32:56.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2417,6 +2417,17 @@
         "zone": "gb"
       },
       {
+        "title": "England coach should be English, suggests Fleming",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "New Zealander Stephen Fleming, England’s new Test coach, suggests the national team should be led by someone from England.",
+        "publishedAt": "2026-10-19T23:29:19.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Maddison shines on return - Tottenham v Coventry ratings",
         "url": "https://www.bbc.co.uk/sport/football/articles/crx23ndd337wo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2439,24 +2450,13 @@
         "zone": "gb"
       },
       {
-        "title": "Uefa gives Infantino two-week deadline to release key documents",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo?at_medium=RSS&at_campaign=rss",
+        "title": "Who has made Troy's Premier League team of the week?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqgm0zy4d23po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Uefa's letter contained 42 questions, covering Fifa's failed private investment proposals, its Peace Prize and the fallout from Folarin Balogun's World Cup red card.",
-        "publishedAt": "2026-10-19T18:20:39.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Palace manager Sage facing fight to keep his job",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq2d6npjy9xlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Crystal Palace boss Pierre Sage faces a fight to keep his job, but will be given more time.",
-        "publishedAt": "2026-10-19T19:32:56.000Z",
+        "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+        "publishedAt": "2026-10-19T23:22:24.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2472,13 +2472,13 @@
         "zone": "gb"
       },
       {
-        "title": "Leicester to visit Oxford City in FA Cup first round - see full draw",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckwyqdvedj32o?at_medium=RSS&at_campaign=rss",
+        "title": "Palace manager Sage facing fight to keep his job",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq2d6npjy9xlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Leicester City will travel to National League North side Oxford City in the 2026-27 FA Cup first round - five years after winning the competition.",
-        "publishedAt": "2026-10-19T18:13:52.000Z",
+        "description": "Crystal Palace boss Pierre Sage faces a fight to keep his job, but will be given more time.",
+        "publishedAt": "2026-10-19T19:32:56.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2509,6 +2509,17 @@
         "zone": "in"
       },
       {
+        "title": "England coach should be English, suggests Fleming",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "New Zealander Stephen Fleming, England’s new Test coach, suggests the national team should be led by someone from England.",
+        "publishedAt": "2026-10-19T23:29:19.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Maddison shines on return - Tottenham v Coventry ratings",
         "url": "https://www.bbc.co.uk/sport/football/articles/crx23ndd337wo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2531,24 +2542,13 @@
         "zone": "in"
       },
       {
-        "title": "Uefa gives Infantino two-week deadline to release key documents",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo?at_medium=RSS&at_campaign=rss",
+        "title": "Who has made Troy's Premier League team of the week?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqgm0zy4d23po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Uefa's letter contained 42 questions, covering Fifa's failed private investment proposals, its Peace Prize and the fallout from Folarin Balogun's World Cup red card.",
-        "publishedAt": "2026-10-19T18:20:39.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Palace manager Sage facing fight to keep his job",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq2d6npjy9xlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Crystal Palace boss Pierre Sage faces a fight to keep his job, but will be given more time.",
-        "publishedAt": "2026-10-19T19:32:56.000Z",
+        "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+        "publishedAt": "2026-10-19T23:22:24.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2564,13 +2564,13 @@
         "zone": "in"
       },
       {
-        "title": "Leicester to visit Oxford City in FA Cup first round - see full draw",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckwyqdvedj32o?at_medium=RSS&at_campaign=rss",
+        "title": "Palace manager Sage facing fight to keep his job",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq2d6npjy9xlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Leicester City will travel to National League North side Oxford City in the 2026-27 FA Cup first round - five years after winning the competition.",
-        "publishedAt": "2026-10-19T18:13:52.000Z",
+        "description": "Crystal Palace boss Pierre Sage faces a fight to keep his job, but will be given more time.",
+        "publishedAt": "2026-10-19T19:32:56.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2601,6 +2601,17 @@
         "zone": "au"
       },
       {
+        "title": "England coach should be English, suggests Fleming",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "New Zealander Stephen Fleming, England’s new Test coach, suggests the national team should be led by someone from England.",
+        "publishedAt": "2026-10-19T23:29:19.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Maddison shines on return - Tottenham v Coventry ratings",
         "url": "https://www.bbc.co.uk/sport/football/articles/crx23ndd337wo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2623,24 +2634,13 @@
         "zone": "au"
       },
       {
-        "title": "Uefa gives Infantino two-week deadline to release key documents",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo?at_medium=RSS&at_campaign=rss",
+        "title": "Who has made Troy's Premier League team of the week?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqgm0zy4d23po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Uefa's letter contained 42 questions, covering Fifa's failed private investment proposals, its Peace Prize and the fallout from Folarin Balogun's World Cup red card.",
-        "publishedAt": "2026-10-19T18:20:39.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Palace manager Sage facing fight to keep his job",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq2d6npjy9xlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Crystal Palace boss Pierre Sage faces a fight to keep his job, but will be given more time.",
-        "publishedAt": "2026-10-19T19:32:56.000Z",
+        "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+        "publishedAt": "2026-10-19T23:22:24.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2656,13 +2656,13 @@
         "zone": "au"
       },
       {
-        "title": "Leicester to visit Oxford City in FA Cup first round - see full draw",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckwyqdvedj32o?at_medium=RSS&at_campaign=rss",
+        "title": "Palace manager Sage facing fight to keep his job",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq2d6npjy9xlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Leicester City will travel to National League North side Oxford City in the 2026-27 FA Cup first round - five years after winning the competition.",
-        "publishedAt": "2026-10-19T18:13:52.000Z",
+        "description": "Crystal Palace boss Pierre Sage faces a fight to keep his job, but will be given more time.",
+        "publishedAt": "2026-10-19T19:32:56.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2693,6 +2693,17 @@
         "zone": "ca"
       },
       {
+        "title": "England coach should be English, suggests Fleming",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "New Zealander Stephen Fleming, England’s new Test coach, suggests the national team should be led by someone from England.",
+        "publishedAt": "2026-10-19T23:29:19.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Maddison shines on return - Tottenham v Coventry ratings",
         "url": "https://www.bbc.co.uk/sport/football/articles/crx23ndd337wo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2715,24 +2726,13 @@
         "zone": "ca"
       },
       {
-        "title": "Uefa gives Infantino two-week deadline to release key documents",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo?at_medium=RSS&at_campaign=rss",
+        "title": "Who has made Troy's Premier League team of the week?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqgm0zy4d23po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Uefa's letter contained 42 questions, covering Fifa's failed private investment proposals, its Peace Prize and the fallout from Folarin Balogun's World Cup red card.",
-        "publishedAt": "2026-10-19T18:20:39.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Palace manager Sage facing fight to keep his job",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq2d6npjy9xlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Crystal Palace boss Pierre Sage faces a fight to keep his job, but will be given more time.",
-        "publishedAt": "2026-10-19T19:32:56.000Z",
+        "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+        "publishedAt": "2026-10-19T23:22:24.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2748,13 +2748,13 @@
         "zone": "ca"
       },
       {
-        "title": "Leicester to visit Oxford City in FA Cup first round - see full draw",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckwyqdvedj32o?at_medium=RSS&at_campaign=rss",
+        "title": "Palace manager Sage facing fight to keep his job",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq2d6npjy9xlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Leicester City will travel to National League North side Oxford City in the 2026-27 FA Cup first round - five years after winning the competition.",
-        "publishedAt": "2026-10-19T18:13:52.000Z",
+        "description": "Crystal Palace boss Pierre Sage faces a fight to keep his job, but will be given more time.",
+        "publishedAt": "2026-10-19T19:32:56.000Z",
         "category": "sports",
         "zone": "ca"
       }
