@@ -1,15 +1,26 @@
 {
-  "generatedAt": "2026-10-20T19:00:56.084Z",
+  "generatedAt": "2026-10-20T22:15:00.480Z",
   "general_us": {
     "articles": [
       {
-        "title": "Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+        "title": "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
         "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\".",
         "publishedAt": "2026-10-20T18:32:14.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+        "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+        "publishedAt": "2026-10-20T21:27:39.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -25,17 +36,6 @@
         "zone": "us"
       },
       {
-        "title": "Google resolves cloud outage affecting UK banks and websites",
-        "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Revolut was one of the hardest hit, with banking services going down for many customers.",
-        "publishedAt": "2026-10-20T18:03:19.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
         "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
         "url": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -47,24 +47,24 @@
         "zone": "us"
       },
       {
-        "title": "Harry says he wants to 'reconcile' with his family",
-        "url": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o?at_medium=RSS&at_campaign=rss",
+        "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
+        "url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Prince Harry says he wants reconciliation with his family, in an interview with a magazine in New York last month.",
-        "publishedAt": "2026-10-20T15:49:54.000Z",
+        "description": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit.",
+        "publishedAt": "2026-10-20T21:10:38.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-        "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+        "title": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
-        "publishedAt": "2026-10-20T11:45:49.000Z",
+        "description": "Musk says special committees within both companies have been formed to consider a possible mega-merger.",
+        "publishedAt": "2026-10-20T22:06:48.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -80,13 +80,13 @@
         "zone": "us"
       },
       {
-        "title": "Student who stabbed housemate 30 times admits murder",
-        "url": "https://www.bbc.co.uk/news/articles/ckq6n55l23rlo?at_medium=RSS&at_campaign=rss",
+        "title": "Woman says she 'couldn't speak or breathe' during alleged rape by Russell Brand",
+        "url": "https://www.bbc.co.uk/news/articles/ck240rr10jdqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jamie Collins is described as a \"sensitive and caring young man\" after his killer admits murder.",
-        "publishedAt": "2026-10-20T14:35:14.000Z",
+        "description": "The entertainer denies three counts of rape, three charges of sexual assault and one of indecent assault.",
+        "publishedAt": "2026-10-20T16:02:03.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,13 +95,24 @@
   "general_gb": {
     "articles": [
       {
-        "title": "Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+        "title": "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
         "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\".",
         "publishedAt": "2026-10-20T18:32:14.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+        "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+        "publishedAt": "2026-10-20T21:27:39.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -117,17 +128,6 @@
         "zone": "gb"
       },
       {
-        "title": "Google resolves cloud outage affecting UK banks and websites",
-        "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Revolut was one of the hardest hit, with banking services going down for many customers.",
-        "publishedAt": "2026-10-20T18:03:19.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
         "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
         "url": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -139,24 +139,24 @@
         "zone": "gb"
       },
       {
-        "title": "Harry says he wants to 'reconcile' with his family",
-        "url": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o?at_medium=RSS&at_campaign=rss",
+        "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
+        "url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Prince Harry says he wants reconciliation with his family, in an interview with a magazine in New York last month.",
-        "publishedAt": "2026-10-20T15:49:54.000Z",
+        "description": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit.",
+        "publishedAt": "2026-10-20T21:10:38.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-        "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+        "title": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
-        "publishedAt": "2026-10-20T11:45:49.000Z",
+        "description": "Musk says special committees within both companies have been formed to consider a possible mega-merger.",
+        "publishedAt": "2026-10-20T22:06:48.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -172,13 +172,13 @@
         "zone": "gb"
       },
       {
-        "title": "Student who stabbed housemate 30 times admits murder",
-        "url": "https://www.bbc.co.uk/news/articles/ckq6n55l23rlo?at_medium=RSS&at_campaign=rss",
+        "title": "Woman says she 'couldn't speak or breathe' during alleged rape by Russell Brand",
+        "url": "https://www.bbc.co.uk/news/articles/ck240rr10jdqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jamie Collins is described as a \"sensitive and caring young man\" after his killer admits murder.",
-        "publishedAt": "2026-10-20T14:35:14.000Z",
+        "description": "The entertainer denies three counts of rape, three charges of sexual assault and one of indecent assault.",
+        "publishedAt": "2026-10-20T16:02:03.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,13 +187,24 @@
   "general_in": {
     "articles": [
       {
-        "title": "Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+        "title": "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
         "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\".",
         "publishedAt": "2026-10-20T18:32:14.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+        "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+        "publishedAt": "2026-10-20T21:27:39.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -209,17 +220,6 @@
         "zone": "in"
       },
       {
-        "title": "Google resolves cloud outage affecting UK banks and websites",
-        "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Revolut was one of the hardest hit, with banking services going down for many customers.",
-        "publishedAt": "2026-10-20T18:03:19.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
         "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
         "url": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -231,24 +231,24 @@
         "zone": "in"
       },
       {
-        "title": "Harry says he wants to 'reconcile' with his family",
-        "url": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o?at_medium=RSS&at_campaign=rss",
+        "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
+        "url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Prince Harry says he wants reconciliation with his family, in an interview with a magazine in New York last month.",
-        "publishedAt": "2026-10-20T15:49:54.000Z",
+        "description": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit.",
+        "publishedAt": "2026-10-20T21:10:38.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-        "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+        "title": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
-        "publishedAt": "2026-10-20T11:45:49.000Z",
+        "description": "Musk says special committees within both companies have been formed to consider a possible mega-merger.",
+        "publishedAt": "2026-10-20T22:06:48.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -264,13 +264,13 @@
         "zone": "in"
       },
       {
-        "title": "Student who stabbed housemate 30 times admits murder",
-        "url": "https://www.bbc.co.uk/news/articles/ckq6n55l23rlo?at_medium=RSS&at_campaign=rss",
+        "title": "Woman says she 'couldn't speak or breathe' during alleged rape by Russell Brand",
+        "url": "https://www.bbc.co.uk/news/articles/ck240rr10jdqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jamie Collins is described as a \"sensitive and caring young man\" after his killer admits murder.",
-        "publishedAt": "2026-10-20T14:35:14.000Z",
+        "description": "The entertainer denies three counts of rape, three charges of sexual assault and one of indecent assault.",
+        "publishedAt": "2026-10-20T16:02:03.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,13 +279,24 @@
   "general_au": {
     "articles": [
       {
-        "title": "Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+        "title": "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
         "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\".",
         "publishedAt": "2026-10-20T18:32:14.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+        "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+        "publishedAt": "2026-10-20T21:27:39.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -301,17 +312,6 @@
         "zone": "au"
       },
       {
-        "title": "Google resolves cloud outage affecting UK banks and websites",
-        "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Revolut was one of the hardest hit, with banking services going down for many customers.",
-        "publishedAt": "2026-10-20T18:03:19.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
         "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
         "url": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -323,24 +323,24 @@
         "zone": "au"
       },
       {
-        "title": "Harry says he wants to 'reconcile' with his family",
-        "url": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o?at_medium=RSS&at_campaign=rss",
+        "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
+        "url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Prince Harry says he wants reconciliation with his family, in an interview with a magazine in New York last month.",
-        "publishedAt": "2026-10-20T15:49:54.000Z",
+        "description": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit.",
+        "publishedAt": "2026-10-20T21:10:38.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-        "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+        "title": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
-        "publishedAt": "2026-10-20T11:45:49.000Z",
+        "description": "Musk says special committees within both companies have been formed to consider a possible mega-merger.",
+        "publishedAt": "2026-10-20T22:06:48.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -356,13 +356,13 @@
         "zone": "au"
       },
       {
-        "title": "Student who stabbed housemate 30 times admits murder",
-        "url": "https://www.bbc.co.uk/news/articles/ckq6n55l23rlo?at_medium=RSS&at_campaign=rss",
+        "title": "Woman says she 'couldn't speak or breathe' during alleged rape by Russell Brand",
+        "url": "https://www.bbc.co.uk/news/articles/ck240rr10jdqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jamie Collins is described as a \"sensitive and caring young man\" after his killer admits murder.",
-        "publishedAt": "2026-10-20T14:35:14.000Z",
+        "description": "The entertainer denies three counts of rape, three charges of sexual assault and one of indecent assault.",
+        "publishedAt": "2026-10-20T16:02:03.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,13 +371,24 @@
   "general_ca": {
     "articles": [
       {
-        "title": "Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+        "title": "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
         "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\".",
         "publishedAt": "2026-10-20T18:32:14.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+        "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+        "publishedAt": "2026-10-20T21:27:39.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -393,17 +404,6 @@
         "zone": "ca"
       },
       {
-        "title": "Google resolves cloud outage affecting UK banks and websites",
-        "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Revolut was one of the hardest hit, with banking services going down for many customers.",
-        "publishedAt": "2026-10-20T18:03:19.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
         "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
         "url": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -415,24 +415,24 @@
         "zone": "ca"
       },
       {
-        "title": "Harry says he wants to 'reconcile' with his family",
-        "url": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o?at_medium=RSS&at_campaign=rss",
+        "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
+        "url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Prince Harry says he wants reconciliation with his family, in an interview with a magazine in New York last month.",
-        "publishedAt": "2026-10-20T15:49:54.000Z",
+        "description": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit.",
+        "publishedAt": "2026-10-20T21:10:38.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-        "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+        "title": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
-        "publishedAt": "2026-10-20T11:45:49.000Z",
+        "description": "Musk says special committees within both companies have been formed to consider a possible mega-merger.",
+        "publishedAt": "2026-10-20T22:06:48.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -448,13 +448,13 @@
         "zone": "ca"
       },
       {
-        "title": "Student who stabbed housemate 30 times admits murder",
-        "url": "https://www.bbc.co.uk/news/articles/ckq6n55l23rlo?at_medium=RSS&at_campaign=rss",
+        "title": "Woman says she 'couldn't speak or breathe' during alleged rape by Russell Brand",
+        "url": "https://www.bbc.co.uk/news/articles/ck240rr10jdqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jamie Collins is described as a \"sensitive and caring young man\" after his killer admits murder.",
-        "publishedAt": "2026-10-20T14:35:14.000Z",
+        "description": "The entertainer denies three counts of rape, three charges of sexual assault and one of indecent assault.",
+        "publishedAt": "2026-10-20T16:02:03.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -474,6 +474,17 @@
         "zone": "us"
       },
       {
+        "title": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Musk says special committees within both companies have been formed to consider a possible mega-merger.",
+        "publishedAt": "2026-10-20T22:06:48.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "UK government to make Jackdaw gas field announcement",
         "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -481,6 +492,28 @@
         },
         "description": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
         "publishedAt": "2026-10-20T17:33:42.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Trump sued over Canadian tariffs in latest legal challenge",
+        "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+        "publishedAt": "2026-10-20T19:30:05.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Audit regulator looking into Manchester City accounting",
+        "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "No formal investigation has started, but the regulator is making inquiries into the case.",
+        "publishedAt": "2026-10-20T20:56:53.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -507,17 +540,6 @@
         "zone": "us"
       },
       {
-        "title": "Jobless rate falls but small firms cut back hiring",
-        "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
-        "publishedAt": "2026-10-20T11:26:48.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
         "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
         "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -525,28 +547,6 @@
         },
         "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
         "publishedAt": "2026-10-20T10:06:34.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-        "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished.",
-        "publishedAt": "2026-10-20T08:55:02.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "'I'm fed up of swiping': The singles choosing dating events over apps",
-        "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC hears from people who think dating events are better value for money than dating apps.",
-        "publishedAt": "2026-10-20T10:28:36.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -566,6 +566,17 @@
         "zone": "gb"
       },
       {
+        "title": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Musk says special committees within both companies have been formed to consider a possible mega-merger.",
+        "publishedAt": "2026-10-20T22:06:48.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "UK government to make Jackdaw gas field announcement",
         "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -573,6 +584,28 @@
         },
         "description": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
         "publishedAt": "2026-10-20T17:33:42.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Trump sued over Canadian tariffs in latest legal challenge",
+        "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+        "publishedAt": "2026-10-20T19:30:05.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Audit regulator looking into Manchester City accounting",
+        "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "No formal investigation has started, but the regulator is making inquiries into the case.",
+        "publishedAt": "2026-10-20T20:56:53.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -599,17 +632,6 @@
         "zone": "gb"
       },
       {
-        "title": "Jobless rate falls but small firms cut back hiring",
-        "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
-        "publishedAt": "2026-10-20T11:26:48.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
         "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
         "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -617,28 +639,6 @@
         },
         "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
         "publishedAt": "2026-10-20T10:06:34.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-        "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished.",
-        "publishedAt": "2026-10-20T08:55:02.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "'I'm fed up of swiping': The singles choosing dating events over apps",
-        "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC hears from people who think dating events are better value for money than dating apps.",
-        "publishedAt": "2026-10-20T10:28:36.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -658,6 +658,17 @@
         "zone": "in"
       },
       {
+        "title": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Musk says special committees within both companies have been formed to consider a possible mega-merger.",
+        "publishedAt": "2026-10-20T22:06:48.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "UK government to make Jackdaw gas field announcement",
         "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -665,6 +676,28 @@
         },
         "description": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
         "publishedAt": "2026-10-20T17:33:42.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Trump sued over Canadian tariffs in latest legal challenge",
+        "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+        "publishedAt": "2026-10-20T19:30:05.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Audit regulator looking into Manchester City accounting",
+        "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "No formal investigation has started, but the regulator is making inquiries into the case.",
+        "publishedAt": "2026-10-20T20:56:53.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -691,17 +724,6 @@
         "zone": "in"
       },
       {
-        "title": "Jobless rate falls but small firms cut back hiring",
-        "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
-        "publishedAt": "2026-10-20T11:26:48.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
         "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
         "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -709,28 +731,6 @@
         },
         "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
         "publishedAt": "2026-10-20T10:06:34.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-        "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished.",
-        "publishedAt": "2026-10-20T08:55:02.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "'I'm fed up of swiping': The singles choosing dating events over apps",
-        "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC hears from people who think dating events are better value for money than dating apps.",
-        "publishedAt": "2026-10-20T10:28:36.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -750,6 +750,17 @@
         "zone": "au"
       },
       {
+        "title": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Musk says special committees within both companies have been formed to consider a possible mega-merger.",
+        "publishedAt": "2026-10-20T22:06:48.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "UK government to make Jackdaw gas field announcement",
         "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -757,6 +768,28 @@
         },
         "description": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
         "publishedAt": "2026-10-20T17:33:42.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Trump sued over Canadian tariffs in latest legal challenge",
+        "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+        "publishedAt": "2026-10-20T19:30:05.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Audit regulator looking into Manchester City accounting",
+        "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "No formal investigation has started, but the regulator is making inquiries into the case.",
+        "publishedAt": "2026-10-20T20:56:53.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -783,17 +816,6 @@
         "zone": "au"
       },
       {
-        "title": "Jobless rate falls but small firms cut back hiring",
-        "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
-        "publishedAt": "2026-10-20T11:26:48.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
         "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
         "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -801,28 +823,6 @@
         },
         "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
         "publishedAt": "2026-10-20T10:06:34.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-        "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished.",
-        "publishedAt": "2026-10-20T08:55:02.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "'I'm fed up of swiping': The singles choosing dating events over apps",
-        "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC hears from people who think dating events are better value for money than dating apps.",
-        "publishedAt": "2026-10-20T10:28:36.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -842,6 +842,17 @@
         "zone": "ca"
       },
       {
+        "title": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Musk says special committees within both companies have been formed to consider a possible mega-merger.",
+        "publishedAt": "2026-10-20T22:06:48.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "UK government to make Jackdaw gas field announcement",
         "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -849,6 +860,28 @@
         },
         "description": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
         "publishedAt": "2026-10-20T17:33:42.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Trump sued over Canadian tariffs in latest legal challenge",
+        "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+        "publishedAt": "2026-10-20T19:30:05.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Audit regulator looking into Manchester City accounting",
+        "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "No formal investigation has started, but the regulator is making inquiries into the case.",
+        "publishedAt": "2026-10-20T20:56:53.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -875,17 +908,6 @@
         "zone": "ca"
       },
       {
-        "title": "Jobless rate falls but small firms cut back hiring",
-        "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
-        "publishedAt": "2026-10-20T11:26:48.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
         "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
         "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -893,28 +915,6 @@
         },
         "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
         "publishedAt": "2026-10-20T10:06:34.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-        "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished.",
-        "publishedAt": "2026-10-20T08:55:02.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "'I'm fed up of swiping': The singles choosing dating events over apps",
-        "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC hears from people who think dating events are better value for money than dating apps.",
-        "publishedAt": "2026-10-20T10:28:36.000Z",
         "category": "business",
         "zone": "ca"
       }
@@ -934,13 +934,13 @@
         "zone": "us"
       },
       {
-        "title": "Christina Applegate says she was wrongfully diagnosed with MS",
+        "title": "Christina Applegate says she was wrongly diagnosed with MS",
         "url": "https://www.bbc.co.uk/news/articles/cqlyel3wnxmxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "She said in a Tuesday release of her Messy podcast that she was not happy about the new information and her symptoms have only \"gotten worse\".",
-        "publishedAt": "2026-10-20T15:16:38.000Z",
+        "publishedAt": "2026-10-20T20:00:10.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -1026,13 +1026,13 @@
         "zone": "gb"
       },
       {
-        "title": "Christina Applegate says she was wrongfully diagnosed with MS",
+        "title": "Christina Applegate says she was wrongly diagnosed with MS",
         "url": "https://www.bbc.co.uk/news/articles/cqlyel3wnxmxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "She said in a Tuesday release of her Messy podcast that she was not happy about the new information and her symptoms have only \"gotten worse\".",
-        "publishedAt": "2026-10-20T15:16:38.000Z",
+        "publishedAt": "2026-10-20T20:00:10.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1118,13 +1118,13 @@
         "zone": "in"
       },
       {
-        "title": "Christina Applegate says she was wrongfully diagnosed with MS",
+        "title": "Christina Applegate says she was wrongly diagnosed with MS",
         "url": "https://www.bbc.co.uk/news/articles/cqlyel3wnxmxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "She said in a Tuesday release of her Messy podcast that she was not happy about the new information and her symptoms have only \"gotten worse\".",
-        "publishedAt": "2026-10-20T15:16:38.000Z",
+        "publishedAt": "2026-10-20T20:00:10.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1210,13 +1210,13 @@
         "zone": "au"
       },
       {
-        "title": "Christina Applegate says she was wrongfully diagnosed with MS",
+        "title": "Christina Applegate says she was wrongly diagnosed with MS",
         "url": "https://www.bbc.co.uk/news/articles/cqlyel3wnxmxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "She said in a Tuesday release of her Messy podcast that she was not happy about the new information and her symptoms have only \"gotten worse\".",
-        "publishedAt": "2026-10-20T15:16:38.000Z",
+        "publishedAt": "2026-10-20T20:00:10.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1302,13 +1302,13 @@
         "zone": "ca"
       },
       {
-        "title": "Christina Applegate says she was wrongfully diagnosed with MS",
+        "title": "Christina Applegate says she was wrongly diagnosed with MS",
         "url": "https://www.bbc.co.uk/news/articles/cqlyel3wnxmxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "She said in a Tuesday release of her Messy podcast that she was not happy about the new information and her symptoms have only \"gotten worse\".",
-        "publishedAt": "2026-10-20T15:16:38.000Z",
+        "publishedAt": "2026-10-20T20:00:10.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1383,6 +1383,17 @@
   "health_us": {
     "articles": [
       {
+        "title": "Second Labour MP suspended over Covid loan repayments",
+        "url": "https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Perran Moon, MP for Camborne and Redruth, voluntarily referred himself for investigation.",
+        "publishedAt": "2026-10-20T21:20:28.000Z",
+        "category": "health",
+        "zone": "us"
+      },
+      {
         "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
         "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1456,17 +1467,6 @@
         },
         "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
         "publishedAt": "2026-10-18T21:00:22.000Z",
-        "category": "health",
-        "zone": "us"
-      },
-      {
-        "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
-        "publishedAt": "2026-10-18T12:09:04.000Z",
         "category": "health",
         "zone": "us"
       }
@@ -1475,6 +1475,17 @@
   "health_gb": {
     "articles": [
       {
+        "title": "Second Labour MP suspended over Covid loan repayments",
+        "url": "https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Perran Moon, MP for Camborne and Redruth, voluntarily referred himself for investigation.",
+        "publishedAt": "2026-10-20T21:20:28.000Z",
+        "category": "health",
+        "zone": "gb"
+      },
+      {
         "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
         "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1548,17 +1559,6 @@
         },
         "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
         "publishedAt": "2026-10-18T21:00:22.000Z",
-        "category": "health",
-        "zone": "gb"
-      },
-      {
-        "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
-        "publishedAt": "2026-10-18T12:09:04.000Z",
         "category": "health",
         "zone": "gb"
       }
@@ -1567,6 +1567,17 @@
   "health_in": {
     "articles": [
       {
+        "title": "Second Labour MP suspended over Covid loan repayments",
+        "url": "https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Perran Moon, MP for Camborne and Redruth, voluntarily referred himself for investigation.",
+        "publishedAt": "2026-10-20T21:20:28.000Z",
+        "category": "health",
+        "zone": "in"
+      },
+      {
         "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
         "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1640,17 +1651,6 @@
         },
         "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
         "publishedAt": "2026-10-18T21:00:22.000Z",
-        "category": "health",
-        "zone": "in"
-      },
-      {
-        "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
-        "publishedAt": "2026-10-18T12:09:04.000Z",
         "category": "health",
         "zone": "in"
       }
@@ -1659,6 +1659,17 @@
   "health_au": {
     "articles": [
       {
+        "title": "Second Labour MP suspended over Covid loan repayments",
+        "url": "https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Perran Moon, MP for Camborne and Redruth, voluntarily referred himself for investigation.",
+        "publishedAt": "2026-10-20T21:20:28.000Z",
+        "category": "health",
+        "zone": "au"
+      },
+      {
         "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
         "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1732,17 +1743,6 @@
         },
         "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
         "publishedAt": "2026-10-18T21:00:22.000Z",
-        "category": "health",
-        "zone": "au"
-      },
-      {
-        "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
-        "publishedAt": "2026-10-18T12:09:04.000Z",
         "category": "health",
         "zone": "au"
       }
@@ -1751,6 +1751,17 @@
   "health_ca": {
     "articles": [
       {
+        "title": "Second Labour MP suspended over Covid loan repayments",
+        "url": "https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Perran Moon, MP for Camborne and Redruth, voluntarily referred himself for investigation.",
+        "publishedAt": "2026-10-20T21:20:28.000Z",
+        "category": "health",
+        "zone": "ca"
+      },
+      {
         "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
         "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1824,17 +1835,6 @@
         },
         "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
         "publishedAt": "2026-10-18T21:00:22.000Z",
-        "category": "health",
-        "zone": "ca"
-      },
-      {
-        "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
-        "publishedAt": "2026-10-18T12:09:04.000Z",
         "category": "health",
         "zone": "ca"
       }
@@ -1920,13 +1920,13 @@
         "zone": "us"
       },
       {
-        "title": "‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos",
-        "url": "https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks",
+        "title": "‘These risks are real’: the threat of AI bioweapons – podcast",
+        "url": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast",
         "source": {
-          "name": "Justin McCurry in Tokyo and agencies"
+          "name": "Presented by Ian Sample, produced by Madeleine Finlay, sound design by Ross Burns, the executive producer was Ellie Bury"
         },
-        "description": "Scientists hope Martian material collected will shed light on the origins of the solar system and life on Earth Japan has successfully launched a spacecraft on an unprecedented mission to bring back samples from one of Mars’s moons that scientists hope will shed light on the origins of the solar system and life on Earth. The Martian ⁠Moons Exploration (MMX) spacecraft, propelled by Japan’s flagship H3 rocket, lifted off before dawn from Tanegashima island in the country’s far south-west, the Japan Aerospace Exploration Agency (Jaxa) said. Continue reading...",
-        "publishedAt": "2026-10-19T23:37:57.000Z",
+        "description": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom Inglesby, director of the Johns Hopkins Center for Health Security and the Bloomberg School of Public Health. He explains what has governments so worried and what measures could be put in place to reduce the risks Could AI ‘change the stakes’ in the development of bioweapons? Support the Guardian: theguardian.com/sciencepod Continue reading...",
+        "publishedAt": "2026-10-20T04:00:15.000Z",
         "category": "science",
         "zone": "us"
       }
@@ -2012,13 +2012,13 @@
         "zone": "gb"
       },
       {
-        "title": "‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos",
-        "url": "https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks",
+        "title": "‘These risks are real’: the threat of AI bioweapons – podcast",
+        "url": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast",
         "source": {
-          "name": "Justin McCurry in Tokyo and agencies"
+          "name": "Presented by Ian Sample, produced by Madeleine Finlay, sound design by Ross Burns, the executive producer was Ellie Bury"
         },
-        "description": "Scientists hope Martian material collected will shed light on the origins of the solar system and life on Earth Japan has successfully launched a spacecraft on an unprecedented mission to bring back samples from one of Mars’s moons that scientists hope will shed light on the origins of the solar system and life on Earth. The Martian ⁠Moons Exploration (MMX) spacecraft, propelled by Japan’s flagship H3 rocket, lifted off before dawn from Tanegashima island in the country’s far south-west, the Japan Aerospace Exploration Agency (Jaxa) said. Continue reading...",
-        "publishedAt": "2026-10-19T23:37:57.000Z",
+        "description": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom Inglesby, director of the Johns Hopkins Center for Health Security and the Bloomberg School of Public Health. He explains what has governments so worried and what measures could be put in place to reduce the risks Could AI ‘change the stakes’ in the development of bioweapons? Support the Guardian: theguardian.com/sciencepod Continue reading...",
+        "publishedAt": "2026-10-20T04:00:15.000Z",
         "category": "science",
         "zone": "gb"
       }
@@ -2104,13 +2104,13 @@
         "zone": "in"
       },
       {
-        "title": "‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos",
-        "url": "https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks",
+        "title": "‘These risks are real’: the threat of AI bioweapons – podcast",
+        "url": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast",
         "source": {
-          "name": "Justin McCurry in Tokyo and agencies"
+          "name": "Presented by Ian Sample, produced by Madeleine Finlay, sound design by Ross Burns, the executive producer was Ellie Bury"
         },
-        "description": "Scientists hope Martian material collected will shed light on the origins of the solar system and life on Earth Japan has successfully launched a spacecraft on an unprecedented mission to bring back samples from one of Mars’s moons that scientists hope will shed light on the origins of the solar system and life on Earth. The Martian ⁠Moons Exploration (MMX) spacecraft, propelled by Japan’s flagship H3 rocket, lifted off before dawn from Tanegashima island in the country’s far south-west, the Japan Aerospace Exploration Agency (Jaxa) said. Continue reading...",
-        "publishedAt": "2026-10-19T23:37:57.000Z",
+        "description": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom Inglesby, director of the Johns Hopkins Center for Health Security and the Bloomberg School of Public Health. He explains what has governments so worried and what measures could be put in place to reduce the risks Could AI ‘change the stakes’ in the development of bioweapons? Support the Guardian: theguardian.com/sciencepod Continue reading...",
+        "publishedAt": "2026-10-20T04:00:15.000Z",
         "category": "science",
         "zone": "in"
       }
@@ -2196,13 +2196,13 @@
         "zone": "au"
       },
       {
-        "title": "‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos",
-        "url": "https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks",
+        "title": "‘These risks are real’: the threat of AI bioweapons – podcast",
+        "url": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast",
         "source": {
-          "name": "Justin McCurry in Tokyo and agencies"
+          "name": "Presented by Ian Sample, produced by Madeleine Finlay, sound design by Ross Burns, the executive producer was Ellie Bury"
         },
-        "description": "Scientists hope Martian material collected will shed light on the origins of the solar system and life on Earth Japan has successfully launched a spacecraft on an unprecedented mission to bring back samples from one of Mars’s moons that scientists hope will shed light on the origins of the solar system and life on Earth. The Martian ⁠Moons Exploration (MMX) spacecraft, propelled by Japan’s flagship H3 rocket, lifted off before dawn from Tanegashima island in the country’s far south-west, the Japan Aerospace Exploration Agency (Jaxa) said. Continue reading...",
-        "publishedAt": "2026-10-19T23:37:57.000Z",
+        "description": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom Inglesby, director of the Johns Hopkins Center for Health Security and the Bloomberg School of Public Health. He explains what has governments so worried and what measures could be put in place to reduce the risks Could AI ‘change the stakes’ in the development of bioweapons? Support the Guardian: theguardian.com/sciencepod Continue reading...",
+        "publishedAt": "2026-10-20T04:00:15.000Z",
         "category": "science",
         "zone": "au"
       }
@@ -2288,13 +2288,13 @@
         "zone": "ca"
       },
       {
-        "title": "‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos",
-        "url": "https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks",
+        "title": "‘These risks are real’: the threat of AI bioweapons – podcast",
+        "url": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast",
         "source": {
-          "name": "Justin McCurry in Tokyo and agencies"
+          "name": "Presented by Ian Sample, produced by Madeleine Finlay, sound design by Ross Burns, the executive producer was Ellie Bury"
         },
-        "description": "Scientists hope Martian material collected will shed light on the origins of the solar system and life on Earth Japan has successfully launched a spacecraft on an unprecedented mission to bring back samples from one of Mars’s moons that scientists hope will shed light on the origins of the solar system and life on Earth. The Martian ⁠Moons Exploration (MMX) spacecraft, propelled by Japan’s flagship H3 rocket, lifted off before dawn from Tanegashima island in the country’s far south-west, the Japan Aerospace Exploration Agency (Jaxa) said. Continue reading...",
-        "publishedAt": "2026-10-19T23:37:57.000Z",
+        "description": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom Inglesby, director of the Johns Hopkins Center for Health Security and the Bloomberg School of Public Health. He explains what has governments so worried and what measures could be put in place to reduce the risks Could AI ‘change the stakes’ in the development of bioweapons? Support the Guardian: theguardian.com/sciencepod Continue reading...",
+        "publishedAt": "2026-10-20T04:00:15.000Z",
         "category": "science",
         "zone": "ca"
       }
@@ -2314,24 +2314,13 @@
         "zone": "us"
       },
       {
-        "title": "Ronaldo let Manchester United down - Ten Hag",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss",
+        "title": "Carrick wants more clean sheets to turn season around",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cje362v35175o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Manchester United manager Erik ten Hag says Cristiano Ronaldo \"let the team and let me down\" during the Dutchman's spell at Old Trafford.",
-        "publishedAt": "2026-10-20T12:12:51.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Bavuma epic drags SA back into Test - do they have time to beat Australia?",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Captain Temba Bavuma drags South Africa back into their Test series against Australia but did his side bat on too long on day three?",
-        "publishedAt": "2026-10-20T16:27:39.000Z",
+        "description": "Manchester United boss Michael Carrick needs more clean sheets as he looks to change his team's fortunes, as they take on Como in the Champions League.",
+        "publishedAt": "2026-10-20T21:27:35.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2347,13 +2336,35 @@
         "zone": "us"
       },
       {
-        "title": "Webb backs VAR over Botman challenge on Jackson",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm3vqz1de9lro?at_medium=RSS&at_campaign=rss",
+        "title": "Audit regulator looking into Manchester City accounting",
+        "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Premier League referees' chief Howard Webb says Sven Botman's challenge on Nicolas Jackson was a \"high-end reckless challenge\" but backed the video assistant referee's decision not to intervene for a red card.",
-        "publishedAt": "2026-10-20T16:56:53.000Z",
+        "description": "No formal investigation has started, but the regulator is making inquiries into the case.",
+        "publishedAt": "2026-10-20T20:56:53.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Arsenal criticism from very small minority - Arteta",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm8xzrwv5zpko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "David Raya says he does not know what to say when people call Arsenal's style of play \"boring or irritating\", as Mikel Arteta brushes off criticism.",
+        "publishedAt": "2026-10-20T20:33:27.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Bavuma epic drags SA back into Test - do they have time to beat Australia?",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Captain Temba Bavuma drags South Africa back into their Test series against Australia but did his side bat on too long on day three?",
+        "publishedAt": "2026-10-20T16:27:39.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2369,24 +2380,13 @@
         "zone": "us"
       },
       {
-        "title": "Race, illness, injury, repeat - REDs and why men are suffering in silence",
-        "url": "https://www.bbc.co.uk/sport/articles/ck054n5nqlv5o?at_medium=RSS&at_campaign=rss",
+        "title": "Man Utd revisit deal for Hall - Wednesday gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck62yq0rd0vvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "British long-distance runner Jake Smith was enduring a relentless pattern of race, illness, injury, repeat - he had no idea he had REDs and was under-fuelling.",
-        "publishedAt": "2026-10-20T05:45:34.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Why O'Sullivan faces battle to stay in world's top 16",
-        "url": "https://www.bbc.co.uk/sport/snooker/articles/c6rey5xxy3vqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Snooker's World Championship without Ronnie O'Sullivan is hard to conceive, after years of him being so often the central figure at the Crucible. But it may not be far away.",
-        "publishedAt": "2026-10-20T13:45:51.000Z",
+        "description": "Manchester United targeting Lewis Hall and Adrien Truffert, Real Madrid remain interested in Riccardo Calafiori, Liverpool and Arsenal both keen on Xavi Espart, plus more.",
+        "publishedAt": "2026-10-20T20:17:15.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2406,24 +2406,13 @@
         "zone": "gb"
       },
       {
-        "title": "Ronaldo let Manchester United down - Ten Hag",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss",
+        "title": "Carrick wants more clean sheets to turn season around",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cje362v35175o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Manchester United manager Erik ten Hag says Cristiano Ronaldo \"let the team and let me down\" during the Dutchman's spell at Old Trafford.",
-        "publishedAt": "2026-10-20T12:12:51.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Bavuma epic drags SA back into Test - do they have time to beat Australia?",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Captain Temba Bavuma drags South Africa back into their Test series against Australia but did his side bat on too long on day three?",
-        "publishedAt": "2026-10-20T16:27:39.000Z",
+        "description": "Manchester United boss Michael Carrick needs more clean sheets as he looks to change his team's fortunes, as they take on Como in the Champions League.",
+        "publishedAt": "2026-10-20T21:27:35.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2439,13 +2428,35 @@
         "zone": "gb"
       },
       {
-        "title": "Webb backs VAR over Botman challenge on Jackson",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm3vqz1de9lro?at_medium=RSS&at_campaign=rss",
+        "title": "Audit regulator looking into Manchester City accounting",
+        "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Premier League referees' chief Howard Webb says Sven Botman's challenge on Nicolas Jackson was a \"high-end reckless challenge\" but backed the video assistant referee's decision not to intervene for a red card.",
-        "publishedAt": "2026-10-20T16:56:53.000Z",
+        "description": "No formal investigation has started, but the regulator is making inquiries into the case.",
+        "publishedAt": "2026-10-20T20:56:53.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Arsenal criticism from very small minority - Arteta",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm8xzrwv5zpko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "David Raya says he does not know what to say when people call Arsenal's style of play \"boring or irritating\", as Mikel Arteta brushes off criticism.",
+        "publishedAt": "2026-10-20T20:33:27.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Bavuma epic drags SA back into Test - do they have time to beat Australia?",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Captain Temba Bavuma drags South Africa back into their Test series against Australia but did his side bat on too long on day three?",
+        "publishedAt": "2026-10-20T16:27:39.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2461,24 +2472,13 @@
         "zone": "gb"
       },
       {
-        "title": "Race, illness, injury, repeat - REDs and why men are suffering in silence",
-        "url": "https://www.bbc.co.uk/sport/articles/ck054n5nqlv5o?at_medium=RSS&at_campaign=rss",
+        "title": "Man Utd revisit deal for Hall - Wednesday gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck62yq0rd0vvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "British long-distance runner Jake Smith was enduring a relentless pattern of race, illness, injury, repeat - he had no idea he had REDs and was under-fuelling.",
-        "publishedAt": "2026-10-20T05:45:34.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Why O'Sullivan faces battle to stay in world's top 16",
-        "url": "https://www.bbc.co.uk/sport/snooker/articles/c6rey5xxy3vqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Snooker's World Championship without Ronnie O'Sullivan is hard to conceive, after years of him being so often the central figure at the Crucible. But it may not be far away.",
-        "publishedAt": "2026-10-20T13:45:51.000Z",
+        "description": "Manchester United targeting Lewis Hall and Adrien Truffert, Real Madrid remain interested in Riccardo Calafiori, Liverpool and Arsenal both keen on Xavi Espart, plus more.",
+        "publishedAt": "2026-10-20T20:17:15.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2498,24 +2498,13 @@
         "zone": "in"
       },
       {
-        "title": "Ronaldo let Manchester United down - Ten Hag",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss",
+        "title": "Carrick wants more clean sheets to turn season around",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cje362v35175o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Manchester United manager Erik ten Hag says Cristiano Ronaldo \"let the team and let me down\" during the Dutchman's spell at Old Trafford.",
-        "publishedAt": "2026-10-20T12:12:51.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Bavuma epic drags SA back into Test - do they have time to beat Australia?",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Captain Temba Bavuma drags South Africa back into their Test series against Australia but did his side bat on too long on day three?",
-        "publishedAt": "2026-10-20T16:27:39.000Z",
+        "description": "Manchester United boss Michael Carrick needs more clean sheets as he looks to change his team's fortunes, as they take on Como in the Champions League.",
+        "publishedAt": "2026-10-20T21:27:35.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2531,13 +2520,35 @@
         "zone": "in"
       },
       {
-        "title": "Webb backs VAR over Botman challenge on Jackson",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm3vqz1de9lro?at_medium=RSS&at_campaign=rss",
+        "title": "Audit regulator looking into Manchester City accounting",
+        "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Premier League referees' chief Howard Webb says Sven Botman's challenge on Nicolas Jackson was a \"high-end reckless challenge\" but backed the video assistant referee's decision not to intervene for a red card.",
-        "publishedAt": "2026-10-20T16:56:53.000Z",
+        "description": "No formal investigation has started, but the regulator is making inquiries into the case.",
+        "publishedAt": "2026-10-20T20:56:53.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Arsenal criticism from very small minority - Arteta",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm8xzrwv5zpko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "David Raya says he does not know what to say when people call Arsenal's style of play \"boring or irritating\", as Mikel Arteta brushes off criticism.",
+        "publishedAt": "2026-10-20T20:33:27.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Bavuma epic drags SA back into Test - do they have time to beat Australia?",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Captain Temba Bavuma drags South Africa back into their Test series against Australia but did his side bat on too long on day three?",
+        "publishedAt": "2026-10-20T16:27:39.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2553,24 +2564,13 @@
         "zone": "in"
       },
       {
-        "title": "Race, illness, injury, repeat - REDs and why men are suffering in silence",
-        "url": "https://www.bbc.co.uk/sport/articles/ck054n5nqlv5o?at_medium=RSS&at_campaign=rss",
+        "title": "Man Utd revisit deal for Hall - Wednesday gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck62yq0rd0vvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "British long-distance runner Jake Smith was enduring a relentless pattern of race, illness, injury, repeat - he had no idea he had REDs and was under-fuelling.",
-        "publishedAt": "2026-10-20T05:45:34.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Why O'Sullivan faces battle to stay in world's top 16",
-        "url": "https://www.bbc.co.uk/sport/snooker/articles/c6rey5xxy3vqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Snooker's World Championship without Ronnie O'Sullivan is hard to conceive, after years of him being so often the central figure at the Crucible. But it may not be far away.",
-        "publishedAt": "2026-10-20T13:45:51.000Z",
+        "description": "Manchester United targeting Lewis Hall and Adrien Truffert, Real Madrid remain interested in Riccardo Calafiori, Liverpool and Arsenal both keen on Xavi Espart, plus more.",
+        "publishedAt": "2026-10-20T20:17:15.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2590,24 +2590,13 @@
         "zone": "au"
       },
       {
-        "title": "Ronaldo let Manchester United down - Ten Hag",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss",
+        "title": "Carrick wants more clean sheets to turn season around",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cje362v35175o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Manchester United manager Erik ten Hag says Cristiano Ronaldo \"let the team and let me down\" during the Dutchman's spell at Old Trafford.",
-        "publishedAt": "2026-10-20T12:12:51.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Bavuma epic drags SA back into Test - do they have time to beat Australia?",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Captain Temba Bavuma drags South Africa back into their Test series against Australia but did his side bat on too long on day three?",
-        "publishedAt": "2026-10-20T16:27:39.000Z",
+        "description": "Manchester United boss Michael Carrick needs more clean sheets as he looks to change his team's fortunes, as they take on Como in the Champions League.",
+        "publishedAt": "2026-10-20T21:27:35.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2623,13 +2612,35 @@
         "zone": "au"
       },
       {
-        "title": "Webb backs VAR over Botman challenge on Jackson",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm3vqz1de9lro?at_medium=RSS&at_campaign=rss",
+        "title": "Audit regulator looking into Manchester City accounting",
+        "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Premier League referees' chief Howard Webb says Sven Botman's challenge on Nicolas Jackson was a \"high-end reckless challenge\" but backed the video assistant referee's decision not to intervene for a red card.",
-        "publishedAt": "2026-10-20T16:56:53.000Z",
+        "description": "No formal investigation has started, but the regulator is making inquiries into the case.",
+        "publishedAt": "2026-10-20T20:56:53.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Arsenal criticism from very small minority - Arteta",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm8xzrwv5zpko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "David Raya says he does not know what to say when people call Arsenal's style of play \"boring or irritating\", as Mikel Arteta brushes off criticism.",
+        "publishedAt": "2026-10-20T20:33:27.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Bavuma epic drags SA back into Test - do they have time to beat Australia?",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Captain Temba Bavuma drags South Africa back into their Test series against Australia but did his side bat on too long on day three?",
+        "publishedAt": "2026-10-20T16:27:39.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2645,24 +2656,13 @@
         "zone": "au"
       },
       {
-        "title": "Race, illness, injury, repeat - REDs and why men are suffering in silence",
-        "url": "https://www.bbc.co.uk/sport/articles/ck054n5nqlv5o?at_medium=RSS&at_campaign=rss",
+        "title": "Man Utd revisit deal for Hall - Wednesday gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck62yq0rd0vvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "British long-distance runner Jake Smith was enduring a relentless pattern of race, illness, injury, repeat - he had no idea he had REDs and was under-fuelling.",
-        "publishedAt": "2026-10-20T05:45:34.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Why O'Sullivan faces battle to stay in world's top 16",
-        "url": "https://www.bbc.co.uk/sport/snooker/articles/c6rey5xxy3vqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Snooker's World Championship without Ronnie O'Sullivan is hard to conceive, after years of him being so often the central figure at the Crucible. But it may not be far away.",
-        "publishedAt": "2026-10-20T13:45:51.000Z",
+        "description": "Manchester United targeting Lewis Hall and Adrien Truffert, Real Madrid remain interested in Riccardo Calafiori, Liverpool and Arsenal both keen on Xavi Espart, plus more.",
+        "publishedAt": "2026-10-20T20:17:15.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2682,24 +2682,13 @@
         "zone": "ca"
       },
       {
-        "title": "Ronaldo let Manchester United down - Ten Hag",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss",
+        "title": "Carrick wants more clean sheets to turn season around",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cje362v35175o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Manchester United manager Erik ten Hag says Cristiano Ronaldo \"let the team and let me down\" during the Dutchman's spell at Old Trafford.",
-        "publishedAt": "2026-10-20T12:12:51.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Bavuma epic drags SA back into Test - do they have time to beat Australia?",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Captain Temba Bavuma drags South Africa back into their Test series against Australia but did his side bat on too long on day three?",
-        "publishedAt": "2026-10-20T16:27:39.000Z",
+        "description": "Manchester United boss Michael Carrick needs more clean sheets as he looks to change his team's fortunes, as they take on Como in the Champions League.",
+        "publishedAt": "2026-10-20T21:27:35.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2715,13 +2704,35 @@
         "zone": "ca"
       },
       {
-        "title": "Webb backs VAR over Botman challenge on Jackson",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm3vqz1de9lro?at_medium=RSS&at_campaign=rss",
+        "title": "Audit regulator looking into Manchester City accounting",
+        "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Premier League referees' chief Howard Webb says Sven Botman's challenge on Nicolas Jackson was a \"high-end reckless challenge\" but backed the video assistant referee's decision not to intervene for a red card.",
-        "publishedAt": "2026-10-20T16:56:53.000Z",
+        "description": "No formal investigation has started, but the regulator is making inquiries into the case.",
+        "publishedAt": "2026-10-20T20:56:53.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Arsenal criticism from very small minority - Arteta",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm8xzrwv5zpko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "David Raya says he does not know what to say when people call Arsenal's style of play \"boring or irritating\", as Mikel Arteta brushes off criticism.",
+        "publishedAt": "2026-10-20T20:33:27.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Bavuma epic drags SA back into Test - do they have time to beat Australia?",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Captain Temba Bavuma drags South Africa back into their Test series against Australia but did his side bat on too long on day three?",
+        "publishedAt": "2026-10-20T16:27:39.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2737,24 +2748,13 @@
         "zone": "ca"
       },
       {
-        "title": "Race, illness, injury, repeat - REDs and why men are suffering in silence",
-        "url": "https://www.bbc.co.uk/sport/articles/ck054n5nqlv5o?at_medium=RSS&at_campaign=rss",
+        "title": "Man Utd revisit deal for Hall - Wednesday gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck62yq0rd0vvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "British long-distance runner Jake Smith was enduring a relentless pattern of race, illness, injury, repeat - he had no idea he had REDs and was under-fuelling.",
-        "publishedAt": "2026-10-20T05:45:34.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Why O'Sullivan faces battle to stay in world's top 16",
-        "url": "https://www.bbc.co.uk/sport/snooker/articles/c6rey5xxy3vqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Snooker's World Championship without Ronnie O'Sullivan is hard to conceive, after years of him being so often the central figure at the Crucible. But it may not be far away.",
-        "publishedAt": "2026-10-20T13:45:51.000Z",
+        "description": "Manchester United targeting Lewis Hall and Adrien Truffert, Real Madrid remain interested in Riccardo Calafiori, Liverpool and Arsenal both keen on Xavi Espart, plus more.",
+        "publishedAt": "2026-10-20T20:17:15.000Z",
         "category": "sports",
         "zone": "ca"
       }
@@ -2763,6 +2763,17 @@
   "technology_us": {
     "articles": [
       {
+        "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+        "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
+        "publishedAt": "2026-10-20T19:42:32.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
         "title": "Google resolves cloud outage affecting UK banks and websites",
         "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2836,17 +2847,6 @@
         },
         "description": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
         "publishedAt": "2026-10-19T06:08:02.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "Don't fall for this - how to protect yourself from AI scams",
-        "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
-        "publishedAt": "2026-10-18T23:24:59.000Z",
         "category": "technology",
         "zone": "us"
       }
@@ -2855,6 +2855,17 @@
   "technology_gb": {
     "articles": [
       {
+        "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+        "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
+        "publishedAt": "2026-10-20T19:42:32.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
         "title": "Google resolves cloud outage affecting UK banks and websites",
         "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2928,17 +2939,6 @@
         },
         "description": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
         "publishedAt": "2026-10-19T06:08:02.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "Don't fall for this - how to protect yourself from AI scams",
-        "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
-        "publishedAt": "2026-10-18T23:24:59.000Z",
         "category": "technology",
         "zone": "gb"
       }
@@ -2947,6 +2947,17 @@
   "technology_in": {
     "articles": [
       {
+        "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+        "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
+        "publishedAt": "2026-10-20T19:42:32.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
         "title": "Google resolves cloud outage affecting UK banks and websites",
         "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3020,17 +3031,6 @@
         },
         "description": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
         "publishedAt": "2026-10-19T06:08:02.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "Don't fall for this - how to protect yourself from AI scams",
-        "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
-        "publishedAt": "2026-10-18T23:24:59.000Z",
         "category": "technology",
         "zone": "in"
       }
@@ -3039,6 +3039,17 @@
   "technology_au": {
     "articles": [
       {
+        "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+        "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
+        "publishedAt": "2026-10-20T19:42:32.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
         "title": "Google resolves cloud outage affecting UK banks and websites",
         "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3112,17 +3123,6 @@
         },
         "description": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
         "publishedAt": "2026-10-19T06:08:02.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "Don't fall for this - how to protect yourself from AI scams",
-        "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
-        "publishedAt": "2026-10-18T23:24:59.000Z",
         "category": "technology",
         "zone": "au"
       }
@@ -3131,6 +3131,17 @@
   "technology_ca": {
     "articles": [
       {
+        "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+        "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
+        "publishedAt": "2026-10-20T19:42:32.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
         "title": "Google resolves cloud outage affecting UK banks and websites",
         "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3204,17 +3215,6 @@
         },
         "description": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
         "publishedAt": "2026-10-19T06:08:02.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "Don't fall for this - how to protect yourself from AI scams",
-        "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
-        "publishedAt": "2026-10-18T23:24:59.000Z",
         "category": "technology",
         "zone": "ca"
       }
