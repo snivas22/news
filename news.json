@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T22:11:29.318Z",
+  "generatedAt": "2026-10-22T01:20:01.649Z",
   "general_us": {
     "articles": [
       {
@@ -30,7 +30,7 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Russia says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+        "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
         "publishedAt": "2026-10-21T21:27:41.000Z",
         "category": "general",
         "zone": "us"
@@ -41,8 +41,41 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Russia's President Putin does not feel under pressure right now to end the war.",
+        "description": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
         "publishedAt": "2026-10-21T19:58:06.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
+        "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing.",
+        "publishedAt": "2026-10-22T01:17:25.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+        "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia.",
+        "publishedAt": "2026-10-21T23:02:30.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "The real reasons US politicians are getting older",
+        "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
+        "publishedAt": "2026-10-21T23:52:12.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -54,39 +87,6 @@
         },
         "description": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
         "publishedAt": "2026-10-21T18:10:42.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary",
-        "url": "https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "In total 116 children and 28 adults were killed when a colliery spoil tip collapsed on 21 October 1966.",
-        "publishedAt": "2026-10-21T15:56:03.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Don't Stop Believin'! - high school musical Glee set for reboot",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2vpn4xy0yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Ryan Murphy's popular musical comedy-drama is set to return on Hulu and Disney+ after a decade away.",
-        "publishedAt": "2026-10-21T14:38:22.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Macron accuses foreign leaders of exploiting French riots",
-        "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
-        "publishedAt": "2026-10-21T14:04:28.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -122,7 +122,7 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Russia says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+        "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
         "publishedAt": "2026-10-21T21:27:41.000Z",
         "category": "general",
         "zone": "gb"
@@ -133,8 +133,41 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Russia's President Putin does not feel under pressure right now to end the war.",
+        "description": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
         "publishedAt": "2026-10-21T19:58:06.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
+        "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing.",
+        "publishedAt": "2026-10-22T01:17:25.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+        "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia.",
+        "publishedAt": "2026-10-21T23:02:30.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "The real reasons US politicians are getting older",
+        "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
+        "publishedAt": "2026-10-21T23:52:12.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -146,39 +179,6 @@
         },
         "description": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
         "publishedAt": "2026-10-21T18:10:42.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary",
-        "url": "https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "In total 116 children and 28 adults were killed when a colliery spoil tip collapsed on 21 October 1966.",
-        "publishedAt": "2026-10-21T15:56:03.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Don't Stop Believin'! - high school musical Glee set for reboot",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2vpn4xy0yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Ryan Murphy's popular musical comedy-drama is set to return on Hulu and Disney+ after a decade away.",
-        "publishedAt": "2026-10-21T14:38:22.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Macron accuses foreign leaders of exploiting French riots",
-        "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
-        "publishedAt": "2026-10-21T14:04:28.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -214,7 +214,7 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Russia says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+        "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
         "publishedAt": "2026-10-21T21:27:41.000Z",
         "category": "general",
         "zone": "in"
@@ -225,8 +225,41 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Russia's President Putin does not feel under pressure right now to end the war.",
+        "description": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
         "publishedAt": "2026-10-21T19:58:06.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
+        "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing.",
+        "publishedAt": "2026-10-22T01:17:25.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+        "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia.",
+        "publishedAt": "2026-10-21T23:02:30.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "The real reasons US politicians are getting older",
+        "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
+        "publishedAt": "2026-10-21T23:52:12.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -238,39 +271,6 @@
         },
         "description": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
         "publishedAt": "2026-10-21T18:10:42.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary",
-        "url": "https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "In total 116 children and 28 adults were killed when a colliery spoil tip collapsed on 21 October 1966.",
-        "publishedAt": "2026-10-21T15:56:03.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Don't Stop Believin'! - high school musical Glee set for reboot",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2vpn4xy0yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Ryan Murphy's popular musical comedy-drama is set to return on Hulu and Disney+ after a decade away.",
-        "publishedAt": "2026-10-21T14:38:22.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Macron accuses foreign leaders of exploiting French riots",
-        "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
-        "publishedAt": "2026-10-21T14:04:28.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -306,7 +306,7 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Russia says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+        "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
         "publishedAt": "2026-10-21T21:27:41.000Z",
         "category": "general",
         "zone": "au"
@@ -317,8 +317,41 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Russia's President Putin does not feel under pressure right now to end the war.",
+        "description": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
         "publishedAt": "2026-10-21T19:58:06.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
+        "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing.",
+        "publishedAt": "2026-10-22T01:17:25.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+        "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia.",
+        "publishedAt": "2026-10-21T23:02:30.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "The real reasons US politicians are getting older",
+        "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
+        "publishedAt": "2026-10-21T23:52:12.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -330,39 +363,6 @@
         },
         "description": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
         "publishedAt": "2026-10-21T18:10:42.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary",
-        "url": "https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "In total 116 children and 28 adults were killed when a colliery spoil tip collapsed on 21 October 1966.",
-        "publishedAt": "2026-10-21T15:56:03.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Don't Stop Believin'! - high school musical Glee set for reboot",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2vpn4xy0yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Ryan Murphy's popular musical comedy-drama is set to return on Hulu and Disney+ after a decade away.",
-        "publishedAt": "2026-10-21T14:38:22.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Macron accuses foreign leaders of exploiting French riots",
-        "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
-        "publishedAt": "2026-10-21T14:04:28.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -398,7 +398,7 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Russia says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+        "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
         "publishedAt": "2026-10-21T21:27:41.000Z",
         "category": "general",
         "zone": "ca"
@@ -409,8 +409,41 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Russia's President Putin does not feel under pressure right now to end the war.",
+        "description": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
         "publishedAt": "2026-10-21T19:58:06.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
+        "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing.",
+        "publishedAt": "2026-10-22T01:17:25.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+        "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia.",
+        "publishedAt": "2026-10-21T23:02:30.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "The real reasons US politicians are getting older",
+        "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
+        "publishedAt": "2026-10-21T23:52:12.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -424,44 +457,77 @@
         "publishedAt": "2026-10-21T18:10:42.000Z",
         "category": "general",
         "zone": "ca"
-      },
-      {
-        "title": "Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary",
-        "url": "https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "In total 116 children and 28 adults were killed when a colliery spoil tip collapsed on 21 October 1966.",
-        "publishedAt": "2026-10-21T15:56:03.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Don't Stop Believin'! - high school musical Glee set for reboot",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2vpn4xy0yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Ryan Murphy's popular musical comedy-drama is set to return on Hulu and Disney+ after a decade away.",
-        "publishedAt": "2026-10-21T14:38:22.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Macron accuses foreign leaders of exploiting French riots",
-        "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
-        "publishedAt": "2026-10-21T14:04:28.000Z",
-        "category": "general",
-        "zone": "ca"
       }
     ]
   },
   "business_us": {
     "articles": [
+      {
+        "title": "The \"trillion pound\" oil fund the government believes Britain could have built",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+        "publishedAt": "2026-10-21T23:27:05.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Websites taken down worldwide as critical cyber-security update issued",
+        "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+        "publishedAt": "2026-10-21T19:54:57.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Meta fined $25bn for 'lies' over user data privacy",
+        "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+        "publishedAt": "2026-10-21T21:49:07.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+        "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+        "publishedAt": "2026-10-21T22:54:58.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "The grads ditching the UK for a fresh start abroad",
+        "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
+        "publishedAt": "2026-10-21T23:12:06.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+        "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+        "publishedAt": "2026-10-21T23:04:03.000Z",
+        "category": "business",
+        "zone": "us"
+      },
       {
         "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
         "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
@@ -481,72 +547,6 @@
         },
         "description": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
         "publishedAt": "2026-10-21T10:16:17.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Meta fined $25bn for 'lies' over user data privacy",
-        "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-        "publishedAt": "2026-10-21T21:49:07.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Burnham proposes plan to cut standing charges from gas bills",
-        "url": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
-        "publishedAt": "2026-10-21T17:06:16.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "The tech helping crack decades-old cold cases",
-        "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
-        "publishedAt": "2026-10-20T23:13:24.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
-        "url": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
-        "publishedAt": "2026-10-21T15:58:05.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "What is happening to UK prices?",
-        "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "UK inflation rose in September, pushed up by higher petrol and diesel prices.",
-        "publishedAt": "2026-10-21T08:35:47.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "What is the Budget and what could be in it?",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-        "publishedAt": "2026-10-20T08:31:36.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,6 +555,72 @@
   "business_gb": {
     "articles": [
       {
+        "title": "The \"trillion pound\" oil fund the government believes Britain could have built",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+        "publishedAt": "2026-10-21T23:27:05.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Websites taken down worldwide as critical cyber-security update issued",
+        "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+        "publishedAt": "2026-10-21T19:54:57.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Meta fined $25bn for 'lies' over user data privacy",
+        "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+        "publishedAt": "2026-10-21T21:49:07.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+        "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+        "publishedAt": "2026-10-21T22:54:58.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "The grads ditching the UK for a fresh start abroad",
+        "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
+        "publishedAt": "2026-10-21T23:12:06.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+        "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+        "publishedAt": "2026-10-21T23:04:03.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
         "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -573,72 +639,6 @@
         },
         "description": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
         "publishedAt": "2026-10-21T10:16:17.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Meta fined $25bn for 'lies' over user data privacy",
-        "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-        "publishedAt": "2026-10-21T21:49:07.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Burnham proposes plan to cut standing charges from gas bills",
-        "url": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
-        "publishedAt": "2026-10-21T17:06:16.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "The tech helping crack decades-old cold cases",
-        "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
-        "publishedAt": "2026-10-20T23:13:24.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
-        "url": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
-        "publishedAt": "2026-10-21T15:58:05.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "What is happening to UK prices?",
-        "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "UK inflation rose in September, pushed up by higher petrol and diesel prices.",
-        "publishedAt": "2026-10-21T08:35:47.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "What is the Budget and what could be in it?",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-        "publishedAt": "2026-10-20T08:31:36.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,6 +647,72 @@
   "business_in": {
     "articles": [
       {
+        "title": "The \"trillion pound\" oil fund the government believes Britain could have built",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+        "publishedAt": "2026-10-21T23:27:05.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Websites taken down worldwide as critical cyber-security update issued",
+        "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+        "publishedAt": "2026-10-21T19:54:57.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Meta fined $25bn for 'lies' over user data privacy",
+        "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+        "publishedAt": "2026-10-21T21:49:07.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+        "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+        "publishedAt": "2026-10-21T22:54:58.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "The grads ditching the UK for a fresh start abroad",
+        "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
+        "publishedAt": "2026-10-21T23:12:06.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+        "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+        "publishedAt": "2026-10-21T23:04:03.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
         "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -665,72 +731,6 @@
         },
         "description": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
         "publishedAt": "2026-10-21T10:16:17.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Meta fined $25bn for 'lies' over user data privacy",
-        "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-        "publishedAt": "2026-10-21T21:49:07.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Burnham proposes plan to cut standing charges from gas bills",
-        "url": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
-        "publishedAt": "2026-10-21T17:06:16.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "The tech helping crack decades-old cold cases",
-        "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
-        "publishedAt": "2026-10-20T23:13:24.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
-        "url": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
-        "publishedAt": "2026-10-21T15:58:05.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "What is happening to UK prices?",
-        "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "UK inflation rose in September, pushed up by higher petrol and diesel prices.",
-        "publishedAt": "2026-10-21T08:35:47.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "What is the Budget and what could be in it?",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-        "publishedAt": "2026-10-20T08:31:36.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,6 +739,72 @@
   "business_au": {
     "articles": [
       {
+        "title": "The \"trillion pound\" oil fund the government believes Britain could have built",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+        "publishedAt": "2026-10-21T23:27:05.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Websites taken down worldwide as critical cyber-security update issued",
+        "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+        "publishedAt": "2026-10-21T19:54:57.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Meta fined $25bn for 'lies' over user data privacy",
+        "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+        "publishedAt": "2026-10-21T21:49:07.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+        "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+        "publishedAt": "2026-10-21T22:54:58.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "The grads ditching the UK for a fresh start abroad",
+        "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
+        "publishedAt": "2026-10-21T23:12:06.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+        "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+        "publishedAt": "2026-10-21T23:04:03.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
         "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -757,72 +823,6 @@
         },
         "description": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
         "publishedAt": "2026-10-21T10:16:17.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Meta fined $25bn for 'lies' over user data privacy",
-        "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-        "publishedAt": "2026-10-21T21:49:07.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Burnham proposes plan to cut standing charges from gas bills",
-        "url": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
-        "publishedAt": "2026-10-21T17:06:16.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "The tech helping crack decades-old cold cases",
-        "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
-        "publishedAt": "2026-10-20T23:13:24.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
-        "url": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
-        "publishedAt": "2026-10-21T15:58:05.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "What is happening to UK prices?",
-        "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "UK inflation rose in September, pushed up by higher petrol and diesel prices.",
-        "publishedAt": "2026-10-21T08:35:47.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "What is the Budget and what could be in it?",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-        "publishedAt": "2026-10-20T08:31:36.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,6 +831,72 @@
   "business_ca": {
     "articles": [
       {
+        "title": "The \"trillion pound\" oil fund the government believes Britain could have built",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+        "publishedAt": "2026-10-21T23:27:05.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Websites taken down worldwide as critical cyber-security update issued",
+        "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+        "publishedAt": "2026-10-21T19:54:57.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Meta fined $25bn for 'lies' over user data privacy",
+        "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+        "publishedAt": "2026-10-21T21:49:07.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+        "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+        "publishedAt": "2026-10-21T22:54:58.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "The grads ditching the UK for a fresh start abroad",
+        "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
+        "publishedAt": "2026-10-21T23:12:06.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+        "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+        "publishedAt": "2026-10-21T23:04:03.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
         "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -849,72 +915,6 @@
         },
         "description": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
         "publishedAt": "2026-10-21T10:16:17.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Meta fined $25bn for 'lies' over user data privacy",
-        "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-        "publishedAt": "2026-10-21T21:49:07.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Burnham proposes plan to cut standing charges from gas bills",
-        "url": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
-        "publishedAt": "2026-10-21T17:06:16.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "The tech helping crack decades-old cold cases",
-        "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
-        "publishedAt": "2026-10-20T23:13:24.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
-        "url": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
-        "publishedAt": "2026-10-21T15:58:05.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "What is happening to UK prices?",
-        "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "UK inflation rose in September, pushed up by higher petrol and diesel prices.",
-        "publishedAt": "2026-10-21T08:35:47.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "What is the Budget and what could be in it?",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-        "publishedAt": "2026-10-20T08:31:36.000Z",
         "category": "business",
         "zone": "ca"
       }
@@ -1383,6 +1383,28 @@
   "health_us": {
     "articles": [
       {
+        "title": "'Betrayed by my body': The taboo health issue women are talking about on social media",
+        "url": "https://www.bbc.co.uk/news/articles/cwly3g0g371go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Women are sharing their experiences with chronic urinary tract infections on social media in an effort to break the stigma surrounding UTIs.",
+        "publishedAt": "2026-10-21T23:03:59.000Z",
+        "category": "health",
+        "zone": "us"
+      },
+      {
+        "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+        "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia.",
+        "publishedAt": "2026-10-21T23:02:30.000Z",
+        "category": "health",
+        "zone": "us"
+      },
+      {
         "title": "Pope does not need further treatment after lung cancer surgery",
         "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1445,28 +1467,6 @@
         },
         "description": "AI may help doctors judge how ill a patient is using a single photograph of their face, say US researchers.",
         "publishedAt": "2026-10-20T07:29:01.000Z",
-        "category": "health",
-        "zone": "us"
-      },
-      {
-        "title": "POV: Your girls' PE lesson gets a glow up",
-        "url": "https://www.bbc.co.uk/news/videos/cq4g1kz7l4d3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Can activities like yoga, dance and fitness encourage more girls to enjoy sport?",
-        "publishedAt": "2026-10-20T05:16:25.000Z",
-        "category": "health",
-        "zone": "us"
-      },
-      {
-        "title": "NHS bosses say smaller maternity units may have to close",
-        "url": "https://www.bbc.co.uk/news/articles/cm040rgv7wz4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The NHS Alliance said \"difficult decisions\" lie ahead and some maternity services may have to be consolidated.",
-        "publishedAt": "2026-10-19T06:24:25.000Z",
         "category": "health",
         "zone": "us"
       }
@@ -1475,6 +1475,28 @@
   "health_gb": {
     "articles": [
       {
+        "title": "'Betrayed by my body': The taboo health issue women are talking about on social media",
+        "url": "https://www.bbc.co.uk/news/articles/cwly3g0g371go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Women are sharing their experiences with chronic urinary tract infections on social media in an effort to break the stigma surrounding UTIs.",
+        "publishedAt": "2026-10-21T23:03:59.000Z",
+        "category": "health",
+        "zone": "gb"
+      },
+      {
+        "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+        "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia.",
+        "publishedAt": "2026-10-21T23:02:30.000Z",
+        "category": "health",
+        "zone": "gb"
+      },
+      {
         "title": "Pope does not need further treatment after lung cancer surgery",
         "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1537,28 +1559,6 @@
         },
         "description": "AI may help doctors judge how ill a patient is using a single photograph of their face, say US researchers.",
         "publishedAt": "2026-10-20T07:29:01.000Z",
-        "category": "health",
-        "zone": "gb"
-      },
-      {
-        "title": "POV: Your girls' PE lesson gets a glow up",
-        "url": "https://www.bbc.co.uk/news/videos/cq4g1kz7l4d3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Can activities like yoga, dance and fitness encourage more girls to enjoy sport?",
-        "publishedAt": "2026-10-20T05:16:25.000Z",
-        "category": "health",
-        "zone": "gb"
-      },
-      {
-        "title": "NHS bosses say smaller maternity units may have to close",
-        "url": "https://www.bbc.co.uk/news/articles/cm040rgv7wz4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The NHS Alliance said \"difficult decisions\" lie ahead and some maternity services may have to be consolidated.",
-        "publishedAt": "2026-10-19T06:24:25.000Z",
         "category": "health",
         "zone": "gb"
       }
@@ -1567,6 +1567,28 @@
   "health_in": {
     "articles": [
       {
+        "title": "'Betrayed by my body': The taboo health issue women are talking about on social media",
+        "url": "https://www.bbc.co.uk/news/articles/cwly3g0g371go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Women are sharing their experiences with chronic urinary tract infections on social media in an effort to break the stigma surrounding UTIs.",
+        "publishedAt": "2026-10-21T23:03:59.000Z",
+        "category": "health",
+        "zone": "in"
+      },
+      {
+        "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+        "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia.",
+        "publishedAt": "2026-10-21T23:02:30.000Z",
+        "category": "health",
+        "zone": "in"
+      },
+      {
         "title": "Pope does not need further treatment after lung cancer surgery",
         "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1629,28 +1651,6 @@
         },
         "description": "AI may help doctors judge how ill a patient is using a single photograph of their face, say US researchers.",
         "publishedAt": "2026-10-20T07:29:01.000Z",
-        "category": "health",
-        "zone": "in"
-      },
-      {
-        "title": "POV: Your girls' PE lesson gets a glow up",
-        "url": "https://www.bbc.co.uk/news/videos/cq4g1kz7l4d3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Can activities like yoga, dance and fitness encourage more girls to enjoy sport?",
-        "publishedAt": "2026-10-20T05:16:25.000Z",
-        "category": "health",
-        "zone": "in"
-      },
-      {
-        "title": "NHS bosses say smaller maternity units may have to close",
-        "url": "https://www.bbc.co.uk/news/articles/cm040rgv7wz4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The NHS Alliance said \"difficult decisions\" lie ahead and some maternity services may have to be consolidated.",
-        "publishedAt": "2026-10-19T06:24:25.000Z",
         "category": "health",
         "zone": "in"
       }
@@ -1659,6 +1659,28 @@
   "health_au": {
     "articles": [
       {
+        "title": "'Betrayed by my body': The taboo health issue women are talking about on social media",
+        "url": "https://www.bbc.co.uk/news/articles/cwly3g0g371go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Women are sharing their experiences with chronic urinary tract infections on social media in an effort to break the stigma surrounding UTIs.",
+        "publishedAt": "2026-10-21T23:03:59.000Z",
+        "category": "health",
+        "zone": "au"
+      },
+      {
+        "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+        "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia.",
+        "publishedAt": "2026-10-21T23:02:30.000Z",
+        "category": "health",
+        "zone": "au"
+      },
+      {
         "title": "Pope does not need further treatment after lung cancer surgery",
         "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1721,28 +1743,6 @@
         },
         "description": "AI may help doctors judge how ill a patient is using a single photograph of their face, say US researchers.",
         "publishedAt": "2026-10-20T07:29:01.000Z",
-        "category": "health",
-        "zone": "au"
-      },
-      {
-        "title": "POV: Your girls' PE lesson gets a glow up",
-        "url": "https://www.bbc.co.uk/news/videos/cq4g1kz7l4d3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Can activities like yoga, dance and fitness encourage more girls to enjoy sport?",
-        "publishedAt": "2026-10-20T05:16:25.000Z",
-        "category": "health",
-        "zone": "au"
-      },
-      {
-        "title": "NHS bosses say smaller maternity units may have to close",
-        "url": "https://www.bbc.co.uk/news/articles/cm040rgv7wz4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The NHS Alliance said \"difficult decisions\" lie ahead and some maternity services may have to be consolidated.",
-        "publishedAt": "2026-10-19T06:24:25.000Z",
         "category": "health",
         "zone": "au"
       }
@@ -1751,6 +1751,28 @@
   "health_ca": {
     "articles": [
       {
+        "title": "'Betrayed by my body': The taboo health issue women are talking about on social media",
+        "url": "https://www.bbc.co.uk/news/articles/cwly3g0g371go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Women are sharing their experiences with chronic urinary tract infections on social media in an effort to break the stigma surrounding UTIs.",
+        "publishedAt": "2026-10-21T23:03:59.000Z",
+        "category": "health",
+        "zone": "ca"
+      },
+      {
+        "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+        "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia.",
+        "publishedAt": "2026-10-21T23:02:30.000Z",
+        "category": "health",
+        "zone": "ca"
+      },
+      {
         "title": "Pope does not need further treatment after lung cancer surgery",
         "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1813,28 +1835,6 @@
         },
         "description": "AI may help doctors judge how ill a patient is using a single photograph of their face, say US researchers.",
         "publishedAt": "2026-10-20T07:29:01.000Z",
-        "category": "health",
-        "zone": "ca"
-      },
-      {
-        "title": "POV: Your girls' PE lesson gets a glow up",
-        "url": "https://www.bbc.co.uk/news/videos/cq4g1kz7l4d3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Can activities like yoga, dance and fitness encourage more girls to enjoy sport?",
-        "publishedAt": "2026-10-20T05:16:25.000Z",
-        "category": "health",
-        "zone": "ca"
-      },
-      {
-        "title": "NHS bosses say smaller maternity units may have to close",
-        "url": "https://www.bbc.co.uk/news/articles/cm040rgv7wz4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The NHS Alliance said \"difficult decisions\" lie ahead and some maternity services may have to be consolidated.",
-        "publishedAt": "2026-10-19T06:24:25.000Z",
         "category": "health",
         "zone": "ca"
       }
@@ -1925,8 +1925,8 @@
         "source": {
           "name": "Dara Kerr"
         },
-        "description": "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of Tesla shareholders Investors will be paying close attention to Tesla’s third-quarter earnings call on Wednesday afternoon, after chief executive Elon Musk floated the idea of merging the car company with his rocket and AI company, SpaceX. On a call with SpaceX investors on Tuesday, Musk said: “There’s a lot of merit to combining the companies.” Musk said that the board of directors for both of his businesses had put together special committees to explore the potential merger, but had not yet reached an agreement on the terms of the transaction. The move would require the approval of 50% of all Tesla shareholders. Continue reading...",
-        "publishedAt": "2026-10-21T21:21:57.000Z",
+        "description": "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of all Tesla shareholders, but he declined to elaborate Investors were paying close attention to Tesla’s third-quarter earnings call on Wednesday afternoon, after chief executive Elon Musk floated the idea of merging the car company with his rocket and AI company, SpaceX. But they didn’t glean further information after the company announced there would be no questions on the matter. “With regard to a potential merger with SpaceX, I think I said everything that should be said yesterday,” Musk, the CEO of both companies, said on Tesla’s earnings call. He repeated a phrase he said on Tuesday: “I feel like I’m tap dancing through a minefield.” Continue reading...",
+        "publishedAt": "2026-10-21T23:03:16.000Z",
         "category": "science",
         "zone": "us"
       }
@@ -2017,8 +2017,8 @@
         "source": {
           "name": "Dara Kerr"
         },
-        "description": "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of Tesla shareholders Investors will be paying close attention to Tesla’s third-quarter earnings call on Wednesday afternoon, after chief executive Elon Musk floated the idea of merging the car company with his rocket and AI company, SpaceX. On a call with SpaceX investors on Tuesday, Musk said: “There’s a lot of merit to combining the companies.” Musk said that the board of directors for both of his businesses had put together special committees to explore the potential merger, but had not yet reached an agreement on the terms of the transaction. The move would require the approval of 50% of all Tesla shareholders. Continue reading...",
-        "publishedAt": "2026-10-21T21:21:57.000Z",
+        "description": "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of all Tesla shareholders, but he declined to elaborate Investors were paying close attention to Tesla’s third-quarter earnings call on Wednesday afternoon, after chief executive Elon Musk floated the idea of merging the car company with his rocket and AI company, SpaceX. But they didn’t glean further information after the company announced there would be no questions on the matter. “With regard to a potential merger with SpaceX, I think I said everything that should be said yesterday,” Musk, the CEO of both companies, said on Tesla’s earnings call. He repeated a phrase he said on Tuesday: “I feel like I’m tap dancing through a minefield.” Continue reading...",
+        "publishedAt": "2026-10-21T23:03:16.000Z",
         "category": "science",
         "zone": "gb"
       }
@@ -2109,8 +2109,8 @@
         "source": {
           "name": "Dara Kerr"
         },
-        "description": "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of Tesla shareholders Investors will be paying close attention to Tesla’s third-quarter earnings call on Wednesday afternoon, after chief executive Elon Musk floated the idea of merging the car company with his rocket and AI company, SpaceX. On a call with SpaceX investors on Tuesday, Musk said: “There’s a lot of merit to combining the companies.” Musk said that the board of directors for both of his businesses had put together special committees to explore the potential merger, but had not yet reached an agreement on the terms of the transaction. The move would require the approval of 50% of all Tesla shareholders. Continue reading...",
-        "publishedAt": "2026-10-21T21:21:57.000Z",
+        "description": "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of all Tesla shareholders, but he declined to elaborate Investors were paying close attention to Tesla’s third-quarter earnings call on Wednesday afternoon, after chief executive Elon Musk floated the idea of merging the car company with his rocket and AI company, SpaceX. But they didn’t glean further information after the company announced there would be no questions on the matter. “With regard to a potential merger with SpaceX, I think I said everything that should be said yesterday,” Musk, the CEO of both companies, said on Tesla’s earnings call. He repeated a phrase he said on Tuesday: “I feel like I’m tap dancing through a minefield.” Continue reading...",
+        "publishedAt": "2026-10-21T23:03:16.000Z",
         "category": "science",
         "zone": "in"
       }
@@ -2201,8 +2201,8 @@
         "source": {
           "name": "Dara Kerr"
         },
-        "description": "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of Tesla shareholders Investors will be paying close attention to Tesla’s third-quarter earnings call on Wednesday afternoon, after chief executive Elon Musk floated the idea of merging the car company with his rocket and AI company, SpaceX. On a call with SpaceX investors on Tuesday, Musk said: “There’s a lot of merit to combining the companies.” Musk said that the board of directors for both of his businesses had put together special committees to explore the potential merger, but had not yet reached an agreement on the terms of the transaction. The move would require the approval of 50% of all Tesla shareholders. Continue reading...",
-        "publishedAt": "2026-10-21T21:21:57.000Z",
+        "description": "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of all Tesla shareholders, but he declined to elaborate Investors were paying close attention to Tesla’s third-quarter earnings call on Wednesday afternoon, after chief executive Elon Musk floated the idea of merging the car company with his rocket and AI company, SpaceX. But they didn’t glean further information after the company announced there would be no questions on the matter. “With regard to a potential merger with SpaceX, I think I said everything that should be said yesterday,” Musk, the CEO of both companies, said on Tesla’s earnings call. He repeated a phrase he said on Tuesday: “I feel like I’m tap dancing through a minefield.” Continue reading...",
+        "publishedAt": "2026-10-21T23:03:16.000Z",
         "category": "science",
         "zone": "au"
       }
@@ -2293,8 +2293,8 @@
         "source": {
           "name": "Dara Kerr"
         },
-        "description": "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of Tesla shareholders Investors will be paying close attention to Tesla’s third-quarter earnings call on Wednesday afternoon, after chief executive Elon Musk floated the idea of merging the car company with his rocket and AI company, SpaceX. On a call with SpaceX investors on Tuesday, Musk said: “There’s a lot of merit to combining the companies.” Musk said that the board of directors for both of his businesses had put together special committees to explore the potential merger, but had not yet reached an agreement on the terms of the transaction. The move would require the approval of 50% of all Tesla shareholders. Continue reading...",
-        "publishedAt": "2026-10-21T21:21:57.000Z",
+        "description": "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of all Tesla shareholders, but he declined to elaborate Investors were paying close attention to Tesla’s third-quarter earnings call on Wednesday afternoon, after chief executive Elon Musk floated the idea of merging the car company with his rocket and AI company, SpaceX. But they didn’t glean further information after the company announced there would be no questions on the matter. “With regard to a potential merger with SpaceX, I think I said everything that should be said yesterday,” Musk, the CEO of both companies, said on Tesla’s earnings call. He repeated a phrase he said on Tuesday: “I feel like I’m tap dancing through a minefield.” Continue reading...",
+        "publishedAt": "2026-10-21T23:03:16.000Z",
         "category": "science",
         "zone": "ca"
       }
@@ -2303,6 +2303,17 @@
   "sports_us": {
     "articles": [
       {
+        "title": "Fernandes rounds on Carrick after Man Utd humiliation",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester United captain Bruno Fernandes blames head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
+        "publishedAt": "2026-10-21T19:59:30.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Man Utd humbled by four-goal Como to pile pressure on Carrick",
         "url": "https://www.bbc.co.uk/sport/football/videos/cmz7xr3z2vz7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2314,13 +2325,24 @@
         "zone": "us"
       },
       {
-        "title": "Fernandes rounds on Carrick after Man Utd humiliation",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss",
+        "title": "Saka injury 'does not look good' - how will Arsenal cope?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United captain Bruno Fernandes blames head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
-        "publishedAt": "2026-10-21T19:59:30.000Z",
+        "description": "Mikel Arteta says the quadriceps injury Arsenal's Bukayo Saka picked up in the Champions League draw with Bayern Munich \"does not look good at all\".",
+        "publishedAt": "2026-10-21T22:51:56.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League.",
+        "publishedAt": "2026-10-21T23:11:06.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2347,17 +2369,6 @@
         "zone": "us"
       },
       {
-        "title": "Paz, Fabregas and Como teach Man Utd a lesson",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqrly2d6jnp7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Serie A success story Como have gone from Serie D to the Champions League - now they have taught Manchester United a lesson in Europe.",
-        "publishedAt": "2026-10-21T20:46:40.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
         "title": "Andrews died of tear in artery around heart - autopsy",
         "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx234p2xwpzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2376,17 +2387,6 @@
         },
         "description": "Star full-back Ellie Kildunne is dropped to the bench as England shake up selection in response to a first defeat in four years.",
         "publishedAt": "2026-10-21T12:47:48.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Anderson, 44, not offered new Lancashire contract",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "James Anderson’s legendary career could be over after Lancashire opt against offering England’s all-time leading wicket-taker a new deal.",
-        "publishedAt": "2026-10-21T15:35:42.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,6 +2395,17 @@
   "sports_gb": {
     "articles": [
       {
+        "title": "Fernandes rounds on Carrick after Man Utd humiliation",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester United captain Bruno Fernandes blames head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
+        "publishedAt": "2026-10-21T19:59:30.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Man Utd humbled by four-goal Como to pile pressure on Carrick",
         "url": "https://www.bbc.co.uk/sport/football/videos/cmz7xr3z2vz7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2406,13 +2417,24 @@
         "zone": "gb"
       },
       {
-        "title": "Fernandes rounds on Carrick after Man Utd humiliation",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss",
+        "title": "Saka injury 'does not look good' - how will Arsenal cope?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United captain Bruno Fernandes blames head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
-        "publishedAt": "2026-10-21T19:59:30.000Z",
+        "description": "Mikel Arteta says the quadriceps injury Arsenal's Bukayo Saka picked up in the Champions League draw with Bayern Munich \"does not look good at all\".",
+        "publishedAt": "2026-10-21T22:51:56.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League.",
+        "publishedAt": "2026-10-21T23:11:06.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2439,17 +2461,6 @@
         "zone": "gb"
       },
       {
-        "title": "Paz, Fabregas and Como teach Man Utd a lesson",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqrly2d6jnp7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Serie A success story Como have gone from Serie D to the Champions League - now they have taught Manchester United a lesson in Europe.",
-        "publishedAt": "2026-10-21T20:46:40.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
         "title": "Andrews died of tear in artery around heart - autopsy",
         "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx234p2xwpzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2468,17 +2479,6 @@
         },
         "description": "Star full-back Ellie Kildunne is dropped to the bench as England shake up selection in response to a first defeat in four years.",
         "publishedAt": "2026-10-21T12:47:48.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Anderson, 44, not offered new Lancashire contract",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "James Anderson’s legendary career could be over after Lancashire opt against offering England’s all-time leading wicket-taker a new deal.",
-        "publishedAt": "2026-10-21T15:35:42.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,6 +2487,17 @@
   "sports_in": {
     "articles": [
       {
+        "title": "Fernandes rounds on Carrick after Man Utd humiliation",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester United captain Bruno Fernandes blames head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
+        "publishedAt": "2026-10-21T19:59:30.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Man Utd humbled by four-goal Como to pile pressure on Carrick",
         "url": "https://www.bbc.co.uk/sport/football/videos/cmz7xr3z2vz7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2498,13 +2509,24 @@
         "zone": "in"
       },
       {
-        "title": "Fernandes rounds on Carrick after Man Utd humiliation",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss",
+        "title": "Saka injury 'does not look good' - how will Arsenal cope?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United captain Bruno Fernandes blames head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
-        "publishedAt": "2026-10-21T19:59:30.000Z",
+        "description": "Mikel Arteta says the quadriceps injury Arsenal's Bukayo Saka picked up in the Champions League draw with Bayern Munich \"does not look good at all\".",
+        "publishedAt": "2026-10-21T22:51:56.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League.",
+        "publishedAt": "2026-10-21T23:11:06.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2531,17 +2553,6 @@
         "zone": "in"
       },
       {
-        "title": "Paz, Fabregas and Como teach Man Utd a lesson",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqrly2d6jnp7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Serie A success story Como have gone from Serie D to the Champions League - now they have taught Manchester United a lesson in Europe.",
-        "publishedAt": "2026-10-21T20:46:40.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
         "title": "Andrews died of tear in artery around heart - autopsy",
         "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx234p2xwpzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2560,17 +2571,6 @@
         },
         "description": "Star full-back Ellie Kildunne is dropped to the bench as England shake up selection in response to a first defeat in four years.",
         "publishedAt": "2026-10-21T12:47:48.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Anderson, 44, not offered new Lancashire contract",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "James Anderson’s legendary career could be over after Lancashire opt against offering England’s all-time leading wicket-taker a new deal.",
-        "publishedAt": "2026-10-21T15:35:42.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,6 +2579,17 @@
   "sports_au": {
     "articles": [
       {
+        "title": "Fernandes rounds on Carrick after Man Utd humiliation",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester United captain Bruno Fernandes blames head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
+        "publishedAt": "2026-10-21T19:59:30.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Man Utd humbled by four-goal Como to pile pressure on Carrick",
         "url": "https://www.bbc.co.uk/sport/football/videos/cmz7xr3z2vz7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2590,13 +2601,24 @@
         "zone": "au"
       },
       {
-        "title": "Fernandes rounds on Carrick after Man Utd humiliation",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss",
+        "title": "Saka injury 'does not look good' - how will Arsenal cope?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United captain Bruno Fernandes blames head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
-        "publishedAt": "2026-10-21T19:59:30.000Z",
+        "description": "Mikel Arteta says the quadriceps injury Arsenal's Bukayo Saka picked up in the Champions League draw with Bayern Munich \"does not look good at all\".",
+        "publishedAt": "2026-10-21T22:51:56.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League.",
+        "publishedAt": "2026-10-21T23:11:06.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2623,17 +2645,6 @@
         "zone": "au"
       },
       {
-        "title": "Paz, Fabregas and Como teach Man Utd a lesson",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqrly2d6jnp7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Serie A success story Como have gone from Serie D to the Champions League - now they have taught Manchester United a lesson in Europe.",
-        "publishedAt": "2026-10-21T20:46:40.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
         "title": "Andrews died of tear in artery around heart - autopsy",
         "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx234p2xwpzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2652,17 +2663,6 @@
         },
         "description": "Star full-back Ellie Kildunne is dropped to the bench as England shake up selection in response to a first defeat in four years.",
         "publishedAt": "2026-10-21T12:47:48.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Anderson, 44, not offered new Lancashire contract",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "James Anderson’s legendary career could be over after Lancashire opt against offering England’s all-time leading wicket-taker a new deal.",
-        "publishedAt": "2026-10-21T15:35:42.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,6 +2671,17 @@
   "sports_ca": {
     "articles": [
       {
+        "title": "Fernandes rounds on Carrick after Man Utd humiliation",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester United captain Bruno Fernandes blames head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
+        "publishedAt": "2026-10-21T19:59:30.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Man Utd humbled by four-goal Como to pile pressure on Carrick",
         "url": "https://www.bbc.co.uk/sport/football/videos/cmz7xr3z2vz7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2682,13 +2693,24 @@
         "zone": "ca"
       },
       {
-        "title": "Fernandes rounds on Carrick after Man Utd humiliation",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss",
+        "title": "Saka injury 'does not look good' - how will Arsenal cope?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United captain Bruno Fernandes blames head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
-        "publishedAt": "2026-10-21T19:59:30.000Z",
+        "description": "Mikel Arteta says the quadriceps injury Arsenal's Bukayo Saka picked up in the Champions League draw with Bayern Munich \"does not look good at all\".",
+        "publishedAt": "2026-10-21T22:51:56.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League.",
+        "publishedAt": "2026-10-21T23:11:06.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2715,17 +2737,6 @@
         "zone": "ca"
       },
       {
-        "title": "Paz, Fabregas and Como teach Man Utd a lesson",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqrly2d6jnp7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Serie A success story Como have gone from Serie D to the Champions League - now they have taught Manchester United a lesson in Europe.",
-        "publishedAt": "2026-10-21T20:46:40.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
         "title": "Andrews died of tear in artery around heart - autopsy",
         "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx234p2xwpzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2746,22 +2757,33 @@
         "publishedAt": "2026-10-21T12:47:48.000Z",
         "category": "sports",
         "zone": "ca"
-      },
-      {
-        "title": "Anderson, 44, not offered new Lancashire contract",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "James Anderson’s legendary career could be over after Lancashire opt against offering England’s all-time leading wicket-taker a new deal.",
-        "publishedAt": "2026-10-21T15:35:42.000Z",
-        "category": "sports",
-        "zone": "ca"
       }
     ]
   },
   "technology_us": {
     "articles": [
+      {
+        "title": "Trump's green card curbs test Indian tech workers' American dream",
+        "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
+        "publishedAt": "2026-10-21T23:06:37.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
+        "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+        "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+        "publishedAt": "2026-10-21T23:04:03.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
       {
         "title": "Websites taken down worldwide as critical cyber-security update issued",
         "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
@@ -2796,17 +2818,6 @@
         "zone": "us"
       },
       {
-        "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-        "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
-        "publishedAt": "2026-10-21T06:36:39.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
         "title": "The tech helping crack decades-old cold cases",
         "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2836,17 +2847,6 @@
         },
         "description": "Revolut was one of the hardest hit, with banking services going down for many customers.",
         "publishedAt": "2026-10-20T18:03:19.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "UK asks Apple to widen access to its payment tech",
-        "url": "https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Proposed changes could lead to new digital wallets and keys as well as ticketing apps, the regulator says.",
-        "publishedAt": "2026-10-20T12:29:24.000Z",
         "category": "technology",
         "zone": "us"
       }
@@ -2855,6 +2855,28 @@
   "technology_gb": {
     "articles": [
       {
+        "title": "Trump's green card curbs test Indian tech workers' American dream",
+        "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
+        "publishedAt": "2026-10-21T23:06:37.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
+        "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+        "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+        "publishedAt": "2026-10-21T23:04:03.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
         "title": "Websites taken down worldwide as critical cyber-security update issued",
         "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2888,17 +2910,6 @@
         "zone": "gb"
       },
       {
-        "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-        "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
-        "publishedAt": "2026-10-21T06:36:39.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
         "title": "The tech helping crack decades-old cold cases",
         "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2928,17 +2939,6 @@
         },
         "description": "Revolut was one of the hardest hit, with banking services going down for many customers.",
         "publishedAt": "2026-10-20T18:03:19.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "UK asks Apple to widen access to its payment tech",
-        "url": "https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Proposed changes could lead to new digital wallets and keys as well as ticketing apps, the regulator says.",
-        "publishedAt": "2026-10-20T12:29:24.000Z",
         "category": "technology",
         "zone": "gb"
       }
@@ -2947,6 +2947,28 @@
   "technology_in": {
     "articles": [
       {
+        "title": "Trump's green card curbs test Indian tech workers' American dream",
+        "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
+        "publishedAt": "2026-10-21T23:06:37.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
+        "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+        "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+        "publishedAt": "2026-10-21T23:04:03.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
         "title": "Websites taken down worldwide as critical cyber-security update issued",
         "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2980,17 +3002,6 @@
         "zone": "in"
       },
       {
-        "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-        "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
-        "publishedAt": "2026-10-21T06:36:39.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
         "title": "The tech helping crack decades-old cold cases",
         "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3020,17 +3031,6 @@
         },
         "description": "Revolut was one of the hardest hit, with banking services going down for many customers.",
         "publishedAt": "2026-10-20T18:03:19.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "UK asks Apple to widen access to its payment tech",
-        "url": "https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Proposed changes could lead to new digital wallets and keys as well as ticketing apps, the regulator says.",
-        "publishedAt": "2026-10-20T12:29:24.000Z",
         "category": "technology",
         "zone": "in"
       }
@@ -3039,6 +3039,28 @@
   "technology_au": {
     "articles": [
       {
+        "title": "Trump's green card curbs test Indian tech workers' American dream",
+        "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
+        "publishedAt": "2026-10-21T23:06:37.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
+        "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+        "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+        "publishedAt": "2026-10-21T23:04:03.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
         "title": "Websites taken down worldwide as critical cyber-security update issued",
         "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3072,17 +3094,6 @@
         "zone": "au"
       },
       {
-        "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-        "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
-        "publishedAt": "2026-10-21T06:36:39.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
         "title": "The tech helping crack decades-old cold cases",
         "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3112,17 +3123,6 @@
         },
         "description": "Revolut was one of the hardest hit, with banking services going down for many customers.",
         "publishedAt": "2026-10-20T18:03:19.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "UK asks Apple to widen access to its payment tech",
-        "url": "https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Proposed changes could lead to new digital wallets and keys as well as ticketing apps, the regulator says.",
-        "publishedAt": "2026-10-20T12:29:24.000Z",
         "category": "technology",
         "zone": "au"
       }
@@ -3131,6 +3131,28 @@
   "technology_ca": {
     "articles": [
       {
+        "title": "Trump's green card curbs test Indian tech workers' American dream",
+        "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
+        "publishedAt": "2026-10-21T23:06:37.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
+        "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+        "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+        "publishedAt": "2026-10-21T23:04:03.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
         "title": "Websites taken down worldwide as critical cyber-security update issued",
         "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3164,17 +3186,6 @@
         "zone": "ca"
       },
       {
-        "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-        "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
-        "publishedAt": "2026-10-21T06:36:39.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
         "title": "The tech helping crack decades-old cold cases",
         "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3204,17 +3215,6 @@
         },
         "description": "Revolut was one of the hardest hit, with banking services going down for many customers.",
         "publishedAt": "2026-10-20T18:03:19.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "UK asks Apple to widen access to its payment tech",
-        "url": "https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Proposed changes could lead to new digital wallets and keys as well as ticketing apps, the regulator says.",
-        "publishedAt": "2026-10-20T12:29:24.000Z",
         "category": "technology",
         "zone": "ca"
       }
