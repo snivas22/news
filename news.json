@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T18:23:31.157Z",
+  "generatedAt": "2026-10-22T22:11:13.032Z",
   "general_us": {
     "articles": [
       {
@@ -9,7 +9,7 @@
           "name": "RSS Feed"
         },
         "description": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.",
-        "publishedAt": "2026-10-22T17:46:58.000Z",
+        "publishedAt": "2026-10-22T21:29:44.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -47,6 +47,28 @@
         "zone": "us"
       },
       {
+        "title": "Prince William makes surprise appearance on Graham Norton Show",
+        "url": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked.",
+        "publishedAt": "2026-10-22T21:21:22.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Items recovered in search for missing fishing boat and crew",
+        "url": "https://www.bbc.co.uk/news/articles/c6m2dwddl3xlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tam Murray, 40 and Murdo Morrison, 23 remain missing after their vessel disappeared off Lewis and the body of crewmate Douglas Craigie was found at sea.",
+        "publishedAt": "2026-10-22T20:54:02.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
         "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
         "url": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -58,35 +80,13 @@
         "zone": "us"
       },
       {
-        "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-        "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+        "title": "Woman charged after police officer injured in shooting",
+        "url": "https://www.bbc.co.uk/news/articles/c8n5ve5gg35no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
-        "publishedAt": "2026-10-22T15:56:36.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Two storms in two days as Austen and Boelo head for UK",
-        "url": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Met Office has named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend.",
-        "publishedAt": "2026-10-22T10:34:17.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-        "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
-        "publishedAt": "2026-10-22T17:07:03.000Z",
+        "description": "The officer was injured after approaching two people at a bus stop in Nottingham city centre.",
+        "publishedAt": "2026-10-22T19:52:40.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -101,7 +101,7 @@
           "name": "RSS Feed"
         },
         "description": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.",
-        "publishedAt": "2026-10-22T17:46:58.000Z",
+        "publishedAt": "2026-10-22T21:29:44.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -139,6 +139,28 @@
         "zone": "gb"
       },
       {
+        "title": "Prince William makes surprise appearance on Graham Norton Show",
+        "url": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked.",
+        "publishedAt": "2026-10-22T21:21:22.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Items recovered in search for missing fishing boat and crew",
+        "url": "https://www.bbc.co.uk/news/articles/c6m2dwddl3xlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tam Murray, 40 and Murdo Morrison, 23 remain missing after their vessel disappeared off Lewis and the body of crewmate Douglas Craigie was found at sea.",
+        "publishedAt": "2026-10-22T20:54:02.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
         "url": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -150,35 +172,13 @@
         "zone": "gb"
       },
       {
-        "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-        "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+        "title": "Woman charged after police officer injured in shooting",
+        "url": "https://www.bbc.co.uk/news/articles/c8n5ve5gg35no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
-        "publishedAt": "2026-10-22T15:56:36.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Two storms in two days as Austen and Boelo head for UK",
-        "url": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Met Office has named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend.",
-        "publishedAt": "2026-10-22T10:34:17.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-        "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
-        "publishedAt": "2026-10-22T17:07:03.000Z",
+        "description": "The officer was injured after approaching two people at a bus stop in Nottingham city centre.",
+        "publishedAt": "2026-10-22T19:52:40.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -193,7 +193,7 @@
           "name": "RSS Feed"
         },
         "description": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.",
-        "publishedAt": "2026-10-22T17:46:58.000Z",
+        "publishedAt": "2026-10-22T21:29:44.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -231,6 +231,28 @@
         "zone": "in"
       },
       {
+        "title": "Prince William makes surprise appearance on Graham Norton Show",
+        "url": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked.",
+        "publishedAt": "2026-10-22T21:21:22.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Items recovered in search for missing fishing boat and crew",
+        "url": "https://www.bbc.co.uk/news/articles/c6m2dwddl3xlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tam Murray, 40 and Murdo Morrison, 23 remain missing after their vessel disappeared off Lewis and the body of crewmate Douglas Craigie was found at sea.",
+        "publishedAt": "2026-10-22T20:54:02.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
         "url": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -242,35 +264,13 @@
         "zone": "in"
       },
       {
-        "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-        "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+        "title": "Woman charged after police officer injured in shooting",
+        "url": "https://www.bbc.co.uk/news/articles/c8n5ve5gg35no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
-        "publishedAt": "2026-10-22T15:56:36.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Two storms in two days as Austen and Boelo head for UK",
-        "url": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Met Office has named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend.",
-        "publishedAt": "2026-10-22T10:34:17.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-        "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
-        "publishedAt": "2026-10-22T17:07:03.000Z",
+        "description": "The officer was injured after approaching two people at a bus stop in Nottingham city centre.",
+        "publishedAt": "2026-10-22T19:52:40.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -285,7 +285,7 @@
           "name": "RSS Feed"
         },
         "description": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.",
-        "publishedAt": "2026-10-22T17:46:58.000Z",
+        "publishedAt": "2026-10-22T21:29:44.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -323,6 +323,28 @@
         "zone": "au"
       },
       {
+        "title": "Prince William makes surprise appearance on Graham Norton Show",
+        "url": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked.",
+        "publishedAt": "2026-10-22T21:21:22.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Items recovered in search for missing fishing boat and crew",
+        "url": "https://www.bbc.co.uk/news/articles/c6m2dwddl3xlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tam Murray, 40 and Murdo Morrison, 23 remain missing after their vessel disappeared off Lewis and the body of crewmate Douglas Craigie was found at sea.",
+        "publishedAt": "2026-10-22T20:54:02.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
         "url": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -334,35 +356,13 @@
         "zone": "au"
       },
       {
-        "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-        "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+        "title": "Woman charged after police officer injured in shooting",
+        "url": "https://www.bbc.co.uk/news/articles/c8n5ve5gg35no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
-        "publishedAt": "2026-10-22T15:56:36.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Two storms in two days as Austen and Boelo head for UK",
-        "url": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Met Office has named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend.",
-        "publishedAt": "2026-10-22T10:34:17.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-        "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
-        "publishedAt": "2026-10-22T17:07:03.000Z",
+        "description": "The officer was injured after approaching two people at a bus stop in Nottingham city centre.",
+        "publishedAt": "2026-10-22T19:52:40.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -377,7 +377,7 @@
           "name": "RSS Feed"
         },
         "description": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.",
-        "publishedAt": "2026-10-22T17:46:58.000Z",
+        "publishedAt": "2026-10-22T21:29:44.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -415,6 +415,28 @@
         "zone": "ca"
       },
       {
+        "title": "Prince William makes surprise appearance on Graham Norton Show",
+        "url": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked.",
+        "publishedAt": "2026-10-22T21:21:22.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Items recovered in search for missing fishing boat and crew",
+        "url": "https://www.bbc.co.uk/news/articles/c6m2dwddl3xlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tam Murray, 40 and Murdo Morrison, 23 remain missing after their vessel disappeared off Lewis and the body of crewmate Douglas Craigie was found at sea.",
+        "publishedAt": "2026-10-22T20:54:02.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
         "url": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -426,35 +448,13 @@
         "zone": "ca"
       },
       {
-        "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-        "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+        "title": "Woman charged after police officer injured in shooting",
+        "url": "https://www.bbc.co.uk/news/articles/c8n5ve5gg35no?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
-        "publishedAt": "2026-10-22T15:56:36.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Two storms in two days as Austen and Boelo head for UK",
-        "url": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Met Office has named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend.",
-        "publishedAt": "2026-10-22T10:34:17.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-        "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
-        "publishedAt": "2026-10-22T17:07:03.000Z",
+        "description": "The officer was injured after approaching two people at a bus stop in Nottingham city centre.",
+        "publishedAt": "2026-10-22T19:52:40.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -463,6 +463,17 @@
   "business_us": {
     "articles": [
       {
+        "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+        "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+        "publishedAt": "2026-10-22T18:26:56.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "'I wasn't thinking straight' says five jobs civil servant",
         "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -536,17 +547,6 @@
         },
         "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
         "publishedAt": "2026-10-21T19:54:57.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Is an 'AI war' complicating your job search?",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"?",
-        "publishedAt": "2026-10-22T05:01:31.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,6 +555,17 @@
   "business_gb": {
     "articles": [
       {
+        "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+        "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+        "publishedAt": "2026-10-22T18:26:56.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "'I wasn't thinking straight' says five jobs civil servant",
         "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -628,17 +639,6 @@
         },
         "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
         "publishedAt": "2026-10-21T19:54:57.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Is an 'AI war' complicating your job search?",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"?",
-        "publishedAt": "2026-10-22T05:01:31.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,6 +647,17 @@
   "business_in": {
     "articles": [
       {
+        "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+        "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+        "publishedAt": "2026-10-22T18:26:56.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "'I wasn't thinking straight' says five jobs civil servant",
         "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -720,17 +731,6 @@
         },
         "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
         "publishedAt": "2026-10-21T19:54:57.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Is an 'AI war' complicating your job search?",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"?",
-        "publishedAt": "2026-10-22T05:01:31.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,6 +739,17 @@
   "business_au": {
     "articles": [
       {
+        "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+        "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+        "publishedAt": "2026-10-22T18:26:56.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "'I wasn't thinking straight' says five jobs civil servant",
         "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -812,17 +823,6 @@
         },
         "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
         "publishedAt": "2026-10-21T19:54:57.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Is an 'AI war' complicating your job search?",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"?",
-        "publishedAt": "2026-10-22T05:01:31.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,6 +831,17 @@
   "business_ca": {
     "articles": [
       {
+        "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+        "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+        "publishedAt": "2026-10-22T18:26:56.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "'I wasn't thinking straight' says five jobs civil servant",
         "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -904,17 +915,6 @@
         },
         "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
         "publishedAt": "2026-10-21T19:54:57.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Is an 'AI war' complicating your job search?",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"?",
-        "publishedAt": "2026-10-22T05:01:31.000Z",
         "category": "business",
         "zone": "ca"
       }
@@ -2303,13 +2303,24 @@
   "sports_us": {
     "articles": [
       {
-        "title": "Sri Lanka make 430 to beat England after Brook's 202",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&at_campaign=rss",
+        "title": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Harry Brook’s first double century by an England batter in a one-day international is not enough to prevent his team being stunned by Sri Lanka, who pull off a remarkable chase of 430 in Rawalpindi.",
-        "publishedAt": "2026-10-22T17:31:42.000Z",
+        "description": "Bournemouth's 3-0 win against AC Milan further illustrated the dominance of Premier League sides against their European counterparts.",
+        "publishedAt": "2026-10-22T21:30:31.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Brook underlines status as world's best all-format batter in remarkable defeat",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.",
+        "publishedAt": "2026-10-22T17:52:45.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2336,7 +2347,29 @@
         "zone": "us"
       },
       {
-        "title": "'Something will change' - questions for Australia after South Africa defeat",
+        "title": "Counties interested in Anderson after Lancashire exit",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cm8xz10571lro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "James Anderson will have options to extend his legendary playing career after being told he will not be given a new contract by Lancashire.",
+        "publishedAt": "2026-10-22T21:47:51.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Man Utd chief keen on Howe - Friday's gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c63elp2kz4exo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester United linked with Antonio Conte, Unai Emery, Eddie Howe and Julian Nagelsmann among others if they part ways with manager Michael Carrick.",
+        "publishedAt": "2026-10-22T21:53:52.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "What next for Australia after chastening defeat by South Africa?",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2347,46 +2380,13 @@
         "zone": "us"
       },
       {
-        "title": "Sherrock one of 24 'amateurs' taking on Littler",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/c95ynp3dp8pvo?at_medium=RSS&at_campaign=rss",
+        "title": "Antonelli to 'just have fun' as he aims for title",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cjr4y3y9zy2zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Women's world number three Fallon Sherrock is named among the 24 contestants bidding to beat Luke Littler in a new Netflix special.",
-        "publishedAt": "2026-10-22T16:45:14.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Pacquiao and Cordina agree terms to fight on Fury-Joshua card",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/c34g1wenzg9jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Promoter Eddie Hearn says former world champion Joe Cordina has agreed terms to face boxing great Manny Pacquiao on the Tyson Fury-Anthony Joshua undercard.",
-        "publishedAt": "2026-10-22T18:04:02.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Titans release Elliott for pulling gun in car park",
-        "url": "https://www.bbc.co.uk/sport/american-football/articles/cmwy71d2yzz4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Defensive tackle Jordan Elliott is released by the Tennessee Titans after he pulled a gun in the car park of the team facility.",
-        "publishedAt": "2026-10-22T16:09:03.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Carrick carrying on but senior Man Utd figures concerned by performances",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm1wvl5524rno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "While head coach Michael Carrick is expected to be in charge for Sunday's match against Bournemouth, Manchester United begin the process of identifying possible replacements.",
-        "publishedAt": "2026-10-22T14:04:44.000Z",
+        "description": "Kimi Antonelli says he intends to \"just have fun\" at the United States Grand Prix as he stands on the brink of the Formula 1 World Championship.",
+        "publishedAt": "2026-10-22T20:55:40.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,13 +2395,24 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "Sri Lanka make 430 to beat England after Brook's 202",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&at_campaign=rss",
+        "title": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Harry Brook’s first double century by an England batter in a one-day international is not enough to prevent his team being stunned by Sri Lanka, who pull off a remarkable chase of 430 in Rawalpindi.",
-        "publishedAt": "2026-10-22T17:31:42.000Z",
+        "description": "Bournemouth's 3-0 win against AC Milan further illustrated the dominance of Premier League sides against their European counterparts.",
+        "publishedAt": "2026-10-22T21:30:31.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Brook underlines status as world's best all-format batter in remarkable defeat",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.",
+        "publishedAt": "2026-10-22T17:52:45.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2428,7 +2439,29 @@
         "zone": "gb"
       },
       {
-        "title": "'Something will change' - questions for Australia after South Africa defeat",
+        "title": "Counties interested in Anderson after Lancashire exit",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cm8xz10571lro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "James Anderson will have options to extend his legendary playing career after being told he will not be given a new contract by Lancashire.",
+        "publishedAt": "2026-10-22T21:47:51.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Man Utd chief keen on Howe - Friday's gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c63elp2kz4exo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester United linked with Antonio Conte, Unai Emery, Eddie Howe and Julian Nagelsmann among others if they part ways with manager Michael Carrick.",
+        "publishedAt": "2026-10-22T21:53:52.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "What next for Australia after chastening defeat by South Africa?",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2439,46 +2472,13 @@
         "zone": "gb"
       },
       {
-        "title": "Sherrock one of 24 'amateurs' taking on Littler",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/c95ynp3dp8pvo?at_medium=RSS&at_campaign=rss",
+        "title": "Antonelli to 'just have fun' as he aims for title",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cjr4y3y9zy2zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Women's world number three Fallon Sherrock is named among the 24 contestants bidding to beat Luke Littler in a new Netflix special.",
-        "publishedAt": "2026-10-22T16:45:14.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Pacquiao and Cordina agree terms to fight on Fury-Joshua card",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/c34g1wenzg9jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Promoter Eddie Hearn says former world champion Joe Cordina has agreed terms to face boxing great Manny Pacquiao on the Tyson Fury-Anthony Joshua undercard.",
-        "publishedAt": "2026-10-22T18:04:02.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Titans release Elliott for pulling gun in car park",
-        "url": "https://www.bbc.co.uk/sport/american-football/articles/cmwy71d2yzz4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Defensive tackle Jordan Elliott is released by the Tennessee Titans after he pulled a gun in the car park of the team facility.",
-        "publishedAt": "2026-10-22T16:09:03.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Carrick carrying on but senior Man Utd figures concerned by performances",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm1wvl5524rno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "While head coach Michael Carrick is expected to be in charge for Sunday's match against Bournemouth, Manchester United begin the process of identifying possible replacements.",
-        "publishedAt": "2026-10-22T14:04:44.000Z",
+        "description": "Kimi Antonelli says he intends to \"just have fun\" at the United States Grand Prix as he stands on the brink of the Formula 1 World Championship.",
+        "publishedAt": "2026-10-22T20:55:40.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,13 +2487,24 @@
   "sports_in": {
     "articles": [
       {
-        "title": "Sri Lanka make 430 to beat England after Brook's 202",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&at_campaign=rss",
+        "title": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Harry Brook’s first double century by an England batter in a one-day international is not enough to prevent his team being stunned by Sri Lanka, who pull off a remarkable chase of 430 in Rawalpindi.",
-        "publishedAt": "2026-10-22T17:31:42.000Z",
+        "description": "Bournemouth's 3-0 win against AC Milan further illustrated the dominance of Premier League sides against their European counterparts.",
+        "publishedAt": "2026-10-22T21:30:31.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Brook underlines status as world's best all-format batter in remarkable defeat",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.",
+        "publishedAt": "2026-10-22T17:52:45.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2520,7 +2531,29 @@
         "zone": "in"
       },
       {
-        "title": "'Something will change' - questions for Australia after South Africa defeat",
+        "title": "Counties interested in Anderson after Lancashire exit",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cm8xz10571lro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "James Anderson will have options to extend his legendary playing career after being told he will not be given a new contract by Lancashire.",
+        "publishedAt": "2026-10-22T21:47:51.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Man Utd chief keen on Howe - Friday's gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c63elp2kz4exo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester United linked with Antonio Conte, Unai Emery, Eddie Howe and Julian Nagelsmann among others if they part ways with manager Michael Carrick.",
+        "publishedAt": "2026-10-22T21:53:52.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "What next for Australia after chastening defeat by South Africa?",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2531,46 +2564,13 @@
         "zone": "in"
       },
       {
-        "title": "Sherrock one of 24 'amateurs' taking on Littler",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/c95ynp3dp8pvo?at_medium=RSS&at_campaign=rss",
+        "title": "Antonelli to 'just have fun' as he aims for title",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cjr4y3y9zy2zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Women's world number three Fallon Sherrock is named among the 24 contestants bidding to beat Luke Littler in a new Netflix special.",
-        "publishedAt": "2026-10-22T16:45:14.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Pacquiao and Cordina agree terms to fight on Fury-Joshua card",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/c34g1wenzg9jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Promoter Eddie Hearn says former world champion Joe Cordina has agreed terms to face boxing great Manny Pacquiao on the Tyson Fury-Anthony Joshua undercard.",
-        "publishedAt": "2026-10-22T18:04:02.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Titans release Elliott for pulling gun in car park",
-        "url": "https://www.bbc.co.uk/sport/american-football/articles/cmwy71d2yzz4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Defensive tackle Jordan Elliott is released by the Tennessee Titans after he pulled a gun in the car park of the team facility.",
-        "publishedAt": "2026-10-22T16:09:03.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Carrick carrying on but senior Man Utd figures concerned by performances",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm1wvl5524rno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "While head coach Michael Carrick is expected to be in charge for Sunday's match against Bournemouth, Manchester United begin the process of identifying possible replacements.",
-        "publishedAt": "2026-10-22T14:04:44.000Z",
+        "description": "Kimi Antonelli says he intends to \"just have fun\" at the United States Grand Prix as he stands on the brink of the Formula 1 World Championship.",
+        "publishedAt": "2026-10-22T20:55:40.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,13 +2579,24 @@
   "sports_au": {
     "articles": [
       {
-        "title": "Sri Lanka make 430 to beat England after Brook's 202",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&at_campaign=rss",
+        "title": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Harry Brook’s first double century by an England batter in a one-day international is not enough to prevent his team being stunned by Sri Lanka, who pull off a remarkable chase of 430 in Rawalpindi.",
-        "publishedAt": "2026-10-22T17:31:42.000Z",
+        "description": "Bournemouth's 3-0 win against AC Milan further illustrated the dominance of Premier League sides against their European counterparts.",
+        "publishedAt": "2026-10-22T21:30:31.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Brook underlines status as world's best all-format batter in remarkable defeat",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.",
+        "publishedAt": "2026-10-22T17:52:45.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2612,7 +2623,29 @@
         "zone": "au"
       },
       {
-        "title": "'Something will change' - questions for Australia after South Africa defeat",
+        "title": "Counties interested in Anderson after Lancashire exit",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cm8xz10571lro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "James Anderson will have options to extend his legendary playing career after being told he will not be given a new contract by Lancashire.",
+        "publishedAt": "2026-10-22T21:47:51.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Man Utd chief keen on Howe - Friday's gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c63elp2kz4exo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester United linked with Antonio Conte, Unai Emery, Eddie Howe and Julian Nagelsmann among others if they part ways with manager Michael Carrick.",
+        "publishedAt": "2026-10-22T21:53:52.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "What next for Australia after chastening defeat by South Africa?",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2623,46 +2656,13 @@
         "zone": "au"
       },
       {
-        "title": "Sherrock one of 24 'amateurs' taking on Littler",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/c95ynp3dp8pvo?at_medium=RSS&at_campaign=rss",
+        "title": "Antonelli to 'just have fun' as he aims for title",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cjr4y3y9zy2zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Women's world number three Fallon Sherrock is named among the 24 contestants bidding to beat Luke Littler in a new Netflix special.",
-        "publishedAt": "2026-10-22T16:45:14.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Pacquiao and Cordina agree terms to fight on Fury-Joshua card",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/c34g1wenzg9jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Promoter Eddie Hearn says former world champion Joe Cordina has agreed terms to face boxing great Manny Pacquiao on the Tyson Fury-Anthony Joshua undercard.",
-        "publishedAt": "2026-10-22T18:04:02.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Titans release Elliott for pulling gun in car park",
-        "url": "https://www.bbc.co.uk/sport/american-football/articles/cmwy71d2yzz4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Defensive tackle Jordan Elliott is released by the Tennessee Titans after he pulled a gun in the car park of the team facility.",
-        "publishedAt": "2026-10-22T16:09:03.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Carrick carrying on but senior Man Utd figures concerned by performances",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm1wvl5524rno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "While head coach Michael Carrick is expected to be in charge for Sunday's match against Bournemouth, Manchester United begin the process of identifying possible replacements.",
-        "publishedAt": "2026-10-22T14:04:44.000Z",
+        "description": "Kimi Antonelli says he intends to \"just have fun\" at the United States Grand Prix as he stands on the brink of the Formula 1 World Championship.",
+        "publishedAt": "2026-10-22T20:55:40.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,13 +2671,24 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "Sri Lanka make 430 to beat England after Brook's 202",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&at_campaign=rss",
+        "title": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Harry Brook’s first double century by an England batter in a one-day international is not enough to prevent his team being stunned by Sri Lanka, who pull off a remarkable chase of 430 in Rawalpindi.",
-        "publishedAt": "2026-10-22T17:31:42.000Z",
+        "description": "Bournemouth's 3-0 win against AC Milan further illustrated the dominance of Premier League sides against their European counterparts.",
+        "publishedAt": "2026-10-22T21:30:31.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Brook underlines status as world's best all-format batter in remarkable defeat",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.",
+        "publishedAt": "2026-10-22T17:52:45.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2704,7 +2715,29 @@
         "zone": "ca"
       },
       {
-        "title": "'Something will change' - questions for Australia after South Africa defeat",
+        "title": "Counties interested in Anderson after Lancashire exit",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cm8xz10571lro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "James Anderson will have options to extend his legendary playing career after being told he will not be given a new contract by Lancashire.",
+        "publishedAt": "2026-10-22T21:47:51.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Man Utd chief keen on Howe - Friday's gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c63elp2kz4exo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester United linked with Antonio Conte, Unai Emery, Eddie Howe and Julian Nagelsmann among others if they part ways with manager Michael Carrick.",
+        "publishedAt": "2026-10-22T21:53:52.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "What next for Australia after chastening defeat by South Africa?",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2715,46 +2748,13 @@
         "zone": "ca"
       },
       {
-        "title": "Sherrock one of 24 'amateurs' taking on Littler",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/c95ynp3dp8pvo?at_medium=RSS&at_campaign=rss",
+        "title": "Antonelli to 'just have fun' as he aims for title",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cjr4y3y9zy2zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Women's world number three Fallon Sherrock is named among the 24 contestants bidding to beat Luke Littler in a new Netflix special.",
-        "publishedAt": "2026-10-22T16:45:14.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Pacquiao and Cordina agree terms to fight on Fury-Joshua card",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/c34g1wenzg9jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Promoter Eddie Hearn says former world champion Joe Cordina has agreed terms to face boxing great Manny Pacquiao on the Tyson Fury-Anthony Joshua undercard.",
-        "publishedAt": "2026-10-22T18:04:02.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Titans release Elliott for pulling gun in car park",
-        "url": "https://www.bbc.co.uk/sport/american-football/articles/cmwy71d2yzz4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Defensive tackle Jordan Elliott is released by the Tennessee Titans after he pulled a gun in the car park of the team facility.",
-        "publishedAt": "2026-10-22T16:09:03.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Carrick carrying on but senior Man Utd figures concerned by performances",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm1wvl5524rno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "While head coach Michael Carrick is expected to be in charge for Sunday's match against Bournemouth, Manchester United begin the process of identifying possible replacements.",
-        "publishedAt": "2026-10-22T14:04:44.000Z",
+        "description": "Kimi Antonelli says he intends to \"just have fun\" at the United States Grand Prix as he stands on the brink of the Formula 1 World Championship.",
+        "publishedAt": "2026-10-22T20:55:40.000Z",
         "category": "sports",
         "zone": "ca"
       }
@@ -2763,6 +2763,17 @@
   "technology_us": {
     "articles": [
       {
+        "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+        "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+        "publishedAt": "2026-10-22T18:26:56.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
         "title": "Race to update services' computer systems after cyber-security flaw found",
         "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2770,17 +2781,6 @@
         },
         "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
         "publishedAt": "2026-10-22T17:12:51.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
-        "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-        "publishedAt": "2026-10-22T16:16:49.000Z",
         "category": "technology",
         "zone": "us"
       },
@@ -2855,6 +2855,17 @@
   "technology_gb": {
     "articles": [
       {
+        "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+        "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+        "publishedAt": "2026-10-22T18:26:56.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
         "title": "Race to update services' computer systems after cyber-security flaw found",
         "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2862,17 +2873,6 @@
         },
         "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
         "publishedAt": "2026-10-22T17:12:51.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
-        "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-        "publishedAt": "2026-10-22T16:16:49.000Z",
         "category": "technology",
         "zone": "gb"
       },
@@ -2947,6 +2947,17 @@
   "technology_in": {
     "articles": [
       {
+        "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+        "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+        "publishedAt": "2026-10-22T18:26:56.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
         "title": "Race to update services' computer systems after cyber-security flaw found",
         "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2954,17 +2965,6 @@
         },
         "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
         "publishedAt": "2026-10-22T17:12:51.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
-        "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-        "publishedAt": "2026-10-22T16:16:49.000Z",
         "category": "technology",
         "zone": "in"
       },
@@ -3039,6 +3039,17 @@
   "technology_au": {
     "articles": [
       {
+        "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+        "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+        "publishedAt": "2026-10-22T18:26:56.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
         "title": "Race to update services' computer systems after cyber-security flaw found",
         "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3046,17 +3057,6 @@
         },
         "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
         "publishedAt": "2026-10-22T17:12:51.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
-        "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-        "publishedAt": "2026-10-22T16:16:49.000Z",
         "category": "technology",
         "zone": "au"
       },
@@ -3131,6 +3131,17 @@
   "technology_ca": {
     "articles": [
       {
+        "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+        "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+        "publishedAt": "2026-10-22T18:26:56.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
         "title": "Race to update services' computer systems after cyber-security flaw found",
         "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3138,17 +3149,6 @@
         },
         "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
         "publishedAt": "2026-10-22T17:12:51.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
-        "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-        "publishedAt": "2026-10-22T16:16:49.000Z",
         "category": "technology",
         "zone": "ca"
       },
