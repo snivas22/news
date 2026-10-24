@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-10-24T20:24:41.272Z",
+  "generatedAt": "2026-10-24T22:57:35.560Z",
   "general_us": {
     "articles": [
+      {
+        "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+        "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+        "publishedAt": "2026-10-24T21:09:27.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
         "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
@@ -14,6 +25,17 @@
         "zone": "us"
       },
       {
+        "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+        "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+        "publishedAt": "2026-10-24T22:44:36.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
         "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
         "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -21,17 +43,6 @@
         },
         "description": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
         "publishedAt": "2026-10-24T12:59:49.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
-        "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
-        "publishedAt": "2026-10-24T20:01:23.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -76,17 +87,6 @@
         },
         "description": "With storms hitting parts of the UK and the clocks going back, here are some practical ways to cope with falling temperatures.",
         "publishedAt": "2026-10-23T23:50:45.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Strictly's new presenters - after mixed reviews have they found their feet?",
-        "url": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Josh Widdicombe, Emma Willis and Johannes Radebe have split opinion but are getting into the groove, critics say.",
-        "publishedAt": "2026-10-23T23:15:47.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,6 +95,17 @@
   "general_gb": {
     "articles": [
       {
+        "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+        "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+        "publishedAt": "2026-10-24T21:09:27.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
         "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -106,6 +117,17 @@
         "zone": "gb"
       },
       {
+        "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+        "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+        "publishedAt": "2026-10-24T22:44:36.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
         "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -113,17 +135,6 @@
         },
         "description": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
         "publishedAt": "2026-10-24T12:59:49.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
-        "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
-        "publishedAt": "2026-10-24T20:01:23.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -168,17 +179,6 @@
         },
         "description": "With storms hitting parts of the UK and the clocks going back, here are some practical ways to cope with falling temperatures.",
         "publishedAt": "2026-10-23T23:50:45.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Strictly's new presenters - after mixed reviews have they found their feet?",
-        "url": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Josh Widdicombe, Emma Willis and Johannes Radebe have split opinion but are getting into the groove, critics say.",
-        "publishedAt": "2026-10-23T23:15:47.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,6 +187,17 @@
   "general_in": {
     "articles": [
       {
+        "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+        "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+        "publishedAt": "2026-10-24T21:09:27.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
         "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -198,6 +209,17 @@
         "zone": "in"
       },
       {
+        "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+        "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+        "publishedAt": "2026-10-24T22:44:36.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
         "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -205,17 +227,6 @@
         },
         "description": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
         "publishedAt": "2026-10-24T12:59:49.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
-        "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
-        "publishedAt": "2026-10-24T20:01:23.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -260,17 +271,6 @@
         },
         "description": "With storms hitting parts of the UK and the clocks going back, here are some practical ways to cope with falling temperatures.",
         "publishedAt": "2026-10-23T23:50:45.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Strictly's new presenters - after mixed reviews have they found their feet?",
-        "url": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Josh Widdicombe, Emma Willis and Johannes Radebe have split opinion but are getting into the groove, critics say.",
-        "publishedAt": "2026-10-23T23:15:47.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,6 +279,17 @@
   "general_au": {
     "articles": [
       {
+        "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+        "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+        "publishedAt": "2026-10-24T21:09:27.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
         "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -290,6 +301,17 @@
         "zone": "au"
       },
       {
+        "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+        "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+        "publishedAt": "2026-10-24T22:44:36.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
         "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -297,17 +319,6 @@
         },
         "description": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
         "publishedAt": "2026-10-24T12:59:49.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
-        "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
-        "publishedAt": "2026-10-24T20:01:23.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -352,17 +363,6 @@
         },
         "description": "With storms hitting parts of the UK and the clocks going back, here are some practical ways to cope with falling temperatures.",
         "publishedAt": "2026-10-23T23:50:45.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Strictly's new presenters - after mixed reviews have they found their feet?",
-        "url": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Josh Widdicombe, Emma Willis and Johannes Radebe have split opinion but are getting into the groove, critics say.",
-        "publishedAt": "2026-10-23T23:15:47.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,6 +371,17 @@
   "general_ca": {
     "articles": [
       {
+        "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+        "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+        "publishedAt": "2026-10-24T21:09:27.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
         "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -382,6 +393,17 @@
         "zone": "ca"
       },
       {
+        "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+        "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+        "publishedAt": "2026-10-24T22:44:36.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
         "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -389,17 +411,6 @@
         },
         "description": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
         "publishedAt": "2026-10-24T12:59:49.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
-        "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
-        "publishedAt": "2026-10-24T20:01:23.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -444,17 +455,6 @@
         },
         "description": "With storms hitting parts of the UK and the clocks going back, here are some practical ways to cope with falling temperatures.",
         "publishedAt": "2026-10-23T23:50:45.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Strictly's new presenters - after mixed reviews have they found their feet?",
-        "url": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Josh Widdicombe, Emma Willis and Johannes Radebe have split opinion but are getting into the groove, critics say.",
-        "publishedAt": "2026-10-23T23:15:47.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -2303,6 +2303,72 @@
   "sports_us": {
     "articles": [
       {
+        "title": "The candid meeting that 'changed' Spurs - are they finally on way back?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tottenham end Saturday's Premier League action in 12th place, their highest league position since 2 January. Are they finally on their way back?",
+        "publishedAt": "2026-10-24T21:14:42.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Antonelli takes US pole on weekend he can win title",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqy7lvp7n57lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kimi Antonelli secures pole position for the United States Grand Prix on the weekend on which he can potentially clinch his first world title.",
+        "publishedAt": "2026-10-24T22:51:51.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Man Utd not an unmanageable club - Carrick",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Michael Carrick says it is possible to manage Manchester United effectively as he clings on to his job with Bournemouth visiting Old Trafford on Sunday.",
+        "publishedAt": "2026-10-24T21:34:19.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Britain's Smith retains title in split-decision win over Puello",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cqn73k05xjx6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Britain's Dalton Smith defends his WBC light-welterweight world title with a split-decision victory over Alberto Puello in a triumphant homecoming in Sheffield.",
+        "publishedAt": "2026-10-24T21:44:12.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "'A massive storage of images' - Arteta has technical area receipts",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
+        "publishedAt": "2026-10-24T17:59:48.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester City's 100% winning start to the Premier League season comes to an abrupt end against Aston Villa - leaving Enzo Maresca with glaring defensive issues to resolve.",
+        "publishedAt": "2026-10-24T15:05:45.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
         "url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2321,72 +2387,6 @@
         },
         "description": "Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City.",
         "publishedAt": "2026-10-24T18:59:30.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Jackson scores twice as Aston Villa end Man City's perfect start",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park to end their 100% start to the Premier League season.",
-        "publishedAt": "2026-10-24T18:59:27.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Bobb's late strike secures Fulham win at Coventry",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpmrzr04do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Fulham's Oscar Bobb scores in the 80th minute against Coventry to earn back-to-back victories in the Premier League.",
-        "publishedAt": "2026-10-24T18:59:22.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players.",
-        "publishedAt": "2026-10-24T18:26:29.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Manchester City's 100% winning start to the Premier League season comes to an abrupt end against Aston Villa - leaving Enzo Maresca with glaring defensive issues to resolve.",
-        "publishedAt": "2026-10-24T15:05:45.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "'A massive storage of images': Arteta has technical area receipts",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
-        "publishedAt": "2026-10-24T17:59:48.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Hayen sacked by Burnley after just 14 games",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm4gv830j73do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor start to the season.",
-        "publishedAt": "2026-10-24T19:01:03.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,6 +2395,72 @@
   "sports_gb": {
     "articles": [
       {
+        "title": "The candid meeting that 'changed' Spurs - are they finally on way back?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tottenham end Saturday's Premier League action in 12th place, their highest league position since 2 January. Are they finally on their way back?",
+        "publishedAt": "2026-10-24T21:14:42.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Antonelli takes US pole on weekend he can win title",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqy7lvp7n57lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kimi Antonelli secures pole position for the United States Grand Prix on the weekend on which he can potentially clinch his first world title.",
+        "publishedAt": "2026-10-24T22:51:51.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Man Utd not an unmanageable club - Carrick",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Michael Carrick says it is possible to manage Manchester United effectively as he clings on to his job with Bournemouth visiting Old Trafford on Sunday.",
+        "publishedAt": "2026-10-24T21:34:19.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Britain's Smith retains title in split-decision win over Puello",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cqn73k05xjx6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Britain's Dalton Smith defends his WBC light-welterweight world title with a split-decision victory over Alberto Puello in a triumphant homecoming in Sheffield.",
+        "publishedAt": "2026-10-24T21:44:12.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "'A massive storage of images' - Arteta has technical area receipts",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
+        "publishedAt": "2026-10-24T17:59:48.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester City's 100% winning start to the Premier League season comes to an abrupt end against Aston Villa - leaving Enzo Maresca with glaring defensive issues to resolve.",
+        "publishedAt": "2026-10-24T15:05:45.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
         "url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2413,72 +2479,6 @@
         },
         "description": "Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City.",
         "publishedAt": "2026-10-24T18:59:30.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Jackson scores twice as Aston Villa end Man City's perfect start",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park to end their 100% start to the Premier League season.",
-        "publishedAt": "2026-10-24T18:59:27.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Bobb's late strike secures Fulham win at Coventry",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpmrzr04do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Fulham's Oscar Bobb scores in the 80th minute against Coventry to earn back-to-back victories in the Premier League.",
-        "publishedAt": "2026-10-24T18:59:22.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players.",
-        "publishedAt": "2026-10-24T18:26:29.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Manchester City's 100% winning start to the Premier League season comes to an abrupt end against Aston Villa - leaving Enzo Maresca with glaring defensive issues to resolve.",
-        "publishedAt": "2026-10-24T15:05:45.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "'A massive storage of images': Arteta has technical area receipts",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
-        "publishedAt": "2026-10-24T17:59:48.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Hayen sacked by Burnley after just 14 games",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm4gv830j73do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor start to the season.",
-        "publishedAt": "2026-10-24T19:01:03.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,6 +2487,72 @@
   "sports_in": {
     "articles": [
       {
+        "title": "The candid meeting that 'changed' Spurs - are they finally on way back?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tottenham end Saturday's Premier League action in 12th place, their highest league position since 2 January. Are they finally on their way back?",
+        "publishedAt": "2026-10-24T21:14:42.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Antonelli takes US pole on weekend he can win title",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqy7lvp7n57lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kimi Antonelli secures pole position for the United States Grand Prix on the weekend on which he can potentially clinch his first world title.",
+        "publishedAt": "2026-10-24T22:51:51.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Man Utd not an unmanageable club - Carrick",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Michael Carrick says it is possible to manage Manchester United effectively as he clings on to his job with Bournemouth visiting Old Trafford on Sunday.",
+        "publishedAt": "2026-10-24T21:34:19.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Britain's Smith retains title in split-decision win over Puello",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cqn73k05xjx6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Britain's Dalton Smith defends his WBC light-welterweight world title with a split-decision victory over Alberto Puello in a triumphant homecoming in Sheffield.",
+        "publishedAt": "2026-10-24T21:44:12.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "'A massive storage of images' - Arteta has technical area receipts",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
+        "publishedAt": "2026-10-24T17:59:48.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester City's 100% winning start to the Premier League season comes to an abrupt end against Aston Villa - leaving Enzo Maresca with glaring defensive issues to resolve.",
+        "publishedAt": "2026-10-24T15:05:45.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
         "url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2505,72 +2571,6 @@
         },
         "description": "Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City.",
         "publishedAt": "2026-10-24T18:59:30.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Jackson scores twice as Aston Villa end Man City's perfect start",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park to end their 100% start to the Premier League season.",
-        "publishedAt": "2026-10-24T18:59:27.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Bobb's late strike secures Fulham win at Coventry",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpmrzr04do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Fulham's Oscar Bobb scores in the 80th minute against Coventry to earn back-to-back victories in the Premier League.",
-        "publishedAt": "2026-10-24T18:59:22.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players.",
-        "publishedAt": "2026-10-24T18:26:29.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Manchester City's 100% winning start to the Premier League season comes to an abrupt end against Aston Villa - leaving Enzo Maresca with glaring defensive issues to resolve.",
-        "publishedAt": "2026-10-24T15:05:45.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "'A massive storage of images': Arteta has technical area receipts",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
-        "publishedAt": "2026-10-24T17:59:48.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Hayen sacked by Burnley after just 14 games",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm4gv830j73do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor start to the season.",
-        "publishedAt": "2026-10-24T19:01:03.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,6 +2579,72 @@
   "sports_au": {
     "articles": [
       {
+        "title": "The candid meeting that 'changed' Spurs - are they finally on way back?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tottenham end Saturday's Premier League action in 12th place, their highest league position since 2 January. Are they finally on their way back?",
+        "publishedAt": "2026-10-24T21:14:42.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Antonelli takes US pole on weekend he can win title",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqy7lvp7n57lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kimi Antonelli secures pole position for the United States Grand Prix on the weekend on which he can potentially clinch his first world title.",
+        "publishedAt": "2026-10-24T22:51:51.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Man Utd not an unmanageable club - Carrick",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Michael Carrick says it is possible to manage Manchester United effectively as he clings on to his job with Bournemouth visiting Old Trafford on Sunday.",
+        "publishedAt": "2026-10-24T21:34:19.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Britain's Smith retains title in split-decision win over Puello",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cqn73k05xjx6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Britain's Dalton Smith defends his WBC light-welterweight world title with a split-decision victory over Alberto Puello in a triumphant homecoming in Sheffield.",
+        "publishedAt": "2026-10-24T21:44:12.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "'A massive storage of images' - Arteta has technical area receipts",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
+        "publishedAt": "2026-10-24T17:59:48.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester City's 100% winning start to the Premier League season comes to an abrupt end against Aston Villa - leaving Enzo Maresca with glaring defensive issues to resolve.",
+        "publishedAt": "2026-10-24T15:05:45.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
         "url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2597,72 +2663,6 @@
         },
         "description": "Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City.",
         "publishedAt": "2026-10-24T18:59:30.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Jackson scores twice as Aston Villa end Man City's perfect start",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park to end their 100% start to the Premier League season.",
-        "publishedAt": "2026-10-24T18:59:27.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Bobb's late strike secures Fulham win at Coventry",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpmrzr04do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Fulham's Oscar Bobb scores in the 80th minute against Coventry to earn back-to-back victories in the Premier League.",
-        "publishedAt": "2026-10-24T18:59:22.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players.",
-        "publishedAt": "2026-10-24T18:26:29.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Manchester City's 100% winning start to the Premier League season comes to an abrupt end against Aston Villa - leaving Enzo Maresca with glaring defensive issues to resolve.",
-        "publishedAt": "2026-10-24T15:05:45.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "'A massive storage of images': Arteta has technical area receipts",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
-        "publishedAt": "2026-10-24T17:59:48.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Hayen sacked by Burnley after just 14 games",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm4gv830j73do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor start to the season.",
-        "publishedAt": "2026-10-24T19:01:03.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,6 +2671,72 @@
   "sports_ca": {
     "articles": [
       {
+        "title": "The candid meeting that 'changed' Spurs - are they finally on way back?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tottenham end Saturday's Premier League action in 12th place, their highest league position since 2 January. Are they finally on their way back?",
+        "publishedAt": "2026-10-24T21:14:42.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Antonelli takes US pole on weekend he can win title",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqy7lvp7n57lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kimi Antonelli secures pole position for the United States Grand Prix on the weekend on which he can potentially clinch his first world title.",
+        "publishedAt": "2026-10-24T22:51:51.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Man Utd not an unmanageable club - Carrick",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Michael Carrick says it is possible to manage Manchester United effectively as he clings on to his job with Bournemouth visiting Old Trafford on Sunday.",
+        "publishedAt": "2026-10-24T21:34:19.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Britain's Smith retains title in split-decision win over Puello",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cqn73k05xjx6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Britain's Dalton Smith defends his WBC light-welterweight world title with a split-decision victory over Alberto Puello in a triumphant homecoming in Sheffield.",
+        "publishedAt": "2026-10-24T21:44:12.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "'A massive storage of images' - Arteta has technical area receipts",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
+        "publishedAt": "2026-10-24T17:59:48.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester City's 100% winning start to the Premier League season comes to an abrupt end against Aston Villa - leaving Enzo Maresca with glaring defensive issues to resolve.",
+        "publishedAt": "2026-10-24T15:05:45.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
         "url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2689,72 +2755,6 @@
         },
         "description": "Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City.",
         "publishedAt": "2026-10-24T18:59:30.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Jackson scores twice as Aston Villa end Man City's perfect start",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park to end their 100% start to the Premier League season.",
-        "publishedAt": "2026-10-24T18:59:27.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Bobb's late strike secures Fulham win at Coventry",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpmrzr04do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Fulham's Oscar Bobb scores in the 80th minute against Coventry to earn back-to-back victories in the Premier League.",
-        "publishedAt": "2026-10-24T18:59:22.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players.",
-        "publishedAt": "2026-10-24T18:26:29.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Manchester City's 100% winning start to the Premier League season comes to an abrupt end against Aston Villa - leaving Enzo Maresca with glaring defensive issues to resolve.",
-        "publishedAt": "2026-10-24T15:05:45.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "'A massive storage of images': Arteta has technical area receipts",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
-        "publishedAt": "2026-10-24T17:59:48.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Hayen sacked by Burnley after just 14 games",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm4gv830j73do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor start to the season.",
-        "publishedAt": "2026-10-24T19:01:03.000Z",
         "category": "sports",
         "zone": "ca"
       }
