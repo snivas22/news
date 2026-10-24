@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-10-24T17:55:32.308Z",
+  "generatedAt": "2026-10-24T20:24:41.272Z",
   "general_us": {
     "articles": [
+      {
+        "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+        "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+        "publishedAt": "2026-10-24T19:37:35.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
         "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
@@ -14,24 +25,13 @@
         "zone": "us"
       },
       {
-        "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
+        "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
         "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
-        "publishedAt": "2026-10-24T15:13:40.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Between quick wins and big dreams lies Burnham's biggest test",
-        "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
-        "publishedAt": "2026-10-24T11:03:57.000Z",
+        "publishedAt": "2026-10-24T20:01:23.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -47,24 +47,24 @@
         "zone": "us"
       },
       {
-        "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+        "title": "Between quick wins and big dreams lies Burnham's biggest test",
+        "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
+        "publishedAt": "2026-10-24T11:03:57.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
         "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
         "publishedAt": "2026-10-24T17:21:42.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.",
-        "publishedAt": "2026-10-24T10:30:08.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -95,6 +95,17 @@
   "general_gb": {
     "articles": [
       {
+        "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+        "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+        "publishedAt": "2026-10-24T19:37:35.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
         "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -106,24 +117,13 @@
         "zone": "gb"
       },
       {
-        "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
+        "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
         "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
-        "publishedAt": "2026-10-24T15:13:40.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Between quick wins and big dreams lies Burnham's biggest test",
-        "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
-        "publishedAt": "2026-10-24T11:03:57.000Z",
+        "publishedAt": "2026-10-24T20:01:23.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -139,24 +139,24 @@
         "zone": "gb"
       },
       {
-        "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+        "title": "Between quick wins and big dreams lies Burnham's biggest test",
+        "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
+        "publishedAt": "2026-10-24T11:03:57.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
         "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
         "publishedAt": "2026-10-24T17:21:42.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.",
-        "publishedAt": "2026-10-24T10:30:08.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -187,6 +187,17 @@
   "general_in": {
     "articles": [
       {
+        "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+        "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+        "publishedAt": "2026-10-24T19:37:35.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
         "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -198,24 +209,13 @@
         "zone": "in"
       },
       {
-        "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
+        "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
         "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
-        "publishedAt": "2026-10-24T15:13:40.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Between quick wins and big dreams lies Burnham's biggest test",
-        "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
-        "publishedAt": "2026-10-24T11:03:57.000Z",
+        "publishedAt": "2026-10-24T20:01:23.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -231,24 +231,24 @@
         "zone": "in"
       },
       {
-        "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+        "title": "Between quick wins and big dreams lies Burnham's biggest test",
+        "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
+        "publishedAt": "2026-10-24T11:03:57.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
         "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
         "publishedAt": "2026-10-24T17:21:42.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.",
-        "publishedAt": "2026-10-24T10:30:08.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -279,6 +279,17 @@
   "general_au": {
     "articles": [
       {
+        "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+        "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+        "publishedAt": "2026-10-24T19:37:35.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
         "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -290,24 +301,13 @@
         "zone": "au"
       },
       {
-        "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
+        "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
         "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
-        "publishedAt": "2026-10-24T15:13:40.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Between quick wins and big dreams lies Burnham's biggest test",
-        "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
-        "publishedAt": "2026-10-24T11:03:57.000Z",
+        "publishedAt": "2026-10-24T20:01:23.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -323,24 +323,24 @@
         "zone": "au"
       },
       {
-        "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+        "title": "Between quick wins and big dreams lies Burnham's biggest test",
+        "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
+        "publishedAt": "2026-10-24T11:03:57.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
         "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
         "publishedAt": "2026-10-24T17:21:42.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.",
-        "publishedAt": "2026-10-24T10:30:08.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -371,6 +371,17 @@
   "general_ca": {
     "articles": [
       {
+        "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+        "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+        "publishedAt": "2026-10-24T19:37:35.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
         "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -382,24 +393,13 @@
         "zone": "ca"
       },
       {
-        "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
+        "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
         "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
-        "publishedAt": "2026-10-24T15:13:40.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Between quick wins and big dreams lies Burnham's biggest test",
-        "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
-        "publishedAt": "2026-10-24T11:03:57.000Z",
+        "publishedAt": "2026-10-24T20:01:23.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -415,24 +415,24 @@
         "zone": "ca"
       },
       {
-        "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+        "title": "Between quick wins and big dreams lies Burnham's biggest test",
+        "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
+        "publishedAt": "2026-10-24T11:03:57.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
         "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
         "publishedAt": "2026-10-24T17:21:42.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.",
-        "publishedAt": "2026-10-24T10:30:08.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -2303,7 +2303,62 @@
   "sports_us": {
     "articles": [
       {
-        "title": "Donnarumma & Guehi highlight Man City issues as solid Arsenal move level",
+        "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tottenham claim just their second victory over Chelsea at Stamford Bridge in 36 years, winning 2-0 as the hosts finish with 10 men after a red card for Cole Palmer.",
+        "publishedAt": "2026-10-24T19:17:06.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Arsenal beat Everton to go level on points with leaders Man City",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City.",
+        "publishedAt": "2026-10-24T18:59:30.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Jackson scores twice as Aston Villa end Man City's perfect start",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park to end their 100% start to the Premier League season.",
+        "publishedAt": "2026-10-24T18:59:27.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Bobb's late strike secures Fulham win at Coventry",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpmrzr04do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fulham's Oscar Bobb scores in the 80th minute against Coventry to earn back-to-back victories in the Premier League.",
+        "publishedAt": "2026-10-24T18:59:22.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players.",
+        "publishedAt": "2026-10-24T18:26:29.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
         "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2314,24 +2369,13 @@
         "zone": "us"
       },
       {
-        "title": "From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6p9gkdzzpnro?at_medium=RSS&at_campaign=rss",
+        "title": "'A massive storage of images': Arteta has technical area receipts",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Nicolas Jackson continues an excellent start to his Aston Villa career with a match-winning double against Manchester City.",
-        "publishedAt": "2026-10-24T16:58:27.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Arsenal relieve pressure with Spurs win - can they kick on now?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm93zw44d33do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Arsenal end their five-match winless run in the Women's Super League with victory at Tottenham - but can they kick on now?",
-        "publishedAt": "2026-10-24T15:40:01.000Z",
+        "description": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
+        "publishedAt": "2026-10-24T17:59:48.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2342,51 +2386,7 @@
           "name": "RSS Feed"
         },
         "description": "Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor start to the season.",
-        "publishedAt": "2026-10-24T17:52:22.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "68-point swing and a Tonga win - how England avoid World Cup exit",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6wyvpz0epywo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England need a few things to go their way next weekend to stay in the Men's Rugby League World Cup - but they have at least given themselves a chance.",
-        "publishedAt": "2026-10-24T13:12:45.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Jarman makes British gymnastics history with World floor silver",
-        "url": "https://www.bbc.co.uk/sport/gymnastics/videos/c6zxjpv95ey8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Great Britain's Jake Jarman said he was \"super happy\" after claiming silver in the men's floor final at the World Gymnastics Championships. Jarman becomes the most decorated British athlete on the floor apparatus.",
-        "publishedAt": "2026-10-24T15:14:14.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Arsenal fight back to beat Tottenham and ease pressure on Slegers",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cmy0r7epegd4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alessia Russo scores a controversial penalty as Arsenal come from behind to beat local rivals Tottenham Hotspur 2-1 to secure just their second win of the season in the Women's Super League, and ease the pressure on manager Renee Slegers.",
-        "publishedAt": "2026-10-24T14:20:04.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "'It's harsh' - was Arsenal's winning penalty a controversial decision?",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cw62ylp68m4po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Following Arsenal's 2-1 win at rivals Tottenham Hotspur, former England footballers Ellen White, Fara Williams and Alex Scott discuss whether the away side were fortunate to be given a penalty, which proved to be the winning moment for Arsenal.",
-        "publishedAt": "2026-10-24T15:03:37.000Z",
+        "publishedAt": "2026-10-24T19:01:03.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,7 +2395,62 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "Donnarumma & Guehi highlight Man City issues as solid Arsenal move level",
+        "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tottenham claim just their second victory over Chelsea at Stamford Bridge in 36 years, winning 2-0 as the hosts finish with 10 men after a red card for Cole Palmer.",
+        "publishedAt": "2026-10-24T19:17:06.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Arsenal beat Everton to go level on points with leaders Man City",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City.",
+        "publishedAt": "2026-10-24T18:59:30.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Jackson scores twice as Aston Villa end Man City's perfect start",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park to end their 100% start to the Premier League season.",
+        "publishedAt": "2026-10-24T18:59:27.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Bobb's late strike secures Fulham win at Coventry",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpmrzr04do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fulham's Oscar Bobb scores in the 80th minute against Coventry to earn back-to-back victories in the Premier League.",
+        "publishedAt": "2026-10-24T18:59:22.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players.",
+        "publishedAt": "2026-10-24T18:26:29.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
         "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2406,24 +2461,13 @@
         "zone": "gb"
       },
       {
-        "title": "From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6p9gkdzzpnro?at_medium=RSS&at_campaign=rss",
+        "title": "'A massive storage of images': Arteta has technical area receipts",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Nicolas Jackson continues an excellent start to his Aston Villa career with a match-winning double against Manchester City.",
-        "publishedAt": "2026-10-24T16:58:27.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Arsenal relieve pressure with Spurs win - can they kick on now?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm93zw44d33do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Arsenal end their five-match winless run in the Women's Super League with victory at Tottenham - but can they kick on now?",
-        "publishedAt": "2026-10-24T15:40:01.000Z",
+        "description": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
+        "publishedAt": "2026-10-24T17:59:48.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2434,51 +2478,7 @@
           "name": "RSS Feed"
         },
         "description": "Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor start to the season.",
-        "publishedAt": "2026-10-24T17:52:22.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "68-point swing and a Tonga win - how England avoid World Cup exit",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6wyvpz0epywo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England need a few things to go their way next weekend to stay in the Men's Rugby League World Cup - but they have at least given themselves a chance.",
-        "publishedAt": "2026-10-24T13:12:45.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Jarman makes British gymnastics history with World floor silver",
-        "url": "https://www.bbc.co.uk/sport/gymnastics/videos/c6zxjpv95ey8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Great Britain's Jake Jarman said he was \"super happy\" after claiming silver in the men's floor final at the World Gymnastics Championships. Jarman becomes the most decorated British athlete on the floor apparatus.",
-        "publishedAt": "2026-10-24T15:14:14.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Arsenal fight back to beat Tottenham and ease pressure on Slegers",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cmy0r7epegd4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alessia Russo scores a controversial penalty as Arsenal come from behind to beat local rivals Tottenham Hotspur 2-1 to secure just their second win of the season in the Women's Super League, and ease the pressure on manager Renee Slegers.",
-        "publishedAt": "2026-10-24T14:20:04.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "'It's harsh' - was Arsenal's winning penalty a controversial decision?",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cw62ylp68m4po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Following Arsenal's 2-1 win at rivals Tottenham Hotspur, former England footballers Ellen White, Fara Williams and Alex Scott discuss whether the away side were fortunate to be given a penalty, which proved to be the winning moment for Arsenal.",
-        "publishedAt": "2026-10-24T15:03:37.000Z",
+        "publishedAt": "2026-10-24T19:01:03.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,7 +2487,62 @@
   "sports_in": {
     "articles": [
       {
-        "title": "Donnarumma & Guehi highlight Man City issues as solid Arsenal move level",
+        "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tottenham claim just their second victory over Chelsea at Stamford Bridge in 36 years, winning 2-0 as the hosts finish with 10 men after a red card for Cole Palmer.",
+        "publishedAt": "2026-10-24T19:17:06.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Arsenal beat Everton to go level on points with leaders Man City",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City.",
+        "publishedAt": "2026-10-24T18:59:30.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Jackson scores twice as Aston Villa end Man City's perfect start",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park to end their 100% start to the Premier League season.",
+        "publishedAt": "2026-10-24T18:59:27.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Bobb's late strike secures Fulham win at Coventry",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpmrzr04do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fulham's Oscar Bobb scores in the 80th minute against Coventry to earn back-to-back victories in the Premier League.",
+        "publishedAt": "2026-10-24T18:59:22.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players.",
+        "publishedAt": "2026-10-24T18:26:29.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
         "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2498,24 +2553,13 @@
         "zone": "in"
       },
       {
-        "title": "From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6p9gkdzzpnro?at_medium=RSS&at_campaign=rss",
+        "title": "'A massive storage of images': Arteta has technical area receipts",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Nicolas Jackson continues an excellent start to his Aston Villa career with a match-winning double against Manchester City.",
-        "publishedAt": "2026-10-24T16:58:27.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Arsenal relieve pressure with Spurs win - can they kick on now?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm93zw44d33do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Arsenal end their five-match winless run in the Women's Super League with victory at Tottenham - but can they kick on now?",
-        "publishedAt": "2026-10-24T15:40:01.000Z",
+        "description": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
+        "publishedAt": "2026-10-24T17:59:48.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2526,51 +2570,7 @@
           "name": "RSS Feed"
         },
         "description": "Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor start to the season.",
-        "publishedAt": "2026-10-24T17:52:22.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "68-point swing and a Tonga win - how England avoid World Cup exit",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6wyvpz0epywo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England need a few things to go their way next weekend to stay in the Men's Rugby League World Cup - but they have at least given themselves a chance.",
-        "publishedAt": "2026-10-24T13:12:45.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Jarman makes British gymnastics history with World floor silver",
-        "url": "https://www.bbc.co.uk/sport/gymnastics/videos/c6zxjpv95ey8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Great Britain's Jake Jarman said he was \"super happy\" after claiming silver in the men's floor final at the World Gymnastics Championships. Jarman becomes the most decorated British athlete on the floor apparatus.",
-        "publishedAt": "2026-10-24T15:14:14.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Arsenal fight back to beat Tottenham and ease pressure on Slegers",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cmy0r7epegd4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alessia Russo scores a controversial penalty as Arsenal come from behind to beat local rivals Tottenham Hotspur 2-1 to secure just their second win of the season in the Women's Super League, and ease the pressure on manager Renee Slegers.",
-        "publishedAt": "2026-10-24T14:20:04.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "'It's harsh' - was Arsenal's winning penalty a controversial decision?",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cw62ylp68m4po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Following Arsenal's 2-1 win at rivals Tottenham Hotspur, former England footballers Ellen White, Fara Williams and Alex Scott discuss whether the away side were fortunate to be given a penalty, which proved to be the winning moment for Arsenal.",
-        "publishedAt": "2026-10-24T15:03:37.000Z",
+        "publishedAt": "2026-10-24T19:01:03.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,7 +2579,62 @@
   "sports_au": {
     "articles": [
       {
-        "title": "Donnarumma & Guehi highlight Man City issues as solid Arsenal move level",
+        "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tottenham claim just their second victory over Chelsea at Stamford Bridge in 36 years, winning 2-0 as the hosts finish with 10 men after a red card for Cole Palmer.",
+        "publishedAt": "2026-10-24T19:17:06.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Arsenal beat Everton to go level on points with leaders Man City",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City.",
+        "publishedAt": "2026-10-24T18:59:30.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Jackson scores twice as Aston Villa end Man City's perfect start",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park to end their 100% start to the Premier League season.",
+        "publishedAt": "2026-10-24T18:59:27.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Bobb's late strike secures Fulham win at Coventry",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpmrzr04do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fulham's Oscar Bobb scores in the 80th minute against Coventry to earn back-to-back victories in the Premier League.",
+        "publishedAt": "2026-10-24T18:59:22.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players.",
+        "publishedAt": "2026-10-24T18:26:29.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
         "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2590,24 +2645,13 @@
         "zone": "au"
       },
       {
-        "title": "From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6p9gkdzzpnro?at_medium=RSS&at_campaign=rss",
+        "title": "'A massive storage of images': Arteta has technical area receipts",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Nicolas Jackson continues an excellent start to his Aston Villa career with a match-winning double against Manchester City.",
-        "publishedAt": "2026-10-24T16:58:27.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Arsenal relieve pressure with Spurs win - can they kick on now?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm93zw44d33do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Arsenal end their five-match winless run in the Women's Super League with victory at Tottenham - but can they kick on now?",
-        "publishedAt": "2026-10-24T15:40:01.000Z",
+        "description": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
+        "publishedAt": "2026-10-24T17:59:48.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2618,51 +2662,7 @@
           "name": "RSS Feed"
         },
         "description": "Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor start to the season.",
-        "publishedAt": "2026-10-24T17:52:22.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "68-point swing and a Tonga win - how England avoid World Cup exit",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6wyvpz0epywo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England need a few things to go their way next weekend to stay in the Men's Rugby League World Cup - but they have at least given themselves a chance.",
-        "publishedAt": "2026-10-24T13:12:45.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Jarman makes British gymnastics history with World floor silver",
-        "url": "https://www.bbc.co.uk/sport/gymnastics/videos/c6zxjpv95ey8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Great Britain's Jake Jarman said he was \"super happy\" after claiming silver in the men's floor final at the World Gymnastics Championships. Jarman becomes the most decorated British athlete on the floor apparatus.",
-        "publishedAt": "2026-10-24T15:14:14.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Arsenal fight back to beat Tottenham and ease pressure on Slegers",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cmy0r7epegd4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alessia Russo scores a controversial penalty as Arsenal come from behind to beat local rivals Tottenham Hotspur 2-1 to secure just their second win of the season in the Women's Super League, and ease the pressure on manager Renee Slegers.",
-        "publishedAt": "2026-10-24T14:20:04.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "'It's harsh' - was Arsenal's winning penalty a controversial decision?",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cw62ylp68m4po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Following Arsenal's 2-1 win at rivals Tottenham Hotspur, former England footballers Ellen White, Fara Williams and Alex Scott discuss whether the away side were fortunate to be given a penalty, which proved to be the winning moment for Arsenal.",
-        "publishedAt": "2026-10-24T15:03:37.000Z",
+        "publishedAt": "2026-10-24T19:01:03.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,7 +2671,62 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "Donnarumma & Guehi highlight Man City issues as solid Arsenal move level",
+        "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Tottenham claim just their second victory over Chelsea at Stamford Bridge in 36 years, winning 2-0 as the hosts finish with 10 men after a red card for Cole Palmer.",
+        "publishedAt": "2026-10-24T19:17:06.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Arsenal beat Everton to go level on points with leaders Man City",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City.",
+        "publishedAt": "2026-10-24T18:59:30.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Jackson scores twice as Aston Villa end Man City's perfect start",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park to end their 100% start to the Premier League season.",
+        "publishedAt": "2026-10-24T18:59:27.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Bobb's late strike secures Fulham win at Coventry",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpmrzr04do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Fulham's Oscar Bobb scores in the 80th minute against Coventry to earn back-to-back victories in the Premier League.",
+        "publishedAt": "2026-10-24T18:59:22.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players.",
+        "publishedAt": "2026-10-24T18:26:29.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
         "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -2682,24 +2737,13 @@
         "zone": "ca"
       },
       {
-        "title": "From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6p9gkdzzpnro?at_medium=RSS&at_campaign=rss",
+        "title": "'A massive storage of images': Arteta has technical area receipts",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Nicolas Jackson continues an excellent start to his Aston Villa career with a match-winning double against Manchester City.",
-        "publishedAt": "2026-10-24T16:58:27.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Arsenal relieve pressure with Spurs win - can they kick on now?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm93zw44d33do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Arsenal end their five-match winless run in the Women's Super League with victory at Tottenham - but can they kick on now?",
-        "publishedAt": "2026-10-24T15:40:01.000Z",
+        "description": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
+        "publishedAt": "2026-10-24T17:59:48.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2710,51 +2754,7 @@
           "name": "RSS Feed"
         },
         "description": "Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor start to the season.",
-        "publishedAt": "2026-10-24T17:52:22.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "68-point swing and a Tonga win - how England avoid World Cup exit",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6wyvpz0epywo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England need a few things to go their way next weekend to stay in the Men's Rugby League World Cup - but they have at least given themselves a chance.",
-        "publishedAt": "2026-10-24T13:12:45.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Jarman makes British gymnastics history with World floor silver",
-        "url": "https://www.bbc.co.uk/sport/gymnastics/videos/c6zxjpv95ey8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Great Britain's Jake Jarman said he was \"super happy\" after claiming silver in the men's floor final at the World Gymnastics Championships. Jarman becomes the most decorated British athlete on the floor apparatus.",
-        "publishedAt": "2026-10-24T15:14:14.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Arsenal fight back to beat Tottenham and ease pressure on Slegers",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cmy0r7epegd4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Alessia Russo scores a controversial penalty as Arsenal come from behind to beat local rivals Tottenham Hotspur 2-1 to secure just their second win of the season in the Women's Super League, and ease the pressure on manager Renee Slegers.",
-        "publishedAt": "2026-10-24T14:20:04.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "'It's harsh' - was Arsenal's winning penalty a controversial decision?",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cw62ylp68m4po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Following Arsenal's 2-1 win at rivals Tottenham Hotspur, former England footballers Ellen White, Fara Williams and Alex Scott discuss whether the away side were fortunate to be given a penalty, which proved to be the winning moment for Arsenal.",
-        "publishedAt": "2026-10-24T15:03:37.000Z",
+        "publishedAt": "2026-10-24T19:01:03.000Z",
         "category": "sports",
         "zone": "ca"
       }
