@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-10-25T18:13:34.604Z",
+  "generatedAt": "2026-10-25T21:30:43.156Z",
   "general_us": {
     "articles": [
+      {
+        "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
+        "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
+        "publishedAt": "2026-10-25T21:30:15.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "Burnham open to 'honest discussion' on EU free movement",
         "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
@@ -14,13 +25,46 @@
         "zone": "us"
       },
       {
+        "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
+        "url": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
+        "publishedAt": "2026-10-25T18:38:17.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Serbia's Vučić concedes election defeat to student-led protest movement",
+        "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The country's populist right-wing leader of 12 years says it is \"clear\" his Serbian Progressive Party has lost.",
+        "publishedAt": "2026-10-25T21:25:04.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
         "title": "Venezuelan opposition leader María Machado returns after months in exile",
         "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-        "publishedAt": "2026-10-25T16:21:40.000Z",
+        "publishedAt": "2026-10-25T18:29:00.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Board of Deputies of British Jews declares Greens to be racist party",
+        "url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
+        "publishedAt": "2026-10-25T18:05:17.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -43,50 +87,6 @@
         },
         "description": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
         "publishedAt": "2026-10-25T16:51:48.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Board of Deputies of British Jews declares Greens to be racist party",
-        "url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
-        "publishedAt": "2026-10-25T18:05:17.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Why the charts are full of old songs - and so are your playlists",
-        "url": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The chart is full of old music and classic songs are dominating streaming services. But why?",
-        "publishedAt": "2026-10-24T23:05:41.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Early reports suggest record high turnout in Serbia elections",
-        "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-        "publishedAt": "2026-10-25T16:05:15.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-        "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
-        "publishedAt": "2026-10-25T15:32:51.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,6 +95,17 @@
   "general_gb": {
     "articles": [
       {
+        "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
+        "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
+        "publishedAt": "2026-10-25T21:30:15.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Burnham open to 'honest discussion' on EU free movement",
         "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -106,13 +117,46 @@
         "zone": "gb"
       },
       {
+        "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
+        "url": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
+        "publishedAt": "2026-10-25T18:38:17.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Serbia's Vučić concedes election defeat to student-led protest movement",
+        "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The country's populist right-wing leader of 12 years says it is \"clear\" his Serbian Progressive Party has lost.",
+        "publishedAt": "2026-10-25T21:25:04.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Venezuelan opposition leader María Machado returns after months in exile",
         "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-        "publishedAt": "2026-10-25T16:21:40.000Z",
+        "publishedAt": "2026-10-25T18:29:00.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Board of Deputies of British Jews declares Greens to be racist party",
+        "url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
+        "publishedAt": "2026-10-25T18:05:17.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -135,50 +179,6 @@
         },
         "description": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
         "publishedAt": "2026-10-25T16:51:48.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Board of Deputies of British Jews declares Greens to be racist party",
-        "url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
-        "publishedAt": "2026-10-25T18:05:17.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Why the charts are full of old songs - and so are your playlists",
-        "url": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The chart is full of old music and classic songs are dominating streaming services. But why?",
-        "publishedAt": "2026-10-24T23:05:41.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Early reports suggest record high turnout in Serbia elections",
-        "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-        "publishedAt": "2026-10-25T16:05:15.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-        "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
-        "publishedAt": "2026-10-25T15:32:51.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,6 +187,17 @@
   "general_in": {
     "articles": [
       {
+        "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
+        "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
+        "publishedAt": "2026-10-25T21:30:15.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Burnham open to 'honest discussion' on EU free movement",
         "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -198,13 +209,46 @@
         "zone": "in"
       },
       {
+        "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
+        "url": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
+        "publishedAt": "2026-10-25T18:38:17.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Serbia's Vučić concedes election defeat to student-led protest movement",
+        "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The country's populist right-wing leader of 12 years says it is \"clear\" his Serbian Progressive Party has lost.",
+        "publishedAt": "2026-10-25T21:25:04.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Venezuelan opposition leader María Machado returns after months in exile",
         "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-        "publishedAt": "2026-10-25T16:21:40.000Z",
+        "publishedAt": "2026-10-25T18:29:00.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Board of Deputies of British Jews declares Greens to be racist party",
+        "url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
+        "publishedAt": "2026-10-25T18:05:17.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -227,50 +271,6 @@
         },
         "description": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
         "publishedAt": "2026-10-25T16:51:48.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Board of Deputies of British Jews declares Greens to be racist party",
-        "url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
-        "publishedAt": "2026-10-25T18:05:17.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Why the charts are full of old songs - and so are your playlists",
-        "url": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The chart is full of old music and classic songs are dominating streaming services. But why?",
-        "publishedAt": "2026-10-24T23:05:41.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Early reports suggest record high turnout in Serbia elections",
-        "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-        "publishedAt": "2026-10-25T16:05:15.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-        "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
-        "publishedAt": "2026-10-25T15:32:51.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,6 +279,17 @@
   "general_au": {
     "articles": [
       {
+        "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
+        "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
+        "publishedAt": "2026-10-25T21:30:15.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Burnham open to 'honest discussion' on EU free movement",
         "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -290,13 +301,46 @@
         "zone": "au"
       },
       {
+        "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
+        "url": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
+        "publishedAt": "2026-10-25T18:38:17.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Serbia's Vučić concedes election defeat to student-led protest movement",
+        "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The country's populist right-wing leader of 12 years says it is \"clear\" his Serbian Progressive Party has lost.",
+        "publishedAt": "2026-10-25T21:25:04.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Venezuelan opposition leader María Machado returns after months in exile",
         "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-        "publishedAt": "2026-10-25T16:21:40.000Z",
+        "publishedAt": "2026-10-25T18:29:00.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Board of Deputies of British Jews declares Greens to be racist party",
+        "url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
+        "publishedAt": "2026-10-25T18:05:17.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -319,50 +363,6 @@
         },
         "description": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
         "publishedAt": "2026-10-25T16:51:48.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Board of Deputies of British Jews declares Greens to be racist party",
-        "url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
-        "publishedAt": "2026-10-25T18:05:17.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Why the charts are full of old songs - and so are your playlists",
-        "url": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The chart is full of old music and classic songs are dominating streaming services. But why?",
-        "publishedAt": "2026-10-24T23:05:41.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Early reports suggest record high turnout in Serbia elections",
-        "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-        "publishedAt": "2026-10-25T16:05:15.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-        "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
-        "publishedAt": "2026-10-25T15:32:51.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,6 +371,17 @@
   "general_ca": {
     "articles": [
       {
+        "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
+        "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
+        "publishedAt": "2026-10-25T21:30:15.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Burnham open to 'honest discussion' on EU free movement",
         "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -382,13 +393,46 @@
         "zone": "ca"
       },
       {
+        "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
+        "url": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
+        "publishedAt": "2026-10-25T18:38:17.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Serbia's Vučić concedes election defeat to student-led protest movement",
+        "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The country's populist right-wing leader of 12 years says it is \"clear\" his Serbian Progressive Party has lost.",
+        "publishedAt": "2026-10-25T21:25:04.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Venezuelan opposition leader María Machado returns after months in exile",
         "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-        "publishedAt": "2026-10-25T16:21:40.000Z",
+        "publishedAt": "2026-10-25T18:29:00.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Board of Deputies of British Jews declares Greens to be racist party",
+        "url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
+        "publishedAt": "2026-10-25T18:05:17.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -411,50 +455,6 @@
         },
         "description": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
         "publishedAt": "2026-10-25T16:51:48.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Board of Deputies of British Jews declares Greens to be racist party",
-        "url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
-        "publishedAt": "2026-10-25T18:05:17.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Why the charts are full of old songs - and so are your playlists",
-        "url": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The chart is full of old music and classic songs are dominating streaming services. But why?",
-        "publishedAt": "2026-10-24T23:05:41.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Early reports suggest record high turnout in Serbia elections",
-        "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-        "publishedAt": "2026-10-25T16:05:15.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-        "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
-        "publishedAt": "2026-10-25T15:32:51.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -2336,57 +2336,57 @@
         "zone": "us"
       },
       {
-        "title": "Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno?at_medium=RSS&at_campaign=rss",
+        "title": "Isak finally living up to price tag as Liverpool patience rewarded",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Another catastrophic day for Manchester United and a glorious one for Bournemouth - how did the players rate?",
-        "publishedAt": "2026-10-25T16:04:13.000Z",
+        "description": "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola.",
+        "publishedAt": "2026-10-25T18:13:55.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crwyd857p00yo?at_medium=RSS&at_campaign=rss",
+        "title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "How Liverpool and Brighton's players rated following their Premier League match.",
-        "publishedAt": "2026-10-25T15:58:26.000Z",
+        "description": "Manchester United's winless run stretches to eight matches in all competitions as they're beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
+        "publishedAt": "2026-10-25T20:00:19.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Carrick 'saddened' by Man Utd situation after Bournemouth loss",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cr5ynqy55l68o?at_medium=RSS&at_campaign=rss",
+        "title": "Liverpool earn first league win at Anfield with victory over Brighton",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United manager Micheal Carrick reflects on a 'tough day' after his side lost 3-0 at home to Bournemouth with his future in doubt with United without a win in their last eight games.",
-        "publishedAt": "2026-10-25T17:02:59.000Z",
+        "description": "An own goal from Brighton's Pascal Gross swiftly followed by a goal from Alexander Isak, sees Liverpool beat the Seagulls 2-0 at Anfield to move into the Premier League top four.",
+        "publishedAt": "2026-10-25T20:00:09.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Jarman wins historic second Worlds silver in vault final",
-        "url": "https://www.bbc.co.uk/sport/gymnastics/videos/c574pv1nk0jgo?at_medium=RSS&at_campaign=rss",
+        "title": "Sage continues to struggle as Palace lose at home to Newcastle",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c9gkvellmxg1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jake Jarman becomes the first British male gymnast to win two individual medals at a World Gymnastics Championships, landing silver in a thrilling men's vault final in Rotterdam.",
-        "publishedAt": "2026-10-25T15:25:16.000Z",
+        "description": "Crystal Palace's winless run stretches to four matches as they're beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage.",
+        "publishedAt": "2026-10-25T19:59:46.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Malard stars as Chelsea beat Palace to extend unbeaten start",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c699zk701n2yo?at_medium=RSS&at_campaign=rss",
+        "title": "Hull draw third consecutive home game after being held by Brentford",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmlylkydwl78o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Melvine Malard scores twice and wins a penalty as she helps Chelsea come from behind to beat Crystal Palace 3-1 in the Women's Super League, as the away side extend their unbeaten start to the season to seven matches.",
-        "publishedAt": "2026-10-25T17:56:35.000Z",
+        "description": "Hull draw a third consecutive home game after Dango Ouattara's equaliser helps Brentford grab a point in a 1-1 draw at the MKM Stadium in the Premier League.",
+        "publishedAt": "2026-10-25T19:59:29.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2428,57 +2428,57 @@
         "zone": "gb"
       },
       {
-        "title": "Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno?at_medium=RSS&at_campaign=rss",
+        "title": "Isak finally living up to price tag as Liverpool patience rewarded",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Another catastrophic day for Manchester United and a glorious one for Bournemouth - how did the players rate?",
-        "publishedAt": "2026-10-25T16:04:13.000Z",
+        "description": "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola.",
+        "publishedAt": "2026-10-25T18:13:55.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crwyd857p00yo?at_medium=RSS&at_campaign=rss",
+        "title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "How Liverpool and Brighton's players rated following their Premier League match.",
-        "publishedAt": "2026-10-25T15:58:26.000Z",
+        "description": "Manchester United's winless run stretches to eight matches in all competitions as they're beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
+        "publishedAt": "2026-10-25T20:00:19.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Carrick 'saddened' by Man Utd situation after Bournemouth loss",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cr5ynqy55l68o?at_medium=RSS&at_campaign=rss",
+        "title": "Liverpool earn first league win at Anfield with victory over Brighton",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United manager Micheal Carrick reflects on a 'tough day' after his side lost 3-0 at home to Bournemouth with his future in doubt with United without a win in their last eight games.",
-        "publishedAt": "2026-10-25T17:02:59.000Z",
+        "description": "An own goal from Brighton's Pascal Gross swiftly followed by a goal from Alexander Isak, sees Liverpool beat the Seagulls 2-0 at Anfield to move into the Premier League top four.",
+        "publishedAt": "2026-10-25T20:00:09.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Jarman wins historic second Worlds silver in vault final",
-        "url": "https://www.bbc.co.uk/sport/gymnastics/videos/c574pv1nk0jgo?at_medium=RSS&at_campaign=rss",
+        "title": "Sage continues to struggle as Palace lose at home to Newcastle",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c9gkvellmxg1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jake Jarman becomes the first British male gymnast to win two individual medals at a World Gymnastics Championships, landing silver in a thrilling men's vault final in Rotterdam.",
-        "publishedAt": "2026-10-25T15:25:16.000Z",
+        "description": "Crystal Palace's winless run stretches to four matches as they're beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage.",
+        "publishedAt": "2026-10-25T19:59:46.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Malard stars as Chelsea beat Palace to extend unbeaten start",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c699zk701n2yo?at_medium=RSS&at_campaign=rss",
+        "title": "Hull draw third consecutive home game after being held by Brentford",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmlylkydwl78o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Melvine Malard scores twice and wins a penalty as she helps Chelsea come from behind to beat Crystal Palace 3-1 in the Women's Super League, as the away side extend their unbeaten start to the season to seven matches.",
-        "publishedAt": "2026-10-25T17:56:35.000Z",
+        "description": "Hull draw a third consecutive home game after Dango Ouattara's equaliser helps Brentford grab a point in a 1-1 draw at the MKM Stadium in the Premier League.",
+        "publishedAt": "2026-10-25T19:59:29.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2520,57 +2520,57 @@
         "zone": "in"
       },
       {
-        "title": "Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno?at_medium=RSS&at_campaign=rss",
+        "title": "Isak finally living up to price tag as Liverpool patience rewarded",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Another catastrophic day for Manchester United and a glorious one for Bournemouth - how did the players rate?",
-        "publishedAt": "2026-10-25T16:04:13.000Z",
+        "description": "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola.",
+        "publishedAt": "2026-10-25T18:13:55.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crwyd857p00yo?at_medium=RSS&at_campaign=rss",
+        "title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "How Liverpool and Brighton's players rated following their Premier League match.",
-        "publishedAt": "2026-10-25T15:58:26.000Z",
+        "description": "Manchester United's winless run stretches to eight matches in all competitions as they're beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
+        "publishedAt": "2026-10-25T20:00:19.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Carrick 'saddened' by Man Utd situation after Bournemouth loss",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cr5ynqy55l68o?at_medium=RSS&at_campaign=rss",
+        "title": "Liverpool earn first league win at Anfield with victory over Brighton",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United manager Micheal Carrick reflects on a 'tough day' after his side lost 3-0 at home to Bournemouth with his future in doubt with United without a win in their last eight games.",
-        "publishedAt": "2026-10-25T17:02:59.000Z",
+        "description": "An own goal from Brighton's Pascal Gross swiftly followed by a goal from Alexander Isak, sees Liverpool beat the Seagulls 2-0 at Anfield to move into the Premier League top four.",
+        "publishedAt": "2026-10-25T20:00:09.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Jarman wins historic second Worlds silver in vault final",
-        "url": "https://www.bbc.co.uk/sport/gymnastics/videos/c574pv1nk0jgo?at_medium=RSS&at_campaign=rss",
+        "title": "Sage continues to struggle as Palace lose at home to Newcastle",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c9gkvellmxg1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jake Jarman becomes the first British male gymnast to win two individual medals at a World Gymnastics Championships, landing silver in a thrilling men's vault final in Rotterdam.",
-        "publishedAt": "2026-10-25T15:25:16.000Z",
+        "description": "Crystal Palace's winless run stretches to four matches as they're beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage.",
+        "publishedAt": "2026-10-25T19:59:46.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Malard stars as Chelsea beat Palace to extend unbeaten start",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c699zk701n2yo?at_medium=RSS&at_campaign=rss",
+        "title": "Hull draw third consecutive home game after being held by Brentford",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmlylkydwl78o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Melvine Malard scores twice and wins a penalty as she helps Chelsea come from behind to beat Crystal Palace 3-1 in the Women's Super League, as the away side extend their unbeaten start to the season to seven matches.",
-        "publishedAt": "2026-10-25T17:56:35.000Z",
+        "description": "Hull draw a third consecutive home game after Dango Ouattara's equaliser helps Brentford grab a point in a 1-1 draw at the MKM Stadium in the Premier League.",
+        "publishedAt": "2026-10-25T19:59:29.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2612,57 +2612,57 @@
         "zone": "au"
       },
       {
-        "title": "Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno?at_medium=RSS&at_campaign=rss",
+        "title": "Isak finally living up to price tag as Liverpool patience rewarded",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Another catastrophic day for Manchester United and a glorious one for Bournemouth - how did the players rate?",
-        "publishedAt": "2026-10-25T16:04:13.000Z",
+        "description": "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola.",
+        "publishedAt": "2026-10-25T18:13:55.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crwyd857p00yo?at_medium=RSS&at_campaign=rss",
+        "title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "How Liverpool and Brighton's players rated following their Premier League match.",
-        "publishedAt": "2026-10-25T15:58:26.000Z",
+        "description": "Manchester United's winless run stretches to eight matches in all competitions as they're beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
+        "publishedAt": "2026-10-25T20:00:19.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Carrick 'saddened' by Man Utd situation after Bournemouth loss",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cr5ynqy55l68o?at_medium=RSS&at_campaign=rss",
+        "title": "Liverpool earn first league win at Anfield with victory over Brighton",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United manager Micheal Carrick reflects on a 'tough day' after his side lost 3-0 at home to Bournemouth with his future in doubt with United without a win in their last eight games.",
-        "publishedAt": "2026-10-25T17:02:59.000Z",
+        "description": "An own goal from Brighton's Pascal Gross swiftly followed by a goal from Alexander Isak, sees Liverpool beat the Seagulls 2-0 at Anfield to move into the Premier League top four.",
+        "publishedAt": "2026-10-25T20:00:09.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Jarman wins historic second Worlds silver in vault final",
-        "url": "https://www.bbc.co.uk/sport/gymnastics/videos/c574pv1nk0jgo?at_medium=RSS&at_campaign=rss",
+        "title": "Sage continues to struggle as Palace lose at home to Newcastle",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c9gkvellmxg1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jake Jarman becomes the first British male gymnast to win two individual medals at a World Gymnastics Championships, landing silver in a thrilling men's vault final in Rotterdam.",
-        "publishedAt": "2026-10-25T15:25:16.000Z",
+        "description": "Crystal Palace's winless run stretches to four matches as they're beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage.",
+        "publishedAt": "2026-10-25T19:59:46.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Malard stars as Chelsea beat Palace to extend unbeaten start",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c699zk701n2yo?at_medium=RSS&at_campaign=rss",
+        "title": "Hull draw third consecutive home game after being held by Brentford",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmlylkydwl78o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Melvine Malard scores twice and wins a penalty as she helps Chelsea come from behind to beat Crystal Palace 3-1 in the Women's Super League, as the away side extend their unbeaten start to the season to seven matches.",
-        "publishedAt": "2026-10-25T17:56:35.000Z",
+        "description": "Hull draw a third consecutive home game after Dango Ouattara's equaliser helps Brentford grab a point in a 1-1 draw at the MKM Stadium in the Premier League.",
+        "publishedAt": "2026-10-25T19:59:29.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2704,57 +2704,57 @@
         "zone": "ca"
       },
       {
-        "title": "Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno?at_medium=RSS&at_campaign=rss",
+        "title": "Isak finally living up to price tag as Liverpool patience rewarded",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Another catastrophic day for Manchester United and a glorious one for Bournemouth - how did the players rate?",
-        "publishedAt": "2026-10-25T16:04:13.000Z",
+        "description": "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola.",
+        "publishedAt": "2026-10-25T18:13:55.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crwyd857p00yo?at_medium=RSS&at_campaign=rss",
+        "title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "How Liverpool and Brighton's players rated following their Premier League match.",
-        "publishedAt": "2026-10-25T15:58:26.000Z",
+        "description": "Manchester United's winless run stretches to eight matches in all competitions as they're beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
+        "publishedAt": "2026-10-25T20:00:19.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Carrick 'saddened' by Man Utd situation after Bournemouth loss",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cr5ynqy55l68o?at_medium=RSS&at_campaign=rss",
+        "title": "Liverpool earn first league win at Anfield with victory over Brighton",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United manager Micheal Carrick reflects on a 'tough day' after his side lost 3-0 at home to Bournemouth with his future in doubt with United without a win in their last eight games.",
-        "publishedAt": "2026-10-25T17:02:59.000Z",
+        "description": "An own goal from Brighton's Pascal Gross swiftly followed by a goal from Alexander Isak, sees Liverpool beat the Seagulls 2-0 at Anfield to move into the Premier League top four.",
+        "publishedAt": "2026-10-25T20:00:09.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Jarman wins historic second Worlds silver in vault final",
-        "url": "https://www.bbc.co.uk/sport/gymnastics/videos/c574pv1nk0jgo?at_medium=RSS&at_campaign=rss",
+        "title": "Sage continues to struggle as Palace lose at home to Newcastle",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c9gkvellmxg1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jake Jarman becomes the first British male gymnast to win two individual medals at a World Gymnastics Championships, landing silver in a thrilling men's vault final in Rotterdam.",
-        "publishedAt": "2026-10-25T15:25:16.000Z",
+        "description": "Crystal Palace's winless run stretches to four matches as they're beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage.",
+        "publishedAt": "2026-10-25T19:59:46.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Malard stars as Chelsea beat Palace to extend unbeaten start",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c699zk701n2yo?at_medium=RSS&at_campaign=rss",
+        "title": "Hull draw third consecutive home game after being held by Brentford",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmlylkydwl78o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Melvine Malard scores twice and wins a penalty as she helps Chelsea come from behind to beat Crystal Palace 3-1 in the Women's Super League, as the away side extend their unbeaten start to the season to seven matches.",
-        "publishedAt": "2026-10-25T17:56:35.000Z",
+        "description": "Hull draw a third consecutive home game after Dango Ouattara's equaliser helps Brentford grab a point in a 1-1 draw at the MKM Stadium in the Premier League.",
+        "publishedAt": "2026-10-25T19:59:29.000Z",
         "category": "sports",
         "zone": "ca"
       }
