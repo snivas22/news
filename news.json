@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-10-28T18:00:16.058Z",
+  "generatedAt": "2026-10-28T22:29:41.082Z",
   "general_us": {
     "articles": [
       {
-        "title": "Key points at a glance",
+        "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+        "publishedAt": "2026-10-28T18:45:09.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Budget key points at a glance",
         "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -25,35 +36,13 @@
         "zone": "us"
       },
       {
-        "title": "Will I get the £100 energy payment and when will I receive it?",
-        "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+        "title": "High-speed train crash kills at least 68 people in Spain",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Here is what you need to know about the payment that millions will receive from January.",
-        "publishedAt": "2026-10-28T17:47:37.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "The main announcements from the Budget - and how they will be funded",
-        "url": "https://www.bbc.co.uk/news/videos/ck0j06zl28wzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC's Joe Pike explains key things outlined by the Chancellor.",
-        "publishedAt": "2026-10-28T16:12:57.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-        "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-        "publishedAt": "2026-10-28T17:32:51.000Z",
+        "description": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+        "publishedAt": "2026-10-28T21:38:54.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -69,13 +58,24 @@
         "zone": "us"
       },
       {
-        "title": "What we know about the crash so far",
-        "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+        "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+        "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
-        "publishedAt": "2026-10-28T15:36:11.000Z",
+        "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+        "publishedAt": "2026-10-28T21:16:30.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "King Charles shows off dance moves on second day of Caribbean tour",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd670vpj09o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Earlier in the day, the King paid his respects to the island's fallen servicemen and women.",
+        "publishedAt": "2026-10-28T21:58:27.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -86,7 +86,7 @@
           "name": "RSS Feed"
         },
         "description": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-        "publishedAt": "2026-10-28T16:59:47.000Z",
+        "publishedAt": "2026-10-28T20:24:39.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,7 +95,18 @@
   "general_gb": {
     "articles": [
       {
-        "title": "Key points at a glance",
+        "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+        "publishedAt": "2026-10-28T18:45:09.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Budget key points at a glance",
         "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -117,35 +128,13 @@
         "zone": "gb"
       },
       {
-        "title": "Will I get the £100 energy payment and when will I receive it?",
-        "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+        "title": "High-speed train crash kills at least 68 people in Spain",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Here is what you need to know about the payment that millions will receive from January.",
-        "publishedAt": "2026-10-28T17:47:37.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "The main announcements from the Budget - and how they will be funded",
-        "url": "https://www.bbc.co.uk/news/videos/ck0j06zl28wzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC's Joe Pike explains key things outlined by the Chancellor.",
-        "publishedAt": "2026-10-28T16:12:57.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-        "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-        "publishedAt": "2026-10-28T17:32:51.000Z",
+        "description": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+        "publishedAt": "2026-10-28T21:38:54.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -161,13 +150,24 @@
         "zone": "gb"
       },
       {
-        "title": "What we know about the crash so far",
-        "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+        "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+        "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
-        "publishedAt": "2026-10-28T15:36:11.000Z",
+        "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+        "publishedAt": "2026-10-28T21:16:30.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "King Charles shows off dance moves on second day of Caribbean tour",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd670vpj09o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Earlier in the day, the King paid his respects to the island's fallen servicemen and women.",
+        "publishedAt": "2026-10-28T21:58:27.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -178,7 +178,7 @@
           "name": "RSS Feed"
         },
         "description": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-        "publishedAt": "2026-10-28T16:59:47.000Z",
+        "publishedAt": "2026-10-28T20:24:39.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,7 +187,18 @@
   "general_in": {
     "articles": [
       {
-        "title": "Key points at a glance",
+        "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+        "publishedAt": "2026-10-28T18:45:09.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Budget key points at a glance",
         "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -209,35 +220,13 @@
         "zone": "in"
       },
       {
-        "title": "Will I get the £100 energy payment and when will I receive it?",
-        "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+        "title": "High-speed train crash kills at least 68 people in Spain",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Here is what you need to know about the payment that millions will receive from January.",
-        "publishedAt": "2026-10-28T17:47:37.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "The main announcements from the Budget - and how they will be funded",
-        "url": "https://www.bbc.co.uk/news/videos/ck0j06zl28wzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC's Joe Pike explains key things outlined by the Chancellor.",
-        "publishedAt": "2026-10-28T16:12:57.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-        "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-        "publishedAt": "2026-10-28T17:32:51.000Z",
+        "description": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+        "publishedAt": "2026-10-28T21:38:54.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -253,13 +242,24 @@
         "zone": "in"
       },
       {
-        "title": "What we know about the crash so far",
-        "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+        "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+        "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
-        "publishedAt": "2026-10-28T15:36:11.000Z",
+        "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+        "publishedAt": "2026-10-28T21:16:30.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "King Charles shows off dance moves on second day of Caribbean tour",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd670vpj09o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Earlier in the day, the King paid his respects to the island's fallen servicemen and women.",
+        "publishedAt": "2026-10-28T21:58:27.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -270,7 +270,7 @@
           "name": "RSS Feed"
         },
         "description": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-        "publishedAt": "2026-10-28T16:59:47.000Z",
+        "publishedAt": "2026-10-28T20:24:39.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,7 +279,18 @@
   "general_au": {
     "articles": [
       {
-        "title": "Key points at a glance",
+        "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+        "publishedAt": "2026-10-28T18:45:09.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Budget key points at a glance",
         "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -301,35 +312,13 @@
         "zone": "au"
       },
       {
-        "title": "Will I get the £100 energy payment and when will I receive it?",
-        "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+        "title": "High-speed train crash kills at least 68 people in Spain",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Here is what you need to know about the payment that millions will receive from January.",
-        "publishedAt": "2026-10-28T17:47:37.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "The main announcements from the Budget - and how they will be funded",
-        "url": "https://www.bbc.co.uk/news/videos/ck0j06zl28wzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC's Joe Pike explains key things outlined by the Chancellor.",
-        "publishedAt": "2026-10-28T16:12:57.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-        "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-        "publishedAt": "2026-10-28T17:32:51.000Z",
+        "description": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+        "publishedAt": "2026-10-28T21:38:54.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -345,13 +334,24 @@
         "zone": "au"
       },
       {
-        "title": "What we know about the crash so far",
-        "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+        "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+        "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
-        "publishedAt": "2026-10-28T15:36:11.000Z",
+        "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+        "publishedAt": "2026-10-28T21:16:30.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "King Charles shows off dance moves on second day of Caribbean tour",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd670vpj09o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Earlier in the day, the King paid his respects to the island's fallen servicemen and women.",
+        "publishedAt": "2026-10-28T21:58:27.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -362,7 +362,7 @@
           "name": "RSS Feed"
         },
         "description": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-        "publishedAt": "2026-10-28T16:59:47.000Z",
+        "publishedAt": "2026-10-28T20:24:39.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,7 +371,18 @@
   "general_ca": {
     "articles": [
       {
-        "title": "Key points at a glance",
+        "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+        "publishedAt": "2026-10-28T18:45:09.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Budget key points at a glance",
         "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -393,35 +404,13 @@
         "zone": "ca"
       },
       {
-        "title": "Will I get the £100 energy payment and when will I receive it?",
-        "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+        "title": "High-speed train crash kills at least 68 people in Spain",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Here is what you need to know about the payment that millions will receive from January.",
-        "publishedAt": "2026-10-28T17:47:37.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "The main announcements from the Budget - and how they will be funded",
-        "url": "https://www.bbc.co.uk/news/videos/ck0j06zl28wzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC's Joe Pike explains key things outlined by the Chancellor.",
-        "publishedAt": "2026-10-28T16:12:57.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-        "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-        "publishedAt": "2026-10-28T17:32:51.000Z",
+        "description": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+        "publishedAt": "2026-10-28T21:38:54.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -437,13 +426,24 @@
         "zone": "ca"
       },
       {
-        "title": "What we know about the crash so far",
-        "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+        "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+        "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
-        "publishedAt": "2026-10-28T15:36:11.000Z",
+        "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+        "publishedAt": "2026-10-28T21:16:30.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "King Charles shows off dance moves on second day of Caribbean tour",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd670vpj09o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Earlier in the day, the King paid his respects to the island's fallen servicemen and women.",
+        "publishedAt": "2026-10-28T21:58:27.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -454,7 +454,7 @@
           "name": "RSS Feed"
         },
         "description": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-        "publishedAt": "2026-10-28T16:59:47.000Z",
+        "publishedAt": "2026-10-28T20:24:39.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -463,6 +463,39 @@
   "business_us": {
     "articles": [
       {
+        "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+        "publishedAt": "2026-10-28T18:45:09.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "What we now know about the UK economy in four charts",
+        "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+        "publishedAt": "2026-10-28T20:08:45.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "What the Budget offers for under 25s - and what it leaves out",
+        "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+        "publishedAt": "2026-10-28T20:02:38.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "Your pay, energy bills and savings: How the Budget affects you",
         "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -480,7 +513,7 @@
           "name": "RSS Feed"
         },
         "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-        "publishedAt": "2026-10-28T17:32:51.000Z",
+        "publishedAt": "2026-10-28T19:51:01.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -496,57 +529,24 @@
         "zone": "us"
       },
       {
-        "title": "Budget 2026: Key points at a glance",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+        "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+        "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
-        "publishedAt": "2026-10-28T16:55:27.000Z",
+        "description": "The Russian President praised Musk and said they are in \"close\" contact.",
+        "publishedAt": "2026-10-28T19:15:58.000Z",
         "category": "business",
         "zone": "us"
       },
       {
-        "title": "'An annoying buzz': The search for stealthier drones",
-        "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
-        "publishedAt": "2026-10-28T00:01:10.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "The one thing that didn't change that will affect your pay the most",
+        "title": "Tax thresholds remain unchanged - here's what it means for your pay",
         "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
-        "publishedAt": "2026-10-28T16:55:03.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Healey tells departments to make 1% cuts to fund defence",
-        "url": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The reduction in public spending will go towards paying for the Defence Investment Plan.",
-        "publishedAt": "2026-10-28T17:52:48.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "How much is the minimum wage going up by?",
-        "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
-        "publishedAt": "2026-10-28T14:53:29.000Z",
+        "publishedAt": "2026-10-28T18:12:24.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,6 +555,39 @@
   "business_gb": {
     "articles": [
       {
+        "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+        "publishedAt": "2026-10-28T18:45:09.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "What we now know about the UK economy in four charts",
+        "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+        "publishedAt": "2026-10-28T20:08:45.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "What the Budget offers for under 25s - and what it leaves out",
+        "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+        "publishedAt": "2026-10-28T20:02:38.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "Your pay, energy bills and savings: How the Budget affects you",
         "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -572,7 +605,7 @@
           "name": "RSS Feed"
         },
         "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-        "publishedAt": "2026-10-28T17:32:51.000Z",
+        "publishedAt": "2026-10-28T19:51:01.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -588,57 +621,24 @@
         "zone": "gb"
       },
       {
-        "title": "Budget 2026: Key points at a glance",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+        "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+        "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
-        "publishedAt": "2026-10-28T16:55:27.000Z",
+        "description": "The Russian President praised Musk and said they are in \"close\" contact.",
+        "publishedAt": "2026-10-28T19:15:58.000Z",
         "category": "business",
         "zone": "gb"
       },
       {
-        "title": "'An annoying buzz': The search for stealthier drones",
-        "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
-        "publishedAt": "2026-10-28T00:01:10.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "The one thing that didn't change that will affect your pay the most",
+        "title": "Tax thresholds remain unchanged - here's what it means for your pay",
         "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
-        "publishedAt": "2026-10-28T16:55:03.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Healey tells departments to make 1% cuts to fund defence",
-        "url": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The reduction in public spending will go towards paying for the Defence Investment Plan.",
-        "publishedAt": "2026-10-28T17:52:48.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "How much is the minimum wage going up by?",
-        "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
-        "publishedAt": "2026-10-28T14:53:29.000Z",
+        "publishedAt": "2026-10-28T18:12:24.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,6 +647,39 @@
   "business_in": {
     "articles": [
       {
+        "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+        "publishedAt": "2026-10-28T18:45:09.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "What we now know about the UK economy in four charts",
+        "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+        "publishedAt": "2026-10-28T20:08:45.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "What the Budget offers for under 25s - and what it leaves out",
+        "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+        "publishedAt": "2026-10-28T20:02:38.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "Your pay, energy bills and savings: How the Budget affects you",
         "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -664,7 +697,7 @@
           "name": "RSS Feed"
         },
         "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-        "publishedAt": "2026-10-28T17:32:51.000Z",
+        "publishedAt": "2026-10-28T19:51:01.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -680,57 +713,24 @@
         "zone": "in"
       },
       {
-        "title": "Budget 2026: Key points at a glance",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+        "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+        "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
-        "publishedAt": "2026-10-28T16:55:27.000Z",
+        "description": "The Russian President praised Musk and said they are in \"close\" contact.",
+        "publishedAt": "2026-10-28T19:15:58.000Z",
         "category": "business",
         "zone": "in"
       },
       {
-        "title": "'An annoying buzz': The search for stealthier drones",
-        "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
-        "publishedAt": "2026-10-28T00:01:10.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "The one thing that didn't change that will affect your pay the most",
+        "title": "Tax thresholds remain unchanged - here's what it means for your pay",
         "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
-        "publishedAt": "2026-10-28T16:55:03.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Healey tells departments to make 1% cuts to fund defence",
-        "url": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The reduction in public spending will go towards paying for the Defence Investment Plan.",
-        "publishedAt": "2026-10-28T17:52:48.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "How much is the minimum wage going up by?",
-        "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
-        "publishedAt": "2026-10-28T14:53:29.000Z",
+        "publishedAt": "2026-10-28T18:12:24.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,6 +739,39 @@
   "business_au": {
     "articles": [
       {
+        "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+        "publishedAt": "2026-10-28T18:45:09.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "What we now know about the UK economy in four charts",
+        "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+        "publishedAt": "2026-10-28T20:08:45.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "What the Budget offers for under 25s - and what it leaves out",
+        "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+        "publishedAt": "2026-10-28T20:02:38.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "Your pay, energy bills and savings: How the Budget affects you",
         "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -756,7 +789,7 @@
           "name": "RSS Feed"
         },
         "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-        "publishedAt": "2026-10-28T17:32:51.000Z",
+        "publishedAt": "2026-10-28T19:51:01.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -772,57 +805,24 @@
         "zone": "au"
       },
       {
-        "title": "Budget 2026: Key points at a glance",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+        "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+        "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
-        "publishedAt": "2026-10-28T16:55:27.000Z",
+        "description": "The Russian President praised Musk and said they are in \"close\" contact.",
+        "publishedAt": "2026-10-28T19:15:58.000Z",
         "category": "business",
         "zone": "au"
       },
       {
-        "title": "'An annoying buzz': The search for stealthier drones",
-        "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
-        "publishedAt": "2026-10-28T00:01:10.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "The one thing that didn't change that will affect your pay the most",
+        "title": "Tax thresholds remain unchanged - here's what it means for your pay",
         "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
-        "publishedAt": "2026-10-28T16:55:03.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Healey tells departments to make 1% cuts to fund defence",
-        "url": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The reduction in public spending will go towards paying for the Defence Investment Plan.",
-        "publishedAt": "2026-10-28T17:52:48.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "How much is the minimum wage going up by?",
-        "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
-        "publishedAt": "2026-10-28T14:53:29.000Z",
+        "publishedAt": "2026-10-28T18:12:24.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,6 +831,39 @@
   "business_ca": {
     "articles": [
       {
+        "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+        "publishedAt": "2026-10-28T18:45:09.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "What we now know about the UK economy in four charts",
+        "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+        "publishedAt": "2026-10-28T20:08:45.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "What the Budget offers for under 25s - and what it leaves out",
+        "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+        "publishedAt": "2026-10-28T20:02:38.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "Your pay, energy bills and savings: How the Budget affects you",
         "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -848,7 +881,7 @@
           "name": "RSS Feed"
         },
         "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-        "publishedAt": "2026-10-28T17:32:51.000Z",
+        "publishedAt": "2026-10-28T19:51:01.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -864,57 +897,24 @@
         "zone": "ca"
       },
       {
-        "title": "Budget 2026: Key points at a glance",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+        "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+        "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
-        "publishedAt": "2026-10-28T16:55:27.000Z",
+        "description": "The Russian President praised Musk and said they are in \"close\" contact.",
+        "publishedAt": "2026-10-28T19:15:58.000Z",
         "category": "business",
         "zone": "ca"
       },
       {
-        "title": "'An annoying buzz': The search for stealthier drones",
-        "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
-        "publishedAt": "2026-10-28T00:01:10.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "The one thing that didn't change that will affect your pay the most",
+        "title": "Tax thresholds remain unchanged - here's what it means for your pay",
         "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
-        "publishedAt": "2026-10-28T16:55:03.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Healey tells departments to make 1% cuts to fund defence",
-        "url": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The reduction in public spending will go towards paying for the Defence Investment Plan.",
-        "publishedAt": "2026-10-28T17:52:48.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "How much is the minimum wage going up by?",
-        "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
-        "publishedAt": "2026-10-28T14:53:29.000Z",
+        "publishedAt": "2026-10-28T18:12:24.000Z",
         "category": "business",
         "zone": "ca"
       }
@@ -934,24 +934,35 @@
         "zone": "us"
       },
       {
+        "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+        "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+        "publishedAt": "2026-10-28T21:16:30.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
         "title": "Sam Fender pre-sale moved after 'bot attack'",
         "url": "https://www.bbc.co.uk/news/articles/cw3djl5vk3v3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fender says a \"sophisticated bot attack\" affected a website selling tickets for his Newcastle shows.",
-        "publishedAt": "2026-10-28T12:38:49.000Z",
+        "description": "Fender says a \"sophisticated\" attack affected a website selling tickets for his Newcastle shows.",
+        "publishedAt": "2026-10-28T18:08:56.000Z",
         "category": "entertainment",
         "zone": "us"
       },
       {
-        "title": "Celebrity Traitors' Joe Lycett's tribute to viral TikTok nan",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2qggrdxqeo?at_medium=RSS&at_campaign=rss",
+        "title": "Babydoll singer says life will 'never be the same again' after UK number one",
+        "url": "https://www.bbc.co.uk/news/articles/c6qjn849ydlno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Anne Hughes found fame after being hoisted into the air after getting caught in shop shutters.",
-        "publishedAt": "2026-10-28T09:56:13.000Z",
+        "description": "The singer is finding genuine joy in life again after a difficult period led to him quitting music.",
+        "publishedAt": "2026-10-28T18:30:13.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -989,24 +1000,13 @@
         "zone": "us"
       },
       {
-        "title": "Netherlands pulls out of Eurovision again over Israel participation",
-        "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
+        "title": "Celebrity Traitors' Joe Lycett's tribute to viral TikTok nan",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2qggrdxqeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
-        "publishedAt": "2026-10-27T11:23:19.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Unnamed celebrity accused of 'inappropriate sexual activities', court hears",
-        "url": "https://www.bbc.co.uk/news/articles/c6j47z0g4nwpo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The man is asking the High Court to prevent two news organisations from publishing the allegations.",
-        "publishedAt": "2026-10-27T16:59:23.000Z",
+        "description": "Anne Hughes found fame after being hoisted into the air after getting caught in shop shutters.",
+        "publishedAt": "2026-10-28T09:56:13.000Z",
         "category": "entertainment",
         "zone": "us"
       }
@@ -1026,24 +1026,35 @@
         "zone": "gb"
       },
       {
+        "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+        "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+        "publishedAt": "2026-10-28T21:16:30.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
         "title": "Sam Fender pre-sale moved after 'bot attack'",
         "url": "https://www.bbc.co.uk/news/articles/cw3djl5vk3v3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fender says a \"sophisticated bot attack\" affected a website selling tickets for his Newcastle shows.",
-        "publishedAt": "2026-10-28T12:38:49.000Z",
+        "description": "Fender says a \"sophisticated\" attack affected a website selling tickets for his Newcastle shows.",
+        "publishedAt": "2026-10-28T18:08:56.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
       {
-        "title": "Celebrity Traitors' Joe Lycett's tribute to viral TikTok nan",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2qggrdxqeo?at_medium=RSS&at_campaign=rss",
+        "title": "Babydoll singer says life will 'never be the same again' after UK number one",
+        "url": "https://www.bbc.co.uk/news/articles/c6qjn849ydlno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Anne Hughes found fame after being hoisted into the air after getting caught in shop shutters.",
-        "publishedAt": "2026-10-28T09:56:13.000Z",
+        "description": "The singer is finding genuine joy in life again after a difficult period led to him quitting music.",
+        "publishedAt": "2026-10-28T18:30:13.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1081,24 +1092,13 @@
         "zone": "gb"
       },
       {
-        "title": "Netherlands pulls out of Eurovision again over Israel participation",
-        "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
+        "title": "Celebrity Traitors' Joe Lycett's tribute to viral TikTok nan",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2qggrdxqeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
-        "publishedAt": "2026-10-27T11:23:19.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Unnamed celebrity accused of 'inappropriate sexual activities', court hears",
-        "url": "https://www.bbc.co.uk/news/articles/c6j47z0g4nwpo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The man is asking the High Court to prevent two news organisations from publishing the allegations.",
-        "publishedAt": "2026-10-27T16:59:23.000Z",
+        "description": "Anne Hughes found fame after being hoisted into the air after getting caught in shop shutters.",
+        "publishedAt": "2026-10-28T09:56:13.000Z",
         "category": "entertainment",
         "zone": "gb"
       }
@@ -1118,24 +1118,35 @@
         "zone": "in"
       },
       {
+        "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+        "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+        "publishedAt": "2026-10-28T21:16:30.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
         "title": "Sam Fender pre-sale moved after 'bot attack'",
         "url": "https://www.bbc.co.uk/news/articles/cw3djl5vk3v3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fender says a \"sophisticated bot attack\" affected a website selling tickets for his Newcastle shows.",
-        "publishedAt": "2026-10-28T12:38:49.000Z",
+        "description": "Fender says a \"sophisticated\" attack affected a website selling tickets for his Newcastle shows.",
+        "publishedAt": "2026-10-28T18:08:56.000Z",
         "category": "entertainment",
         "zone": "in"
       },
       {
-        "title": "Celebrity Traitors' Joe Lycett's tribute to viral TikTok nan",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2qggrdxqeo?at_medium=RSS&at_campaign=rss",
+        "title": "Babydoll singer says life will 'never be the same again' after UK number one",
+        "url": "https://www.bbc.co.uk/news/articles/c6qjn849ydlno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Anne Hughes found fame after being hoisted into the air after getting caught in shop shutters.",
-        "publishedAt": "2026-10-28T09:56:13.000Z",
+        "description": "The singer is finding genuine joy in life again after a difficult period led to him quitting music.",
+        "publishedAt": "2026-10-28T18:30:13.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1173,24 +1184,13 @@
         "zone": "in"
       },
       {
-        "title": "Netherlands pulls out of Eurovision again over Israel participation",
-        "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
+        "title": "Celebrity Traitors' Joe Lycett's tribute to viral TikTok nan",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2qggrdxqeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
-        "publishedAt": "2026-10-27T11:23:19.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Unnamed celebrity accused of 'inappropriate sexual activities', court hears",
-        "url": "https://www.bbc.co.uk/news/articles/c6j47z0g4nwpo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The man is asking the High Court to prevent two news organisations from publishing the allegations.",
-        "publishedAt": "2026-10-27T16:59:23.000Z",
+        "description": "Anne Hughes found fame after being hoisted into the air after getting caught in shop shutters.",
+        "publishedAt": "2026-10-28T09:56:13.000Z",
         "category": "entertainment",
         "zone": "in"
       }
@@ -1210,24 +1210,35 @@
         "zone": "au"
       },
       {
+        "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+        "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+        "publishedAt": "2026-10-28T21:16:30.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
         "title": "Sam Fender pre-sale moved after 'bot attack'",
         "url": "https://www.bbc.co.uk/news/articles/cw3djl5vk3v3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fender says a \"sophisticated bot attack\" affected a website selling tickets for his Newcastle shows.",
-        "publishedAt": "2026-10-28T12:38:49.000Z",
+        "description": "Fender says a \"sophisticated\" attack affected a website selling tickets for his Newcastle shows.",
+        "publishedAt": "2026-10-28T18:08:56.000Z",
         "category": "entertainment",
         "zone": "au"
       },
       {
-        "title": "Celebrity Traitors' Joe Lycett's tribute to viral TikTok nan",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2qggrdxqeo?at_medium=RSS&at_campaign=rss",
+        "title": "Babydoll singer says life will 'never be the same again' after UK number one",
+        "url": "https://www.bbc.co.uk/news/articles/c6qjn849ydlno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Anne Hughes found fame after being hoisted into the air after getting caught in shop shutters.",
-        "publishedAt": "2026-10-28T09:56:13.000Z",
+        "description": "The singer is finding genuine joy in life again after a difficult period led to him quitting music.",
+        "publishedAt": "2026-10-28T18:30:13.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1265,24 +1276,13 @@
         "zone": "au"
       },
       {
-        "title": "Netherlands pulls out of Eurovision again over Israel participation",
-        "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
+        "title": "Celebrity Traitors' Joe Lycett's tribute to viral TikTok nan",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2qggrdxqeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
-        "publishedAt": "2026-10-27T11:23:19.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Unnamed celebrity accused of 'inappropriate sexual activities', court hears",
-        "url": "https://www.bbc.co.uk/news/articles/c6j47z0g4nwpo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The man is asking the High Court to prevent two news organisations from publishing the allegations.",
-        "publishedAt": "2026-10-27T16:59:23.000Z",
+        "description": "Anne Hughes found fame after being hoisted into the air after getting caught in shop shutters.",
+        "publishedAt": "2026-10-28T09:56:13.000Z",
         "category": "entertainment",
         "zone": "au"
       }
@@ -1302,24 +1302,35 @@
         "zone": "ca"
       },
       {
+        "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+        "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+        "publishedAt": "2026-10-28T21:16:30.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
         "title": "Sam Fender pre-sale moved after 'bot attack'",
         "url": "https://www.bbc.co.uk/news/articles/cw3djl5vk3v3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fender says a \"sophisticated bot attack\" affected a website selling tickets for his Newcastle shows.",
-        "publishedAt": "2026-10-28T12:38:49.000Z",
+        "description": "Fender says a \"sophisticated\" attack affected a website selling tickets for his Newcastle shows.",
+        "publishedAt": "2026-10-28T18:08:56.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
       {
-        "title": "Celebrity Traitors' Joe Lycett's tribute to viral TikTok nan",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2qggrdxqeo?at_medium=RSS&at_campaign=rss",
+        "title": "Babydoll singer says life will 'never be the same again' after UK number one",
+        "url": "https://www.bbc.co.uk/news/articles/c6qjn849ydlno?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Anne Hughes found fame after being hoisted into the air after getting caught in shop shutters.",
-        "publishedAt": "2026-10-28T09:56:13.000Z",
+        "description": "The singer is finding genuine joy in life again after a difficult period led to him quitting music.",
+        "publishedAt": "2026-10-28T18:30:13.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1357,24 +1368,13 @@
         "zone": "ca"
       },
       {
-        "title": "Netherlands pulls out of Eurovision again over Israel participation",
-        "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
+        "title": "Celebrity Traitors' Joe Lycett's tribute to viral TikTok nan",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2qggrdxqeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
-        "publishedAt": "2026-10-27T11:23:19.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Unnamed celebrity accused of 'inappropriate sexual activities', court hears",
-        "url": "https://www.bbc.co.uk/news/articles/c6j47z0g4nwpo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The man is asking the High Court to prevent two news organisations from publishing the allegations.",
-        "publishedAt": "2026-10-27T16:59:23.000Z",
+        "description": "Anne Hughes found fame after being hoisted into the air after getting caught in shop shutters.",
+        "publishedAt": "2026-10-28T09:56:13.000Z",
         "category": "entertainment",
         "zone": "ca"
       }
@@ -1920,13 +1920,13 @@
         "zone": "us"
       },
       {
-        "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-        "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+        "title": "Putin hails Elon Musk’s ‘genius’ amid plans for Russian version of Starlink",
+        "url": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink",
         "source": {
-          "name": "Sarah Johnson"
+          "name": "Dan Sabbagh Defence and security editor"
         },
-        "description": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and other countries, according to one of Africa’s top health officials. As the current outbreak reached 10,000 cases, with almost 5,000 deaths, Dr Jean Kaseya, director general of the Africa Centres for Disease Control and Prevention (CDC), compared the outbreak to the Covid pandemic, which first took hold in China before spreading to countries across the world, claiming millions of lives, and ravaging health systems and economies. Continue reading...",
-        "publishedAt": "2026-10-28T09:37:49.000Z",
+        "description": "Russia plans to build own version of US billionaire’s satellite communications to help attack Ukraine Vladimir Putin praised Elon Musk’s genius and said he was in touch with Starlink’s controlling shareholder as Russia develops its own satellite communications for its military to use against Ukraine. The Russian president, speaking at a summit with African leaders in Moscow, was comparing the Earth-orbiting network built by Musk’s SpaceX with Russia’s gradual efforts to build its own Rassvet constellation. Continue reading...",
+        "publishedAt": "2026-10-28T18:32:38.000Z",
         "category": "science",
         "zone": "us"
       }
@@ -2012,13 +2012,13 @@
         "zone": "gb"
       },
       {
-        "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-        "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+        "title": "Putin hails Elon Musk’s ‘genius’ amid plans for Russian version of Starlink",
+        "url": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink",
         "source": {
-          "name": "Sarah Johnson"
+          "name": "Dan Sabbagh Defence and security editor"
         },
-        "description": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and other countries, according to one of Africa’s top health officials. As the current outbreak reached 10,000 cases, with almost 5,000 deaths, Dr Jean Kaseya, director general of the Africa Centres for Disease Control and Prevention (CDC), compared the outbreak to the Covid pandemic, which first took hold in China before spreading to countries across the world, claiming millions of lives, and ravaging health systems and economies. Continue reading...",
-        "publishedAt": "2026-10-28T09:37:49.000Z",
+        "description": "Russia plans to build own version of US billionaire’s satellite communications to help attack Ukraine Vladimir Putin praised Elon Musk’s genius and said he was in touch with Starlink’s controlling shareholder as Russia develops its own satellite communications for its military to use against Ukraine. The Russian president, speaking at a summit with African leaders in Moscow, was comparing the Earth-orbiting network built by Musk’s SpaceX with Russia’s gradual efforts to build its own Rassvet constellation. Continue reading...",
+        "publishedAt": "2026-10-28T18:32:38.000Z",
         "category": "science",
         "zone": "gb"
       }
@@ -2104,13 +2104,13 @@
         "zone": "in"
       },
       {
-        "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-        "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+        "title": "Putin hails Elon Musk’s ‘genius’ amid plans for Russian version of Starlink",
+        "url": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink",
         "source": {
-          "name": "Sarah Johnson"
+          "name": "Dan Sabbagh Defence and security editor"
         },
-        "description": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and other countries, according to one of Africa’s top health officials. As the current outbreak reached 10,000 cases, with almost 5,000 deaths, Dr Jean Kaseya, director general of the Africa Centres for Disease Control and Prevention (CDC), compared the outbreak to the Covid pandemic, which first took hold in China before spreading to countries across the world, claiming millions of lives, and ravaging health systems and economies. Continue reading...",
-        "publishedAt": "2026-10-28T09:37:49.000Z",
+        "description": "Russia plans to build own version of US billionaire’s satellite communications to help attack Ukraine Vladimir Putin praised Elon Musk’s genius and said he was in touch with Starlink’s controlling shareholder as Russia develops its own satellite communications for its military to use against Ukraine. The Russian president, speaking at a summit with African leaders in Moscow, was comparing the Earth-orbiting network built by Musk’s SpaceX with Russia’s gradual efforts to build its own Rassvet constellation. Continue reading...",
+        "publishedAt": "2026-10-28T18:32:38.000Z",
         "category": "science",
         "zone": "in"
       }
@@ -2196,13 +2196,13 @@
         "zone": "au"
       },
       {
-        "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-        "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+        "title": "Putin hails Elon Musk’s ‘genius’ amid plans for Russian version of Starlink",
+        "url": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink",
         "source": {
-          "name": "Sarah Johnson"
+          "name": "Dan Sabbagh Defence and security editor"
         },
-        "description": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and other countries, according to one of Africa’s top health officials. As the current outbreak reached 10,000 cases, with almost 5,000 deaths, Dr Jean Kaseya, director general of the Africa Centres for Disease Control and Prevention (CDC), compared the outbreak to the Covid pandemic, which first took hold in China before spreading to countries across the world, claiming millions of lives, and ravaging health systems and economies. Continue reading...",
-        "publishedAt": "2026-10-28T09:37:49.000Z",
+        "description": "Russia plans to build own version of US billionaire’s satellite communications to help attack Ukraine Vladimir Putin praised Elon Musk’s genius and said he was in touch with Starlink’s controlling shareholder as Russia develops its own satellite communications for its military to use against Ukraine. The Russian president, speaking at a summit with African leaders in Moscow, was comparing the Earth-orbiting network built by Musk’s SpaceX with Russia’s gradual efforts to build its own Rassvet constellation. Continue reading...",
+        "publishedAt": "2026-10-28T18:32:38.000Z",
         "category": "science",
         "zone": "au"
       }
@@ -2288,13 +2288,13 @@
         "zone": "ca"
       },
       {
-        "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-        "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+        "title": "Putin hails Elon Musk’s ‘genius’ amid plans for Russian version of Starlink",
+        "url": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink",
         "source": {
-          "name": "Sarah Johnson"
+          "name": "Dan Sabbagh Defence and security editor"
         },
-        "description": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and other countries, according to one of Africa’s top health officials. As the current outbreak reached 10,000 cases, with almost 5,000 deaths, Dr Jean Kaseya, director general of the Africa Centres for Disease Control and Prevention (CDC), compared the outbreak to the Covid pandemic, which first took hold in China before spreading to countries across the world, claiming millions of lives, and ravaging health systems and economies. Continue reading...",
-        "publishedAt": "2026-10-28T09:37:49.000Z",
+        "description": "Russia plans to build own version of US billionaire’s satellite communications to help attack Ukraine Vladimir Putin praised Elon Musk’s genius and said he was in touch with Starlink’s controlling shareholder as Russia develops its own satellite communications for its military to use against Ukraine. The Russian president, speaking at a summit with African leaders in Moscow, was comparing the Earth-orbiting network built by Musk’s SpaceX with Russia’s gradual efforts to build its own Rassvet constellation. Continue reading...",
+        "publishedAt": "2026-10-28T18:32:38.000Z",
         "category": "science",
         "zone": "ca"
       }
@@ -2303,17 +2303,6 @@
   "sports_us": {
     "articles": [
       {
-        "title": "Carrick and Fernandes hold clear-the-air talks",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks at the club's training ground.",
-        "publishedAt": "2026-10-28T11:48:28.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
         "title": "Labuschagne's form hits record low but Australia hint at future",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2325,24 +2314,46 @@
         "zone": "us"
       },
       {
-        "title": "Arsenal to appeal against Dowman red card",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o?at_medium=RSS&at_campaign=rss",
+        "title": "Russo scores hat-trick as Arsenal beat Benfica",
+        "url": "https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Arsenal will appeal against Max Dowman's sending-off during Tuesday's Carabao Cup defeat at Fleetwood Town.",
-        "publishedAt": "2026-10-28T11:55:21.000Z",
+        "description": "Alessia Russo becomes England's all-time leading goalscorer in the Women's Champions League with a hat-trick in Arsenal's 3-0 win over Benfica.",
+        "publishedAt": "2026-10-28T22:19:57.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
+        "title": "Red Roses make six changes but Kildunne on bench again",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq1m4kn84gk2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Arsenal forward Thierry Henry responds to criticism of a number of comments he made during Monday's Ballon d'Or ceremony and claims they were \"jokes\".",
-        "publishedAt": "2026-10-28T12:13:23.000Z",
+        "description": "Red Roses' star Ellie Kildunne is named on England's bench again as head coach John Mitchell makes six changes to his side to face the United States.",
+        "publishedAt": "2026-10-28T19:00:51.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Djokovic celebrates 'big win' on return to Basel",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cmd93vlz4k11o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Novak Djokovic pulls off a hard-fought comeback victory over Ugo Humbert to keep alive his hopes of qualifying for the season-ending ATP Finals.",
+        "publishedAt": "2026-10-28T19:51:14.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Sancho rejects Getafe - Thursday's gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckyvr1q72v84o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Free agent Jadon Sancho turns down a move to La Liga, Desire Doue is in talks with Paris St-Germain about a contract extension, and Everton are considering a move for Marcus Rashford.",
+        "publishedAt": "2026-10-28T21:34:36.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2358,35 +2369,24 @@
         "zone": "us"
       },
       {
-        "title": "Scottish side to play two cup ties simultaneously after schedule clash",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cky831qxdzydo?at_medium=RSS&at_campaign=rss",
+        "title": "Chiefs coach defends decision to sign kicker Tucker",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/c9e8l47grpz4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart.",
-        "publishedAt": "2026-10-28T15:34:02.000Z",
+        "description": "Kansas City Chiefs head coach Andy Reid defends the franchise's decision to sign Justin Tucker to its practice squad, stating the kicker has \"done his suspension\".",
+        "publishedAt": "2026-10-28T20:55:11.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Goodbye to Wawrinka - an everyman who gatecrashed the greats",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/crlykgp51ej4o?at_medium=RSS&at_campaign=rss",
+        "title": "Sesko ruled out until January with shin injury",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq33xl50vyj2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Stan Wawrinka's glorious career - which brought him three Grand Slam titles in a golden era - ends after an honourable defeat on an emotional night in Basel.",
-        "publishedAt": "2026-10-28T07:14:18.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Serrano to end career in Puerto Rico in January",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cqn8denld133o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Amanda Serrano will face Skye Falzon in Puerto Rico on 9 January in the final fight of her illustrious professional boxing career.",
-        "publishedAt": "2026-10-28T11:11:53.000Z",
+        "description": "Manchester United striker Benjamin Sesko is expected to be out until at least January with a shin injury.",
+        "publishedAt": "2026-10-28T19:57:04.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,17 +2395,6 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "Carrick and Fernandes hold clear-the-air talks",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks at the club's training ground.",
-        "publishedAt": "2026-10-28T11:48:28.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
         "title": "Labuschagne's form hits record low but Australia hint at future",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2417,24 +2406,46 @@
         "zone": "gb"
       },
       {
-        "title": "Arsenal to appeal against Dowman red card",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o?at_medium=RSS&at_campaign=rss",
+        "title": "Russo scores hat-trick as Arsenal beat Benfica",
+        "url": "https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Arsenal will appeal against Max Dowman's sending-off during Tuesday's Carabao Cup defeat at Fleetwood Town.",
-        "publishedAt": "2026-10-28T11:55:21.000Z",
+        "description": "Alessia Russo becomes England's all-time leading goalscorer in the Women's Champions League with a hat-trick in Arsenal's 3-0 win over Benfica.",
+        "publishedAt": "2026-10-28T22:19:57.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
+        "title": "Red Roses make six changes but Kildunne on bench again",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq1m4kn84gk2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Arsenal forward Thierry Henry responds to criticism of a number of comments he made during Monday's Ballon d'Or ceremony and claims they were \"jokes\".",
-        "publishedAt": "2026-10-28T12:13:23.000Z",
+        "description": "Red Roses' star Ellie Kildunne is named on England's bench again as head coach John Mitchell makes six changes to his side to face the United States.",
+        "publishedAt": "2026-10-28T19:00:51.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Djokovic celebrates 'big win' on return to Basel",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cmd93vlz4k11o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Novak Djokovic pulls off a hard-fought comeback victory over Ugo Humbert to keep alive his hopes of qualifying for the season-ending ATP Finals.",
+        "publishedAt": "2026-10-28T19:51:14.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Sancho rejects Getafe - Thursday's gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckyvr1q72v84o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Free agent Jadon Sancho turns down a move to La Liga, Desire Doue is in talks with Paris St-Germain about a contract extension, and Everton are considering a move for Marcus Rashford.",
+        "publishedAt": "2026-10-28T21:34:36.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2450,35 +2461,24 @@
         "zone": "gb"
       },
       {
-        "title": "Scottish side to play two cup ties simultaneously after schedule clash",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cky831qxdzydo?at_medium=RSS&at_campaign=rss",
+        "title": "Chiefs coach defends decision to sign kicker Tucker",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/c9e8l47grpz4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart.",
-        "publishedAt": "2026-10-28T15:34:02.000Z",
+        "description": "Kansas City Chiefs head coach Andy Reid defends the franchise's decision to sign Justin Tucker to its practice squad, stating the kicker has \"done his suspension\".",
+        "publishedAt": "2026-10-28T20:55:11.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Goodbye to Wawrinka - an everyman who gatecrashed the greats",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/crlykgp51ej4o?at_medium=RSS&at_campaign=rss",
+        "title": "Sesko ruled out until January with shin injury",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq33xl50vyj2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Stan Wawrinka's glorious career - which brought him three Grand Slam titles in a golden era - ends after an honourable defeat on an emotional night in Basel.",
-        "publishedAt": "2026-10-28T07:14:18.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Serrano to end career in Puerto Rico in January",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cqn8denld133o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Amanda Serrano will face Skye Falzon in Puerto Rico on 9 January in the final fight of her illustrious professional boxing career.",
-        "publishedAt": "2026-10-28T11:11:53.000Z",
+        "description": "Manchester United striker Benjamin Sesko is expected to be out until at least January with a shin injury.",
+        "publishedAt": "2026-10-28T19:57:04.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,17 +2487,6 @@
   "sports_in": {
     "articles": [
       {
-        "title": "Carrick and Fernandes hold clear-the-air talks",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks at the club's training ground.",
-        "publishedAt": "2026-10-28T11:48:28.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
         "title": "Labuschagne's form hits record low but Australia hint at future",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2509,24 +2498,46 @@
         "zone": "in"
       },
       {
-        "title": "Arsenal to appeal against Dowman red card",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o?at_medium=RSS&at_campaign=rss",
+        "title": "Russo scores hat-trick as Arsenal beat Benfica",
+        "url": "https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Arsenal will appeal against Max Dowman's sending-off during Tuesday's Carabao Cup defeat at Fleetwood Town.",
-        "publishedAt": "2026-10-28T11:55:21.000Z",
+        "description": "Alessia Russo becomes England's all-time leading goalscorer in the Women's Champions League with a hat-trick in Arsenal's 3-0 win over Benfica.",
+        "publishedAt": "2026-10-28T22:19:57.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
+        "title": "Red Roses make six changes but Kildunne on bench again",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq1m4kn84gk2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Arsenal forward Thierry Henry responds to criticism of a number of comments he made during Monday's Ballon d'Or ceremony and claims they were \"jokes\".",
-        "publishedAt": "2026-10-28T12:13:23.000Z",
+        "description": "Red Roses' star Ellie Kildunne is named on England's bench again as head coach John Mitchell makes six changes to his side to face the United States.",
+        "publishedAt": "2026-10-28T19:00:51.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Djokovic celebrates 'big win' on return to Basel",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cmd93vlz4k11o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Novak Djokovic pulls off a hard-fought comeback victory over Ugo Humbert to keep alive his hopes of qualifying for the season-ending ATP Finals.",
+        "publishedAt": "2026-10-28T19:51:14.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Sancho rejects Getafe - Thursday's gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckyvr1q72v84o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Free agent Jadon Sancho turns down a move to La Liga, Desire Doue is in talks with Paris St-Germain about a contract extension, and Everton are considering a move for Marcus Rashford.",
+        "publishedAt": "2026-10-28T21:34:36.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2542,35 +2553,24 @@
         "zone": "in"
       },
       {
-        "title": "Scottish side to play two cup ties simultaneously after schedule clash",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cky831qxdzydo?at_medium=RSS&at_campaign=rss",
+        "title": "Chiefs coach defends decision to sign kicker Tucker",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/c9e8l47grpz4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart.",
-        "publishedAt": "2026-10-28T15:34:02.000Z",
+        "description": "Kansas City Chiefs head coach Andy Reid defends the franchise's decision to sign Justin Tucker to its practice squad, stating the kicker has \"done his suspension\".",
+        "publishedAt": "2026-10-28T20:55:11.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Goodbye to Wawrinka - an everyman who gatecrashed the greats",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/crlykgp51ej4o?at_medium=RSS&at_campaign=rss",
+        "title": "Sesko ruled out until January with shin injury",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq33xl50vyj2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Stan Wawrinka's glorious career - which brought him three Grand Slam titles in a golden era - ends after an honourable defeat on an emotional night in Basel.",
-        "publishedAt": "2026-10-28T07:14:18.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Serrano to end career in Puerto Rico in January",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cqn8denld133o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Amanda Serrano will face Skye Falzon in Puerto Rico on 9 January in the final fight of her illustrious professional boxing career.",
-        "publishedAt": "2026-10-28T11:11:53.000Z",
+        "description": "Manchester United striker Benjamin Sesko is expected to be out until at least January with a shin injury.",
+        "publishedAt": "2026-10-28T19:57:04.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,17 +2579,6 @@
   "sports_au": {
     "articles": [
       {
-        "title": "Carrick and Fernandes hold clear-the-air talks",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks at the club's training ground.",
-        "publishedAt": "2026-10-28T11:48:28.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
         "title": "Labuschagne's form hits record low but Australia hint at future",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2601,24 +2590,46 @@
         "zone": "au"
       },
       {
-        "title": "Arsenal to appeal against Dowman red card",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o?at_medium=RSS&at_campaign=rss",
+        "title": "Russo scores hat-trick as Arsenal beat Benfica",
+        "url": "https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Arsenal will appeal against Max Dowman's sending-off during Tuesday's Carabao Cup defeat at Fleetwood Town.",
-        "publishedAt": "2026-10-28T11:55:21.000Z",
+        "description": "Alessia Russo becomes England's all-time leading goalscorer in the Women's Champions League with a hat-trick in Arsenal's 3-0 win over Benfica.",
+        "publishedAt": "2026-10-28T22:19:57.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
+        "title": "Red Roses make six changes but Kildunne on bench again",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq1m4kn84gk2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Arsenal forward Thierry Henry responds to criticism of a number of comments he made during Monday's Ballon d'Or ceremony and claims they were \"jokes\".",
-        "publishedAt": "2026-10-28T12:13:23.000Z",
+        "description": "Red Roses' star Ellie Kildunne is named on England's bench again as head coach John Mitchell makes six changes to his side to face the United States.",
+        "publishedAt": "2026-10-28T19:00:51.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Djokovic celebrates 'big win' on return to Basel",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cmd93vlz4k11o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Novak Djokovic pulls off a hard-fought comeback victory over Ugo Humbert to keep alive his hopes of qualifying for the season-ending ATP Finals.",
+        "publishedAt": "2026-10-28T19:51:14.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Sancho rejects Getafe - Thursday's gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckyvr1q72v84o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Free agent Jadon Sancho turns down a move to La Liga, Desire Doue is in talks with Paris St-Germain about a contract extension, and Everton are considering a move for Marcus Rashford.",
+        "publishedAt": "2026-10-28T21:34:36.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2634,35 +2645,24 @@
         "zone": "au"
       },
       {
-        "title": "Scottish side to play two cup ties simultaneously after schedule clash",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cky831qxdzydo?at_medium=RSS&at_campaign=rss",
+        "title": "Chiefs coach defends decision to sign kicker Tucker",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/c9e8l47grpz4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart.",
-        "publishedAt": "2026-10-28T15:34:02.000Z",
+        "description": "Kansas City Chiefs head coach Andy Reid defends the franchise's decision to sign Justin Tucker to its practice squad, stating the kicker has \"done his suspension\".",
+        "publishedAt": "2026-10-28T20:55:11.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Goodbye to Wawrinka - an everyman who gatecrashed the greats",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/crlykgp51ej4o?at_medium=RSS&at_campaign=rss",
+        "title": "Sesko ruled out until January with shin injury",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq33xl50vyj2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Stan Wawrinka's glorious career - which brought him three Grand Slam titles in a golden era - ends after an honourable defeat on an emotional night in Basel.",
-        "publishedAt": "2026-10-28T07:14:18.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Serrano to end career in Puerto Rico in January",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cqn8denld133o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Amanda Serrano will face Skye Falzon in Puerto Rico on 9 January in the final fight of her illustrious professional boxing career.",
-        "publishedAt": "2026-10-28T11:11:53.000Z",
+        "description": "Manchester United striker Benjamin Sesko is expected to be out until at least January with a shin injury.",
+        "publishedAt": "2026-10-28T19:57:04.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,17 +2671,6 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "Carrick and Fernandes hold clear-the-air talks",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks at the club's training ground.",
-        "publishedAt": "2026-10-28T11:48:28.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
         "title": "Labuschagne's form hits record low but Australia hint at future",
         "url": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2693,24 +2682,46 @@
         "zone": "ca"
       },
       {
-        "title": "Arsenal to appeal against Dowman red card",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o?at_medium=RSS&at_campaign=rss",
+        "title": "Russo scores hat-trick as Arsenal beat Benfica",
+        "url": "https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Arsenal will appeal against Max Dowman's sending-off during Tuesday's Carabao Cup defeat at Fleetwood Town.",
-        "publishedAt": "2026-10-28T11:55:21.000Z",
+        "description": "Alessia Russo becomes England's all-time leading goalscorer in the Women's Champions League with a hat-trick in Arsenal's 3-0 win over Benfica.",
+        "publishedAt": "2026-10-28T22:19:57.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
+        "title": "Red Roses make six changes but Kildunne on bench again",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq1m4kn84gk2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Arsenal forward Thierry Henry responds to criticism of a number of comments he made during Monday's Ballon d'Or ceremony and claims they were \"jokes\".",
-        "publishedAt": "2026-10-28T12:13:23.000Z",
+        "description": "Red Roses' star Ellie Kildunne is named on England's bench again as head coach John Mitchell makes six changes to his side to face the United States.",
+        "publishedAt": "2026-10-28T19:00:51.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Djokovic celebrates 'big win' on return to Basel",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cmd93vlz4k11o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Novak Djokovic pulls off a hard-fought comeback victory over Ugo Humbert to keep alive his hopes of qualifying for the season-ending ATP Finals.",
+        "publishedAt": "2026-10-28T19:51:14.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Sancho rejects Getafe - Thursday's gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckyvr1q72v84o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Free agent Jadon Sancho turns down a move to La Liga, Desire Doue is in talks with Paris St-Germain about a contract extension, and Everton are considering a move for Marcus Rashford.",
+        "publishedAt": "2026-10-28T21:34:36.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2726,35 +2737,24 @@
         "zone": "ca"
       },
       {
-        "title": "Scottish side to play two cup ties simultaneously after schedule clash",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cky831qxdzydo?at_medium=RSS&at_campaign=rss",
+        "title": "Chiefs coach defends decision to sign kicker Tucker",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/c9e8l47grpz4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart.",
-        "publishedAt": "2026-10-28T15:34:02.000Z",
+        "description": "Kansas City Chiefs head coach Andy Reid defends the franchise's decision to sign Justin Tucker to its practice squad, stating the kicker has \"done his suspension\".",
+        "publishedAt": "2026-10-28T20:55:11.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Goodbye to Wawrinka - an everyman who gatecrashed the greats",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/crlykgp51ej4o?at_medium=RSS&at_campaign=rss",
+        "title": "Sesko ruled out until January with shin injury",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq33xl50vyj2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Stan Wawrinka's glorious career - which brought him three Grand Slam titles in a golden era - ends after an honourable defeat on an emotional night in Basel.",
-        "publishedAt": "2026-10-28T07:14:18.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Serrano to end career in Puerto Rico in January",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cqn8denld133o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Amanda Serrano will face Skye Falzon in Puerto Rico on 9 January in the final fight of her illustrious professional boxing career.",
-        "publishedAt": "2026-10-28T11:11:53.000Z",
+        "description": "Manchester United striker Benjamin Sesko is expected to be out until at least January with a shin injury.",
+        "publishedAt": "2026-10-28T19:57:04.000Z",
         "category": "sports",
         "zone": "ca"
       }
@@ -2763,6 +2763,28 @@
   "technology_us": {
     "articles": [
       {
+        "title": "Details of thousands of US immigration agents leaked in major hack",
+        "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+        "publishedAt": "2026-10-28T22:12:43.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
+        "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+        "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Russian President praised Musk and said they are in \"close\" contact.",
+        "publishedAt": "2026-10-28T19:15:58.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
         "title": "'An annoying buzz': The search for stealthier drones",
         "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2825,28 +2847,6 @@
         },
         "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
         "publishedAt": "2026-10-24T00:05:45.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "What is PHP and why did it spark a global cyber-security scramble?",
-        "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-        "publishedAt": "2026-10-23T12:24:17.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
-        "url": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
-        "publishedAt": "2026-10-23T12:00:25.000Z",
         "category": "technology",
         "zone": "us"
       }
@@ -2855,6 +2855,28 @@
   "technology_gb": {
     "articles": [
       {
+        "title": "Details of thousands of US immigration agents leaked in major hack",
+        "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+        "publishedAt": "2026-10-28T22:12:43.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
+        "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+        "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Russian President praised Musk and said they are in \"close\" contact.",
+        "publishedAt": "2026-10-28T19:15:58.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
         "title": "'An annoying buzz': The search for stealthier drones",
         "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2917,28 +2939,6 @@
         },
         "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
         "publishedAt": "2026-10-24T00:05:45.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "What is PHP and why did it spark a global cyber-security scramble?",
-        "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-        "publishedAt": "2026-10-23T12:24:17.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
-        "url": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
-        "publishedAt": "2026-10-23T12:00:25.000Z",
         "category": "technology",
         "zone": "gb"
       }
@@ -2947,6 +2947,28 @@
   "technology_in": {
     "articles": [
       {
+        "title": "Details of thousands of US immigration agents leaked in major hack",
+        "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+        "publishedAt": "2026-10-28T22:12:43.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
+        "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+        "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Russian President praised Musk and said they are in \"close\" contact.",
+        "publishedAt": "2026-10-28T19:15:58.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
         "title": "'An annoying buzz': The search for stealthier drones",
         "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3009,28 +3031,6 @@
         },
         "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
         "publishedAt": "2026-10-24T00:05:45.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "What is PHP and why did it spark a global cyber-security scramble?",
-        "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-        "publishedAt": "2026-10-23T12:24:17.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
-        "url": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
-        "publishedAt": "2026-10-23T12:00:25.000Z",
         "category": "technology",
         "zone": "in"
       }
@@ -3039,6 +3039,28 @@
   "technology_au": {
     "articles": [
       {
+        "title": "Details of thousands of US immigration agents leaked in major hack",
+        "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+        "publishedAt": "2026-10-28T22:12:43.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
+        "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+        "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Russian President praised Musk and said they are in \"close\" contact.",
+        "publishedAt": "2026-10-28T19:15:58.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
         "title": "'An annoying buzz': The search for stealthier drones",
         "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3101,28 +3123,6 @@
         },
         "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
         "publishedAt": "2026-10-24T00:05:45.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "What is PHP and why did it spark a global cyber-security scramble?",
-        "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-        "publishedAt": "2026-10-23T12:24:17.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
-        "url": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
-        "publishedAt": "2026-10-23T12:00:25.000Z",
         "category": "technology",
         "zone": "au"
       }
@@ -3131,6 +3131,28 @@
   "technology_ca": {
     "articles": [
       {
+        "title": "Details of thousands of US immigration agents leaked in major hack",
+        "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+        "publishedAt": "2026-10-28T22:12:43.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
+        "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+        "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Russian President praised Musk and said they are in \"close\" contact.",
+        "publishedAt": "2026-10-28T19:15:58.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
         "title": "'An annoying buzz': The search for stealthier drones",
         "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3193,28 +3215,6 @@
         },
         "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
         "publishedAt": "2026-10-24T00:05:45.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "What is PHP and why did it spark a global cyber-security scramble?",
-        "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-        "publishedAt": "2026-10-23T12:24:17.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
-        "url": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
-        "publishedAt": "2026-10-23T12:00:25.000Z",
         "category": "technology",
         "zone": "ca"
       }
