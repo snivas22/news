@@ -1,15 +1,26 @@
 {
-  "generatedAt": "2026-10-29T09:31:54.788Z",
+  "generatedAt": "2026-10-29T16:41:47.031Z",
   "general_us": {
     "articles": [
       {
-        "title": "Healey promises reduction in welfare bill before next election",
-        "url": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss",
+        "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget.",
-        "publishedAt": "2026-10-29T05:57:01.000Z",
+        "description": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.",
+        "publishedAt": "2026-10-29T15:42:56.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+        "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Budget forecasts show growth in living standards grinding almost to a halt.",
+        "publishedAt": "2026-10-29T13:19:24.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -20,73 +31,62 @@
           "name": "RSS Feed"
         },
         "description": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
-        "publishedAt": "2026-10-29T08:38:54.000Z",
+        "publishedAt": "2026-10-29T11:07:35.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "What we know so far about deadly Spain train crash",
-        "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+        "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
+        "url": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
-        "publishedAt": "2026-10-29T07:59:20.000Z",
+        "description": "Laura Brand tells the jury at his trial she feels \"very seen by him\" and \"I love him very much\".",
+        "publishedAt": "2026-10-29T12:52:50.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Ofcom sets out social media age-checking methods ahead of ban",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+        "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+        "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
-        "publishedAt": "2026-10-29T05:57:15.000Z",
+        "description": "The defeated presidential candidate says he will lead the opposition from the US.",
+        "publishedAt": "2026-10-29T14:58:28.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+        "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+        "url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
-        "publishedAt": "2026-10-29T01:14:01.000Z",
+        "description": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
+        "publishedAt": "2026-10-29T13:25:07.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Death of US actress Hayden Panettiere ruled accidental",
-        "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+        "title": "CCTV shows staff member fight Huntingdon train attacker with frying pan",
+        "url": "https://www.bbc.co.uk/news/articles/ckdd8qpdeym4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
-        "publishedAt": "2026-10-28T21:16:30.000Z",
+        "description": "Witnesses say Samir Zitouni is a 'real-life hero' who told attacker \"We love you, we can help you\".",
+        "publishedAt": "2026-10-29T16:17:09.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Row over George Michael items up for auction - including Faith guitar",
+        "title": "George Michael's Faith guitar sells for £180k after auction row",
         "url": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The brother of the singer's late personal assistant says she would not have wanted the items to be sold.",
-        "publishedAt": "2026-10-29T00:01:16.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Details of thousands of US immigration agents leaked in major hack",
-        "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
-        "publishedAt": "2026-10-29T01:30:43.000Z",
+        "description": "The brother of the singer's late personal assistant said she would not have wanted the items to be sold.",
+        "publishedAt": "2026-10-29T15:58:05.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,13 +95,24 @@
   "general_gb": {
     "articles": [
       {
-        "title": "Healey promises reduction in welfare bill before next election",
-        "url": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss",
+        "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget.",
-        "publishedAt": "2026-10-29T05:57:01.000Z",
+        "description": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.",
+        "publishedAt": "2026-10-29T15:42:56.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+        "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Budget forecasts show growth in living standards grinding almost to a halt.",
+        "publishedAt": "2026-10-29T13:19:24.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -112,73 +123,62 @@
           "name": "RSS Feed"
         },
         "description": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
-        "publishedAt": "2026-10-29T08:38:54.000Z",
+        "publishedAt": "2026-10-29T11:07:35.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "What we know so far about deadly Spain train crash",
-        "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+        "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
+        "url": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
-        "publishedAt": "2026-10-29T07:59:20.000Z",
+        "description": "Laura Brand tells the jury at his trial she feels \"very seen by him\" and \"I love him very much\".",
+        "publishedAt": "2026-10-29T12:52:50.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Ofcom sets out social media age-checking methods ahead of ban",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+        "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+        "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
-        "publishedAt": "2026-10-29T05:57:15.000Z",
+        "description": "The defeated presidential candidate says he will lead the opposition from the US.",
+        "publishedAt": "2026-10-29T14:58:28.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+        "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+        "url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
-        "publishedAt": "2026-10-29T01:14:01.000Z",
+        "description": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
+        "publishedAt": "2026-10-29T13:25:07.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Death of US actress Hayden Panettiere ruled accidental",
-        "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+        "title": "CCTV shows staff member fight Huntingdon train attacker with frying pan",
+        "url": "https://www.bbc.co.uk/news/articles/ckdd8qpdeym4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
-        "publishedAt": "2026-10-28T21:16:30.000Z",
+        "description": "Witnesses say Samir Zitouni is a 'real-life hero' who told attacker \"We love you, we can help you\".",
+        "publishedAt": "2026-10-29T16:17:09.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Row over George Michael items up for auction - including Faith guitar",
+        "title": "George Michael's Faith guitar sells for £180k after auction row",
         "url": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The brother of the singer's late personal assistant says she would not have wanted the items to be sold.",
-        "publishedAt": "2026-10-29T00:01:16.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Details of thousands of US immigration agents leaked in major hack",
-        "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
-        "publishedAt": "2026-10-29T01:30:43.000Z",
+        "description": "The brother of the singer's late personal assistant said she would not have wanted the items to be sold.",
+        "publishedAt": "2026-10-29T15:58:05.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,13 +187,24 @@
   "general_in": {
     "articles": [
       {
-        "title": "Healey promises reduction in welfare bill before next election",
-        "url": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss",
+        "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget.",
-        "publishedAt": "2026-10-29T05:57:01.000Z",
+        "description": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.",
+        "publishedAt": "2026-10-29T15:42:56.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+        "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Budget forecasts show growth in living standards grinding almost to a halt.",
+        "publishedAt": "2026-10-29T13:19:24.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -204,73 +215,62 @@
           "name": "RSS Feed"
         },
         "description": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
-        "publishedAt": "2026-10-29T08:38:54.000Z",
+        "publishedAt": "2026-10-29T11:07:35.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "What we know so far about deadly Spain train crash",
-        "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+        "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
+        "url": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
-        "publishedAt": "2026-10-29T07:59:20.000Z",
+        "description": "Laura Brand tells the jury at his trial she feels \"very seen by him\" and \"I love him very much\".",
+        "publishedAt": "2026-10-29T12:52:50.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Ofcom sets out social media age-checking methods ahead of ban",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+        "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+        "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
-        "publishedAt": "2026-10-29T05:57:15.000Z",
+        "description": "The defeated presidential candidate says he will lead the opposition from the US.",
+        "publishedAt": "2026-10-29T14:58:28.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+        "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+        "url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
-        "publishedAt": "2026-10-29T01:14:01.000Z",
+        "description": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
+        "publishedAt": "2026-10-29T13:25:07.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Death of US actress Hayden Panettiere ruled accidental",
-        "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+        "title": "CCTV shows staff member fight Huntingdon train attacker with frying pan",
+        "url": "https://www.bbc.co.uk/news/articles/ckdd8qpdeym4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
-        "publishedAt": "2026-10-28T21:16:30.000Z",
+        "description": "Witnesses say Samir Zitouni is a 'real-life hero' who told attacker \"We love you, we can help you\".",
+        "publishedAt": "2026-10-29T16:17:09.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Row over George Michael items up for auction - including Faith guitar",
+        "title": "George Michael's Faith guitar sells for £180k after auction row",
         "url": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The brother of the singer's late personal assistant says she would not have wanted the items to be sold.",
-        "publishedAt": "2026-10-29T00:01:16.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Details of thousands of US immigration agents leaked in major hack",
-        "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
-        "publishedAt": "2026-10-29T01:30:43.000Z",
+        "description": "The brother of the singer's late personal assistant said she would not have wanted the items to be sold.",
+        "publishedAt": "2026-10-29T15:58:05.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,13 +279,24 @@
   "general_au": {
     "articles": [
       {
-        "title": "Healey promises reduction in welfare bill before next election",
-        "url": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss",
+        "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget.",
-        "publishedAt": "2026-10-29T05:57:01.000Z",
+        "description": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.",
+        "publishedAt": "2026-10-29T15:42:56.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+        "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Budget forecasts show growth in living standards grinding almost to a halt.",
+        "publishedAt": "2026-10-29T13:19:24.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -296,73 +307,62 @@
           "name": "RSS Feed"
         },
         "description": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
-        "publishedAt": "2026-10-29T08:38:54.000Z",
+        "publishedAt": "2026-10-29T11:07:35.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "What we know so far about deadly Spain train crash",
-        "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+        "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
+        "url": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
-        "publishedAt": "2026-10-29T07:59:20.000Z",
+        "description": "Laura Brand tells the jury at his trial she feels \"very seen by him\" and \"I love him very much\".",
+        "publishedAt": "2026-10-29T12:52:50.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Ofcom sets out social media age-checking methods ahead of ban",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+        "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+        "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
-        "publishedAt": "2026-10-29T05:57:15.000Z",
+        "description": "The defeated presidential candidate says he will lead the opposition from the US.",
+        "publishedAt": "2026-10-29T14:58:28.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+        "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+        "url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
-        "publishedAt": "2026-10-29T01:14:01.000Z",
+        "description": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
+        "publishedAt": "2026-10-29T13:25:07.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Death of US actress Hayden Panettiere ruled accidental",
-        "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+        "title": "CCTV shows staff member fight Huntingdon train attacker with frying pan",
+        "url": "https://www.bbc.co.uk/news/articles/ckdd8qpdeym4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
-        "publishedAt": "2026-10-28T21:16:30.000Z",
+        "description": "Witnesses say Samir Zitouni is a 'real-life hero' who told attacker \"We love you, we can help you\".",
+        "publishedAt": "2026-10-29T16:17:09.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Row over George Michael items up for auction - including Faith guitar",
+        "title": "George Michael's Faith guitar sells for £180k after auction row",
         "url": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The brother of the singer's late personal assistant says she would not have wanted the items to be sold.",
-        "publishedAt": "2026-10-29T00:01:16.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Details of thousands of US immigration agents leaked in major hack",
-        "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
-        "publishedAt": "2026-10-29T01:30:43.000Z",
+        "description": "The brother of the singer's late personal assistant said she would not have wanted the items to be sold.",
+        "publishedAt": "2026-10-29T15:58:05.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,13 +371,24 @@
   "general_ca": {
     "articles": [
       {
-        "title": "Healey promises reduction in welfare bill before next election",
-        "url": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss",
+        "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget.",
-        "publishedAt": "2026-10-29T05:57:01.000Z",
+        "description": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.",
+        "publishedAt": "2026-10-29T15:42:56.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+        "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Budget forecasts show growth in living standards grinding almost to a halt.",
+        "publishedAt": "2026-10-29T13:19:24.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -388,73 +399,62 @@
           "name": "RSS Feed"
         },
         "description": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
-        "publishedAt": "2026-10-29T08:38:54.000Z",
+        "publishedAt": "2026-10-29T11:07:35.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "What we know so far about deadly Spain train crash",
-        "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+        "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
+        "url": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
-        "publishedAt": "2026-10-29T07:59:20.000Z",
+        "description": "Laura Brand tells the jury at his trial she feels \"very seen by him\" and \"I love him very much\".",
+        "publishedAt": "2026-10-29T12:52:50.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Ofcom sets out social media age-checking methods ahead of ban",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+        "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+        "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
-        "publishedAt": "2026-10-29T05:57:15.000Z",
+        "description": "The defeated presidential candidate says he will lead the opposition from the US.",
+        "publishedAt": "2026-10-29T14:58:28.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+        "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+        "url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
-        "publishedAt": "2026-10-29T01:14:01.000Z",
+        "description": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
+        "publishedAt": "2026-10-29T13:25:07.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Death of US actress Hayden Panettiere ruled accidental",
-        "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+        "title": "CCTV shows staff member fight Huntingdon train attacker with frying pan",
+        "url": "https://www.bbc.co.uk/news/articles/ckdd8qpdeym4o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
-        "publishedAt": "2026-10-28T21:16:30.000Z",
+        "description": "Witnesses say Samir Zitouni is a 'real-life hero' who told attacker \"We love you, we can help you\".",
+        "publishedAt": "2026-10-29T16:17:09.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Row over George Michael items up for auction - including Faith guitar",
+        "title": "George Michael's Faith guitar sells for £180k after auction row",
         "url": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The brother of the singer's late personal assistant says she would not have wanted the items to be sold.",
-        "publishedAt": "2026-10-29T00:01:16.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Details of thousands of US immigration agents leaked in major hack",
-        "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
-        "publishedAt": "2026-10-29T01:30:43.000Z",
+        "description": "The brother of the singer's late personal assistant said she would not have wanted the items to be sold.",
+        "publishedAt": "2026-10-29T15:58:05.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -463,46 +463,57 @@
   "business_us": {
     "articles": [
       {
+        "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+        "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
+        "publishedAt": "2026-10-29T15:25:08.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+        "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Budget forecasts show growth in living standards grinding almost to a halt.",
+        "publishedAt": "2026-10-29T13:19:24.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Faisal Islam: This Budget was micro and that was deliberate",
+        "url": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
+        "publishedAt": "2026-10-29T15:48:44.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Bereaved families will not face tax bill over pension delays under new rules",
+        "url": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault.",
+        "publishedAt": "2026-10-29T15:18:04.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
         "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
-        "publishedAt": "2026-10-29T00:00:25.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "What we now know about the UK economy in four charts",
-        "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
-        "publishedAt": "2026-10-28T20:08:45.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "What the Budget offers for under 25s - and what it leaves out",
-        "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
-        "publishedAt": "2026-10-28T20:02:38.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Your pay, energy bills and savings: How the Budget affects you",
-        "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
-        "publishedAt": "2026-10-28T16:43:35.000Z",
+        "publishedAt": "2026-10-29T11:52:55.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -518,35 +529,24 @@
         "zone": "us"
       },
       {
-        "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-        "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+        "title": "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
+        "url": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
-        "publishedAt": "2026-10-28T18:45:09.000Z",
+        "description": "Instacart shoppers will be able to buy from 150,000 stores, compared to the 100,000 currently available on the platform, the firms said.",
+        "publishedAt": "2026-10-29T15:05:15.000Z",
         "category": "business",
         "zone": "us"
       },
       {
-        "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-        "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+        "title": "What we now know about the UK economy in four charts",
+        "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-        "publishedAt": "2026-10-28T19:51:01.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Microsoft profits soar days after announcing thousands of layoffs",
-        "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
-        "publishedAt": "2026-10-29T01:27:40.000Z",
+        "description": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+        "publishedAt": "2026-10-28T20:08:45.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,46 +555,57 @@
   "business_gb": {
     "articles": [
       {
+        "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+        "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
+        "publishedAt": "2026-10-29T15:25:08.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+        "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Budget forecasts show growth in living standards grinding almost to a halt.",
+        "publishedAt": "2026-10-29T13:19:24.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Faisal Islam: This Budget was micro and that was deliberate",
+        "url": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
+        "publishedAt": "2026-10-29T15:48:44.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Bereaved families will not face tax bill over pension delays under new rules",
+        "url": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault.",
+        "publishedAt": "2026-10-29T15:18:04.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
         "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
-        "publishedAt": "2026-10-29T00:00:25.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "What we now know about the UK economy in four charts",
-        "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
-        "publishedAt": "2026-10-28T20:08:45.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "What the Budget offers for under 25s - and what it leaves out",
-        "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
-        "publishedAt": "2026-10-28T20:02:38.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Your pay, energy bills and savings: How the Budget affects you",
-        "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
-        "publishedAt": "2026-10-28T16:43:35.000Z",
+        "publishedAt": "2026-10-29T11:52:55.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -610,35 +621,24 @@
         "zone": "gb"
       },
       {
-        "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-        "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+        "title": "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
+        "url": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
-        "publishedAt": "2026-10-28T18:45:09.000Z",
+        "description": "Instacart shoppers will be able to buy from 150,000 stores, compared to the 100,000 currently available on the platform, the firms said.",
+        "publishedAt": "2026-10-29T15:05:15.000Z",
         "category": "business",
         "zone": "gb"
       },
       {
-        "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-        "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+        "title": "What we now know about the UK economy in four charts",
+        "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-        "publishedAt": "2026-10-28T19:51:01.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Microsoft profits soar days after announcing thousands of layoffs",
-        "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
-        "publishedAt": "2026-10-29T01:27:40.000Z",
+        "description": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+        "publishedAt": "2026-10-28T20:08:45.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,46 +647,57 @@
   "business_in": {
     "articles": [
       {
+        "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+        "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
+        "publishedAt": "2026-10-29T15:25:08.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+        "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Budget forecasts show growth in living standards grinding almost to a halt.",
+        "publishedAt": "2026-10-29T13:19:24.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Faisal Islam: This Budget was micro and that was deliberate",
+        "url": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
+        "publishedAt": "2026-10-29T15:48:44.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Bereaved families will not face tax bill over pension delays under new rules",
+        "url": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault.",
+        "publishedAt": "2026-10-29T15:18:04.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
         "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
-        "publishedAt": "2026-10-29T00:00:25.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "What we now know about the UK economy in four charts",
-        "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
-        "publishedAt": "2026-10-28T20:08:45.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "What the Budget offers for under 25s - and what it leaves out",
-        "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
-        "publishedAt": "2026-10-28T20:02:38.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Your pay, energy bills and savings: How the Budget affects you",
-        "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
-        "publishedAt": "2026-10-28T16:43:35.000Z",
+        "publishedAt": "2026-10-29T11:52:55.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -702,35 +713,24 @@
         "zone": "in"
       },
       {
-        "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-        "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+        "title": "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
+        "url": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
-        "publishedAt": "2026-10-28T18:45:09.000Z",
+        "description": "Instacart shoppers will be able to buy from 150,000 stores, compared to the 100,000 currently available on the platform, the firms said.",
+        "publishedAt": "2026-10-29T15:05:15.000Z",
         "category": "business",
         "zone": "in"
       },
       {
-        "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-        "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+        "title": "What we now know about the UK economy in four charts",
+        "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-        "publishedAt": "2026-10-28T19:51:01.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Microsoft profits soar days after announcing thousands of layoffs",
-        "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
-        "publishedAt": "2026-10-29T01:27:40.000Z",
+        "description": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+        "publishedAt": "2026-10-28T20:08:45.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,46 +739,57 @@
   "business_au": {
     "articles": [
       {
+        "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+        "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
+        "publishedAt": "2026-10-29T15:25:08.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+        "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Budget forecasts show growth in living standards grinding almost to a halt.",
+        "publishedAt": "2026-10-29T13:19:24.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Faisal Islam: This Budget was micro and that was deliberate",
+        "url": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
+        "publishedAt": "2026-10-29T15:48:44.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Bereaved families will not face tax bill over pension delays under new rules",
+        "url": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault.",
+        "publishedAt": "2026-10-29T15:18:04.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
         "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
-        "publishedAt": "2026-10-29T00:00:25.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "What we now know about the UK economy in four charts",
-        "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
-        "publishedAt": "2026-10-28T20:08:45.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "What the Budget offers for under 25s - and what it leaves out",
-        "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
-        "publishedAt": "2026-10-28T20:02:38.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Your pay, energy bills and savings: How the Budget affects you",
-        "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
-        "publishedAt": "2026-10-28T16:43:35.000Z",
+        "publishedAt": "2026-10-29T11:52:55.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -794,35 +805,24 @@
         "zone": "au"
       },
       {
-        "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-        "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+        "title": "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
+        "url": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
-        "publishedAt": "2026-10-28T18:45:09.000Z",
+        "description": "Instacart shoppers will be able to buy from 150,000 stores, compared to the 100,000 currently available on the platform, the firms said.",
+        "publishedAt": "2026-10-29T15:05:15.000Z",
         "category": "business",
         "zone": "au"
       },
       {
-        "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-        "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+        "title": "What we now know about the UK economy in four charts",
+        "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-        "publishedAt": "2026-10-28T19:51:01.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Microsoft profits soar days after announcing thousands of layoffs",
-        "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
-        "publishedAt": "2026-10-29T01:27:40.000Z",
+        "description": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+        "publishedAt": "2026-10-28T20:08:45.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,46 +831,57 @@
   "business_ca": {
     "articles": [
       {
+        "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+        "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
+        "publishedAt": "2026-10-29T15:25:08.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+        "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Budget forecasts show growth in living standards grinding almost to a halt.",
+        "publishedAt": "2026-10-29T13:19:24.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Faisal Islam: This Budget was micro and that was deliberate",
+        "url": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
+        "publishedAt": "2026-10-29T15:48:44.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Bereaved families will not face tax bill over pension delays under new rules",
+        "url": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault.",
+        "publishedAt": "2026-10-29T15:18:04.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
         "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
-        "publishedAt": "2026-10-29T00:00:25.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "What we now know about the UK economy in four charts",
-        "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
-        "publishedAt": "2026-10-28T20:08:45.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "What the Budget offers for under 25s - and what it leaves out",
-        "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
-        "publishedAt": "2026-10-28T20:02:38.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Your pay, energy bills and savings: How the Budget affects you",
-        "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
-        "publishedAt": "2026-10-28T16:43:35.000Z",
+        "publishedAt": "2026-10-29T11:52:55.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -886,35 +897,24 @@
         "zone": "ca"
       },
       {
-        "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-        "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+        "title": "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
+        "url": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
-        "publishedAt": "2026-10-28T18:45:09.000Z",
+        "description": "Instacart shoppers will be able to buy from 150,000 stores, compared to the 100,000 currently available on the platform, the firms said.",
+        "publishedAt": "2026-10-29T15:05:15.000Z",
         "category": "business",
         "zone": "ca"
       },
       {
-        "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-        "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+        "title": "What we now know about the UK economy in four charts",
+        "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-        "publishedAt": "2026-10-28T19:51:01.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Microsoft profits soar days after announcing thousands of layoffs",
-        "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
-        "publishedAt": "2026-10-29T01:27:40.000Z",
+        "description": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+        "publishedAt": "2026-10-28T20:08:45.000Z",
         "category": "business",
         "zone": "ca"
       }
@@ -923,13 +923,24 @@
   "entertainment_us": {
     "articles": [
       {
-        "title": "Row over George Michael items up for auction - including Faith guitar",
+        "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
+        "url": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Laura Brand tells the jury at his trial she feels \"very seen by him\" and \"I love him very much\".",
+        "publishedAt": "2026-10-29T12:52:50.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "George Michael's Faith guitar sells for £180k after auction row",
         "url": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The brother of the singer's late personal assistant says she would not have wanted the items to be sold.",
-        "publishedAt": "2026-10-29T00:01:16.000Z",
+        "description": "The brother of the singer's late personal assistant said she would not have wanted the items to be sold.",
+        "publishedAt": "2026-10-29T15:58:05.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -978,17 +989,6 @@
         "zone": "us"
       },
       {
-        "title": "Russell Brand tells trial sexual consent is 'fundamental'",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The entertainer gives evidence at his trial on charges including rape and assault, which he denies.",
-        "publishedAt": "2026-10-28T17:42:10.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
         "title": "Sam Fender pre-sale moved after 'bot attack'",
         "url": "https://www.bbc.co.uk/news/articles/cw3djl5vk3v3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1000,13 +1000,13 @@
         "zone": "us"
       },
       {
-        "title": "Babydoll singer says life will 'never be the same again' after UK number one",
-        "url": "https://www.bbc.co.uk/news/articles/c6qjn849ydlno?at_medium=RSS&at_campaign=rss",
+        "title": "Liverpool's Littlewoods film studios plan given £20m Budget boost",
+        "url": "https://www.bbc.co.uk/news/articles/cqz0ve188r94o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The singer is finding genuine joy in life again after a difficult period led to him quitting music.",
-        "publishedAt": "2026-10-28T18:30:13.000Z",
+        "description": "The long-delayed redevelopment is subject to final approval, with calls for strict oversight.",
+        "publishedAt": "2026-10-28T21:09:34.000Z",
         "category": "entertainment",
         "zone": "us"
       }
@@ -1015,13 +1015,24 @@
   "entertainment_gb": {
     "articles": [
       {
-        "title": "Row over George Michael items up for auction - including Faith guitar",
+        "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
+        "url": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Laura Brand tells the jury at his trial she feels \"very seen by him\" and \"I love him very much\".",
+        "publishedAt": "2026-10-29T12:52:50.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "George Michael's Faith guitar sells for £180k after auction row",
         "url": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The brother of the singer's late personal assistant says she would not have wanted the items to be sold.",
-        "publishedAt": "2026-10-29T00:01:16.000Z",
+        "description": "The brother of the singer's late personal assistant said she would not have wanted the items to be sold.",
+        "publishedAt": "2026-10-29T15:58:05.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1070,17 +1081,6 @@
         "zone": "gb"
       },
       {
-        "title": "Russell Brand tells trial sexual consent is 'fundamental'",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The entertainer gives evidence at his trial on charges including rape and assault, which he denies.",
-        "publishedAt": "2026-10-28T17:42:10.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
         "title": "Sam Fender pre-sale moved after 'bot attack'",
         "url": "https://www.bbc.co.uk/news/articles/cw3djl5vk3v3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1092,13 +1092,13 @@
         "zone": "gb"
       },
       {
-        "title": "Babydoll singer says life will 'never be the same again' after UK number one",
-        "url": "https://www.bbc.co.uk/news/articles/c6qjn849ydlno?at_medium=RSS&at_campaign=rss",
+        "title": "Liverpool's Littlewoods film studios plan given £20m Budget boost",
+        "url": "https://www.bbc.co.uk/news/articles/cqz0ve188r94o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The singer is finding genuine joy in life again after a difficult period led to him quitting music.",
-        "publishedAt": "2026-10-28T18:30:13.000Z",
+        "description": "The long-delayed redevelopment is subject to final approval, with calls for strict oversight.",
+        "publishedAt": "2026-10-28T21:09:34.000Z",
         "category": "entertainment",
         "zone": "gb"
       }
@@ -1107,13 +1107,24 @@
   "entertainment_in": {
     "articles": [
       {
-        "title": "Row over George Michael items up for auction - including Faith guitar",
+        "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
+        "url": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Laura Brand tells the jury at his trial she feels \"very seen by him\" and \"I love him very much\".",
+        "publishedAt": "2026-10-29T12:52:50.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "George Michael's Faith guitar sells for £180k after auction row",
         "url": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The brother of the singer's late personal assistant says she would not have wanted the items to be sold.",
-        "publishedAt": "2026-10-29T00:01:16.000Z",
+        "description": "The brother of the singer's late personal assistant said she would not have wanted the items to be sold.",
+        "publishedAt": "2026-10-29T15:58:05.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1162,17 +1173,6 @@
         "zone": "in"
       },
       {
-        "title": "Russell Brand tells trial sexual consent is 'fundamental'",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The entertainer gives evidence at his trial on charges including rape and assault, which he denies.",
-        "publishedAt": "2026-10-28T17:42:10.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
         "title": "Sam Fender pre-sale moved after 'bot attack'",
         "url": "https://www.bbc.co.uk/news/articles/cw3djl5vk3v3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1184,13 +1184,13 @@
         "zone": "in"
       },
       {
-        "title": "Babydoll singer says life will 'never be the same again' after UK number one",
-        "url": "https://www.bbc.co.uk/news/articles/c6qjn849ydlno?at_medium=RSS&at_campaign=rss",
+        "title": "Liverpool's Littlewoods film studios plan given £20m Budget boost",
+        "url": "https://www.bbc.co.uk/news/articles/cqz0ve188r94o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The singer is finding genuine joy in life again after a difficult period led to him quitting music.",
-        "publishedAt": "2026-10-28T18:30:13.000Z",
+        "description": "The long-delayed redevelopment is subject to final approval, with calls for strict oversight.",
+        "publishedAt": "2026-10-28T21:09:34.000Z",
         "category": "entertainment",
         "zone": "in"
       }
@@ -1199,13 +1199,24 @@
   "entertainment_au": {
     "articles": [
       {
-        "title": "Row over George Michael items up for auction - including Faith guitar",
+        "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
+        "url": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Laura Brand tells the jury at his trial she feels \"very seen by him\" and \"I love him very much\".",
+        "publishedAt": "2026-10-29T12:52:50.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "George Michael's Faith guitar sells for £180k after auction row",
         "url": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The brother of the singer's late personal assistant says she would not have wanted the items to be sold.",
-        "publishedAt": "2026-10-29T00:01:16.000Z",
+        "description": "The brother of the singer's late personal assistant said she would not have wanted the items to be sold.",
+        "publishedAt": "2026-10-29T15:58:05.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1254,17 +1265,6 @@
         "zone": "au"
       },
       {
-        "title": "Russell Brand tells trial sexual consent is 'fundamental'",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The entertainer gives evidence at his trial on charges including rape and assault, which he denies.",
-        "publishedAt": "2026-10-28T17:42:10.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
         "title": "Sam Fender pre-sale moved after 'bot attack'",
         "url": "https://www.bbc.co.uk/news/articles/cw3djl5vk3v3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1276,13 +1276,13 @@
         "zone": "au"
       },
       {
-        "title": "Babydoll singer says life will 'never be the same again' after UK number one",
-        "url": "https://www.bbc.co.uk/news/articles/c6qjn849ydlno?at_medium=RSS&at_campaign=rss",
+        "title": "Liverpool's Littlewoods film studios plan given £20m Budget boost",
+        "url": "https://www.bbc.co.uk/news/articles/cqz0ve188r94o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The singer is finding genuine joy in life again after a difficult period led to him quitting music.",
-        "publishedAt": "2026-10-28T18:30:13.000Z",
+        "description": "The long-delayed redevelopment is subject to final approval, with calls for strict oversight.",
+        "publishedAt": "2026-10-28T21:09:34.000Z",
         "category": "entertainment",
         "zone": "au"
       }
@@ -1291,13 +1291,24 @@
   "entertainment_ca": {
     "articles": [
       {
-        "title": "Row over George Michael items up for auction - including Faith guitar",
+        "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
+        "url": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Laura Brand tells the jury at his trial she feels \"very seen by him\" and \"I love him very much\".",
+        "publishedAt": "2026-10-29T12:52:50.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "George Michael's Faith guitar sells for £180k after auction row",
         "url": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The brother of the singer's late personal assistant says she would not have wanted the items to be sold.",
-        "publishedAt": "2026-10-29T00:01:16.000Z",
+        "description": "The brother of the singer's late personal assistant said she would not have wanted the items to be sold.",
+        "publishedAt": "2026-10-29T15:58:05.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1346,17 +1357,6 @@
         "zone": "ca"
       },
       {
-        "title": "Russell Brand tells trial sexual consent is 'fundamental'",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The entertainer gives evidence at his trial on charges including rape and assault, which he denies.",
-        "publishedAt": "2026-10-28T17:42:10.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
         "title": "Sam Fender pre-sale moved after 'bot attack'",
         "url": "https://www.bbc.co.uk/news/articles/cw3djl5vk3v3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1368,13 +1368,13 @@
         "zone": "ca"
       },
       {
-        "title": "Babydoll singer says life will 'never be the same again' after UK number one",
-        "url": "https://www.bbc.co.uk/news/articles/c6qjn849ydlno?at_medium=RSS&at_campaign=rss",
+        "title": "Liverpool's Littlewoods film studios plan given £20m Budget boost",
+        "url": "https://www.bbc.co.uk/news/articles/cqz0ve188r94o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The singer is finding genuine joy in life again after a difficult period led to him quitting music.",
-        "publishedAt": "2026-10-28T18:30:13.000Z",
+        "description": "The long-delayed redevelopment is subject to final approval, with calls for strict oversight.",
+        "publishedAt": "2026-10-28T21:09:34.000Z",
         "category": "entertainment",
         "zone": "ca"
       }
@@ -1843,6 +1843,17 @@
   "science_us": {
     "articles": [
       {
+        "title": "Astronauts step out of the ISS for spacewalk – watch live",
+        "url": "https://www.theguardian.com/science/video/2026/oct/29/astronauts-step-out-of-the-iss-for-spacewalk-watch-live",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk perform spacewalk to install and deploy an International Space Station Roll-Out Solar Array (IROSA). Continue reading...",
+        "publishedAt": "2026-10-29T10:37:14.000Z",
+        "category": "science",
+        "zone": "us"
+      },
+      {
         "title": "How rising seas transformed dry land into Venice lagoon",
         "url": "https://www.theguardian.com/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon",
         "source": {
@@ -1894,17 +1905,6 @@
         },
         "description": "Sale makes ‘Jodi’, a smaller relative of T rex, the ‘second most valuable dinosaur ever sold at auction’, Sotheby’s says A rare skeleton of a Nanotyrannus, a smaller relative of the Tyrannosaurus rex, sold at auction in New York this week for $47.3m, making it one of the world’s most expensive fossils. The skeleton, named “Jodi” after the person who found the remains in 2019, sold at Sotheby’s on Tuesday for $47.3m, “after a twelve-minute bidding battle that saw six bidders compete online and over the phones, before ultimately selling on the phone”, Sotheby’s said in a statement. Continue reading...",
         "publishedAt": "2026-10-27T21:40:13.000Z",
-        "category": "science",
-        "zone": "us"
-      },
-      {
-        "title": "‘Maxxing’ is Dictionary.com’s word of the year: ‘It’s cooler than saying you’re doing more’",
-        "url": "https://www.theguardian.com/science/2026/oct/26/maxxing-word-of-the-year-dictionary",
-        "source": {
-          "name": "Matthew Cantor"
-        },
-        "description": "As all facets of our lives are optimized, the suffix has become inescapable - and experts predict it’s around to stay Maxxing is not a new concept. Dungeons and Dragons players have been “min-maxing” character stats for years; Will Smith was maxin’ and relaxin’ in the 90s; as far back as the 40s, the term was used in game theory. But in the past few years, as all facets of our lives are optimized, the suffix has become inescapable. We’re personalitymaxxing to charm our peers and sleepmaxxing to get the best possible rest; the Pentagon brags about “lethalitymaxxing”. Continue reading...",
-        "publishedAt": "2026-10-26T12:15:41.000Z",
         "category": "science",
         "zone": "us"
       },
@@ -1935,6 +1935,17 @@
   "science_gb": {
     "articles": [
       {
+        "title": "Astronauts step out of the ISS for spacewalk – watch live",
+        "url": "https://www.theguardian.com/science/video/2026/oct/29/astronauts-step-out-of-the-iss-for-spacewalk-watch-live",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk perform spacewalk to install and deploy an International Space Station Roll-Out Solar Array (IROSA). Continue reading...",
+        "publishedAt": "2026-10-29T10:37:14.000Z",
+        "category": "science",
+        "zone": "gb"
+      },
+      {
         "title": "How rising seas transformed dry land into Venice lagoon",
         "url": "https://www.theguardian.com/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon",
         "source": {
@@ -1986,17 +1997,6 @@
         },
         "description": "Sale makes ‘Jodi’, a smaller relative of T rex, the ‘second most valuable dinosaur ever sold at auction’, Sotheby’s says A rare skeleton of a Nanotyrannus, a smaller relative of the Tyrannosaurus rex, sold at auction in New York this week for $47.3m, making it one of the world’s most expensive fossils. The skeleton, named “Jodi” after the person who found the remains in 2019, sold at Sotheby’s on Tuesday for $47.3m, “after a twelve-minute bidding battle that saw six bidders compete online and over the phones, before ultimately selling on the phone”, Sotheby’s said in a statement. Continue reading...",
         "publishedAt": "2026-10-27T21:40:13.000Z",
-        "category": "science",
-        "zone": "gb"
-      },
-      {
-        "title": "‘Maxxing’ is Dictionary.com’s word of the year: ‘It’s cooler than saying you’re doing more’",
-        "url": "https://www.theguardian.com/science/2026/oct/26/maxxing-word-of-the-year-dictionary",
-        "source": {
-          "name": "Matthew Cantor"
-        },
-        "description": "As all facets of our lives are optimized, the suffix has become inescapable - and experts predict it’s around to stay Maxxing is not a new concept. Dungeons and Dragons players have been “min-maxing” character stats for years; Will Smith was maxin’ and relaxin’ in the 90s; as far back as the 40s, the term was used in game theory. But in the past few years, as all facets of our lives are optimized, the suffix has become inescapable. We’re personalitymaxxing to charm our peers and sleepmaxxing to get the best possible rest; the Pentagon brags about “lethalitymaxxing”. Continue reading...",
-        "publishedAt": "2026-10-26T12:15:41.000Z",
         "category": "science",
         "zone": "gb"
       },
@@ -2027,6 +2027,17 @@
   "science_in": {
     "articles": [
       {
+        "title": "Astronauts step out of the ISS for spacewalk – watch live",
+        "url": "https://www.theguardian.com/science/video/2026/oct/29/astronauts-step-out-of-the-iss-for-spacewalk-watch-live",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk perform spacewalk to install and deploy an International Space Station Roll-Out Solar Array (IROSA). Continue reading...",
+        "publishedAt": "2026-10-29T10:37:14.000Z",
+        "category": "science",
+        "zone": "in"
+      },
+      {
         "title": "How rising seas transformed dry land into Venice lagoon",
         "url": "https://www.theguardian.com/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon",
         "source": {
@@ -2078,17 +2089,6 @@
         },
         "description": "Sale makes ‘Jodi’, a smaller relative of T rex, the ‘second most valuable dinosaur ever sold at auction’, Sotheby’s says A rare skeleton of a Nanotyrannus, a smaller relative of the Tyrannosaurus rex, sold at auction in New York this week for $47.3m, making it one of the world’s most expensive fossils. The skeleton, named “Jodi” after the person who found the remains in 2019, sold at Sotheby’s on Tuesday for $47.3m, “after a twelve-minute bidding battle that saw six bidders compete online and over the phones, before ultimately selling on the phone”, Sotheby’s said in a statement. Continue reading...",
         "publishedAt": "2026-10-27T21:40:13.000Z",
-        "category": "science",
-        "zone": "in"
-      },
-      {
-        "title": "‘Maxxing’ is Dictionary.com’s word of the year: ‘It’s cooler than saying you’re doing more’",
-        "url": "https://www.theguardian.com/science/2026/oct/26/maxxing-word-of-the-year-dictionary",
-        "source": {
-          "name": "Matthew Cantor"
-        },
-        "description": "As all facets of our lives are optimized, the suffix has become inescapable - and experts predict it’s around to stay Maxxing is not a new concept. Dungeons and Dragons players have been “min-maxing” character stats for years; Will Smith was maxin’ and relaxin’ in the 90s; as far back as the 40s, the term was used in game theory. But in the past few years, as all facets of our lives are optimized, the suffix has become inescapable. We’re personalitymaxxing to charm our peers and sleepmaxxing to get the best possible rest; the Pentagon brags about “lethalitymaxxing”. Continue reading...",
-        "publishedAt": "2026-10-26T12:15:41.000Z",
         "category": "science",
         "zone": "in"
       },
@@ -2119,6 +2119,17 @@
   "science_au": {
     "articles": [
       {
+        "title": "Astronauts step out of the ISS for spacewalk – watch live",
+        "url": "https://www.theguardian.com/science/video/2026/oct/29/astronauts-step-out-of-the-iss-for-spacewalk-watch-live",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk perform spacewalk to install and deploy an International Space Station Roll-Out Solar Array (IROSA). Continue reading...",
+        "publishedAt": "2026-10-29T10:37:14.000Z",
+        "category": "science",
+        "zone": "au"
+      },
+      {
         "title": "How rising seas transformed dry land into Venice lagoon",
         "url": "https://www.theguardian.com/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon",
         "source": {
@@ -2170,17 +2181,6 @@
         },
         "description": "Sale makes ‘Jodi’, a smaller relative of T rex, the ‘second most valuable dinosaur ever sold at auction’, Sotheby’s says A rare skeleton of a Nanotyrannus, a smaller relative of the Tyrannosaurus rex, sold at auction in New York this week for $47.3m, making it one of the world’s most expensive fossils. The skeleton, named “Jodi” after the person who found the remains in 2019, sold at Sotheby’s on Tuesday for $47.3m, “after a twelve-minute bidding battle that saw six bidders compete online and over the phones, before ultimately selling on the phone”, Sotheby’s said in a statement. Continue reading...",
         "publishedAt": "2026-10-27T21:40:13.000Z",
-        "category": "science",
-        "zone": "au"
-      },
-      {
-        "title": "‘Maxxing’ is Dictionary.com’s word of the year: ‘It’s cooler than saying you’re doing more’",
-        "url": "https://www.theguardian.com/science/2026/oct/26/maxxing-word-of-the-year-dictionary",
-        "source": {
-          "name": "Matthew Cantor"
-        },
-        "description": "As all facets of our lives are optimized, the suffix has become inescapable - and experts predict it’s around to stay Maxxing is not a new concept. Dungeons and Dragons players have been “min-maxing” character stats for years; Will Smith was maxin’ and relaxin’ in the 90s; as far back as the 40s, the term was used in game theory. But in the past few years, as all facets of our lives are optimized, the suffix has become inescapable. We’re personalitymaxxing to charm our peers and sleepmaxxing to get the best possible rest; the Pentagon brags about “lethalitymaxxing”. Continue reading...",
-        "publishedAt": "2026-10-26T12:15:41.000Z",
         "category": "science",
         "zone": "au"
       },
@@ -2211,6 +2211,17 @@
   "science_ca": {
     "articles": [
       {
+        "title": "Astronauts step out of the ISS for spacewalk – watch live",
+        "url": "https://www.theguardian.com/science/video/2026/oct/29/astronauts-step-out-of-the-iss-for-spacewalk-watch-live",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk perform spacewalk to install and deploy an International Space Station Roll-Out Solar Array (IROSA). Continue reading...",
+        "publishedAt": "2026-10-29T10:37:14.000Z",
+        "category": "science",
+        "zone": "ca"
+      },
+      {
         "title": "How rising seas transformed dry land into Venice lagoon",
         "url": "https://www.theguardian.com/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon",
         "source": {
@@ -2266,17 +2277,6 @@
         "zone": "ca"
       },
       {
-        "title": "‘Maxxing’ is Dictionary.com’s word of the year: ‘It’s cooler than saying you’re doing more’",
-        "url": "https://www.theguardian.com/science/2026/oct/26/maxxing-word-of-the-year-dictionary",
-        "source": {
-          "name": "Matthew Cantor"
-        },
-        "description": "As all facets of our lives are optimized, the suffix has become inescapable - and experts predict it’s around to stay Maxxing is not a new concept. Dungeons and Dragons players have been “min-maxing” character stats for years; Will Smith was maxin’ and relaxin’ in the 90s; as far back as the 40s, the term was used in game theory. But in the past few years, as all facets of our lives are optimized, the suffix has become inescapable. We’re personalitymaxxing to charm our peers and sleepmaxxing to get the best possible rest; the Pentagon brags about “lethalitymaxxing”. Continue reading...",
-        "publishedAt": "2026-10-26T12:15:41.000Z",
-        "category": "science",
-        "zone": "ca"
-      },
-      {
         "title": "Perimenopause is everywhere. How do you know if you’re in it? - video",
         "url": "https://www.theguardian.com/science/video/2026/oct/27/perimenopause-is-everywhere-how-do-you-know-if-youre-in-it-video",
         "source": {
@@ -2303,68 +2303,57 @@
   "sports_us": {
     "articles": [
       {
+        "title": "'Fully committed' Fernandes to remain Man Utd captain",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester United head coach Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea.",
+        "publishedAt": "2026-10-29T14:31:52.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Is the double drop from the Premier League becoming more common?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.",
+        "publishedAt": "2026-10-29T13:19:52.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Mourinho and chaos - is Real Madrid boss misunderstood?",
         "url": "https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona last week show he's been misunderstood?",
+        "description": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona show he's been misunderstood?",
         "publishedAt": "2026-10-29T08:07:22.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss",
+        "title": "Garcia targets Ryder Cup return as he confirms LIV exit",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cw3djl7mz90zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him.",
-        "publishedAt": "2026-10-29T06:27:10.000Z",
+        "description": "Sergio Garcia becomes the latest big name to quit LIV Golf and targets a Ryder Cup return after saying he will rejoin the DP World Tour.",
+        "publishedAt": "2026-10-29T15:55:55.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Brewers win first World Series in 57-year history",
-        "url": "https://www.bbc.co.uk/sport/baseball/articles/c5x2v991l0lvo?at_medium=RSS&at_campaign=rss",
+        "title": "'Hungrier than ever' - Paul to return on 24 December",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cvkgkx496e0ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Milwaukee Brewers win the World Series for the first time in the franchise's 57-year history after beating the Tampa Bay Rays in game five on Wednesday.",
-        "publishedAt": "2026-10-29T07:56:38.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Estevao plays no part as Chelsea lose on penalties to Liverpool in the Carabao Cup - so where does this leave the exciting Brazilian with Xabi Alonso?",
-        "publishedAt": "2026-10-29T00:05:21.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Who am I? Plus today's other quizzes",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqr7y1218vjvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.",
-        "publishedAt": "2026-10-29T06:23:21.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Wales make five changes as Lynn rewards bench",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c804032de6yyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Head coach Sean Lynn makes five changes for Saturday's WXV Test against Japan following last week's impressive second-half performance.",
-        "publishedAt": "2026-10-29T07:59:38.000Z",
+        "description": "Jake Paul returns to the ring for the first time since losing to Anthony Joshua against a yet to be confirmed opponent on 24 December.",
+        "publishedAt": "2026-10-29T11:06:04.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2380,13 +2369,24 @@
         "zone": "us"
       },
       {
-        "title": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
-        "url": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no?at_medium=RSS&at_campaign=rss",
+        "title": "Sometimes managers need sacking for own good - Neville",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Geronimo Rulli's penalty shootout heroics may have put the pressure on Gianluigi Donnarumma at Manchester City, but manager Enzo Maresca has no doubt about his number one.",
-        "publishedAt": "2026-10-28T23:10:06.000Z",
+        "description": "Gary Neville says managers sometimes need to be sacked \"for their own good\" as Manchester United persist with under-pressure boss Michael Carrick.",
+        "publishedAt": "2026-10-29T11:00:53.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him.",
+        "publishedAt": "2026-10-29T06:27:10.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,68 +2395,57 @@
   "sports_gb": {
     "articles": [
       {
+        "title": "'Fully committed' Fernandes to remain Man Utd captain",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester United head coach Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea.",
+        "publishedAt": "2026-10-29T14:31:52.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Is the double drop from the Premier League becoming more common?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.",
+        "publishedAt": "2026-10-29T13:19:52.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Mourinho and chaos - is Real Madrid boss misunderstood?",
         "url": "https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona last week show he's been misunderstood?",
+        "description": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona show he's been misunderstood?",
         "publishedAt": "2026-10-29T08:07:22.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss",
+        "title": "Garcia targets Ryder Cup return as he confirms LIV exit",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cw3djl7mz90zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him.",
-        "publishedAt": "2026-10-29T06:27:10.000Z",
+        "description": "Sergio Garcia becomes the latest big name to quit LIV Golf and targets a Ryder Cup return after saying he will rejoin the DP World Tour.",
+        "publishedAt": "2026-10-29T15:55:55.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Brewers win first World Series in 57-year history",
-        "url": "https://www.bbc.co.uk/sport/baseball/articles/c5x2v991l0lvo?at_medium=RSS&at_campaign=rss",
+        "title": "'Hungrier than ever' - Paul to return on 24 December",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cvkgkx496e0ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Milwaukee Brewers win the World Series for the first time in the franchise's 57-year history after beating the Tampa Bay Rays in game five on Wednesday.",
-        "publishedAt": "2026-10-29T07:56:38.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Estevao plays no part as Chelsea lose on penalties to Liverpool in the Carabao Cup - so where does this leave the exciting Brazilian with Xabi Alonso?",
-        "publishedAt": "2026-10-29T00:05:21.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Who am I? Plus today's other quizzes",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqr7y1218vjvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.",
-        "publishedAt": "2026-10-29T06:23:21.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Wales make five changes as Lynn rewards bench",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c804032de6yyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Head coach Sean Lynn makes five changes for Saturday's WXV Test against Japan following last week's impressive second-half performance.",
-        "publishedAt": "2026-10-29T07:59:38.000Z",
+        "description": "Jake Paul returns to the ring for the first time since losing to Anthony Joshua against a yet to be confirmed opponent on 24 December.",
+        "publishedAt": "2026-10-29T11:06:04.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2472,13 +2461,24 @@
         "zone": "gb"
       },
       {
-        "title": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
-        "url": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no?at_medium=RSS&at_campaign=rss",
+        "title": "Sometimes managers need sacking for own good - Neville",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Geronimo Rulli's penalty shootout heroics may have put the pressure on Gianluigi Donnarumma at Manchester City, but manager Enzo Maresca has no doubt about his number one.",
-        "publishedAt": "2026-10-28T23:10:06.000Z",
+        "description": "Gary Neville says managers sometimes need to be sacked \"for their own good\" as Manchester United persist with under-pressure boss Michael Carrick.",
+        "publishedAt": "2026-10-29T11:00:53.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him.",
+        "publishedAt": "2026-10-29T06:27:10.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,68 +2487,57 @@
   "sports_in": {
     "articles": [
       {
+        "title": "'Fully committed' Fernandes to remain Man Utd captain",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester United head coach Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea.",
+        "publishedAt": "2026-10-29T14:31:52.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Is the double drop from the Premier League becoming more common?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.",
+        "publishedAt": "2026-10-29T13:19:52.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Mourinho and chaos - is Real Madrid boss misunderstood?",
         "url": "https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona last week show he's been misunderstood?",
+        "description": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona show he's been misunderstood?",
         "publishedAt": "2026-10-29T08:07:22.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss",
+        "title": "Garcia targets Ryder Cup return as he confirms LIV exit",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cw3djl7mz90zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him.",
-        "publishedAt": "2026-10-29T06:27:10.000Z",
+        "description": "Sergio Garcia becomes the latest big name to quit LIV Golf and targets a Ryder Cup return after saying he will rejoin the DP World Tour.",
+        "publishedAt": "2026-10-29T15:55:55.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Brewers win first World Series in 57-year history",
-        "url": "https://www.bbc.co.uk/sport/baseball/articles/c5x2v991l0lvo?at_medium=RSS&at_campaign=rss",
+        "title": "'Hungrier than ever' - Paul to return on 24 December",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cvkgkx496e0ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Milwaukee Brewers win the World Series for the first time in the franchise's 57-year history after beating the Tampa Bay Rays in game five on Wednesday.",
-        "publishedAt": "2026-10-29T07:56:38.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Estevao plays no part as Chelsea lose on penalties to Liverpool in the Carabao Cup - so where does this leave the exciting Brazilian with Xabi Alonso?",
-        "publishedAt": "2026-10-29T00:05:21.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Who am I? Plus today's other quizzes",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqr7y1218vjvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.",
-        "publishedAt": "2026-10-29T06:23:21.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Wales make five changes as Lynn rewards bench",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c804032de6yyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Head coach Sean Lynn makes five changes for Saturday's WXV Test against Japan following last week's impressive second-half performance.",
-        "publishedAt": "2026-10-29T07:59:38.000Z",
+        "description": "Jake Paul returns to the ring for the first time since losing to Anthony Joshua against a yet to be confirmed opponent on 24 December.",
+        "publishedAt": "2026-10-29T11:06:04.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2564,13 +2553,24 @@
         "zone": "in"
       },
       {
-        "title": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
-        "url": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no?at_medium=RSS&at_campaign=rss",
+        "title": "Sometimes managers need sacking for own good - Neville",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Geronimo Rulli's penalty shootout heroics may have put the pressure on Gianluigi Donnarumma at Manchester City, but manager Enzo Maresca has no doubt about his number one.",
-        "publishedAt": "2026-10-28T23:10:06.000Z",
+        "description": "Gary Neville says managers sometimes need to be sacked \"for their own good\" as Manchester United persist with under-pressure boss Michael Carrick.",
+        "publishedAt": "2026-10-29T11:00:53.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him.",
+        "publishedAt": "2026-10-29T06:27:10.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,68 +2579,57 @@
   "sports_au": {
     "articles": [
       {
+        "title": "'Fully committed' Fernandes to remain Man Utd captain",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester United head coach Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea.",
+        "publishedAt": "2026-10-29T14:31:52.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Is the double drop from the Premier League becoming more common?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.",
+        "publishedAt": "2026-10-29T13:19:52.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Mourinho and chaos - is Real Madrid boss misunderstood?",
         "url": "https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona last week show he's been misunderstood?",
+        "description": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona show he's been misunderstood?",
         "publishedAt": "2026-10-29T08:07:22.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss",
+        "title": "Garcia targets Ryder Cup return as he confirms LIV exit",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cw3djl7mz90zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him.",
-        "publishedAt": "2026-10-29T06:27:10.000Z",
+        "description": "Sergio Garcia becomes the latest big name to quit LIV Golf and targets a Ryder Cup return after saying he will rejoin the DP World Tour.",
+        "publishedAt": "2026-10-29T15:55:55.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Brewers win first World Series in 57-year history",
-        "url": "https://www.bbc.co.uk/sport/baseball/articles/c5x2v991l0lvo?at_medium=RSS&at_campaign=rss",
+        "title": "'Hungrier than ever' - Paul to return on 24 December",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cvkgkx496e0ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Milwaukee Brewers win the World Series for the first time in the franchise's 57-year history after beating the Tampa Bay Rays in game five on Wednesday.",
-        "publishedAt": "2026-10-29T07:56:38.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Estevao plays no part as Chelsea lose on penalties to Liverpool in the Carabao Cup - so where does this leave the exciting Brazilian with Xabi Alonso?",
-        "publishedAt": "2026-10-29T00:05:21.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Who am I? Plus today's other quizzes",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqr7y1218vjvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.",
-        "publishedAt": "2026-10-29T06:23:21.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Wales make five changes as Lynn rewards bench",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c804032de6yyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Head coach Sean Lynn makes five changes for Saturday's WXV Test against Japan following last week's impressive second-half performance.",
-        "publishedAt": "2026-10-29T07:59:38.000Z",
+        "description": "Jake Paul returns to the ring for the first time since losing to Anthony Joshua against a yet to be confirmed opponent on 24 December.",
+        "publishedAt": "2026-10-29T11:06:04.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2656,13 +2645,24 @@
         "zone": "au"
       },
       {
-        "title": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
-        "url": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no?at_medium=RSS&at_campaign=rss",
+        "title": "Sometimes managers need sacking for own good - Neville",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Geronimo Rulli's penalty shootout heroics may have put the pressure on Gianluigi Donnarumma at Manchester City, but manager Enzo Maresca has no doubt about his number one.",
-        "publishedAt": "2026-10-28T23:10:06.000Z",
+        "description": "Gary Neville says managers sometimes need to be sacked \"for their own good\" as Manchester United persist with under-pressure boss Michael Carrick.",
+        "publishedAt": "2026-10-29T11:00:53.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him.",
+        "publishedAt": "2026-10-29T06:27:10.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,68 +2671,57 @@
   "sports_ca": {
     "articles": [
       {
+        "title": "'Fully committed' Fernandes to remain Man Utd captain",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester United head coach Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea.",
+        "publishedAt": "2026-10-29T14:31:52.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Is the double drop from the Premier League becoming more common?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.",
+        "publishedAt": "2026-10-29T13:19:52.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Mourinho and chaos - is Real Madrid boss misunderstood?",
         "url": "https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona last week show he's been misunderstood?",
+        "description": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona show he's been misunderstood?",
         "publishedAt": "2026-10-29T08:07:22.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss",
+        "title": "Garcia targets Ryder Cup return as he confirms LIV exit",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cw3djl7mz90zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him.",
-        "publishedAt": "2026-10-29T06:27:10.000Z",
+        "description": "Sergio Garcia becomes the latest big name to quit LIV Golf and targets a Ryder Cup return after saying he will rejoin the DP World Tour.",
+        "publishedAt": "2026-10-29T15:55:55.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Brewers win first World Series in 57-year history",
-        "url": "https://www.bbc.co.uk/sport/baseball/articles/c5x2v991l0lvo?at_medium=RSS&at_campaign=rss",
+        "title": "'Hungrier than ever' - Paul to return on 24 December",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cvkgkx496e0ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Milwaukee Brewers win the World Series for the first time in the franchise's 57-year history after beating the Tampa Bay Rays in game five on Wednesday.",
-        "publishedAt": "2026-10-29T07:56:38.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Estevao plays no part as Chelsea lose on penalties to Liverpool in the Carabao Cup - so where does this leave the exciting Brazilian with Xabi Alonso?",
-        "publishedAt": "2026-10-29T00:05:21.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Who am I? Plus today's other quizzes",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqr7y1218vjvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.",
-        "publishedAt": "2026-10-29T06:23:21.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Wales make five changes as Lynn rewards bench",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c804032de6yyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Head coach Sean Lynn makes five changes for Saturday's WXV Test against Japan following last week's impressive second-half performance.",
-        "publishedAt": "2026-10-29T07:59:38.000Z",
+        "description": "Jake Paul returns to the ring for the first time since losing to Anthony Joshua against a yet to be confirmed opponent on 24 December.",
+        "publishedAt": "2026-10-29T11:06:04.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2748,13 +2737,24 @@
         "zone": "ca"
       },
       {
-        "title": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
-        "url": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no?at_medium=RSS&at_campaign=rss",
+        "title": "Sometimes managers need sacking for own good - Neville",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Geronimo Rulli's penalty shootout heroics may have put the pressure on Gianluigi Donnarumma at Manchester City, but manager Enzo Maresca has no doubt about his number one.",
-        "publishedAt": "2026-10-28T23:10:06.000Z",
+        "description": "Gary Neville says managers sometimes need to be sacked \"for their own good\" as Manchester United persist with under-pressure boss Michael Carrick.",
+        "publishedAt": "2026-10-29T11:00:53.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him.",
+        "publishedAt": "2026-10-29T06:27:10.000Z",
         "category": "sports",
         "zone": "ca"
       }
@@ -2763,13 +2763,13 @@
   "technology_us": {
     "articles": [
       {
-        "title": "Ofcom outlines ways social media can verify ages of users",
+        "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
         "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
-        "publishedAt": "2026-10-29T05:57:15.000Z",
+        "publishedAt": "2026-10-29T09:31:44.000Z",
         "category": "technology",
         "zone": "us"
       },
@@ -2855,13 +2855,13 @@
   "technology_gb": {
     "articles": [
       {
-        "title": "Ofcom outlines ways social media can verify ages of users",
+        "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
         "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
-        "publishedAt": "2026-10-29T05:57:15.000Z",
+        "publishedAt": "2026-10-29T09:31:44.000Z",
         "category": "technology",
         "zone": "gb"
       },
@@ -2947,13 +2947,13 @@
   "technology_in": {
     "articles": [
       {
-        "title": "Ofcom outlines ways social media can verify ages of users",
+        "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
         "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
-        "publishedAt": "2026-10-29T05:57:15.000Z",
+        "publishedAt": "2026-10-29T09:31:44.000Z",
         "category": "technology",
         "zone": "in"
       },
@@ -3039,13 +3039,13 @@
   "technology_au": {
     "articles": [
       {
-        "title": "Ofcom outlines ways social media can verify ages of users",
+        "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
         "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
-        "publishedAt": "2026-10-29T05:57:15.000Z",
+        "publishedAt": "2026-10-29T09:31:44.000Z",
         "category": "technology",
         "zone": "au"
       },
@@ -3131,13 +3131,13 @@
   "technology_ca": {
     "articles": [
       {
-        "title": "Ofcom outlines ways social media can verify ages of users",
+        "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
         "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
-        "publishedAt": "2026-10-29T05:57:15.000Z",
+        "publishedAt": "2026-10-29T09:31:44.000Z",
         "category": "technology",
         "zone": "ca"
       },
