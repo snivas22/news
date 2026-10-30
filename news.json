@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-10-30T15:39:20.885Z",
+  "generatedAt": "2026-10-30T20:29:45.375Z",
   "general_us": {
     "articles": [
+      {
+        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+        "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+        "publishedAt": "2026-10-30T20:10:56.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "What we know about Binance's $6.3bn hack",
         "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
@@ -25,13 +36,24 @@
         "zone": "us"
       },
       {
+        "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+        "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+        "publishedAt": "2026-10-30T16:26:11.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
         "title": "Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits",
         "url": "https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The force said it had received information and stressed its inquiries were at \"an early stage\".",
-        "publishedAt": "2026-10-30T11:55:58.000Z",
+        "publishedAt": "2026-10-30T15:39:49.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -42,29 +64,18 @@
           "name": "RSS Feed"
         },
         "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-        "publishedAt": "2026-10-30T14:19:43.000Z",
+        "publishedAt": "2026-10-30T17:07:19.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-        "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+        "title": "Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
+        "url": "https://www.bbc.co.uk/news/articles/cx4g1ve5ylg7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
-        "publishedAt": "2026-10-30T12:25:53.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Watch: Iconic moments from the career of Sir Patrick Stewart, who has died aged 86",
-        "url": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The renowned British actor died after \"a brief and poignant journey\" with Alzheimer's disease and Lewy Body Dementia, his spokesperson says.",
-        "publishedAt": "2026-10-30T08:59:45.000Z",
+        "description": "The women involved in the case had \"nothing to gain\" apart from \"some closure\", the prosecutor says.",
+        "publishedAt": "2026-10-30T15:49:25.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -76,17 +87,6 @@
         },
         "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
         "publishedAt": "2026-10-30T11:23:06.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Police watchdog to investigate Met over letter about Meghan's father",
-        "url": "https://www.bbc.co.uk/news/articles/c61m42pzplnzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The police force faces probe over its handling of a letter containing allegations about Meghan's father.",
-        "publishedAt": "2026-10-30T14:36:03.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,6 +95,17 @@
   "general_gb": {
     "articles": [
       {
+        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+        "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+        "publishedAt": "2026-10-30T20:10:56.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "What we know about Binance's $6.3bn hack",
         "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -117,13 +128,24 @@
         "zone": "gb"
       },
       {
+        "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+        "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+        "publishedAt": "2026-10-30T16:26:11.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits",
         "url": "https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The force said it had received information and stressed its inquiries were at \"an early stage\".",
-        "publishedAt": "2026-10-30T11:55:58.000Z",
+        "publishedAt": "2026-10-30T15:39:49.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -134,29 +156,18 @@
           "name": "RSS Feed"
         },
         "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-        "publishedAt": "2026-10-30T14:19:43.000Z",
+        "publishedAt": "2026-10-30T17:07:19.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-        "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+        "title": "Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
+        "url": "https://www.bbc.co.uk/news/articles/cx4g1ve5ylg7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
-        "publishedAt": "2026-10-30T12:25:53.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Watch: Iconic moments from the career of Sir Patrick Stewart, who has died aged 86",
-        "url": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The renowned British actor died after \"a brief and poignant journey\" with Alzheimer's disease and Lewy Body Dementia, his spokesperson says.",
-        "publishedAt": "2026-10-30T08:59:45.000Z",
+        "description": "The women involved in the case had \"nothing to gain\" apart from \"some closure\", the prosecutor says.",
+        "publishedAt": "2026-10-30T15:49:25.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -168,17 +179,6 @@
         },
         "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
         "publishedAt": "2026-10-30T11:23:06.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Police watchdog to investigate Met over letter about Meghan's father",
-        "url": "https://www.bbc.co.uk/news/articles/c61m42pzplnzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The police force faces probe over its handling of a letter containing allegations about Meghan's father.",
-        "publishedAt": "2026-10-30T14:36:03.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,6 +187,17 @@
   "general_in": {
     "articles": [
       {
+        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+        "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+        "publishedAt": "2026-10-30T20:10:56.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "What we know about Binance's $6.3bn hack",
         "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -209,13 +220,24 @@
         "zone": "in"
       },
       {
+        "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+        "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+        "publishedAt": "2026-10-30T16:26:11.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits",
         "url": "https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The force said it had received information and stressed its inquiries were at \"an early stage\".",
-        "publishedAt": "2026-10-30T11:55:58.000Z",
+        "publishedAt": "2026-10-30T15:39:49.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -226,29 +248,18 @@
           "name": "RSS Feed"
         },
         "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-        "publishedAt": "2026-10-30T14:19:43.000Z",
+        "publishedAt": "2026-10-30T17:07:19.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-        "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+        "title": "Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
+        "url": "https://www.bbc.co.uk/news/articles/cx4g1ve5ylg7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
-        "publishedAt": "2026-10-30T12:25:53.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Watch: Iconic moments from the career of Sir Patrick Stewart, who has died aged 86",
-        "url": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The renowned British actor died after \"a brief and poignant journey\" with Alzheimer's disease and Lewy Body Dementia, his spokesperson says.",
-        "publishedAt": "2026-10-30T08:59:45.000Z",
+        "description": "The women involved in the case had \"nothing to gain\" apart from \"some closure\", the prosecutor says.",
+        "publishedAt": "2026-10-30T15:49:25.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -260,17 +271,6 @@
         },
         "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
         "publishedAt": "2026-10-30T11:23:06.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Police watchdog to investigate Met over letter about Meghan's father",
-        "url": "https://www.bbc.co.uk/news/articles/c61m42pzplnzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The police force faces probe over its handling of a letter containing allegations about Meghan's father.",
-        "publishedAt": "2026-10-30T14:36:03.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,6 +279,17 @@
   "general_au": {
     "articles": [
       {
+        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+        "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+        "publishedAt": "2026-10-30T20:10:56.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "What we know about Binance's $6.3bn hack",
         "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -301,13 +312,24 @@
         "zone": "au"
       },
       {
+        "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+        "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+        "publishedAt": "2026-10-30T16:26:11.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits",
         "url": "https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The force said it had received information and stressed its inquiries were at \"an early stage\".",
-        "publishedAt": "2026-10-30T11:55:58.000Z",
+        "publishedAt": "2026-10-30T15:39:49.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -318,29 +340,18 @@
           "name": "RSS Feed"
         },
         "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-        "publishedAt": "2026-10-30T14:19:43.000Z",
+        "publishedAt": "2026-10-30T17:07:19.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-        "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+        "title": "Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
+        "url": "https://www.bbc.co.uk/news/articles/cx4g1ve5ylg7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
-        "publishedAt": "2026-10-30T12:25:53.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Watch: Iconic moments from the career of Sir Patrick Stewart, who has died aged 86",
-        "url": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The renowned British actor died after \"a brief and poignant journey\" with Alzheimer's disease and Lewy Body Dementia, his spokesperson says.",
-        "publishedAt": "2026-10-30T08:59:45.000Z",
+        "description": "The women involved in the case had \"nothing to gain\" apart from \"some closure\", the prosecutor says.",
+        "publishedAt": "2026-10-30T15:49:25.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -352,17 +363,6 @@
         },
         "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
         "publishedAt": "2026-10-30T11:23:06.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Police watchdog to investigate Met over letter about Meghan's father",
-        "url": "https://www.bbc.co.uk/news/articles/c61m42pzplnzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The police force faces probe over its handling of a letter containing allegations about Meghan's father.",
-        "publishedAt": "2026-10-30T14:36:03.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,6 +371,17 @@
   "general_ca": {
     "articles": [
       {
+        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+        "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+        "publishedAt": "2026-10-30T20:10:56.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "What we know about Binance's $6.3bn hack",
         "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -393,13 +404,24 @@
         "zone": "ca"
       },
       {
+        "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+        "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+        "publishedAt": "2026-10-30T16:26:11.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits",
         "url": "https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The force said it had received information and stressed its inquiries were at \"an early stage\".",
-        "publishedAt": "2026-10-30T11:55:58.000Z",
+        "publishedAt": "2026-10-30T15:39:49.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -410,29 +432,18 @@
           "name": "RSS Feed"
         },
         "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-        "publishedAt": "2026-10-30T14:19:43.000Z",
+        "publishedAt": "2026-10-30T17:07:19.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-        "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+        "title": "Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
+        "url": "https://www.bbc.co.uk/news/articles/cx4g1ve5ylg7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
-        "publishedAt": "2026-10-30T12:25:53.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Watch: Iconic moments from the career of Sir Patrick Stewart, who has died aged 86",
-        "url": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The renowned British actor died after \"a brief and poignant journey\" with Alzheimer's disease and Lewy Body Dementia, his spokesperson says.",
-        "publishedAt": "2026-10-30T08:59:45.000Z",
+        "description": "The women involved in the case had \"nothing to gain\" apart from \"some closure\", the prosecutor says.",
+        "publishedAt": "2026-10-30T15:49:25.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -446,30 +457,30 @@
         "publishedAt": "2026-10-30T11:23:06.000Z",
         "category": "general",
         "zone": "ca"
-      },
-      {
-        "title": "Police watchdog to investigate Met over letter about Meghan's father",
-        "url": "https://www.bbc.co.uk/news/articles/c61m42pzplnzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The police force faces probe over its handling of a letter containing allegations about Meghan's father.",
-        "publishedAt": "2026-10-30T14:36:03.000Z",
-        "category": "general",
-        "zone": "ca"
       }
     ]
   },
   "business_us": {
     "articles": [
       {
-        "title": "US tech stocks see sharp falls over AI cost fears",
+        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+        "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+        "publishedAt": "2026-10-30T20:10:56.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
         "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Shares in Intel have continued to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-        "publishedAt": "2026-10-30T15:27:54.000Z",
+        "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+        "publishedAt": "2026-10-30T17:47:01.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -485,6 +496,17 @@
         "zone": "us"
       },
       {
+        "title": "City of London chief tops UK Black Powerlist",
+        "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
+        "publishedAt": "2026-10-30T18:00:24.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "From Levi's to Primark - the fashion chains selling mended clothes",
         "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -492,17 +514,6 @@
         },
         "description": "A new generation is embracing eye-catching patching and visible mends.",
         "publishedAt": "2026-10-30T00:00:35.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Yorkshire Water boss resigns after firm downgraded",
-        "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
-        "publishedAt": "2026-10-30T15:35:30.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -518,6 +529,17 @@
         "zone": "us"
       },
       {
+        "title": "Yorkshire Water boss resigns after firm downgraded",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
+        "publishedAt": "2026-10-30T16:04:55.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
         "title": "Streeting denies 'kicking can down the road' in defence spending row",
         "url": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -525,28 +547,6 @@
         },
         "description": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
         "publishedAt": "2026-10-30T11:23:38.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-        "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
-        "publishedAt": "2026-10-29T19:11:10.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
-        "publishedAt": "2026-10-30T12:04:02.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,13 +555,24 @@
   "business_gb": {
     "articles": [
       {
-        "title": "US tech stocks see sharp falls over AI cost fears",
+        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+        "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+        "publishedAt": "2026-10-30T20:10:56.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
         "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Shares in Intel have continued to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-        "publishedAt": "2026-10-30T15:27:54.000Z",
+        "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+        "publishedAt": "2026-10-30T17:47:01.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -577,6 +588,17 @@
         "zone": "gb"
       },
       {
+        "title": "City of London chief tops UK Black Powerlist",
+        "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
+        "publishedAt": "2026-10-30T18:00:24.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "From Levi's to Primark - the fashion chains selling mended clothes",
         "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -584,17 +606,6 @@
         },
         "description": "A new generation is embracing eye-catching patching and visible mends.",
         "publishedAt": "2026-10-30T00:00:35.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Yorkshire Water boss resigns after firm downgraded",
-        "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
-        "publishedAt": "2026-10-30T15:35:30.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -610,6 +621,17 @@
         "zone": "gb"
       },
       {
+        "title": "Yorkshire Water boss resigns after firm downgraded",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
+        "publishedAt": "2026-10-30T16:04:55.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
         "title": "Streeting denies 'kicking can down the road' in defence spending row",
         "url": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -617,28 +639,6 @@
         },
         "description": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
         "publishedAt": "2026-10-30T11:23:38.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-        "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
-        "publishedAt": "2026-10-29T19:11:10.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
-        "publishedAt": "2026-10-30T12:04:02.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,13 +647,24 @@
   "business_in": {
     "articles": [
       {
-        "title": "US tech stocks see sharp falls over AI cost fears",
+        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+        "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+        "publishedAt": "2026-10-30T20:10:56.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
         "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Shares in Intel have continued to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-        "publishedAt": "2026-10-30T15:27:54.000Z",
+        "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+        "publishedAt": "2026-10-30T17:47:01.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -669,6 +680,17 @@
         "zone": "in"
       },
       {
+        "title": "City of London chief tops UK Black Powerlist",
+        "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
+        "publishedAt": "2026-10-30T18:00:24.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "From Levi's to Primark - the fashion chains selling mended clothes",
         "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -676,17 +698,6 @@
         },
         "description": "A new generation is embracing eye-catching patching and visible mends.",
         "publishedAt": "2026-10-30T00:00:35.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Yorkshire Water boss resigns after firm downgraded",
-        "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
-        "publishedAt": "2026-10-30T15:35:30.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -702,6 +713,17 @@
         "zone": "in"
       },
       {
+        "title": "Yorkshire Water boss resigns after firm downgraded",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
+        "publishedAt": "2026-10-30T16:04:55.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
         "title": "Streeting denies 'kicking can down the road' in defence spending row",
         "url": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -709,28 +731,6 @@
         },
         "description": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
         "publishedAt": "2026-10-30T11:23:38.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-        "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
-        "publishedAt": "2026-10-29T19:11:10.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
-        "publishedAt": "2026-10-30T12:04:02.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,13 +739,24 @@
   "business_au": {
     "articles": [
       {
-        "title": "US tech stocks see sharp falls over AI cost fears",
+        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+        "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+        "publishedAt": "2026-10-30T20:10:56.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
         "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Shares in Intel have continued to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-        "publishedAt": "2026-10-30T15:27:54.000Z",
+        "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+        "publishedAt": "2026-10-30T17:47:01.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -761,6 +772,17 @@
         "zone": "au"
       },
       {
+        "title": "City of London chief tops UK Black Powerlist",
+        "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
+        "publishedAt": "2026-10-30T18:00:24.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "From Levi's to Primark - the fashion chains selling mended clothes",
         "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -768,17 +790,6 @@
         },
         "description": "A new generation is embracing eye-catching patching and visible mends.",
         "publishedAt": "2026-10-30T00:00:35.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Yorkshire Water boss resigns after firm downgraded",
-        "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
-        "publishedAt": "2026-10-30T15:35:30.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -794,6 +805,17 @@
         "zone": "au"
       },
       {
+        "title": "Yorkshire Water boss resigns after firm downgraded",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
+        "publishedAt": "2026-10-30T16:04:55.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
         "title": "Streeting denies 'kicking can down the road' in defence spending row",
         "url": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -801,28 +823,6 @@
         },
         "description": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
         "publishedAt": "2026-10-30T11:23:38.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-        "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
-        "publishedAt": "2026-10-29T19:11:10.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
-        "publishedAt": "2026-10-30T12:04:02.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,13 +831,24 @@
   "business_ca": {
     "articles": [
       {
-        "title": "US tech stocks see sharp falls over AI cost fears",
+        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+        "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+        "publishedAt": "2026-10-30T20:10:56.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
         "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Shares in Intel have continued to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-        "publishedAt": "2026-10-30T15:27:54.000Z",
+        "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+        "publishedAt": "2026-10-30T17:47:01.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -853,6 +864,17 @@
         "zone": "ca"
       },
       {
+        "title": "City of London chief tops UK Black Powerlist",
+        "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
+        "publishedAt": "2026-10-30T18:00:24.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "From Levi's to Primark - the fashion chains selling mended clothes",
         "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -860,17 +882,6 @@
         },
         "description": "A new generation is embracing eye-catching patching and visible mends.",
         "publishedAt": "2026-10-30T00:00:35.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Yorkshire Water boss resigns after firm downgraded",
-        "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
-        "publishedAt": "2026-10-30T15:35:30.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -886,6 +897,17 @@
         "zone": "ca"
       },
       {
+        "title": "Yorkshire Water boss resigns after firm downgraded",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
+        "publishedAt": "2026-10-30T16:04:55.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "Streeting denies 'kicking can down the road' in defence spending row",
         "url": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -895,33 +917,22 @@
         "publishedAt": "2026-10-30T11:23:38.000Z",
         "category": "business",
         "zone": "ca"
-      },
-      {
-        "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-        "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
-        "publishedAt": "2026-10-29T19:11:10.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
-        "publishedAt": "2026-10-30T12:04:02.000Z",
-        "category": "business",
-        "zone": "ca"
       }
     ]
   },
   "entertainment_us": {
     "articles": [
+      {
+        "title": "Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
+        "url": "https://www.bbc.co.uk/news/articles/cx4g1ve5ylg7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The women involved in the case had \"nothing to gain\" apart from \"some closure\", the prosecutor says.",
+        "publishedAt": "2026-10-30T15:49:25.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
       {
         "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
         "url": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss",
@@ -934,6 +945,17 @@
         "zone": "us"
       },
       {
+        "title": "Party Rock Anthem singer struggled with mental health before death",
+        "url": "https://www.bbc.co.uk/news/articles/cqp8gpw15e8yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lauren Bennett, who featured on LMFAO's hit song, was found dead by her husband.",
+        "publishedAt": "2026-10-30T19:21:31.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
         "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
         "url": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -941,17 +963,6 @@
         },
         "description": "The English actor began his career on stage before finding fame as the captain of the USS Enterprise.",
         "publishedAt": "2026-10-30T03:57:06.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Sir Patrick Stewart: A life in pictures",
-        "url": "https://www.bbc.co.uk/news/articles/cj1dw9dynn2xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "His career on stages and screens spanned seven decades but came to be defined by his roles on some of the most popular sci-fi franchises in history.",
-        "publishedAt": "2026-10-30T03:54:39.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -989,24 +1000,13 @@
         "zone": "us"
       },
       {
-        "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
-        "url": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss",
+        "title": "How Bristol shaped Maya Jama before her TV fame",
+        "url": "https://www.bbc.co.uk/news/articles/cjr4ypw5v9n6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Laura Brand tells the jury at his trial she feels \"very seen by him\" and \"I love him very much\".",
-        "publishedAt": "2026-10-29T12:52:50.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "George Michael's Faith guitar sells for £180k after auction row",
-        "url": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The brother of the singer's late personal assistant said she would not have wanted the items to be sold.",
-        "publishedAt": "2026-10-29T18:26:42.000Z",
+        "description": "The Love Island host's journey from leaving Bristol as a teenager to reaching the BBC show's grand final.",
+        "publishedAt": "2026-10-30T17:00:55.000Z",
         "category": "entertainment",
         "zone": "us"
       }
@@ -1015,6 +1015,17 @@
   "entertainment_gb": {
     "articles": [
       {
+        "title": "Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
+        "url": "https://www.bbc.co.uk/news/articles/cx4g1ve5ylg7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The women involved in the case had \"nothing to gain\" apart from \"some closure\", the prosecutor says.",
+        "publishedAt": "2026-10-30T15:49:25.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
         "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
         "url": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1026,6 +1037,17 @@
         "zone": "gb"
       },
       {
+        "title": "Party Rock Anthem singer struggled with mental health before death",
+        "url": "https://www.bbc.co.uk/news/articles/cqp8gpw15e8yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lauren Bennett, who featured on LMFAO's hit song, was found dead by her husband.",
+        "publishedAt": "2026-10-30T19:21:31.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
         "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
         "url": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1033,17 +1055,6 @@
         },
         "description": "The English actor began his career on stage before finding fame as the captain of the USS Enterprise.",
         "publishedAt": "2026-10-30T03:57:06.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Sir Patrick Stewart: A life in pictures",
-        "url": "https://www.bbc.co.uk/news/articles/cj1dw9dynn2xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "His career on stages and screens spanned seven decades but came to be defined by his roles on some of the most popular sci-fi franchises in history.",
-        "publishedAt": "2026-10-30T03:54:39.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1081,24 +1092,13 @@
         "zone": "gb"
       },
       {
-        "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
-        "url": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss",
+        "title": "How Bristol shaped Maya Jama before her TV fame",
+        "url": "https://www.bbc.co.uk/news/articles/cjr4ypw5v9n6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Laura Brand tells the jury at his trial she feels \"very seen by him\" and \"I love him very much\".",
-        "publishedAt": "2026-10-29T12:52:50.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "George Michael's Faith guitar sells for £180k after auction row",
-        "url": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The brother of the singer's late personal assistant said she would not have wanted the items to be sold.",
-        "publishedAt": "2026-10-29T18:26:42.000Z",
+        "description": "The Love Island host's journey from leaving Bristol as a teenager to reaching the BBC show's grand final.",
+        "publishedAt": "2026-10-30T17:00:55.000Z",
         "category": "entertainment",
         "zone": "gb"
       }
@@ -1107,6 +1107,17 @@
   "entertainment_in": {
     "articles": [
       {
+        "title": "Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
+        "url": "https://www.bbc.co.uk/news/articles/cx4g1ve5ylg7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The women involved in the case had \"nothing to gain\" apart from \"some closure\", the prosecutor says.",
+        "publishedAt": "2026-10-30T15:49:25.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
         "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
         "url": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1118,6 +1129,17 @@
         "zone": "in"
       },
       {
+        "title": "Party Rock Anthem singer struggled with mental health before death",
+        "url": "https://www.bbc.co.uk/news/articles/cqp8gpw15e8yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lauren Bennett, who featured on LMFAO's hit song, was found dead by her husband.",
+        "publishedAt": "2026-10-30T19:21:31.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
         "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
         "url": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1125,17 +1147,6 @@
         },
         "description": "The English actor began his career on stage before finding fame as the captain of the USS Enterprise.",
         "publishedAt": "2026-10-30T03:57:06.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Sir Patrick Stewart: A life in pictures",
-        "url": "https://www.bbc.co.uk/news/articles/cj1dw9dynn2xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "His career on stages and screens spanned seven decades but came to be defined by his roles on some of the most popular sci-fi franchises in history.",
-        "publishedAt": "2026-10-30T03:54:39.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1173,24 +1184,13 @@
         "zone": "in"
       },
       {
-        "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
-        "url": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss",
+        "title": "How Bristol shaped Maya Jama before her TV fame",
+        "url": "https://www.bbc.co.uk/news/articles/cjr4ypw5v9n6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Laura Brand tells the jury at his trial she feels \"very seen by him\" and \"I love him very much\".",
-        "publishedAt": "2026-10-29T12:52:50.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "George Michael's Faith guitar sells for £180k after auction row",
-        "url": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The brother of the singer's late personal assistant said she would not have wanted the items to be sold.",
-        "publishedAt": "2026-10-29T18:26:42.000Z",
+        "description": "The Love Island host's journey from leaving Bristol as a teenager to reaching the BBC show's grand final.",
+        "publishedAt": "2026-10-30T17:00:55.000Z",
         "category": "entertainment",
         "zone": "in"
       }
@@ -1199,6 +1199,17 @@
   "entertainment_au": {
     "articles": [
       {
+        "title": "Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
+        "url": "https://www.bbc.co.uk/news/articles/cx4g1ve5ylg7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The women involved in the case had \"nothing to gain\" apart from \"some closure\", the prosecutor says.",
+        "publishedAt": "2026-10-30T15:49:25.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
         "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
         "url": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1210,6 +1221,17 @@
         "zone": "au"
       },
       {
+        "title": "Party Rock Anthem singer struggled with mental health before death",
+        "url": "https://www.bbc.co.uk/news/articles/cqp8gpw15e8yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lauren Bennett, who featured on LMFAO's hit song, was found dead by her husband.",
+        "publishedAt": "2026-10-30T19:21:31.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
         "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
         "url": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1217,17 +1239,6 @@
         },
         "description": "The English actor began his career on stage before finding fame as the captain of the USS Enterprise.",
         "publishedAt": "2026-10-30T03:57:06.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Sir Patrick Stewart: A life in pictures",
-        "url": "https://www.bbc.co.uk/news/articles/cj1dw9dynn2xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "His career on stages and screens spanned seven decades but came to be defined by his roles on some of the most popular sci-fi franchises in history.",
-        "publishedAt": "2026-10-30T03:54:39.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1265,24 +1276,13 @@
         "zone": "au"
       },
       {
-        "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
-        "url": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss",
+        "title": "How Bristol shaped Maya Jama before her TV fame",
+        "url": "https://www.bbc.co.uk/news/articles/cjr4ypw5v9n6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Laura Brand tells the jury at his trial she feels \"very seen by him\" and \"I love him very much\".",
-        "publishedAt": "2026-10-29T12:52:50.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "George Michael's Faith guitar sells for £180k after auction row",
-        "url": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The brother of the singer's late personal assistant said she would not have wanted the items to be sold.",
-        "publishedAt": "2026-10-29T18:26:42.000Z",
+        "description": "The Love Island host's journey from leaving Bristol as a teenager to reaching the BBC show's grand final.",
+        "publishedAt": "2026-10-30T17:00:55.000Z",
         "category": "entertainment",
         "zone": "au"
       }
@@ -1291,6 +1291,17 @@
   "entertainment_ca": {
     "articles": [
       {
+        "title": "Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
+        "url": "https://www.bbc.co.uk/news/articles/cx4g1ve5ylg7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The women involved in the case had \"nothing to gain\" apart from \"some closure\", the prosecutor says.",
+        "publishedAt": "2026-10-30T15:49:25.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
         "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
         "url": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1302,6 +1313,17 @@
         "zone": "ca"
       },
       {
+        "title": "Party Rock Anthem singer struggled with mental health before death",
+        "url": "https://www.bbc.co.uk/news/articles/cqp8gpw15e8yo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lauren Bennett, who featured on LMFAO's hit song, was found dead by her husband.",
+        "publishedAt": "2026-10-30T19:21:31.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
         "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
         "url": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1309,17 +1331,6 @@
         },
         "description": "The English actor began his career on stage before finding fame as the captain of the USS Enterprise.",
         "publishedAt": "2026-10-30T03:57:06.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Sir Patrick Stewart: A life in pictures",
-        "url": "https://www.bbc.co.uk/news/articles/cj1dw9dynn2xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "His career on stages and screens spanned seven decades but came to be defined by his roles on some of the most popular sci-fi franchises in history.",
-        "publishedAt": "2026-10-30T03:54:39.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1357,24 +1368,13 @@
         "zone": "ca"
       },
       {
-        "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
-        "url": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss",
+        "title": "How Bristol shaped Maya Jama before her TV fame",
+        "url": "https://www.bbc.co.uk/news/articles/cjr4ypw5v9n6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Laura Brand tells the jury at his trial she feels \"very seen by him\" and \"I love him very much\".",
-        "publishedAt": "2026-10-29T12:52:50.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "George Michael's Faith guitar sells for £180k after auction row",
-        "url": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The brother of the singer's late personal assistant said she would not have wanted the items to be sold.",
-        "publishedAt": "2026-10-29T18:26:42.000Z",
+        "description": "The Love Island host's journey from leaving Bristol as a teenager to reaching the BBC show's grand final.",
+        "publishedAt": "2026-10-30T17:00:55.000Z",
         "category": "entertainment",
         "zone": "ca"
       }
@@ -1843,6 +1843,17 @@
   "science_us": {
     "articles": [
       {
+        "title": "Perfume bottle and child’s necklace among treasures found in Pompeii wardrobe",
+        "url": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe",
+        "source": {
+          "name": "Angela Giuffrida in Rome"
+        },
+        "description": "Archaeologists uncover jewellery, cosmetics and coins in cabinet sealed since eruption of Mount Vesuvius in AD79 Fragments of personal objects, from makeup tools and a perfume bottle to coins and a child’s necklace, have been found tucked away in a wooden wardrobe sealed off for almost 2,000 years in the ruins of Pompeii. The artifacts provide an intimate glimpse of daily life in the ancient Roman city before it was devastated by the eruption of Mount Vesuvius in AD79. The wardrobe was discovered in a room of a home on Via dell’Abbondanza, which was one of the most bustling streets in Pompeii. Continue reading...",
+        "publishedAt": "2026-10-30T15:06:39.000Z",
+        "category": "science",
+        "zone": "us"
+      },
+      {
         "title": "Migrating seabirds face a surprising problem: jet lag",
         "url": "https://www.theguardian.com/science/2026/oct/29/jet-lag-throws-seabirds-off-course-nature",
         "source": {
@@ -1905,17 +1916,6 @@
         },
         "description": "For decades the idea of eugenics has been taboo. Now it is returning in a new commercial guise For a very long time, I dreamed of being cured. I was born in 1981. I learned to walk early enough, but I stumbled and fell more easily than other children. My parents began to worry that something was wrong, that my muscles were weaker than they should be. Eventually, at the age of three, I was diagnosed with a form of spinal muscular atrophy (SMA). In the 1980s, the precise mechanics were not yet understood, but the condition was known to be hereditary, probably linked to a recessive gene. It was also known to be progressive. As I aged, my muscles would not keep pace. At eight, I began to use a wheelchair for longer distances. By the time I was 18, I rarely walked outdoors any more. It is hard to be young and to know that you are growing weaker rather than stronger. I had all the same aspirations that my nondisabled friends did, but I lived in fear of the future in a way they did not. I spent a lot of time thinking about what my life would have been like if I didn’t have SMA. The images in my head were of something like a double: myself, only rid of this one deficit, imprecisely defined, but encoded somewhere in my body. Continue reading...",
         "publishedAt": "2026-10-27T05:00:04.000Z",
-        "category": "science",
-        "zone": "us"
-      },
-      {
-        "title": "Rare Nanotyrannus skeleton sells for $47.3m at New York auction",
-        "url": "https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction",
-        "source": {
-          "name": "Anna Betts and Jenna Amatulli"
-        },
-        "description": "Sale makes ‘Jodi’, a smaller relative of T rex, the ‘second most valuable dinosaur ever sold at auction’, Sotheby’s says A rare skeleton of a Nanotyrannus, a smaller relative of the Tyrannosaurus rex, sold at auction in New York this week for $47.3m, making it one of the world’s most expensive fossils. The skeleton, named “Jodi” after the person who found the remains in 2019, sold at Sotheby’s on Tuesday for $47.3m, “after a twelve-minute bidding battle that saw six bidders compete online and over the phones, before ultimately selling on the phone”, Sotheby’s said in a statement. Continue reading...",
-        "publishedAt": "2026-10-27T21:40:13.000Z",
         "category": "science",
         "zone": "us"
       },
@@ -1935,6 +1935,17 @@
   "science_gb": {
     "articles": [
       {
+        "title": "Perfume bottle and child’s necklace among treasures found in Pompeii wardrobe",
+        "url": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe",
+        "source": {
+          "name": "Angela Giuffrida in Rome"
+        },
+        "description": "Archaeologists uncover jewellery, cosmetics and coins in cabinet sealed since eruption of Mount Vesuvius in AD79 Fragments of personal objects, from makeup tools and a perfume bottle to coins and a child’s necklace, have been found tucked away in a wooden wardrobe sealed off for almost 2,000 years in the ruins of Pompeii. The artifacts provide an intimate glimpse of daily life in the ancient Roman city before it was devastated by the eruption of Mount Vesuvius in AD79. The wardrobe was discovered in a room of a home on Via dell’Abbondanza, which was one of the most bustling streets in Pompeii. Continue reading...",
+        "publishedAt": "2026-10-30T15:06:39.000Z",
+        "category": "science",
+        "zone": "gb"
+      },
+      {
         "title": "Migrating seabirds face a surprising problem: jet lag",
         "url": "https://www.theguardian.com/science/2026/oct/29/jet-lag-throws-seabirds-off-course-nature",
         "source": {
@@ -1997,17 +2008,6 @@
         },
         "description": "For decades the idea of eugenics has been taboo. Now it is returning in a new commercial guise For a very long time, I dreamed of being cured. I was born in 1981. I learned to walk early enough, but I stumbled and fell more easily than other children. My parents began to worry that something was wrong, that my muscles were weaker than they should be. Eventually, at the age of three, I was diagnosed with a form of spinal muscular atrophy (SMA). In the 1980s, the precise mechanics were not yet understood, but the condition was known to be hereditary, probably linked to a recessive gene. It was also known to be progressive. As I aged, my muscles would not keep pace. At eight, I began to use a wheelchair for longer distances. By the time I was 18, I rarely walked outdoors any more. It is hard to be young and to know that you are growing weaker rather than stronger. I had all the same aspirations that my nondisabled friends did, but I lived in fear of the future in a way they did not. I spent a lot of time thinking about what my life would have been like if I didn’t have SMA. The images in my head were of something like a double: myself, only rid of this one deficit, imprecisely defined, but encoded somewhere in my body. Continue reading...",
         "publishedAt": "2026-10-27T05:00:04.000Z",
-        "category": "science",
-        "zone": "gb"
-      },
-      {
-        "title": "Rare Nanotyrannus skeleton sells for $47.3m at New York auction",
-        "url": "https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction",
-        "source": {
-          "name": "Anna Betts and Jenna Amatulli"
-        },
-        "description": "Sale makes ‘Jodi’, a smaller relative of T rex, the ‘second most valuable dinosaur ever sold at auction’, Sotheby’s says A rare skeleton of a Nanotyrannus, a smaller relative of the Tyrannosaurus rex, sold at auction in New York this week for $47.3m, making it one of the world’s most expensive fossils. The skeleton, named “Jodi” after the person who found the remains in 2019, sold at Sotheby’s on Tuesday for $47.3m, “after a twelve-minute bidding battle that saw six bidders compete online and over the phones, before ultimately selling on the phone”, Sotheby’s said in a statement. Continue reading...",
-        "publishedAt": "2026-10-27T21:40:13.000Z",
         "category": "science",
         "zone": "gb"
       },
@@ -2027,6 +2027,17 @@
   "science_in": {
     "articles": [
       {
+        "title": "Perfume bottle and child’s necklace among treasures found in Pompeii wardrobe",
+        "url": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe",
+        "source": {
+          "name": "Angela Giuffrida in Rome"
+        },
+        "description": "Archaeologists uncover jewellery, cosmetics and coins in cabinet sealed since eruption of Mount Vesuvius in AD79 Fragments of personal objects, from makeup tools and a perfume bottle to coins and a child’s necklace, have been found tucked away in a wooden wardrobe sealed off for almost 2,000 years in the ruins of Pompeii. The artifacts provide an intimate glimpse of daily life in the ancient Roman city before it was devastated by the eruption of Mount Vesuvius in AD79. The wardrobe was discovered in a room of a home on Via dell’Abbondanza, which was one of the most bustling streets in Pompeii. Continue reading...",
+        "publishedAt": "2026-10-30T15:06:39.000Z",
+        "category": "science",
+        "zone": "in"
+      },
+      {
         "title": "Migrating seabirds face a surprising problem: jet lag",
         "url": "https://www.theguardian.com/science/2026/oct/29/jet-lag-throws-seabirds-off-course-nature",
         "source": {
@@ -2089,17 +2100,6 @@
         },
         "description": "For decades the idea of eugenics has been taboo. Now it is returning in a new commercial guise For a very long time, I dreamed of being cured. I was born in 1981. I learned to walk early enough, but I stumbled and fell more easily than other children. My parents began to worry that something was wrong, that my muscles were weaker than they should be. Eventually, at the age of three, I was diagnosed with a form of spinal muscular atrophy (SMA). In the 1980s, the precise mechanics were not yet understood, but the condition was known to be hereditary, probably linked to a recessive gene. It was also known to be progressive. As I aged, my muscles would not keep pace. At eight, I began to use a wheelchair for longer distances. By the time I was 18, I rarely walked outdoors any more. It is hard to be young and to know that you are growing weaker rather than stronger. I had all the same aspirations that my nondisabled friends did, but I lived in fear of the future in a way they did not. I spent a lot of time thinking about what my life would have been like if I didn’t have SMA. The images in my head were of something like a double: myself, only rid of this one deficit, imprecisely defined, but encoded somewhere in my body. Continue reading...",
         "publishedAt": "2026-10-27T05:00:04.000Z",
-        "category": "science",
-        "zone": "in"
-      },
-      {
-        "title": "Rare Nanotyrannus skeleton sells for $47.3m at New York auction",
-        "url": "https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction",
-        "source": {
-          "name": "Anna Betts and Jenna Amatulli"
-        },
-        "description": "Sale makes ‘Jodi’, a smaller relative of T rex, the ‘second most valuable dinosaur ever sold at auction’, Sotheby’s says A rare skeleton of a Nanotyrannus, a smaller relative of the Tyrannosaurus rex, sold at auction in New York this week for $47.3m, making it one of the world’s most expensive fossils. The skeleton, named “Jodi” after the person who found the remains in 2019, sold at Sotheby’s on Tuesday for $47.3m, “after a twelve-minute bidding battle that saw six bidders compete online and over the phones, before ultimately selling on the phone”, Sotheby’s said in a statement. Continue reading...",
-        "publishedAt": "2026-10-27T21:40:13.000Z",
         "category": "science",
         "zone": "in"
       },
@@ -2119,6 +2119,17 @@
   "science_au": {
     "articles": [
       {
+        "title": "Perfume bottle and child’s necklace among treasures found in Pompeii wardrobe",
+        "url": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe",
+        "source": {
+          "name": "Angela Giuffrida in Rome"
+        },
+        "description": "Archaeologists uncover jewellery, cosmetics and coins in cabinet sealed since eruption of Mount Vesuvius in AD79 Fragments of personal objects, from makeup tools and a perfume bottle to coins and a child’s necklace, have been found tucked away in a wooden wardrobe sealed off for almost 2,000 years in the ruins of Pompeii. The artifacts provide an intimate glimpse of daily life in the ancient Roman city before it was devastated by the eruption of Mount Vesuvius in AD79. The wardrobe was discovered in a room of a home on Via dell’Abbondanza, which was one of the most bustling streets in Pompeii. Continue reading...",
+        "publishedAt": "2026-10-30T15:06:39.000Z",
+        "category": "science",
+        "zone": "au"
+      },
+      {
         "title": "Migrating seabirds face a surprising problem: jet lag",
         "url": "https://www.theguardian.com/science/2026/oct/29/jet-lag-throws-seabirds-off-course-nature",
         "source": {
@@ -2181,17 +2192,6 @@
         },
         "description": "For decades the idea of eugenics has been taboo. Now it is returning in a new commercial guise For a very long time, I dreamed of being cured. I was born in 1981. I learned to walk early enough, but I stumbled and fell more easily than other children. My parents began to worry that something was wrong, that my muscles were weaker than they should be. Eventually, at the age of three, I was diagnosed with a form of spinal muscular atrophy (SMA). In the 1980s, the precise mechanics were not yet understood, but the condition was known to be hereditary, probably linked to a recessive gene. It was also known to be progressive. As I aged, my muscles would not keep pace. At eight, I began to use a wheelchair for longer distances. By the time I was 18, I rarely walked outdoors any more. It is hard to be young and to know that you are growing weaker rather than stronger. I had all the same aspirations that my nondisabled friends did, but I lived in fear of the future in a way they did not. I spent a lot of time thinking about what my life would have been like if I didn’t have SMA. The images in my head were of something like a double: myself, only rid of this one deficit, imprecisely defined, but encoded somewhere in my body. Continue reading...",
         "publishedAt": "2026-10-27T05:00:04.000Z",
-        "category": "science",
-        "zone": "au"
-      },
-      {
-        "title": "Rare Nanotyrannus skeleton sells for $47.3m at New York auction",
-        "url": "https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction",
-        "source": {
-          "name": "Anna Betts and Jenna Amatulli"
-        },
-        "description": "Sale makes ‘Jodi’, a smaller relative of T rex, the ‘second most valuable dinosaur ever sold at auction’, Sotheby’s says A rare skeleton of a Nanotyrannus, a smaller relative of the Tyrannosaurus rex, sold at auction in New York this week for $47.3m, making it one of the world’s most expensive fossils. The skeleton, named “Jodi” after the person who found the remains in 2019, sold at Sotheby’s on Tuesday for $47.3m, “after a twelve-minute bidding battle that saw six bidders compete online and over the phones, before ultimately selling on the phone”, Sotheby’s said in a statement. Continue reading...",
-        "publishedAt": "2026-10-27T21:40:13.000Z",
         "category": "science",
         "zone": "au"
       },
@@ -2211,6 +2211,17 @@
   "science_ca": {
     "articles": [
       {
+        "title": "Perfume bottle and child’s necklace among treasures found in Pompeii wardrobe",
+        "url": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe",
+        "source": {
+          "name": "Angela Giuffrida in Rome"
+        },
+        "description": "Archaeologists uncover jewellery, cosmetics and coins in cabinet sealed since eruption of Mount Vesuvius in AD79 Fragments of personal objects, from makeup tools and a perfume bottle to coins and a child’s necklace, have been found tucked away in a wooden wardrobe sealed off for almost 2,000 years in the ruins of Pompeii. The artifacts provide an intimate glimpse of daily life in the ancient Roman city before it was devastated by the eruption of Mount Vesuvius in AD79. The wardrobe was discovered in a room of a home on Via dell’Abbondanza, which was one of the most bustling streets in Pompeii. Continue reading...",
+        "publishedAt": "2026-10-30T15:06:39.000Z",
+        "category": "science",
+        "zone": "ca"
+      },
+      {
         "title": "Migrating seabirds face a surprising problem: jet lag",
         "url": "https://www.theguardian.com/science/2026/oct/29/jet-lag-throws-seabirds-off-course-nature",
         "source": {
@@ -2277,17 +2288,6 @@
         "zone": "ca"
       },
       {
-        "title": "Rare Nanotyrannus skeleton sells for $47.3m at New York auction",
-        "url": "https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction",
-        "source": {
-          "name": "Anna Betts and Jenna Amatulli"
-        },
-        "description": "Sale makes ‘Jodi’, a smaller relative of T rex, the ‘second most valuable dinosaur ever sold at auction’, Sotheby’s says A rare skeleton of a Nanotyrannus, a smaller relative of the Tyrannosaurus rex, sold at auction in New York this week for $47.3m, making it one of the world’s most expensive fossils. The skeleton, named “Jodi” after the person who found the remains in 2019, sold at Sotheby’s on Tuesday for $47.3m, “after a twelve-minute bidding battle that saw six bidders compete online and over the phones, before ultimately selling on the phone”, Sotheby’s said in a statement. Continue reading...",
-        "publishedAt": "2026-10-27T21:40:13.000Z",
-        "category": "science",
-        "zone": "ca"
-      },
-      {
         "title": "Putin hails Elon Musk’s ‘genius’ amid plans for Russian version of Starlink",
         "url": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink",
         "source": {
@@ -2303,6 +2303,50 @@
   "sports_us": {
     "articles": [
       {
+        "title": "What Howe could bring to Man Utd - and what are the challenges?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Eddie Howe is being linked with the Manchester United job, but what are some of the considerations for him and the club?",
+        "publishedAt": "2026-10-30T16:27:13.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Leclerc fastest in Mexico City Grand Prix first practice",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ferrari's Charles Leclerc goes fastest in the first practice session of the Mexico City Grand Prix.",
+        "publishedAt": "2026-10-30T19:43:59.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "South Africa-Australia set for classic finale – what does history suggest could happen?",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c6n8dpvyyy71o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "South Africa set up an epic final day of their decisive Test against Australia by batting throughout the fourth day. What does history suggest could happen?",
+        "publishedAt": "2026-10-30T17:03:40.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "From her own Barbie doll to bench - how Ellie Kildunne slipped from Red Roses' XV",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy832jv00p1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ellie Kildunne has been the Red Roses' figurehead throughout their rise to world champions, so why is she on the bench for Friday night's Test against the USA?",
+        "publishedAt": "2026-10-30T16:22:55.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Britain's first £100m man facing defining moment",
         "url": "https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2310,6 +2354,17 @@
         },
         "description": "Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?",
         "publishedAt": "2026-10-30T13:42:15.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Arteta warns Dowman 'we are not in Disneyland' after red card",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c875p940g5v2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Mikel Arteta says \"we are not in Disneyland\" and that he will hold Max Dowman to the same standards as other first-team players after the teenager's red card against Fleetwood.",
+        "publishedAt": "2026-10-30T15:41:43.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2325,68 +2380,13 @@
         "zone": "us"
       },
       {
-        "title": "How talking about Man Utd's cycle of doom became an industry",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o?at_medium=RSS&at_campaign=rss",
+        "title": "Zverev thrashes GB's Fery to reach Vienna semis",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cm0ld27ew5lyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United's struggles are pored over more than ever before - not least by former players.",
-        "publishedAt": "2026-10-30T06:14:19.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Anderson 'shocked' by Lancs exit and unsure if he will continue",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a person\".",
-        "publishedAt": "2026-10-30T10:44:19.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "F1 has never had anyone like me - Hamilton",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cmvg9z1v33keo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Lewis Hamilton says he is unlike any driver Formula 1 has seen before and reaffirms a determination to keep racing into his mid-forties.",
-        "publishedAt": "2026-10-30T07:25:41.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Sutton's predictions v Bad Day At The Office star John Hannah",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-        "publishedAt": "2026-10-29T19:55:24.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Why managers must put their own health first - Pulis",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqy0r31kwne0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Sport columnist Tony Pulis explains why Vincent Kompany's health scare was a reminder that management takes its toll physically and mentally",
-        "publishedAt": "2026-10-30T07:41:38.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "England out of World Cup after loss to Samoa",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cmx281j2n8r4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A Freedom Crichton Ropati hat-trick helps Samoa knock England out of the Women's Rugby League World Cup.",
-        "publishedAt": "2026-10-30T15:00:50.000Z",
+        "description": "Alexander Zverev marks his rise to world number one with a dominant victory over Britain's Arthur Fery to reach the semi-finals of the Vienna Open.",
+        "publishedAt": "2026-10-30T18:41:25.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,6 +2395,50 @@
   "sports_gb": {
     "articles": [
       {
+        "title": "What Howe could bring to Man Utd - and what are the challenges?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Eddie Howe is being linked with the Manchester United job, but what are some of the considerations for him and the club?",
+        "publishedAt": "2026-10-30T16:27:13.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Leclerc fastest in Mexico City Grand Prix first practice",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ferrari's Charles Leclerc goes fastest in the first practice session of the Mexico City Grand Prix.",
+        "publishedAt": "2026-10-30T19:43:59.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "South Africa-Australia set for classic finale – what does history suggest could happen?",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c6n8dpvyyy71o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "South Africa set up an epic final day of their decisive Test against Australia by batting throughout the fourth day. What does history suggest could happen?",
+        "publishedAt": "2026-10-30T17:03:40.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "From her own Barbie doll to bench - how Ellie Kildunne slipped from Red Roses' XV",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy832jv00p1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ellie Kildunne has been the Red Roses' figurehead throughout their rise to world champions, so why is she on the bench for Friday night's Test against the USA?",
+        "publishedAt": "2026-10-30T16:22:55.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Britain's first £100m man facing defining moment",
         "url": "https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2402,6 +2446,17 @@
         },
         "description": "Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?",
         "publishedAt": "2026-10-30T13:42:15.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Arteta warns Dowman 'we are not in Disneyland' after red card",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c875p940g5v2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Mikel Arteta says \"we are not in Disneyland\" and that he will hold Max Dowman to the same standards as other first-team players after the teenager's red card against Fleetwood.",
+        "publishedAt": "2026-10-30T15:41:43.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2417,68 +2472,13 @@
         "zone": "gb"
       },
       {
-        "title": "How talking about Man Utd's cycle of doom became an industry",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o?at_medium=RSS&at_campaign=rss",
+        "title": "Zverev thrashes GB's Fery to reach Vienna semis",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cm0ld27ew5lyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United's struggles are pored over more than ever before - not least by former players.",
-        "publishedAt": "2026-10-30T06:14:19.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Anderson 'shocked' by Lancs exit and unsure if he will continue",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a person\".",
-        "publishedAt": "2026-10-30T10:44:19.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "F1 has never had anyone like me - Hamilton",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cmvg9z1v33keo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Lewis Hamilton says he is unlike any driver Formula 1 has seen before and reaffirms a determination to keep racing into his mid-forties.",
-        "publishedAt": "2026-10-30T07:25:41.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Sutton's predictions v Bad Day At The Office star John Hannah",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-        "publishedAt": "2026-10-29T19:55:24.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Why managers must put their own health first - Pulis",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqy0r31kwne0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Sport columnist Tony Pulis explains why Vincent Kompany's health scare was a reminder that management takes its toll physically and mentally",
-        "publishedAt": "2026-10-30T07:41:38.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "England out of World Cup after loss to Samoa",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cmx281j2n8r4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A Freedom Crichton Ropati hat-trick helps Samoa knock England out of the Women's Rugby League World Cup.",
-        "publishedAt": "2026-10-30T15:00:50.000Z",
+        "description": "Alexander Zverev marks his rise to world number one with a dominant victory over Britain's Arthur Fery to reach the semi-finals of the Vienna Open.",
+        "publishedAt": "2026-10-30T18:41:25.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,6 +2487,50 @@
   "sports_in": {
     "articles": [
       {
+        "title": "What Howe could bring to Man Utd - and what are the challenges?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Eddie Howe is being linked with the Manchester United job, but what are some of the considerations for him and the club?",
+        "publishedAt": "2026-10-30T16:27:13.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Leclerc fastest in Mexico City Grand Prix first practice",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ferrari's Charles Leclerc goes fastest in the first practice session of the Mexico City Grand Prix.",
+        "publishedAt": "2026-10-30T19:43:59.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "South Africa-Australia set for classic finale – what does history suggest could happen?",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c6n8dpvyyy71o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "South Africa set up an epic final day of their decisive Test against Australia by batting throughout the fourth day. What does history suggest could happen?",
+        "publishedAt": "2026-10-30T17:03:40.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "From her own Barbie doll to bench - how Ellie Kildunne slipped from Red Roses' XV",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy832jv00p1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ellie Kildunne has been the Red Roses' figurehead throughout their rise to world champions, so why is she on the bench for Friday night's Test against the USA?",
+        "publishedAt": "2026-10-30T16:22:55.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Britain's first £100m man facing defining moment",
         "url": "https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2494,6 +2538,17 @@
         },
         "description": "Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?",
         "publishedAt": "2026-10-30T13:42:15.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Arteta warns Dowman 'we are not in Disneyland' after red card",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c875p940g5v2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Mikel Arteta says \"we are not in Disneyland\" and that he will hold Max Dowman to the same standards as other first-team players after the teenager's red card against Fleetwood.",
+        "publishedAt": "2026-10-30T15:41:43.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2509,68 +2564,13 @@
         "zone": "in"
       },
       {
-        "title": "How talking about Man Utd's cycle of doom became an industry",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o?at_medium=RSS&at_campaign=rss",
+        "title": "Zverev thrashes GB's Fery to reach Vienna semis",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cm0ld27ew5lyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United's struggles are pored over more than ever before - not least by former players.",
-        "publishedAt": "2026-10-30T06:14:19.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Anderson 'shocked' by Lancs exit and unsure if he will continue",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a person\".",
-        "publishedAt": "2026-10-30T10:44:19.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "F1 has never had anyone like me - Hamilton",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cmvg9z1v33keo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Lewis Hamilton says he is unlike any driver Formula 1 has seen before and reaffirms a determination to keep racing into his mid-forties.",
-        "publishedAt": "2026-10-30T07:25:41.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Sutton's predictions v Bad Day At The Office star John Hannah",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-        "publishedAt": "2026-10-29T19:55:24.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Why managers must put their own health first - Pulis",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqy0r31kwne0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Sport columnist Tony Pulis explains why Vincent Kompany's health scare was a reminder that management takes its toll physically and mentally",
-        "publishedAt": "2026-10-30T07:41:38.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "England out of World Cup after loss to Samoa",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cmx281j2n8r4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A Freedom Crichton Ropati hat-trick helps Samoa knock England out of the Women's Rugby League World Cup.",
-        "publishedAt": "2026-10-30T15:00:50.000Z",
+        "description": "Alexander Zverev marks his rise to world number one with a dominant victory over Britain's Arthur Fery to reach the semi-finals of the Vienna Open.",
+        "publishedAt": "2026-10-30T18:41:25.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,6 +2579,50 @@
   "sports_au": {
     "articles": [
       {
+        "title": "What Howe could bring to Man Utd - and what are the challenges?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Eddie Howe is being linked with the Manchester United job, but what are some of the considerations for him and the club?",
+        "publishedAt": "2026-10-30T16:27:13.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Leclerc fastest in Mexico City Grand Prix first practice",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ferrari's Charles Leclerc goes fastest in the first practice session of the Mexico City Grand Prix.",
+        "publishedAt": "2026-10-30T19:43:59.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "South Africa-Australia set for classic finale – what does history suggest could happen?",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c6n8dpvyyy71o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "South Africa set up an epic final day of their decisive Test against Australia by batting throughout the fourth day. What does history suggest could happen?",
+        "publishedAt": "2026-10-30T17:03:40.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "From her own Barbie doll to bench - how Ellie Kildunne slipped from Red Roses' XV",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy832jv00p1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ellie Kildunne has been the Red Roses' figurehead throughout their rise to world champions, so why is she on the bench for Friday night's Test against the USA?",
+        "publishedAt": "2026-10-30T16:22:55.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Britain's first £100m man facing defining moment",
         "url": "https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2586,6 +2630,17 @@
         },
         "description": "Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?",
         "publishedAt": "2026-10-30T13:42:15.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Arteta warns Dowman 'we are not in Disneyland' after red card",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c875p940g5v2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Mikel Arteta says \"we are not in Disneyland\" and that he will hold Max Dowman to the same standards as other first-team players after the teenager's red card against Fleetwood.",
+        "publishedAt": "2026-10-30T15:41:43.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2601,68 +2656,13 @@
         "zone": "au"
       },
       {
-        "title": "How talking about Man Utd's cycle of doom became an industry",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o?at_medium=RSS&at_campaign=rss",
+        "title": "Zverev thrashes GB's Fery to reach Vienna semis",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cm0ld27ew5lyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United's struggles are pored over more than ever before - not least by former players.",
-        "publishedAt": "2026-10-30T06:14:19.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Anderson 'shocked' by Lancs exit and unsure if he will continue",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a person\".",
-        "publishedAt": "2026-10-30T10:44:19.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "F1 has never had anyone like me - Hamilton",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cmvg9z1v33keo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Lewis Hamilton says he is unlike any driver Formula 1 has seen before and reaffirms a determination to keep racing into his mid-forties.",
-        "publishedAt": "2026-10-30T07:25:41.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Sutton's predictions v Bad Day At The Office star John Hannah",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-        "publishedAt": "2026-10-29T19:55:24.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Why managers must put their own health first - Pulis",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqy0r31kwne0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Sport columnist Tony Pulis explains why Vincent Kompany's health scare was a reminder that management takes its toll physically and mentally",
-        "publishedAt": "2026-10-30T07:41:38.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "England out of World Cup after loss to Samoa",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cmx281j2n8r4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A Freedom Crichton Ropati hat-trick helps Samoa knock England out of the Women's Rugby League World Cup.",
-        "publishedAt": "2026-10-30T15:00:50.000Z",
+        "description": "Alexander Zverev marks his rise to world number one with a dominant victory over Britain's Arthur Fery to reach the semi-finals of the Vienna Open.",
+        "publishedAt": "2026-10-30T18:41:25.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,6 +2671,50 @@
   "sports_ca": {
     "articles": [
       {
+        "title": "What Howe could bring to Man Utd - and what are the challenges?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Eddie Howe is being linked with the Manchester United job, but what are some of the considerations for him and the club?",
+        "publishedAt": "2026-10-30T16:27:13.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Leclerc fastest in Mexico City Grand Prix first practice",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ferrari's Charles Leclerc goes fastest in the first practice session of the Mexico City Grand Prix.",
+        "publishedAt": "2026-10-30T19:43:59.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "South Africa-Australia set for classic finale – what does history suggest could happen?",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c6n8dpvyyy71o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "South Africa set up an epic final day of their decisive Test against Australia by batting throughout the fourth day. What does history suggest could happen?",
+        "publishedAt": "2026-10-30T17:03:40.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "From her own Barbie doll to bench - how Ellie Kildunne slipped from Red Roses' XV",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy832jv00p1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ellie Kildunne has been the Red Roses' figurehead throughout their rise to world champions, so why is she on the bench for Friday night's Test against the USA?",
+        "publishedAt": "2026-10-30T16:22:55.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Britain's first £100m man facing defining moment",
         "url": "https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2678,6 +2722,17 @@
         },
         "description": "Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?",
         "publishedAt": "2026-10-30T13:42:15.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Arteta warns Dowman 'we are not in Disneyland' after red card",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c875p940g5v2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Mikel Arteta says \"we are not in Disneyland\" and that he will hold Max Dowman to the same standards as other first-team players after the teenager's red card against Fleetwood.",
+        "publishedAt": "2026-10-30T15:41:43.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2693,68 +2748,13 @@
         "zone": "ca"
       },
       {
-        "title": "How talking about Man Utd's cycle of doom became an industry",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o?at_medium=RSS&at_campaign=rss",
+        "title": "Zverev thrashes GB's Fery to reach Vienna semis",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cm0ld27ew5lyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United's struggles are pored over more than ever before - not least by former players.",
-        "publishedAt": "2026-10-30T06:14:19.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Anderson 'shocked' by Lancs exit and unsure if he will continue",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a person\".",
-        "publishedAt": "2026-10-30T10:44:19.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "F1 has never had anyone like me - Hamilton",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cmvg9z1v33keo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Lewis Hamilton says he is unlike any driver Formula 1 has seen before and reaffirms a determination to keep racing into his mid-forties.",
-        "publishedAt": "2026-10-30T07:25:41.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Sutton's predictions v Bad Day At The Office star John Hannah",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-        "publishedAt": "2026-10-29T19:55:24.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Why managers must put their own health first - Pulis",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqy0r31kwne0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "BBC Sport columnist Tony Pulis explains why Vincent Kompany's health scare was a reminder that management takes its toll physically and mentally",
-        "publishedAt": "2026-10-30T07:41:38.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "England out of World Cup after loss to Samoa",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cmx281j2n8r4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A Freedom Crichton Ropati hat-trick helps Samoa knock England out of the Women's Rugby League World Cup.",
-        "publishedAt": "2026-10-30T15:00:50.000Z",
+        "description": "Alexander Zverev marks his rise to world number one with a dominant victory over Britain's Arthur Fery to reach the semi-finals of the Vienna Open.",
+        "publishedAt": "2026-10-30T18:41:25.000Z",
         "category": "sports",
         "zone": "ca"
       }
@@ -2763,13 +2763,13 @@
   "technology_us": {
     "articles": [
       {
-        "title": "US tech stocks see sharp falls over AI cost fears",
+        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
         "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Shares in Intel have continued to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-        "publishedAt": "2026-10-30T15:27:54.000Z",
+        "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+        "publishedAt": "2026-10-30T17:47:01.000Z",
         "category": "technology",
         "zone": "us"
       },
@@ -2855,13 +2855,13 @@
   "technology_gb": {
     "articles": [
       {
-        "title": "US tech stocks see sharp falls over AI cost fears",
+        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
         "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Shares in Intel have continued to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-        "publishedAt": "2026-10-30T15:27:54.000Z",
+        "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+        "publishedAt": "2026-10-30T17:47:01.000Z",
         "category": "technology",
         "zone": "gb"
       },
@@ -2947,13 +2947,13 @@
   "technology_in": {
     "articles": [
       {
-        "title": "US tech stocks see sharp falls over AI cost fears",
+        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
         "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Shares in Intel have continued to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-        "publishedAt": "2026-10-30T15:27:54.000Z",
+        "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+        "publishedAt": "2026-10-30T17:47:01.000Z",
         "category": "technology",
         "zone": "in"
       },
@@ -3039,13 +3039,13 @@
   "technology_au": {
     "articles": [
       {
-        "title": "US tech stocks see sharp falls over AI cost fears",
+        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
         "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Shares in Intel have continued to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-        "publishedAt": "2026-10-30T15:27:54.000Z",
+        "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+        "publishedAt": "2026-10-30T17:47:01.000Z",
         "category": "technology",
         "zone": "au"
       },
@@ -3131,13 +3131,13 @@
   "technology_ca": {
     "articles": [
       {
-        "title": "US tech stocks see sharp falls over AI cost fears",
+        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
         "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Shares in Intel have continued to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-        "publishedAt": "2026-10-30T15:27:54.000Z",
+        "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+        "publishedAt": "2026-10-30T17:47:01.000Z",
         "category": "technology",
         "zone": "ca"
       },
