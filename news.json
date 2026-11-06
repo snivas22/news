@@ -1,15 +1,26 @@
 {
-  "generatedAt": "2026-11-06T00:52:24.602Z",
+  "generatedAt": "2026-11-06T07:44:55.124Z",
   "general_us": {
     "articles": [
       {
-        "title": "Russell Brand found guilty of rape and sexual assault",
-        "url": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
+        "title": "Met chief warns policing 'heading for failure' without reform",
+        "url": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported.",
-        "publishedAt": "2026-11-05T18:28:35.000Z",
+        "description": "Sir Mark Rowley will argue that the current system is unable to cope with the sophistication of modern criminals.",
+        "publishedAt": "2026-11-06T01:13:53.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Russell Brand is being investigated over two new rape complaints, police say",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
+        "publishedAt": "2026-11-05T15:44:49.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -25,35 +36,46 @@
         "zone": "us"
       },
       {
-        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "title": "'Misleading' student loans information left out examples of higher-salary repayments",
+        "url": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
-        "publishedAt": "2026-11-06T00:41:15.000Z",
+        "description": "The Treasury Committee chair says she is \"shocked\" after one university compared repayments to the price of coffee.",
+        "publishedAt": "2026-11-06T06:06:36.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Firms told to publish salaries in job adverts ahead of new law",
-        "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump signs order preventing future presidents from changing Oval Office",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The goverment argues the change will help jobseekers and could help to prevent pay discrimination.",
-        "publishedAt": "2026-11-05T22:32:02.000Z",
+        "description": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+        "publishedAt": "2026-11-06T04:29:25.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "California governor commutes sentences for state's 548 death row inmates",
-        "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+        "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+        "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "California has historically had the largest population of people on death row in the US.",
-        "publishedAt": "2026-11-05T23:09:33.000Z",
+        "description": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
+        "publishedAt": "2026-11-06T01:22:39.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Home Office investigating after BBC catches lawyer offering to make fines go away",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgjygzwdz7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Home Office said it will be investigating the allegations to see whether there has been a breach of immigration rules.",
+        "publishedAt": "2026-11-06T05:53:15.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -65,28 +87,6 @@
         },
         "description": "Labour is weakening Margaret Thatcher's landmark housing policy. Will it really fix Britain's social housing woes?",
         "publishedAt": "2026-11-06T00:09:56.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "King relishes 'politically charged' deployments, Palace aide says",
-        "url": "https://www.bbc.co.uk/news/articles/c8n5vvr906dvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The monarch faced questions on the UK's involvement in the slave trade during his Caribbean tour.",
-        "publishedAt": "2026-11-05T22:04:44.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Andrew received up to £2,000 per month from sub-letting, watchdog reports",
-        "url": "https://www.bbc.co.uk/news/articles/c6m2d7vpd0meo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The income went to the former prince rather than his landlord the Crown Estate.",
-        "publishedAt": "2026-11-06T00:39:18.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,13 +95,24 @@
   "general_gb": {
     "articles": [
       {
-        "title": "Russell Brand found guilty of rape and sexual assault",
-        "url": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
+        "title": "Met chief warns policing 'heading for failure' without reform",
+        "url": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported.",
-        "publishedAt": "2026-11-05T18:28:35.000Z",
+        "description": "Sir Mark Rowley will argue that the current system is unable to cope with the sophistication of modern criminals.",
+        "publishedAt": "2026-11-06T01:13:53.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Russell Brand is being investigated over two new rape complaints, police say",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
+        "publishedAt": "2026-11-05T15:44:49.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -117,35 +128,46 @@
         "zone": "gb"
       },
       {
-        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "title": "'Misleading' student loans information left out examples of higher-salary repayments",
+        "url": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
-        "publishedAt": "2026-11-06T00:41:15.000Z",
+        "description": "The Treasury Committee chair says she is \"shocked\" after one university compared repayments to the price of coffee.",
+        "publishedAt": "2026-11-06T06:06:36.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Firms told to publish salaries in job adverts ahead of new law",
-        "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump signs order preventing future presidents from changing Oval Office",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The goverment argues the change will help jobseekers and could help to prevent pay discrimination.",
-        "publishedAt": "2026-11-05T22:32:02.000Z",
+        "description": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+        "publishedAt": "2026-11-06T04:29:25.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "California governor commutes sentences for state's 548 death row inmates",
-        "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+        "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+        "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "California has historically had the largest population of people on death row in the US.",
-        "publishedAt": "2026-11-05T23:09:33.000Z",
+        "description": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
+        "publishedAt": "2026-11-06T01:22:39.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Home Office investigating after BBC catches lawyer offering to make fines go away",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgjygzwdz7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Home Office said it will be investigating the allegations to see whether there has been a breach of immigration rules.",
+        "publishedAt": "2026-11-06T05:53:15.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -157,28 +179,6 @@
         },
         "description": "Labour is weakening Margaret Thatcher's landmark housing policy. Will it really fix Britain's social housing woes?",
         "publishedAt": "2026-11-06T00:09:56.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "King relishes 'politically charged' deployments, Palace aide says",
-        "url": "https://www.bbc.co.uk/news/articles/c8n5vvr906dvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The monarch faced questions on the UK's involvement in the slave trade during his Caribbean tour.",
-        "publishedAt": "2026-11-05T22:04:44.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Andrew received up to £2,000 per month from sub-letting, watchdog reports",
-        "url": "https://www.bbc.co.uk/news/articles/c6m2d7vpd0meo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The income went to the former prince rather than his landlord the Crown Estate.",
-        "publishedAt": "2026-11-06T00:39:18.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,13 +187,24 @@
   "general_in": {
     "articles": [
       {
-        "title": "Russell Brand found guilty of rape and sexual assault",
-        "url": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
+        "title": "Met chief warns policing 'heading for failure' without reform",
+        "url": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported.",
-        "publishedAt": "2026-11-05T18:28:35.000Z",
+        "description": "Sir Mark Rowley will argue that the current system is unable to cope with the sophistication of modern criminals.",
+        "publishedAt": "2026-11-06T01:13:53.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Russell Brand is being investigated over two new rape complaints, police say",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
+        "publishedAt": "2026-11-05T15:44:49.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -209,35 +220,46 @@
         "zone": "in"
       },
       {
-        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "title": "'Misleading' student loans information left out examples of higher-salary repayments",
+        "url": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
-        "publishedAt": "2026-11-06T00:41:15.000Z",
+        "description": "The Treasury Committee chair says she is \"shocked\" after one university compared repayments to the price of coffee.",
+        "publishedAt": "2026-11-06T06:06:36.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Firms told to publish salaries in job adverts ahead of new law",
-        "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump signs order preventing future presidents from changing Oval Office",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The goverment argues the change will help jobseekers and could help to prevent pay discrimination.",
-        "publishedAt": "2026-11-05T22:32:02.000Z",
+        "description": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+        "publishedAt": "2026-11-06T04:29:25.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "California governor commutes sentences for state's 548 death row inmates",
-        "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+        "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+        "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "California has historically had the largest population of people on death row in the US.",
-        "publishedAt": "2026-11-05T23:09:33.000Z",
+        "description": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
+        "publishedAt": "2026-11-06T01:22:39.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Home Office investigating after BBC catches lawyer offering to make fines go away",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgjygzwdz7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Home Office said it will be investigating the allegations to see whether there has been a breach of immigration rules.",
+        "publishedAt": "2026-11-06T05:53:15.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -249,28 +271,6 @@
         },
         "description": "Labour is weakening Margaret Thatcher's landmark housing policy. Will it really fix Britain's social housing woes?",
         "publishedAt": "2026-11-06T00:09:56.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "King relishes 'politically charged' deployments, Palace aide says",
-        "url": "https://www.bbc.co.uk/news/articles/c8n5vvr906dvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The monarch faced questions on the UK's involvement in the slave trade during his Caribbean tour.",
-        "publishedAt": "2026-11-05T22:04:44.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Andrew received up to £2,000 per month from sub-letting, watchdog reports",
-        "url": "https://www.bbc.co.uk/news/articles/c6m2d7vpd0meo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The income went to the former prince rather than his landlord the Crown Estate.",
-        "publishedAt": "2026-11-06T00:39:18.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,13 +279,24 @@
   "general_au": {
     "articles": [
       {
-        "title": "Russell Brand found guilty of rape and sexual assault",
-        "url": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
+        "title": "Met chief warns policing 'heading for failure' without reform",
+        "url": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported.",
-        "publishedAt": "2026-11-05T18:28:35.000Z",
+        "description": "Sir Mark Rowley will argue that the current system is unable to cope with the sophistication of modern criminals.",
+        "publishedAt": "2026-11-06T01:13:53.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Russell Brand is being investigated over two new rape complaints, police say",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
+        "publishedAt": "2026-11-05T15:44:49.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -301,35 +312,46 @@
         "zone": "au"
       },
       {
-        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "title": "'Misleading' student loans information left out examples of higher-salary repayments",
+        "url": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
-        "publishedAt": "2026-11-06T00:41:15.000Z",
+        "description": "The Treasury Committee chair says she is \"shocked\" after one university compared repayments to the price of coffee.",
+        "publishedAt": "2026-11-06T06:06:36.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Firms told to publish salaries in job adverts ahead of new law",
-        "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump signs order preventing future presidents from changing Oval Office",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The goverment argues the change will help jobseekers and could help to prevent pay discrimination.",
-        "publishedAt": "2026-11-05T22:32:02.000Z",
+        "description": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+        "publishedAt": "2026-11-06T04:29:25.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "California governor commutes sentences for state's 548 death row inmates",
-        "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+        "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+        "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "California has historically had the largest population of people on death row in the US.",
-        "publishedAt": "2026-11-05T23:09:33.000Z",
+        "description": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
+        "publishedAt": "2026-11-06T01:22:39.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Home Office investigating after BBC catches lawyer offering to make fines go away",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgjygzwdz7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Home Office said it will be investigating the allegations to see whether there has been a breach of immigration rules.",
+        "publishedAt": "2026-11-06T05:53:15.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -341,28 +363,6 @@
         },
         "description": "Labour is weakening Margaret Thatcher's landmark housing policy. Will it really fix Britain's social housing woes?",
         "publishedAt": "2026-11-06T00:09:56.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "King relishes 'politically charged' deployments, Palace aide says",
-        "url": "https://www.bbc.co.uk/news/articles/c8n5vvr906dvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The monarch faced questions on the UK's involvement in the slave trade during his Caribbean tour.",
-        "publishedAt": "2026-11-05T22:04:44.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Andrew received up to £2,000 per month from sub-letting, watchdog reports",
-        "url": "https://www.bbc.co.uk/news/articles/c6m2d7vpd0meo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The income went to the former prince rather than his landlord the Crown Estate.",
-        "publishedAt": "2026-11-06T00:39:18.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,13 +371,24 @@
   "general_ca": {
     "articles": [
       {
-        "title": "Russell Brand found guilty of rape and sexual assault",
-        "url": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
+        "title": "Met chief warns policing 'heading for failure' without reform",
+        "url": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported.",
-        "publishedAt": "2026-11-05T18:28:35.000Z",
+        "description": "Sir Mark Rowley will argue that the current system is unable to cope with the sophistication of modern criminals.",
+        "publishedAt": "2026-11-06T01:13:53.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Russell Brand is being investigated over two new rape complaints, police say",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
+        "publishedAt": "2026-11-05T15:44:49.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -393,35 +404,46 @@
         "zone": "ca"
       },
       {
-        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "title": "'Misleading' student loans information left out examples of higher-salary repayments",
+        "url": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
-        "publishedAt": "2026-11-06T00:41:15.000Z",
+        "description": "The Treasury Committee chair says she is \"shocked\" after one university compared repayments to the price of coffee.",
+        "publishedAt": "2026-11-06T06:06:36.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Firms told to publish salaries in job adverts ahead of new law",
-        "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump signs order preventing future presidents from changing Oval Office",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The goverment argues the change will help jobseekers and could help to prevent pay discrimination.",
-        "publishedAt": "2026-11-05T22:32:02.000Z",
+        "description": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+        "publishedAt": "2026-11-06T04:29:25.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "California governor commutes sentences for state's 548 death row inmates",
-        "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+        "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+        "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "California has historically had the largest population of people on death row in the US.",
-        "publishedAt": "2026-11-05T23:09:33.000Z",
+        "description": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
+        "publishedAt": "2026-11-06T01:22:39.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Home Office investigating after BBC catches lawyer offering to make fines go away",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgjygzwdz7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Home Office said it will be investigating the allegations to see whether there has been a breach of immigration rules.",
+        "publishedAt": "2026-11-06T05:53:15.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -435,52 +457,19 @@
         "publishedAt": "2026-11-06T00:09:56.000Z",
         "category": "general",
         "zone": "ca"
-      },
-      {
-        "title": "King relishes 'politically charged' deployments, Palace aide says",
-        "url": "https://www.bbc.co.uk/news/articles/c8n5vvr906dvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The monarch faced questions on the UK's involvement in the slave trade during his Caribbean tour.",
-        "publishedAt": "2026-11-05T22:04:44.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Andrew received up to £2,000 per month from sub-letting, watchdog reports",
-        "url": "https://www.bbc.co.uk/news/articles/c6m2d7vpd0meo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The income went to the former prince rather than his landlord the Crown Estate.",
-        "publishedAt": "2026-11-06T00:39:18.000Z",
-        "category": "general",
-        "zone": "ca"
       }
     ]
   },
   "business_us": {
     "articles": [
       {
-        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
-        "publishedAt": "2026-11-06T00:41:15.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
         "title": "Firms told to publish salaries in job adverts ahead of new law",
         "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The goverment argues the change will help jobseekers and could help to prevent pay discrimination.",
-        "publishedAt": "2026-11-05T22:32:02.000Z",
+        "description": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
+        "publishedAt": "2026-11-06T07:36:41.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -536,6 +525,17 @@
         },
         "description": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
         "publishedAt": "2026-11-05T13:08:30.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+        "publishedAt": "2026-11-06T07:27:26.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -555,24 +555,13 @@
   "business_gb": {
     "articles": [
       {
-        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
-        "publishedAt": "2026-11-06T00:41:15.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
         "title": "Firms told to publish salaries in job adverts ahead of new law",
         "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The goverment argues the change will help jobseekers and could help to prevent pay discrimination.",
-        "publishedAt": "2026-11-05T22:32:02.000Z",
+        "description": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
+        "publishedAt": "2026-11-06T07:36:41.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -628,6 +617,17 @@
         },
         "description": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
         "publishedAt": "2026-11-05T13:08:30.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+        "publishedAt": "2026-11-06T07:27:26.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -647,24 +647,13 @@
   "business_in": {
     "articles": [
       {
-        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
-        "publishedAt": "2026-11-06T00:41:15.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
         "title": "Firms told to publish salaries in job adverts ahead of new law",
         "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The goverment argues the change will help jobseekers and could help to prevent pay discrimination.",
-        "publishedAt": "2026-11-05T22:32:02.000Z",
+        "description": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
+        "publishedAt": "2026-11-06T07:36:41.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -720,6 +709,17 @@
         },
         "description": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
         "publishedAt": "2026-11-05T13:08:30.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+        "publishedAt": "2026-11-06T07:27:26.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -739,24 +739,13 @@
   "business_au": {
     "articles": [
       {
-        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
-        "publishedAt": "2026-11-06T00:41:15.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
         "title": "Firms told to publish salaries in job adverts ahead of new law",
         "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The goverment argues the change will help jobseekers and could help to prevent pay discrimination.",
-        "publishedAt": "2026-11-05T22:32:02.000Z",
+        "description": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
+        "publishedAt": "2026-11-06T07:36:41.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -812,6 +801,17 @@
         },
         "description": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
         "publishedAt": "2026-11-05T13:08:30.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+        "publishedAt": "2026-11-06T07:27:26.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -831,24 +831,13 @@
   "business_ca": {
     "articles": [
       {
-        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
-        "publishedAt": "2026-11-06T00:41:15.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
         "title": "Firms told to publish salaries in job adverts ahead of new law",
         "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The goverment argues the change will help jobseekers and could help to prevent pay discrimination.",
-        "publishedAt": "2026-11-05T22:32:02.000Z",
+        "description": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
+        "publishedAt": "2026-11-06T07:36:41.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -908,6 +897,17 @@
         "zone": "ca"
       },
       {
+        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+        "publishedAt": "2026-11-06T07:27:26.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
         "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
         "url": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -923,13 +923,24 @@
   "entertainment_us": {
     "articles": [
       {
+        "title": "U2 on Dolly Parton's final duet; and the 'grudge match' behind their new album",
+        "url": "https://www.bbc.co.uk/news/articles/cwyvrzle4g98o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The rock group discuss Parton's final recording before her death, and why they refuse to be censored on stage.",
+        "publishedAt": "2026-11-06T00:50:24.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
         "title": "Russell Brand found guilty of rape and sexual assault",
         "url": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported.",
-        "publishedAt": "2026-11-05T18:28:35.000Z",
+        "publishedAt": "2026-11-06T02:21:20.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -996,17 +1007,6 @@
         },
         "description": "Black Doves cast: 'Being on Traitors would drive us insane'",
         "publishedAt": "2026-11-05T06:06:51.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Surreal moment Tarantino and Kylie Minogue came to my hometown to star in my new film",
-        "url": "https://www.bbc.co.uk/news/articles/cmn068j9z4w3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Pulp Fiction director and Spinning Around singer caused a stir in a Welsh seaside town.",
-        "publishedAt": "2026-11-05T06:07:19.000Z",
         "category": "entertainment",
         "zone": "us"
       }
@@ -1015,13 +1015,24 @@
   "entertainment_gb": {
     "articles": [
       {
+        "title": "U2 on Dolly Parton's final duet; and the 'grudge match' behind their new album",
+        "url": "https://www.bbc.co.uk/news/articles/cwyvrzle4g98o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The rock group discuss Parton's final recording before her death, and why they refuse to be censored on stage.",
+        "publishedAt": "2026-11-06T00:50:24.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
         "title": "Russell Brand found guilty of rape and sexual assault",
         "url": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported.",
-        "publishedAt": "2026-11-05T18:28:35.000Z",
+        "publishedAt": "2026-11-06T02:21:20.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1088,17 +1099,6 @@
         },
         "description": "Black Doves cast: 'Being on Traitors would drive us insane'",
         "publishedAt": "2026-11-05T06:06:51.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Surreal moment Tarantino and Kylie Minogue came to my hometown to star in my new film",
-        "url": "https://www.bbc.co.uk/news/articles/cmn068j9z4w3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Pulp Fiction director and Spinning Around singer caused a stir in a Welsh seaside town.",
-        "publishedAt": "2026-11-05T06:07:19.000Z",
         "category": "entertainment",
         "zone": "gb"
       }
@@ -1107,13 +1107,24 @@
   "entertainment_in": {
     "articles": [
       {
+        "title": "U2 on Dolly Parton's final duet; and the 'grudge match' behind their new album",
+        "url": "https://www.bbc.co.uk/news/articles/cwyvrzle4g98o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The rock group discuss Parton's final recording before her death, and why they refuse to be censored on stage.",
+        "publishedAt": "2026-11-06T00:50:24.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
         "title": "Russell Brand found guilty of rape and sexual assault",
         "url": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported.",
-        "publishedAt": "2026-11-05T18:28:35.000Z",
+        "publishedAt": "2026-11-06T02:21:20.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1180,17 +1191,6 @@
         },
         "description": "Black Doves cast: 'Being on Traitors would drive us insane'",
         "publishedAt": "2026-11-05T06:06:51.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Surreal moment Tarantino and Kylie Minogue came to my hometown to star in my new film",
-        "url": "https://www.bbc.co.uk/news/articles/cmn068j9z4w3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Pulp Fiction director and Spinning Around singer caused a stir in a Welsh seaside town.",
-        "publishedAt": "2026-11-05T06:07:19.000Z",
         "category": "entertainment",
         "zone": "in"
       }
@@ -1199,13 +1199,24 @@
   "entertainment_au": {
     "articles": [
       {
+        "title": "U2 on Dolly Parton's final duet; and the 'grudge match' behind their new album",
+        "url": "https://www.bbc.co.uk/news/articles/cwyvrzle4g98o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The rock group discuss Parton's final recording before her death, and why they refuse to be censored on stage.",
+        "publishedAt": "2026-11-06T00:50:24.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
         "title": "Russell Brand found guilty of rape and sexual assault",
         "url": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported.",
-        "publishedAt": "2026-11-05T18:28:35.000Z",
+        "publishedAt": "2026-11-06T02:21:20.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1272,17 +1283,6 @@
         },
         "description": "Black Doves cast: 'Being on Traitors would drive us insane'",
         "publishedAt": "2026-11-05T06:06:51.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Surreal moment Tarantino and Kylie Minogue came to my hometown to star in my new film",
-        "url": "https://www.bbc.co.uk/news/articles/cmn068j9z4w3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Pulp Fiction director and Spinning Around singer caused a stir in a Welsh seaside town.",
-        "publishedAt": "2026-11-05T06:07:19.000Z",
         "category": "entertainment",
         "zone": "au"
       }
@@ -1291,13 +1291,24 @@
   "entertainment_ca": {
     "articles": [
       {
+        "title": "U2 on Dolly Parton's final duet; and the 'grudge match' behind their new album",
+        "url": "https://www.bbc.co.uk/news/articles/cwyvrzle4g98o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The rock group discuss Parton's final recording before her death, and why they refuse to be censored on stage.",
+        "publishedAt": "2026-11-06T00:50:24.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
         "title": "Russell Brand found guilty of rape and sexual assault",
         "url": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported.",
-        "publishedAt": "2026-11-05T18:28:35.000Z",
+        "publishedAt": "2026-11-06T02:21:20.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1364,17 +1375,6 @@
         },
         "description": "Black Doves cast: 'Being on Traitors would drive us insane'",
         "publishedAt": "2026-11-05T06:06:51.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Surreal moment Tarantino and Kylie Minogue came to my hometown to star in my new film",
-        "url": "https://www.bbc.co.uk/news/articles/cmn068j9z4w3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Pulp Fiction director and Spinning Around singer caused a stir in a Welsh seaside town.",
-        "publishedAt": "2026-11-05T06:07:19.000Z",
         "category": "entertainment",
         "zone": "ca"
       }
@@ -2314,13 +2314,13 @@
         "zone": "us"
       },
       {
-        "title": "What new Kane deal means for England and the Premier League record",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
+        "title": "England check on Palmer - what are Tuchel's other big choices?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
-        "publishedAt": "2026-11-05T14:44:34.000Z",
+        "description": "It is the last international break of the year and England have some important Nations League games. Thomas Tuchel has big decisions to make in selecting his squad.",
+        "publishedAt": "2026-11-05T19:00:04.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2336,13 +2336,13 @@
         "zone": "us"
       },
       {
-        "title": "England check on Palmer - what are Tuchel's other big choices?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
+        "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It is the last international break of the year and England have some important Nations League games. Thomas Tuchel has big decisions to make in selecting his squad.",
-        "publishedAt": "2026-11-05T19:00:04.000Z",
+        "description": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
+        "publishedAt": "2026-11-06T06:22:00.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2358,35 +2358,35 @@
         "zone": "us"
       },
       {
-        "title": "Anderson could be given chance to join Surrey",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o?at_medium=RSS&at_campaign=rss",
+        "title": "'A smack in the teeth' - warned coach to work at international youth event",
+        "url": "https://www.bbc.co.uk/sport/gymnastics/articles/c6gm0r08d1elo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "James Anderson could be given the opportunity to extend his legendary career by joining Surrey.",
-        "publishedAt": "2026-11-05T23:33:52.000Z",
+        "description": "A coach who received a formal warning from British Gymnastics following an investigation is coaching at an international youth competition this weekend.",
+        "publishedAt": "2026-11-06T06:36:38.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Antonelli says 2027 preparation starts now",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cx0544g2n1jdo?at_medium=RSS&at_campaign=rss",
+        "title": "Why managers can learn a lot from leaders like Napoleon - Pulis",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "New world champion Kimi Antonelli says he is treating the final races of the season as the beginnings of his campaign to retain the title next year.",
-        "publishedAt": "2026-11-05T21:19:56.000Z",
+        "description": "BBC Sport columnist Tony Pulis explains what he did between jobs and why out-of-work managers can learn a lot from leaders outside of football.",
+        "publishedAt": "2026-11-06T06:53:56.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Forest need balance between Woodstock and military - Glasner",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&at_campaign=rss",
+        "title": "Jones - the smiling wind-up artist who refuses to fade away",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckm233n7gerlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Oliver Glasner insists his Nottingham Forest side cannot survive on \"flower power\" as he tries to strike a balance between trust and respect at the club.",
-        "publishedAt": "2026-11-05T22:30:07.000Z",
+        "description": "You never know whether you will get a compliment, a cutting observation, verbal grenade or all three from mischievous Eddie Jones.",
+        "publishedAt": "2026-11-06T04:42:05.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2406,13 +2406,13 @@
         "zone": "gb"
       },
       {
-        "title": "What new Kane deal means for England and the Premier League record",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
+        "title": "England check on Palmer - what are Tuchel's other big choices?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
-        "publishedAt": "2026-11-05T14:44:34.000Z",
+        "description": "It is the last international break of the year and England have some important Nations League games. Thomas Tuchel has big decisions to make in selecting his squad.",
+        "publishedAt": "2026-11-05T19:00:04.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2428,13 +2428,13 @@
         "zone": "gb"
       },
       {
-        "title": "England check on Palmer - what are Tuchel's other big choices?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
+        "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It is the last international break of the year and England have some important Nations League games. Thomas Tuchel has big decisions to make in selecting his squad.",
-        "publishedAt": "2026-11-05T19:00:04.000Z",
+        "description": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
+        "publishedAt": "2026-11-06T06:22:00.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2450,35 +2450,35 @@
         "zone": "gb"
       },
       {
-        "title": "Anderson could be given chance to join Surrey",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o?at_medium=RSS&at_campaign=rss",
+        "title": "'A smack in the teeth' - warned coach to work at international youth event",
+        "url": "https://www.bbc.co.uk/sport/gymnastics/articles/c6gm0r08d1elo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "James Anderson could be given the opportunity to extend his legendary career by joining Surrey.",
-        "publishedAt": "2026-11-05T23:33:52.000Z",
+        "description": "A coach who received a formal warning from British Gymnastics following an investigation is coaching at an international youth competition this weekend.",
+        "publishedAt": "2026-11-06T06:36:38.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Antonelli says 2027 preparation starts now",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cx0544g2n1jdo?at_medium=RSS&at_campaign=rss",
+        "title": "Why managers can learn a lot from leaders like Napoleon - Pulis",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "New world champion Kimi Antonelli says he is treating the final races of the season as the beginnings of his campaign to retain the title next year.",
-        "publishedAt": "2026-11-05T21:19:56.000Z",
+        "description": "BBC Sport columnist Tony Pulis explains what he did between jobs and why out-of-work managers can learn a lot from leaders outside of football.",
+        "publishedAt": "2026-11-06T06:53:56.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Forest need balance between Woodstock and military - Glasner",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&at_campaign=rss",
+        "title": "Jones - the smiling wind-up artist who refuses to fade away",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckm233n7gerlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Oliver Glasner insists his Nottingham Forest side cannot survive on \"flower power\" as he tries to strike a balance between trust and respect at the club.",
-        "publishedAt": "2026-11-05T22:30:07.000Z",
+        "description": "You never know whether you will get a compliment, a cutting observation, verbal grenade or all three from mischievous Eddie Jones.",
+        "publishedAt": "2026-11-06T04:42:05.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2498,13 +2498,13 @@
         "zone": "in"
       },
       {
-        "title": "What new Kane deal means for England and the Premier League record",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
+        "title": "England check on Palmer - what are Tuchel's other big choices?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
-        "publishedAt": "2026-11-05T14:44:34.000Z",
+        "description": "It is the last international break of the year and England have some important Nations League games. Thomas Tuchel has big decisions to make in selecting his squad.",
+        "publishedAt": "2026-11-05T19:00:04.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2520,13 +2520,13 @@
         "zone": "in"
       },
       {
-        "title": "England check on Palmer - what are Tuchel's other big choices?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
+        "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It is the last international break of the year and England have some important Nations League games. Thomas Tuchel has big decisions to make in selecting his squad.",
-        "publishedAt": "2026-11-05T19:00:04.000Z",
+        "description": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
+        "publishedAt": "2026-11-06T06:22:00.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2542,35 +2542,35 @@
         "zone": "in"
       },
       {
-        "title": "Anderson could be given chance to join Surrey",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o?at_medium=RSS&at_campaign=rss",
+        "title": "'A smack in the teeth' - warned coach to work at international youth event",
+        "url": "https://www.bbc.co.uk/sport/gymnastics/articles/c6gm0r08d1elo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "James Anderson could be given the opportunity to extend his legendary career by joining Surrey.",
-        "publishedAt": "2026-11-05T23:33:52.000Z",
+        "description": "A coach who received a formal warning from British Gymnastics following an investigation is coaching at an international youth competition this weekend.",
+        "publishedAt": "2026-11-06T06:36:38.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Antonelli says 2027 preparation starts now",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cx0544g2n1jdo?at_medium=RSS&at_campaign=rss",
+        "title": "Why managers can learn a lot from leaders like Napoleon - Pulis",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "New world champion Kimi Antonelli says he is treating the final races of the season as the beginnings of his campaign to retain the title next year.",
-        "publishedAt": "2026-11-05T21:19:56.000Z",
+        "description": "BBC Sport columnist Tony Pulis explains what he did between jobs and why out-of-work managers can learn a lot from leaders outside of football.",
+        "publishedAt": "2026-11-06T06:53:56.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Forest need balance between Woodstock and military - Glasner",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&at_campaign=rss",
+        "title": "Jones - the smiling wind-up artist who refuses to fade away",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckm233n7gerlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Oliver Glasner insists his Nottingham Forest side cannot survive on \"flower power\" as he tries to strike a balance between trust and respect at the club.",
-        "publishedAt": "2026-11-05T22:30:07.000Z",
+        "description": "You never know whether you will get a compliment, a cutting observation, verbal grenade or all three from mischievous Eddie Jones.",
+        "publishedAt": "2026-11-06T04:42:05.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2590,13 +2590,13 @@
         "zone": "au"
       },
       {
-        "title": "What new Kane deal means for England and the Premier League record",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
+        "title": "England check on Palmer - what are Tuchel's other big choices?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
-        "publishedAt": "2026-11-05T14:44:34.000Z",
+        "description": "It is the last international break of the year and England have some important Nations League games. Thomas Tuchel has big decisions to make in selecting his squad.",
+        "publishedAt": "2026-11-05T19:00:04.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2612,13 +2612,13 @@
         "zone": "au"
       },
       {
-        "title": "England check on Palmer - what are Tuchel's other big choices?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
+        "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It is the last international break of the year and England have some important Nations League games. Thomas Tuchel has big decisions to make in selecting his squad.",
-        "publishedAt": "2026-11-05T19:00:04.000Z",
+        "description": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
+        "publishedAt": "2026-11-06T06:22:00.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2634,35 +2634,35 @@
         "zone": "au"
       },
       {
-        "title": "Anderson could be given chance to join Surrey",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o?at_medium=RSS&at_campaign=rss",
+        "title": "'A smack in the teeth' - warned coach to work at international youth event",
+        "url": "https://www.bbc.co.uk/sport/gymnastics/articles/c6gm0r08d1elo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "James Anderson could be given the opportunity to extend his legendary career by joining Surrey.",
-        "publishedAt": "2026-11-05T23:33:52.000Z",
+        "description": "A coach who received a formal warning from British Gymnastics following an investigation is coaching at an international youth competition this weekend.",
+        "publishedAt": "2026-11-06T06:36:38.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Antonelli says 2027 preparation starts now",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cx0544g2n1jdo?at_medium=RSS&at_campaign=rss",
+        "title": "Why managers can learn a lot from leaders like Napoleon - Pulis",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "New world champion Kimi Antonelli says he is treating the final races of the season as the beginnings of his campaign to retain the title next year.",
-        "publishedAt": "2026-11-05T21:19:56.000Z",
+        "description": "BBC Sport columnist Tony Pulis explains what he did between jobs and why out-of-work managers can learn a lot from leaders outside of football.",
+        "publishedAt": "2026-11-06T06:53:56.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Forest need balance between Woodstock and military - Glasner",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&at_campaign=rss",
+        "title": "Jones - the smiling wind-up artist who refuses to fade away",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckm233n7gerlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Oliver Glasner insists his Nottingham Forest side cannot survive on \"flower power\" as he tries to strike a balance between trust and respect at the club.",
-        "publishedAt": "2026-11-05T22:30:07.000Z",
+        "description": "You never know whether you will get a compliment, a cutting observation, verbal grenade or all three from mischievous Eddie Jones.",
+        "publishedAt": "2026-11-06T04:42:05.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2682,13 +2682,13 @@
         "zone": "ca"
       },
       {
-        "title": "What new Kane deal means for England and the Premier League record",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
+        "title": "England check on Palmer - what are Tuchel's other big choices?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
-        "publishedAt": "2026-11-05T14:44:34.000Z",
+        "description": "It is the last international break of the year and England have some important Nations League games. Thomas Tuchel has big decisions to make in selecting his squad.",
+        "publishedAt": "2026-11-05T19:00:04.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2704,13 +2704,13 @@
         "zone": "ca"
       },
       {
-        "title": "England check on Palmer - what are Tuchel's other big choices?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
+        "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It is the last international break of the year and England have some important Nations League games. Thomas Tuchel has big decisions to make in selecting his squad.",
-        "publishedAt": "2026-11-05T19:00:04.000Z",
+        "description": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
+        "publishedAt": "2026-11-06T06:22:00.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2726,35 +2726,35 @@
         "zone": "ca"
       },
       {
-        "title": "Anderson could be given chance to join Surrey",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o?at_medium=RSS&at_campaign=rss",
+        "title": "'A smack in the teeth' - warned coach to work at international youth event",
+        "url": "https://www.bbc.co.uk/sport/gymnastics/articles/c6gm0r08d1elo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "James Anderson could be given the opportunity to extend his legendary career by joining Surrey.",
-        "publishedAt": "2026-11-05T23:33:52.000Z",
+        "description": "A coach who received a formal warning from British Gymnastics following an investigation is coaching at an international youth competition this weekend.",
+        "publishedAt": "2026-11-06T06:36:38.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Antonelli says 2027 preparation starts now",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/cx0544g2n1jdo?at_medium=RSS&at_campaign=rss",
+        "title": "Why managers can learn a lot from leaders like Napoleon - Pulis",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "New world champion Kimi Antonelli says he is treating the final races of the season as the beginnings of his campaign to retain the title next year.",
-        "publishedAt": "2026-11-05T21:19:56.000Z",
+        "description": "BBC Sport columnist Tony Pulis explains what he did between jobs and why out-of-work managers can learn a lot from leaders outside of football.",
+        "publishedAt": "2026-11-06T06:53:56.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Forest need balance between Woodstock and military - Glasner",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&at_campaign=rss",
+        "title": "Jones - the smiling wind-up artist who refuses to fade away",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckm233n7gerlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Oliver Glasner insists his Nottingham Forest side cannot survive on \"flower power\" as he tries to strike a balance between trust and respect at the club.",
-        "publishedAt": "2026-11-05T22:30:07.000Z",
+        "description": "You never know whether you will get a compliment, a cutting observation, verbal grenade or all three from mischievous Eddie Jones.",
+        "publishedAt": "2026-11-06T04:42:05.000Z",
         "category": "sports",
         "zone": "ca"
       }
@@ -2763,13 +2763,13 @@
   "technology_us": {
     "articles": [
       {
-        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
         "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
-        "publishedAt": "2026-11-06T00:41:15.000Z",
+        "description": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+        "publishedAt": "2026-11-06T07:27:26.000Z",
         "category": "technology",
         "zone": "us"
       },
@@ -2855,13 +2855,13 @@
   "technology_gb": {
     "articles": [
       {
-        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
         "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
-        "publishedAt": "2026-11-06T00:41:15.000Z",
+        "description": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+        "publishedAt": "2026-11-06T07:27:26.000Z",
         "category": "technology",
         "zone": "gb"
       },
@@ -2947,13 +2947,13 @@
   "technology_in": {
     "articles": [
       {
-        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
         "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
-        "publishedAt": "2026-11-06T00:41:15.000Z",
+        "description": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+        "publishedAt": "2026-11-06T07:27:26.000Z",
         "category": "technology",
         "zone": "in"
       },
@@ -3039,13 +3039,13 @@
   "technology_au": {
     "articles": [
       {
-        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
         "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
-        "publishedAt": "2026-11-06T00:41:15.000Z",
+        "description": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+        "publishedAt": "2026-11-06T07:27:26.000Z",
         "category": "technology",
         "zone": "au"
       },
@@ -3131,13 +3131,13 @@
   "technology_ca": {
     "articles": [
       {
-        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
         "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
-        "publishedAt": "2026-11-06T00:41:15.000Z",
+        "description": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+        "publishedAt": "2026-11-06T07:27:26.000Z",
         "category": "technology",
         "zone": "ca"
       },
