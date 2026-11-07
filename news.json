@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-11-06T21:20:56.076Z",
+  "generatedAt": "2026-11-07T01:41:51.353Z",
   "general_us": {
     "articles": [
+      {
+        "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+        "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+        "publishedAt": "2026-11-06T21:26:56.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "With Stephen Miller pick, Trump readies for a battle",
+        "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+        "publishedAt": "2026-11-06T23:24:15.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
         "url": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
@@ -21,17 +43,6 @@
         },
         "description": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.",
         "publishedAt": "2026-11-06T12:16:44.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Trump replaces White House chief of staff days after Republicans suffer midterm defeats",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday.",
-        "publishedAt": "2026-11-06T20:11:45.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -69,24 +80,13 @@
         "zone": "us"
       },
       {
-        "title": "Manhunt after boy injured by sword, sparking Gloucester school lockdowns",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss",
+        "title": "Paraguay's president impeached after collapse of bank",
+        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Two schools went into lockdown following the incident and one woman has been arrested.",
-        "publishedAt": "2026-11-06T18:58:39.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-        "publishedAt": "2026-11-06T17:44:02.000Z",
+        "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+        "publishedAt": "2026-11-07T01:07:56.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,6 +95,28 @@
   "general_gb": {
     "articles": [
       {
+        "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+        "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+        "publishedAt": "2026-11-06T21:26:56.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "With Stephen Miller pick, Trump readies for a battle",
+        "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+        "publishedAt": "2026-11-06T23:24:15.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
         "url": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -113,17 +135,6 @@
         },
         "description": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.",
         "publishedAt": "2026-11-06T12:16:44.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Trump replaces White House chief of staff days after Republicans suffer midterm defeats",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday.",
-        "publishedAt": "2026-11-06T20:11:45.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -161,24 +172,13 @@
         "zone": "gb"
       },
       {
-        "title": "Manhunt after boy injured by sword, sparking Gloucester school lockdowns",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss",
+        "title": "Paraguay's president impeached after collapse of bank",
+        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Two schools went into lockdown following the incident and one woman has been arrested.",
-        "publishedAt": "2026-11-06T18:58:39.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-        "publishedAt": "2026-11-06T17:44:02.000Z",
+        "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+        "publishedAt": "2026-11-07T01:07:56.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,6 +187,28 @@
   "general_in": {
     "articles": [
       {
+        "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+        "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+        "publishedAt": "2026-11-06T21:26:56.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "With Stephen Miller pick, Trump readies for a battle",
+        "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+        "publishedAt": "2026-11-06T23:24:15.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
         "url": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -205,17 +227,6 @@
         },
         "description": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.",
         "publishedAt": "2026-11-06T12:16:44.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Trump replaces White House chief of staff days after Republicans suffer midterm defeats",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday.",
-        "publishedAt": "2026-11-06T20:11:45.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -253,24 +264,13 @@
         "zone": "in"
       },
       {
-        "title": "Manhunt after boy injured by sword, sparking Gloucester school lockdowns",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss",
+        "title": "Paraguay's president impeached after collapse of bank",
+        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Two schools went into lockdown following the incident and one woman has been arrested.",
-        "publishedAt": "2026-11-06T18:58:39.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-        "publishedAt": "2026-11-06T17:44:02.000Z",
+        "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+        "publishedAt": "2026-11-07T01:07:56.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,6 +279,28 @@
   "general_au": {
     "articles": [
       {
+        "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+        "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+        "publishedAt": "2026-11-06T21:26:56.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "With Stephen Miller pick, Trump readies for a battle",
+        "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+        "publishedAt": "2026-11-06T23:24:15.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
         "url": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -297,17 +319,6 @@
         },
         "description": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.",
         "publishedAt": "2026-11-06T12:16:44.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Trump replaces White House chief of staff days after Republicans suffer midterm defeats",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday.",
-        "publishedAt": "2026-11-06T20:11:45.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -345,24 +356,13 @@
         "zone": "au"
       },
       {
-        "title": "Manhunt after boy injured by sword, sparking Gloucester school lockdowns",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss",
+        "title": "Paraguay's president impeached after collapse of bank",
+        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Two schools went into lockdown following the incident and one woman has been arrested.",
-        "publishedAt": "2026-11-06T18:58:39.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-        "publishedAt": "2026-11-06T17:44:02.000Z",
+        "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+        "publishedAt": "2026-11-07T01:07:56.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,6 +371,28 @@
   "general_ca": {
     "articles": [
       {
+        "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+        "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+        "publishedAt": "2026-11-06T21:26:56.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "With Stephen Miller pick, Trump readies for a battle",
+        "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+        "publishedAt": "2026-11-06T23:24:15.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
         "url": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -389,17 +411,6 @@
         },
         "description": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.",
         "publishedAt": "2026-11-06T12:16:44.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Trump replaces White House chief of staff days after Republicans suffer midterm defeats",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday.",
-        "publishedAt": "2026-11-06T20:11:45.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -437,24 +448,13 @@
         "zone": "ca"
       },
       {
-        "title": "Manhunt after boy injured by sword, sparking Gloucester school lockdowns",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss",
+        "title": "Paraguay's president impeached after collapse of bank",
+        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Two schools went into lockdown following the incident and one woman has been arrested.",
-        "publishedAt": "2026-11-06T18:58:39.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-        "publishedAt": "2026-11-06T17:44:02.000Z",
+        "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+        "publishedAt": "2026-11-07T01:07:56.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -513,7 +513,7 @@
           "name": "RSS Feed"
         },
         "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-        "publishedAt": "2026-11-06T09:57:04.000Z",
+        "publishedAt": "2026-11-06T21:49:50.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -605,7 +605,7 @@
           "name": "RSS Feed"
         },
         "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-        "publishedAt": "2026-11-06T09:57:04.000Z",
+        "publishedAt": "2026-11-06T21:49:50.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -697,7 +697,7 @@
           "name": "RSS Feed"
         },
         "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-        "publishedAt": "2026-11-06T09:57:04.000Z",
+        "publishedAt": "2026-11-06T21:49:50.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -789,7 +789,7 @@
           "name": "RSS Feed"
         },
         "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-        "publishedAt": "2026-11-06T09:57:04.000Z",
+        "publishedAt": "2026-11-06T21:49:50.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -881,7 +881,7 @@
           "name": "RSS Feed"
         },
         "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-        "publishedAt": "2026-11-06T09:57:04.000Z",
+        "publishedAt": "2026-11-06T21:49:50.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -2303,13 +2303,79 @@
   "sports_us": {
     "articles": [
       {
-        "title": "Title race is over - but intrigue in F1 continues",
+        "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
+        "publishedAt": "2026-11-06T23:53:06.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Lampard feels hair pull should have led to Coventry penalty",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Coventry had a trio of decisions go against them in defeat at Everton, with Frank Lampard suggesting a hair pull should have been a penalty.",
+        "publishedAt": "2026-11-06T23:22:21.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Whole Australia team knew of sandpaper use - Khawaja",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa.",
+        "publishedAt": "2026-11-06T23:11:56.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Ferrari's Hamilton-Leclerc problem - and other F1 stories to follow",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/cm62y4283534o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "This weekend's Sao Paulo Grand Prix is in many ways the first page of the first chapter of the next championship battle.",
         "publishedAt": "2026-11-06T20:52:24.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Six tries and a big win - but were Ireland ruthless?",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmde88ppx39go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Despite a six-try and 30-point win over Argentina, Andy Farrell and Tadhg Beirne admit Ireland could have been more ruthless in Friday's win.",
+        "publishedAt": "2026-11-06T23:57:05.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "WTA chair apologises to Pegula for airing of 'diva' comment",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/ckpdgg87ye3po?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "WTA chair Valerie Camillo apologises to Jessica Pegula after her \"diva\" comment about Mirra Andreeva was live-streamed.",
+        "publishedAt": "2026-11-06T22:28:43.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Barry scores twice as Everton fight back to beat Coventry",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
+        "publishedAt": "2026-11-06T22:30:12.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2321,72 +2387,6 @@
         },
         "description": "Cole Palmer faces a fight to save his England career after he was excluded from Thomas Tuchel's latest squad, says chief football writer Phil McNulty.",
         "publishedAt": "2026-11-06T16:30:03.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "'A beautiful story' as Bellingham brothers called up",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
-        "publishedAt": "2026-11-06T14:16:34.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Player-coach rift report will only galvanise England - George",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx2qqyz4p1po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England hooker Jamie George says the squad are \"really upset\" by a newspaper article claiming the end of their summer tour was marked by player unrest over Steve Borthwick's leadership.",
-        "publishedAt": "2026-11-06T18:30:57.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Has Anderson lived up to the hype after Man City move?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "As Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?",
-        "publishedAt": "2026-11-06T12:00:18.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Scotland come full circle for another crack at All Blacks",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw62yy06dejzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Sione Tuipulotu and Scotland have the chance to end one of sport's longest-standing hoodoos against New Zealand on Saturday, writes Andy Burke.",
-        "publishedAt": "2026-11-06T18:29:09.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Gianni Infantino's first challenger for the presidency tells BBC Sport why he is standing in the election.",
-        "publishedAt": "2026-11-06T15:21:40.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Portugal coach 'knew nothing' about Ronaldo retiring",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwzd66r22j68o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Portugal coach Jorge Jesus says he \"found out when we all did\" about Cristiano Ronaldo's retirement from international football.",
-        "publishedAt": "2026-11-06T14:25:41.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,13 +2395,79 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "Title race is over - but intrigue in F1 continues",
+        "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
+        "publishedAt": "2026-11-06T23:53:06.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Lampard feels hair pull should have led to Coventry penalty",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Coventry had a trio of decisions go against them in defeat at Everton, with Frank Lampard suggesting a hair pull should have been a penalty.",
+        "publishedAt": "2026-11-06T23:22:21.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Whole Australia team knew of sandpaper use - Khawaja",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa.",
+        "publishedAt": "2026-11-06T23:11:56.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Ferrari's Hamilton-Leclerc problem - and other F1 stories to follow",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/cm62y4283534o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "This weekend's Sao Paulo Grand Prix is in many ways the first page of the first chapter of the next championship battle.",
         "publishedAt": "2026-11-06T20:52:24.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Six tries and a big win - but were Ireland ruthless?",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmde88ppx39go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Despite a six-try and 30-point win over Argentina, Andy Farrell and Tadhg Beirne admit Ireland could have been more ruthless in Friday's win.",
+        "publishedAt": "2026-11-06T23:57:05.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "WTA chair apologises to Pegula for airing of 'diva' comment",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/ckpdgg87ye3po?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "WTA chair Valerie Camillo apologises to Jessica Pegula after her \"diva\" comment about Mirra Andreeva was live-streamed.",
+        "publishedAt": "2026-11-06T22:28:43.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Barry scores twice as Everton fight back to beat Coventry",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
+        "publishedAt": "2026-11-06T22:30:12.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2413,72 +2479,6 @@
         },
         "description": "Cole Palmer faces a fight to save his England career after he was excluded from Thomas Tuchel's latest squad, says chief football writer Phil McNulty.",
         "publishedAt": "2026-11-06T16:30:03.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "'A beautiful story' as Bellingham brothers called up",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
-        "publishedAt": "2026-11-06T14:16:34.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Player-coach rift report will only galvanise England - George",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx2qqyz4p1po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England hooker Jamie George says the squad are \"really upset\" by a newspaper article claiming the end of their summer tour was marked by player unrest over Steve Borthwick's leadership.",
-        "publishedAt": "2026-11-06T18:30:57.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Has Anderson lived up to the hype after Man City move?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "As Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?",
-        "publishedAt": "2026-11-06T12:00:18.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Scotland come full circle for another crack at All Blacks",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw62yy06dejzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Sione Tuipulotu and Scotland have the chance to end one of sport's longest-standing hoodoos against New Zealand on Saturday, writes Andy Burke.",
-        "publishedAt": "2026-11-06T18:29:09.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Gianni Infantino's first challenger for the presidency tells BBC Sport why he is standing in the election.",
-        "publishedAt": "2026-11-06T15:21:40.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Portugal coach 'knew nothing' about Ronaldo retiring",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwzd66r22j68o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Portugal coach Jorge Jesus says he \"found out when we all did\" about Cristiano Ronaldo's retirement from international football.",
-        "publishedAt": "2026-11-06T14:25:41.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,13 +2487,79 @@
   "sports_in": {
     "articles": [
       {
-        "title": "Title race is over - but intrigue in F1 continues",
+        "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
+        "publishedAt": "2026-11-06T23:53:06.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Lampard feels hair pull should have led to Coventry penalty",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Coventry had a trio of decisions go against them in defeat at Everton, with Frank Lampard suggesting a hair pull should have been a penalty.",
+        "publishedAt": "2026-11-06T23:22:21.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Whole Australia team knew of sandpaper use - Khawaja",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa.",
+        "publishedAt": "2026-11-06T23:11:56.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Ferrari's Hamilton-Leclerc problem - and other F1 stories to follow",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/cm62y4283534o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "This weekend's Sao Paulo Grand Prix is in many ways the first page of the first chapter of the next championship battle.",
         "publishedAt": "2026-11-06T20:52:24.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Six tries and a big win - but were Ireland ruthless?",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmde88ppx39go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Despite a six-try and 30-point win over Argentina, Andy Farrell and Tadhg Beirne admit Ireland could have been more ruthless in Friday's win.",
+        "publishedAt": "2026-11-06T23:57:05.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "WTA chair apologises to Pegula for airing of 'diva' comment",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/ckpdgg87ye3po?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "WTA chair Valerie Camillo apologises to Jessica Pegula after her \"diva\" comment about Mirra Andreeva was live-streamed.",
+        "publishedAt": "2026-11-06T22:28:43.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Barry scores twice as Everton fight back to beat Coventry",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
+        "publishedAt": "2026-11-06T22:30:12.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2505,72 +2571,6 @@
         },
         "description": "Cole Palmer faces a fight to save his England career after he was excluded from Thomas Tuchel's latest squad, says chief football writer Phil McNulty.",
         "publishedAt": "2026-11-06T16:30:03.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "'A beautiful story' as Bellingham brothers called up",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
-        "publishedAt": "2026-11-06T14:16:34.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Player-coach rift report will only galvanise England - George",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx2qqyz4p1po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England hooker Jamie George says the squad are \"really upset\" by a newspaper article claiming the end of their summer tour was marked by player unrest over Steve Borthwick's leadership.",
-        "publishedAt": "2026-11-06T18:30:57.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Has Anderson lived up to the hype after Man City move?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "As Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?",
-        "publishedAt": "2026-11-06T12:00:18.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Scotland come full circle for another crack at All Blacks",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw62yy06dejzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Sione Tuipulotu and Scotland have the chance to end one of sport's longest-standing hoodoos against New Zealand on Saturday, writes Andy Burke.",
-        "publishedAt": "2026-11-06T18:29:09.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Gianni Infantino's first challenger for the presidency tells BBC Sport why he is standing in the election.",
-        "publishedAt": "2026-11-06T15:21:40.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Portugal coach 'knew nothing' about Ronaldo retiring",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwzd66r22j68o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Portugal coach Jorge Jesus says he \"found out when we all did\" about Cristiano Ronaldo's retirement from international football.",
-        "publishedAt": "2026-11-06T14:25:41.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,13 +2579,79 @@
   "sports_au": {
     "articles": [
       {
-        "title": "Title race is over - but intrigue in F1 continues",
+        "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
+        "publishedAt": "2026-11-06T23:53:06.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Lampard feels hair pull should have led to Coventry penalty",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Coventry had a trio of decisions go against them in defeat at Everton, with Frank Lampard suggesting a hair pull should have been a penalty.",
+        "publishedAt": "2026-11-06T23:22:21.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Whole Australia team knew of sandpaper use - Khawaja",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa.",
+        "publishedAt": "2026-11-06T23:11:56.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Ferrari's Hamilton-Leclerc problem - and other F1 stories to follow",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/cm62y4283534o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "This weekend's Sao Paulo Grand Prix is in many ways the first page of the first chapter of the next championship battle.",
         "publishedAt": "2026-11-06T20:52:24.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Six tries and a big win - but were Ireland ruthless?",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmde88ppx39go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Despite a six-try and 30-point win over Argentina, Andy Farrell and Tadhg Beirne admit Ireland could have been more ruthless in Friday's win.",
+        "publishedAt": "2026-11-06T23:57:05.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "WTA chair apologises to Pegula for airing of 'diva' comment",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/ckpdgg87ye3po?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "WTA chair Valerie Camillo apologises to Jessica Pegula after her \"diva\" comment about Mirra Andreeva was live-streamed.",
+        "publishedAt": "2026-11-06T22:28:43.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Barry scores twice as Everton fight back to beat Coventry",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
+        "publishedAt": "2026-11-06T22:30:12.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2597,72 +2663,6 @@
         },
         "description": "Cole Palmer faces a fight to save his England career after he was excluded from Thomas Tuchel's latest squad, says chief football writer Phil McNulty.",
         "publishedAt": "2026-11-06T16:30:03.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "'A beautiful story' as Bellingham brothers called up",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
-        "publishedAt": "2026-11-06T14:16:34.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Player-coach rift report will only galvanise England - George",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx2qqyz4p1po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England hooker Jamie George says the squad are \"really upset\" by a newspaper article claiming the end of their summer tour was marked by player unrest over Steve Borthwick's leadership.",
-        "publishedAt": "2026-11-06T18:30:57.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Has Anderson lived up to the hype after Man City move?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "As Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?",
-        "publishedAt": "2026-11-06T12:00:18.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Scotland come full circle for another crack at All Blacks",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw62yy06dejzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Sione Tuipulotu and Scotland have the chance to end one of sport's longest-standing hoodoos against New Zealand on Saturday, writes Andy Burke.",
-        "publishedAt": "2026-11-06T18:29:09.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Gianni Infantino's first challenger for the presidency tells BBC Sport why he is standing in the election.",
-        "publishedAt": "2026-11-06T15:21:40.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Portugal coach 'knew nothing' about Ronaldo retiring",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwzd66r22j68o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Portugal coach Jorge Jesus says he \"found out when we all did\" about Cristiano Ronaldo's retirement from international football.",
-        "publishedAt": "2026-11-06T14:25:41.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,13 +2671,79 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "Title race is over - but intrigue in F1 continues",
+        "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
+        "publishedAt": "2026-11-06T23:53:06.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Lampard feels hair pull should have led to Coventry penalty",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Coventry had a trio of decisions go against them in defeat at Everton, with Frank Lampard suggesting a hair pull should have been a penalty.",
+        "publishedAt": "2026-11-06T23:22:21.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Whole Australia team knew of sandpaper use - Khawaja",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa.",
+        "publishedAt": "2026-11-06T23:11:56.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Ferrari's Hamilton-Leclerc problem - and other F1 stories to follow",
         "url": "https://www.bbc.co.uk/sport/formula1/articles/cm62y4283534o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "This weekend's Sao Paulo Grand Prix is in many ways the first page of the first chapter of the next championship battle.",
         "publishedAt": "2026-11-06T20:52:24.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Six tries and a big win - but were Ireland ruthless?",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmde88ppx39go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Despite a six-try and 30-point win over Argentina, Andy Farrell and Tadhg Beirne admit Ireland could have been more ruthless in Friday's win.",
+        "publishedAt": "2026-11-06T23:57:05.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "WTA chair apologises to Pegula for airing of 'diva' comment",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/ckpdgg87ye3po?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "WTA chair Valerie Camillo apologises to Jessica Pegula after her \"diva\" comment about Mirra Andreeva was live-streamed.",
+        "publishedAt": "2026-11-06T22:28:43.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Barry scores twice as Everton fight back to beat Coventry",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
+        "publishedAt": "2026-11-06T22:30:12.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2691,77 +2757,22 @@
         "publishedAt": "2026-11-06T16:30:03.000Z",
         "category": "sports",
         "zone": "ca"
-      },
-      {
-        "title": "'A beautiful story' as Bellingham brothers called up",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
-        "publishedAt": "2026-11-06T14:16:34.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Player-coach rift report will only galvanise England - George",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx2qqyz4p1po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England hooker Jamie George says the squad are \"really upset\" by a newspaper article claiming the end of their summer tour was marked by player unrest over Steve Borthwick's leadership.",
-        "publishedAt": "2026-11-06T18:30:57.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Has Anderson lived up to the hype after Man City move?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "As Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?",
-        "publishedAt": "2026-11-06T12:00:18.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Scotland come full circle for another crack at All Blacks",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw62yy06dejzo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Sione Tuipulotu and Scotland have the chance to end one of sport's longest-standing hoodoos against New Zealand on Saturday, writes Andy Burke.",
-        "publishedAt": "2026-11-06T18:29:09.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Gianni Infantino's first challenger for the presidency tells BBC Sport why he is standing in the election.",
-        "publishedAt": "2026-11-06T15:21:40.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Portugal coach 'knew nothing' about Ronaldo retiring",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwzd66r22j68o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Portugal coach Jorge Jesus says he \"found out when we all did\" about Cristiano Ronaldo's retirement from international football.",
-        "publishedAt": "2026-11-06T14:25:41.000Z",
-        "category": "sports",
-        "zone": "ca"
       }
     ]
   },
   "technology_us": {
     "articles": [
+      {
+        "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+        "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+        "publishedAt": "2026-11-06T21:49:50.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
       {
         "title": "AI stocks climb after trillions wiped from market values",
         "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
@@ -2792,17 +2803,6 @@
         },
         "description": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
         "publishedAt": "2026-11-06T13:25:50.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-        "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-        "publishedAt": "2026-11-06T09:57:04.000Z",
         "category": "technology",
         "zone": "us"
       },
@@ -2855,6 +2855,17 @@
   "technology_gb": {
     "articles": [
       {
+        "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+        "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+        "publishedAt": "2026-11-06T21:49:50.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
         "title": "AI stocks climb after trillions wiped from market values",
         "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2884,17 +2895,6 @@
         },
         "description": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
         "publishedAt": "2026-11-06T13:25:50.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-        "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-        "publishedAt": "2026-11-06T09:57:04.000Z",
         "category": "technology",
         "zone": "gb"
       },
@@ -2947,6 +2947,17 @@
   "technology_in": {
     "articles": [
       {
+        "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+        "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+        "publishedAt": "2026-11-06T21:49:50.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
         "title": "AI stocks climb after trillions wiped from market values",
         "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2976,17 +2987,6 @@
         },
         "description": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
         "publishedAt": "2026-11-06T13:25:50.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-        "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-        "publishedAt": "2026-11-06T09:57:04.000Z",
         "category": "technology",
         "zone": "in"
       },
@@ -3039,6 +3039,17 @@
   "technology_au": {
     "articles": [
       {
+        "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+        "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+        "publishedAt": "2026-11-06T21:49:50.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
         "title": "AI stocks climb after trillions wiped from market values",
         "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3068,17 +3079,6 @@
         },
         "description": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
         "publishedAt": "2026-11-06T13:25:50.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-        "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-        "publishedAt": "2026-11-06T09:57:04.000Z",
         "category": "technology",
         "zone": "au"
       },
@@ -3131,6 +3131,17 @@
   "technology_ca": {
     "articles": [
       {
+        "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+        "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+        "publishedAt": "2026-11-06T21:49:50.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
         "title": "AI stocks climb after trillions wiped from market values",
         "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3160,17 +3171,6 @@
         },
         "description": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
         "publishedAt": "2026-11-06T13:25:50.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-        "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-        "publishedAt": "2026-11-06T09:57:04.000Z",
         "category": "technology",
         "zone": "ca"
       },
