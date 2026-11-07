@@ -1,15 +1,37 @@
 {
-  "generatedAt": "2026-11-07T19:58:05.478Z",
+  "generatedAt": "2026-11-07T23:34:27.964Z",
   "general_us": {
     "articles": [
       {
-        "title": "What we know so far after Polish gunman in military clothing opens fire in Krakow",
+        "title": "Briton among six killed in 'far-right' shooting in Krakow",
+        "url": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Police in the Polish city say the attacker randomly fired at people after driving on to Main Market Square.",
+        "publishedAt": "2026-11-07T22:57:12.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "What we know so far after Krakow gun attack",
         "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
-        "publishedAt": "2026-11-07T19:51:44.000Z",
+        "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+        "publishedAt": "2026-11-07T22:58:49.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+        "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+        "publishedAt": "2026-11-07T22:19:59.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -52,8 +74,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
-        "publishedAt": "2026-11-07T19:52:23.000Z",
+        "description": "The BBC has asked the White House and UFC whether the president's job offer is genuine.",
+        "publishedAt": "2026-11-07T22:29:37.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -65,28 +87,6 @@
         },
         "description": "How prepared is the UK for the type of event that could leave millions without power, water and communications?",
         "publishedAt": "2026-11-07T00:31:54.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
-        "url": "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The show was cancelled after a BBC Panorama investigation heard allegations from three former cast members.",
-        "publishedAt": "2026-11-07T11:31:10.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
-        "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
-        "publishedAt": "2026-11-07T01:27:47.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,13 +95,35 @@
   "general_gb": {
     "articles": [
       {
-        "title": "What we know so far after Polish gunman in military clothing opens fire in Krakow",
+        "title": "Briton among six killed in 'far-right' shooting in Krakow",
+        "url": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Police in the Polish city say the attacker randomly fired at people after driving on to Main Market Square.",
+        "publishedAt": "2026-11-07T22:57:12.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "What we know so far after Krakow gun attack",
         "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
-        "publishedAt": "2026-11-07T19:51:44.000Z",
+        "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+        "publishedAt": "2026-11-07T22:58:49.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+        "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+        "publishedAt": "2026-11-07T22:19:59.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -144,8 +166,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
-        "publishedAt": "2026-11-07T19:52:23.000Z",
+        "description": "The BBC has asked the White House and UFC whether the president's job offer is genuine.",
+        "publishedAt": "2026-11-07T22:29:37.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -157,28 +179,6 @@
         },
         "description": "How prepared is the UK for the type of event that could leave millions without power, water and communications?",
         "publishedAt": "2026-11-07T00:31:54.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
-        "url": "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The show was cancelled after a BBC Panorama investigation heard allegations from three former cast members.",
-        "publishedAt": "2026-11-07T11:31:10.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
-        "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
-        "publishedAt": "2026-11-07T01:27:47.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,13 +187,35 @@
   "general_in": {
     "articles": [
       {
-        "title": "What we know so far after Polish gunman in military clothing opens fire in Krakow",
+        "title": "Briton among six killed in 'far-right' shooting in Krakow",
+        "url": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Police in the Polish city say the attacker randomly fired at people after driving on to Main Market Square.",
+        "publishedAt": "2026-11-07T22:57:12.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "What we know so far after Krakow gun attack",
         "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
-        "publishedAt": "2026-11-07T19:51:44.000Z",
+        "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+        "publishedAt": "2026-11-07T22:58:49.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+        "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+        "publishedAt": "2026-11-07T22:19:59.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -236,8 +258,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
-        "publishedAt": "2026-11-07T19:52:23.000Z",
+        "description": "The BBC has asked the White House and UFC whether the president's job offer is genuine.",
+        "publishedAt": "2026-11-07T22:29:37.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -249,28 +271,6 @@
         },
         "description": "How prepared is the UK for the type of event that could leave millions without power, water and communications?",
         "publishedAt": "2026-11-07T00:31:54.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
-        "url": "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The show was cancelled after a BBC Panorama investigation heard allegations from three former cast members.",
-        "publishedAt": "2026-11-07T11:31:10.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
-        "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
-        "publishedAt": "2026-11-07T01:27:47.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,13 +279,35 @@
   "general_au": {
     "articles": [
       {
-        "title": "What we know so far after Polish gunman in military clothing opens fire in Krakow",
+        "title": "Briton among six killed in 'far-right' shooting in Krakow",
+        "url": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Police in the Polish city say the attacker randomly fired at people after driving on to Main Market Square.",
+        "publishedAt": "2026-11-07T22:57:12.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "What we know so far after Krakow gun attack",
         "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
-        "publishedAt": "2026-11-07T19:51:44.000Z",
+        "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+        "publishedAt": "2026-11-07T22:58:49.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+        "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+        "publishedAt": "2026-11-07T22:19:59.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -328,8 +350,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
-        "publishedAt": "2026-11-07T19:52:23.000Z",
+        "description": "The BBC has asked the White House and UFC whether the president's job offer is genuine.",
+        "publishedAt": "2026-11-07T22:29:37.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -341,28 +363,6 @@
         },
         "description": "How prepared is the UK for the type of event that could leave millions without power, water and communications?",
         "publishedAt": "2026-11-07T00:31:54.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
-        "url": "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The show was cancelled after a BBC Panorama investigation heard allegations from three former cast members.",
-        "publishedAt": "2026-11-07T11:31:10.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
-        "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
-        "publishedAt": "2026-11-07T01:27:47.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,13 +371,35 @@
   "general_ca": {
     "articles": [
       {
-        "title": "What we know so far after Polish gunman in military clothing opens fire in Krakow",
+        "title": "Briton among six killed in 'far-right' shooting in Krakow",
+        "url": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Police in the Polish city say the attacker randomly fired at people after driving on to Main Market Square.",
+        "publishedAt": "2026-11-07T22:57:12.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "What we know so far after Krakow gun attack",
         "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
-        "publishedAt": "2026-11-07T19:51:44.000Z",
+        "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+        "publishedAt": "2026-11-07T22:58:49.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+        "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+        "publishedAt": "2026-11-07T22:19:59.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -420,8 +442,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
-        "publishedAt": "2026-11-07T19:52:23.000Z",
+        "description": "The BBC has asked the White House and UFC whether the president's job offer is genuine.",
+        "publishedAt": "2026-11-07T22:29:37.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -433,28 +455,6 @@
         },
         "description": "How prepared is the UK for the type of event that could leave millions without power, water and communications?",
         "publishedAt": "2026-11-07T00:31:54.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
-        "url": "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The show was cancelled after a BBC Panorama investigation heard allegations from three former cast members.",
-        "publishedAt": "2026-11-07T11:31:10.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
-        "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
-        "publishedAt": "2026-11-07T01:27:47.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -2303,6 +2303,83 @@
   "sports_us": {
     "articles": [
       {
+        "title": "Match of the Day",
+        "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Featuring five games, including matches involving pacesetters Arsenal and Man City.",
+        "publishedAt": "2026-11-08T00:00:56.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Delap double inspires Forest to stunning win over Man City",
+        "url": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.",
+        "publishedAt": "2026-11-07T20:02:25.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Arsenal beat Hull to extend lead at top of the table",
+        "url": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Arsenal captain Martin Odegaard scores the winner as his side beat Hull City to extend their lead at the top of the Premier League table.",
+        "publishedAt": "2026-11-07T19:59:31.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Leeds beat Spurs to end five-game winless run",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.",
+        "publishedAt": "2026-11-07T19:59:34.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Muniz strike denies Newcastle and Jaissle much-needed win",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.",
+        "publishedAt": "2026-11-07T19:59:37.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Barry scores twice as Everton fight back to beat Coventry",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
+        "publishedAt": "2026-11-06T22:30:12.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Maresca's dream start turns into nightmare as title hopes hit",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Enzo Maresca left the City Ground on Saturday evening with chants of \"can we play you every week?\" ringing in his ears - the Italian's dream start as Manchester City manager is rapidly turning into a nightmare.",
+        "publishedAt": "2026-11-07T20:54:12.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
         "url": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2310,83 +2387,6 @@
         },
         "description": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
         "publishedAt": "2026-11-07T19:34:32.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Wales labour to bonus-point win against Japan",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/crd6d1ygjv68o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Wales resumed their Nations Championship campaign with an unconvincing bonus-point 28-21 victory against Japan at the Principality Stadium.",
-        "publishedAt": "2026-11-07T18:43:59.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Title race hots up before Chelsea-Man City showdown",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.",
-        "publishedAt": "2026-11-07T18:27:46.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Delightful Delap and outfought Anderson - Forest v Man City player ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "How Nottingham Forest and Manchester City's players rated following their Premier League match at the City Ground.",
-        "publishedAt": "2026-11-07T19:26:31.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Tuipulotu takes 'full responsibility' for Scotland collapse",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvx28xpn57r9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Captain Sione Tuipulotu takes responsibility for Scotland's second-half Nations Championship collapse against New Zealand, saying they were \"nowhere near accurate enough\".",
-        "publishedAt": "2026-11-07T18:38:00.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-        "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
-        "publishedAt": "2026-11-07T19:52:23.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
-        "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.",
-        "publishedAt": "2026-11-07T17:23:20.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "National League Carlisle upset League Two leaders Salford",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "National League side Carlisle United defeat League Two leaders Salford City 1-0 to progress into the second round of the FA Cup.",
-        "publishedAt": "2026-11-07T18:29:20.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,6 +2395,83 @@
   "sports_gb": {
     "articles": [
       {
+        "title": "Match of the Day",
+        "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Featuring five games, including matches involving pacesetters Arsenal and Man City.",
+        "publishedAt": "2026-11-08T00:00:56.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Delap double inspires Forest to stunning win over Man City",
+        "url": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.",
+        "publishedAt": "2026-11-07T20:02:25.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Arsenal beat Hull to extend lead at top of the table",
+        "url": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Arsenal captain Martin Odegaard scores the winner as his side beat Hull City to extend their lead at the top of the Premier League table.",
+        "publishedAt": "2026-11-07T19:59:31.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Leeds beat Spurs to end five-game winless run",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.",
+        "publishedAt": "2026-11-07T19:59:34.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Muniz strike denies Newcastle and Jaissle much-needed win",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.",
+        "publishedAt": "2026-11-07T19:59:37.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Barry scores twice as Everton fight back to beat Coventry",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
+        "publishedAt": "2026-11-06T22:30:12.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Maresca's dream start turns into nightmare as title hopes hit",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Enzo Maresca left the City Ground on Saturday evening with chants of \"can we play you every week?\" ringing in his ears - the Italian's dream start as Manchester City manager is rapidly turning into a nightmare.",
+        "publishedAt": "2026-11-07T20:54:12.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
         "url": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2402,83 +2479,6 @@
         },
         "description": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
         "publishedAt": "2026-11-07T19:34:32.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Wales labour to bonus-point win against Japan",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/crd6d1ygjv68o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Wales resumed their Nations Championship campaign with an unconvincing bonus-point 28-21 victory against Japan at the Principality Stadium.",
-        "publishedAt": "2026-11-07T18:43:59.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Title race hots up before Chelsea-Man City showdown",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.",
-        "publishedAt": "2026-11-07T18:27:46.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Delightful Delap and outfought Anderson - Forest v Man City player ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "How Nottingham Forest and Manchester City's players rated following their Premier League match at the City Ground.",
-        "publishedAt": "2026-11-07T19:26:31.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Tuipulotu takes 'full responsibility' for Scotland collapse",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvx28xpn57r9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Captain Sione Tuipulotu takes responsibility for Scotland's second-half Nations Championship collapse against New Zealand, saying they were \"nowhere near accurate enough\".",
-        "publishedAt": "2026-11-07T18:38:00.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-        "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
-        "publishedAt": "2026-11-07T19:52:23.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
-        "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.",
-        "publishedAt": "2026-11-07T17:23:20.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "National League Carlisle upset League Two leaders Salford",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "National League side Carlisle United defeat League Two leaders Salford City 1-0 to progress into the second round of the FA Cup.",
-        "publishedAt": "2026-11-07T18:29:20.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,6 +2487,83 @@
   "sports_in": {
     "articles": [
       {
+        "title": "Match of the Day",
+        "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Featuring five games, including matches involving pacesetters Arsenal and Man City.",
+        "publishedAt": "2026-11-08T00:00:56.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Delap double inspires Forest to stunning win over Man City",
+        "url": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.",
+        "publishedAt": "2026-11-07T20:02:25.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Arsenal beat Hull to extend lead at top of the table",
+        "url": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Arsenal captain Martin Odegaard scores the winner as his side beat Hull City to extend their lead at the top of the Premier League table.",
+        "publishedAt": "2026-11-07T19:59:31.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Leeds beat Spurs to end five-game winless run",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.",
+        "publishedAt": "2026-11-07T19:59:34.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Muniz strike denies Newcastle and Jaissle much-needed win",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.",
+        "publishedAt": "2026-11-07T19:59:37.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Barry scores twice as Everton fight back to beat Coventry",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
+        "publishedAt": "2026-11-06T22:30:12.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Maresca's dream start turns into nightmare as title hopes hit",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Enzo Maresca left the City Ground on Saturday evening with chants of \"can we play you every week?\" ringing in his ears - the Italian's dream start as Manchester City manager is rapidly turning into a nightmare.",
+        "publishedAt": "2026-11-07T20:54:12.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
         "url": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2494,83 +2571,6 @@
         },
         "description": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
         "publishedAt": "2026-11-07T19:34:32.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Wales labour to bonus-point win against Japan",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/crd6d1ygjv68o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Wales resumed their Nations Championship campaign with an unconvincing bonus-point 28-21 victory against Japan at the Principality Stadium.",
-        "publishedAt": "2026-11-07T18:43:59.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Title race hots up before Chelsea-Man City showdown",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.",
-        "publishedAt": "2026-11-07T18:27:46.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Delightful Delap and outfought Anderson - Forest v Man City player ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "How Nottingham Forest and Manchester City's players rated following their Premier League match at the City Ground.",
-        "publishedAt": "2026-11-07T19:26:31.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Tuipulotu takes 'full responsibility' for Scotland collapse",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvx28xpn57r9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Captain Sione Tuipulotu takes responsibility for Scotland's second-half Nations Championship collapse against New Zealand, saying they were \"nowhere near accurate enough\".",
-        "publishedAt": "2026-11-07T18:38:00.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-        "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
-        "publishedAt": "2026-11-07T19:52:23.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
-        "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.",
-        "publishedAt": "2026-11-07T17:23:20.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "National League Carlisle upset League Two leaders Salford",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "National League side Carlisle United defeat League Two leaders Salford City 1-0 to progress into the second round of the FA Cup.",
-        "publishedAt": "2026-11-07T18:29:20.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,6 +2579,83 @@
   "sports_au": {
     "articles": [
       {
+        "title": "Match of the Day",
+        "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Featuring five games, including matches involving pacesetters Arsenal and Man City.",
+        "publishedAt": "2026-11-08T00:00:56.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Delap double inspires Forest to stunning win over Man City",
+        "url": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.",
+        "publishedAt": "2026-11-07T20:02:25.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Arsenal beat Hull to extend lead at top of the table",
+        "url": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Arsenal captain Martin Odegaard scores the winner as his side beat Hull City to extend their lead at the top of the Premier League table.",
+        "publishedAt": "2026-11-07T19:59:31.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Leeds beat Spurs to end five-game winless run",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.",
+        "publishedAt": "2026-11-07T19:59:34.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Muniz strike denies Newcastle and Jaissle much-needed win",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.",
+        "publishedAt": "2026-11-07T19:59:37.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Barry scores twice as Everton fight back to beat Coventry",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
+        "publishedAt": "2026-11-06T22:30:12.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Maresca's dream start turns into nightmare as title hopes hit",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Enzo Maresca left the City Ground on Saturday evening with chants of \"can we play you every week?\" ringing in his ears - the Italian's dream start as Manchester City manager is rapidly turning into a nightmare.",
+        "publishedAt": "2026-11-07T20:54:12.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
         "url": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2586,83 +2663,6 @@
         },
         "description": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
         "publishedAt": "2026-11-07T19:34:32.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Wales labour to bonus-point win against Japan",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/crd6d1ygjv68o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Wales resumed their Nations Championship campaign with an unconvincing bonus-point 28-21 victory against Japan at the Principality Stadium.",
-        "publishedAt": "2026-11-07T18:43:59.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Title race hots up before Chelsea-Man City showdown",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.",
-        "publishedAt": "2026-11-07T18:27:46.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Delightful Delap and outfought Anderson - Forest v Man City player ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "How Nottingham Forest and Manchester City's players rated following their Premier League match at the City Ground.",
-        "publishedAt": "2026-11-07T19:26:31.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Tuipulotu takes 'full responsibility' for Scotland collapse",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvx28xpn57r9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Captain Sione Tuipulotu takes responsibility for Scotland's second-half Nations Championship collapse against New Zealand, saying they were \"nowhere near accurate enough\".",
-        "publishedAt": "2026-11-07T18:38:00.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-        "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
-        "publishedAt": "2026-11-07T19:52:23.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
-        "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.",
-        "publishedAt": "2026-11-07T17:23:20.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "National League Carlisle upset League Two leaders Salford",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "National League side Carlisle United defeat League Two leaders Salford City 1-0 to progress into the second round of the FA Cup.",
-        "publishedAt": "2026-11-07T18:29:20.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,6 +2671,83 @@
   "sports_ca": {
     "articles": [
       {
+        "title": "Match of the Day",
+        "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Featuring five games, including matches involving pacesetters Arsenal and Man City.",
+        "publishedAt": "2026-11-08T00:00:56.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Delap double inspires Forest to stunning win over Man City",
+        "url": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.",
+        "publishedAt": "2026-11-07T20:02:25.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Arsenal beat Hull to extend lead at top of the table",
+        "url": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Arsenal captain Martin Odegaard scores the winner as his side beat Hull City to extend their lead at the top of the Premier League table.",
+        "publishedAt": "2026-11-07T19:59:31.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Leeds beat Spurs to end five-game winless run",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.",
+        "publishedAt": "2026-11-07T19:59:34.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Muniz strike denies Newcastle and Jaissle much-needed win",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.",
+        "publishedAt": "2026-11-07T19:59:37.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Barry scores twice as Everton fight back to beat Coventry",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
+        "publishedAt": "2026-11-06T22:30:12.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Maresca's dream start turns into nightmare as title hopes hit",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Enzo Maresca left the City Ground on Saturday evening with chants of \"can we play you every week?\" ringing in his ears - the Italian's dream start as Manchester City manager is rapidly turning into a nightmare.",
+        "publishedAt": "2026-11-07T20:54:12.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
         "url": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2678,83 +2755,6 @@
         },
         "description": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
         "publishedAt": "2026-11-07T19:34:32.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Wales labour to bonus-point win against Japan",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/crd6d1ygjv68o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Wales resumed their Nations Championship campaign with an unconvincing bonus-point 28-21 victory against Japan at the Principality Stadium.",
-        "publishedAt": "2026-11-07T18:43:59.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Title race hots up before Chelsea-Man City showdown",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.",
-        "publishedAt": "2026-11-07T18:27:46.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Delightful Delap and outfought Anderson - Forest v Man City player ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "How Nottingham Forest and Manchester City's players rated following their Premier League match at the City Ground.",
-        "publishedAt": "2026-11-07T19:26:31.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Tuipulotu takes 'full responsibility' for Scotland collapse",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvx28xpn57r9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Captain Sione Tuipulotu takes responsibility for Scotland's second-half Nations Championship collapse against New Zealand, saying they were \"nowhere near accurate enough\".",
-        "publishedAt": "2026-11-07T18:38:00.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-        "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
-        "publishedAt": "2026-11-07T19:52:23.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
-        "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.",
-        "publishedAt": "2026-11-07T17:23:20.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "National League Carlisle upset League Two leaders Salford",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "National League side Carlisle United defeat League Two leaders Salford City 1-0 to progress into the second round of the FA Cup.",
-        "publishedAt": "2026-11-07T18:29:20.000Z",
         "category": "sports",
         "zone": "ca"
       }
