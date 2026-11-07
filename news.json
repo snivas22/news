@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-11-07T15:30:04.117Z",
+  "generatedAt": "2026-11-07T19:58:05.478Z",
   "general_us": {
     "articles": [
+      {
+        "title": "What we know so far after Polish gunman in military clothing opens fire in Krakow",
+        "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+        "publishedAt": "2026-11-07T19:51:44.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
@@ -14,24 +25,35 @@
         "zone": "us"
       },
       {
-        "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
-        "url": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss",
+        "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
+        "url": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The PM was responding after a police chief said comments made during Russell Brand's trial came close to \"victim blaming\".",
-        "publishedAt": "2026-11-07T11:04:28.000Z",
+        "description": "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.",
+        "publishedAt": "2026-11-07T17:32:42.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Two men arrested after boy injured in sword attack",
-        "url": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
+        "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A 17-year-old boy from Gloucester has also been arrested on suspicion of assisting an offender.",
-        "publishedAt": "2026-11-07T15:10:54.000Z",
+        "description": "Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Hamas.",
+        "publishedAt": "2026-11-07T16:25:55.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
+        "publishedAt": "2026-11-07T19:52:23.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -41,30 +63,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A Black Sky event could leave millions without power, water and communications. So how prepared is the UK?",
+        "description": "How prepared is the UK for the type of event that could leave millions without power, water and communications?",
         "publishedAt": "2026-11-07T00:31:54.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "No clear winner after tight New Zealand general election",
-        "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-        "publishedAt": "2026-11-07T15:00:10.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
-        "url": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.",
-        "publishedAt": "2026-11-07T10:44:38.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -95,6 +95,17 @@
   "general_gb": {
     "articles": [
       {
+        "title": "What we know so far after Polish gunman in military clothing opens fire in Krakow",
+        "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+        "publishedAt": "2026-11-07T19:51:44.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -106,24 +117,35 @@
         "zone": "gb"
       },
       {
-        "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
-        "url": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss",
+        "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
+        "url": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The PM was responding after a police chief said comments made during Russell Brand's trial came close to \"victim blaming\".",
-        "publishedAt": "2026-11-07T11:04:28.000Z",
+        "description": "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.",
+        "publishedAt": "2026-11-07T17:32:42.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Two men arrested after boy injured in sword attack",
-        "url": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
+        "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A 17-year-old boy from Gloucester has also been arrested on suspicion of assisting an offender.",
-        "publishedAt": "2026-11-07T15:10:54.000Z",
+        "description": "Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Hamas.",
+        "publishedAt": "2026-11-07T16:25:55.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
+        "publishedAt": "2026-11-07T19:52:23.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -133,30 +155,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A Black Sky event could leave millions without power, water and communications. So how prepared is the UK?",
+        "description": "How prepared is the UK for the type of event that could leave millions without power, water and communications?",
         "publishedAt": "2026-11-07T00:31:54.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "No clear winner after tight New Zealand general election",
-        "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-        "publishedAt": "2026-11-07T15:00:10.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
-        "url": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.",
-        "publishedAt": "2026-11-07T10:44:38.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -187,6 +187,17 @@
   "general_in": {
     "articles": [
       {
+        "title": "What we know so far after Polish gunman in military clothing opens fire in Krakow",
+        "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+        "publishedAt": "2026-11-07T19:51:44.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -198,24 +209,35 @@
         "zone": "in"
       },
       {
-        "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
-        "url": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss",
+        "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
+        "url": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The PM was responding after a police chief said comments made during Russell Brand's trial came close to \"victim blaming\".",
-        "publishedAt": "2026-11-07T11:04:28.000Z",
+        "description": "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.",
+        "publishedAt": "2026-11-07T17:32:42.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Two men arrested after boy injured in sword attack",
-        "url": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
+        "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A 17-year-old boy from Gloucester has also been arrested on suspicion of assisting an offender.",
-        "publishedAt": "2026-11-07T15:10:54.000Z",
+        "description": "Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Hamas.",
+        "publishedAt": "2026-11-07T16:25:55.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
+        "publishedAt": "2026-11-07T19:52:23.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -225,30 +247,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A Black Sky event could leave millions without power, water and communications. So how prepared is the UK?",
+        "description": "How prepared is the UK for the type of event that could leave millions without power, water and communications?",
         "publishedAt": "2026-11-07T00:31:54.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "No clear winner after tight New Zealand general election",
-        "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-        "publishedAt": "2026-11-07T15:00:10.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
-        "url": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.",
-        "publishedAt": "2026-11-07T10:44:38.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -279,6 +279,17 @@
   "general_au": {
     "articles": [
       {
+        "title": "What we know so far after Polish gunman in military clothing opens fire in Krakow",
+        "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+        "publishedAt": "2026-11-07T19:51:44.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -290,24 +301,35 @@
         "zone": "au"
       },
       {
-        "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
-        "url": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss",
+        "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
+        "url": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The PM was responding after a police chief said comments made during Russell Brand's trial came close to \"victim blaming\".",
-        "publishedAt": "2026-11-07T11:04:28.000Z",
+        "description": "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.",
+        "publishedAt": "2026-11-07T17:32:42.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Two men arrested after boy injured in sword attack",
-        "url": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
+        "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A 17-year-old boy from Gloucester has also been arrested on suspicion of assisting an offender.",
-        "publishedAt": "2026-11-07T15:10:54.000Z",
+        "description": "Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Hamas.",
+        "publishedAt": "2026-11-07T16:25:55.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
+        "publishedAt": "2026-11-07T19:52:23.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -317,30 +339,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A Black Sky event could leave millions without power, water and communications. So how prepared is the UK?",
+        "description": "How prepared is the UK for the type of event that could leave millions without power, water and communications?",
         "publishedAt": "2026-11-07T00:31:54.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "No clear winner after tight New Zealand general election",
-        "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-        "publishedAt": "2026-11-07T15:00:10.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
-        "url": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.",
-        "publishedAt": "2026-11-07T10:44:38.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -371,6 +371,17 @@
   "general_ca": {
     "articles": [
       {
+        "title": "What we know so far after Polish gunman in military clothing opens fire in Krakow",
+        "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+        "publishedAt": "2026-11-07T19:51:44.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -382,24 +393,35 @@
         "zone": "ca"
       },
       {
-        "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
-        "url": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss",
+        "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
+        "url": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The PM was responding after a police chief said comments made during Russell Brand's trial came close to \"victim blaming\".",
-        "publishedAt": "2026-11-07T11:04:28.000Z",
+        "description": "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.",
+        "publishedAt": "2026-11-07T17:32:42.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Two men arrested after boy injured in sword attack",
-        "url": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
+        "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A 17-year-old boy from Gloucester has also been arrested on suspicion of assisting an offender.",
-        "publishedAt": "2026-11-07T15:10:54.000Z",
+        "description": "Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Hamas.",
+        "publishedAt": "2026-11-07T16:25:55.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
+        "publishedAt": "2026-11-07T19:52:23.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -409,30 +431,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A Black Sky event could leave millions without power, water and communications. So how prepared is the UK?",
+        "description": "How prepared is the UK for the type of event that could leave millions without power, water and communications?",
         "publishedAt": "2026-11-07T00:31:54.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "No clear winner after tight New Zealand general election",
-        "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-        "publishedAt": "2026-11-07T15:00:10.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
-        "url": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.",
-        "publishedAt": "2026-11-07T10:44:38.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -2303,90 +2303,90 @@
   "sports_us": {
     "articles": [
       {
-        "title": "Verstappen, Hamilton and Leclerc to have penalties",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o?at_medium=RSS&at_campaign=rss",
+        "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Red Bull's Max Verstappen and Ferrari drivers Lewis Hamilton and Charles Leclerc will all have grid penalties at the Sao Paulo Grand Prix.",
-        "publishedAt": "2026-11-07T15:01:59.000Z",
+        "description": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
+        "publishedAt": "2026-11-07T19:34:32.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Tongue ruled out of Australia tour as Rashid stars in warm-up",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c875p26gnnp2o?at_medium=RSS&at_campaign=rss",
+        "title": "Wales labour to bonus-point win against Japan",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/crd6d1ygjv68o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England fast bowler Josh Tongue is ruled out of the upcoming white-ball tour of Australia with a toe injury.",
-        "publishedAt": "2026-11-07T14:41:04.000Z",
+        "description": "Wales resumed their Nations Championship campaign with an unconvincing bonus-point 28-21 victory against Japan at the Principality Stadium.",
+        "publishedAt": "2026-11-07T18:43:59.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Kiwis reap rewards of gamble on 'freak of nature' Ponga",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cj20vqpk2z33o?at_medium=RSS&at_campaign=rss",
+        "title": "Title race hots up before Chelsea-Man City showdown",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Kalyn Ponga's return to Rugby League World Cup action, just 23 days after breaking his arm, was a risk. But New Zealand head coach Stacey Jones felt it was a risk worth taking - and was proved right.",
-        "publishedAt": "2026-11-07T13:43:08.000Z",
+        "description": "Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.",
+        "publishedAt": "2026-11-07T18:27:46.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo?at_medium=RSS&at_campaign=rss",
+        "title": "Delightful Delap and outfought Anderson - Forest v Man City player ratings",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "How Leeds United and Tottenham Hotspurs' players rated in their Premier League match.",
-        "publishedAt": "2026-11-07T14:35:23.000Z",
+        "description": "How Nottingham Forest and Manchester City's players rated following their Premier League match at the City Ground.",
+        "publishedAt": "2026-11-07T19:26:31.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "My dream is to win Ballon d'Or - Gabriel",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&at_campaign=rss",
+        "title": "Tuipulotu takes 'full responsibility' for Scotland collapse",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvx28xpn57r9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United forward JJ Gabriel says his \"dream is to win the Ballon d'Or\", as he closes in on a move to Real Madrid.",
-        "publishedAt": "2026-11-07T12:25:14.000Z",
+        "description": "Captain Sione Tuipulotu takes responsibility for Scotland's second-half Nations Championship collapse against New Zealand, saying they were \"nowhere near accurate enough\".",
+        "publishedAt": "2026-11-07T18:38:00.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Ireland going from strength to strength - Murray",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmqxn5j87rrro?at_medium=RSS&at_campaign=rss",
+        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Ireland scrum-half Conor Murray says on the Ireland Rugby Social that he is impressed with how the Irish squad is progressing and their strength in depth.",
-        "publishedAt": "2026-11-07T13:17:24.000Z",
+        "description": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
+        "publishedAt": "2026-11-07T19:52:23.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "I left Man City for my mental wellbeing - Trafford",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss",
+        "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "James Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer.",
-        "publishedAt": "2026-11-07T07:16:37.000Z",
+        "description": "National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.",
+        "publishedAt": "2026-11-07T17:23:20.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Rahm edges ahead of Hatton & McIlroy in Abu Dhabi",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/crq5nvdq726jo?at_medium=RSS&at_campaign=rss",
+        "title": "National League Carlisle upset League Two leaders Salford",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jon Rahm leads Tyrrell Hatton and Francesca Laporta by one shot, and Rory McIlroy by two, after the third round of the Abu Dhabi Championship.",
-        "publishedAt": "2026-11-07T14:36:48.000Z",
+        "description": "National League side Carlisle United defeat League Two leaders Salford City 1-0 to progress into the second round of the FA Cup.",
+        "publishedAt": "2026-11-07T18:29:20.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,90 +2395,90 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "Verstappen, Hamilton and Leclerc to have penalties",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o?at_medium=RSS&at_campaign=rss",
+        "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Red Bull's Max Verstappen and Ferrari drivers Lewis Hamilton and Charles Leclerc will all have grid penalties at the Sao Paulo Grand Prix.",
-        "publishedAt": "2026-11-07T15:01:59.000Z",
+        "description": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
+        "publishedAt": "2026-11-07T19:34:32.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Tongue ruled out of Australia tour as Rashid stars in warm-up",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c875p26gnnp2o?at_medium=RSS&at_campaign=rss",
+        "title": "Wales labour to bonus-point win against Japan",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/crd6d1ygjv68o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England fast bowler Josh Tongue is ruled out of the upcoming white-ball tour of Australia with a toe injury.",
-        "publishedAt": "2026-11-07T14:41:04.000Z",
+        "description": "Wales resumed their Nations Championship campaign with an unconvincing bonus-point 28-21 victory against Japan at the Principality Stadium.",
+        "publishedAt": "2026-11-07T18:43:59.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Kiwis reap rewards of gamble on 'freak of nature' Ponga",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cj20vqpk2z33o?at_medium=RSS&at_campaign=rss",
+        "title": "Title race hots up before Chelsea-Man City showdown",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Kalyn Ponga's return to Rugby League World Cup action, just 23 days after breaking his arm, was a risk. But New Zealand head coach Stacey Jones felt it was a risk worth taking - and was proved right.",
-        "publishedAt": "2026-11-07T13:43:08.000Z",
+        "description": "Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.",
+        "publishedAt": "2026-11-07T18:27:46.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo?at_medium=RSS&at_campaign=rss",
+        "title": "Delightful Delap and outfought Anderson - Forest v Man City player ratings",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "How Leeds United and Tottenham Hotspurs' players rated in their Premier League match.",
-        "publishedAt": "2026-11-07T14:35:23.000Z",
+        "description": "How Nottingham Forest and Manchester City's players rated following their Premier League match at the City Ground.",
+        "publishedAt": "2026-11-07T19:26:31.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "My dream is to win Ballon d'Or - Gabriel",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&at_campaign=rss",
+        "title": "Tuipulotu takes 'full responsibility' for Scotland collapse",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvx28xpn57r9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United forward JJ Gabriel says his \"dream is to win the Ballon d'Or\", as he closes in on a move to Real Madrid.",
-        "publishedAt": "2026-11-07T12:25:14.000Z",
+        "description": "Captain Sione Tuipulotu takes responsibility for Scotland's second-half Nations Championship collapse against New Zealand, saying they were \"nowhere near accurate enough\".",
+        "publishedAt": "2026-11-07T18:38:00.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Ireland going from strength to strength - Murray",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmqxn5j87rrro?at_medium=RSS&at_campaign=rss",
+        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Ireland scrum-half Conor Murray says on the Ireland Rugby Social that he is impressed with how the Irish squad is progressing and their strength in depth.",
-        "publishedAt": "2026-11-07T13:17:24.000Z",
+        "description": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
+        "publishedAt": "2026-11-07T19:52:23.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "I left Man City for my mental wellbeing - Trafford",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss",
+        "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "James Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer.",
-        "publishedAt": "2026-11-07T07:16:37.000Z",
+        "description": "National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.",
+        "publishedAt": "2026-11-07T17:23:20.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Rahm edges ahead of Hatton & McIlroy in Abu Dhabi",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/crq5nvdq726jo?at_medium=RSS&at_campaign=rss",
+        "title": "National League Carlisle upset League Two leaders Salford",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jon Rahm leads Tyrrell Hatton and Francesca Laporta by one shot, and Rory McIlroy by two, after the third round of the Abu Dhabi Championship.",
-        "publishedAt": "2026-11-07T14:36:48.000Z",
+        "description": "National League side Carlisle United defeat League Two leaders Salford City 1-0 to progress into the second round of the FA Cup.",
+        "publishedAt": "2026-11-07T18:29:20.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,90 +2487,90 @@
   "sports_in": {
     "articles": [
       {
-        "title": "Verstappen, Hamilton and Leclerc to have penalties",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o?at_medium=RSS&at_campaign=rss",
+        "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Red Bull's Max Verstappen and Ferrari drivers Lewis Hamilton and Charles Leclerc will all have grid penalties at the Sao Paulo Grand Prix.",
-        "publishedAt": "2026-11-07T15:01:59.000Z",
+        "description": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
+        "publishedAt": "2026-11-07T19:34:32.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Tongue ruled out of Australia tour as Rashid stars in warm-up",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c875p26gnnp2o?at_medium=RSS&at_campaign=rss",
+        "title": "Wales labour to bonus-point win against Japan",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/crd6d1ygjv68o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England fast bowler Josh Tongue is ruled out of the upcoming white-ball tour of Australia with a toe injury.",
-        "publishedAt": "2026-11-07T14:41:04.000Z",
+        "description": "Wales resumed their Nations Championship campaign with an unconvincing bonus-point 28-21 victory against Japan at the Principality Stadium.",
+        "publishedAt": "2026-11-07T18:43:59.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Kiwis reap rewards of gamble on 'freak of nature' Ponga",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cj20vqpk2z33o?at_medium=RSS&at_campaign=rss",
+        "title": "Title race hots up before Chelsea-Man City showdown",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Kalyn Ponga's return to Rugby League World Cup action, just 23 days after breaking his arm, was a risk. But New Zealand head coach Stacey Jones felt it was a risk worth taking - and was proved right.",
-        "publishedAt": "2026-11-07T13:43:08.000Z",
+        "description": "Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.",
+        "publishedAt": "2026-11-07T18:27:46.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo?at_medium=RSS&at_campaign=rss",
+        "title": "Delightful Delap and outfought Anderson - Forest v Man City player ratings",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "How Leeds United and Tottenham Hotspurs' players rated in their Premier League match.",
-        "publishedAt": "2026-11-07T14:35:23.000Z",
+        "description": "How Nottingham Forest and Manchester City's players rated following their Premier League match at the City Ground.",
+        "publishedAt": "2026-11-07T19:26:31.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "My dream is to win Ballon d'Or - Gabriel",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&at_campaign=rss",
+        "title": "Tuipulotu takes 'full responsibility' for Scotland collapse",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvx28xpn57r9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United forward JJ Gabriel says his \"dream is to win the Ballon d'Or\", as he closes in on a move to Real Madrid.",
-        "publishedAt": "2026-11-07T12:25:14.000Z",
+        "description": "Captain Sione Tuipulotu takes responsibility for Scotland's second-half Nations Championship collapse against New Zealand, saying they were \"nowhere near accurate enough\".",
+        "publishedAt": "2026-11-07T18:38:00.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Ireland going from strength to strength - Murray",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmqxn5j87rrro?at_medium=RSS&at_campaign=rss",
+        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Ireland scrum-half Conor Murray says on the Ireland Rugby Social that he is impressed with how the Irish squad is progressing and their strength in depth.",
-        "publishedAt": "2026-11-07T13:17:24.000Z",
+        "description": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
+        "publishedAt": "2026-11-07T19:52:23.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "I left Man City for my mental wellbeing - Trafford",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss",
+        "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "James Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer.",
-        "publishedAt": "2026-11-07T07:16:37.000Z",
+        "description": "National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.",
+        "publishedAt": "2026-11-07T17:23:20.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Rahm edges ahead of Hatton & McIlroy in Abu Dhabi",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/crq5nvdq726jo?at_medium=RSS&at_campaign=rss",
+        "title": "National League Carlisle upset League Two leaders Salford",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jon Rahm leads Tyrrell Hatton and Francesca Laporta by one shot, and Rory McIlroy by two, after the third round of the Abu Dhabi Championship.",
-        "publishedAt": "2026-11-07T14:36:48.000Z",
+        "description": "National League side Carlisle United defeat League Two leaders Salford City 1-0 to progress into the second round of the FA Cup.",
+        "publishedAt": "2026-11-07T18:29:20.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,90 +2579,90 @@
   "sports_au": {
     "articles": [
       {
-        "title": "Verstappen, Hamilton and Leclerc to have penalties",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o?at_medium=RSS&at_campaign=rss",
+        "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Red Bull's Max Verstappen and Ferrari drivers Lewis Hamilton and Charles Leclerc will all have grid penalties at the Sao Paulo Grand Prix.",
-        "publishedAt": "2026-11-07T15:01:59.000Z",
+        "description": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
+        "publishedAt": "2026-11-07T19:34:32.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Tongue ruled out of Australia tour as Rashid stars in warm-up",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c875p26gnnp2o?at_medium=RSS&at_campaign=rss",
+        "title": "Wales labour to bonus-point win against Japan",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/crd6d1ygjv68o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England fast bowler Josh Tongue is ruled out of the upcoming white-ball tour of Australia with a toe injury.",
-        "publishedAt": "2026-11-07T14:41:04.000Z",
+        "description": "Wales resumed their Nations Championship campaign with an unconvincing bonus-point 28-21 victory against Japan at the Principality Stadium.",
+        "publishedAt": "2026-11-07T18:43:59.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Kiwis reap rewards of gamble on 'freak of nature' Ponga",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cj20vqpk2z33o?at_medium=RSS&at_campaign=rss",
+        "title": "Title race hots up before Chelsea-Man City showdown",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Kalyn Ponga's return to Rugby League World Cup action, just 23 days after breaking his arm, was a risk. But New Zealand head coach Stacey Jones felt it was a risk worth taking - and was proved right.",
-        "publishedAt": "2026-11-07T13:43:08.000Z",
+        "description": "Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.",
+        "publishedAt": "2026-11-07T18:27:46.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo?at_medium=RSS&at_campaign=rss",
+        "title": "Delightful Delap and outfought Anderson - Forest v Man City player ratings",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "How Leeds United and Tottenham Hotspurs' players rated in their Premier League match.",
-        "publishedAt": "2026-11-07T14:35:23.000Z",
+        "description": "How Nottingham Forest and Manchester City's players rated following their Premier League match at the City Ground.",
+        "publishedAt": "2026-11-07T19:26:31.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "My dream is to win Ballon d'Or - Gabriel",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&at_campaign=rss",
+        "title": "Tuipulotu takes 'full responsibility' for Scotland collapse",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvx28xpn57r9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United forward JJ Gabriel says his \"dream is to win the Ballon d'Or\", as he closes in on a move to Real Madrid.",
-        "publishedAt": "2026-11-07T12:25:14.000Z",
+        "description": "Captain Sione Tuipulotu takes responsibility for Scotland's second-half Nations Championship collapse against New Zealand, saying they were \"nowhere near accurate enough\".",
+        "publishedAt": "2026-11-07T18:38:00.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Ireland going from strength to strength - Murray",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmqxn5j87rrro?at_medium=RSS&at_campaign=rss",
+        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Ireland scrum-half Conor Murray says on the Ireland Rugby Social that he is impressed with how the Irish squad is progressing and their strength in depth.",
-        "publishedAt": "2026-11-07T13:17:24.000Z",
+        "description": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
+        "publishedAt": "2026-11-07T19:52:23.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "I left Man City for my mental wellbeing - Trafford",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss",
+        "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "James Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer.",
-        "publishedAt": "2026-11-07T07:16:37.000Z",
+        "description": "National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.",
+        "publishedAt": "2026-11-07T17:23:20.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Rahm edges ahead of Hatton & McIlroy in Abu Dhabi",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/crq5nvdq726jo?at_medium=RSS&at_campaign=rss",
+        "title": "National League Carlisle upset League Two leaders Salford",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jon Rahm leads Tyrrell Hatton and Francesca Laporta by one shot, and Rory McIlroy by two, after the third round of the Abu Dhabi Championship.",
-        "publishedAt": "2026-11-07T14:36:48.000Z",
+        "description": "National League side Carlisle United defeat League Two leaders Salford City 1-0 to progress into the second round of the FA Cup.",
+        "publishedAt": "2026-11-07T18:29:20.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,90 +2671,90 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "Verstappen, Hamilton and Leclerc to have penalties",
-        "url": "https://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o?at_medium=RSS&at_campaign=rss",
+        "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Red Bull's Max Verstappen and Ferrari drivers Lewis Hamilton and Charles Leclerc will all have grid penalties at the Sao Paulo Grand Prix.",
-        "publishedAt": "2026-11-07T15:01:59.000Z",
+        "description": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
+        "publishedAt": "2026-11-07T19:34:32.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Tongue ruled out of Australia tour as Rashid stars in warm-up",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c875p26gnnp2o?at_medium=RSS&at_campaign=rss",
+        "title": "Wales labour to bonus-point win against Japan",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/crd6d1ygjv68o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England fast bowler Josh Tongue is ruled out of the upcoming white-ball tour of Australia with a toe injury.",
-        "publishedAt": "2026-11-07T14:41:04.000Z",
+        "description": "Wales resumed their Nations Championship campaign with an unconvincing bonus-point 28-21 victory against Japan at the Principality Stadium.",
+        "publishedAt": "2026-11-07T18:43:59.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Kiwis reap rewards of gamble on 'freak of nature' Ponga",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cj20vqpk2z33o?at_medium=RSS&at_campaign=rss",
+        "title": "Title race hots up before Chelsea-Man City showdown",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Kalyn Ponga's return to Rugby League World Cup action, just 23 days after breaking his arm, was a risk. But New Zealand head coach Stacey Jones felt it was a risk worth taking - and was proved right.",
-        "publishedAt": "2026-11-07T13:43:08.000Z",
+        "description": "Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.",
+        "publishedAt": "2026-11-07T18:27:46.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo?at_medium=RSS&at_campaign=rss",
+        "title": "Delightful Delap and outfought Anderson - Forest v Man City player ratings",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "How Leeds United and Tottenham Hotspurs' players rated in their Premier League match.",
-        "publishedAt": "2026-11-07T14:35:23.000Z",
+        "description": "How Nottingham Forest and Manchester City's players rated following their Premier League match at the City Ground.",
+        "publishedAt": "2026-11-07T19:26:31.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "My dream is to win Ballon d'Or - Gabriel",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&at_campaign=rss",
+        "title": "Tuipulotu takes 'full responsibility' for Scotland collapse",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvx28xpn57r9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United forward JJ Gabriel says his \"dream is to win the Ballon d'Or\", as he closes in on a move to Real Madrid.",
-        "publishedAt": "2026-11-07T12:25:14.000Z",
+        "description": "Captain Sione Tuipulotu takes responsibility for Scotland's second-half Nations Championship collapse against New Zealand, saying they were \"nowhere near accurate enough\".",
+        "publishedAt": "2026-11-07T18:38:00.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Ireland going from strength to strength - Murray",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmqxn5j87rrro?at_medium=RSS&at_campaign=rss",
+        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Former Ireland scrum-half Conor Murray says on the Ireland Rugby Social that he is impressed with how the Irish squad is progressing and their strength in depth.",
-        "publishedAt": "2026-11-07T13:17:24.000Z",
+        "description": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
+        "publishedAt": "2026-11-07T19:52:23.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "I left Man City for my mental wellbeing - Trafford",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss",
+        "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "James Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer.",
-        "publishedAt": "2026-11-07T07:16:37.000Z",
+        "description": "National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.",
+        "publishedAt": "2026-11-07T17:23:20.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Rahm edges ahead of Hatton & McIlroy in Abu Dhabi",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/crq5nvdq726jo?at_medium=RSS&at_campaign=rss",
+        "title": "National League Carlisle upset League Two leaders Salford",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jon Rahm leads Tyrrell Hatton and Francesca Laporta by one shot, and Rory McIlroy by two, after the third round of the Abu Dhabi Championship.",
-        "publishedAt": "2026-11-07T14:36:48.000Z",
+        "description": "National League side Carlisle United defeat League Two leaders Salford City 1-0 to progress into the second round of the FA Cup.",
+        "publishedAt": "2026-11-07T18:29:20.000Z",
         "category": "sports",
         "zone": "ca"
       }
