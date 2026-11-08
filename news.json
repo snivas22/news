@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-11-08T17:44:02.264Z",
+  "generatedAt": "2026-11-08T21:48:00.212Z",
   "general_us": {
     "articles": [
+      {
+        "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+        "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+        "publishedAt": "2026-11-08T21:40:46.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+        "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+        "publishedAt": "2026-11-08T18:22:53.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "King leads solemn Remembrance Sunday service at Cenotaph",
         "url": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
@@ -9,29 +31,40 @@
           "name": "RSS Feed"
         },
         "description": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.",
-        "publishedAt": "2026-11-08T13:49:07.000Z",
+        "publishedAt": "2026-11-08T18:20:53.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Footage shows derailed carriages after fatal train crash in Egypt",
-        "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+        "title": "Maya Jama steps down as host of reality TV show Love Island",
+        "url": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\".",
-        "publishedAt": "2026-11-08T16:05:57.000Z",
+        "description": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
+        "publishedAt": "2026-11-08T21:19:48.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
-        "url": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+        "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
-        "publishedAt": "2026-11-08T13:05:30.000Z",
+        "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+        "publishedAt": "2026-11-08T19:58:02.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "White House vows to keep up immigration crackdown after midterms defeat",
+        "url": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Department of Homeland Security also insists it is not backing away on the round-up.",
+        "publishedAt": "2026-11-08T20:23:58.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -47,46 +80,13 @@
         "zone": "us"
       },
       {
-        "title": "Iran executes three men for 'armed unrest' after January protests",
-        "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+        "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
-        "publishedAt": "2026-11-08T13:37:50.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Government looking at banning under-16s from Vinted and eBay",
-        "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-        "publishedAt": "2026-11-08T15:37:25.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Homes and temples glow across India to mark Diwali",
-        "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
-        "publishedAt": "2026-11-08T14:42:09.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Two arrested after police officers hurt in brawl outside bare-knuckle fighting event",
-        "url": "https://www.bbc.co.uk/news/articles/c8zxl9417e5vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Police Scotland said three officers were hurt as they responded to reports of a large disturbance in streets close to the Ovo Hydro venue in Glasgow.",
-        "publishedAt": "2026-11-08T17:42:28.000Z",
+        "description": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
+        "publishedAt": "2026-11-08T13:05:30.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,35 +95,68 @@
   "general_gb": {
     "articles": [
       {
+        "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+        "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+        "publishedAt": "2026-11-08T21:40:46.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+        "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+        "publishedAt": "2026-11-08T18:22:53.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "King leads solemn Remembrance Sunday service at Cenotaph",
         "url": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.",
-        "publishedAt": "2026-11-08T13:49:07.000Z",
+        "publishedAt": "2026-11-08T18:20:53.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Footage shows derailed carriages after fatal train crash in Egypt",
-        "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+        "title": "Maya Jama steps down as host of reality TV show Love Island",
+        "url": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\".",
-        "publishedAt": "2026-11-08T16:05:57.000Z",
+        "description": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
+        "publishedAt": "2026-11-08T21:19:48.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
-        "url": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+        "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
-        "publishedAt": "2026-11-08T13:05:30.000Z",
+        "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+        "publishedAt": "2026-11-08T19:58:02.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "White House vows to keep up immigration crackdown after midterms defeat",
+        "url": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Department of Homeland Security also insists it is not backing away on the round-up.",
+        "publishedAt": "2026-11-08T20:23:58.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -139,46 +172,13 @@
         "zone": "gb"
       },
       {
-        "title": "Iran executes three men for 'armed unrest' after January protests",
-        "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+        "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
-        "publishedAt": "2026-11-08T13:37:50.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Government looking at banning under-16s from Vinted and eBay",
-        "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-        "publishedAt": "2026-11-08T15:37:25.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Homes and temples glow across India to mark Diwali",
-        "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
-        "publishedAt": "2026-11-08T14:42:09.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Two arrested after police officers hurt in brawl outside bare-knuckle fighting event",
-        "url": "https://www.bbc.co.uk/news/articles/c8zxl9417e5vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Police Scotland said three officers were hurt as they responded to reports of a large disturbance in streets close to the Ovo Hydro venue in Glasgow.",
-        "publishedAt": "2026-11-08T17:42:28.000Z",
+        "description": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
+        "publishedAt": "2026-11-08T13:05:30.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,35 +187,68 @@
   "general_in": {
     "articles": [
       {
+        "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+        "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+        "publishedAt": "2026-11-08T21:40:46.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+        "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+        "publishedAt": "2026-11-08T18:22:53.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "King leads solemn Remembrance Sunday service at Cenotaph",
         "url": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.",
-        "publishedAt": "2026-11-08T13:49:07.000Z",
+        "publishedAt": "2026-11-08T18:20:53.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Footage shows derailed carriages after fatal train crash in Egypt",
-        "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+        "title": "Maya Jama steps down as host of reality TV show Love Island",
+        "url": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\".",
-        "publishedAt": "2026-11-08T16:05:57.000Z",
+        "description": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
+        "publishedAt": "2026-11-08T21:19:48.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
-        "url": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+        "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
-        "publishedAt": "2026-11-08T13:05:30.000Z",
+        "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+        "publishedAt": "2026-11-08T19:58:02.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "White House vows to keep up immigration crackdown after midterms defeat",
+        "url": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Department of Homeland Security also insists it is not backing away on the round-up.",
+        "publishedAt": "2026-11-08T20:23:58.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -231,46 +264,13 @@
         "zone": "in"
       },
       {
-        "title": "Iran executes three men for 'armed unrest' after January protests",
-        "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+        "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
-        "publishedAt": "2026-11-08T13:37:50.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Government looking at banning under-16s from Vinted and eBay",
-        "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-        "publishedAt": "2026-11-08T15:37:25.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Homes and temples glow across India to mark Diwali",
-        "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
-        "publishedAt": "2026-11-08T14:42:09.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Two arrested after police officers hurt in brawl outside bare-knuckle fighting event",
-        "url": "https://www.bbc.co.uk/news/articles/c8zxl9417e5vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Police Scotland said three officers were hurt as they responded to reports of a large disturbance in streets close to the Ovo Hydro venue in Glasgow.",
-        "publishedAt": "2026-11-08T17:42:28.000Z",
+        "description": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
+        "publishedAt": "2026-11-08T13:05:30.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,35 +279,68 @@
   "general_au": {
     "articles": [
       {
+        "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+        "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+        "publishedAt": "2026-11-08T21:40:46.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+        "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+        "publishedAt": "2026-11-08T18:22:53.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "King leads solemn Remembrance Sunday service at Cenotaph",
         "url": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.",
-        "publishedAt": "2026-11-08T13:49:07.000Z",
+        "publishedAt": "2026-11-08T18:20:53.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Footage shows derailed carriages after fatal train crash in Egypt",
-        "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+        "title": "Maya Jama steps down as host of reality TV show Love Island",
+        "url": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\".",
-        "publishedAt": "2026-11-08T16:05:57.000Z",
+        "description": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
+        "publishedAt": "2026-11-08T21:19:48.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
-        "url": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+        "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
-        "publishedAt": "2026-11-08T13:05:30.000Z",
+        "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+        "publishedAt": "2026-11-08T19:58:02.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "White House vows to keep up immigration crackdown after midterms defeat",
+        "url": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Department of Homeland Security also insists it is not backing away on the round-up.",
+        "publishedAt": "2026-11-08T20:23:58.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -323,46 +356,13 @@
         "zone": "au"
       },
       {
-        "title": "Iran executes three men for 'armed unrest' after January protests",
-        "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+        "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
-        "publishedAt": "2026-11-08T13:37:50.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Government looking at banning under-16s from Vinted and eBay",
-        "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-        "publishedAt": "2026-11-08T15:37:25.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Homes and temples glow across India to mark Diwali",
-        "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
-        "publishedAt": "2026-11-08T14:42:09.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Two arrested after police officers hurt in brawl outside bare-knuckle fighting event",
-        "url": "https://www.bbc.co.uk/news/articles/c8zxl9417e5vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Police Scotland said three officers were hurt as they responded to reports of a large disturbance in streets close to the Ovo Hydro venue in Glasgow.",
-        "publishedAt": "2026-11-08T17:42:28.000Z",
+        "description": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
+        "publishedAt": "2026-11-08T13:05:30.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,35 +371,68 @@
   "general_ca": {
     "articles": [
       {
+        "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+        "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+        "publishedAt": "2026-11-08T21:40:46.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+        "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+        "publishedAt": "2026-11-08T18:22:53.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "King leads solemn Remembrance Sunday service at Cenotaph",
         "url": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.",
-        "publishedAt": "2026-11-08T13:49:07.000Z",
+        "publishedAt": "2026-11-08T18:20:53.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Footage shows derailed carriages after fatal train crash in Egypt",
-        "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+        "title": "Maya Jama steps down as host of reality TV show Love Island",
+        "url": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\".",
-        "publishedAt": "2026-11-08T16:05:57.000Z",
+        "description": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
+        "publishedAt": "2026-11-08T21:19:48.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
-        "url": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+        "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
-        "publishedAt": "2026-11-08T13:05:30.000Z",
+        "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+        "publishedAt": "2026-11-08T19:58:02.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "White House vows to keep up immigration crackdown after midterms defeat",
+        "url": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Department of Homeland Security also insists it is not backing away on the round-up.",
+        "publishedAt": "2026-11-08T20:23:58.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -415,46 +448,13 @@
         "zone": "ca"
       },
       {
-        "title": "Iran executes three men for 'armed unrest' after January protests",
-        "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+        "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
-        "publishedAt": "2026-11-08T13:37:50.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Government looking at banning under-16s from Vinted and eBay",
-        "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-        "publishedAt": "2026-11-08T15:37:25.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Homes and temples glow across India to mark Diwali",
-        "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
-        "publishedAt": "2026-11-08T14:42:09.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Two arrested after police officers hurt in brawl outside bare-knuckle fighting event",
-        "url": "https://www.bbc.co.uk/news/articles/c8zxl9417e5vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Police Scotland said three officers were hurt as they responded to reports of a large disturbance in streets close to the Ovo Hydro venue in Glasgow.",
-        "publishedAt": "2026-11-08T17:42:28.000Z",
+        "description": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
+        "publishedAt": "2026-11-08T13:05:30.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -2303,90 +2303,90 @@
   "sports_us": {
     "articles": [
       {
-        "title": "The FA Cup",
-        "url": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
+        "title": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cqj6jldpl2gyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jason Mohammad presents highlights from the first round of the FA Cup.",
-        "publishedAt": "2026-11-08T18:41:30.000Z",
+        "description": "Manchester United twice come back from two goals down to earn a point against Aston Villa in an eight-goal thriller at Old Trafford, although they will go into the international break in the Premier League relegation zone.",
+        "publishedAt": "2026-11-08T20:01:16.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "England swat aside Wallabies to back up Borthwick",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c9rkyg1gl7rgo?at_medium=RSS&at_campaign=rss",
+        "title": "Brighton breeze past 10-man Brentford to move up to second",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England provide emphatic on-pitch backing for head coach Steve Borthwick as they swat aside a listless Australia at Allianz Stadium.",
-        "publishedAt": "2026-11-08T17:04:08.000Z",
+        "description": "Diego Gomez's long-range strike fires Brighton to a 2-0 over Brentford, who saw Igor Thiago be shown a straight red card, as Fabian Hurzeler's side move up to second in the Premier League.",
+        "publishedAt": "2026-11-08T20:00:21.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Rahm pips Hatton & McIlroy to Abu Dhabi title",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/c6y0exdrp2xeo?at_medium=RSS&at_campaign=rss",
+        "title": "Liverpool dispatch Palace to pile pressure on Sage",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c5djv1mn7gj8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jon Rahm fires a final-round 67 to clinch a two-shot victory ahead of Tyrrell Hatton at the Abu Dhabi Championship.",
-        "publishedAt": "2026-11-08T13:14:40.000Z",
+        "description": "Liverpool see off Crystal Palace 3-1 at Selhurst Park as Pierre Sage's side suffer their fourth defeat in a row in the Premier League.",
+        "publishedAt": "2026-11-08T19:58:46.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Fan injured after falling through hole in stand",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ck0j0x2e49j7o?at_medium=RSS&at_campaign=rss",
+        "title": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c64g1nj4v4rmo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "One fan is taken to hospital after a number of Bodo/Glimt supporters fall through a hole in the away stand at Tromso.",
-        "publishedAt": "2026-11-08T16:53:37.000Z",
+        "description": "Sunderland held on to their first Premier League win since August as Enzo le Fee's penalty help the hosts sink Chelsea at the Stadium of Light.",
+        "publishedAt": "2026-11-08T19:58:31.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "I haven't thrown anyone under the bus - Khawaja",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno?at_medium=RSS&at_campaign=rss",
+        "title": "Bournemouth beat Ipswich to extend winning streak",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmx23rll2w0qo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Usman Khawaja says he has \"not thrown anyone under the bus\" with revelations about the sandpaper scandal that engulfed the Australia team in 2018.",
-        "publishedAt": "2026-11-08T10:04:01.000Z",
+        "description": "Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich.",
+        "publishedAt": "2026-11-08T19:59:53.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "'That's Reece' - World Cup semi-final brings out best and worst of Walsh",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cm93zrw2wz9go?at_medium=RSS&at_campaign=rss",
+        "title": "Feyi-Waboso burns bright as England energy endorses Borthwick",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c620r5dp51e0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "On a fractious night in Sydney that ended with Australia reaching yet another Men's Rugby League World Cup final, it was no surprise to see Reece Walsh centre stage – for better or worse.",
-        "publishedAt": "2026-11-08T13:57:54.000Z",
+        "description": "Immanuel Feyi-Waboso's blistering first half display provides England fans with a glimpse of what could be in a much-needed statement of faith in coach Steve Borthwick.",
+        "publishedAt": "2026-11-08T19:52:48.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "England await Guehi scan results after injury concern",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss",
+        "title": "Norris wins gripping race after Antonelli and Russell errors",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City defender Marc Guehi will undergo a scan on a hip complaint on Sunday to determine whether he can report for England duty this week.",
-        "publishedAt": "2026-11-08T15:03:01.000Z",
+        "description": "McLaren's Lando Norris wins a gripping Sao Paulo Grand Prix in difficult conditions, as Mercedes secure the 2026 constructors' championship.",
+        "publishedAt": "2026-11-08T19:13:53.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "London City thump Birmingham to close gap on second",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&at_campaign=rss",
+        "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "London City Lionesses defeat Birmingham City 4-1 to move to within four points of second-placed Chelsea in the WSL.",
-        "publishedAt": "2026-11-08T17:06:21.000Z",
+        "description": "Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.",
+        "publishedAt": "2026-11-08T18:20:56.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,90 +2395,90 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "The FA Cup",
-        "url": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
+        "title": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cqj6jldpl2gyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jason Mohammad presents highlights from the first round of the FA Cup.",
-        "publishedAt": "2026-11-08T18:41:30.000Z",
+        "description": "Manchester United twice come back from two goals down to earn a point against Aston Villa in an eight-goal thriller at Old Trafford, although they will go into the international break in the Premier League relegation zone.",
+        "publishedAt": "2026-11-08T20:01:16.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "England swat aside Wallabies to back up Borthwick",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c9rkyg1gl7rgo?at_medium=RSS&at_campaign=rss",
+        "title": "Brighton breeze past 10-man Brentford to move up to second",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England provide emphatic on-pitch backing for head coach Steve Borthwick as they swat aside a listless Australia at Allianz Stadium.",
-        "publishedAt": "2026-11-08T17:04:08.000Z",
+        "description": "Diego Gomez's long-range strike fires Brighton to a 2-0 over Brentford, who saw Igor Thiago be shown a straight red card, as Fabian Hurzeler's side move up to second in the Premier League.",
+        "publishedAt": "2026-11-08T20:00:21.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Rahm pips Hatton & McIlroy to Abu Dhabi title",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/c6y0exdrp2xeo?at_medium=RSS&at_campaign=rss",
+        "title": "Liverpool dispatch Palace to pile pressure on Sage",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c5djv1mn7gj8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jon Rahm fires a final-round 67 to clinch a two-shot victory ahead of Tyrrell Hatton at the Abu Dhabi Championship.",
-        "publishedAt": "2026-11-08T13:14:40.000Z",
+        "description": "Liverpool see off Crystal Palace 3-1 at Selhurst Park as Pierre Sage's side suffer their fourth defeat in a row in the Premier League.",
+        "publishedAt": "2026-11-08T19:58:46.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Fan injured after falling through hole in stand",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ck0j0x2e49j7o?at_medium=RSS&at_campaign=rss",
+        "title": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c64g1nj4v4rmo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "One fan is taken to hospital after a number of Bodo/Glimt supporters fall through a hole in the away stand at Tromso.",
-        "publishedAt": "2026-11-08T16:53:37.000Z",
+        "description": "Sunderland held on to their first Premier League win since August as Enzo le Fee's penalty help the hosts sink Chelsea at the Stadium of Light.",
+        "publishedAt": "2026-11-08T19:58:31.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "I haven't thrown anyone under the bus - Khawaja",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno?at_medium=RSS&at_campaign=rss",
+        "title": "Bournemouth beat Ipswich to extend winning streak",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmx23rll2w0qo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Usman Khawaja says he has \"not thrown anyone under the bus\" with revelations about the sandpaper scandal that engulfed the Australia team in 2018.",
-        "publishedAt": "2026-11-08T10:04:01.000Z",
+        "description": "Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich.",
+        "publishedAt": "2026-11-08T19:59:53.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "'That's Reece' - World Cup semi-final brings out best and worst of Walsh",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cm93zrw2wz9go?at_medium=RSS&at_campaign=rss",
+        "title": "Feyi-Waboso burns bright as England energy endorses Borthwick",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c620r5dp51e0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "On a fractious night in Sydney that ended with Australia reaching yet another Men's Rugby League World Cup final, it was no surprise to see Reece Walsh centre stage – for better or worse.",
-        "publishedAt": "2026-11-08T13:57:54.000Z",
+        "description": "Immanuel Feyi-Waboso's blistering first half display provides England fans with a glimpse of what could be in a much-needed statement of faith in coach Steve Borthwick.",
+        "publishedAt": "2026-11-08T19:52:48.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "England await Guehi scan results after injury concern",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss",
+        "title": "Norris wins gripping race after Antonelli and Russell errors",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City defender Marc Guehi will undergo a scan on a hip complaint on Sunday to determine whether he can report for England duty this week.",
-        "publishedAt": "2026-11-08T15:03:01.000Z",
+        "description": "McLaren's Lando Norris wins a gripping Sao Paulo Grand Prix in difficult conditions, as Mercedes secure the 2026 constructors' championship.",
+        "publishedAt": "2026-11-08T19:13:53.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "London City thump Birmingham to close gap on second",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&at_campaign=rss",
+        "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "London City Lionesses defeat Birmingham City 4-1 to move to within four points of second-placed Chelsea in the WSL.",
-        "publishedAt": "2026-11-08T17:06:21.000Z",
+        "description": "Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.",
+        "publishedAt": "2026-11-08T18:20:56.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,90 +2487,90 @@
   "sports_in": {
     "articles": [
       {
-        "title": "The FA Cup",
-        "url": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
+        "title": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cqj6jldpl2gyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jason Mohammad presents highlights from the first round of the FA Cup.",
-        "publishedAt": "2026-11-08T18:41:30.000Z",
+        "description": "Manchester United twice come back from two goals down to earn a point against Aston Villa in an eight-goal thriller at Old Trafford, although they will go into the international break in the Premier League relegation zone.",
+        "publishedAt": "2026-11-08T20:01:16.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "England swat aside Wallabies to back up Borthwick",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c9rkyg1gl7rgo?at_medium=RSS&at_campaign=rss",
+        "title": "Brighton breeze past 10-man Brentford to move up to second",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England provide emphatic on-pitch backing for head coach Steve Borthwick as they swat aside a listless Australia at Allianz Stadium.",
-        "publishedAt": "2026-11-08T17:04:08.000Z",
+        "description": "Diego Gomez's long-range strike fires Brighton to a 2-0 over Brentford, who saw Igor Thiago be shown a straight red card, as Fabian Hurzeler's side move up to second in the Premier League.",
+        "publishedAt": "2026-11-08T20:00:21.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Rahm pips Hatton & McIlroy to Abu Dhabi title",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/c6y0exdrp2xeo?at_medium=RSS&at_campaign=rss",
+        "title": "Liverpool dispatch Palace to pile pressure on Sage",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c5djv1mn7gj8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jon Rahm fires a final-round 67 to clinch a two-shot victory ahead of Tyrrell Hatton at the Abu Dhabi Championship.",
-        "publishedAt": "2026-11-08T13:14:40.000Z",
+        "description": "Liverpool see off Crystal Palace 3-1 at Selhurst Park as Pierre Sage's side suffer their fourth defeat in a row in the Premier League.",
+        "publishedAt": "2026-11-08T19:58:46.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Fan injured after falling through hole in stand",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ck0j0x2e49j7o?at_medium=RSS&at_campaign=rss",
+        "title": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c64g1nj4v4rmo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "One fan is taken to hospital after a number of Bodo/Glimt supporters fall through a hole in the away stand at Tromso.",
-        "publishedAt": "2026-11-08T16:53:37.000Z",
+        "description": "Sunderland held on to their first Premier League win since August as Enzo le Fee's penalty help the hosts sink Chelsea at the Stadium of Light.",
+        "publishedAt": "2026-11-08T19:58:31.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "I haven't thrown anyone under the bus - Khawaja",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno?at_medium=RSS&at_campaign=rss",
+        "title": "Bournemouth beat Ipswich to extend winning streak",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmx23rll2w0qo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Usman Khawaja says he has \"not thrown anyone under the bus\" with revelations about the sandpaper scandal that engulfed the Australia team in 2018.",
-        "publishedAt": "2026-11-08T10:04:01.000Z",
+        "description": "Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich.",
+        "publishedAt": "2026-11-08T19:59:53.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "'That's Reece' - World Cup semi-final brings out best and worst of Walsh",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cm93zrw2wz9go?at_medium=RSS&at_campaign=rss",
+        "title": "Feyi-Waboso burns bright as England energy endorses Borthwick",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c620r5dp51e0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "On a fractious night in Sydney that ended with Australia reaching yet another Men's Rugby League World Cup final, it was no surprise to see Reece Walsh centre stage – for better or worse.",
-        "publishedAt": "2026-11-08T13:57:54.000Z",
+        "description": "Immanuel Feyi-Waboso's blistering first half display provides England fans with a glimpse of what could be in a much-needed statement of faith in coach Steve Borthwick.",
+        "publishedAt": "2026-11-08T19:52:48.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "England await Guehi scan results after injury concern",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss",
+        "title": "Norris wins gripping race after Antonelli and Russell errors",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City defender Marc Guehi will undergo a scan on a hip complaint on Sunday to determine whether he can report for England duty this week.",
-        "publishedAt": "2026-11-08T15:03:01.000Z",
+        "description": "McLaren's Lando Norris wins a gripping Sao Paulo Grand Prix in difficult conditions, as Mercedes secure the 2026 constructors' championship.",
+        "publishedAt": "2026-11-08T19:13:53.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "London City thump Birmingham to close gap on second",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&at_campaign=rss",
+        "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "London City Lionesses defeat Birmingham City 4-1 to move to within four points of second-placed Chelsea in the WSL.",
-        "publishedAt": "2026-11-08T17:06:21.000Z",
+        "description": "Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.",
+        "publishedAt": "2026-11-08T18:20:56.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,90 +2579,90 @@
   "sports_au": {
     "articles": [
       {
-        "title": "The FA Cup",
-        "url": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
+        "title": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cqj6jldpl2gyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jason Mohammad presents highlights from the first round of the FA Cup.",
-        "publishedAt": "2026-11-08T18:41:30.000Z",
+        "description": "Manchester United twice come back from two goals down to earn a point against Aston Villa in an eight-goal thriller at Old Trafford, although they will go into the international break in the Premier League relegation zone.",
+        "publishedAt": "2026-11-08T20:01:16.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "England swat aside Wallabies to back up Borthwick",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c9rkyg1gl7rgo?at_medium=RSS&at_campaign=rss",
+        "title": "Brighton breeze past 10-man Brentford to move up to second",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England provide emphatic on-pitch backing for head coach Steve Borthwick as they swat aside a listless Australia at Allianz Stadium.",
-        "publishedAt": "2026-11-08T17:04:08.000Z",
+        "description": "Diego Gomez's long-range strike fires Brighton to a 2-0 over Brentford, who saw Igor Thiago be shown a straight red card, as Fabian Hurzeler's side move up to second in the Premier League.",
+        "publishedAt": "2026-11-08T20:00:21.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Rahm pips Hatton & McIlroy to Abu Dhabi title",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/c6y0exdrp2xeo?at_medium=RSS&at_campaign=rss",
+        "title": "Liverpool dispatch Palace to pile pressure on Sage",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c5djv1mn7gj8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jon Rahm fires a final-round 67 to clinch a two-shot victory ahead of Tyrrell Hatton at the Abu Dhabi Championship.",
-        "publishedAt": "2026-11-08T13:14:40.000Z",
+        "description": "Liverpool see off Crystal Palace 3-1 at Selhurst Park as Pierre Sage's side suffer their fourth defeat in a row in the Premier League.",
+        "publishedAt": "2026-11-08T19:58:46.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Fan injured after falling through hole in stand",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ck0j0x2e49j7o?at_medium=RSS&at_campaign=rss",
+        "title": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c64g1nj4v4rmo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "One fan is taken to hospital after a number of Bodo/Glimt supporters fall through a hole in the away stand at Tromso.",
-        "publishedAt": "2026-11-08T16:53:37.000Z",
+        "description": "Sunderland held on to their first Premier League win since August as Enzo le Fee's penalty help the hosts sink Chelsea at the Stadium of Light.",
+        "publishedAt": "2026-11-08T19:58:31.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "I haven't thrown anyone under the bus - Khawaja",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno?at_medium=RSS&at_campaign=rss",
+        "title": "Bournemouth beat Ipswich to extend winning streak",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmx23rll2w0qo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Usman Khawaja says he has \"not thrown anyone under the bus\" with revelations about the sandpaper scandal that engulfed the Australia team in 2018.",
-        "publishedAt": "2026-11-08T10:04:01.000Z",
+        "description": "Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich.",
+        "publishedAt": "2026-11-08T19:59:53.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "'That's Reece' - World Cup semi-final brings out best and worst of Walsh",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cm93zrw2wz9go?at_medium=RSS&at_campaign=rss",
+        "title": "Feyi-Waboso burns bright as England energy endorses Borthwick",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c620r5dp51e0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "On a fractious night in Sydney that ended with Australia reaching yet another Men's Rugby League World Cup final, it was no surprise to see Reece Walsh centre stage – for better or worse.",
-        "publishedAt": "2026-11-08T13:57:54.000Z",
+        "description": "Immanuel Feyi-Waboso's blistering first half display provides England fans with a glimpse of what could be in a much-needed statement of faith in coach Steve Borthwick.",
+        "publishedAt": "2026-11-08T19:52:48.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "England await Guehi scan results after injury concern",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss",
+        "title": "Norris wins gripping race after Antonelli and Russell errors",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City defender Marc Guehi will undergo a scan on a hip complaint on Sunday to determine whether he can report for England duty this week.",
-        "publishedAt": "2026-11-08T15:03:01.000Z",
+        "description": "McLaren's Lando Norris wins a gripping Sao Paulo Grand Prix in difficult conditions, as Mercedes secure the 2026 constructors' championship.",
+        "publishedAt": "2026-11-08T19:13:53.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "London City thump Birmingham to close gap on second",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&at_campaign=rss",
+        "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "London City Lionesses defeat Birmingham City 4-1 to move to within four points of second-placed Chelsea in the WSL.",
-        "publishedAt": "2026-11-08T17:06:21.000Z",
+        "description": "Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.",
+        "publishedAt": "2026-11-08T18:20:56.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,90 +2671,90 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "The FA Cup",
-        "url": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
+        "title": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cqj6jldpl2gyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jason Mohammad presents highlights from the first round of the FA Cup.",
-        "publishedAt": "2026-11-08T18:41:30.000Z",
+        "description": "Manchester United twice come back from two goals down to earn a point against Aston Villa in an eight-goal thriller at Old Trafford, although they will go into the international break in the Premier League relegation zone.",
+        "publishedAt": "2026-11-08T20:01:16.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "England swat aside Wallabies to back up Borthwick",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c9rkyg1gl7rgo?at_medium=RSS&at_campaign=rss",
+        "title": "Brighton breeze past 10-man Brentford to move up to second",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "England provide emphatic on-pitch backing for head coach Steve Borthwick as they swat aside a listless Australia at Allianz Stadium.",
-        "publishedAt": "2026-11-08T17:04:08.000Z",
+        "description": "Diego Gomez's long-range strike fires Brighton to a 2-0 over Brentford, who saw Igor Thiago be shown a straight red card, as Fabian Hurzeler's side move up to second in the Premier League.",
+        "publishedAt": "2026-11-08T20:00:21.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Rahm pips Hatton & McIlroy to Abu Dhabi title",
-        "url": "https://www.bbc.co.uk/sport/golf/articles/c6y0exdrp2xeo?at_medium=RSS&at_campaign=rss",
+        "title": "Liverpool dispatch Palace to pile pressure on Sage",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c5djv1mn7gj8o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Jon Rahm fires a final-round 67 to clinch a two-shot victory ahead of Tyrrell Hatton at the Abu Dhabi Championship.",
-        "publishedAt": "2026-11-08T13:14:40.000Z",
+        "description": "Liverpool see off Crystal Palace 3-1 at Selhurst Park as Pierre Sage's side suffer their fourth defeat in a row in the Premier League.",
+        "publishedAt": "2026-11-08T19:58:46.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Fan injured after falling through hole in stand",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ck0j0x2e49j7o?at_medium=RSS&at_campaign=rss",
+        "title": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c64g1nj4v4rmo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "One fan is taken to hospital after a number of Bodo/Glimt supporters fall through a hole in the away stand at Tromso.",
-        "publishedAt": "2026-11-08T16:53:37.000Z",
+        "description": "Sunderland held on to their first Premier League win since August as Enzo le Fee's penalty help the hosts sink Chelsea at the Stadium of Light.",
+        "publishedAt": "2026-11-08T19:58:31.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "I haven't thrown anyone under the bus - Khawaja",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno?at_medium=RSS&at_campaign=rss",
+        "title": "Bournemouth beat Ipswich to extend winning streak",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmx23rll2w0qo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Usman Khawaja says he has \"not thrown anyone under the bus\" with revelations about the sandpaper scandal that engulfed the Australia team in 2018.",
-        "publishedAt": "2026-11-08T10:04:01.000Z",
+        "description": "Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich.",
+        "publishedAt": "2026-11-08T19:59:53.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "'That's Reece' - World Cup semi-final brings out best and worst of Walsh",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cm93zrw2wz9go?at_medium=RSS&at_campaign=rss",
+        "title": "Feyi-Waboso burns bright as England energy endorses Borthwick",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c620r5dp51e0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "On a fractious night in Sydney that ended with Australia reaching yet another Men's Rugby League World Cup final, it was no surprise to see Reece Walsh centre stage – for better or worse.",
-        "publishedAt": "2026-11-08T13:57:54.000Z",
+        "description": "Immanuel Feyi-Waboso's blistering first half display provides England fans with a glimpse of what could be in a much-needed statement of faith in coach Steve Borthwick.",
+        "publishedAt": "2026-11-08T19:52:48.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "England await Guehi scan results after injury concern",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss",
+        "title": "Norris wins gripping race after Antonelli and Russell errors",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester City defender Marc Guehi will undergo a scan on a hip complaint on Sunday to determine whether he can report for England duty this week.",
-        "publishedAt": "2026-11-08T15:03:01.000Z",
+        "description": "McLaren's Lando Norris wins a gripping Sao Paulo Grand Prix in difficult conditions, as Mercedes secure the 2026 constructors' championship.",
+        "publishedAt": "2026-11-08T19:13:53.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "London City thump Birmingham to close gap on second",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&at_campaign=rss",
+        "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "London City Lionesses defeat Birmingham City 4-1 to move to within four points of second-placed Chelsea in the WSL.",
-        "publishedAt": "2026-11-08T17:06:21.000Z",
+        "description": "Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.",
+        "publishedAt": "2026-11-08T18:20:56.000Z",
         "category": "sports",
         "zone": "ca"
       }
