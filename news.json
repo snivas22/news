@@ -1,15 +1,81 @@
 {
-  "generatedAt": "2026-11-12T22:37:39.996Z",
+  "generatedAt": "2026-11-13T03:13:39.285Z",
   "general_us": {
     "articles": [
       {
-        "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
-        "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
-        "publishedAt": "2026-11-12T16:43:36.000Z",
+        "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+        "publishedAt": "2026-11-13T02:39:00.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Military base asylum plans granted planning approval",
+        "url": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked.",
+        "publishedAt": "2026-11-13T02:31:02.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+        "url": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
+        "publishedAt": "2026-11-13T00:55:31.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+        "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+        "publishedAt": "2026-11-13T02:01:35.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "The school where white working-class pupils defy the odds",
+        "url": "https://www.bbc.co.uk/news/articles/cm369259g0j2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Politicians are worried about the outcomes of white, working-class pupils. But one school in Sunderland seems to have defied gravity",
+        "publishedAt": "2026-11-13T00:53:49.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Timothée Chalamet among Hollywood stars and charity heroes stepping up for BBC Children In Need",
+        "url": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Viewers of the annual TV charity event will see the actor playing a prank on Rylan.",
+        "publishedAt": "2026-11-13T00:54:04.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+        "url": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+        "publishedAt": "2026-11-13T01:17:58.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -21,72 +87,6 @@
         },
         "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
         "publishedAt": "2026-11-12T20:09:16.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-        "publishedAt": "2026-11-12T21:00:42.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Microsoft users report outages amid tech giant 'connectivity issues'",
-        "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Users worldwide report issues after tech giant says its infrastructure has been hit by \"elevated load\"",
-        "publishedAt": "2026-11-12T20:25:29.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Can Burnham avoid another Labour welfare rebellion?",
-        "url": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Any revolt among MPs is likely to be smaller than the one that badly damaged Keir Starmer's government.",
-        "publishedAt": "2026-11-12T18:21:38.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "What we know about Brooklyn building collapse that killed eight people",
-        "url": "https://www.bbc.co.uk/news/articles/cm20v66jq611o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Two construction workers and two children were killed when a residential building fell into an adjacent construction site on Wednesday.",
-        "publishedAt": "2026-11-12T19:09:25.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Military base asylum plans granted planning approval",
-        "url": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked.",
-        "publishedAt": "2026-11-12T22:16:34.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-        "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
-        "publishedAt": "2026-11-12T18:47:35.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,13 +95,79 @@
   "general_gb": {
     "articles": [
       {
-        "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
-        "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
-        "publishedAt": "2026-11-12T16:43:36.000Z",
+        "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+        "publishedAt": "2026-11-13T02:39:00.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Military base asylum plans granted planning approval",
+        "url": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked.",
+        "publishedAt": "2026-11-13T02:31:02.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+        "url": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
+        "publishedAt": "2026-11-13T00:55:31.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+        "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+        "publishedAt": "2026-11-13T02:01:35.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "The school where white working-class pupils defy the odds",
+        "url": "https://www.bbc.co.uk/news/articles/cm369259g0j2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Politicians are worried about the outcomes of white, working-class pupils. But one school in Sunderland seems to have defied gravity",
+        "publishedAt": "2026-11-13T00:53:49.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Timothée Chalamet among Hollywood stars and charity heroes stepping up for BBC Children In Need",
+        "url": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Viewers of the annual TV charity event will see the actor playing a prank on Rylan.",
+        "publishedAt": "2026-11-13T00:54:04.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+        "url": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+        "publishedAt": "2026-11-13T01:17:58.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -113,72 +179,6 @@
         },
         "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
         "publishedAt": "2026-11-12T20:09:16.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-        "publishedAt": "2026-11-12T21:00:42.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Microsoft users report outages amid tech giant 'connectivity issues'",
-        "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Users worldwide report issues after tech giant says its infrastructure has been hit by \"elevated load\"",
-        "publishedAt": "2026-11-12T20:25:29.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Can Burnham avoid another Labour welfare rebellion?",
-        "url": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Any revolt among MPs is likely to be smaller than the one that badly damaged Keir Starmer's government.",
-        "publishedAt": "2026-11-12T18:21:38.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "What we know about Brooklyn building collapse that killed eight people",
-        "url": "https://www.bbc.co.uk/news/articles/cm20v66jq611o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Two construction workers and two children were killed when a residential building fell into an adjacent construction site on Wednesday.",
-        "publishedAt": "2026-11-12T19:09:25.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Military base asylum plans granted planning approval",
-        "url": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked.",
-        "publishedAt": "2026-11-12T22:16:34.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-        "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
-        "publishedAt": "2026-11-12T18:47:35.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,13 +187,79 @@
   "general_in": {
     "articles": [
       {
-        "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
-        "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
-        "publishedAt": "2026-11-12T16:43:36.000Z",
+        "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+        "publishedAt": "2026-11-13T02:39:00.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Military base asylum plans granted planning approval",
+        "url": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked.",
+        "publishedAt": "2026-11-13T02:31:02.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+        "url": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
+        "publishedAt": "2026-11-13T00:55:31.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+        "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+        "publishedAt": "2026-11-13T02:01:35.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "The school where white working-class pupils defy the odds",
+        "url": "https://www.bbc.co.uk/news/articles/cm369259g0j2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Politicians are worried about the outcomes of white, working-class pupils. But one school in Sunderland seems to have defied gravity",
+        "publishedAt": "2026-11-13T00:53:49.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Timothée Chalamet among Hollywood stars and charity heroes stepping up for BBC Children In Need",
+        "url": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Viewers of the annual TV charity event will see the actor playing a prank on Rylan.",
+        "publishedAt": "2026-11-13T00:54:04.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+        "url": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+        "publishedAt": "2026-11-13T01:17:58.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -205,72 +271,6 @@
         },
         "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
         "publishedAt": "2026-11-12T20:09:16.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-        "publishedAt": "2026-11-12T21:00:42.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Microsoft users report outages amid tech giant 'connectivity issues'",
-        "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Users worldwide report issues after tech giant says its infrastructure has been hit by \"elevated load\"",
-        "publishedAt": "2026-11-12T20:25:29.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Can Burnham avoid another Labour welfare rebellion?",
-        "url": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Any revolt among MPs is likely to be smaller than the one that badly damaged Keir Starmer's government.",
-        "publishedAt": "2026-11-12T18:21:38.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "What we know about Brooklyn building collapse that killed eight people",
-        "url": "https://www.bbc.co.uk/news/articles/cm20v66jq611o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Two construction workers and two children were killed when a residential building fell into an adjacent construction site on Wednesday.",
-        "publishedAt": "2026-11-12T19:09:25.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Military base asylum plans granted planning approval",
-        "url": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked.",
-        "publishedAt": "2026-11-12T22:16:34.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-        "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
-        "publishedAt": "2026-11-12T18:47:35.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,13 +279,79 @@
   "general_au": {
     "articles": [
       {
-        "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
-        "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
-        "publishedAt": "2026-11-12T16:43:36.000Z",
+        "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+        "publishedAt": "2026-11-13T02:39:00.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Military base asylum plans granted planning approval",
+        "url": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked.",
+        "publishedAt": "2026-11-13T02:31:02.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+        "url": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
+        "publishedAt": "2026-11-13T00:55:31.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+        "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+        "publishedAt": "2026-11-13T02:01:35.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "The school where white working-class pupils defy the odds",
+        "url": "https://www.bbc.co.uk/news/articles/cm369259g0j2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Politicians are worried about the outcomes of white, working-class pupils. But one school in Sunderland seems to have defied gravity",
+        "publishedAt": "2026-11-13T00:53:49.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Timothée Chalamet among Hollywood stars and charity heroes stepping up for BBC Children In Need",
+        "url": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Viewers of the annual TV charity event will see the actor playing a prank on Rylan.",
+        "publishedAt": "2026-11-13T00:54:04.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+        "url": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+        "publishedAt": "2026-11-13T01:17:58.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -297,72 +363,6 @@
         },
         "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
         "publishedAt": "2026-11-12T20:09:16.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-        "publishedAt": "2026-11-12T21:00:42.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Microsoft users report outages amid tech giant 'connectivity issues'",
-        "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Users worldwide report issues after tech giant says its infrastructure has been hit by \"elevated load\"",
-        "publishedAt": "2026-11-12T20:25:29.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Can Burnham avoid another Labour welfare rebellion?",
-        "url": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Any revolt among MPs is likely to be smaller than the one that badly damaged Keir Starmer's government.",
-        "publishedAt": "2026-11-12T18:21:38.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "What we know about Brooklyn building collapse that killed eight people",
-        "url": "https://www.bbc.co.uk/news/articles/cm20v66jq611o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Two construction workers and two children were killed when a residential building fell into an adjacent construction site on Wednesday.",
-        "publishedAt": "2026-11-12T19:09:25.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Military base asylum plans granted planning approval",
-        "url": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked.",
-        "publishedAt": "2026-11-12T22:16:34.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-        "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
-        "publishedAt": "2026-11-12T18:47:35.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,13 +371,79 @@
   "general_ca": {
     "articles": [
       {
-        "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
-        "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
-        "publishedAt": "2026-11-12T16:43:36.000Z",
+        "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+        "publishedAt": "2026-11-13T02:39:00.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Military base asylum plans granted planning approval",
+        "url": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked.",
+        "publishedAt": "2026-11-13T02:31:02.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+        "url": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
+        "publishedAt": "2026-11-13T00:55:31.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+        "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+        "publishedAt": "2026-11-13T02:01:35.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "The school where white working-class pupils defy the odds",
+        "url": "https://www.bbc.co.uk/news/articles/cm369259g0j2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Politicians are worried about the outcomes of white, working-class pupils. But one school in Sunderland seems to have defied gravity",
+        "publishedAt": "2026-11-13T00:53:49.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Timothée Chalamet among Hollywood stars and charity heroes stepping up for BBC Children In Need",
+        "url": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Viewers of the annual TV charity event will see the actor playing a prank on Rylan.",
+        "publishedAt": "2026-11-13T00:54:04.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+        "url": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+        "publishedAt": "2026-11-13T01:17:58.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -391,85 +457,41 @@
         "publishedAt": "2026-11-12T20:09:16.000Z",
         "category": "general",
         "zone": "ca"
-      },
-      {
-        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-        "publishedAt": "2026-11-12T21:00:42.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Microsoft users report outages amid tech giant 'connectivity issues'",
-        "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Users worldwide report issues after tech giant says its infrastructure has been hit by \"elevated load\"",
-        "publishedAt": "2026-11-12T20:25:29.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Can Burnham avoid another Labour welfare rebellion?",
-        "url": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Any revolt among MPs is likely to be smaller than the one that badly damaged Keir Starmer's government.",
-        "publishedAt": "2026-11-12T18:21:38.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "What we know about Brooklyn building collapse that killed eight people",
-        "url": "https://www.bbc.co.uk/news/articles/cm20v66jq611o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Two construction workers and two children were killed when a residential building fell into an adjacent construction site on Wednesday.",
-        "publishedAt": "2026-11-12T19:09:25.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Military base asylum plans granted planning approval",
-        "url": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked.",
-        "publishedAt": "2026-11-12T22:16:34.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-        "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
-        "publishedAt": "2026-11-12T18:47:35.000Z",
-        "category": "general",
-        "zone": "ca"
       }
     ]
   },
   "business_us": {
     "articles": [
       {
-        "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-        "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-        "publishedAt": "2026-11-12T17:11:48.000Z",
+        "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+        "publishedAt": "2026-11-13T02:39:00.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+        "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+        "publishedAt": "2026-11-13T02:38:02.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+        "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+        "publishedAt": "2026-11-13T00:13:35.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -524,29 +546,7 @@
           "name": "RSS Feed"
         },
         "description": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-        "publishedAt": "2026-11-12T17:32:14.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Christmas toy rush being driven by squishies and building sets",
-        "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
-        "publishedAt": "2026-11-11T07:52:05.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-        "publishedAt": "2026-11-10T22:52:15.000Z",
+        "publishedAt": "2026-11-12T22:51:18.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,13 +555,35 @@
   "business_gb": {
     "articles": [
       {
-        "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-        "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-        "publishedAt": "2026-11-12T17:11:48.000Z",
+        "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+        "publishedAt": "2026-11-13T02:39:00.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+        "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+        "publishedAt": "2026-11-13T02:38:02.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+        "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+        "publishedAt": "2026-11-13T00:13:35.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -616,29 +638,7 @@
           "name": "RSS Feed"
         },
         "description": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-        "publishedAt": "2026-11-12T17:32:14.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Christmas toy rush being driven by squishies and building sets",
-        "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
-        "publishedAt": "2026-11-11T07:52:05.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-        "publishedAt": "2026-11-10T22:52:15.000Z",
+        "publishedAt": "2026-11-12T22:51:18.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,13 +647,35 @@
   "business_in": {
     "articles": [
       {
-        "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-        "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-        "publishedAt": "2026-11-12T17:11:48.000Z",
+        "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+        "publishedAt": "2026-11-13T02:39:00.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+        "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+        "publishedAt": "2026-11-13T02:38:02.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+        "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+        "publishedAt": "2026-11-13T00:13:35.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -708,29 +730,7 @@
           "name": "RSS Feed"
         },
         "description": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-        "publishedAt": "2026-11-12T17:32:14.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Christmas toy rush being driven by squishies and building sets",
-        "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
-        "publishedAt": "2026-11-11T07:52:05.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-        "publishedAt": "2026-11-10T22:52:15.000Z",
+        "publishedAt": "2026-11-12T22:51:18.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,13 +739,35 @@
   "business_au": {
     "articles": [
       {
-        "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-        "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-        "publishedAt": "2026-11-12T17:11:48.000Z",
+        "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+        "publishedAt": "2026-11-13T02:39:00.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+        "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+        "publishedAt": "2026-11-13T02:38:02.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+        "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+        "publishedAt": "2026-11-13T00:13:35.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -800,29 +822,7 @@
           "name": "RSS Feed"
         },
         "description": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-        "publishedAt": "2026-11-12T17:32:14.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Christmas toy rush being driven by squishies and building sets",
-        "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
-        "publishedAt": "2026-11-11T07:52:05.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-        "publishedAt": "2026-11-10T22:52:15.000Z",
+        "publishedAt": "2026-11-12T22:51:18.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,13 +831,35 @@
   "business_ca": {
     "articles": [
       {
-        "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-        "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-        "publishedAt": "2026-11-12T17:11:48.000Z",
+        "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+        "publishedAt": "2026-11-13T02:39:00.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+        "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+        "publishedAt": "2026-11-13T02:38:02.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+        "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+        "publishedAt": "2026-11-13T00:13:35.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -892,29 +914,7 @@
           "name": "RSS Feed"
         },
         "description": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-        "publishedAt": "2026-11-12T17:32:14.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Christmas toy rush being driven by squishies and building sets",
-        "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
-        "publishedAt": "2026-11-11T07:52:05.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-        "publishedAt": "2026-11-10T22:52:15.000Z",
+        "publishedAt": "2026-11-12T22:51:18.000Z",
         "category": "business",
         "zone": "ca"
       }
@@ -1383,6 +1383,17 @@
   "health_us": {
     "articles": [
       {
+        "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+        "url": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
+        "publishedAt": "2026-11-13T00:55:31.000Z",
+        "category": "health",
+        "zone": "us"
+      },
+      {
         "title": "Sunbed firms must not downplay cancer risk, says watchdog",
         "url": "https://www.bbc.co.uk/news/articles/c98r7xyjx8g4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1456,17 +1467,6 @@
         },
         "description": "The doctor tested positive in DR Congo, where there is an outbreak. The government says the risk to the public remains low.",
         "publishedAt": "2026-11-05T21:26:09.000Z",
-        "category": "health",
-        "zone": "us"
-      },
-      {
-        "title": "Cocaine overtakes heroin as leading cause of drug deaths in England and Wales",
-        "url": "https://www.bbc.co.uk/news/articles/cmdxw051np9jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The number of deaths linked to cocaine use in England and Wales has nearly quadrupled in a decade.",
-        "publishedAt": "2026-11-04T17:58:59.000Z",
         "category": "health",
         "zone": "us"
       }
@@ -1475,6 +1475,17 @@
   "health_gb": {
     "articles": [
       {
+        "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+        "url": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
+        "publishedAt": "2026-11-13T00:55:31.000Z",
+        "category": "health",
+        "zone": "gb"
+      },
+      {
         "title": "Sunbed firms must not downplay cancer risk, says watchdog",
         "url": "https://www.bbc.co.uk/news/articles/c98r7xyjx8g4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1548,17 +1559,6 @@
         },
         "description": "The doctor tested positive in DR Congo, where there is an outbreak. The government says the risk to the public remains low.",
         "publishedAt": "2026-11-05T21:26:09.000Z",
-        "category": "health",
-        "zone": "gb"
-      },
-      {
-        "title": "Cocaine overtakes heroin as leading cause of drug deaths in England and Wales",
-        "url": "https://www.bbc.co.uk/news/articles/cmdxw051np9jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The number of deaths linked to cocaine use in England and Wales has nearly quadrupled in a decade.",
-        "publishedAt": "2026-11-04T17:58:59.000Z",
         "category": "health",
         "zone": "gb"
       }
@@ -1567,6 +1567,17 @@
   "health_in": {
     "articles": [
       {
+        "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+        "url": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
+        "publishedAt": "2026-11-13T00:55:31.000Z",
+        "category": "health",
+        "zone": "in"
+      },
+      {
         "title": "Sunbed firms must not downplay cancer risk, says watchdog",
         "url": "https://www.bbc.co.uk/news/articles/c98r7xyjx8g4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1640,17 +1651,6 @@
         },
         "description": "The doctor tested positive in DR Congo, where there is an outbreak. The government says the risk to the public remains low.",
         "publishedAt": "2026-11-05T21:26:09.000Z",
-        "category": "health",
-        "zone": "in"
-      },
-      {
-        "title": "Cocaine overtakes heroin as leading cause of drug deaths in England and Wales",
-        "url": "https://www.bbc.co.uk/news/articles/cmdxw051np9jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The number of deaths linked to cocaine use in England and Wales has nearly quadrupled in a decade.",
-        "publishedAt": "2026-11-04T17:58:59.000Z",
         "category": "health",
         "zone": "in"
       }
@@ -1659,6 +1659,17 @@
   "health_au": {
     "articles": [
       {
+        "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+        "url": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
+        "publishedAt": "2026-11-13T00:55:31.000Z",
+        "category": "health",
+        "zone": "au"
+      },
+      {
         "title": "Sunbed firms must not downplay cancer risk, says watchdog",
         "url": "https://www.bbc.co.uk/news/articles/c98r7xyjx8g4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1732,17 +1743,6 @@
         },
         "description": "The doctor tested positive in DR Congo, where there is an outbreak. The government says the risk to the public remains low.",
         "publishedAt": "2026-11-05T21:26:09.000Z",
-        "category": "health",
-        "zone": "au"
-      },
-      {
-        "title": "Cocaine overtakes heroin as leading cause of drug deaths in England and Wales",
-        "url": "https://www.bbc.co.uk/news/articles/cmdxw051np9jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The number of deaths linked to cocaine use in England and Wales has nearly quadrupled in a decade.",
-        "publishedAt": "2026-11-04T17:58:59.000Z",
         "category": "health",
         "zone": "au"
       }
@@ -1751,6 +1751,17 @@
   "health_ca": {
     "articles": [
       {
+        "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+        "url": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
+        "publishedAt": "2026-11-13T00:55:31.000Z",
+        "category": "health",
+        "zone": "ca"
+      },
+      {
         "title": "Sunbed firms must not downplay cancer risk, says watchdog",
         "url": "https://www.bbc.co.uk/news/articles/c98r7xyjx8g4o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1824,17 +1835,6 @@
         },
         "description": "The doctor tested positive in DR Congo, where there is an outbreak. The government says the risk to the public remains low.",
         "publishedAt": "2026-11-05T21:26:09.000Z",
-        "category": "health",
-        "zone": "ca"
-      },
-      {
-        "title": "Cocaine overtakes heroin as leading cause of drug deaths in England and Wales",
-        "url": "https://www.bbc.co.uk/news/articles/cmdxw051np9jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The number of deaths linked to cocaine use in England and Wales has nearly quadrupled in a decade.",
-        "publishedAt": "2026-11-04T17:58:59.000Z",
         "category": "health",
         "zone": "ca"
       }
@@ -2303,6 +2303,17 @@
   "sports_us": {
     "articles": [
       {
+        "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
+        "publishedAt": "2026-11-12T16:12:39.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "Where does Kane rank among all-time England greats?",
         "url": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2314,24 +2325,24 @@
         "zone": "us"
       },
       {
-        "title": "Kane scores winner but who else made an impression? England player ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o?at_medium=RSS&at_campaign=rss",
+        "title": "'A lie' - Palmer committed to England, says Rogers",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "How did England's players fare in the Nations League match against Croatia? Senior football correspondent Sami Mokbel gives his verdict.",
-        "publishedAt": "2026-11-12T21:47:36.000Z",
+        "description": "Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\".",
+        "publishedAt": "2026-11-12T23:09:07.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
+        "title": "'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
-        "publishedAt": "2026-11-12T16:12:39.000Z",
+        "description": "Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”.",
+        "publishedAt": "2026-11-13T00:58:00.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2358,13 +2369,13 @@
         "zone": "us"
       },
       {
-        "title": "Gauff battles through back injury to keep WTA Finals hopes alive",
+        "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c57429mgdkjdo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Coco Gauff shows all of her battling qualities as she fights through a back injury to beat Marta Kostyuk and keep her WTA Finals last-four hopes alive.",
-        "publishedAt": "2026-11-12T22:27:18.000Z",
+        "description": "A determined Jessica Pegula saves match point to beat Wimbledon champion Linda Noskova and reach the WTA Finals last four at the expense of Coco Gauff.",
+        "publishedAt": "2026-11-13T01:23:06.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2376,17 +2387,6 @@
         },
         "description": "Can you name every England men's player who has at least 60 caps?",
         "publishedAt": "2026-11-12T19:47:16.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Palace sack Sage after 16 games with Frank in advanced talks",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Crystal Palace have sacked manager Pierre Sage after 16 games in charge and the club bottom of the table.",
-        "publishedAt": "2026-11-12T17:15:20.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,6 +2395,17 @@
   "sports_gb": {
     "articles": [
       {
+        "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
+        "publishedAt": "2026-11-12T16:12:39.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "Where does Kane rank among all-time England greats?",
         "url": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2406,24 +2417,24 @@
         "zone": "gb"
       },
       {
-        "title": "Kane scores winner but who else made an impression? England player ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o?at_medium=RSS&at_campaign=rss",
+        "title": "'A lie' - Palmer committed to England, says Rogers",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "How did England's players fare in the Nations League match against Croatia? Senior football correspondent Sami Mokbel gives his verdict.",
-        "publishedAt": "2026-11-12T21:47:36.000Z",
+        "description": "Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\".",
+        "publishedAt": "2026-11-12T23:09:07.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
+        "title": "'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
-        "publishedAt": "2026-11-12T16:12:39.000Z",
+        "description": "Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”.",
+        "publishedAt": "2026-11-13T00:58:00.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2450,13 +2461,13 @@
         "zone": "gb"
       },
       {
-        "title": "Gauff battles through back injury to keep WTA Finals hopes alive",
+        "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c57429mgdkjdo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Coco Gauff shows all of her battling qualities as she fights through a back injury to beat Marta Kostyuk and keep her WTA Finals last-four hopes alive.",
-        "publishedAt": "2026-11-12T22:27:18.000Z",
+        "description": "A determined Jessica Pegula saves match point to beat Wimbledon champion Linda Noskova and reach the WTA Finals last four at the expense of Coco Gauff.",
+        "publishedAt": "2026-11-13T01:23:06.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2468,17 +2479,6 @@
         },
         "description": "Can you name every England men's player who has at least 60 caps?",
         "publishedAt": "2026-11-12T19:47:16.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Palace sack Sage after 16 games with Frank in advanced talks",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Crystal Palace have sacked manager Pierre Sage after 16 games in charge and the club bottom of the table.",
-        "publishedAt": "2026-11-12T17:15:20.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,6 +2487,17 @@
   "sports_in": {
     "articles": [
       {
+        "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
+        "publishedAt": "2026-11-12T16:12:39.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "Where does Kane rank among all-time England greats?",
         "url": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2498,24 +2509,24 @@
         "zone": "in"
       },
       {
-        "title": "Kane scores winner but who else made an impression? England player ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o?at_medium=RSS&at_campaign=rss",
+        "title": "'A lie' - Palmer committed to England, says Rogers",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "How did England's players fare in the Nations League match against Croatia? Senior football correspondent Sami Mokbel gives his verdict.",
-        "publishedAt": "2026-11-12T21:47:36.000Z",
+        "description": "Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\".",
+        "publishedAt": "2026-11-12T23:09:07.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
+        "title": "'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
-        "publishedAt": "2026-11-12T16:12:39.000Z",
+        "description": "Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”.",
+        "publishedAt": "2026-11-13T00:58:00.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2542,13 +2553,13 @@
         "zone": "in"
       },
       {
-        "title": "Gauff battles through back injury to keep WTA Finals hopes alive",
+        "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c57429mgdkjdo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Coco Gauff shows all of her battling qualities as she fights through a back injury to beat Marta Kostyuk and keep her WTA Finals last-four hopes alive.",
-        "publishedAt": "2026-11-12T22:27:18.000Z",
+        "description": "A determined Jessica Pegula saves match point to beat Wimbledon champion Linda Noskova and reach the WTA Finals last four at the expense of Coco Gauff.",
+        "publishedAt": "2026-11-13T01:23:06.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2560,17 +2571,6 @@
         },
         "description": "Can you name every England men's player who has at least 60 caps?",
         "publishedAt": "2026-11-12T19:47:16.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Palace sack Sage after 16 games with Frank in advanced talks",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Crystal Palace have sacked manager Pierre Sage after 16 games in charge and the club bottom of the table.",
-        "publishedAt": "2026-11-12T17:15:20.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,6 +2579,17 @@
   "sports_au": {
     "articles": [
       {
+        "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
+        "publishedAt": "2026-11-12T16:12:39.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "Where does Kane rank among all-time England greats?",
         "url": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2590,24 +2601,24 @@
         "zone": "au"
       },
       {
-        "title": "Kane scores winner but who else made an impression? England player ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o?at_medium=RSS&at_campaign=rss",
+        "title": "'A lie' - Palmer committed to England, says Rogers",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "How did England's players fare in the Nations League match against Croatia? Senior football correspondent Sami Mokbel gives his verdict.",
-        "publishedAt": "2026-11-12T21:47:36.000Z",
+        "description": "Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\".",
+        "publishedAt": "2026-11-12T23:09:07.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
+        "title": "'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
-        "publishedAt": "2026-11-12T16:12:39.000Z",
+        "description": "Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”.",
+        "publishedAt": "2026-11-13T00:58:00.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2634,13 +2645,13 @@
         "zone": "au"
       },
       {
-        "title": "Gauff battles through back injury to keep WTA Finals hopes alive",
+        "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c57429mgdkjdo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Coco Gauff shows all of her battling qualities as she fights through a back injury to beat Marta Kostyuk and keep her WTA Finals last-four hopes alive.",
-        "publishedAt": "2026-11-12T22:27:18.000Z",
+        "description": "A determined Jessica Pegula saves match point to beat Wimbledon champion Linda Noskova and reach the WTA Finals last four at the expense of Coco Gauff.",
+        "publishedAt": "2026-11-13T01:23:06.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2652,17 +2663,6 @@
         },
         "description": "Can you name every England men's player who has at least 60 caps?",
         "publishedAt": "2026-11-12T19:47:16.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Palace sack Sage after 16 games with Frank in advanced talks",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Crystal Palace have sacked manager Pierre Sage after 16 games in charge and the club bottom of the table.",
-        "publishedAt": "2026-11-12T17:15:20.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,6 +2671,17 @@
   "sports_ca": {
     "articles": [
       {
+        "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
+        "publishedAt": "2026-11-12T16:12:39.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "Where does Kane rank among all-time England greats?",
         "url": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2682,24 +2693,24 @@
         "zone": "ca"
       },
       {
-        "title": "Kane scores winner but who else made an impression? England player ratings",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o?at_medium=RSS&at_campaign=rss",
+        "title": "'A lie' - Palmer committed to England, says Rogers",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "How did England's players fare in the Nations League match against Croatia? Senior football correspondent Sami Mokbel gives his verdict.",
-        "publishedAt": "2026-11-12T21:47:36.000Z",
+        "description": "Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\".",
+        "publishedAt": "2026-11-12T23:09:07.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
+        "title": "'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
-        "publishedAt": "2026-11-12T16:12:39.000Z",
+        "description": "Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”.",
+        "publishedAt": "2026-11-13T00:58:00.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2726,13 +2737,13 @@
         "zone": "ca"
       },
       {
-        "title": "Gauff battles through back injury to keep WTA Finals hopes alive",
+        "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four",
         "url": "https://www.bbc.co.uk/sport/tennis/articles/c57429mgdkjdo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Coco Gauff shows all of her battling qualities as she fights through a back injury to beat Marta Kostyuk and keep her WTA Finals last-four hopes alive.",
-        "publishedAt": "2026-11-12T22:27:18.000Z",
+        "description": "A determined Jessica Pegula saves match point to beat Wimbledon champion Linda Noskova and reach the WTA Finals last four at the expense of Coco Gauff.",
+        "publishedAt": "2026-11-13T01:23:06.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2746,22 +2757,44 @@
         "publishedAt": "2026-11-12T19:47:16.000Z",
         "category": "sports",
         "zone": "ca"
-      },
-      {
-        "title": "Palace sack Sage after 16 games with Frank in advanced talks",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Crystal Palace have sacked manager Pierre Sage after 16 games in charge and the club bottom of the table.",
-        "publishedAt": "2026-11-12T17:15:20.000Z",
-        "category": "sports",
-        "zone": "ca"
       }
     ]
   },
   "technology_us": {
     "articles": [
+      {
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+        "publishedAt": "2026-11-13T02:39:00.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
+        "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+        "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+        "publishedAt": "2026-11-13T02:38:02.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
+        "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+        "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+        "publishedAt": "2026-11-13T00:13:35.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
       {
         "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
         "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
@@ -2814,39 +2847,6 @@
         },
         "description": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
         "publishedAt": "2026-11-11T22:26:18.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
-        "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
-        "publishedAt": "2026-11-11T11:33:24.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "Robot vessels take on the dangerous work of mine hunting",
-        "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
-        "publishedAt": "2026-11-11T00:19:13.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-        "publishedAt": "2026-11-10T22:52:15.000Z",
         "category": "technology",
         "zone": "us"
       }
@@ -2855,6 +2855,39 @@
   "technology_gb": {
     "articles": [
       {
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+        "publishedAt": "2026-11-13T02:39:00.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
+        "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+        "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+        "publishedAt": "2026-11-13T02:38:02.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
+        "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+        "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+        "publishedAt": "2026-11-13T00:13:35.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
         "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
         "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2906,39 +2939,6 @@
         },
         "description": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
         "publishedAt": "2026-11-11T22:26:18.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
-        "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
-        "publishedAt": "2026-11-11T11:33:24.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "Robot vessels take on the dangerous work of mine hunting",
-        "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
-        "publishedAt": "2026-11-11T00:19:13.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-        "publishedAt": "2026-11-10T22:52:15.000Z",
         "category": "technology",
         "zone": "gb"
       }
@@ -2947,6 +2947,39 @@
   "technology_in": {
     "articles": [
       {
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+        "publishedAt": "2026-11-13T02:39:00.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
+        "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+        "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+        "publishedAt": "2026-11-13T02:38:02.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
+        "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+        "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+        "publishedAt": "2026-11-13T00:13:35.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
         "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
         "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2998,39 +3031,6 @@
         },
         "description": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
         "publishedAt": "2026-11-11T22:26:18.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
-        "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
-        "publishedAt": "2026-11-11T11:33:24.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "Robot vessels take on the dangerous work of mine hunting",
-        "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
-        "publishedAt": "2026-11-11T00:19:13.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-        "publishedAt": "2026-11-10T22:52:15.000Z",
         "category": "technology",
         "zone": "in"
       }
@@ -3039,6 +3039,39 @@
   "technology_au": {
     "articles": [
       {
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+        "publishedAt": "2026-11-13T02:39:00.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
+        "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+        "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+        "publishedAt": "2026-11-13T02:38:02.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
+        "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+        "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+        "publishedAt": "2026-11-13T00:13:35.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
         "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
         "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3090,39 +3123,6 @@
         },
         "description": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
         "publishedAt": "2026-11-11T22:26:18.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
-        "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
-        "publishedAt": "2026-11-11T11:33:24.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "Robot vessels take on the dangerous work of mine hunting",
-        "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
-        "publishedAt": "2026-11-11T00:19:13.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-        "publishedAt": "2026-11-10T22:52:15.000Z",
         "category": "technology",
         "zone": "au"
       }
@@ -3131,6 +3131,39 @@
   "technology_ca": {
     "articles": [
       {
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+        "publishedAt": "2026-11-13T02:39:00.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
+        "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+        "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+        "publishedAt": "2026-11-13T02:38:02.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
+        "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+        "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+        "publishedAt": "2026-11-13T00:13:35.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
         "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
         "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3182,39 +3215,6 @@
         },
         "description": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
         "publishedAt": "2026-11-11T22:26:18.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
-        "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
-        "publishedAt": "2026-11-11T11:33:24.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "Robot vessels take on the dangerous work of mine hunting",
-        "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
-        "publishedAt": "2026-11-11T00:19:13.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-        "publishedAt": "2026-11-10T22:52:15.000Z",
         "category": "technology",
         "zone": "ca"
       }
