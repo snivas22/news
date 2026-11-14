@@ -1,20 +1,42 @@
 {
-  "generatedAt": "2026-11-14T00:44:56.432Z",
+  "generatedAt": "2026-11-14T07:26:24.084Z",
   "general_us": {
     "articles": [
       {
-        "title": "Police investigating David Walliams over reports alleging serious sexual offences",
-        "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
+        "title": "What we know about the longest US nationwide flight ground stop since 9/11",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
-        "publishedAt": "2026-11-13T16:53:50.000Z",
+        "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+        "publishedAt": "2026-11-14T03:45:21.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+        "title": "Young people should have legal guarantee to job or training, review author tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Speaking to the BBC, Alan Milburn also calls for a radical shift in government spending away from benefits for young people.",
+        "publishedAt": "2026-11-14T06:00:04.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+        "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+        "publishedAt": "2026-11-14T05:52:31.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
         "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -25,68 +47,46 @@
         "zone": "us"
       },
       {
-        "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
-        "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
+        "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+        "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
-        "publishedAt": "2026-11-13T22:12:33.000Z",
+        "description": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
+        "publishedAt": "2026-11-13T21:15:24.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "title": "Widespread frost and freezing fog forecast as cold health alerts continue",
+        "url": "https://www.bbc.co.uk/weather/articles/cqlyml59mdj0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It's a weekend of two halves with a cold start on Saturday giving way to wetter and milder day on Sunday.",
+        "publishedAt": "2026-11-14T00:12:55.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Microsoft says services fully restored after for day-long global outage",
         "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-        "publishedAt": "2026-11-13T21:14:22.000Z",
+        "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "publishedAt": "2026-11-14T06:42:27.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+        "title": "Setback for SpaceX Starship rocket's double-catch test",
+        "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-        "publishedAt": "2026-11-13T16:40:31.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Goalkeeper involved in fatal collision gets 12-game ban",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
-        "publishedAt": "2026-11-13T22:37:30.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Former Hamas bodyguard guilty of UK knife attack",
-        "url": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020.",
-        "publishedAt": "2026-11-13T15:51:24.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "New campaign against EU membership launches ahead of UK-EU summit",
-        "url": "https://www.bbc.co.uk/news/articles/c6174l2q99ejo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The launch of Stay Out comes as Andy Burnham prepares for talks with European leaders next week.",
-        "publishedAt": "2026-11-13T21:39:46.000Z",
+        "description": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+        "publishedAt": "2026-11-14T00:01:01.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,18 +95,40 @@
   "general_gb": {
     "articles": [
       {
-        "title": "Police investigating David Walliams over reports alleging serious sexual offences",
-        "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
+        "title": "What we know about the longest US nationwide flight ground stop since 9/11",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
-        "publishedAt": "2026-11-13T16:53:50.000Z",
+        "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+        "publishedAt": "2026-11-14T03:45:21.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+        "title": "Young people should have legal guarantee to job or training, review author tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Speaking to the BBC, Alan Milburn also calls for a radical shift in government spending away from benefits for young people.",
+        "publishedAt": "2026-11-14T06:00:04.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+        "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+        "publishedAt": "2026-11-14T05:52:31.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
         "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -117,68 +139,46 @@
         "zone": "gb"
       },
       {
-        "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
-        "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
+        "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+        "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
-        "publishedAt": "2026-11-13T22:12:33.000Z",
+        "description": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
+        "publishedAt": "2026-11-13T21:15:24.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "title": "Widespread frost and freezing fog forecast as cold health alerts continue",
+        "url": "https://www.bbc.co.uk/weather/articles/cqlyml59mdj0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It's a weekend of two halves with a cold start on Saturday giving way to wetter and milder day on Sunday.",
+        "publishedAt": "2026-11-14T00:12:55.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Microsoft says services fully restored after for day-long global outage",
         "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-        "publishedAt": "2026-11-13T21:14:22.000Z",
+        "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "publishedAt": "2026-11-14T06:42:27.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+        "title": "Setback for SpaceX Starship rocket's double-catch test",
+        "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-        "publishedAt": "2026-11-13T16:40:31.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Goalkeeper involved in fatal collision gets 12-game ban",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
-        "publishedAt": "2026-11-13T22:37:30.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Former Hamas bodyguard guilty of UK knife attack",
-        "url": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020.",
-        "publishedAt": "2026-11-13T15:51:24.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "New campaign against EU membership launches ahead of UK-EU summit",
-        "url": "https://www.bbc.co.uk/news/articles/c6174l2q99ejo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The launch of Stay Out comes as Andy Burnham prepares for talks with European leaders next week.",
-        "publishedAt": "2026-11-13T21:39:46.000Z",
+        "description": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+        "publishedAt": "2026-11-14T00:01:01.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,18 +187,40 @@
   "general_in": {
     "articles": [
       {
-        "title": "Police investigating David Walliams over reports alleging serious sexual offences",
-        "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
+        "title": "What we know about the longest US nationwide flight ground stop since 9/11",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
-        "publishedAt": "2026-11-13T16:53:50.000Z",
+        "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+        "publishedAt": "2026-11-14T03:45:21.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+        "title": "Young people should have legal guarantee to job or training, review author tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Speaking to the BBC, Alan Milburn also calls for a radical shift in government spending away from benefits for young people.",
+        "publishedAt": "2026-11-14T06:00:04.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+        "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+        "publishedAt": "2026-11-14T05:52:31.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
         "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -209,68 +231,46 @@
         "zone": "in"
       },
       {
-        "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
-        "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
+        "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+        "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
-        "publishedAt": "2026-11-13T22:12:33.000Z",
+        "description": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
+        "publishedAt": "2026-11-13T21:15:24.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "title": "Widespread frost and freezing fog forecast as cold health alerts continue",
+        "url": "https://www.bbc.co.uk/weather/articles/cqlyml59mdj0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It's a weekend of two halves with a cold start on Saturday giving way to wetter and milder day on Sunday.",
+        "publishedAt": "2026-11-14T00:12:55.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Microsoft says services fully restored after for day-long global outage",
         "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-        "publishedAt": "2026-11-13T21:14:22.000Z",
+        "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "publishedAt": "2026-11-14T06:42:27.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+        "title": "Setback for SpaceX Starship rocket's double-catch test",
+        "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-        "publishedAt": "2026-11-13T16:40:31.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Goalkeeper involved in fatal collision gets 12-game ban",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
-        "publishedAt": "2026-11-13T22:37:30.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Former Hamas bodyguard guilty of UK knife attack",
-        "url": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020.",
-        "publishedAt": "2026-11-13T15:51:24.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "New campaign against EU membership launches ahead of UK-EU summit",
-        "url": "https://www.bbc.co.uk/news/articles/c6174l2q99ejo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The launch of Stay Out comes as Andy Burnham prepares for talks with European leaders next week.",
-        "publishedAt": "2026-11-13T21:39:46.000Z",
+        "description": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+        "publishedAt": "2026-11-14T00:01:01.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,18 +279,40 @@
   "general_au": {
     "articles": [
       {
-        "title": "Police investigating David Walliams over reports alleging serious sexual offences",
-        "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
+        "title": "What we know about the longest US nationwide flight ground stop since 9/11",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
-        "publishedAt": "2026-11-13T16:53:50.000Z",
+        "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+        "publishedAt": "2026-11-14T03:45:21.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+        "title": "Young people should have legal guarantee to job or training, review author tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Speaking to the BBC, Alan Milburn also calls for a radical shift in government spending away from benefits for young people.",
+        "publishedAt": "2026-11-14T06:00:04.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+        "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+        "publishedAt": "2026-11-14T05:52:31.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
         "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -301,68 +323,46 @@
         "zone": "au"
       },
       {
-        "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
-        "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
+        "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+        "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
-        "publishedAt": "2026-11-13T22:12:33.000Z",
+        "description": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
+        "publishedAt": "2026-11-13T21:15:24.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "title": "Widespread frost and freezing fog forecast as cold health alerts continue",
+        "url": "https://www.bbc.co.uk/weather/articles/cqlyml59mdj0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It's a weekend of two halves with a cold start on Saturday giving way to wetter and milder day on Sunday.",
+        "publishedAt": "2026-11-14T00:12:55.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Microsoft says services fully restored after for day-long global outage",
         "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-        "publishedAt": "2026-11-13T21:14:22.000Z",
+        "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "publishedAt": "2026-11-14T06:42:27.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+        "title": "Setback for SpaceX Starship rocket's double-catch test",
+        "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-        "publishedAt": "2026-11-13T16:40:31.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Goalkeeper involved in fatal collision gets 12-game ban",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
-        "publishedAt": "2026-11-13T22:37:30.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Former Hamas bodyguard guilty of UK knife attack",
-        "url": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020.",
-        "publishedAt": "2026-11-13T15:51:24.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "New campaign against EU membership launches ahead of UK-EU summit",
-        "url": "https://www.bbc.co.uk/news/articles/c6174l2q99ejo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The launch of Stay Out comes as Andy Burnham prepares for talks with European leaders next week.",
-        "publishedAt": "2026-11-13T21:39:46.000Z",
+        "description": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+        "publishedAt": "2026-11-14T00:01:01.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,18 +371,40 @@
   "general_ca": {
     "articles": [
       {
-        "title": "Police investigating David Walliams over reports alleging serious sexual offences",
-        "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
+        "title": "What we know about the longest US nationwide flight ground stop since 9/11",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
-        "publishedAt": "2026-11-13T16:53:50.000Z",
+        "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+        "publishedAt": "2026-11-14T03:45:21.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+        "title": "Young people should have legal guarantee to job or training, review author tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Speaking to the BBC, Alan Milburn also calls for a radical shift in government spending away from benefits for young people.",
+        "publishedAt": "2026-11-14T06:00:04.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+        "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+        "publishedAt": "2026-11-14T05:52:31.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
         "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
@@ -393,68 +415,46 @@
         "zone": "ca"
       },
       {
-        "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
-        "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
+        "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+        "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
-        "publishedAt": "2026-11-13T22:12:33.000Z",
+        "description": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
+        "publishedAt": "2026-11-13T21:15:24.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "title": "Widespread frost and freezing fog forecast as cold health alerts continue",
+        "url": "https://www.bbc.co.uk/weather/articles/cqlyml59mdj0o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It's a weekend of two halves with a cold start on Saturday giving way to wetter and milder day on Sunday.",
+        "publishedAt": "2026-11-14T00:12:55.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Microsoft says services fully restored after for day-long global outage",
         "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-        "publishedAt": "2026-11-13T21:14:22.000Z",
+        "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "publishedAt": "2026-11-14T06:42:27.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+        "title": "Setback for SpaceX Starship rocket's double-catch test",
+        "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-        "publishedAt": "2026-11-13T16:40:31.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Goalkeeper involved in fatal collision gets 12-game ban",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
-        "publishedAt": "2026-11-13T22:37:30.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Former Hamas bodyguard guilty of UK knife attack",
-        "url": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020.",
-        "publishedAt": "2026-11-13T15:51:24.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "New campaign against EU membership launches ahead of UK-EU summit",
-        "url": "https://www.bbc.co.uk/news/articles/c6174l2q99ejo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The launch of Stay Out comes as Andy Burnham prepares for talks with European leaders next week.",
-        "publishedAt": "2026-11-13T21:39:46.000Z",
+        "description": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+        "publishedAt": "2026-11-14T00:01:01.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -463,13 +463,13 @@
   "business_us": {
     "articles": [
       {
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "title": "Microsoft says services fully restored after for day-long global outage",
         "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-        "publishedAt": "2026-11-13T21:14:22.000Z",
+        "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "publishedAt": "2026-11-14T06:42:27.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -555,13 +555,13 @@
   "business_gb": {
     "articles": [
       {
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "title": "Microsoft says services fully restored after for day-long global outage",
         "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-        "publishedAt": "2026-11-13T21:14:22.000Z",
+        "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "publishedAt": "2026-11-14T06:42:27.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -647,13 +647,13 @@
   "business_in": {
     "articles": [
       {
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "title": "Microsoft says services fully restored after for day-long global outage",
         "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-        "publishedAt": "2026-11-13T21:14:22.000Z",
+        "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "publishedAt": "2026-11-14T06:42:27.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -739,13 +739,13 @@
   "business_au": {
     "articles": [
       {
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "title": "Microsoft says services fully restored after for day-long global outage",
         "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-        "publishedAt": "2026-11-13T21:14:22.000Z",
+        "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "publishedAt": "2026-11-14T06:42:27.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -831,13 +831,13 @@
   "business_ca": {
     "articles": [
       {
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "title": "Microsoft says services fully restored after for day-long global outage",
         "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-        "publishedAt": "2026-11-13T21:14:22.000Z",
+        "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "publishedAt": "2026-11-14T06:42:27.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -934,6 +934,17 @@
         "zone": "us"
       },
       {
+        "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
+        "publishedAt": "2026-11-13T19:01:36.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
         "title": "Police investigating David Walliams over reports alleging serious sexual offences",
         "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -956,17 +967,6 @@
         "zone": "us"
       },
       {
-        "title": "More women make allegations against Russell Brand",
-        "url": "https://www.bbc.co.uk/news/articles/cme3dwydp857o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The new claims are in the Times and a Netflix documentary, following Brand's recent conviction for rape.",
-        "publishedAt": "2026-11-13T12:14:17.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
         "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
         "url": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -978,6 +978,28 @@
         "zone": "us"
       },
       {
+        "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+        "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The next title in the series is expected to be the biggest video game release ever.",
+        "publishedAt": "2026-11-14T00:37:01.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Dept Q crew member dies after being  injured at Edinburgh film studio",
+        "url": "https://www.bbc.co.uk/news/articles/cqr7g5l4z9zeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Emergency crews were called to reports of an incident at FirstStage in Leith.",
+        "publishedAt": "2026-11-13T21:23:46.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
         "title": "Rosalía scoops historic third best album award at Latin Grammys",
         "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -985,28 +1007,6 @@
         },
         "description": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
         "publishedAt": "2026-11-13T11:38:54.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Catherine Zeta-Jones says US move humbled her before big break with Steven Spielberg",
-        "url": "https://www.bbc.co.uk/news/articles/cqgm3gn4k7dno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Swansea-born star got her big break in The Mask of Zorro which cemented her place as an A-lister.",
-        "publishedAt": "2026-11-13T17:59:54.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Skye Newman gets 'goosebumps' over record-breaking Brixton Academy run",
-        "url": "https://www.bbc.co.uk/news/articles/ckvg25g323ymo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "She is the first British female solo singer to play a five-gig residency at the venue.",
-        "publishedAt": "2026-11-13T00:24:11.000Z",
         "category": "entertainment",
         "zone": "us"
       }
@@ -1026,6 +1026,17 @@
         "zone": "gb"
       },
       {
+        "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
+        "publishedAt": "2026-11-13T19:01:36.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
         "title": "Police investigating David Walliams over reports alleging serious sexual offences",
         "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1048,17 +1059,6 @@
         "zone": "gb"
       },
       {
-        "title": "More women make allegations against Russell Brand",
-        "url": "https://www.bbc.co.uk/news/articles/cme3dwydp857o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The new claims are in the Times and a Netflix documentary, following Brand's recent conviction for rape.",
-        "publishedAt": "2026-11-13T12:14:17.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
         "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
         "url": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1070,6 +1070,28 @@
         "zone": "gb"
       },
       {
+        "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+        "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The next title in the series is expected to be the biggest video game release ever.",
+        "publishedAt": "2026-11-14T00:37:01.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Dept Q crew member dies after being  injured at Edinburgh film studio",
+        "url": "https://www.bbc.co.uk/news/articles/cqr7g5l4z9zeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Emergency crews were called to reports of an incident at FirstStage in Leith.",
+        "publishedAt": "2026-11-13T21:23:46.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
         "title": "Rosalía scoops historic third best album award at Latin Grammys",
         "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1077,28 +1099,6 @@
         },
         "description": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
         "publishedAt": "2026-11-13T11:38:54.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Catherine Zeta-Jones says US move humbled her before big break with Steven Spielberg",
-        "url": "https://www.bbc.co.uk/news/articles/cqgm3gn4k7dno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Swansea-born star got her big break in The Mask of Zorro which cemented her place as an A-lister.",
-        "publishedAt": "2026-11-13T17:59:54.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Skye Newman gets 'goosebumps' over record-breaking Brixton Academy run",
-        "url": "https://www.bbc.co.uk/news/articles/ckvg25g323ymo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "She is the first British female solo singer to play a five-gig residency at the venue.",
-        "publishedAt": "2026-11-13T00:24:11.000Z",
         "category": "entertainment",
         "zone": "gb"
       }
@@ -1118,6 +1118,17 @@
         "zone": "in"
       },
       {
+        "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
+        "publishedAt": "2026-11-13T19:01:36.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
         "title": "Police investigating David Walliams over reports alleging serious sexual offences",
         "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1140,17 +1151,6 @@
         "zone": "in"
       },
       {
-        "title": "More women make allegations against Russell Brand",
-        "url": "https://www.bbc.co.uk/news/articles/cme3dwydp857o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The new claims are in the Times and a Netflix documentary, following Brand's recent conviction for rape.",
-        "publishedAt": "2026-11-13T12:14:17.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
         "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
         "url": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1162,6 +1162,28 @@
         "zone": "in"
       },
       {
+        "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+        "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The next title in the series is expected to be the biggest video game release ever.",
+        "publishedAt": "2026-11-14T00:37:01.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Dept Q crew member dies after being  injured at Edinburgh film studio",
+        "url": "https://www.bbc.co.uk/news/articles/cqr7g5l4z9zeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Emergency crews were called to reports of an incident at FirstStage in Leith.",
+        "publishedAt": "2026-11-13T21:23:46.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
         "title": "Rosalía scoops historic third best album award at Latin Grammys",
         "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1169,28 +1191,6 @@
         },
         "description": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
         "publishedAt": "2026-11-13T11:38:54.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Catherine Zeta-Jones says US move humbled her before big break with Steven Spielberg",
-        "url": "https://www.bbc.co.uk/news/articles/cqgm3gn4k7dno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Swansea-born star got her big break in The Mask of Zorro which cemented her place as an A-lister.",
-        "publishedAt": "2026-11-13T17:59:54.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Skye Newman gets 'goosebumps' over record-breaking Brixton Academy run",
-        "url": "https://www.bbc.co.uk/news/articles/ckvg25g323ymo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "She is the first British female solo singer to play a five-gig residency at the venue.",
-        "publishedAt": "2026-11-13T00:24:11.000Z",
         "category": "entertainment",
         "zone": "in"
       }
@@ -1210,6 +1210,17 @@
         "zone": "au"
       },
       {
+        "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
+        "publishedAt": "2026-11-13T19:01:36.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
         "title": "Police investigating David Walliams over reports alleging serious sexual offences",
         "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1232,17 +1243,6 @@
         "zone": "au"
       },
       {
-        "title": "More women make allegations against Russell Brand",
-        "url": "https://www.bbc.co.uk/news/articles/cme3dwydp857o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The new claims are in the Times and a Netflix documentary, following Brand's recent conviction for rape.",
-        "publishedAt": "2026-11-13T12:14:17.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
         "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
         "url": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1254,6 +1254,28 @@
         "zone": "au"
       },
       {
+        "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+        "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The next title in the series is expected to be the biggest video game release ever.",
+        "publishedAt": "2026-11-14T00:37:01.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Dept Q crew member dies after being  injured at Edinburgh film studio",
+        "url": "https://www.bbc.co.uk/news/articles/cqr7g5l4z9zeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Emergency crews were called to reports of an incident at FirstStage in Leith.",
+        "publishedAt": "2026-11-13T21:23:46.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
         "title": "Rosalía scoops historic third best album award at Latin Grammys",
         "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1261,28 +1283,6 @@
         },
         "description": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
         "publishedAt": "2026-11-13T11:38:54.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Catherine Zeta-Jones says US move humbled her before big break with Steven Spielberg",
-        "url": "https://www.bbc.co.uk/news/articles/cqgm3gn4k7dno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Swansea-born star got her big break in The Mask of Zorro which cemented her place as an A-lister.",
-        "publishedAt": "2026-11-13T17:59:54.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Skye Newman gets 'goosebumps' over record-breaking Brixton Academy run",
-        "url": "https://www.bbc.co.uk/news/articles/ckvg25g323ymo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "She is the first British female solo singer to play a five-gig residency at the venue.",
-        "publishedAt": "2026-11-13T00:24:11.000Z",
         "category": "entertainment",
         "zone": "au"
       }
@@ -1302,6 +1302,17 @@
         "zone": "ca"
       },
       {
+        "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
+        "publishedAt": "2026-11-13T19:01:36.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
         "title": "Police investigating David Walliams over reports alleging serious sexual offences",
         "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1324,17 +1335,6 @@
         "zone": "ca"
       },
       {
-        "title": "More women make allegations against Russell Brand",
-        "url": "https://www.bbc.co.uk/news/articles/cme3dwydp857o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The new claims are in the Times and a Netflix documentary, following Brand's recent conviction for rape.",
-        "publishedAt": "2026-11-13T12:14:17.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
         "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
         "url": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1346,6 +1346,28 @@
         "zone": "ca"
       },
       {
+        "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+        "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The next title in the series is expected to be the biggest video game release ever.",
+        "publishedAt": "2026-11-14T00:37:01.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "Dept Q crew member dies after being  injured at Edinburgh film studio",
+        "url": "https://www.bbc.co.uk/news/articles/cqr7g5l4z9zeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Emergency crews were called to reports of an incident at FirstStage in Leith.",
+        "publishedAt": "2026-11-13T21:23:46.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
         "title": "Rosalía scoops historic third best album award at Latin Grammys",
         "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1353,28 +1375,6 @@
         },
         "description": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
         "publishedAt": "2026-11-13T11:38:54.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Catherine Zeta-Jones says US move humbled her before big break with Steven Spielberg",
-        "url": "https://www.bbc.co.uk/news/articles/cqgm3gn4k7dno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Swansea-born star got her big break in The Mask of Zorro which cemented her place as an A-lister.",
-        "publishedAt": "2026-11-13T17:59:54.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Skye Newman gets 'goosebumps' over record-breaking Brixton Academy run",
-        "url": "https://www.bbc.co.uk/news/articles/ckvg25g323ymo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "She is the first British female solo singer to play a five-gig residency at the venue.",
-        "publishedAt": "2026-11-13T00:24:11.000Z",
         "category": "entertainment",
         "zone": "ca"
       }
@@ -2314,6 +2314,17 @@
         "zone": "us"
       },
       {
+        "title": "Warner accuses Cricket Australia of 'cover-up'",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Former vice-captain David Warner accuses Cricket Australia of a \"cover-up\", claiming Australia's bowlers were not interviewed in ball-tampering investigation.",
+        "publishedAt": "2026-11-14T07:20:24.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "France hold nerve to edge past South Africa in thriller",
         "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2321,6 +2332,17 @@
         },
         "description": "France hold on to end their five-match losing run against South Africa at Stade de France with an enthralling 21-19 victory in Paris.",
         "publishedAt": "2026-11-13T23:03:36.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "How a reunion with scout Bompastor solved Chelsea's striker issue",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5lyey8p8yv4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Chelsea striker Melvine Malard and manager Sonia Bompastor tell the story of their 12-year footballing relationship.",
+        "publishedAt": "2026-11-14T06:37:49.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2347,46 +2369,24 @@
         "zone": "us"
       },
       {
-        "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili brawl",
-        "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cm3wgpl28yzgo?at_medium=RSS&at_campaign=rss",
+        "title": "The challenge that brought Nunes out of retirement",
+        "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c6e3dw87pyjeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Eight people face prison sentences for their part in mass brawl involving MMA fighters Usman Nurmagomedov and Merab Dvalishvili at a hotel in Abu Dhabi on Wednesday.",
-        "publishedAt": "2026-11-13T17:15:52.000Z",
+        "description": "Amanda Nunes says the prospect of fighting Kayla Harrison and putting women's MMA back in the spotlight convinced her to come out of retirement to fight at UFC 334 on Saturday.",
+        "publishedAt": "2026-11-14T07:00:15.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
+        "title": "Sabalenka's season ended by Svitolina at WTA Finals",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cw30gl912vq9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
-        "publishedAt": "2026-11-13T22:11:27.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "'Gloves are off' - how Australian papers reacted to Cummins on Khawaja",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cq1k97y4e1rxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Australian newpapers have their say after Pat Cummins' extraordinary 68-minute news conference.",
-        "publishedAt": "2026-11-13T21:53:37.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Sharks, ladders and a four-year plan - how England won World Cup",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/crly54evvvv4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England's triumph at the Wheelchair Rugby League World Cup was built on an aggressive approach by head coach Tom Coyd - which included encouraging his players to see themselves like sharks.",
-        "publishedAt": "2026-11-13T15:49:30.000Z",
+        "description": "Aryna Sabalenka's season ends in disappointment as Elina Svitolina beats the former world number one to claim her place in the knockout stage at the WTA Finals.",
+        "publishedAt": "2026-11-14T00:51:25.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2406,6 +2406,17 @@
         "zone": "gb"
       },
       {
+        "title": "Warner accuses Cricket Australia of 'cover-up'",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Former vice-captain David Warner accuses Cricket Australia of a \"cover-up\", claiming Australia's bowlers were not interviewed in ball-tampering investigation.",
+        "publishedAt": "2026-11-14T07:20:24.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "France hold nerve to edge past South Africa in thriller",
         "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2413,6 +2424,17 @@
         },
         "description": "France hold on to end their five-match losing run against South Africa at Stade de France with an enthralling 21-19 victory in Paris.",
         "publishedAt": "2026-11-13T23:03:36.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "How a reunion with scout Bompastor solved Chelsea's striker issue",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5lyey8p8yv4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Chelsea striker Melvine Malard and manager Sonia Bompastor tell the story of their 12-year footballing relationship.",
+        "publishedAt": "2026-11-14T06:37:49.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2439,46 +2461,24 @@
         "zone": "gb"
       },
       {
-        "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili brawl",
-        "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cm3wgpl28yzgo?at_medium=RSS&at_campaign=rss",
+        "title": "The challenge that brought Nunes out of retirement",
+        "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c6e3dw87pyjeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Eight people face prison sentences for their part in mass brawl involving MMA fighters Usman Nurmagomedov and Merab Dvalishvili at a hotel in Abu Dhabi on Wednesday.",
-        "publishedAt": "2026-11-13T17:15:52.000Z",
+        "description": "Amanda Nunes says the prospect of fighting Kayla Harrison and putting women's MMA back in the spotlight convinced her to come out of retirement to fight at UFC 334 on Saturday.",
+        "publishedAt": "2026-11-14T07:00:15.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
+        "title": "Sabalenka's season ended by Svitolina at WTA Finals",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cw30gl912vq9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
-        "publishedAt": "2026-11-13T22:11:27.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "'Gloves are off' - how Australian papers reacted to Cummins on Khawaja",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cq1k97y4e1rxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Australian newpapers have their say after Pat Cummins' extraordinary 68-minute news conference.",
-        "publishedAt": "2026-11-13T21:53:37.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Sharks, ladders and a four-year plan - how England won World Cup",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/crly54evvvv4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England's triumph at the Wheelchair Rugby League World Cup was built on an aggressive approach by head coach Tom Coyd - which included encouraging his players to see themselves like sharks.",
-        "publishedAt": "2026-11-13T15:49:30.000Z",
+        "description": "Aryna Sabalenka's season ends in disappointment as Elina Svitolina beats the former world number one to claim her place in the knockout stage at the WTA Finals.",
+        "publishedAt": "2026-11-14T00:51:25.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2498,6 +2498,17 @@
         "zone": "in"
       },
       {
+        "title": "Warner accuses Cricket Australia of 'cover-up'",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Former vice-captain David Warner accuses Cricket Australia of a \"cover-up\", claiming Australia's bowlers were not interviewed in ball-tampering investigation.",
+        "publishedAt": "2026-11-14T07:20:24.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "France hold nerve to edge past South Africa in thriller",
         "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2505,6 +2516,17 @@
         },
         "description": "France hold on to end their five-match losing run against South Africa at Stade de France with an enthralling 21-19 victory in Paris.",
         "publishedAt": "2026-11-13T23:03:36.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "How a reunion with scout Bompastor solved Chelsea's striker issue",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5lyey8p8yv4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Chelsea striker Melvine Malard and manager Sonia Bompastor tell the story of their 12-year footballing relationship.",
+        "publishedAt": "2026-11-14T06:37:49.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2531,46 +2553,24 @@
         "zone": "in"
       },
       {
-        "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili brawl",
-        "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cm3wgpl28yzgo?at_medium=RSS&at_campaign=rss",
+        "title": "The challenge that brought Nunes out of retirement",
+        "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c6e3dw87pyjeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Eight people face prison sentences for their part in mass brawl involving MMA fighters Usman Nurmagomedov and Merab Dvalishvili at a hotel in Abu Dhabi on Wednesday.",
-        "publishedAt": "2026-11-13T17:15:52.000Z",
+        "description": "Amanda Nunes says the prospect of fighting Kayla Harrison and putting women's MMA back in the spotlight convinced her to come out of retirement to fight at UFC 334 on Saturday.",
+        "publishedAt": "2026-11-14T07:00:15.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
+        "title": "Sabalenka's season ended by Svitolina at WTA Finals",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cw30gl912vq9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
-        "publishedAt": "2026-11-13T22:11:27.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "'Gloves are off' - how Australian papers reacted to Cummins on Khawaja",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cq1k97y4e1rxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Australian newpapers have their say after Pat Cummins' extraordinary 68-minute news conference.",
-        "publishedAt": "2026-11-13T21:53:37.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Sharks, ladders and a four-year plan - how England won World Cup",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/crly54evvvv4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England's triumph at the Wheelchair Rugby League World Cup was built on an aggressive approach by head coach Tom Coyd - which included encouraging his players to see themselves like sharks.",
-        "publishedAt": "2026-11-13T15:49:30.000Z",
+        "description": "Aryna Sabalenka's season ends in disappointment as Elina Svitolina beats the former world number one to claim her place in the knockout stage at the WTA Finals.",
+        "publishedAt": "2026-11-14T00:51:25.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2590,6 +2590,17 @@
         "zone": "au"
       },
       {
+        "title": "Warner accuses Cricket Australia of 'cover-up'",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Former vice-captain David Warner accuses Cricket Australia of a \"cover-up\", claiming Australia's bowlers were not interviewed in ball-tampering investigation.",
+        "publishedAt": "2026-11-14T07:20:24.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "France hold nerve to edge past South Africa in thriller",
         "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2597,6 +2608,17 @@
         },
         "description": "France hold on to end their five-match losing run against South Africa at Stade de France with an enthralling 21-19 victory in Paris.",
         "publishedAt": "2026-11-13T23:03:36.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "How a reunion with scout Bompastor solved Chelsea's striker issue",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5lyey8p8yv4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Chelsea striker Melvine Malard and manager Sonia Bompastor tell the story of their 12-year footballing relationship.",
+        "publishedAt": "2026-11-14T06:37:49.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2623,46 +2645,24 @@
         "zone": "au"
       },
       {
-        "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili brawl",
-        "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cm3wgpl28yzgo?at_medium=RSS&at_campaign=rss",
+        "title": "The challenge that brought Nunes out of retirement",
+        "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c6e3dw87pyjeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Eight people face prison sentences for their part in mass brawl involving MMA fighters Usman Nurmagomedov and Merab Dvalishvili at a hotel in Abu Dhabi on Wednesday.",
-        "publishedAt": "2026-11-13T17:15:52.000Z",
+        "description": "Amanda Nunes says the prospect of fighting Kayla Harrison and putting women's MMA back in the spotlight convinced her to come out of retirement to fight at UFC 334 on Saturday.",
+        "publishedAt": "2026-11-14T07:00:15.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
+        "title": "Sabalenka's season ended by Svitolina at WTA Finals",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cw30gl912vq9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
-        "publishedAt": "2026-11-13T22:11:27.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "'Gloves are off' - how Australian papers reacted to Cummins on Khawaja",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cq1k97y4e1rxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Australian newpapers have their say after Pat Cummins' extraordinary 68-minute news conference.",
-        "publishedAt": "2026-11-13T21:53:37.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Sharks, ladders and a four-year plan - how England won World Cup",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/crly54evvvv4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England's triumph at the Wheelchair Rugby League World Cup was built on an aggressive approach by head coach Tom Coyd - which included encouraging his players to see themselves like sharks.",
-        "publishedAt": "2026-11-13T15:49:30.000Z",
+        "description": "Aryna Sabalenka's season ends in disappointment as Elina Svitolina beats the former world number one to claim her place in the knockout stage at the WTA Finals.",
+        "publishedAt": "2026-11-14T00:51:25.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2682,6 +2682,17 @@
         "zone": "ca"
       },
       {
+        "title": "Warner accuses Cricket Australia of 'cover-up'",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Former vice-captain David Warner accuses Cricket Australia of a \"cover-up\", claiming Australia's bowlers were not interviewed in ball-tampering investigation.",
+        "publishedAt": "2026-11-14T07:20:24.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "France hold nerve to edge past South Africa in thriller",
         "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2689,6 +2700,17 @@
         },
         "description": "France hold on to end their five-match losing run against South Africa at Stade de France with an enthralling 21-19 victory in Paris.",
         "publishedAt": "2026-11-13T23:03:36.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "How a reunion with scout Bompastor solved Chelsea's striker issue",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5lyey8p8yv4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Chelsea striker Melvine Malard and manager Sonia Bompastor tell the story of their 12-year footballing relationship.",
+        "publishedAt": "2026-11-14T06:37:49.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2715,46 +2737,24 @@
         "zone": "ca"
       },
       {
-        "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili brawl",
-        "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cm3wgpl28yzgo?at_medium=RSS&at_campaign=rss",
+        "title": "The challenge that brought Nunes out of retirement",
+        "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c6e3dw87pyjeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Eight people face prison sentences for their part in mass brawl involving MMA fighters Usman Nurmagomedov and Merab Dvalishvili at a hotel in Abu Dhabi on Wednesday.",
-        "publishedAt": "2026-11-13T17:15:52.000Z",
+        "description": "Amanda Nunes says the prospect of fighting Kayla Harrison and putting women's MMA back in the spotlight convinced her to come out of retirement to fight at UFC 334 on Saturday.",
+        "publishedAt": "2026-11-14T07:00:15.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
+        "title": "Sabalenka's season ended by Svitolina at WTA Finals",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cw30gl912vq9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
-        "publishedAt": "2026-11-13T22:11:27.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "'Gloves are off' - how Australian papers reacted to Cummins on Khawaja",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cq1k97y4e1rxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Australian newpapers have their say after Pat Cummins' extraordinary 68-minute news conference.",
-        "publishedAt": "2026-11-13T21:53:37.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Sharks, ladders and a four-year plan - how England won World Cup",
-        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/crly54evvvv4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "England's triumph at the Wheelchair Rugby League World Cup was built on an aggressive approach by head coach Tom Coyd - which included encouraging his players to see themselves like sharks.",
-        "publishedAt": "2026-11-13T15:49:30.000Z",
+        "description": "Aryna Sabalenka's season ends in disappointment as Elina Svitolina beats the former world number one to claim her place in the knockout stage at the WTA Finals.",
+        "publishedAt": "2026-11-14T00:51:25.000Z",
         "category": "sports",
         "zone": "ca"
       }
@@ -2762,6 +2762,17 @@
   },
   "technology_us": {
     "articles": [
+      {
+        "title": "Microsoft says services fully restored after for day-long global outage",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "publishedAt": "2026-11-14T06:42:27.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
       {
         "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
         "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
@@ -2792,17 +2803,6 @@
         },
         "description": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
         "publishedAt": "2026-11-13T21:15:41.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-        "publishedAt": "2026-11-13T21:14:22.000Z",
         "category": "technology",
         "zone": "us"
       },
@@ -2855,6 +2855,17 @@
   "technology_gb": {
     "articles": [
       {
+        "title": "Microsoft says services fully restored after for day-long global outage",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "publishedAt": "2026-11-14T06:42:27.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
         "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
         "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2884,17 +2895,6 @@
         },
         "description": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
         "publishedAt": "2026-11-13T21:15:41.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-        "publishedAt": "2026-11-13T21:14:22.000Z",
         "category": "technology",
         "zone": "gb"
       },
@@ -2947,6 +2947,17 @@
   "technology_in": {
     "articles": [
       {
+        "title": "Microsoft says services fully restored after for day-long global outage",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "publishedAt": "2026-11-14T06:42:27.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
         "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
         "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2976,17 +2987,6 @@
         },
         "description": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
         "publishedAt": "2026-11-13T21:15:41.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-        "publishedAt": "2026-11-13T21:14:22.000Z",
         "category": "technology",
         "zone": "in"
       },
@@ -3039,6 +3039,17 @@
   "technology_au": {
     "articles": [
       {
+        "title": "Microsoft says services fully restored after for day-long global outage",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "publishedAt": "2026-11-14T06:42:27.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
         "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
         "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3068,17 +3079,6 @@
         },
         "description": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
         "publishedAt": "2026-11-13T21:15:41.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-        "publishedAt": "2026-11-13T21:14:22.000Z",
         "category": "technology",
         "zone": "au"
       },
@@ -3131,6 +3131,17 @@
   "technology_ca": {
     "articles": [
       {
+        "title": "Microsoft says services fully restored after for day-long global outage",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "publishedAt": "2026-11-14T06:42:27.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
         "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
         "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3160,17 +3171,6 @@
         },
         "description": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
         "publishedAt": "2026-11-13T21:15:41.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-        "publishedAt": "2026-11-13T21:14:22.000Z",
         "category": "technology",
         "zone": "ca"
       },
