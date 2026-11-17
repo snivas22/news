@@ -1,15 +1,70 @@
 {
-  "generatedAt": "2026-11-17T08:52:52.247Z",
+  "generatedAt": "2026-11-17T18:15:01.356Z",
   "general_us": {
     "articles": [
       {
-        "title": "The young people caught up in Britain's Neets crisis",
-        "url": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
+        "title": "'Can I really do this?': Neets speak to BBC about struggling to get a job",
+        "url": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or training.",
-        "publishedAt": "2026-11-17T00:06:34.000Z",
+        "description": "A government-backed review has proposed wide-ranging measures to help get young people into work - but what do young people think?",
+        "publishedAt": "2026-11-17T17:35:22.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+        "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+        "publishedAt": "2026-11-17T17:42:26.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+        "publishedAt": "2026-11-17T16:56:38.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "BBC reports from Kyiv bridge hit by Russian attack",
+        "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
+        "publishedAt": "2026-11-17T15:54:15.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Rooney says he considered taking his own life at Man Utd",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+        "publishedAt": "2026-11-17T14:09:19.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+        "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+        "publishedAt": "2026-11-17T17:25:23.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -25,68 +80,13 @@
         "zone": "us"
       },
       {
-        "title": "Watch: Predatory Met detective's behaviour became increasingly extreme",
-        "url": "https://www.bbc.co.uk/news/videos/cqlymxe49g30o?at_medium=RSS&at_campaign=rss",
+        "title": "UK sanctions firms over Israeli West Bank settlements",
+        "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Metropolitan Police repeatedly missed opportunities to stop det insp Warren Arter, BBC Panorama has found.",
-        "publishedAt": "2026-11-17T07:10:08.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Cass report author says she does not support draft conversion practices bill",
-        "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
-        "publishedAt": "2026-11-16T22:08:03.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
-        "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
-        "publishedAt": "2026-11-17T08:06:32.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
-        "url": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
-        "publishedAt": "2026-11-17T08:01:38.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Failed asylum seekers face removal without five-day notice period",
-        "url": "https://www.bbc.co.uk/news/articles/cq20xnp2egm8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Under proposed new rules, the Home Office would have six months in which to remove a person without telling them in advance.",
-        "publishedAt": "2026-11-17T01:24:49.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-        "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-        "publishedAt": "2026-11-17T05:59:01.000Z",
+        "description": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+        "publishedAt": "2026-11-17T17:41:49.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,13 +95,68 @@
   "general_gb": {
     "articles": [
       {
-        "title": "The young people caught up in Britain's Neets crisis",
-        "url": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
+        "title": "'Can I really do this?': Neets speak to BBC about struggling to get a job",
+        "url": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or training.",
-        "publishedAt": "2026-11-17T00:06:34.000Z",
+        "description": "A government-backed review has proposed wide-ranging measures to help get young people into work - but what do young people think?",
+        "publishedAt": "2026-11-17T17:35:22.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+        "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+        "publishedAt": "2026-11-17T17:42:26.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+        "publishedAt": "2026-11-17T16:56:38.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "BBC reports from Kyiv bridge hit by Russian attack",
+        "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
+        "publishedAt": "2026-11-17T15:54:15.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Rooney says he considered taking his own life at Man Utd",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+        "publishedAt": "2026-11-17T14:09:19.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+        "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+        "publishedAt": "2026-11-17T17:25:23.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -117,68 +172,13 @@
         "zone": "gb"
       },
       {
-        "title": "Watch: Predatory Met detective's behaviour became increasingly extreme",
-        "url": "https://www.bbc.co.uk/news/videos/cqlymxe49g30o?at_medium=RSS&at_campaign=rss",
+        "title": "UK sanctions firms over Israeli West Bank settlements",
+        "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Metropolitan Police repeatedly missed opportunities to stop det insp Warren Arter, BBC Panorama has found.",
-        "publishedAt": "2026-11-17T07:10:08.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Cass report author says she does not support draft conversion practices bill",
-        "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
-        "publishedAt": "2026-11-16T22:08:03.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
-        "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
-        "publishedAt": "2026-11-17T08:06:32.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
-        "url": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
-        "publishedAt": "2026-11-17T08:01:38.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Failed asylum seekers face removal without five-day notice period",
-        "url": "https://www.bbc.co.uk/news/articles/cq20xnp2egm8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Under proposed new rules, the Home Office would have six months in which to remove a person without telling them in advance.",
-        "publishedAt": "2026-11-17T01:24:49.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-        "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-        "publishedAt": "2026-11-17T05:59:01.000Z",
+        "description": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+        "publishedAt": "2026-11-17T17:41:49.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,13 +187,68 @@
   "general_in": {
     "articles": [
       {
-        "title": "The young people caught up in Britain's Neets crisis",
-        "url": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
+        "title": "'Can I really do this?': Neets speak to BBC about struggling to get a job",
+        "url": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or training.",
-        "publishedAt": "2026-11-17T00:06:34.000Z",
+        "description": "A government-backed review has proposed wide-ranging measures to help get young people into work - but what do young people think?",
+        "publishedAt": "2026-11-17T17:35:22.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+        "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+        "publishedAt": "2026-11-17T17:42:26.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+        "publishedAt": "2026-11-17T16:56:38.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "BBC reports from Kyiv bridge hit by Russian attack",
+        "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
+        "publishedAt": "2026-11-17T15:54:15.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Rooney says he considered taking his own life at Man Utd",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+        "publishedAt": "2026-11-17T14:09:19.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+        "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+        "publishedAt": "2026-11-17T17:25:23.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -209,68 +264,13 @@
         "zone": "in"
       },
       {
-        "title": "Watch: Predatory Met detective's behaviour became increasingly extreme",
-        "url": "https://www.bbc.co.uk/news/videos/cqlymxe49g30o?at_medium=RSS&at_campaign=rss",
+        "title": "UK sanctions firms over Israeli West Bank settlements",
+        "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Metropolitan Police repeatedly missed opportunities to stop det insp Warren Arter, BBC Panorama has found.",
-        "publishedAt": "2026-11-17T07:10:08.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Cass report author says she does not support draft conversion practices bill",
-        "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
-        "publishedAt": "2026-11-16T22:08:03.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
-        "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
-        "publishedAt": "2026-11-17T08:06:32.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
-        "url": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
-        "publishedAt": "2026-11-17T08:01:38.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Failed asylum seekers face removal without five-day notice period",
-        "url": "https://www.bbc.co.uk/news/articles/cq20xnp2egm8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Under proposed new rules, the Home Office would have six months in which to remove a person without telling them in advance.",
-        "publishedAt": "2026-11-17T01:24:49.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-        "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-        "publishedAt": "2026-11-17T05:59:01.000Z",
+        "description": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+        "publishedAt": "2026-11-17T17:41:49.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,13 +279,68 @@
   "general_au": {
     "articles": [
       {
-        "title": "The young people caught up in Britain's Neets crisis",
-        "url": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
+        "title": "'Can I really do this?': Neets speak to BBC about struggling to get a job",
+        "url": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or training.",
-        "publishedAt": "2026-11-17T00:06:34.000Z",
+        "description": "A government-backed review has proposed wide-ranging measures to help get young people into work - but what do young people think?",
+        "publishedAt": "2026-11-17T17:35:22.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+        "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+        "publishedAt": "2026-11-17T17:42:26.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+        "publishedAt": "2026-11-17T16:56:38.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "BBC reports from Kyiv bridge hit by Russian attack",
+        "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
+        "publishedAt": "2026-11-17T15:54:15.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Rooney says he considered taking his own life at Man Utd",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+        "publishedAt": "2026-11-17T14:09:19.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+        "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+        "publishedAt": "2026-11-17T17:25:23.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -301,68 +356,13 @@
         "zone": "au"
       },
       {
-        "title": "Watch: Predatory Met detective's behaviour became increasingly extreme",
-        "url": "https://www.bbc.co.uk/news/videos/cqlymxe49g30o?at_medium=RSS&at_campaign=rss",
+        "title": "UK sanctions firms over Israeli West Bank settlements",
+        "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Metropolitan Police repeatedly missed opportunities to stop det insp Warren Arter, BBC Panorama has found.",
-        "publishedAt": "2026-11-17T07:10:08.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Cass report author says she does not support draft conversion practices bill",
-        "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
-        "publishedAt": "2026-11-16T22:08:03.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
-        "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
-        "publishedAt": "2026-11-17T08:06:32.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
-        "url": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
-        "publishedAt": "2026-11-17T08:01:38.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Failed asylum seekers face removal without five-day notice period",
-        "url": "https://www.bbc.co.uk/news/articles/cq20xnp2egm8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Under proposed new rules, the Home Office would have six months in which to remove a person without telling them in advance.",
-        "publishedAt": "2026-11-17T01:24:49.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-        "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-        "publishedAt": "2026-11-17T05:59:01.000Z",
+        "description": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+        "publishedAt": "2026-11-17T17:41:49.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,13 +371,68 @@
   "general_ca": {
     "articles": [
       {
-        "title": "The young people caught up in Britain's Neets crisis",
-        "url": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
+        "title": "'Can I really do this?': Neets speak to BBC about struggling to get a job",
+        "url": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or training.",
-        "publishedAt": "2026-11-17T00:06:34.000Z",
+        "description": "A government-backed review has proposed wide-ranging measures to help get young people into work - but what do young people think?",
+        "publishedAt": "2026-11-17T17:35:22.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+        "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+        "publishedAt": "2026-11-17T17:42:26.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+        "publishedAt": "2026-11-17T16:56:38.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "BBC reports from Kyiv bridge hit by Russian attack",
+        "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
+        "publishedAt": "2026-11-17T15:54:15.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Rooney says he considered taking his own life at Man Utd",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+        "publishedAt": "2026-11-17T14:09:19.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+        "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+        "publishedAt": "2026-11-17T17:25:23.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -393,68 +448,13 @@
         "zone": "ca"
       },
       {
-        "title": "Watch: Predatory Met detective's behaviour became increasingly extreme",
-        "url": "https://www.bbc.co.uk/news/videos/cqlymxe49g30o?at_medium=RSS&at_campaign=rss",
+        "title": "UK sanctions firms over Israeli West Bank settlements",
+        "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Metropolitan Police repeatedly missed opportunities to stop det insp Warren Arter, BBC Panorama has found.",
-        "publishedAt": "2026-11-17T07:10:08.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Cass report author says she does not support draft conversion practices bill",
-        "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
-        "publishedAt": "2026-11-16T22:08:03.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
-        "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
-        "publishedAt": "2026-11-17T08:06:32.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
-        "url": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
-        "publishedAt": "2026-11-17T08:01:38.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Failed asylum seekers face removal without five-day notice period",
-        "url": "https://www.bbc.co.uk/news/articles/cq20xnp2egm8o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Under proposed new rules, the Home Office would have six months in which to remove a person without telling them in advance.",
-        "publishedAt": "2026-11-17T01:24:49.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-        "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-        "publishedAt": "2026-11-17T05:59:01.000Z",
+        "description": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+        "publishedAt": "2026-11-17T17:41:49.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -463,24 +463,46 @@
   "business_us": {
     "articles": [
       {
-        "title": "Which areas have the most jobs for 16-24 year-olds? Use our look-up to find out",
+        "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+        "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+        "publishedAt": "2026-11-17T17:42:26.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+        "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+        "publishedAt": "2026-11-17T15:56:04.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Where are the most jobs for 18-24 year-olds?",
         "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
-        "publishedAt": "2026-11-17T07:21:37.000Z",
+        "publishedAt": "2026-11-17T12:35:53.000Z",
         "category": "business",
         "zone": "us"
       },
       {
-        "title": "OpenAI sued by California over Hugging Face attack",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+        "title": "Speed camera fault may have allowed drivers to escape fines",
+        "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
-        "publishedAt": "2026-11-16T23:12:24.000Z",
+        "description": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+        "publishedAt": "2026-11-17T15:08:48.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -496,57 +518,35 @@
         "zone": "us"
       },
       {
-        "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+        "title": "How new US chip restrictions on South East Asia will hit China",
+        "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-        "publishedAt": "2026-11-17T02:37:53.000Z",
+        "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+        "publishedAt": "2026-11-17T14:25:45.000Z",
         "category": "business",
         "zone": "us"
       },
       {
-        "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-        "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+        "title": "US government confirms investigation into tech firm Megaspeed",
+        "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
-        "publishedAt": "2026-11-16T13:19:33.000Z",
+        "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+        "publishedAt": "2026-11-17T11:17:32.000Z",
         "category": "business",
         "zone": "us"
       },
       {
-        "title": "Customers report service outages at major US banks",
-        "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+        "title": "Government must act now or lose Royal Mail, former minister warns",
+        "url": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-        "publishedAt": "2026-11-17T00:18:01.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-        "publishedAt": "2026-11-16T15:40:16.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Gas starts flowing from Jackdaw after government green light",
-        "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
-        "publishedAt": "2026-11-16T06:24:08.000Z",
+        "description": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
+        "publishedAt": "2026-11-17T12:43:07.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,24 +555,46 @@
   "business_gb": {
     "articles": [
       {
-        "title": "Which areas have the most jobs for 16-24 year-olds? Use our look-up to find out",
+        "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+        "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+        "publishedAt": "2026-11-17T17:42:26.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+        "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+        "publishedAt": "2026-11-17T15:56:04.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Where are the most jobs for 18-24 year-olds?",
         "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
-        "publishedAt": "2026-11-17T07:21:37.000Z",
+        "publishedAt": "2026-11-17T12:35:53.000Z",
         "category": "business",
         "zone": "gb"
       },
       {
-        "title": "OpenAI sued by California over Hugging Face attack",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+        "title": "Speed camera fault may have allowed drivers to escape fines",
+        "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
-        "publishedAt": "2026-11-16T23:12:24.000Z",
+        "description": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+        "publishedAt": "2026-11-17T15:08:48.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -588,57 +610,35 @@
         "zone": "gb"
       },
       {
-        "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+        "title": "How new US chip restrictions on South East Asia will hit China",
+        "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-        "publishedAt": "2026-11-17T02:37:53.000Z",
+        "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+        "publishedAt": "2026-11-17T14:25:45.000Z",
         "category": "business",
         "zone": "gb"
       },
       {
-        "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-        "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+        "title": "US government confirms investigation into tech firm Megaspeed",
+        "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
-        "publishedAt": "2026-11-16T13:19:33.000Z",
+        "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+        "publishedAt": "2026-11-17T11:17:32.000Z",
         "category": "business",
         "zone": "gb"
       },
       {
-        "title": "Customers report service outages at major US banks",
-        "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+        "title": "Government must act now or lose Royal Mail, former minister warns",
+        "url": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-        "publishedAt": "2026-11-17T00:18:01.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-        "publishedAt": "2026-11-16T15:40:16.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Gas starts flowing from Jackdaw after government green light",
-        "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
-        "publishedAt": "2026-11-16T06:24:08.000Z",
+        "description": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
+        "publishedAt": "2026-11-17T12:43:07.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,24 +647,46 @@
   "business_in": {
     "articles": [
       {
-        "title": "Which areas have the most jobs for 16-24 year-olds? Use our look-up to find out",
+        "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+        "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+        "publishedAt": "2026-11-17T17:42:26.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+        "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+        "publishedAt": "2026-11-17T15:56:04.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Where are the most jobs for 18-24 year-olds?",
         "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
-        "publishedAt": "2026-11-17T07:21:37.000Z",
+        "publishedAt": "2026-11-17T12:35:53.000Z",
         "category": "business",
         "zone": "in"
       },
       {
-        "title": "OpenAI sued by California over Hugging Face attack",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+        "title": "Speed camera fault may have allowed drivers to escape fines",
+        "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
-        "publishedAt": "2026-11-16T23:12:24.000Z",
+        "description": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+        "publishedAt": "2026-11-17T15:08:48.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -680,57 +702,35 @@
         "zone": "in"
       },
       {
-        "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+        "title": "How new US chip restrictions on South East Asia will hit China",
+        "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-        "publishedAt": "2026-11-17T02:37:53.000Z",
+        "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+        "publishedAt": "2026-11-17T14:25:45.000Z",
         "category": "business",
         "zone": "in"
       },
       {
-        "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-        "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+        "title": "US government confirms investigation into tech firm Megaspeed",
+        "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
-        "publishedAt": "2026-11-16T13:19:33.000Z",
+        "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+        "publishedAt": "2026-11-17T11:17:32.000Z",
         "category": "business",
         "zone": "in"
       },
       {
-        "title": "Customers report service outages at major US banks",
-        "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+        "title": "Government must act now or lose Royal Mail, former minister warns",
+        "url": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-        "publishedAt": "2026-11-17T00:18:01.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-        "publishedAt": "2026-11-16T15:40:16.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Gas starts flowing from Jackdaw after government green light",
-        "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
-        "publishedAt": "2026-11-16T06:24:08.000Z",
+        "description": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
+        "publishedAt": "2026-11-17T12:43:07.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,24 +739,46 @@
   "business_au": {
     "articles": [
       {
-        "title": "Which areas have the most jobs for 16-24 year-olds? Use our look-up to find out",
+        "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+        "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+        "publishedAt": "2026-11-17T17:42:26.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+        "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+        "publishedAt": "2026-11-17T15:56:04.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Where are the most jobs for 18-24 year-olds?",
         "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
-        "publishedAt": "2026-11-17T07:21:37.000Z",
+        "publishedAt": "2026-11-17T12:35:53.000Z",
         "category": "business",
         "zone": "au"
       },
       {
-        "title": "OpenAI sued by California over Hugging Face attack",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+        "title": "Speed camera fault may have allowed drivers to escape fines",
+        "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
-        "publishedAt": "2026-11-16T23:12:24.000Z",
+        "description": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+        "publishedAt": "2026-11-17T15:08:48.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -772,57 +794,35 @@
         "zone": "au"
       },
       {
-        "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+        "title": "How new US chip restrictions on South East Asia will hit China",
+        "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-        "publishedAt": "2026-11-17T02:37:53.000Z",
+        "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+        "publishedAt": "2026-11-17T14:25:45.000Z",
         "category": "business",
         "zone": "au"
       },
       {
-        "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-        "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+        "title": "US government confirms investigation into tech firm Megaspeed",
+        "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
-        "publishedAt": "2026-11-16T13:19:33.000Z",
+        "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+        "publishedAt": "2026-11-17T11:17:32.000Z",
         "category": "business",
         "zone": "au"
       },
       {
-        "title": "Customers report service outages at major US banks",
-        "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+        "title": "Government must act now or lose Royal Mail, former minister warns",
+        "url": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-        "publishedAt": "2026-11-17T00:18:01.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-        "publishedAt": "2026-11-16T15:40:16.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Gas starts flowing from Jackdaw after government green light",
-        "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
-        "publishedAt": "2026-11-16T06:24:08.000Z",
+        "description": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
+        "publishedAt": "2026-11-17T12:43:07.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,24 +831,46 @@
   "business_ca": {
     "articles": [
       {
-        "title": "Which areas have the most jobs for 16-24 year-olds? Use our look-up to find out",
+        "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+        "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+        "publishedAt": "2026-11-17T17:42:26.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+        "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+        "publishedAt": "2026-11-17T15:56:04.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Where are the most jobs for 18-24 year-olds?",
         "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
-        "publishedAt": "2026-11-17T07:21:37.000Z",
+        "publishedAt": "2026-11-17T12:35:53.000Z",
         "category": "business",
         "zone": "ca"
       },
       {
-        "title": "OpenAI sued by California over Hugging Face attack",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+        "title": "Speed camera fault may have allowed drivers to escape fines",
+        "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
-        "publishedAt": "2026-11-16T23:12:24.000Z",
+        "description": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+        "publishedAt": "2026-11-17T15:08:48.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -864,57 +886,35 @@
         "zone": "ca"
       },
       {
-        "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+        "title": "How new US chip restrictions on South East Asia will hit China",
+        "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-        "publishedAt": "2026-11-17T02:37:53.000Z",
+        "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+        "publishedAt": "2026-11-17T14:25:45.000Z",
         "category": "business",
         "zone": "ca"
       },
       {
-        "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-        "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+        "title": "US government confirms investigation into tech firm Megaspeed",
+        "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
-        "publishedAt": "2026-11-16T13:19:33.000Z",
+        "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+        "publishedAt": "2026-11-17T11:17:32.000Z",
         "category": "business",
         "zone": "ca"
       },
       {
-        "title": "Customers report service outages at major US banks",
-        "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+        "title": "Government must act now or lose Royal Mail, former minister warns",
+        "url": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-        "publishedAt": "2026-11-17T00:18:01.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-        "publishedAt": "2026-11-16T15:40:16.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Gas starts flowing from Jackdaw after government green light",
-        "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
-        "publishedAt": "2026-11-16T06:24:08.000Z",
+        "description": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
+        "publishedAt": "2026-11-17T12:43:07.000Z",
         "category": "business",
         "zone": "ca"
       }
@@ -923,6 +923,50 @@
   "entertainment_us": {
     "articles": [
       {
+        "title": "Batman to James Bond: The clues about what to expect from Robert Pattinson's 007",
+        "url": "https://www.bbc.co.uk/news/articles/c8x2r6gyy2pzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "What can Robert Pattinson's past movie roles tell us about what he might be like as James Bond?",
+        "publishedAt": "2026-11-17T13:15:38.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Channel 4 admits it doesn't know number of Married At First Sight UK sex abuse complaints",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2xvdpy2ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "C4's chief executive is questioned by MPs after a string of allegations were made about the show.",
+        "publishedAt": "2026-11-17T13:43:49.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
+        "url": "https://www.bbc.co.uk/news/articles/c9vg2xgn0xe5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Sunrise on the Reaping, the franchise's sixth film, is both criticised and praised by film critics.",
+        "publishedAt": "2026-11-17T17:57:56.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Brad Pitt and Florence Pugh pitch for James Bond villain role",
+        "url": "https://www.bbc.co.uk/news/articles/cq4gnpgl0zkxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The two A-list stars throw their hats into the ring to be the villain facing Robert Pattinson's 007.",
+        "publishedAt": "2026-11-17T16:42:49.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
         "title": "Robert Pattinson to replace Daniel Craig as James Bond",
         "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -934,13 +978,13 @@
         "zone": "us"
       },
       {
-        "title": "Robert Pattinson: How the Twilight star became 007",
-        "url": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
+        "title": "Woman who accuses Russell Brand of rape says prison message 'upsetting'",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg27zyrd99o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
-        "publishedAt": "2026-11-16T15:02:41.000Z",
+        "description": "Mia Latter spoke to the BBC after the jailed comedian claimed he was innocent of offences against four other women, in comments on a podcast following his convction.",
+        "publishedAt": "2026-11-17T10:11:00.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -956,57 +1000,13 @@
         "zone": "us"
       },
       {
-        "title": "James Bond: What we know so far about the next 007 film",
-        "url": "https://www.bbc.co.uk/news/articles/ck79p0lev47po?at_medium=RSS&at_campaign=rss",
+        "title": "'Look who it isnae' - Still Game set to return as stage show",
+        "url": "https://www.bbc.co.uk/news/articles/cky97qpge70po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig.",
-        "publishedAt": "2026-11-16T15:46:45.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Emma Barnett to leave Radio 4's Today for new BBC show",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrgw2p52l5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Barnett, who has presented Today and Woman's Hour, will front a multiplatform show in the New Year.",
-        "publishedAt": "2026-11-16T17:46:12.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
-        "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was \"not guilty of the offences I have been jailed for\".",
-        "publishedAt": "2026-11-16T18:22:22.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Sir Tom Jones announces homecoming gigs after cancelling shows due to flu",
-        "url": "https://www.bbc.co.uk/news/articles/cr20ve1l4x9vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Sir Tom will return to perform in Wales next year after \"a bad case of flu\" disrupted his US shows.",
-        "publishedAt": "2026-11-16T17:17:40.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Brand moved from Wandsworth to category C prison, his wife confirms on podcast",
-        "url": "https://www.bbc.co.uk/news/articles/cm7024p1ded3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The convicted rapist has been moved to HMP Littlehey, which houses sex offenders.",
-        "publishedAt": "2026-11-16T10:03:24.000Z",
+        "description": "Still Game Live: Heaven Sent will run for 10 shows at the Ovo Hydro in Glasgow in 2028.",
+        "publishedAt": "2026-11-17T06:17:40.000Z",
         "category": "entertainment",
         "zone": "us"
       }
@@ -1015,6 +1015,50 @@
   "entertainment_gb": {
     "articles": [
       {
+        "title": "Batman to James Bond: The clues about what to expect from Robert Pattinson's 007",
+        "url": "https://www.bbc.co.uk/news/articles/c8x2r6gyy2pzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "What can Robert Pattinson's past movie roles tell us about what he might be like as James Bond?",
+        "publishedAt": "2026-11-17T13:15:38.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Channel 4 admits it doesn't know number of Married At First Sight UK sex abuse complaints",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2xvdpy2ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "C4's chief executive is questioned by MPs after a string of allegations were made about the show.",
+        "publishedAt": "2026-11-17T13:43:49.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
+        "url": "https://www.bbc.co.uk/news/articles/c9vg2xgn0xe5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Sunrise on the Reaping, the franchise's sixth film, is both criticised and praised by film critics.",
+        "publishedAt": "2026-11-17T17:57:56.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Brad Pitt and Florence Pugh pitch for James Bond villain role",
+        "url": "https://www.bbc.co.uk/news/articles/cq4gnpgl0zkxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The two A-list stars throw their hats into the ring to be the villain facing Robert Pattinson's 007.",
+        "publishedAt": "2026-11-17T16:42:49.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
         "title": "Robert Pattinson to replace Daniel Craig as James Bond",
         "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1026,13 +1070,13 @@
         "zone": "gb"
       },
       {
-        "title": "Robert Pattinson: How the Twilight star became 007",
-        "url": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
+        "title": "Woman who accuses Russell Brand of rape says prison message 'upsetting'",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg27zyrd99o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
-        "publishedAt": "2026-11-16T15:02:41.000Z",
+        "description": "Mia Latter spoke to the BBC after the jailed comedian claimed he was innocent of offences against four other women, in comments on a podcast following his convction.",
+        "publishedAt": "2026-11-17T10:11:00.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1048,57 +1092,13 @@
         "zone": "gb"
       },
       {
-        "title": "James Bond: What we know so far about the next 007 film",
-        "url": "https://www.bbc.co.uk/news/articles/ck79p0lev47po?at_medium=RSS&at_campaign=rss",
+        "title": "'Look who it isnae' - Still Game set to return as stage show",
+        "url": "https://www.bbc.co.uk/news/articles/cky97qpge70po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig.",
-        "publishedAt": "2026-11-16T15:46:45.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Emma Barnett to leave Radio 4's Today for new BBC show",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrgw2p52l5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Barnett, who has presented Today and Woman's Hour, will front a multiplatform show in the New Year.",
-        "publishedAt": "2026-11-16T17:46:12.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
-        "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was \"not guilty of the offences I have been jailed for\".",
-        "publishedAt": "2026-11-16T18:22:22.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Sir Tom Jones announces homecoming gigs after cancelling shows due to flu",
-        "url": "https://www.bbc.co.uk/news/articles/cr20ve1l4x9vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Sir Tom will return to perform in Wales next year after \"a bad case of flu\" disrupted his US shows.",
-        "publishedAt": "2026-11-16T17:17:40.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Brand moved from Wandsworth to category C prison, his wife confirms on podcast",
-        "url": "https://www.bbc.co.uk/news/articles/cm7024p1ded3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The convicted rapist has been moved to HMP Littlehey, which houses sex offenders.",
-        "publishedAt": "2026-11-16T10:03:24.000Z",
+        "description": "Still Game Live: Heaven Sent will run for 10 shows at the Ovo Hydro in Glasgow in 2028.",
+        "publishedAt": "2026-11-17T06:17:40.000Z",
         "category": "entertainment",
         "zone": "gb"
       }
@@ -1107,6 +1107,50 @@
   "entertainment_in": {
     "articles": [
       {
+        "title": "Batman to James Bond: The clues about what to expect from Robert Pattinson's 007",
+        "url": "https://www.bbc.co.uk/news/articles/c8x2r6gyy2pzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "What can Robert Pattinson's past movie roles tell us about what he might be like as James Bond?",
+        "publishedAt": "2026-11-17T13:15:38.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Channel 4 admits it doesn't know number of Married At First Sight UK sex abuse complaints",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2xvdpy2ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "C4's chief executive is questioned by MPs after a string of allegations were made about the show.",
+        "publishedAt": "2026-11-17T13:43:49.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
+        "url": "https://www.bbc.co.uk/news/articles/c9vg2xgn0xe5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Sunrise on the Reaping, the franchise's sixth film, is both criticised and praised by film critics.",
+        "publishedAt": "2026-11-17T17:57:56.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Brad Pitt and Florence Pugh pitch for James Bond villain role",
+        "url": "https://www.bbc.co.uk/news/articles/cq4gnpgl0zkxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The two A-list stars throw their hats into the ring to be the villain facing Robert Pattinson's 007.",
+        "publishedAt": "2026-11-17T16:42:49.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
         "title": "Robert Pattinson to replace Daniel Craig as James Bond",
         "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1118,13 +1162,13 @@
         "zone": "in"
       },
       {
-        "title": "Robert Pattinson: How the Twilight star became 007",
-        "url": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
+        "title": "Woman who accuses Russell Brand of rape says prison message 'upsetting'",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg27zyrd99o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
-        "publishedAt": "2026-11-16T15:02:41.000Z",
+        "description": "Mia Latter spoke to the BBC after the jailed comedian claimed he was innocent of offences against four other women, in comments on a podcast following his convction.",
+        "publishedAt": "2026-11-17T10:11:00.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1140,57 +1184,13 @@
         "zone": "in"
       },
       {
-        "title": "James Bond: What we know so far about the next 007 film",
-        "url": "https://www.bbc.co.uk/news/articles/ck79p0lev47po?at_medium=RSS&at_campaign=rss",
+        "title": "'Look who it isnae' - Still Game set to return as stage show",
+        "url": "https://www.bbc.co.uk/news/articles/cky97qpge70po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig.",
-        "publishedAt": "2026-11-16T15:46:45.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Emma Barnett to leave Radio 4's Today for new BBC show",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrgw2p52l5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Barnett, who has presented Today and Woman's Hour, will front a multiplatform show in the New Year.",
-        "publishedAt": "2026-11-16T17:46:12.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
-        "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was \"not guilty of the offences I have been jailed for\".",
-        "publishedAt": "2026-11-16T18:22:22.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Sir Tom Jones announces homecoming gigs after cancelling shows due to flu",
-        "url": "https://www.bbc.co.uk/news/articles/cr20ve1l4x9vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Sir Tom will return to perform in Wales next year after \"a bad case of flu\" disrupted his US shows.",
-        "publishedAt": "2026-11-16T17:17:40.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Brand moved from Wandsworth to category C prison, his wife confirms on podcast",
-        "url": "https://www.bbc.co.uk/news/articles/cm7024p1ded3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The convicted rapist has been moved to HMP Littlehey, which houses sex offenders.",
-        "publishedAt": "2026-11-16T10:03:24.000Z",
+        "description": "Still Game Live: Heaven Sent will run for 10 shows at the Ovo Hydro in Glasgow in 2028.",
+        "publishedAt": "2026-11-17T06:17:40.000Z",
         "category": "entertainment",
         "zone": "in"
       }
@@ -1199,6 +1199,50 @@
   "entertainment_au": {
     "articles": [
       {
+        "title": "Batman to James Bond: The clues about what to expect from Robert Pattinson's 007",
+        "url": "https://www.bbc.co.uk/news/articles/c8x2r6gyy2pzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "What can Robert Pattinson's past movie roles tell us about what he might be like as James Bond?",
+        "publishedAt": "2026-11-17T13:15:38.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Channel 4 admits it doesn't know number of Married At First Sight UK sex abuse complaints",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2xvdpy2ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "C4's chief executive is questioned by MPs after a string of allegations were made about the show.",
+        "publishedAt": "2026-11-17T13:43:49.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
+        "url": "https://www.bbc.co.uk/news/articles/c9vg2xgn0xe5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Sunrise on the Reaping, the franchise's sixth film, is both criticised and praised by film critics.",
+        "publishedAt": "2026-11-17T17:57:56.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Brad Pitt and Florence Pugh pitch for James Bond villain role",
+        "url": "https://www.bbc.co.uk/news/articles/cq4gnpgl0zkxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The two A-list stars throw their hats into the ring to be the villain facing Robert Pattinson's 007.",
+        "publishedAt": "2026-11-17T16:42:49.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
         "title": "Robert Pattinson to replace Daniel Craig as James Bond",
         "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1210,13 +1254,13 @@
         "zone": "au"
       },
       {
-        "title": "Robert Pattinson: How the Twilight star became 007",
-        "url": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
+        "title": "Woman who accuses Russell Brand of rape says prison message 'upsetting'",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg27zyrd99o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
-        "publishedAt": "2026-11-16T15:02:41.000Z",
+        "description": "Mia Latter spoke to the BBC after the jailed comedian claimed he was innocent of offences against four other women, in comments on a podcast following his convction.",
+        "publishedAt": "2026-11-17T10:11:00.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1232,57 +1276,13 @@
         "zone": "au"
       },
       {
-        "title": "James Bond: What we know so far about the next 007 film",
-        "url": "https://www.bbc.co.uk/news/articles/ck79p0lev47po?at_medium=RSS&at_campaign=rss",
+        "title": "'Look who it isnae' - Still Game set to return as stage show",
+        "url": "https://www.bbc.co.uk/news/articles/cky97qpge70po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig.",
-        "publishedAt": "2026-11-16T15:46:45.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Emma Barnett to leave Radio 4's Today for new BBC show",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrgw2p52l5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Barnett, who has presented Today and Woman's Hour, will front a multiplatform show in the New Year.",
-        "publishedAt": "2026-11-16T17:46:12.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
-        "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was \"not guilty of the offences I have been jailed for\".",
-        "publishedAt": "2026-11-16T18:22:22.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Sir Tom Jones announces homecoming gigs after cancelling shows due to flu",
-        "url": "https://www.bbc.co.uk/news/articles/cr20ve1l4x9vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Sir Tom will return to perform in Wales next year after \"a bad case of flu\" disrupted his US shows.",
-        "publishedAt": "2026-11-16T17:17:40.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Brand moved from Wandsworth to category C prison, his wife confirms on podcast",
-        "url": "https://www.bbc.co.uk/news/articles/cm7024p1ded3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The convicted rapist has been moved to HMP Littlehey, which houses sex offenders.",
-        "publishedAt": "2026-11-16T10:03:24.000Z",
+        "description": "Still Game Live: Heaven Sent will run for 10 shows at the Ovo Hydro in Glasgow in 2028.",
+        "publishedAt": "2026-11-17T06:17:40.000Z",
         "category": "entertainment",
         "zone": "au"
       }
@@ -1291,6 +1291,50 @@
   "entertainment_ca": {
     "articles": [
       {
+        "title": "Batman to James Bond: The clues about what to expect from Robert Pattinson's 007",
+        "url": "https://www.bbc.co.uk/news/articles/c8x2r6gyy2pzo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "What can Robert Pattinson's past movie roles tell us about what he might be like as James Bond?",
+        "publishedAt": "2026-11-17T13:15:38.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "Channel 4 admits it doesn't know number of Married At First Sight UK sex abuse complaints",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2xvdpy2ro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "C4's chief executive is questioned by MPs after a string of allegations were made about the show.",
+        "publishedAt": "2026-11-17T13:43:49.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
+        "url": "https://www.bbc.co.uk/news/articles/c9vg2xgn0xe5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Sunrise on the Reaping, the franchise's sixth film, is both criticised and praised by film critics.",
+        "publishedAt": "2026-11-17T17:57:56.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "Brad Pitt and Florence Pugh pitch for James Bond villain role",
+        "url": "https://www.bbc.co.uk/news/articles/cq4gnpgl0zkxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The two A-list stars throw their hats into the ring to be the villain facing Robert Pattinson's 007.",
+        "publishedAt": "2026-11-17T16:42:49.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
         "title": "Robert Pattinson to replace Daniel Craig as James Bond",
         "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1302,13 +1346,13 @@
         "zone": "ca"
       },
       {
-        "title": "Robert Pattinson: How the Twilight star became 007",
-        "url": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
+        "title": "Woman who accuses Russell Brand of rape says prison message 'upsetting'",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg27zyrd99o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
-        "publishedAt": "2026-11-16T15:02:41.000Z",
+        "description": "Mia Latter spoke to the BBC after the jailed comedian claimed he was innocent of offences against four other women, in comments on a podcast following his convction.",
+        "publishedAt": "2026-11-17T10:11:00.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1324,57 +1368,13 @@
         "zone": "ca"
       },
       {
-        "title": "James Bond: What we know so far about the next 007 film",
-        "url": "https://www.bbc.co.uk/news/articles/ck79p0lev47po?at_medium=RSS&at_campaign=rss",
+        "title": "'Look who it isnae' - Still Game set to return as stage show",
+        "url": "https://www.bbc.co.uk/news/articles/cky97qpge70po?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig.",
-        "publishedAt": "2026-11-16T15:46:45.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Emma Barnett to leave Radio 4's Today for new BBC show",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrgw2p52l5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Barnett, who has presented Today and Woman's Hour, will front a multiplatform show in the New Year.",
-        "publishedAt": "2026-11-16T17:46:12.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
-        "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was \"not guilty of the offences I have been jailed for\".",
-        "publishedAt": "2026-11-16T18:22:22.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Sir Tom Jones announces homecoming gigs after cancelling shows due to flu",
-        "url": "https://www.bbc.co.uk/news/articles/cr20ve1l4x9vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Sir Tom will return to perform in Wales next year after \"a bad case of flu\" disrupted his US shows.",
-        "publishedAt": "2026-11-16T17:17:40.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Brand moved from Wandsworth to category C prison, his wife confirms on podcast",
-        "url": "https://www.bbc.co.uk/news/articles/cm7024p1ded3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The convicted rapist has been moved to HMP Littlehey, which houses sex offenders.",
-        "publishedAt": "2026-11-16T10:03:24.000Z",
+        "description": "Still Game Live: Heaven Sent will run for 10 shows at the Ovo Hydro in Glasgow in 2028.",
+        "publishedAt": "2026-11-17T06:17:40.000Z",
         "category": "entertainment",
         "zone": "ca"
       }
@@ -1383,13 +1383,24 @@
   "health_us": {
     "articles": [
       {
-        "title": "Cass report author says she does not support draft conversion practices bill",
+        "title": "NHS data contract to stay with Palantir until 2029",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
+        "publishedAt": "2026-11-17T12:00:12.000Z",
+        "category": "health",
+        "zone": "us"
+      },
+      {
+        "title": "Cass report author tells BBC draft conversion practices bill is not workable",
         "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
-        "publishedAt": "2026-11-16T22:08:03.000Z",
+        "publishedAt": "2026-11-17T10:36:21.000Z",
         "category": "health",
         "zone": "us"
       },
@@ -1456,17 +1467,6 @@
         },
         "description": "The advertising watchdog says they also must not make misleading claims that sunbeds can treat skin conditions or improve mental health.",
         "publishedAt": "2026-11-12T00:13:27.000Z",
-        "category": "health",
-        "zone": "us"
-      },
-      {
-        "title": "Senior doctors call off two-day strike planned this month",
-        "url": "https://www.bbc.co.uk/news/articles/c6174gw2ewpgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Consultants in England were due to walk out on 25 November in disputes over pay and working conditions.",
-        "publishedAt": "2026-11-11T12:42:05.000Z",
         "category": "health",
         "zone": "us"
       }
@@ -1475,13 +1475,24 @@
   "health_gb": {
     "articles": [
       {
-        "title": "Cass report author says she does not support draft conversion practices bill",
+        "title": "NHS data contract to stay with Palantir until 2029",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
+        "publishedAt": "2026-11-17T12:00:12.000Z",
+        "category": "health",
+        "zone": "gb"
+      },
+      {
+        "title": "Cass report author tells BBC draft conversion practices bill is not workable",
         "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
-        "publishedAt": "2026-11-16T22:08:03.000Z",
+        "publishedAt": "2026-11-17T10:36:21.000Z",
         "category": "health",
         "zone": "gb"
       },
@@ -1548,17 +1559,6 @@
         },
         "description": "The advertising watchdog says they also must not make misleading claims that sunbeds can treat skin conditions or improve mental health.",
         "publishedAt": "2026-11-12T00:13:27.000Z",
-        "category": "health",
-        "zone": "gb"
-      },
-      {
-        "title": "Senior doctors call off two-day strike planned this month",
-        "url": "https://www.bbc.co.uk/news/articles/c6174gw2ewpgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Consultants in England were due to walk out on 25 November in disputes over pay and working conditions.",
-        "publishedAt": "2026-11-11T12:42:05.000Z",
         "category": "health",
         "zone": "gb"
       }
@@ -1567,13 +1567,24 @@
   "health_in": {
     "articles": [
       {
-        "title": "Cass report author says she does not support draft conversion practices bill",
+        "title": "NHS data contract to stay with Palantir until 2029",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
+        "publishedAt": "2026-11-17T12:00:12.000Z",
+        "category": "health",
+        "zone": "in"
+      },
+      {
+        "title": "Cass report author tells BBC draft conversion practices bill is not workable",
         "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
-        "publishedAt": "2026-11-16T22:08:03.000Z",
+        "publishedAt": "2026-11-17T10:36:21.000Z",
         "category": "health",
         "zone": "in"
       },
@@ -1640,17 +1651,6 @@
         },
         "description": "The advertising watchdog says they also must not make misleading claims that sunbeds can treat skin conditions or improve mental health.",
         "publishedAt": "2026-11-12T00:13:27.000Z",
-        "category": "health",
-        "zone": "in"
-      },
-      {
-        "title": "Senior doctors call off two-day strike planned this month",
-        "url": "https://www.bbc.co.uk/news/articles/c6174gw2ewpgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Consultants in England were due to walk out on 25 November in disputes over pay and working conditions.",
-        "publishedAt": "2026-11-11T12:42:05.000Z",
         "category": "health",
         "zone": "in"
       }
@@ -1659,13 +1659,24 @@
   "health_au": {
     "articles": [
       {
-        "title": "Cass report author says she does not support draft conversion practices bill",
+        "title": "NHS data contract to stay with Palantir until 2029",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
+        "publishedAt": "2026-11-17T12:00:12.000Z",
+        "category": "health",
+        "zone": "au"
+      },
+      {
+        "title": "Cass report author tells BBC draft conversion practices bill is not workable",
         "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
-        "publishedAt": "2026-11-16T22:08:03.000Z",
+        "publishedAt": "2026-11-17T10:36:21.000Z",
         "category": "health",
         "zone": "au"
       },
@@ -1732,17 +1743,6 @@
         },
         "description": "The advertising watchdog says they also must not make misleading claims that sunbeds can treat skin conditions or improve mental health.",
         "publishedAt": "2026-11-12T00:13:27.000Z",
-        "category": "health",
-        "zone": "au"
-      },
-      {
-        "title": "Senior doctors call off two-day strike planned this month",
-        "url": "https://www.bbc.co.uk/news/articles/c6174gw2ewpgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Consultants in England were due to walk out on 25 November in disputes over pay and working conditions.",
-        "publishedAt": "2026-11-11T12:42:05.000Z",
         "category": "health",
         "zone": "au"
       }
@@ -1751,13 +1751,24 @@
   "health_ca": {
     "articles": [
       {
-        "title": "Cass report author says she does not support draft conversion practices bill",
+        "title": "NHS data contract to stay with Palantir until 2029",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
+        "publishedAt": "2026-11-17T12:00:12.000Z",
+        "category": "health",
+        "zone": "ca"
+      },
+      {
+        "title": "Cass report author tells BBC draft conversion practices bill is not workable",
         "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
         "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
-        "publishedAt": "2026-11-16T22:08:03.000Z",
+        "publishedAt": "2026-11-17T10:36:21.000Z",
         "category": "health",
         "zone": "ca"
       },
@@ -1824,17 +1835,6 @@
         },
         "description": "The advertising watchdog says they also must not make misleading claims that sunbeds can treat skin conditions or improve mental health.",
         "publishedAt": "2026-11-12T00:13:27.000Z",
-        "category": "health",
-        "zone": "ca"
-      },
-      {
-        "title": "Senior doctors call off two-day strike planned this month",
-        "url": "https://www.bbc.co.uk/news/articles/c6174gw2ewpgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Consultants in England were due to walk out on 25 November in disputes over pay and working conditions.",
-        "publishedAt": "2026-11-11T12:42:05.000Z",
         "category": "health",
         "zone": "ca"
       }
@@ -1881,7 +1881,7 @@
         "source": {
           "name": "Uwa Ede-Osifo"
         },
-        "description": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human spaceflight. The 171ft (52-meter) bullet-shaped upper stage descended into the clutch of the tower’s mechanical arms, ending a 22hr mission where the craft orbited Earth 14 times. Continue reading...",
+        "description": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human spaceflight. The 171ft (52-meter) bullet-shaped upper stage descended into the clutch of the tower’s mechanical arms, ending a 22-hour mission where the craft orbited Earth 14 times. Continue reading...",
         "publishedAt": "2026-11-14T22:35:06.000Z",
         "category": "science",
         "zone": "us"
@@ -1920,13 +1920,13 @@
         "zone": "us"
       },
       {
-        "title": "European survey reveals 900m galaxies – and possibly secrets of ‘dark universe’",
-        "url": "https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe",
+        "title": "US loses measles elimination status amid worst outbreak since 1991",
+        "url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
         "source": {
-          "name": "Nicola Davis Science correspondent"
+          "name": "Jessica Glenza"
         },
-        "description": "Unprecedented view of cosmos provided by Euclid mission throws up many more cases of gravitational lensing A mission to create the largest ever 3D map of the universe has revealed more than 900m galaxies in its first major data release together with about 15,000 potential cases of a phenomenon that could help unlock the secrets of the “dark universe”. Launched in July 2023, the European Space Agency’s Euclid mission promised to create the largest cosmic map ever made, encompassing a third of the sky and more than 10bn years of cosmic history. Continue reading...",
-        "publishedAt": "2026-11-12T11:08:54.000Z",
+        "description": "Infectious disease is now continually spreading after being eliminated for 26 years, with more than 5,400 US cases The US lost its measles elimination status, global health authorities announced, an official recognition that the infectious disease is endemic in the US after being eliminated for 26 years. The announcement comes as the US endures the worst measles outbreak since 1991, with more than 5,400 cases and eight deaths in 2026. Continue reading...",
+        "publishedAt": "2026-11-17T16:16:24.000Z",
         "category": "science",
         "zone": "us"
       }
@@ -1973,7 +1973,7 @@
         "source": {
           "name": "Uwa Ede-Osifo"
         },
-        "description": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human spaceflight. The 171ft (52-meter) bullet-shaped upper stage descended into the clutch of the tower’s mechanical arms, ending a 22hr mission where the craft orbited Earth 14 times. Continue reading...",
+        "description": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human spaceflight. The 171ft (52-meter) bullet-shaped upper stage descended into the clutch of the tower’s mechanical arms, ending a 22-hour mission where the craft orbited Earth 14 times. Continue reading...",
         "publishedAt": "2026-11-14T22:35:06.000Z",
         "category": "science",
         "zone": "gb"
@@ -2012,13 +2012,13 @@
         "zone": "gb"
       },
       {
-        "title": "European survey reveals 900m galaxies – and possibly secrets of ‘dark universe’",
-        "url": "https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe",
+        "title": "US loses measles elimination status amid worst outbreak since 1991",
+        "url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
         "source": {
-          "name": "Nicola Davis Science correspondent"
+          "name": "Jessica Glenza"
         },
-        "description": "Unprecedented view of cosmos provided by Euclid mission throws up many more cases of gravitational lensing A mission to create the largest ever 3D map of the universe has revealed more than 900m galaxies in its first major data release together with about 15,000 potential cases of a phenomenon that could help unlock the secrets of the “dark universe”. Launched in July 2023, the European Space Agency’s Euclid mission promised to create the largest cosmic map ever made, encompassing a third of the sky and more than 10bn years of cosmic history. Continue reading...",
-        "publishedAt": "2026-11-12T11:08:54.000Z",
+        "description": "Infectious disease is now continually spreading after being eliminated for 26 years, with more than 5,400 US cases The US lost its measles elimination status, global health authorities announced, an official recognition that the infectious disease is endemic in the US after being eliminated for 26 years. The announcement comes as the US endures the worst measles outbreak since 1991, with more than 5,400 cases and eight deaths in 2026. Continue reading...",
+        "publishedAt": "2026-11-17T16:16:24.000Z",
         "category": "science",
         "zone": "gb"
       }
@@ -2065,7 +2065,7 @@
         "source": {
           "name": "Uwa Ede-Osifo"
         },
-        "description": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human spaceflight. The 171ft (52-meter) bullet-shaped upper stage descended into the clutch of the tower’s mechanical arms, ending a 22hr mission where the craft orbited Earth 14 times. Continue reading...",
+        "description": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human spaceflight. The 171ft (52-meter) bullet-shaped upper stage descended into the clutch of the tower’s mechanical arms, ending a 22-hour mission where the craft orbited Earth 14 times. Continue reading...",
         "publishedAt": "2026-11-14T22:35:06.000Z",
         "category": "science",
         "zone": "in"
@@ -2104,13 +2104,13 @@
         "zone": "in"
       },
       {
-        "title": "European survey reveals 900m galaxies – and possibly secrets of ‘dark universe’",
-        "url": "https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe",
+        "title": "US loses measles elimination status amid worst outbreak since 1991",
+        "url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
         "source": {
-          "name": "Nicola Davis Science correspondent"
+          "name": "Jessica Glenza"
         },
-        "description": "Unprecedented view of cosmos provided by Euclid mission throws up many more cases of gravitational lensing A mission to create the largest ever 3D map of the universe has revealed more than 900m galaxies in its first major data release together with about 15,000 potential cases of a phenomenon that could help unlock the secrets of the “dark universe”. Launched in July 2023, the European Space Agency’s Euclid mission promised to create the largest cosmic map ever made, encompassing a third of the sky and more than 10bn years of cosmic history. Continue reading...",
-        "publishedAt": "2026-11-12T11:08:54.000Z",
+        "description": "Infectious disease is now continually spreading after being eliminated for 26 years, with more than 5,400 US cases The US lost its measles elimination status, global health authorities announced, an official recognition that the infectious disease is endemic in the US after being eliminated for 26 years. The announcement comes as the US endures the worst measles outbreak since 1991, with more than 5,400 cases and eight deaths in 2026. Continue reading...",
+        "publishedAt": "2026-11-17T16:16:24.000Z",
         "category": "science",
         "zone": "in"
       }
@@ -2157,7 +2157,7 @@
         "source": {
           "name": "Uwa Ede-Osifo"
         },
-        "description": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human spaceflight. The 171ft (52-meter) bullet-shaped upper stage descended into the clutch of the tower’s mechanical arms, ending a 22hr mission where the craft orbited Earth 14 times. Continue reading...",
+        "description": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human spaceflight. The 171ft (52-meter) bullet-shaped upper stage descended into the clutch of the tower’s mechanical arms, ending a 22-hour mission where the craft orbited Earth 14 times. Continue reading...",
         "publishedAt": "2026-11-14T22:35:06.000Z",
         "category": "science",
         "zone": "au"
@@ -2196,13 +2196,13 @@
         "zone": "au"
       },
       {
-        "title": "European survey reveals 900m galaxies – and possibly secrets of ‘dark universe’",
-        "url": "https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe",
+        "title": "US loses measles elimination status amid worst outbreak since 1991",
+        "url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
         "source": {
-          "name": "Nicola Davis Science correspondent"
+          "name": "Jessica Glenza"
         },
-        "description": "Unprecedented view of cosmos provided by Euclid mission throws up many more cases of gravitational lensing A mission to create the largest ever 3D map of the universe has revealed more than 900m galaxies in its first major data release together with about 15,000 potential cases of a phenomenon that could help unlock the secrets of the “dark universe”. Launched in July 2023, the European Space Agency’s Euclid mission promised to create the largest cosmic map ever made, encompassing a third of the sky and more than 10bn years of cosmic history. Continue reading...",
-        "publishedAt": "2026-11-12T11:08:54.000Z",
+        "description": "Infectious disease is now continually spreading after being eliminated for 26 years, with more than 5,400 US cases The US lost its measles elimination status, global health authorities announced, an official recognition that the infectious disease is endemic in the US after being eliminated for 26 years. The announcement comes as the US endures the worst measles outbreak since 1991, with more than 5,400 cases and eight deaths in 2026. Continue reading...",
+        "publishedAt": "2026-11-17T16:16:24.000Z",
         "category": "science",
         "zone": "au"
       }
@@ -2249,7 +2249,7 @@
         "source": {
           "name": "Uwa Ede-Osifo"
         },
-        "description": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human spaceflight. The 171ft (52-meter) bullet-shaped upper stage descended into the clutch of the tower’s mechanical arms, ending a 22hr mission where the craft orbited Earth 14 times. Continue reading...",
+        "description": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human spaceflight. The 171ft (52-meter) bullet-shaped upper stage descended into the clutch of the tower’s mechanical arms, ending a 22-hour mission where the craft orbited Earth 14 times. Continue reading...",
         "publishedAt": "2026-11-14T22:35:06.000Z",
         "category": "science",
         "zone": "ca"
@@ -2288,13 +2288,13 @@
         "zone": "ca"
       },
       {
-        "title": "European survey reveals 900m galaxies – and possibly secrets of ‘dark universe’",
-        "url": "https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe",
+        "title": "US loses measles elimination status amid worst outbreak since 1991",
+        "url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
         "source": {
-          "name": "Nicola Davis Science correspondent"
+          "name": "Jessica Glenza"
         },
-        "description": "Unprecedented view of cosmos provided by Euclid mission throws up many more cases of gravitational lensing A mission to create the largest ever 3D map of the universe has revealed more than 900m galaxies in its first major data release together with about 15,000 potential cases of a phenomenon that could help unlock the secrets of the “dark universe”. Launched in July 2023, the European Space Agency’s Euclid mission promised to create the largest cosmic map ever made, encompassing a third of the sky and more than 10bn years of cosmic history. Continue reading...",
-        "publishedAt": "2026-11-12T11:08:54.000Z",
+        "description": "Infectious disease is now continually spreading after being eliminated for 26 years, with more than 5,400 US cases The US lost its measles elimination status, global health authorities announced, an official recognition that the infectious disease is endemic in the US after being eliminated for 26 years. The announcement comes as the US endures the worst measles outbreak since 1991, with more than 5,400 cases and eight deaths in 2026. Continue reading...",
+        "publishedAt": "2026-11-17T16:16:24.000Z",
         "category": "science",
         "zone": "ca"
       }
@@ -2303,90 +2303,90 @@
   "sports_us": {
     "articles": [
       {
-        "title": "What's the story with Scotland boss Pocognoli - is it time to go?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o?at_medium=RSS&at_campaign=rss",
+        "title": "Rooney says he considered taking his own life at Man Utd",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?",
-        "publishedAt": "2026-11-17T00:19:58.000Z",
+        "description": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+        "publishedAt": "2026-11-17T14:09:19.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Why always him? The rise and fall of Balotelli",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvgxvg4v981o?at_medium=RSS&at_campaign=rss",
+        "title": "South Africa head coach Erasmus banned for six matches",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cj752w5q7z90o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Sport looks at the career of former Manchester City and Inter Milan striker Mario Balotelli.",
-        "publishedAt": "2026-11-17T06:15:43.000Z",
+        "description": "South Africa head coach Rassie Erasmus has been banned for six matches by World Rugby over comments he made about match officials.",
+        "publishedAt": "2026-11-17T16:09:24.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Owono did not deserve 12-match ban - Pique",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss",
+        "title": "FA wants to host Nations League finals in England",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5742x4xldmpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "FC Andorra owner Gerard Pique says goalkeeper Jesus Owono did not deserve the 12-match suspension he received following his challenge which resulted in the death of Tenerife forward Jesus de Miguel.",
-        "publishedAt": "2026-11-17T08:28:10.000Z",
+        "description": "England could host the Nations League finals this season after Football Association officials register their interest.",
+        "publishedAt": "2026-11-17T15:51:30.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Scouted as a spectator, now on brink of NFL",
-        "url": "https://www.bbc.co.uk/sport/american-football/articles/cm0ev1d54n52o?at_medium=RSS&at_campaign=rss",
+        "title": "Arsenal Double winner Storey dies aged 81",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c63eg3ekxnpyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Emmanuel Oyebadejo was supposed to be studying medicine and playing basketball. How did he become tipped to make British history in a completely different sport?",
-        "publishedAt": "2026-11-17T06:43:42.000Z",
+        "description": "Former Arsenal and England midfielder Peter Storey - who helped the Gunners win the Double in 1970-71 - has died at the age of 81.",
+        "publishedAt": "2026-11-17T17:33:41.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Littler hits triple-bull, but Price checkout doesn't add up",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/cwkgr9m0d0e5o?at_medium=RSS&at_campaign=rss",
+        "title": "Woods set to return next month after two years out",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cm93080ep703o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Gerwyn Price and Luke Littler make it through to the Grand Slam of Darts knockout stage after a rare counting error and a sensational triple-bull checkout in Wolverhampton.",
-        "publishedAt": "2026-11-16T22:54:37.000Z",
+        "description": "Tiger Woods is set to return to competitive golf in December for the first time in more than two years.",
+        "publishedAt": "2026-11-17T15:54:36.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "'Is that not match-fixing?' - Erasmus questions officiating",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ck0jx1dnd38go?at_medium=RSS&at_campaign=rss",
+        "title": "Bethell to have more surgery and miss South Africa tour",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c893rgz2946yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "South Africa head coach Rassie Erasmus predicts Ireland fly-half Sam Prendergast will not face a ban after being cited, and questions standards in officiating.",
-        "publishedAt": "2026-11-16T23:14:48.000Z",
+        "description": "Jacob Bethell will miss England’s Test tour of South Africa because he requires more surgery on the knee injury that has kept him out since July.",
+        "publishedAt": "2026-11-17T13:18:58.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Irish boxer Reeves dies aged 31 after three months in coma",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cv4gnp901zzxo?at_medium=RSS&at_campaign=rss",
+        "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Irish boxer Lee Reeves has died aged 31, three months after he suffered serious injuries in a bout in Dublin, his promoter Queensberry has announced.",
-        "publishedAt": "2026-11-17T07:18:08.000Z",
+        "description": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
+        "publishedAt": "2026-11-17T10:32:07.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "Ronaldo, Maradona, Baggio - what happened to the World XI?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwj34058rvv6o?at_medium=RSS&at_campaign=rss",
+        "title": "DeChambeau joins DP World Tour after LIV Golf collapse",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c5vg27yzm9exo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Football's biggest stars used to turn out in their prime for the Rest of the World XI, something that would not seem possible today.",
-        "publishedAt": "2026-11-17T07:22:26.000Z",
+        "description": "American superstar Bryson DeChambeau is among a number of former LIV players who will play on the European-based DP World Tour next season.",
+        "publishedAt": "2026-11-17T13:44:17.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,90 +2395,90 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "What's the story with Scotland boss Pocognoli - is it time to go?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o?at_medium=RSS&at_campaign=rss",
+        "title": "Rooney says he considered taking his own life at Man Utd",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?",
-        "publishedAt": "2026-11-17T00:19:58.000Z",
+        "description": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+        "publishedAt": "2026-11-17T14:09:19.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Why always him? The rise and fall of Balotelli",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvgxvg4v981o?at_medium=RSS&at_campaign=rss",
+        "title": "South Africa head coach Erasmus banned for six matches",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cj752w5q7z90o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Sport looks at the career of former Manchester City and Inter Milan striker Mario Balotelli.",
-        "publishedAt": "2026-11-17T06:15:43.000Z",
+        "description": "South Africa head coach Rassie Erasmus has been banned for six matches by World Rugby over comments he made about match officials.",
+        "publishedAt": "2026-11-17T16:09:24.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Owono did not deserve 12-match ban - Pique",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss",
+        "title": "FA wants to host Nations League finals in England",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5742x4xldmpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "FC Andorra owner Gerard Pique says goalkeeper Jesus Owono did not deserve the 12-match suspension he received following his challenge which resulted in the death of Tenerife forward Jesus de Miguel.",
-        "publishedAt": "2026-11-17T08:28:10.000Z",
+        "description": "England could host the Nations League finals this season after Football Association officials register their interest.",
+        "publishedAt": "2026-11-17T15:51:30.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Scouted as a spectator, now on brink of NFL",
-        "url": "https://www.bbc.co.uk/sport/american-football/articles/cm0ev1d54n52o?at_medium=RSS&at_campaign=rss",
+        "title": "Arsenal Double winner Storey dies aged 81",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c63eg3ekxnpyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Emmanuel Oyebadejo was supposed to be studying medicine and playing basketball. How did he become tipped to make British history in a completely different sport?",
-        "publishedAt": "2026-11-17T06:43:42.000Z",
+        "description": "Former Arsenal and England midfielder Peter Storey - who helped the Gunners win the Double in 1970-71 - has died at the age of 81.",
+        "publishedAt": "2026-11-17T17:33:41.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Littler hits triple-bull, but Price checkout doesn't add up",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/cwkgr9m0d0e5o?at_medium=RSS&at_campaign=rss",
+        "title": "Woods set to return next month after two years out",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cm93080ep703o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Gerwyn Price and Luke Littler make it through to the Grand Slam of Darts knockout stage after a rare counting error and a sensational triple-bull checkout in Wolverhampton.",
-        "publishedAt": "2026-11-16T22:54:37.000Z",
+        "description": "Tiger Woods is set to return to competitive golf in December for the first time in more than two years.",
+        "publishedAt": "2026-11-17T15:54:36.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "'Is that not match-fixing?' - Erasmus questions officiating",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ck0jx1dnd38go?at_medium=RSS&at_campaign=rss",
+        "title": "Bethell to have more surgery and miss South Africa tour",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c893rgz2946yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "South Africa head coach Rassie Erasmus predicts Ireland fly-half Sam Prendergast will not face a ban after being cited, and questions standards in officiating.",
-        "publishedAt": "2026-11-16T23:14:48.000Z",
+        "description": "Jacob Bethell will miss England’s Test tour of South Africa because he requires more surgery on the knee injury that has kept him out since July.",
+        "publishedAt": "2026-11-17T13:18:58.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Irish boxer Reeves dies aged 31 after three months in coma",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cv4gnp901zzxo?at_medium=RSS&at_campaign=rss",
+        "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Irish boxer Lee Reeves has died aged 31, three months after he suffered serious injuries in a bout in Dublin, his promoter Queensberry has announced.",
-        "publishedAt": "2026-11-17T07:18:08.000Z",
+        "description": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
+        "publishedAt": "2026-11-17T10:32:07.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "Ronaldo, Maradona, Baggio - what happened to the World XI?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwj34058rvv6o?at_medium=RSS&at_campaign=rss",
+        "title": "DeChambeau joins DP World Tour after LIV Golf collapse",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c5vg27yzm9exo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Football's biggest stars used to turn out in their prime for the Rest of the World XI, something that would not seem possible today.",
-        "publishedAt": "2026-11-17T07:22:26.000Z",
+        "description": "American superstar Bryson DeChambeau is among a number of former LIV players who will play on the European-based DP World Tour next season.",
+        "publishedAt": "2026-11-17T13:44:17.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,90 +2487,90 @@
   "sports_in": {
     "articles": [
       {
-        "title": "What's the story with Scotland boss Pocognoli - is it time to go?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o?at_medium=RSS&at_campaign=rss",
+        "title": "Rooney says he considered taking his own life at Man Utd",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?",
-        "publishedAt": "2026-11-17T00:19:58.000Z",
+        "description": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+        "publishedAt": "2026-11-17T14:09:19.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Why always him? The rise and fall of Balotelli",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvgxvg4v981o?at_medium=RSS&at_campaign=rss",
+        "title": "South Africa head coach Erasmus banned for six matches",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cj752w5q7z90o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Sport looks at the career of former Manchester City and Inter Milan striker Mario Balotelli.",
-        "publishedAt": "2026-11-17T06:15:43.000Z",
+        "description": "South Africa head coach Rassie Erasmus has been banned for six matches by World Rugby over comments he made about match officials.",
+        "publishedAt": "2026-11-17T16:09:24.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Owono did not deserve 12-match ban - Pique",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss",
+        "title": "FA wants to host Nations League finals in England",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5742x4xldmpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "FC Andorra owner Gerard Pique says goalkeeper Jesus Owono did not deserve the 12-match suspension he received following his challenge which resulted in the death of Tenerife forward Jesus de Miguel.",
-        "publishedAt": "2026-11-17T08:28:10.000Z",
+        "description": "England could host the Nations League finals this season after Football Association officials register their interest.",
+        "publishedAt": "2026-11-17T15:51:30.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Scouted as a spectator, now on brink of NFL",
-        "url": "https://www.bbc.co.uk/sport/american-football/articles/cm0ev1d54n52o?at_medium=RSS&at_campaign=rss",
+        "title": "Arsenal Double winner Storey dies aged 81",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c63eg3ekxnpyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Emmanuel Oyebadejo was supposed to be studying medicine and playing basketball. How did he become tipped to make British history in a completely different sport?",
-        "publishedAt": "2026-11-17T06:43:42.000Z",
+        "description": "Former Arsenal and England midfielder Peter Storey - who helped the Gunners win the Double in 1970-71 - has died at the age of 81.",
+        "publishedAt": "2026-11-17T17:33:41.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Littler hits triple-bull, but Price checkout doesn't add up",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/cwkgr9m0d0e5o?at_medium=RSS&at_campaign=rss",
+        "title": "Woods set to return next month after two years out",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cm93080ep703o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Gerwyn Price and Luke Littler make it through to the Grand Slam of Darts knockout stage after a rare counting error and a sensational triple-bull checkout in Wolverhampton.",
-        "publishedAt": "2026-11-16T22:54:37.000Z",
+        "description": "Tiger Woods is set to return to competitive golf in December for the first time in more than two years.",
+        "publishedAt": "2026-11-17T15:54:36.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "'Is that not match-fixing?' - Erasmus questions officiating",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ck0jx1dnd38go?at_medium=RSS&at_campaign=rss",
+        "title": "Bethell to have more surgery and miss South Africa tour",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c893rgz2946yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "South Africa head coach Rassie Erasmus predicts Ireland fly-half Sam Prendergast will not face a ban after being cited, and questions standards in officiating.",
-        "publishedAt": "2026-11-16T23:14:48.000Z",
+        "description": "Jacob Bethell will miss England’s Test tour of South Africa because he requires more surgery on the knee injury that has kept him out since July.",
+        "publishedAt": "2026-11-17T13:18:58.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Irish boxer Reeves dies aged 31 after three months in coma",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cv4gnp901zzxo?at_medium=RSS&at_campaign=rss",
+        "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Irish boxer Lee Reeves has died aged 31, three months after he suffered serious injuries in a bout in Dublin, his promoter Queensberry has announced.",
-        "publishedAt": "2026-11-17T07:18:08.000Z",
+        "description": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
+        "publishedAt": "2026-11-17T10:32:07.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "Ronaldo, Maradona, Baggio - what happened to the World XI?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwj34058rvv6o?at_medium=RSS&at_campaign=rss",
+        "title": "DeChambeau joins DP World Tour after LIV Golf collapse",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c5vg27yzm9exo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Football's biggest stars used to turn out in their prime for the Rest of the World XI, something that would not seem possible today.",
-        "publishedAt": "2026-11-17T07:22:26.000Z",
+        "description": "American superstar Bryson DeChambeau is among a number of former LIV players who will play on the European-based DP World Tour next season.",
+        "publishedAt": "2026-11-17T13:44:17.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,90 +2579,90 @@
   "sports_au": {
     "articles": [
       {
-        "title": "What's the story with Scotland boss Pocognoli - is it time to go?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o?at_medium=RSS&at_campaign=rss",
+        "title": "Rooney says he considered taking his own life at Man Utd",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?",
-        "publishedAt": "2026-11-17T00:19:58.000Z",
+        "description": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+        "publishedAt": "2026-11-17T14:09:19.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Why always him? The rise and fall of Balotelli",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvgxvg4v981o?at_medium=RSS&at_campaign=rss",
+        "title": "South Africa head coach Erasmus banned for six matches",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cj752w5q7z90o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Sport looks at the career of former Manchester City and Inter Milan striker Mario Balotelli.",
-        "publishedAt": "2026-11-17T06:15:43.000Z",
+        "description": "South Africa head coach Rassie Erasmus has been banned for six matches by World Rugby over comments he made about match officials.",
+        "publishedAt": "2026-11-17T16:09:24.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Owono did not deserve 12-match ban - Pique",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss",
+        "title": "FA wants to host Nations League finals in England",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5742x4xldmpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "FC Andorra owner Gerard Pique says goalkeeper Jesus Owono did not deserve the 12-match suspension he received following his challenge which resulted in the death of Tenerife forward Jesus de Miguel.",
-        "publishedAt": "2026-11-17T08:28:10.000Z",
+        "description": "England could host the Nations League finals this season after Football Association officials register their interest.",
+        "publishedAt": "2026-11-17T15:51:30.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Scouted as a spectator, now on brink of NFL",
-        "url": "https://www.bbc.co.uk/sport/american-football/articles/cm0ev1d54n52o?at_medium=RSS&at_campaign=rss",
+        "title": "Arsenal Double winner Storey dies aged 81",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c63eg3ekxnpyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Emmanuel Oyebadejo was supposed to be studying medicine and playing basketball. How did he become tipped to make British history in a completely different sport?",
-        "publishedAt": "2026-11-17T06:43:42.000Z",
+        "description": "Former Arsenal and England midfielder Peter Storey - who helped the Gunners win the Double in 1970-71 - has died at the age of 81.",
+        "publishedAt": "2026-11-17T17:33:41.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Littler hits triple-bull, but Price checkout doesn't add up",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/cwkgr9m0d0e5o?at_medium=RSS&at_campaign=rss",
+        "title": "Woods set to return next month after two years out",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cm93080ep703o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Gerwyn Price and Luke Littler make it through to the Grand Slam of Darts knockout stage after a rare counting error and a sensational triple-bull checkout in Wolverhampton.",
-        "publishedAt": "2026-11-16T22:54:37.000Z",
+        "description": "Tiger Woods is set to return to competitive golf in December for the first time in more than two years.",
+        "publishedAt": "2026-11-17T15:54:36.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "'Is that not match-fixing?' - Erasmus questions officiating",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ck0jx1dnd38go?at_medium=RSS&at_campaign=rss",
+        "title": "Bethell to have more surgery and miss South Africa tour",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c893rgz2946yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "South Africa head coach Rassie Erasmus predicts Ireland fly-half Sam Prendergast will not face a ban after being cited, and questions standards in officiating.",
-        "publishedAt": "2026-11-16T23:14:48.000Z",
+        "description": "Jacob Bethell will miss England’s Test tour of South Africa because he requires more surgery on the knee injury that has kept him out since July.",
+        "publishedAt": "2026-11-17T13:18:58.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Irish boxer Reeves dies aged 31 after three months in coma",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cv4gnp901zzxo?at_medium=RSS&at_campaign=rss",
+        "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Irish boxer Lee Reeves has died aged 31, three months after he suffered serious injuries in a bout in Dublin, his promoter Queensberry has announced.",
-        "publishedAt": "2026-11-17T07:18:08.000Z",
+        "description": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
+        "publishedAt": "2026-11-17T10:32:07.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "Ronaldo, Maradona, Baggio - what happened to the World XI?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwj34058rvv6o?at_medium=RSS&at_campaign=rss",
+        "title": "DeChambeau joins DP World Tour after LIV Golf collapse",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c5vg27yzm9exo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Football's biggest stars used to turn out in their prime for the Rest of the World XI, something that would not seem possible today.",
-        "publishedAt": "2026-11-17T07:22:26.000Z",
+        "description": "American superstar Bryson DeChambeau is among a number of former LIV players who will play on the European-based DP World Tour next season.",
+        "publishedAt": "2026-11-17T13:44:17.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,90 +2671,90 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "What's the story with Scotland boss Pocognoli - is it time to go?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o?at_medium=RSS&at_campaign=rss",
+        "title": "Rooney says he considered taking his own life at Man Utd",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?",
-        "publishedAt": "2026-11-17T00:19:58.000Z",
+        "description": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+        "publishedAt": "2026-11-17T14:09:19.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Why always him? The rise and fall of Balotelli",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvgxvg4v981o?at_medium=RSS&at_campaign=rss",
+        "title": "South Africa head coach Erasmus banned for six matches",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cj752w5q7z90o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "BBC Sport looks at the career of former Manchester City and Inter Milan striker Mario Balotelli.",
-        "publishedAt": "2026-11-17T06:15:43.000Z",
+        "description": "South Africa head coach Rassie Erasmus has been banned for six matches by World Rugby over comments he made about match officials.",
+        "publishedAt": "2026-11-17T16:09:24.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Owono did not deserve 12-match ban - Pique",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss",
+        "title": "FA wants to host Nations League finals in England",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5742x4xldmpo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "FC Andorra owner Gerard Pique says goalkeeper Jesus Owono did not deserve the 12-match suspension he received following his challenge which resulted in the death of Tenerife forward Jesus de Miguel.",
-        "publishedAt": "2026-11-17T08:28:10.000Z",
+        "description": "England could host the Nations League finals this season after Football Association officials register their interest.",
+        "publishedAt": "2026-11-17T15:51:30.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Scouted as a spectator, now on brink of NFL",
-        "url": "https://www.bbc.co.uk/sport/american-football/articles/cm0ev1d54n52o?at_medium=RSS&at_campaign=rss",
+        "title": "Arsenal Double winner Storey dies aged 81",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c63eg3ekxnpyo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Emmanuel Oyebadejo was supposed to be studying medicine and playing basketball. How did he become tipped to make British history in a completely different sport?",
-        "publishedAt": "2026-11-17T06:43:42.000Z",
+        "description": "Former Arsenal and England midfielder Peter Storey - who helped the Gunners win the Double in 1970-71 - has died at the age of 81.",
+        "publishedAt": "2026-11-17T17:33:41.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Littler hits triple-bull, but Price checkout doesn't add up",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/cwkgr9m0d0e5o?at_medium=RSS&at_campaign=rss",
+        "title": "Woods set to return next month after two years out",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cm93080ep703o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Gerwyn Price and Luke Littler make it through to the Grand Slam of Darts knockout stage after a rare counting error and a sensational triple-bull checkout in Wolverhampton.",
-        "publishedAt": "2026-11-16T22:54:37.000Z",
+        "description": "Tiger Woods is set to return to competitive golf in December for the first time in more than two years.",
+        "publishedAt": "2026-11-17T15:54:36.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "'Is that not match-fixing?' - Erasmus questions officiating",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ck0jx1dnd38go?at_medium=RSS&at_campaign=rss",
+        "title": "Bethell to have more surgery and miss South Africa tour",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c893rgz2946yo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "South Africa head coach Rassie Erasmus predicts Ireland fly-half Sam Prendergast will not face a ban after being cited, and questions standards in officiating.",
-        "publishedAt": "2026-11-16T23:14:48.000Z",
+        "description": "Jacob Bethell will miss England’s Test tour of South Africa because he requires more surgery on the knee injury that has kept him out since July.",
+        "publishedAt": "2026-11-17T13:18:58.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Irish boxer Reeves dies aged 31 after three months in coma",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cv4gnp901zzxo?at_medium=RSS&at_campaign=rss",
+        "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Irish boxer Lee Reeves has died aged 31, three months after he suffered serious injuries in a bout in Dublin, his promoter Queensberry has announced.",
-        "publishedAt": "2026-11-17T07:18:08.000Z",
+        "description": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
+        "publishedAt": "2026-11-17T10:32:07.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "Ronaldo, Maradona, Baggio - what happened to the World XI?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwj34058rvv6o?at_medium=RSS&at_campaign=rss",
+        "title": "DeChambeau joins DP World Tour after LIV Golf collapse",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/c5vg27yzm9exo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Football's biggest stars used to turn out in their prime for the Rest of the World XI, something that would not seem possible today.",
-        "publishedAt": "2026-11-17T07:22:26.000Z",
+        "description": "American superstar Bryson DeChambeau is among a number of former LIV players who will play on the European-based DP World Tour next season.",
+        "publishedAt": "2026-11-17T13:44:17.000Z",
         "category": "sports",
         "zone": "ca"
       }
@@ -2763,6 +2763,61 @@
   "technology_us": {
     "articles": [
       {
+        "title": "How new US chip restrictions on South East Asia will hit China",
+        "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+        "publishedAt": "2026-11-17T14:25:45.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
+        "title": "NHS data contract to stay with Palantir until 2029",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
+        "publishedAt": "2026-11-17T12:00:12.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
+        "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+        "publishedAt": "2026-11-17T11:49:01.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
+        "title": "US government confirms investigation into tech firm Megaspeed",
+        "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+        "publishedAt": "2026-11-17T11:17:32.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
+        "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
+        "url": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
+        "publishedAt": "2026-11-17T09:41:07.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
         "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
         "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2770,17 +2825,6 @@
         },
         "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
         "publishedAt": "2026-11-17T02:37:53.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
-        "publishedAt": "2026-11-17T01:04:45.000Z",
         "category": "technology",
         "zone": "us"
       },
@@ -2803,50 +2847,6 @@
         },
         "description": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
         "publishedAt": "2026-11-16T23:12:24.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "GTA 6 hacker pleads guilty after release from secure hospital",
-        "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
-        "publishedAt": "2026-11-16T13:34:22.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "Intel sued by investors after PC sales slump hits share price",
-        "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
-        "publishedAt": "2026-11-16T03:04:01.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-        "publishedAt": "2026-11-16T01:47:57.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-        "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-        "publishedAt": "2026-11-15T13:37:45.000Z",
         "category": "technology",
         "zone": "us"
       }
@@ -2855,6 +2855,61 @@
   "technology_gb": {
     "articles": [
       {
+        "title": "How new US chip restrictions on South East Asia will hit China",
+        "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+        "publishedAt": "2026-11-17T14:25:45.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
+        "title": "NHS data contract to stay with Palantir until 2029",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
+        "publishedAt": "2026-11-17T12:00:12.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
+        "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+        "publishedAt": "2026-11-17T11:49:01.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
+        "title": "US government confirms investigation into tech firm Megaspeed",
+        "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+        "publishedAt": "2026-11-17T11:17:32.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
+        "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
+        "url": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
+        "publishedAt": "2026-11-17T09:41:07.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
         "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
         "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2862,17 +2917,6 @@
         },
         "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
         "publishedAt": "2026-11-17T02:37:53.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
-        "publishedAt": "2026-11-17T01:04:45.000Z",
         "category": "technology",
         "zone": "gb"
       },
@@ -2895,50 +2939,6 @@
         },
         "description": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
         "publishedAt": "2026-11-16T23:12:24.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "GTA 6 hacker pleads guilty after release from secure hospital",
-        "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
-        "publishedAt": "2026-11-16T13:34:22.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "Intel sued by investors after PC sales slump hits share price",
-        "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
-        "publishedAt": "2026-11-16T03:04:01.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-        "publishedAt": "2026-11-16T01:47:57.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-        "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-        "publishedAt": "2026-11-15T13:37:45.000Z",
         "category": "technology",
         "zone": "gb"
       }
@@ -2947,6 +2947,61 @@
   "technology_in": {
     "articles": [
       {
+        "title": "How new US chip restrictions on South East Asia will hit China",
+        "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+        "publishedAt": "2026-11-17T14:25:45.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
+        "title": "NHS data contract to stay with Palantir until 2029",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
+        "publishedAt": "2026-11-17T12:00:12.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
+        "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+        "publishedAt": "2026-11-17T11:49:01.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
+        "title": "US government confirms investigation into tech firm Megaspeed",
+        "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+        "publishedAt": "2026-11-17T11:17:32.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
+        "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
+        "url": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
+        "publishedAt": "2026-11-17T09:41:07.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
         "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
         "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2954,17 +3009,6 @@
         },
         "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
         "publishedAt": "2026-11-17T02:37:53.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
-        "publishedAt": "2026-11-17T01:04:45.000Z",
         "category": "technology",
         "zone": "in"
       },
@@ -2987,50 +3031,6 @@
         },
         "description": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
         "publishedAt": "2026-11-16T23:12:24.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "GTA 6 hacker pleads guilty after release from secure hospital",
-        "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
-        "publishedAt": "2026-11-16T13:34:22.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "Intel sued by investors after PC sales slump hits share price",
-        "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
-        "publishedAt": "2026-11-16T03:04:01.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-        "publishedAt": "2026-11-16T01:47:57.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-        "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-        "publishedAt": "2026-11-15T13:37:45.000Z",
         "category": "technology",
         "zone": "in"
       }
@@ -3039,6 +3039,61 @@
   "technology_au": {
     "articles": [
       {
+        "title": "How new US chip restrictions on South East Asia will hit China",
+        "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+        "publishedAt": "2026-11-17T14:25:45.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
+        "title": "NHS data contract to stay with Palantir until 2029",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
+        "publishedAt": "2026-11-17T12:00:12.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
+        "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+        "publishedAt": "2026-11-17T11:49:01.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
+        "title": "US government confirms investigation into tech firm Megaspeed",
+        "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+        "publishedAt": "2026-11-17T11:17:32.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
+        "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
+        "url": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
+        "publishedAt": "2026-11-17T09:41:07.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
         "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
         "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3046,17 +3101,6 @@
         },
         "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
         "publishedAt": "2026-11-17T02:37:53.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
-        "publishedAt": "2026-11-17T01:04:45.000Z",
         "category": "technology",
         "zone": "au"
       },
@@ -3079,50 +3123,6 @@
         },
         "description": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
         "publishedAt": "2026-11-16T23:12:24.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "GTA 6 hacker pleads guilty after release from secure hospital",
-        "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
-        "publishedAt": "2026-11-16T13:34:22.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "Intel sued by investors after PC sales slump hits share price",
-        "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
-        "publishedAt": "2026-11-16T03:04:01.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-        "publishedAt": "2026-11-16T01:47:57.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-        "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-        "publishedAt": "2026-11-15T13:37:45.000Z",
         "category": "technology",
         "zone": "au"
       }
@@ -3131,6 +3131,61 @@
   "technology_ca": {
     "articles": [
       {
+        "title": "How new US chip restrictions on South East Asia will hit China",
+        "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+        "publishedAt": "2026-11-17T14:25:45.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
+        "title": "NHS data contract to stay with Palantir until 2029",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
+        "publishedAt": "2026-11-17T12:00:12.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
+        "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+        "publishedAt": "2026-11-17T11:49:01.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
+        "title": "US government confirms investigation into tech firm Megaspeed",
+        "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+        "publishedAt": "2026-11-17T11:17:32.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
+        "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
+        "url": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
+        "publishedAt": "2026-11-17T09:41:07.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
         "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
         "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3138,17 +3193,6 @@
         },
         "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
         "publishedAt": "2026-11-17T02:37:53.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
-        "publishedAt": "2026-11-17T01:04:45.000Z",
         "category": "technology",
         "zone": "ca"
       },
@@ -3171,50 +3215,6 @@
         },
         "description": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
         "publishedAt": "2026-11-16T23:12:24.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "GTA 6 hacker pleads guilty after release from secure hospital",
-        "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
-        "publishedAt": "2026-11-16T13:34:22.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "Intel sued by investors after PC sales slump hits share price",
-        "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
-        "publishedAt": "2026-11-16T03:04:01.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-        "publishedAt": "2026-11-16T01:47:57.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-        "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-        "publishedAt": "2026-11-15T13:37:45.000Z",
         "category": "technology",
         "zone": "ca"
       }
