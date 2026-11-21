@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-11-20T18:23:17.978Z",
+  "generatedAt": "2026-11-21T00:39:24.306Z",
   "general_us": {
     "articles": [
+      {
+        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+        "publishedAt": "2026-11-20T17:49:48.000Z",
+        "category": "general",
+        "zone": "us"
+      },
       {
         "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
         "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
@@ -30,30 +41,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "What we know about the latest Russian missile strikes on Ukraine.",
+        "description": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
         "publishedAt": "2026-11-20T15:14:01.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
-        "url": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A judge called the anti-migrant activist a “publicity seeker” who disrupted the work of rescue crews.",
-        "publishedAt": "2026-11-20T16:39:49.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Other tech companies have also taken a hit as share markets broadly slump.",
-        "publishedAt": "2026-11-20T17:36:29.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -69,24 +58,35 @@
         "zone": "us"
       },
       {
-        "title": "Calls for consent defence change after Joanne Young rape case",
-        "url": "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss",
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Joanne Young's daughter joins her mother in calling for a change to the law on consent.",
-        "publishedAt": "2026-11-20T17:41:23.000Z",
+        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "publishedAt": "2026-11-20T22:42:47.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "'Dishonest' police officers sacked for lying over fatal crash searches",
-        "url": "https://www.bbc.co.uk/news/articles/cm2klg8512z0o?at_medium=RSS&at_campaign=rss",
+        "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
+        "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "PC Richard Hardwick and PC Lauren Livingstone have been dismissed without notice.",
-        "publishedAt": "2026-11-20T14:56:06.000Z",
+        "description": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
+        "publishedAt": "2026-11-21T00:02:09.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
+        "url": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A judge called the anti-migrant activist a “publicity seeker” who disrupted the work of rescue crews.",
+        "publishedAt": "2026-11-20T16:39:49.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,6 +95,17 @@
   "general_gb": {
     "articles": [
       {
+        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+        "publishedAt": "2026-11-20T17:49:48.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
         "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
         "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -122,30 +133,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "What we know about the latest Russian missile strikes on Ukraine.",
+        "description": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
         "publishedAt": "2026-11-20T15:14:01.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
-        "url": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A judge called the anti-migrant activist a “publicity seeker” who disrupted the work of rescue crews.",
-        "publishedAt": "2026-11-20T16:39:49.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Other tech companies have also taken a hit as share markets broadly slump.",
-        "publishedAt": "2026-11-20T17:36:29.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -161,24 +150,35 @@
         "zone": "gb"
       },
       {
-        "title": "Calls for consent defence change after Joanne Young rape case",
-        "url": "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss",
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Joanne Young's daughter joins her mother in calling for a change to the law on consent.",
-        "publishedAt": "2026-11-20T17:41:23.000Z",
+        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "publishedAt": "2026-11-20T22:42:47.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "'Dishonest' police officers sacked for lying over fatal crash searches",
-        "url": "https://www.bbc.co.uk/news/articles/cm2klg8512z0o?at_medium=RSS&at_campaign=rss",
+        "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
+        "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "PC Richard Hardwick and PC Lauren Livingstone have been dismissed without notice.",
-        "publishedAt": "2026-11-20T14:56:06.000Z",
+        "description": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
+        "publishedAt": "2026-11-21T00:02:09.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
+        "url": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A judge called the anti-migrant activist a “publicity seeker” who disrupted the work of rescue crews.",
+        "publishedAt": "2026-11-20T16:39:49.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,6 +187,17 @@
   "general_in": {
     "articles": [
       {
+        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+        "publishedAt": "2026-11-20T17:49:48.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
         "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
         "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -214,30 +225,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "What we know about the latest Russian missile strikes on Ukraine.",
+        "description": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
         "publishedAt": "2026-11-20T15:14:01.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
-        "url": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A judge called the anti-migrant activist a “publicity seeker” who disrupted the work of rescue crews.",
-        "publishedAt": "2026-11-20T16:39:49.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Other tech companies have also taken a hit as share markets broadly slump.",
-        "publishedAt": "2026-11-20T17:36:29.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -253,24 +242,35 @@
         "zone": "in"
       },
       {
-        "title": "Calls for consent defence change after Joanne Young rape case",
-        "url": "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss",
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Joanne Young's daughter joins her mother in calling for a change to the law on consent.",
-        "publishedAt": "2026-11-20T17:41:23.000Z",
+        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "publishedAt": "2026-11-20T22:42:47.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "'Dishonest' police officers sacked for lying over fatal crash searches",
-        "url": "https://www.bbc.co.uk/news/articles/cm2klg8512z0o?at_medium=RSS&at_campaign=rss",
+        "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
+        "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "PC Richard Hardwick and PC Lauren Livingstone have been dismissed without notice.",
-        "publishedAt": "2026-11-20T14:56:06.000Z",
+        "description": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
+        "publishedAt": "2026-11-21T00:02:09.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
+        "url": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A judge called the anti-migrant activist a “publicity seeker” who disrupted the work of rescue crews.",
+        "publishedAt": "2026-11-20T16:39:49.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,6 +279,17 @@
   "general_au": {
     "articles": [
       {
+        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+        "publishedAt": "2026-11-20T17:49:48.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
         "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
         "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -306,30 +317,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "What we know about the latest Russian missile strikes on Ukraine.",
+        "description": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
         "publishedAt": "2026-11-20T15:14:01.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
-        "url": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A judge called the anti-migrant activist a “publicity seeker” who disrupted the work of rescue crews.",
-        "publishedAt": "2026-11-20T16:39:49.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Other tech companies have also taken a hit as share markets broadly slump.",
-        "publishedAt": "2026-11-20T17:36:29.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -345,24 +334,35 @@
         "zone": "au"
       },
       {
-        "title": "Calls for consent defence change after Joanne Young rape case",
-        "url": "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss",
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Joanne Young's daughter joins her mother in calling for a change to the law on consent.",
-        "publishedAt": "2026-11-20T17:41:23.000Z",
+        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "publishedAt": "2026-11-20T22:42:47.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "'Dishonest' police officers sacked for lying over fatal crash searches",
-        "url": "https://www.bbc.co.uk/news/articles/cm2klg8512z0o?at_medium=RSS&at_campaign=rss",
+        "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
+        "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "PC Richard Hardwick and PC Lauren Livingstone have been dismissed without notice.",
-        "publishedAt": "2026-11-20T14:56:06.000Z",
+        "description": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
+        "publishedAt": "2026-11-21T00:02:09.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
+        "url": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A judge called the anti-migrant activist a “publicity seeker” who disrupted the work of rescue crews.",
+        "publishedAt": "2026-11-20T16:39:49.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,6 +371,17 @@
   "general_ca": {
     "articles": [
       {
+        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+        "publishedAt": "2026-11-20T17:49:48.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
         "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
         "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -398,30 +409,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "What we know about the latest Russian missile strikes on Ukraine.",
+        "description": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
         "publishedAt": "2026-11-20T15:14:01.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
-        "url": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "A judge called the anti-migrant activist a “publicity seeker” who disrupted the work of rescue crews.",
-        "publishedAt": "2026-11-20T16:39:49.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Other tech companies have also taken a hit as share markets broadly slump.",
-        "publishedAt": "2026-11-20T17:36:29.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -437,24 +426,35 @@
         "zone": "ca"
       },
       {
-        "title": "Calls for consent defence change after Joanne Young rape case",
-        "url": "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss",
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Joanne Young's daughter joins her mother in calling for a change to the law on consent.",
-        "publishedAt": "2026-11-20T17:41:23.000Z",
+        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "publishedAt": "2026-11-20T22:42:47.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "'Dishonest' police officers sacked for lying over fatal crash searches",
-        "url": "https://www.bbc.co.uk/news/articles/cm2klg8512z0o?at_medium=RSS&at_campaign=rss",
+        "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
+        "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "PC Richard Hardwick and PC Lauren Livingstone have been dismissed without notice.",
-        "publishedAt": "2026-11-20T14:56:06.000Z",
+        "description": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
+        "publishedAt": "2026-11-21T00:02:09.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
+        "url": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A judge called the anti-migrant activist a “publicity seeker” who disrupted the work of rescue crews.",
+        "publishedAt": "2026-11-20T16:39:49.000Z",
         "category": "general",
         "zone": "ca"
       }
@@ -463,13 +463,24 @@
   "business_us": {
     "articles": [
       {
-        "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
         "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Other tech companies have also taken a hit as share markets broadly slump.",
-        "publishedAt": "2026-11-20T17:36:29.000Z",
+        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "publishedAt": "2026-11-20T22:42:47.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+        "publishedAt": "2026-11-20T17:49:48.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -481,6 +492,39 @@
         },
         "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
         "publishedAt": "2026-11-20T16:41:52.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Trump threatens ban on US firms building AI data centres overseas",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+        "publishedAt": "2026-11-20T20:54:12.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+        "publishedAt": "2026-11-20T22:53:24.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Should AI be judging our credit worthiness?",
+        "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+        "publishedAt": "2026-11-20T07:32:19.000Z",
         "category": "business",
         "zone": "us"
       },
@@ -503,50 +547,6 @@
         },
         "description": "Eating at your desk? The dos and don'ts of lunch at work",
         "publishedAt": "2026-11-20T00:08:37.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Should AI be judging our credit worthiness?",
-        "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-        "publishedAt": "2026-11-20T07:32:19.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Airbnb's divisive new house rules come into force",
-        "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
-        "publishedAt": "2026-11-20T15:48:35.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-        "publishedAt": "2026-11-20T13:08:30.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-        "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
-        "publishedAt": "2026-11-20T06:00:33.000Z",
         "category": "business",
         "zone": "us"
       }
@@ -555,13 +555,24 @@
   "business_gb": {
     "articles": [
       {
-        "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
         "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Other tech companies have also taken a hit as share markets broadly slump.",
-        "publishedAt": "2026-11-20T17:36:29.000Z",
+        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "publishedAt": "2026-11-20T22:42:47.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+        "publishedAt": "2026-11-20T17:49:48.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -573,6 +584,39 @@
         },
         "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
         "publishedAt": "2026-11-20T16:41:52.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Trump threatens ban on US firms building AI data centres overseas",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+        "publishedAt": "2026-11-20T20:54:12.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+        "publishedAt": "2026-11-20T22:53:24.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Should AI be judging our credit worthiness?",
+        "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+        "publishedAt": "2026-11-20T07:32:19.000Z",
         "category": "business",
         "zone": "gb"
       },
@@ -595,50 +639,6 @@
         },
         "description": "Eating at your desk? The dos and don'ts of lunch at work",
         "publishedAt": "2026-11-20T00:08:37.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Should AI be judging our credit worthiness?",
-        "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-        "publishedAt": "2026-11-20T07:32:19.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Airbnb's divisive new house rules come into force",
-        "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
-        "publishedAt": "2026-11-20T15:48:35.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-        "publishedAt": "2026-11-20T13:08:30.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-        "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
-        "publishedAt": "2026-11-20T06:00:33.000Z",
         "category": "business",
         "zone": "gb"
       }
@@ -647,13 +647,24 @@
   "business_in": {
     "articles": [
       {
-        "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
         "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Other tech companies have also taken a hit as share markets broadly slump.",
-        "publishedAt": "2026-11-20T17:36:29.000Z",
+        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "publishedAt": "2026-11-20T22:42:47.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+        "publishedAt": "2026-11-20T17:49:48.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -665,6 +676,39 @@
         },
         "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
         "publishedAt": "2026-11-20T16:41:52.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Trump threatens ban on US firms building AI data centres overseas",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+        "publishedAt": "2026-11-20T20:54:12.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+        "publishedAt": "2026-11-20T22:53:24.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Should AI be judging our credit worthiness?",
+        "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+        "publishedAt": "2026-11-20T07:32:19.000Z",
         "category": "business",
         "zone": "in"
       },
@@ -687,50 +731,6 @@
         },
         "description": "Eating at your desk? The dos and don'ts of lunch at work",
         "publishedAt": "2026-11-20T00:08:37.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Should AI be judging our credit worthiness?",
-        "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-        "publishedAt": "2026-11-20T07:32:19.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Airbnb's divisive new house rules come into force",
-        "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
-        "publishedAt": "2026-11-20T15:48:35.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-        "publishedAt": "2026-11-20T13:08:30.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-        "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
-        "publishedAt": "2026-11-20T06:00:33.000Z",
         "category": "business",
         "zone": "in"
       }
@@ -739,13 +739,24 @@
   "business_au": {
     "articles": [
       {
-        "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
         "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Other tech companies have also taken a hit as share markets broadly slump.",
-        "publishedAt": "2026-11-20T17:36:29.000Z",
+        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "publishedAt": "2026-11-20T22:42:47.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+        "publishedAt": "2026-11-20T17:49:48.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -757,6 +768,39 @@
         },
         "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
         "publishedAt": "2026-11-20T16:41:52.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Trump threatens ban on US firms building AI data centres overseas",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+        "publishedAt": "2026-11-20T20:54:12.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+        "publishedAt": "2026-11-20T22:53:24.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Should AI be judging our credit worthiness?",
+        "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+        "publishedAt": "2026-11-20T07:32:19.000Z",
         "category": "business",
         "zone": "au"
       },
@@ -779,50 +823,6 @@
         },
         "description": "Eating at your desk? The dos and don'ts of lunch at work",
         "publishedAt": "2026-11-20T00:08:37.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Should AI be judging our credit worthiness?",
-        "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-        "publishedAt": "2026-11-20T07:32:19.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Airbnb's divisive new house rules come into force",
-        "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
-        "publishedAt": "2026-11-20T15:48:35.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-        "publishedAt": "2026-11-20T13:08:30.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-        "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
-        "publishedAt": "2026-11-20T06:00:33.000Z",
         "category": "business",
         "zone": "au"
       }
@@ -831,13 +831,24 @@
   "business_ca": {
     "articles": [
       {
-        "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
         "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Other tech companies have also taken a hit as share markets broadly slump.",
-        "publishedAt": "2026-11-20T17:36:29.000Z",
+        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "publishedAt": "2026-11-20T22:42:47.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+        "publishedAt": "2026-11-20T17:49:48.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -849,6 +860,39 @@
         },
         "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
         "publishedAt": "2026-11-20T16:41:52.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Trump threatens ban on US firms building AI data centres overseas",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+        "publishedAt": "2026-11-20T20:54:12.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+        "publishedAt": "2026-11-20T22:53:24.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Should AI be judging our credit worthiness?",
+        "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+        "publishedAt": "2026-11-20T07:32:19.000Z",
         "category": "business",
         "zone": "ca"
       },
@@ -871,50 +915,6 @@
         },
         "description": "Eating at your desk? The dos and don'ts of lunch at work",
         "publishedAt": "2026-11-20T00:08:37.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Should AI be judging our credit worthiness?",
-        "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-        "publishedAt": "2026-11-20T07:32:19.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Airbnb's divisive new house rules come into force",
-        "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
-        "publishedAt": "2026-11-20T15:48:35.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-        "publishedAt": "2026-11-20T13:08:30.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-        "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
-        "publishedAt": "2026-11-20T06:00:33.000Z",
         "category": "business",
         "zone": "ca"
       }
@@ -934,13 +934,13 @@
         "zone": "us"
       },
       {
-        "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
+        "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
         "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-        "publishedAt": "2026-11-20T13:08:30.000Z",
+        "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+        "publishedAt": "2026-11-20T22:53:24.000Z",
         "category": "entertainment",
         "zone": "us"
       },
@@ -1026,13 +1026,13 @@
         "zone": "gb"
       },
       {
-        "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
+        "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
         "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-        "publishedAt": "2026-11-20T13:08:30.000Z",
+        "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+        "publishedAt": "2026-11-20T22:53:24.000Z",
         "category": "entertainment",
         "zone": "gb"
       },
@@ -1118,13 +1118,13 @@
         "zone": "in"
       },
       {
-        "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
+        "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
         "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-        "publishedAt": "2026-11-20T13:08:30.000Z",
+        "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+        "publishedAt": "2026-11-20T22:53:24.000Z",
         "category": "entertainment",
         "zone": "in"
       },
@@ -1210,13 +1210,13 @@
         "zone": "au"
       },
       {
-        "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
+        "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
         "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-        "publishedAt": "2026-11-20T13:08:30.000Z",
+        "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+        "publishedAt": "2026-11-20T22:53:24.000Z",
         "category": "entertainment",
         "zone": "au"
       },
@@ -1302,13 +1302,13 @@
         "zone": "ca"
       },
       {
-        "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
+        "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
         "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-        "publishedAt": "2026-11-20T13:08:30.000Z",
+        "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+        "publishedAt": "2026-11-20T22:53:24.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1383,6 +1383,17 @@
   "health_us": {
     "articles": [
       {
+        "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
+        "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
+        "publishedAt": "2026-11-21T00:02:09.000Z",
+        "category": "health",
+        "zone": "us"
+      },
+      {
         "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
         "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1456,17 +1467,6 @@
         },
         "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
         "publishedAt": "2026-11-17T10:36:21.000Z",
-        "category": "health",
-        "zone": "us"
-      },
-      {
-        "title": "Women's criminal records wiped for abortion offences",
-        "url": "https://www.bbc.co.uk/news/articles/cqjd7n37r2r9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Women arrested or convicted for having illegal abortions will have their criminal records wiped as new atomatic pardons come into force in England and Wales.",
-        "publishedAt": "2026-11-16T11:45:33.000Z",
         "category": "health",
         "zone": "us"
       }
@@ -1475,6 +1475,17 @@
   "health_gb": {
     "articles": [
       {
+        "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
+        "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
+        "publishedAt": "2026-11-21T00:02:09.000Z",
+        "category": "health",
+        "zone": "gb"
+      },
+      {
         "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
         "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1548,17 +1559,6 @@
         },
         "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
         "publishedAt": "2026-11-17T10:36:21.000Z",
-        "category": "health",
-        "zone": "gb"
-      },
-      {
-        "title": "Women's criminal records wiped for abortion offences",
-        "url": "https://www.bbc.co.uk/news/articles/cqjd7n37r2r9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Women arrested or convicted for having illegal abortions will have their criminal records wiped as new atomatic pardons come into force in England and Wales.",
-        "publishedAt": "2026-11-16T11:45:33.000Z",
         "category": "health",
         "zone": "gb"
       }
@@ -1567,6 +1567,17 @@
   "health_in": {
     "articles": [
       {
+        "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
+        "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
+        "publishedAt": "2026-11-21T00:02:09.000Z",
+        "category": "health",
+        "zone": "in"
+      },
+      {
         "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
         "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1640,17 +1651,6 @@
         },
         "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
         "publishedAt": "2026-11-17T10:36:21.000Z",
-        "category": "health",
-        "zone": "in"
-      },
-      {
-        "title": "Women's criminal records wiped for abortion offences",
-        "url": "https://www.bbc.co.uk/news/articles/cqjd7n37r2r9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Women arrested or convicted for having illegal abortions will have their criminal records wiped as new atomatic pardons come into force in England and Wales.",
-        "publishedAt": "2026-11-16T11:45:33.000Z",
         "category": "health",
         "zone": "in"
       }
@@ -1659,6 +1659,17 @@
   "health_au": {
     "articles": [
       {
+        "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
+        "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
+        "publishedAt": "2026-11-21T00:02:09.000Z",
+        "category": "health",
+        "zone": "au"
+      },
+      {
         "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
         "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1732,17 +1743,6 @@
         },
         "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
         "publishedAt": "2026-11-17T10:36:21.000Z",
-        "category": "health",
-        "zone": "au"
-      },
-      {
-        "title": "Women's criminal records wiped for abortion offences",
-        "url": "https://www.bbc.co.uk/news/articles/cqjd7n37r2r9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Women arrested or convicted for having illegal abortions will have their criminal records wiped as new atomatic pardons come into force in England and Wales.",
-        "publishedAt": "2026-11-16T11:45:33.000Z",
         "category": "health",
         "zone": "au"
       }
@@ -1751,6 +1751,17 @@
   "health_ca": {
     "articles": [
       {
+        "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
+        "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
+        "publishedAt": "2026-11-21T00:02:09.000Z",
+        "category": "health",
+        "zone": "ca"
+      },
+      {
         "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
         "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1824,17 +1835,6 @@
         },
         "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
         "publishedAt": "2026-11-17T10:36:21.000Z",
-        "category": "health",
-        "zone": "ca"
-      },
-      {
-        "title": "Women's criminal records wiped for abortion offences",
-        "url": "https://www.bbc.co.uk/news/articles/cqjd7n37r2r9o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Women arrested or convicted for having illegal abortions will have their criminal records wiped as new atomatic pardons come into force in England and Wales.",
-        "publishedAt": "2026-11-16T11:45:33.000Z",
         "category": "health",
         "zone": "ca"
       }
@@ -2303,13 +2303,24 @@
   "sports_us": {
     "articles": [
       {
-        "title": "Man Utd fan criticism has gone too far at times - Berrada",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
+        "title": "Price beats Kotaskova to become undisputed champion",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cw808y2lrkzxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
-        "publishedAt": "2026-11-20T16:55:11.000Z",
+        "description": "Lauren Price dominates Michaela Kotaskova to seal her place in history by becoming undisputed world welterweight champion.",
+        "publishedAt": "2026-11-20T23:30:56.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Cost of Man Utd hiring and firing managers nears £100m",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer.",
+        "publishedAt": "2026-11-20T23:18:16.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2325,24 +2336,35 @@
         "zone": "us"
       },
       {
-        "title": "Filming training by drones should be illegal - Iraola",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o?at_medium=RSS&at_campaign=rss",
+        "title": "NFL great Brady could buy Chelsea stake",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Liverpool head coach Andoni Iraola says filming with drones around training grounds should be illegal.",
-        "publishedAt": "2026-11-20T15:08:51.000Z",
+        "description": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital.",
+        "publishedAt": "2026-11-20T22:36:35.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "'No-one is going to break us' - defiant Boks face Ireland without Erasmus",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm930nj435dvo?at_medium=RSS&at_campaign=rss",
+        "title": "Price survives match darts to reach Grand Slam semis",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/ck7928yjd1dgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "South Africa prepare to face Ireland in a much-anticipated Nations Championship Test in Dublin without banned head coach Rassie Erasmus.",
-        "publishedAt": "2026-11-20T16:28:47.000Z",
+        "description": "Gerwyn Price faces two match darts before winning a thrilling quarter-final against Nico Springer at the Grand Slam of Darts, as Luke Littler's conqueror Jermaine Wattimena is knocked out.",
+        "publishedAt": "2026-11-20T22:30:34.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "Osimhen keen on Man Utd move - Saturday's gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c60qj1924wyeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Victor Osimhen is keen on a move to Manchester United, Aston Villa are interested in Amad Diallo and Ivan Toney is a target for Crystal Palace, plus more.",
+        "publishedAt": "2026-11-20T20:06:51.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2353,40 +2375,18 @@
           "name": "RSS Feed"
         },
         "description": "A ruthless Carlos Alcaraz puts aside his injury concerns to dismantle Flavio Cobolli and ensure a perfect record in the ATP Finals group stages.",
-        "publishedAt": "2026-11-20T14:55:49.000Z",
+        "publishedAt": "2026-11-20T21:58:24.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "'Right time' for Smith exit - but Murray not ready for role",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cvze7d03880ko?at_medium=RSS&at_campaign=rss",
+        "title": "Man Utd fan criticism has gone too far at times - Berrada",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Leon Smith steps down as Britain's Davis Cup captain after almost 17 years, but \"standout candidate\" Andy Murray is unlikely to replace him.",
-        "publishedAt": "2026-11-20T17:47:38.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Why injured Joao Pedro may be Chelsea's most important player",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr62p7x23vg3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "With Joao Pedro missing again for Chelsea on Saturday, BBC Sport looks at the importance of the Brazilian to the Blues.",
-        "publishedAt": "2026-11-20T15:18:42.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Cummins retains Cricket Australia support as captain",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Pat Cummins will retain backing from Cricket Australia to remain as Test captain despite ongoing and explosive allegations about the sandpaper controversy.",
-        "publishedAt": "2026-11-20T10:13:23.000Z",
+        "description": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
+        "publishedAt": "2026-11-20T16:55:11.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2395,13 +2395,24 @@
   "sports_gb": {
     "articles": [
       {
-        "title": "Man Utd fan criticism has gone too far at times - Berrada",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
+        "title": "Price beats Kotaskova to become undisputed champion",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cw808y2lrkzxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
-        "publishedAt": "2026-11-20T16:55:11.000Z",
+        "description": "Lauren Price dominates Michaela Kotaskova to seal her place in history by becoming undisputed world welterweight champion.",
+        "publishedAt": "2026-11-20T23:30:56.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Cost of Man Utd hiring and firing managers nears £100m",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer.",
+        "publishedAt": "2026-11-20T23:18:16.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2417,24 +2428,35 @@
         "zone": "gb"
       },
       {
-        "title": "Filming training by drones should be illegal - Iraola",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o?at_medium=RSS&at_campaign=rss",
+        "title": "NFL great Brady could buy Chelsea stake",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Liverpool head coach Andoni Iraola says filming with drones around training grounds should be illegal.",
-        "publishedAt": "2026-11-20T15:08:51.000Z",
+        "description": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital.",
+        "publishedAt": "2026-11-20T22:36:35.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "'No-one is going to break us' - defiant Boks face Ireland without Erasmus",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm930nj435dvo?at_medium=RSS&at_campaign=rss",
+        "title": "Price survives match darts to reach Grand Slam semis",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/ck7928yjd1dgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "South Africa prepare to face Ireland in a much-anticipated Nations Championship Test in Dublin without banned head coach Rassie Erasmus.",
-        "publishedAt": "2026-11-20T16:28:47.000Z",
+        "description": "Gerwyn Price faces two match darts before winning a thrilling quarter-final against Nico Springer at the Grand Slam of Darts, as Luke Littler's conqueror Jermaine Wattimena is knocked out.",
+        "publishedAt": "2026-11-20T22:30:34.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "Osimhen keen on Man Utd move - Saturday's gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c60qj1924wyeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Victor Osimhen is keen on a move to Manchester United, Aston Villa are interested in Amad Diallo and Ivan Toney is a target for Crystal Palace, plus more.",
+        "publishedAt": "2026-11-20T20:06:51.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2445,40 +2467,18 @@
           "name": "RSS Feed"
         },
         "description": "A ruthless Carlos Alcaraz puts aside his injury concerns to dismantle Flavio Cobolli and ensure a perfect record in the ATP Finals group stages.",
-        "publishedAt": "2026-11-20T14:55:49.000Z",
+        "publishedAt": "2026-11-20T21:58:24.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "'Right time' for Smith exit - but Murray not ready for role",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cvze7d03880ko?at_medium=RSS&at_campaign=rss",
+        "title": "Man Utd fan criticism has gone too far at times - Berrada",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Leon Smith steps down as Britain's Davis Cup captain after almost 17 years, but \"standout candidate\" Andy Murray is unlikely to replace him.",
-        "publishedAt": "2026-11-20T17:47:38.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Why injured Joao Pedro may be Chelsea's most important player",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr62p7x23vg3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "With Joao Pedro missing again for Chelsea on Saturday, BBC Sport looks at the importance of the Brazilian to the Blues.",
-        "publishedAt": "2026-11-20T15:18:42.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Cummins retains Cricket Australia support as captain",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Pat Cummins will retain backing from Cricket Australia to remain as Test captain despite ongoing and explosive allegations about the sandpaper controversy.",
-        "publishedAt": "2026-11-20T10:13:23.000Z",
+        "description": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
+        "publishedAt": "2026-11-20T16:55:11.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2487,13 +2487,24 @@
   "sports_in": {
     "articles": [
       {
-        "title": "Man Utd fan criticism has gone too far at times - Berrada",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
+        "title": "Price beats Kotaskova to become undisputed champion",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cw808y2lrkzxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
-        "publishedAt": "2026-11-20T16:55:11.000Z",
+        "description": "Lauren Price dominates Michaela Kotaskova to seal her place in history by becoming undisputed world welterweight champion.",
+        "publishedAt": "2026-11-20T23:30:56.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Cost of Man Utd hiring and firing managers nears £100m",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer.",
+        "publishedAt": "2026-11-20T23:18:16.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2509,24 +2520,35 @@
         "zone": "in"
       },
       {
-        "title": "Filming training by drones should be illegal - Iraola",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o?at_medium=RSS&at_campaign=rss",
+        "title": "NFL great Brady could buy Chelsea stake",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Liverpool head coach Andoni Iraola says filming with drones around training grounds should be illegal.",
-        "publishedAt": "2026-11-20T15:08:51.000Z",
+        "description": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital.",
+        "publishedAt": "2026-11-20T22:36:35.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "'No-one is going to break us' - defiant Boks face Ireland without Erasmus",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm930nj435dvo?at_medium=RSS&at_campaign=rss",
+        "title": "Price survives match darts to reach Grand Slam semis",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/ck7928yjd1dgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "South Africa prepare to face Ireland in a much-anticipated Nations Championship Test in Dublin without banned head coach Rassie Erasmus.",
-        "publishedAt": "2026-11-20T16:28:47.000Z",
+        "description": "Gerwyn Price faces two match darts before winning a thrilling quarter-final against Nico Springer at the Grand Slam of Darts, as Luke Littler's conqueror Jermaine Wattimena is knocked out.",
+        "publishedAt": "2026-11-20T22:30:34.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "Osimhen keen on Man Utd move - Saturday's gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c60qj1924wyeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Victor Osimhen is keen on a move to Manchester United, Aston Villa are interested in Amad Diallo and Ivan Toney is a target for Crystal Palace, plus more.",
+        "publishedAt": "2026-11-20T20:06:51.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2537,40 +2559,18 @@
           "name": "RSS Feed"
         },
         "description": "A ruthless Carlos Alcaraz puts aside his injury concerns to dismantle Flavio Cobolli and ensure a perfect record in the ATP Finals group stages.",
-        "publishedAt": "2026-11-20T14:55:49.000Z",
+        "publishedAt": "2026-11-20T21:58:24.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "'Right time' for Smith exit - but Murray not ready for role",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cvze7d03880ko?at_medium=RSS&at_campaign=rss",
+        "title": "Man Utd fan criticism has gone too far at times - Berrada",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Leon Smith steps down as Britain's Davis Cup captain after almost 17 years, but \"standout candidate\" Andy Murray is unlikely to replace him.",
-        "publishedAt": "2026-11-20T17:47:38.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Why injured Joao Pedro may be Chelsea's most important player",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr62p7x23vg3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "With Joao Pedro missing again for Chelsea on Saturday, BBC Sport looks at the importance of the Brazilian to the Blues.",
-        "publishedAt": "2026-11-20T15:18:42.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Cummins retains Cricket Australia support as captain",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Pat Cummins will retain backing from Cricket Australia to remain as Test captain despite ongoing and explosive allegations about the sandpaper controversy.",
-        "publishedAt": "2026-11-20T10:13:23.000Z",
+        "description": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
+        "publishedAt": "2026-11-20T16:55:11.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2579,13 +2579,24 @@
   "sports_au": {
     "articles": [
       {
-        "title": "Man Utd fan criticism has gone too far at times - Berrada",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
+        "title": "Price beats Kotaskova to become undisputed champion",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cw808y2lrkzxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
-        "publishedAt": "2026-11-20T16:55:11.000Z",
+        "description": "Lauren Price dominates Michaela Kotaskova to seal her place in history by becoming undisputed world welterweight champion.",
+        "publishedAt": "2026-11-20T23:30:56.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Cost of Man Utd hiring and firing managers nears £100m",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer.",
+        "publishedAt": "2026-11-20T23:18:16.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2601,24 +2612,35 @@
         "zone": "au"
       },
       {
-        "title": "Filming training by drones should be illegal - Iraola",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o?at_medium=RSS&at_campaign=rss",
+        "title": "NFL great Brady could buy Chelsea stake",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Liverpool head coach Andoni Iraola says filming with drones around training grounds should be illegal.",
-        "publishedAt": "2026-11-20T15:08:51.000Z",
+        "description": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital.",
+        "publishedAt": "2026-11-20T22:36:35.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "'No-one is going to break us' - defiant Boks face Ireland without Erasmus",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm930nj435dvo?at_medium=RSS&at_campaign=rss",
+        "title": "Price survives match darts to reach Grand Slam semis",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/ck7928yjd1dgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "South Africa prepare to face Ireland in a much-anticipated Nations Championship Test in Dublin without banned head coach Rassie Erasmus.",
-        "publishedAt": "2026-11-20T16:28:47.000Z",
+        "description": "Gerwyn Price faces two match darts before winning a thrilling quarter-final against Nico Springer at the Grand Slam of Darts, as Luke Littler's conqueror Jermaine Wattimena is knocked out.",
+        "publishedAt": "2026-11-20T22:30:34.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "Osimhen keen on Man Utd move - Saturday's gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c60qj1924wyeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Victor Osimhen is keen on a move to Manchester United, Aston Villa are interested in Amad Diallo and Ivan Toney is a target for Crystal Palace, plus more.",
+        "publishedAt": "2026-11-20T20:06:51.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2629,40 +2651,18 @@
           "name": "RSS Feed"
         },
         "description": "A ruthless Carlos Alcaraz puts aside his injury concerns to dismantle Flavio Cobolli and ensure a perfect record in the ATP Finals group stages.",
-        "publishedAt": "2026-11-20T14:55:49.000Z",
+        "publishedAt": "2026-11-20T21:58:24.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "'Right time' for Smith exit - but Murray not ready for role",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cvze7d03880ko?at_medium=RSS&at_campaign=rss",
+        "title": "Man Utd fan criticism has gone too far at times - Berrada",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Leon Smith steps down as Britain's Davis Cup captain after almost 17 years, but \"standout candidate\" Andy Murray is unlikely to replace him.",
-        "publishedAt": "2026-11-20T17:47:38.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Why injured Joao Pedro may be Chelsea's most important player",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr62p7x23vg3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "With Joao Pedro missing again for Chelsea on Saturday, BBC Sport looks at the importance of the Brazilian to the Blues.",
-        "publishedAt": "2026-11-20T15:18:42.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Cummins retains Cricket Australia support as captain",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Pat Cummins will retain backing from Cricket Australia to remain as Test captain despite ongoing and explosive allegations about the sandpaper controversy.",
-        "publishedAt": "2026-11-20T10:13:23.000Z",
+        "description": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
+        "publishedAt": "2026-11-20T16:55:11.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2671,13 +2671,24 @@
   "sports_ca": {
     "articles": [
       {
-        "title": "Man Utd fan criticism has gone too far at times - Berrada",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
+        "title": "Price beats Kotaskova to become undisputed champion",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cw808y2lrkzxo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
-        "publishedAt": "2026-11-20T16:55:11.000Z",
+        "description": "Lauren Price dominates Michaela Kotaskova to seal her place in history by becoming undisputed world welterweight champion.",
+        "publishedAt": "2026-11-20T23:30:56.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Cost of Man Utd hiring and firing managers nears £100m",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer.",
+        "publishedAt": "2026-11-20T23:18:16.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2693,24 +2704,35 @@
         "zone": "ca"
       },
       {
-        "title": "Filming training by drones should be illegal - Iraola",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o?at_medium=RSS&at_campaign=rss",
+        "title": "NFL great Brady could buy Chelsea stake",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Liverpool head coach Andoni Iraola says filming with drones around training grounds should be illegal.",
-        "publishedAt": "2026-11-20T15:08:51.000Z",
+        "description": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital.",
+        "publishedAt": "2026-11-20T22:36:35.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "'No-one is going to break us' - defiant Boks face Ireland without Erasmus",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm930nj435dvo?at_medium=RSS&at_campaign=rss",
+        "title": "Price survives match darts to reach Grand Slam semis",
+        "url": "https://www.bbc.co.uk/sport/darts/articles/ck7928yjd1dgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "South Africa prepare to face Ireland in a much-anticipated Nations Championship Test in Dublin without banned head coach Rassie Erasmus.",
-        "publishedAt": "2026-11-20T16:28:47.000Z",
+        "description": "Gerwyn Price faces two match darts before winning a thrilling quarter-final against Nico Springer at the Grand Slam of Darts, as Luke Littler's conqueror Jermaine Wattimena is knocked out.",
+        "publishedAt": "2026-11-20T22:30:34.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "Osimhen keen on Man Utd move - Saturday's gossip",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c60qj1924wyeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Victor Osimhen is keen on a move to Manchester United, Aston Villa are interested in Amad Diallo and Ivan Toney is a target for Crystal Palace, plus more.",
+        "publishedAt": "2026-11-20T20:06:51.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2721,40 +2743,18 @@
           "name": "RSS Feed"
         },
         "description": "A ruthless Carlos Alcaraz puts aside his injury concerns to dismantle Flavio Cobolli and ensure a perfect record in the ATP Finals group stages.",
-        "publishedAt": "2026-11-20T14:55:49.000Z",
+        "publishedAt": "2026-11-20T21:58:24.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "'Right time' for Smith exit - but Murray not ready for role",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cvze7d03880ko?at_medium=RSS&at_campaign=rss",
+        "title": "Man Utd fan criticism has gone too far at times - Berrada",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Leon Smith steps down as Britain's Davis Cup captain after almost 17 years, but \"standout candidate\" Andy Murray is unlikely to replace him.",
-        "publishedAt": "2026-11-20T17:47:38.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Why injured Joao Pedro may be Chelsea's most important player",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr62p7x23vg3o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "With Joao Pedro missing again for Chelsea on Saturday, BBC Sport looks at the importance of the Brazilian to the Blues.",
-        "publishedAt": "2026-11-20T15:18:42.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Cummins retains Cricket Australia support as captain",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Pat Cummins will retain backing from Cricket Australia to remain as Test captain despite ongoing and explosive allegations about the sandpaper controversy.",
-        "publishedAt": "2026-11-20T10:13:23.000Z",
+        "description": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
+        "publishedAt": "2026-11-20T16:55:11.000Z",
         "category": "sports",
         "zone": "ca"
       }
@@ -2763,13 +2763,57 @@
   "technology_us": {
     "articles": [
       {
-        "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+        "title": "Can AI really help spot Black Friday deals? We put it to the test",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "We put four AI models to the test to see if they could save us money on a new TV.",
+        "publishedAt": "2026-11-21T00:06:11.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
+        "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+        "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+        "publishedAt": "2026-11-20T23:08:57.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
+        "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+        "publishedAt": "2026-11-20T22:53:24.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
         "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Other tech companies have also taken a hit as share markets broadly slump.",
-        "publishedAt": "2026-11-20T17:36:29.000Z",
+        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "publishedAt": "2026-11-20T22:42:47.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
+        "title": "Trump threatens ban on US firms building AI data centres overseas",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+        "publishedAt": "2026-11-20T20:54:12.000Z",
         "category": "technology",
         "zone": "us"
       },
@@ -2779,19 +2823,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-        "publishedAt": "2026-11-20T13:28:32.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-        "publishedAt": "2026-11-20T13:08:30.000Z",
+        "description": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
+        "publishedAt": "2026-11-20T19:03:56.000Z",
         "category": "technology",
         "zone": "us"
       },
@@ -2814,39 +2847,6 @@
         },
         "description": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
         "publishedAt": "2026-11-20T00:02:07.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-        "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-        "publishedAt": "2026-11-19T23:33:51.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "Dutch watchdog tells people not to buy AI smart glasses",
-        "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
-        "publishedAt": "2026-11-19T16:33:17.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "Anthropic raises $81bn in record-breaking stock market debut",
-        "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-        "publishedAt": "2026-11-19T15:58:58.000Z",
         "category": "technology",
         "zone": "us"
       }
@@ -2855,13 +2855,57 @@
   "technology_gb": {
     "articles": [
       {
-        "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+        "title": "Can AI really help spot Black Friday deals? We put it to the test",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "We put four AI models to the test to see if they could save us money on a new TV.",
+        "publishedAt": "2026-11-21T00:06:11.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
+        "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+        "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+        "publishedAt": "2026-11-20T23:08:57.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
+        "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+        "publishedAt": "2026-11-20T22:53:24.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
         "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Other tech companies have also taken a hit as share markets broadly slump.",
-        "publishedAt": "2026-11-20T17:36:29.000Z",
+        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "publishedAt": "2026-11-20T22:42:47.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
+        "title": "Trump threatens ban on US firms building AI data centres overseas",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+        "publishedAt": "2026-11-20T20:54:12.000Z",
         "category": "technology",
         "zone": "gb"
       },
@@ -2871,19 +2915,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-        "publishedAt": "2026-11-20T13:28:32.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-        "publishedAt": "2026-11-20T13:08:30.000Z",
+        "description": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
+        "publishedAt": "2026-11-20T19:03:56.000Z",
         "category": "technology",
         "zone": "gb"
       },
@@ -2906,39 +2939,6 @@
         },
         "description": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
         "publishedAt": "2026-11-20T00:02:07.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-        "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-        "publishedAt": "2026-11-19T23:33:51.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "Dutch watchdog tells people not to buy AI smart glasses",
-        "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
-        "publishedAt": "2026-11-19T16:33:17.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "Anthropic raises $81bn in record-breaking stock market debut",
-        "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-        "publishedAt": "2026-11-19T15:58:58.000Z",
         "category": "technology",
         "zone": "gb"
       }
@@ -2947,13 +2947,57 @@
   "technology_in": {
     "articles": [
       {
-        "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+        "title": "Can AI really help spot Black Friday deals? We put it to the test",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "We put four AI models to the test to see if they could save us money on a new TV.",
+        "publishedAt": "2026-11-21T00:06:11.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
+        "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+        "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+        "publishedAt": "2026-11-20T23:08:57.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
+        "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+        "publishedAt": "2026-11-20T22:53:24.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
         "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Other tech companies have also taken a hit as share markets broadly slump.",
-        "publishedAt": "2026-11-20T17:36:29.000Z",
+        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "publishedAt": "2026-11-20T22:42:47.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
+        "title": "Trump threatens ban on US firms building AI data centres overseas",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+        "publishedAt": "2026-11-20T20:54:12.000Z",
         "category": "technology",
         "zone": "in"
       },
@@ -2963,19 +3007,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-        "publishedAt": "2026-11-20T13:28:32.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-        "publishedAt": "2026-11-20T13:08:30.000Z",
+        "description": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
+        "publishedAt": "2026-11-20T19:03:56.000Z",
         "category": "technology",
         "zone": "in"
       },
@@ -2998,39 +3031,6 @@
         },
         "description": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
         "publishedAt": "2026-11-20T00:02:07.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-        "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-        "publishedAt": "2026-11-19T23:33:51.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "Dutch watchdog tells people not to buy AI smart glasses",
-        "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
-        "publishedAt": "2026-11-19T16:33:17.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "Anthropic raises $81bn in record-breaking stock market debut",
-        "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-        "publishedAt": "2026-11-19T15:58:58.000Z",
         "category": "technology",
         "zone": "in"
       }
@@ -3039,13 +3039,57 @@
   "technology_au": {
     "articles": [
       {
-        "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+        "title": "Can AI really help spot Black Friday deals? We put it to the test",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "We put four AI models to the test to see if they could save us money on a new TV.",
+        "publishedAt": "2026-11-21T00:06:11.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
+        "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+        "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+        "publishedAt": "2026-11-20T23:08:57.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
+        "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+        "publishedAt": "2026-11-20T22:53:24.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
         "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Other tech companies have also taken a hit as share markets broadly slump.",
-        "publishedAt": "2026-11-20T17:36:29.000Z",
+        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "publishedAt": "2026-11-20T22:42:47.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
+        "title": "Trump threatens ban on US firms building AI data centres overseas",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+        "publishedAt": "2026-11-20T20:54:12.000Z",
         "category": "technology",
         "zone": "au"
       },
@@ -3055,19 +3099,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-        "publishedAt": "2026-11-20T13:28:32.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-        "publishedAt": "2026-11-20T13:08:30.000Z",
+        "description": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
+        "publishedAt": "2026-11-20T19:03:56.000Z",
         "category": "technology",
         "zone": "au"
       },
@@ -3090,39 +3123,6 @@
         },
         "description": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
         "publishedAt": "2026-11-20T00:02:07.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-        "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-        "publishedAt": "2026-11-19T23:33:51.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "Dutch watchdog tells people not to buy AI smart glasses",
-        "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
-        "publishedAt": "2026-11-19T16:33:17.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "Anthropic raises $81bn in record-breaking stock market debut",
-        "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-        "publishedAt": "2026-11-19T15:58:58.000Z",
         "category": "technology",
         "zone": "au"
       }
@@ -3131,13 +3131,57 @@
   "technology_ca": {
     "articles": [
       {
-        "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+        "title": "Can AI really help spot Black Friday deals? We put it to the test",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "We put four AI models to the test to see if they could save us money on a new TV.",
+        "publishedAt": "2026-11-21T00:06:11.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
+        "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+        "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+        "publishedAt": "2026-11-20T23:08:57.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
+        "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+        "publishedAt": "2026-11-20T22:53:24.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
         "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Other tech companies have also taken a hit as share markets broadly slump.",
-        "publishedAt": "2026-11-20T17:36:29.000Z",
+        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "publishedAt": "2026-11-20T22:42:47.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
+        "title": "Trump threatens ban on US firms building AI data centres overseas",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+        "publishedAt": "2026-11-20T20:54:12.000Z",
         "category": "technology",
         "zone": "ca"
       },
@@ -3147,19 +3191,8 @@
         "source": {
           "name": "RSS Feed"
         },
-        "description": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-        "publishedAt": "2026-11-20T13:28:32.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-        "publishedAt": "2026-11-20T13:08:30.000Z",
+        "description": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
+        "publishedAt": "2026-11-20T19:03:56.000Z",
         "category": "technology",
         "zone": "ca"
       },
@@ -3182,39 +3215,6 @@
         },
         "description": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
         "publishedAt": "2026-11-20T00:02:07.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-        "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-        "publishedAt": "2026-11-19T23:33:51.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "Dutch watchdog tells people not to buy AI smart glasses",
-        "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
-        "publishedAt": "2026-11-19T16:33:17.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "Anthropic raises $81bn in record-breaking stock market debut",
-        "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-        "publishedAt": "2026-11-19T15:58:58.000Z",
         "category": "technology",
         "zone": "ca"
       }
