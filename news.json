@@ -1,15 +1,37 @@
 {
-  "generatedAt": "2026-11-23T00:01:13.725Z",
+  "generatedAt": "2026-11-23T08:39:43.898Z",
   "general_us": {
     "articles": [
       {
-        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+        "title": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+        "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "One person was taken to hospital after a major incident was declared during a performance by US rapper Don Toliver.",
+        "publishedAt": "2026-11-23T04:21:50.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "NHS launches world's largest AI breast cancer screening trial",
+        "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+        "publishedAt": "2026-11-23T00:49:22.000Z",
+        "category": "general",
+        "zone": "us"
+      },
+      {
+        "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
         "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-        "publishedAt": "2026-11-22T18:17:59.000Z",
+        "description": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+        "publishedAt": "2026-11-23T05:15:06.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -20,29 +42,7 @@
           "name": "RSS Feed"
         },
         "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-        "publishedAt": "2026-11-22T18:57:24.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
-        "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
-        "publishedAt": "2026-11-22T13:50:21.000Z",
-        "category": "general",
-        "zone": "us"
-      },
-      {
-        "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-        "publishedAt": "2026-11-22T20:28:09.000Z",
+        "publishedAt": "2026-11-23T05:34:39.000Z",
         "category": "general",
         "zone": "us"
       },
@@ -53,40 +53,40 @@
           "name": "RSS Feed"
         },
         "description": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-        "publishedAt": "2026-11-22T22:49:10.000Z",
+        "publishedAt": "2026-11-23T08:13:27.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Boy, 7, rescued from rubble hours after Russian strike in Ukraine, rescuers say",
-        "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+        "title": "Pip assessments need 'fundamental overhaul', report to say",
+        "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Six people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
-        "publishedAt": "2026-11-22T23:53:45.000Z",
+        "description": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+        "publishedAt": "2026-11-23T08:19:13.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "Russell Brand's wife says she'll honour prison rules after message row",
-        "url": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss",
+        "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+        "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
-        "publishedAt": "2026-11-22T16:51:57.000Z",
+        "description": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
+        "publishedAt": "2026-11-23T06:01:31.000Z",
         "category": "general",
         "zone": "us"
       },
       {
-        "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
-        "url": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss",
+        "title": "Mild Atlantic air collides with cold air across the UK, a recipe for some snow",
+        "url": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year.",
-        "publishedAt": "2026-11-22T14:19:06.000Z",
+        "description": "A battle ground is becoming established across the UK, milder air across the southwest and cold arctic air elsewhere",
+        "publishedAt": "2026-11-23T00:40:36.000Z",
         "category": "general",
         "zone": "us"
       }
@@ -95,13 +95,35 @@
   "general_gb": {
     "articles": [
       {
-        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+        "title": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+        "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "One person was taken to hospital after a major incident was declared during a performance by US rapper Don Toliver.",
+        "publishedAt": "2026-11-23T04:21:50.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "NHS launches world's largest AI breast cancer screening trial",
+        "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+        "publishedAt": "2026-11-23T00:49:22.000Z",
+        "category": "general",
+        "zone": "gb"
+      },
+      {
+        "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
         "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-        "publishedAt": "2026-11-22T18:17:59.000Z",
+        "description": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+        "publishedAt": "2026-11-23T05:15:06.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -112,29 +134,7 @@
           "name": "RSS Feed"
         },
         "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-        "publishedAt": "2026-11-22T18:57:24.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
-        "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
-        "publishedAt": "2026-11-22T13:50:21.000Z",
-        "category": "general",
-        "zone": "gb"
-      },
-      {
-        "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-        "publishedAt": "2026-11-22T20:28:09.000Z",
+        "publishedAt": "2026-11-23T05:34:39.000Z",
         "category": "general",
         "zone": "gb"
       },
@@ -145,40 +145,40 @@
           "name": "RSS Feed"
         },
         "description": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-        "publishedAt": "2026-11-22T22:49:10.000Z",
+        "publishedAt": "2026-11-23T08:13:27.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Boy, 7, rescued from rubble hours after Russian strike in Ukraine, rescuers say",
-        "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+        "title": "Pip assessments need 'fundamental overhaul', report to say",
+        "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Six people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
-        "publishedAt": "2026-11-22T23:53:45.000Z",
+        "description": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+        "publishedAt": "2026-11-23T08:19:13.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "Russell Brand's wife says she'll honour prison rules after message row",
-        "url": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss",
+        "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+        "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
-        "publishedAt": "2026-11-22T16:51:57.000Z",
+        "description": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
+        "publishedAt": "2026-11-23T06:01:31.000Z",
         "category": "general",
         "zone": "gb"
       },
       {
-        "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
-        "url": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss",
+        "title": "Mild Atlantic air collides with cold air across the UK, a recipe for some snow",
+        "url": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year.",
-        "publishedAt": "2026-11-22T14:19:06.000Z",
+        "description": "A battle ground is becoming established across the UK, milder air across the southwest and cold arctic air elsewhere",
+        "publishedAt": "2026-11-23T00:40:36.000Z",
         "category": "general",
         "zone": "gb"
       }
@@ -187,13 +187,35 @@
   "general_in": {
     "articles": [
       {
-        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+        "title": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+        "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "One person was taken to hospital after a major incident was declared during a performance by US rapper Don Toliver.",
+        "publishedAt": "2026-11-23T04:21:50.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "NHS launches world's largest AI breast cancer screening trial",
+        "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+        "publishedAt": "2026-11-23T00:49:22.000Z",
+        "category": "general",
+        "zone": "in"
+      },
+      {
+        "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
         "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-        "publishedAt": "2026-11-22T18:17:59.000Z",
+        "description": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+        "publishedAt": "2026-11-23T05:15:06.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -204,29 +226,7 @@
           "name": "RSS Feed"
         },
         "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-        "publishedAt": "2026-11-22T18:57:24.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
-        "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
-        "publishedAt": "2026-11-22T13:50:21.000Z",
-        "category": "general",
-        "zone": "in"
-      },
-      {
-        "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-        "publishedAt": "2026-11-22T20:28:09.000Z",
+        "publishedAt": "2026-11-23T05:34:39.000Z",
         "category": "general",
         "zone": "in"
       },
@@ -237,40 +237,40 @@
           "name": "RSS Feed"
         },
         "description": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-        "publishedAt": "2026-11-22T22:49:10.000Z",
+        "publishedAt": "2026-11-23T08:13:27.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Boy, 7, rescued from rubble hours after Russian strike in Ukraine, rescuers say",
-        "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+        "title": "Pip assessments need 'fundamental overhaul', report to say",
+        "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Six people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
-        "publishedAt": "2026-11-22T23:53:45.000Z",
+        "description": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+        "publishedAt": "2026-11-23T08:19:13.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "Russell Brand's wife says she'll honour prison rules after message row",
-        "url": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss",
+        "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+        "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
-        "publishedAt": "2026-11-22T16:51:57.000Z",
+        "description": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
+        "publishedAt": "2026-11-23T06:01:31.000Z",
         "category": "general",
         "zone": "in"
       },
       {
-        "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
-        "url": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss",
+        "title": "Mild Atlantic air collides with cold air across the UK, a recipe for some snow",
+        "url": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year.",
-        "publishedAt": "2026-11-22T14:19:06.000Z",
+        "description": "A battle ground is becoming established across the UK, milder air across the southwest and cold arctic air elsewhere",
+        "publishedAt": "2026-11-23T00:40:36.000Z",
         "category": "general",
         "zone": "in"
       }
@@ -279,13 +279,35 @@
   "general_au": {
     "articles": [
       {
-        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+        "title": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+        "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "One person was taken to hospital after a major incident was declared during a performance by US rapper Don Toliver.",
+        "publishedAt": "2026-11-23T04:21:50.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "NHS launches world's largest AI breast cancer screening trial",
+        "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+        "publishedAt": "2026-11-23T00:49:22.000Z",
+        "category": "general",
+        "zone": "au"
+      },
+      {
+        "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
         "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-        "publishedAt": "2026-11-22T18:17:59.000Z",
+        "description": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+        "publishedAt": "2026-11-23T05:15:06.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -296,29 +318,7 @@
           "name": "RSS Feed"
         },
         "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-        "publishedAt": "2026-11-22T18:57:24.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
-        "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
-        "publishedAt": "2026-11-22T13:50:21.000Z",
-        "category": "general",
-        "zone": "au"
-      },
-      {
-        "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-        "publishedAt": "2026-11-22T20:28:09.000Z",
+        "publishedAt": "2026-11-23T05:34:39.000Z",
         "category": "general",
         "zone": "au"
       },
@@ -329,40 +329,40 @@
           "name": "RSS Feed"
         },
         "description": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-        "publishedAt": "2026-11-22T22:49:10.000Z",
+        "publishedAt": "2026-11-23T08:13:27.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Boy, 7, rescued from rubble hours after Russian strike in Ukraine, rescuers say",
-        "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+        "title": "Pip assessments need 'fundamental overhaul', report to say",
+        "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Six people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
-        "publishedAt": "2026-11-22T23:53:45.000Z",
+        "description": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+        "publishedAt": "2026-11-23T08:19:13.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "Russell Brand's wife says she'll honour prison rules after message row",
-        "url": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss",
+        "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+        "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
-        "publishedAt": "2026-11-22T16:51:57.000Z",
+        "description": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
+        "publishedAt": "2026-11-23T06:01:31.000Z",
         "category": "general",
         "zone": "au"
       },
       {
-        "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
-        "url": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss",
+        "title": "Mild Atlantic air collides with cold air across the UK, a recipe for some snow",
+        "url": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year.",
-        "publishedAt": "2026-11-22T14:19:06.000Z",
+        "description": "A battle ground is becoming established across the UK, milder air across the southwest and cold arctic air elsewhere",
+        "publishedAt": "2026-11-23T00:40:36.000Z",
         "category": "general",
         "zone": "au"
       }
@@ -371,13 +371,35 @@
   "general_ca": {
     "articles": [
       {
-        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+        "title": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+        "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "One person was taken to hospital after a major incident was declared during a performance by US rapper Don Toliver.",
+        "publishedAt": "2026-11-23T04:21:50.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "NHS launches world's largest AI breast cancer screening trial",
+        "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+        "publishedAt": "2026-11-23T00:49:22.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
         "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-        "publishedAt": "2026-11-22T18:17:59.000Z",
+        "description": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+        "publishedAt": "2026-11-23T05:15:06.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -388,29 +410,7 @@
           "name": "RSS Feed"
         },
         "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-        "publishedAt": "2026-11-22T18:57:24.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
-        "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
-        "publishedAt": "2026-11-22T13:50:21.000Z",
-        "category": "general",
-        "zone": "ca"
-      },
-      {
-        "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-        "publishedAt": "2026-11-22T20:28:09.000Z",
+        "publishedAt": "2026-11-23T05:34:39.000Z",
         "category": "general",
         "zone": "ca"
       },
@@ -421,19 +421,895 @@
           "name": "RSS Feed"
         },
         "description": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-        "publishedAt": "2026-11-22T22:49:10.000Z",
+        "publishedAt": "2026-11-23T08:13:27.000Z",
         "category": "general",
         "zone": "ca"
       },
       {
-        "title": "Boy, 7, rescued from rubble hours after Russian strike in Ukraine, rescuers say",
-        "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+        "title": "Pip assessments need 'fundamental overhaul', report to say",
+        "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Six people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
-        "publishedAt": "2026-11-22T23:53:45.000Z",
+        "description": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+        "publishedAt": "2026-11-23T08:19:13.000Z",
         "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+        "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
+        "publishedAt": "2026-11-23T06:01:31.000Z",
+        "category": "general",
+        "zone": "ca"
+      },
+      {
+        "title": "Mild Atlantic air collides with cold air across the UK, a recipe for some snow",
+        "url": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "A battle ground is becoming established across the UK, milder air across the southwest and cold arctic air elsewhere",
+        "publishedAt": "2026-11-23T00:40:36.000Z",
+        "category": "general",
+        "zone": "ca"
+      }
+    ]
+  },
+  "business_us": {
+    "articles": [
+      {
+        "title": "Energy bills will soar - here's how you can ease the pain",
+        "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+        "publishedAt": "2026-11-23T01:05:07.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Poundland is facing collapse - what's gone wrong?",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+        "publishedAt": "2026-11-23T08:00:20.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Pip assessments need 'fundamental overhaul', report to say",
+        "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+        "publishedAt": "2026-11-23T08:19:13.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+        "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+        "publishedAt": "2026-11-22T13:50:21.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Employers are being asked to give interview feedback - here's what applicants want",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+        "publishedAt": "2026-11-22T00:04:07.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+        "publishedAt": "2026-11-23T00:08:00.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Can AI really help spot Black Friday deals? We put it to the test",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "We put four AI models to the test to see if they could save us money on a new TV.",
+        "publishedAt": "2026-11-21T00:06:11.000Z",
+        "category": "business",
+        "zone": "us"
+      },
+      {
+        "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+        "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+        "publishedAt": "2026-11-23T00:33:36.000Z",
+        "category": "business",
+        "zone": "us"
+      }
+    ]
+  },
+  "business_gb": {
+    "articles": [
+      {
+        "title": "Energy bills will soar - here's how you can ease the pain",
+        "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+        "publishedAt": "2026-11-23T01:05:07.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Poundland is facing collapse - what's gone wrong?",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+        "publishedAt": "2026-11-23T08:00:20.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Pip assessments need 'fundamental overhaul', report to say",
+        "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+        "publishedAt": "2026-11-23T08:19:13.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+        "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+        "publishedAt": "2026-11-22T13:50:21.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Employers are being asked to give interview feedback - here's what applicants want",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+        "publishedAt": "2026-11-22T00:04:07.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+        "publishedAt": "2026-11-23T00:08:00.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Can AI really help spot Black Friday deals? We put it to the test",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "We put four AI models to the test to see if they could save us money on a new TV.",
+        "publishedAt": "2026-11-21T00:06:11.000Z",
+        "category": "business",
+        "zone": "gb"
+      },
+      {
+        "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+        "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+        "publishedAt": "2026-11-23T00:33:36.000Z",
+        "category": "business",
+        "zone": "gb"
+      }
+    ]
+  },
+  "business_in": {
+    "articles": [
+      {
+        "title": "Energy bills will soar - here's how you can ease the pain",
+        "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+        "publishedAt": "2026-11-23T01:05:07.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Poundland is facing collapse - what's gone wrong?",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+        "publishedAt": "2026-11-23T08:00:20.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Pip assessments need 'fundamental overhaul', report to say",
+        "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+        "publishedAt": "2026-11-23T08:19:13.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+        "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+        "publishedAt": "2026-11-22T13:50:21.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Employers are being asked to give interview feedback - here's what applicants want",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+        "publishedAt": "2026-11-22T00:04:07.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+        "publishedAt": "2026-11-23T00:08:00.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Can AI really help spot Black Friday deals? We put it to the test",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "We put four AI models to the test to see if they could save us money on a new TV.",
+        "publishedAt": "2026-11-21T00:06:11.000Z",
+        "category": "business",
+        "zone": "in"
+      },
+      {
+        "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+        "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+        "publishedAt": "2026-11-23T00:33:36.000Z",
+        "category": "business",
+        "zone": "in"
+      }
+    ]
+  },
+  "business_au": {
+    "articles": [
+      {
+        "title": "Energy bills will soar - here's how you can ease the pain",
+        "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+        "publishedAt": "2026-11-23T01:05:07.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Poundland is facing collapse - what's gone wrong?",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+        "publishedAt": "2026-11-23T08:00:20.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Pip assessments need 'fundamental overhaul', report to say",
+        "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+        "publishedAt": "2026-11-23T08:19:13.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+        "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+        "publishedAt": "2026-11-22T13:50:21.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Employers are being asked to give interview feedback - here's what applicants want",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+        "publishedAt": "2026-11-22T00:04:07.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+        "publishedAt": "2026-11-23T00:08:00.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Can AI really help spot Black Friday deals? We put it to the test",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "We put four AI models to the test to see if they could save us money on a new TV.",
+        "publishedAt": "2026-11-21T00:06:11.000Z",
+        "category": "business",
+        "zone": "au"
+      },
+      {
+        "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+        "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+        "publishedAt": "2026-11-23T00:33:36.000Z",
+        "category": "business",
+        "zone": "au"
+      }
+    ]
+  },
+  "business_ca": {
+    "articles": [
+      {
+        "title": "Energy bills will soar - here's how you can ease the pain",
+        "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+        "publishedAt": "2026-11-23T01:05:07.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Poundland is facing collapse - what's gone wrong?",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+        "publishedAt": "2026-11-23T08:00:20.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Pip assessments need 'fundamental overhaul', report to say",
+        "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+        "publishedAt": "2026-11-23T08:19:13.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+        "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+        "publishedAt": "2026-11-22T13:50:21.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Employers are being asked to give interview feedback - here's what applicants want",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+        "publishedAt": "2026-11-22T00:04:07.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+        "publishedAt": "2026-11-23T00:08:00.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Can AI really help spot Black Friday deals? We put it to the test",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "We put four AI models to the test to see if they could save us money on a new TV.",
+        "publishedAt": "2026-11-21T00:06:11.000Z",
+        "category": "business",
+        "zone": "ca"
+      },
+      {
+        "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+        "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+        "publishedAt": "2026-11-23T00:33:36.000Z",
+        "category": "business",
+        "zone": "ca"
+      }
+    ]
+  },
+  "entertainment_us": {
+    "articles": [
+      {
+        "title": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+        "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "One person was taken to hospital after a major incident was declared during a performance by US rapper Don Toliver.",
+        "publishedAt": "2026-11-23T04:21:50.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+        "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The couple have been together for four years and were engaged in 2025.",
+        "publishedAt": "2026-11-22T21:22:40.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Russell Brand's wife says she'll honour prison rules after message row",
+        "url": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
+        "publishedAt": "2026-11-22T16:51:57.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
+        "url": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
+        "publishedAt": "2026-11-22T04:39:13.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Australian music legend Molly Meldrum dies aged 83",
+        "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+        "publishedAt": "2026-11-23T01:03:35.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "ITV investigating soap actor after bar incident",
+        "url": "https://www.bbc.co.uk/news/articles/cj5y16v79kd1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Police say they attended a Manchester bar after reports of a disturbance earlier this month.",
+        "publishedAt": "2026-11-22T13:16:14.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Beatles venue may not play live music on rooftop",
+        "url": "https://www.bbc.co.uk/news/articles/ckp80ynrn3mvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The proposed museum on Savile Row may get the greenlight on Tuesday but is facing objections.",
+        "publishedAt": "2026-11-23T05:57:45.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      },
+      {
+        "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+        "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+        "publishedAt": "2026-11-23T00:33:36.000Z",
+        "category": "entertainment",
+        "zone": "us"
+      }
+    ]
+  },
+  "entertainment_gb": {
+    "articles": [
+      {
+        "title": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+        "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "One person was taken to hospital after a major incident was declared during a performance by US rapper Don Toliver.",
+        "publishedAt": "2026-11-23T04:21:50.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+        "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The couple have been together for four years and were engaged in 2025.",
+        "publishedAt": "2026-11-22T21:22:40.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Russell Brand's wife says she'll honour prison rules after message row",
+        "url": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
+        "publishedAt": "2026-11-22T16:51:57.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
+        "url": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
+        "publishedAt": "2026-11-22T04:39:13.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Australian music legend Molly Meldrum dies aged 83",
+        "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+        "publishedAt": "2026-11-23T01:03:35.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "ITV investigating soap actor after bar incident",
+        "url": "https://www.bbc.co.uk/news/articles/cj5y16v79kd1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Police say they attended a Manchester bar after reports of a disturbance earlier this month.",
+        "publishedAt": "2026-11-22T13:16:14.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Beatles venue may not play live music on rooftop",
+        "url": "https://www.bbc.co.uk/news/articles/ckp80ynrn3mvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The proposed museum on Savile Row may get the greenlight on Tuesday but is facing objections.",
+        "publishedAt": "2026-11-23T05:57:45.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      },
+      {
+        "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+        "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+        "publishedAt": "2026-11-23T00:33:36.000Z",
+        "category": "entertainment",
+        "zone": "gb"
+      }
+    ]
+  },
+  "entertainment_in": {
+    "articles": [
+      {
+        "title": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+        "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "One person was taken to hospital after a major incident was declared during a performance by US rapper Don Toliver.",
+        "publishedAt": "2026-11-23T04:21:50.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+        "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The couple have been together for four years and were engaged in 2025.",
+        "publishedAt": "2026-11-22T21:22:40.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Russell Brand's wife says she'll honour prison rules after message row",
+        "url": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
+        "publishedAt": "2026-11-22T16:51:57.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
+        "url": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
+        "publishedAt": "2026-11-22T04:39:13.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Australian music legend Molly Meldrum dies aged 83",
+        "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+        "publishedAt": "2026-11-23T01:03:35.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "ITV investigating soap actor after bar incident",
+        "url": "https://www.bbc.co.uk/news/articles/cj5y16v79kd1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Police say they attended a Manchester bar after reports of a disturbance earlier this month.",
+        "publishedAt": "2026-11-22T13:16:14.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Beatles venue may not play live music on rooftop",
+        "url": "https://www.bbc.co.uk/news/articles/ckp80ynrn3mvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The proposed museum on Savile Row may get the greenlight on Tuesday but is facing objections.",
+        "publishedAt": "2026-11-23T05:57:45.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      },
+      {
+        "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+        "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+        "publishedAt": "2026-11-23T00:33:36.000Z",
+        "category": "entertainment",
+        "zone": "in"
+      }
+    ]
+  },
+  "entertainment_au": {
+    "articles": [
+      {
+        "title": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+        "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "One person was taken to hospital after a major incident was declared during a performance by US rapper Don Toliver.",
+        "publishedAt": "2026-11-23T04:21:50.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+        "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The couple have been together for four years and were engaged in 2025.",
+        "publishedAt": "2026-11-22T21:22:40.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Russell Brand's wife says she'll honour prison rules after message row",
+        "url": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
+        "publishedAt": "2026-11-22T16:51:57.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
+        "url": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
+        "publishedAt": "2026-11-22T04:39:13.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Australian music legend Molly Meldrum dies aged 83",
+        "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+        "publishedAt": "2026-11-23T01:03:35.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "ITV investigating soap actor after bar incident",
+        "url": "https://www.bbc.co.uk/news/articles/cj5y16v79kd1o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Police say they attended a Manchester bar after reports of a disturbance earlier this month.",
+        "publishedAt": "2026-11-22T13:16:14.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Beatles venue may not play live music on rooftop",
+        "url": "https://www.bbc.co.uk/news/articles/ckp80ynrn3mvo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The proposed museum on Savile Row may get the greenlight on Tuesday but is facing objections.",
+        "publishedAt": "2026-11-23T05:57:45.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      },
+      {
+        "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+        "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+        "publishedAt": "2026-11-23T00:33:36.000Z",
+        "category": "entertainment",
+        "zone": "au"
+      }
+    ]
+  },
+  "entertainment_ca": {
+    "articles": [
+      {
+        "title": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+        "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "One person was taken to hospital after a major incident was declared during a performance by US rapper Don Toliver.",
+        "publishedAt": "2026-11-23T04:21:50.000Z",
+        "category": "entertainment",
+        "zone": "ca"
+      },
+      {
+        "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+        "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "The couple have been together for four years and were engaged in 2025.",
+        "publishedAt": "2026-11-22T21:22:40.000Z",
+        "category": "entertainment",
         "zone": "ca"
       },
       {
@@ -444,852 +1320,9 @@
         },
         "description": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
         "publishedAt": "2026-11-22T16:51:57.000Z",
-        "category": "general",
+        "category": "entertainment",
         "zone": "ca"
       },
-      {
-        "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
-        "url": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year.",
-        "publishedAt": "2026-11-22T14:19:06.000Z",
-        "category": "general",
-        "zone": "ca"
-      }
-    ]
-  },
-  "business_us": {
-    "articles": [
-      {
-        "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
-        "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
-        "publishedAt": "2026-11-22T13:50:21.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Employers are being asked to give interview feedback - here's what applicants want",
-        "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
-        "publishedAt": "2026-11-22T00:04:07.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Can AI really help spot Black Friday deals? We put it to the test",
-        "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "We put four AI models to the test to see if they could save us money on a new TV.",
-        "publishedAt": "2026-11-21T00:06:11.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-        "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
-        "publishedAt": "2026-11-20T16:41:52.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-        "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-        "publishedAt": "2026-11-22T07:12:41.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Should AI be judging our credit worthiness?",
-        "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-        "publishedAt": "2026-11-20T07:32:19.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-        "publishedAt": "2026-11-20T22:42:47.000Z",
-        "category": "business",
-        "zone": "us"
-      },
-      {
-        "title": "MP criticises Guernsey and Jersey company ownership register plans",
-        "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
-        "publishedAt": "2026-11-22T07:22:05.000Z",
-        "category": "business",
-        "zone": "us"
-      }
-    ]
-  },
-  "business_gb": {
-    "articles": [
-      {
-        "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
-        "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
-        "publishedAt": "2026-11-22T13:50:21.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Employers are being asked to give interview feedback - here's what applicants want",
-        "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
-        "publishedAt": "2026-11-22T00:04:07.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Can AI really help spot Black Friday deals? We put it to the test",
-        "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "We put four AI models to the test to see if they could save us money on a new TV.",
-        "publishedAt": "2026-11-21T00:06:11.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-        "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
-        "publishedAt": "2026-11-20T16:41:52.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-        "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-        "publishedAt": "2026-11-22T07:12:41.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Should AI be judging our credit worthiness?",
-        "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-        "publishedAt": "2026-11-20T07:32:19.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-        "publishedAt": "2026-11-20T22:42:47.000Z",
-        "category": "business",
-        "zone": "gb"
-      },
-      {
-        "title": "MP criticises Guernsey and Jersey company ownership register plans",
-        "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
-        "publishedAt": "2026-11-22T07:22:05.000Z",
-        "category": "business",
-        "zone": "gb"
-      }
-    ]
-  },
-  "business_in": {
-    "articles": [
-      {
-        "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
-        "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
-        "publishedAt": "2026-11-22T13:50:21.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Employers are being asked to give interview feedback - here's what applicants want",
-        "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
-        "publishedAt": "2026-11-22T00:04:07.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Can AI really help spot Black Friday deals? We put it to the test",
-        "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "We put four AI models to the test to see if they could save us money on a new TV.",
-        "publishedAt": "2026-11-21T00:06:11.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-        "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
-        "publishedAt": "2026-11-20T16:41:52.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-        "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-        "publishedAt": "2026-11-22T07:12:41.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Should AI be judging our credit worthiness?",
-        "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-        "publishedAt": "2026-11-20T07:32:19.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-        "publishedAt": "2026-11-20T22:42:47.000Z",
-        "category": "business",
-        "zone": "in"
-      },
-      {
-        "title": "MP criticises Guernsey and Jersey company ownership register plans",
-        "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
-        "publishedAt": "2026-11-22T07:22:05.000Z",
-        "category": "business",
-        "zone": "in"
-      }
-    ]
-  },
-  "business_au": {
-    "articles": [
-      {
-        "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
-        "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
-        "publishedAt": "2026-11-22T13:50:21.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Employers are being asked to give interview feedback - here's what applicants want",
-        "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
-        "publishedAt": "2026-11-22T00:04:07.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Can AI really help spot Black Friday deals? We put it to the test",
-        "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "We put four AI models to the test to see if they could save us money on a new TV.",
-        "publishedAt": "2026-11-21T00:06:11.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-        "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
-        "publishedAt": "2026-11-20T16:41:52.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-        "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-        "publishedAt": "2026-11-22T07:12:41.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Should AI be judging our credit worthiness?",
-        "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-        "publishedAt": "2026-11-20T07:32:19.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-        "publishedAt": "2026-11-20T22:42:47.000Z",
-        "category": "business",
-        "zone": "au"
-      },
-      {
-        "title": "MP criticises Guernsey and Jersey company ownership register plans",
-        "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
-        "publishedAt": "2026-11-22T07:22:05.000Z",
-        "category": "business",
-        "zone": "au"
-      }
-    ]
-  },
-  "business_ca": {
-    "articles": [
-      {
-        "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
-        "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
-        "publishedAt": "2026-11-22T13:50:21.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Employers are being asked to give interview feedback - here's what applicants want",
-        "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
-        "publishedAt": "2026-11-22T00:04:07.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Can AI really help spot Black Friday deals? We put it to the test",
-        "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "We put four AI models to the test to see if they could save us money on a new TV.",
-        "publishedAt": "2026-11-21T00:06:11.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-        "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
-        "publishedAt": "2026-11-20T16:41:52.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-        "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-        "publishedAt": "2026-11-22T07:12:41.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Should AI be judging our credit worthiness?",
-        "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-        "publishedAt": "2026-11-20T07:32:19.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-        "publishedAt": "2026-11-20T22:42:47.000Z",
-        "category": "business",
-        "zone": "ca"
-      },
-      {
-        "title": "MP criticises Guernsey and Jersey company ownership register plans",
-        "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
-        "publishedAt": "2026-11-22T07:22:05.000Z",
-        "category": "business",
-        "zone": "ca"
-      }
-    ]
-  },
-  "entertainment_us": {
-    "articles": [
-      {
-        "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
-        "url": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
-        "publishedAt": "2026-11-22T04:39:13.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-        "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The couple have been together for four years and were engaged in 2025.",
-        "publishedAt": "2026-11-22T21:22:40.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
-        "url": "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "I Am Helen is a must-watch according to critics, but the cast don't want viewers sitting comfortably.",
-        "publishedAt": "2026-11-22T00:01:27.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Calls for Marilyn Manson performance to be pulled",
-        "url": "https://www.bbc.co.uk/news/articles/cmn4kz7lj3jvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Marilyn Manson is due to support Slipknot at Wembley Stadium in July, ahead of a trial he faces.",
-        "publishedAt": "2026-11-22T08:10:23.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-        "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-        "publishedAt": "2026-11-22T07:12:41.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Bad Girls star Helen Fraser dies aged 84",
-        "url": "https://www.bbc.co.uk/news/articles/cqlyjwng3xdwo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Actress Helen Fraser dies at 84 in an Eye care home after a successful career in TV, theatre and film.",
-        "publishedAt": "2026-11-21T12:17:46.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "From a village bakery to headlining Glastonbury: How Harry Styles became a star",
-        "url": "https://www.bbc.co.uk/news/articles/cq782xz5nkg4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The singer will make his debut at the festival next year as one of the event's curtain-raising artists.",
-        "publishedAt": "2026-11-22T07:14:24.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      },
-      {
-        "title": "Spitting Image co-creator Peter Fluck dies aged 85",
-        "url": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness.",
-        "publishedAt": "2026-11-21T21:39:22.000Z",
-        "category": "entertainment",
-        "zone": "us"
-      }
-    ]
-  },
-  "entertainment_gb": {
-    "articles": [
-      {
-        "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
-        "url": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
-        "publishedAt": "2026-11-22T04:39:13.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-        "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The couple have been together for four years and were engaged in 2025.",
-        "publishedAt": "2026-11-22T21:22:40.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
-        "url": "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "I Am Helen is a must-watch according to critics, but the cast don't want viewers sitting comfortably.",
-        "publishedAt": "2026-11-22T00:01:27.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Calls for Marilyn Manson performance to be pulled",
-        "url": "https://www.bbc.co.uk/news/articles/cmn4kz7lj3jvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Marilyn Manson is due to support Slipknot at Wembley Stadium in July, ahead of a trial he faces.",
-        "publishedAt": "2026-11-22T08:10:23.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-        "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-        "publishedAt": "2026-11-22T07:12:41.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Bad Girls star Helen Fraser dies aged 84",
-        "url": "https://www.bbc.co.uk/news/articles/cqlyjwng3xdwo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Actress Helen Fraser dies at 84 in an Eye care home after a successful career in TV, theatre and film.",
-        "publishedAt": "2026-11-21T12:17:46.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "From a village bakery to headlining Glastonbury: How Harry Styles became a star",
-        "url": "https://www.bbc.co.uk/news/articles/cq782xz5nkg4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The singer will make his debut at the festival next year as one of the event's curtain-raising artists.",
-        "publishedAt": "2026-11-22T07:14:24.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      },
-      {
-        "title": "Spitting Image co-creator Peter Fluck dies aged 85",
-        "url": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness.",
-        "publishedAt": "2026-11-21T21:39:22.000Z",
-        "category": "entertainment",
-        "zone": "gb"
-      }
-    ]
-  },
-  "entertainment_in": {
-    "articles": [
-      {
-        "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
-        "url": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
-        "publishedAt": "2026-11-22T04:39:13.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-        "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The couple have been together for four years and were engaged in 2025.",
-        "publishedAt": "2026-11-22T21:22:40.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
-        "url": "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "I Am Helen is a must-watch according to critics, but the cast don't want viewers sitting comfortably.",
-        "publishedAt": "2026-11-22T00:01:27.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Calls for Marilyn Manson performance to be pulled",
-        "url": "https://www.bbc.co.uk/news/articles/cmn4kz7lj3jvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Marilyn Manson is due to support Slipknot at Wembley Stadium in July, ahead of a trial he faces.",
-        "publishedAt": "2026-11-22T08:10:23.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-        "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-        "publishedAt": "2026-11-22T07:12:41.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Bad Girls star Helen Fraser dies aged 84",
-        "url": "https://www.bbc.co.uk/news/articles/cqlyjwng3xdwo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Actress Helen Fraser dies at 84 in an Eye care home after a successful career in TV, theatre and film.",
-        "publishedAt": "2026-11-21T12:17:46.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "From a village bakery to headlining Glastonbury: How Harry Styles became a star",
-        "url": "https://www.bbc.co.uk/news/articles/cq782xz5nkg4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The singer will make his debut at the festival next year as one of the event's curtain-raising artists.",
-        "publishedAt": "2026-11-22T07:14:24.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      },
-      {
-        "title": "Spitting Image co-creator Peter Fluck dies aged 85",
-        "url": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness.",
-        "publishedAt": "2026-11-21T21:39:22.000Z",
-        "category": "entertainment",
-        "zone": "in"
-      }
-    ]
-  },
-  "entertainment_au": {
-    "articles": [
-      {
-        "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
-        "url": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
-        "publishedAt": "2026-11-22T04:39:13.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-        "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The couple have been together for four years and were engaged in 2025.",
-        "publishedAt": "2026-11-22T21:22:40.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
-        "url": "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "I Am Helen is a must-watch according to critics, but the cast don't want viewers sitting comfortably.",
-        "publishedAt": "2026-11-22T00:01:27.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Calls for Marilyn Manson performance to be pulled",
-        "url": "https://www.bbc.co.uk/news/articles/cmn4kz7lj3jvo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Marilyn Manson is due to support Slipknot at Wembley Stadium in July, ahead of a trial he faces.",
-        "publishedAt": "2026-11-22T08:10:23.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-        "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-        "publishedAt": "2026-11-22T07:12:41.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Bad Girls star Helen Fraser dies aged 84",
-        "url": "https://www.bbc.co.uk/news/articles/cqlyjwng3xdwo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Actress Helen Fraser dies at 84 in an Eye care home after a successful career in TV, theatre and film.",
-        "publishedAt": "2026-11-21T12:17:46.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "From a village bakery to headlining Glastonbury: How Harry Styles became a star",
-        "url": "https://www.bbc.co.uk/news/articles/cq782xz5nkg4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The singer will make his debut at the festival next year as one of the event's curtain-raising artists.",
-        "publishedAt": "2026-11-22T07:14:24.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      },
-      {
-        "title": "Spitting Image co-creator Peter Fluck dies aged 85",
-        "url": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness.",
-        "publishedAt": "2026-11-21T21:39:22.000Z",
-        "category": "entertainment",
-        "zone": "au"
-      }
-    ]
-  },
-  "entertainment_ca": {
-    "articles": [
       {
         "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
         "url": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
@@ -1302,35 +1335,35 @@
         "zone": "ca"
       },
       {
-        "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-        "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+        "title": "Australian music legend Molly Meldrum dies aged 83",
+        "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "The couple have been together for four years and were engaged in 2025.",
-        "publishedAt": "2026-11-22T21:22:40.000Z",
+        "description": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+        "publishedAt": "2026-11-23T01:03:35.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
       {
-        "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
-        "url": "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo?at_medium=RSS&at_campaign=rss",
+        "title": "ITV investigating soap actor after bar incident",
+        "url": "https://www.bbc.co.uk/news/articles/cj5y16v79kd1o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "I Am Helen is a must-watch according to critics, but the cast don't want viewers sitting comfortably.",
-        "publishedAt": "2026-11-22T00:01:27.000Z",
+        "description": "Police say they attended a Manchester bar after reports of a disturbance earlier this month.",
+        "publishedAt": "2026-11-22T13:16:14.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
       {
-        "title": "Calls for Marilyn Manson performance to be pulled",
-        "url": "https://www.bbc.co.uk/news/articles/cmn4kz7lj3jvo?at_medium=RSS&at_campaign=rss",
+        "title": "Beatles venue may not play live music on rooftop",
+        "url": "https://www.bbc.co.uk/news/articles/ckp80ynrn3mvo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Marilyn Manson is due to support Slipknot at Wembley Stadium in July, ahead of a trial he faces.",
-        "publishedAt": "2026-11-22T08:10:23.000Z",
+        "description": "The proposed museum on Savile Row may get the greenlight on Tuesday but is facing objections.",
+        "publishedAt": "2026-11-23T05:57:45.000Z",
         "category": "entertainment",
         "zone": "ca"
       },
@@ -1341,40 +1374,7 @@
           "name": "RSS Feed"
         },
         "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-        "publishedAt": "2026-11-22T07:12:41.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Bad Girls star Helen Fraser dies aged 84",
-        "url": "https://www.bbc.co.uk/news/articles/cqlyjwng3xdwo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Actress Helen Fraser dies at 84 in an Eye care home after a successful career in TV, theatre and film.",
-        "publishedAt": "2026-11-21T12:17:46.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "From a village bakery to headlining Glastonbury: How Harry Styles became a star",
-        "url": "https://www.bbc.co.uk/news/articles/cq782xz5nkg4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The singer will make his debut at the festival next year as one of the event's curtain-raising artists.",
-        "publishedAt": "2026-11-22T07:14:24.000Z",
-        "category": "entertainment",
-        "zone": "ca"
-      },
-      {
-        "title": "Spitting Image co-creator Peter Fluck dies aged 85",
-        "url": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness.",
-        "publishedAt": "2026-11-21T21:39:22.000Z",
+        "publishedAt": "2026-11-23T00:33:36.000Z",
         "category": "entertainment",
         "zone": "ca"
       }
@@ -1383,6 +1383,17 @@
   "health_us": {
     "articles": [
       {
+        "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+        "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+        "publishedAt": "2026-11-23T00:49:22.000Z",
+        "category": "health",
+        "zone": "us"
+      },
+      {
         "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
         "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1456,17 +1467,6 @@
         },
         "description": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
         "publishedAt": "2026-11-17T12:00:12.000Z",
-        "category": "health",
-        "zone": "us"
-      },
-      {
-        "title": "Cass report author tells BBC draft conversion practices bill is not workable",
-        "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
-        "publishedAt": "2026-11-17T10:36:21.000Z",
         "category": "health",
         "zone": "us"
       }
@@ -1475,6 +1475,17 @@
   "health_gb": {
     "articles": [
       {
+        "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+        "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+        "publishedAt": "2026-11-23T00:49:22.000Z",
+        "category": "health",
+        "zone": "gb"
+      },
+      {
         "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
         "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1548,17 +1559,6 @@
         },
         "description": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
         "publishedAt": "2026-11-17T12:00:12.000Z",
-        "category": "health",
-        "zone": "gb"
-      },
-      {
-        "title": "Cass report author tells BBC draft conversion practices bill is not workable",
-        "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
-        "publishedAt": "2026-11-17T10:36:21.000Z",
         "category": "health",
         "zone": "gb"
       }
@@ -1567,6 +1567,17 @@
   "health_in": {
     "articles": [
       {
+        "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+        "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+        "publishedAt": "2026-11-23T00:49:22.000Z",
+        "category": "health",
+        "zone": "in"
+      },
+      {
         "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
         "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1640,17 +1651,6 @@
         },
         "description": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
         "publishedAt": "2026-11-17T12:00:12.000Z",
-        "category": "health",
-        "zone": "in"
-      },
-      {
-        "title": "Cass report author tells BBC draft conversion practices bill is not workable",
-        "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
-        "publishedAt": "2026-11-17T10:36:21.000Z",
         "category": "health",
         "zone": "in"
       }
@@ -1659,6 +1659,17 @@
   "health_au": {
     "articles": [
       {
+        "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+        "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+        "publishedAt": "2026-11-23T00:49:22.000Z",
+        "category": "health",
+        "zone": "au"
+      },
+      {
         "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
         "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1732,17 +1743,6 @@
         },
         "description": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
         "publishedAt": "2026-11-17T12:00:12.000Z",
-        "category": "health",
-        "zone": "au"
-      },
-      {
-        "title": "Cass report author tells BBC draft conversion practices bill is not workable",
-        "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
-        "publishedAt": "2026-11-17T10:36:21.000Z",
         "category": "health",
         "zone": "au"
       }
@@ -1751,6 +1751,17 @@
   "health_ca": {
     "articles": [
       {
+        "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+        "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+        "publishedAt": "2026-11-23T00:49:22.000Z",
+        "category": "health",
+        "zone": "ca"
+      },
+      {
         "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
         "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -1824,17 +1835,6 @@
         },
         "description": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
         "publishedAt": "2026-11-17T12:00:12.000Z",
-        "category": "health",
-        "zone": "ca"
-      },
-      {
-        "title": "Cass report author tells BBC draft conversion practices bill is not workable",
-        "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
-        "publishedAt": "2026-11-17T10:36:21.000Z",
         "category": "health",
         "zone": "ca"
       }
@@ -1920,13 +1920,13 @@
         "zone": "us"
       },
       {
-        "title": "CEO of funding agency for UK science and research criticised by union over cuts",
-        "url": "https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
+        "title": "Patients may miss out on NHS weight-loss jabs in England after GP funding withdrawn",
+        "url": "https://www.theguardian.com/science/2026/nov/23/patients-miss-out-nhs-weight-loss-mounjaro-gp-funding-withdrawn",
         "source": {
-          "name": "Nicola Davis Science correspondent"
+          "name": "Tobi Thomas Health and inequalities correspondent"
         },
-        "description": "Exclusive: Prospect’s Mike Clancy tells Ian Chapman at UKRI that union has ‘lost confidence’ in his leadership A trade union that counts scientists and engineers among its members says it has lost confidence in the leader of the UK’s national funding agency for science and research, citing concerns about plans for major cuts. The letter from Mike Clancy, the general secretary of Prospect, to Ian Chapman, the chief executive of UK Research and Innovation (UKRI), is the latest development in a row over changes in funding for projects and research facilities. Continue reading...",
-        "publishedAt": "2026-11-22T12:00:28.000Z",
+        "description": "Inquiry finds most integrated care boards have scrapped payments to GPs for prescribing and monitoring the drug Patients who are eligible for potentially life-changing weight-loss injections on the NHS risk missing out after most integrated care boards (ICBs) in England withdrew funding for GP services, an investigation has found. The inquiry, conducted by the GP magazine Pulse, found that 21 of 36 ICBs have scrapped payments to practices for prescribing and monitoring Mounjaro, also known as tirzepatide. A further nine never had a local enhanced service and only four still retain one. Continue reading...",
+        "publishedAt": "2026-11-23T00:01:40.000Z",
         "category": "science",
         "zone": "us"
       }
@@ -2012,13 +2012,13 @@
         "zone": "gb"
       },
       {
-        "title": "CEO of funding agency for UK science and research criticised by union over cuts",
-        "url": "https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
+        "title": "Patients may miss out on NHS weight-loss jabs in England after GP funding withdrawn",
+        "url": "https://www.theguardian.com/science/2026/nov/23/patients-miss-out-nhs-weight-loss-mounjaro-gp-funding-withdrawn",
         "source": {
-          "name": "Nicola Davis Science correspondent"
+          "name": "Tobi Thomas Health and inequalities correspondent"
         },
-        "description": "Exclusive: Prospect’s Mike Clancy tells Ian Chapman at UKRI that union has ‘lost confidence’ in his leadership A trade union that counts scientists and engineers among its members says it has lost confidence in the leader of the UK’s national funding agency for science and research, citing concerns about plans for major cuts. The letter from Mike Clancy, the general secretary of Prospect, to Ian Chapman, the chief executive of UK Research and Innovation (UKRI), is the latest development in a row over changes in funding for projects and research facilities. Continue reading...",
-        "publishedAt": "2026-11-22T12:00:28.000Z",
+        "description": "Inquiry finds most integrated care boards have scrapped payments to GPs for prescribing and monitoring the drug Patients who are eligible for potentially life-changing weight-loss injections on the NHS risk missing out after most integrated care boards (ICBs) in England withdrew funding for GP services, an investigation has found. The inquiry, conducted by the GP magazine Pulse, found that 21 of 36 ICBs have scrapped payments to practices for prescribing and monitoring Mounjaro, also known as tirzepatide. A further nine never had a local enhanced service and only four still retain one. Continue reading...",
+        "publishedAt": "2026-11-23T00:01:40.000Z",
         "category": "science",
         "zone": "gb"
       }
@@ -2104,13 +2104,13 @@
         "zone": "in"
       },
       {
-        "title": "CEO of funding agency for UK science and research criticised by union over cuts",
-        "url": "https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
+        "title": "Patients may miss out on NHS weight-loss jabs in England after GP funding withdrawn",
+        "url": "https://www.theguardian.com/science/2026/nov/23/patients-miss-out-nhs-weight-loss-mounjaro-gp-funding-withdrawn",
         "source": {
-          "name": "Nicola Davis Science correspondent"
+          "name": "Tobi Thomas Health and inequalities correspondent"
         },
-        "description": "Exclusive: Prospect’s Mike Clancy tells Ian Chapman at UKRI that union has ‘lost confidence’ in his leadership A trade union that counts scientists and engineers among its members says it has lost confidence in the leader of the UK’s national funding agency for science and research, citing concerns about plans for major cuts. The letter from Mike Clancy, the general secretary of Prospect, to Ian Chapman, the chief executive of UK Research and Innovation (UKRI), is the latest development in a row over changes in funding for projects and research facilities. Continue reading...",
-        "publishedAt": "2026-11-22T12:00:28.000Z",
+        "description": "Inquiry finds most integrated care boards have scrapped payments to GPs for prescribing and monitoring the drug Patients who are eligible for potentially life-changing weight-loss injections on the NHS risk missing out after most integrated care boards (ICBs) in England withdrew funding for GP services, an investigation has found. The inquiry, conducted by the GP magazine Pulse, found that 21 of 36 ICBs have scrapped payments to practices for prescribing and monitoring Mounjaro, also known as tirzepatide. A further nine never had a local enhanced service and only four still retain one. Continue reading...",
+        "publishedAt": "2026-11-23T00:01:40.000Z",
         "category": "science",
         "zone": "in"
       }
@@ -2196,13 +2196,13 @@
         "zone": "au"
       },
       {
-        "title": "CEO of funding agency for UK science and research criticised by union over cuts",
-        "url": "https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
+        "title": "Patients may miss out on NHS weight-loss jabs in England after GP funding withdrawn",
+        "url": "https://www.theguardian.com/science/2026/nov/23/patients-miss-out-nhs-weight-loss-mounjaro-gp-funding-withdrawn",
         "source": {
-          "name": "Nicola Davis Science correspondent"
+          "name": "Tobi Thomas Health and inequalities correspondent"
         },
-        "description": "Exclusive: Prospect’s Mike Clancy tells Ian Chapman at UKRI that union has ‘lost confidence’ in his leadership A trade union that counts scientists and engineers among its members says it has lost confidence in the leader of the UK’s national funding agency for science and research, citing concerns about plans for major cuts. The letter from Mike Clancy, the general secretary of Prospect, to Ian Chapman, the chief executive of UK Research and Innovation (UKRI), is the latest development in a row over changes in funding for projects and research facilities. Continue reading...",
-        "publishedAt": "2026-11-22T12:00:28.000Z",
+        "description": "Inquiry finds most integrated care boards have scrapped payments to GPs for prescribing and monitoring the drug Patients who are eligible for potentially life-changing weight-loss injections on the NHS risk missing out after most integrated care boards (ICBs) in England withdrew funding for GP services, an investigation has found. The inquiry, conducted by the GP magazine Pulse, found that 21 of 36 ICBs have scrapped payments to practices for prescribing and monitoring Mounjaro, also known as tirzepatide. A further nine never had a local enhanced service and only four still retain one. Continue reading...",
+        "publishedAt": "2026-11-23T00:01:40.000Z",
         "category": "science",
         "zone": "au"
       }
@@ -2288,13 +2288,13 @@
         "zone": "ca"
       },
       {
-        "title": "CEO of funding agency for UK science and research criticised by union over cuts",
-        "url": "https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
+        "title": "Patients may miss out on NHS weight-loss jabs in England after GP funding withdrawn",
+        "url": "https://www.theguardian.com/science/2026/nov/23/patients-miss-out-nhs-weight-loss-mounjaro-gp-funding-withdrawn",
         "source": {
-          "name": "Nicola Davis Science correspondent"
+          "name": "Tobi Thomas Health and inequalities correspondent"
         },
-        "description": "Exclusive: Prospect’s Mike Clancy tells Ian Chapman at UKRI that union has ‘lost confidence’ in his leadership A trade union that counts scientists and engineers among its members says it has lost confidence in the leader of the UK’s national funding agency for science and research, citing concerns about plans for major cuts. The letter from Mike Clancy, the general secretary of Prospect, to Ian Chapman, the chief executive of UK Research and Innovation (UKRI), is the latest development in a row over changes in funding for projects and research facilities. Continue reading...",
-        "publishedAt": "2026-11-22T12:00:28.000Z",
+        "description": "Inquiry finds most integrated care boards have scrapped payments to GPs for prescribing and monitoring the drug Patients who are eligible for potentially life-changing weight-loss injections on the NHS risk missing out after most integrated care boards (ICBs) in England withdrew funding for GP services, an investigation has found. The inquiry, conducted by the GP magazine Pulse, found that 21 of 36 ICBs have scrapped payments to practices for prescribing and monitoring Mounjaro, also known as tirzepatide. A further nine never had a local enhanced service and only four still retain one. Continue reading...",
+        "publishedAt": "2026-11-23T00:01:40.000Z",
         "category": "science",
         "zone": "ca"
       }
@@ -2314,6 +2314,17 @@
         "zone": "us"
       },
       {
+        "title": "De Villiers claims ball-tampering from first 2018 Test",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c607418zlpz4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Former South Africa batter AB de Villiers says \"there is absolutely no doubt in my mind\" that Australia were altering the ball from the opening Test in 2018.",
+        "publishedAt": "2026-11-23T08:08:13.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
         "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
         "url": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2325,35 +2336,13 @@
         "zone": "us"
       },
       {
-        "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+        "title": "84 days, four titles, one historic feat - Alcaraz's remarkable return",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/crp3e43gvgpwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
-        "publishedAt": "2026-11-22T21:36:00.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Price wins Grand Slam to end wait for major title",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/cklye10j4z1yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Gerwyn Price ends his four-year wait for a major PDC title as he powers to a brilliant 16-11 victory over Gian van Veen in the Grand Slam of Darts final.",
-        "publishedAt": "2026-11-22T21:06:47.000Z",
-        "category": "sports",
-        "zone": "us"
-      },
-      {
-        "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c60evlendg0jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin.",
-        "publishedAt": "2026-11-22T20:15:48.000Z",
+        "description": "Over the past 84 days, Carlos Alcaraz has won four titles, and he beat world number one Alexander Zverev to make history at the ATP Finals on Sunday.",
+        "publishedAt": "2026-11-23T06:08:20.000Z",
         "category": "sports",
         "zone": "us"
       },
@@ -2369,24 +2358,35 @@
         "zone": "us"
       },
       {
-        "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+        "title": "49ers win in Mexico and Bills stay top - NFL week 11",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/c3zxv0nyxl8ro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
-        "publishedAt": "2026-11-22T21:44:37.000Z",
+        "description": "The San Francisco 49ers and Buffalo Bills remain the pacesetters in each conference of the NFL.",
+        "publishedAt": "2026-11-23T07:48:33.000Z",
         "category": "sports",
         "zone": "us"
       },
       {
-        "title": "The red card that changed Liverpool-Man Utd: correct call?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
+        "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c893rk66e1l7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
-        "publishedAt": "2026-11-22T17:55:54.000Z",
+        "description": "The National Women's Soccer League in the USA is booming, so what is it getting right - and what can the Women's Super League learn?",
+        "publishedAt": "2026-11-23T07:52:55.000Z",
+        "category": "sports",
+        "zone": "us"
+      },
+      {
+        "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Sport looks at why JJ Gabriel's move from Manchester United to Real Madrid has caused such a stir.",
+        "publishedAt": "2026-11-23T06:17:59.000Z",
         "category": "sports",
         "zone": "us"
       }
@@ -2406,6 +2406,17 @@
         "zone": "gb"
       },
       {
+        "title": "De Villiers claims ball-tampering from first 2018 Test",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c607418zlpz4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Former South Africa batter AB de Villiers says \"there is absolutely no doubt in my mind\" that Australia were altering the ball from the opening Test in 2018.",
+        "publishedAt": "2026-11-23T08:08:13.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
         "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
         "url": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2417,35 +2428,13 @@
         "zone": "gb"
       },
       {
-        "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+        "title": "84 days, four titles, one historic feat - Alcaraz's remarkable return",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/crp3e43gvgpwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
-        "publishedAt": "2026-11-22T21:36:00.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Price wins Grand Slam to end wait for major title",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/cklye10j4z1yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Gerwyn Price ends his four-year wait for a major PDC title as he powers to a brilliant 16-11 victory over Gian van Veen in the Grand Slam of Darts final.",
-        "publishedAt": "2026-11-22T21:06:47.000Z",
-        "category": "sports",
-        "zone": "gb"
-      },
-      {
-        "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c60evlendg0jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin.",
-        "publishedAt": "2026-11-22T20:15:48.000Z",
+        "description": "Over the past 84 days, Carlos Alcaraz has won four titles, and he beat world number one Alexander Zverev to make history at the ATP Finals on Sunday.",
+        "publishedAt": "2026-11-23T06:08:20.000Z",
         "category": "sports",
         "zone": "gb"
       },
@@ -2461,24 +2450,35 @@
         "zone": "gb"
       },
       {
-        "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+        "title": "49ers win in Mexico and Bills stay top - NFL week 11",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/c3zxv0nyxl8ro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
-        "publishedAt": "2026-11-22T21:44:37.000Z",
+        "description": "The San Francisco 49ers and Buffalo Bills remain the pacesetters in each conference of the NFL.",
+        "publishedAt": "2026-11-23T07:48:33.000Z",
         "category": "sports",
         "zone": "gb"
       },
       {
-        "title": "The red card that changed Liverpool-Man Utd: correct call?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
+        "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c893rk66e1l7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
-        "publishedAt": "2026-11-22T17:55:54.000Z",
+        "description": "The National Women's Soccer League in the USA is booming, so what is it getting right - and what can the Women's Super League learn?",
+        "publishedAt": "2026-11-23T07:52:55.000Z",
+        "category": "sports",
+        "zone": "gb"
+      },
+      {
+        "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Sport looks at why JJ Gabriel's move from Manchester United to Real Madrid has caused such a stir.",
+        "publishedAt": "2026-11-23T06:17:59.000Z",
         "category": "sports",
         "zone": "gb"
       }
@@ -2498,6 +2498,17 @@
         "zone": "in"
       },
       {
+        "title": "De Villiers claims ball-tampering from first 2018 Test",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c607418zlpz4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Former South Africa batter AB de Villiers says \"there is absolutely no doubt in my mind\" that Australia were altering the ball from the opening Test in 2018.",
+        "publishedAt": "2026-11-23T08:08:13.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
         "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
         "url": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2509,35 +2520,13 @@
         "zone": "in"
       },
       {
-        "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+        "title": "84 days, four titles, one historic feat - Alcaraz's remarkable return",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/crp3e43gvgpwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
-        "publishedAt": "2026-11-22T21:36:00.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Price wins Grand Slam to end wait for major title",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/cklye10j4z1yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Gerwyn Price ends his four-year wait for a major PDC title as he powers to a brilliant 16-11 victory over Gian van Veen in the Grand Slam of Darts final.",
-        "publishedAt": "2026-11-22T21:06:47.000Z",
-        "category": "sports",
-        "zone": "in"
-      },
-      {
-        "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c60evlendg0jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin.",
-        "publishedAt": "2026-11-22T20:15:48.000Z",
+        "description": "Over the past 84 days, Carlos Alcaraz has won four titles, and he beat world number one Alexander Zverev to make history at the ATP Finals on Sunday.",
+        "publishedAt": "2026-11-23T06:08:20.000Z",
         "category": "sports",
         "zone": "in"
       },
@@ -2553,24 +2542,35 @@
         "zone": "in"
       },
       {
-        "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+        "title": "49ers win in Mexico and Bills stay top - NFL week 11",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/c3zxv0nyxl8ro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
-        "publishedAt": "2026-11-22T21:44:37.000Z",
+        "description": "The San Francisco 49ers and Buffalo Bills remain the pacesetters in each conference of the NFL.",
+        "publishedAt": "2026-11-23T07:48:33.000Z",
         "category": "sports",
         "zone": "in"
       },
       {
-        "title": "The red card that changed Liverpool-Man Utd: correct call?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
+        "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c893rk66e1l7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
-        "publishedAt": "2026-11-22T17:55:54.000Z",
+        "description": "The National Women's Soccer League in the USA is booming, so what is it getting right - and what can the Women's Super League learn?",
+        "publishedAt": "2026-11-23T07:52:55.000Z",
+        "category": "sports",
+        "zone": "in"
+      },
+      {
+        "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Sport looks at why JJ Gabriel's move from Manchester United to Real Madrid has caused such a stir.",
+        "publishedAt": "2026-11-23T06:17:59.000Z",
         "category": "sports",
         "zone": "in"
       }
@@ -2590,6 +2590,17 @@
         "zone": "au"
       },
       {
+        "title": "De Villiers claims ball-tampering from first 2018 Test",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c607418zlpz4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Former South Africa batter AB de Villiers says \"there is absolutely no doubt in my mind\" that Australia were altering the ball from the opening Test in 2018.",
+        "publishedAt": "2026-11-23T08:08:13.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
         "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
         "url": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2601,35 +2612,13 @@
         "zone": "au"
       },
       {
-        "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+        "title": "84 days, four titles, one historic feat - Alcaraz's remarkable return",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/crp3e43gvgpwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
-        "publishedAt": "2026-11-22T21:36:00.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Price wins Grand Slam to end wait for major title",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/cklye10j4z1yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Gerwyn Price ends his four-year wait for a major PDC title as he powers to a brilliant 16-11 victory over Gian van Veen in the Grand Slam of Darts final.",
-        "publishedAt": "2026-11-22T21:06:47.000Z",
-        "category": "sports",
-        "zone": "au"
-      },
-      {
-        "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c60evlendg0jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin.",
-        "publishedAt": "2026-11-22T20:15:48.000Z",
+        "description": "Over the past 84 days, Carlos Alcaraz has won four titles, and he beat world number one Alexander Zverev to make history at the ATP Finals on Sunday.",
+        "publishedAt": "2026-11-23T06:08:20.000Z",
         "category": "sports",
         "zone": "au"
       },
@@ -2645,24 +2634,35 @@
         "zone": "au"
       },
       {
-        "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+        "title": "49ers win in Mexico and Bills stay top - NFL week 11",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/c3zxv0nyxl8ro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
-        "publishedAt": "2026-11-22T21:44:37.000Z",
+        "description": "The San Francisco 49ers and Buffalo Bills remain the pacesetters in each conference of the NFL.",
+        "publishedAt": "2026-11-23T07:48:33.000Z",
         "category": "sports",
         "zone": "au"
       },
       {
-        "title": "The red card that changed Liverpool-Man Utd: correct call?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
+        "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c893rk66e1l7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
-        "publishedAt": "2026-11-22T17:55:54.000Z",
+        "description": "The National Women's Soccer League in the USA is booming, so what is it getting right - and what can the Women's Super League learn?",
+        "publishedAt": "2026-11-23T07:52:55.000Z",
+        "category": "sports",
+        "zone": "au"
+      },
+      {
+        "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Sport looks at why JJ Gabriel's move from Manchester United to Real Madrid has caused such a stir.",
+        "publishedAt": "2026-11-23T06:17:59.000Z",
         "category": "sports",
         "zone": "au"
       }
@@ -2682,6 +2682,17 @@
         "zone": "ca"
       },
       {
+        "title": "De Villiers claims ball-tampering from first 2018 Test",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c607418zlpz4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "Former South Africa batter AB de Villiers says \"there is absolutely no doubt in my mind\" that Australia were altering the ball from the opening Test in 2018.",
+        "publishedAt": "2026-11-23T08:08:13.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
         "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
         "url": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2693,35 +2704,13 @@
         "zone": "ca"
       },
       {
-        "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+        "title": "84 days, four titles, one historic feat - Alcaraz's remarkable return",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/crp3e43gvgpwo?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
-        "publishedAt": "2026-11-22T21:36:00.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Price wins Grand Slam to end wait for major title",
-        "url": "https://www.bbc.co.uk/sport/darts/articles/cklye10j4z1yo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Gerwyn Price ends his four-year wait for a major PDC title as he powers to a brilliant 16-11 victory over Gian van Veen in the Grand Slam of Darts final.",
-        "publishedAt": "2026-11-22T21:06:47.000Z",
-        "category": "sports",
-        "zone": "ca"
-      },
-      {
-        "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c60evlendg0jo?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin.",
-        "publishedAt": "2026-11-22T20:15:48.000Z",
+        "description": "Over the past 84 days, Carlos Alcaraz has won four titles, and he beat world number one Alexander Zverev to make history at the ATP Finals on Sunday.",
+        "publishedAt": "2026-11-23T06:08:20.000Z",
         "category": "sports",
         "zone": "ca"
       },
@@ -2737,24 +2726,35 @@
         "zone": "ca"
       },
       {
-        "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+        "title": "49ers win in Mexico and Bills stay top - NFL week 11",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/c3zxv0nyxl8ro?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
-        "publishedAt": "2026-11-22T21:44:37.000Z",
+        "description": "The San Francisco 49ers and Buffalo Bills remain the pacesetters in each conference of the NFL.",
+        "publishedAt": "2026-11-23T07:48:33.000Z",
         "category": "sports",
         "zone": "ca"
       },
       {
-        "title": "The red card that changed Liverpool-Man Utd: correct call?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
+        "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c893rk66e1l7o?at_medium=RSS&at_campaign=rss",
         "source": {
           "name": "RSS Feed"
         },
-        "description": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
-        "publishedAt": "2026-11-22T17:55:54.000Z",
+        "description": "The National Women's Soccer League in the USA is booming, so what is it getting right - and what can the Women's Super League learn?",
+        "publishedAt": "2026-11-23T07:52:55.000Z",
+        "category": "sports",
+        "zone": "ca"
+      },
+      {
+        "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "BBC Sport looks at why JJ Gabriel's move from Manchester United to Real Madrid has caused such a stir.",
+        "publishedAt": "2026-11-23T06:17:59.000Z",
         "category": "sports",
         "zone": "ca"
       }
@@ -2763,6 +2763,17 @@
   "technology_us": {
     "articles": [
       {
+        "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+        "publishedAt": "2026-11-23T00:08:00.000Z",
+        "category": "technology",
+        "zone": "us"
+      },
+      {
         "title": "Can AI really help spot Black Friday deals? We put it to the test",
         "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2836,17 +2847,6 @@
         },
         "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
         "publishedAt": "2026-11-20T07:32:19.000Z",
-        "category": "technology",
-        "zone": "us"
-      },
-      {
-        "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-        "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
-        "publishedAt": "2026-11-20T00:02:07.000Z",
         "category": "technology",
         "zone": "us"
       }
@@ -2855,6 +2855,17 @@
   "technology_gb": {
     "articles": [
       {
+        "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+        "publishedAt": "2026-11-23T00:08:00.000Z",
+        "category": "technology",
+        "zone": "gb"
+      },
+      {
         "title": "Can AI really help spot Black Friday deals? We put it to the test",
         "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -2928,17 +2939,6 @@
         },
         "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
         "publishedAt": "2026-11-20T07:32:19.000Z",
-        "category": "technology",
-        "zone": "gb"
-      },
-      {
-        "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-        "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
-        "publishedAt": "2026-11-20T00:02:07.000Z",
         "category": "technology",
         "zone": "gb"
       }
@@ -2947,6 +2947,17 @@
   "technology_in": {
     "articles": [
       {
+        "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+        "publishedAt": "2026-11-23T00:08:00.000Z",
+        "category": "technology",
+        "zone": "in"
+      },
+      {
         "title": "Can AI really help spot Black Friday deals? We put it to the test",
         "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3020,17 +3031,6 @@
         },
         "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
         "publishedAt": "2026-11-20T07:32:19.000Z",
-        "category": "technology",
-        "zone": "in"
-      },
-      {
-        "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-        "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
-        "publishedAt": "2026-11-20T00:02:07.000Z",
         "category": "technology",
         "zone": "in"
       }
@@ -3039,6 +3039,17 @@
   "technology_au": {
     "articles": [
       {
+        "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+        "publishedAt": "2026-11-23T00:08:00.000Z",
+        "category": "technology",
+        "zone": "au"
+      },
+      {
         "title": "Can AI really help spot Black Friday deals? We put it to the test",
         "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3112,17 +3123,6 @@
         },
         "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
         "publishedAt": "2026-11-20T07:32:19.000Z",
-        "category": "technology",
-        "zone": "au"
-      },
-      {
-        "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-        "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
-        "publishedAt": "2026-11-20T00:02:07.000Z",
         "category": "technology",
         "zone": "au"
       }
@@ -3131,6 +3131,17 @@
   "technology_ca": {
     "articles": [
       {
+        "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+        "source": {
+          "name": "RSS Feed"
+        },
+        "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+        "publishedAt": "2026-11-23T00:08:00.000Z",
+        "category": "technology",
+        "zone": "ca"
+      },
+      {
         "title": "Can AI really help spot Black Friday deals? We put it to the test",
         "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
         "source": {
@@ -3204,17 +3215,6 @@
         },
         "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
         "publishedAt": "2026-11-20T07:32:19.000Z",
-        "category": "technology",
-        "zone": "ca"
-      },
-      {
-        "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-        "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-        "source": {
-          "name": "RSS Feed"
-        },
-        "description": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
-        "publishedAt": "2026-11-20T00:02:07.000Z",
         "category": "technology",
         "zone": "ca"
       }
